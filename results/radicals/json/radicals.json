@@ -1,0 +1,10141 @@
+[
+	{
+		"radical": "一",
+		"reading": "いち",
+		"meanings": [
+			"one",
+			"horizontal stroke"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of a one line.",
+		"kanji": [
+			{
+				"kanji": "手",
+				"meanings": [
+					"hand"
+				]
+			},
+			{
+				"kanji": "大",
+				"meanings": [
+					"large"
+				]
+			},
+			{
+				"kanji": "上",
+				"meanings": [
+					"above"
+				]
+			},
+			{
+				"kanji": "事",
+				"meanings": [
+					"occurence"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::1",
+			"used_in_kanji::4"
+		],
+		"id": "85721088",
+		"svg": "04e00.svg"
+	},
+	{
+		"radical": "丨",
+		"reading": "たてぼう",
+		"meanings": [
+			"vertical stroke",
+			"stick"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of a wooden stick.",
+		"kanji": [
+			{
+				"kanji": "中",
+				"meanings": [
+					"in"
+				]
+			},
+			{
+				"kanji": "方",
+				"meanings": [
+					"way"
+				]
+			},
+			{
+				"kanji": "声",
+				"meanings": [
+					"voice"
+				]
+			},
+			{
+				"kanji": "外",
+				"meanings": [
+					"outside"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::1",
+			"used_in_kanji::4"
+		],
+		"id": "85721089",
+		"svg": "04e28.svg"
+	},
+	{
+		"radical": "丶",
+		"reading": "てん",
+		"meanings": [
+			"dot",
+			"droplet"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of a droplet of some kind of a liquid.",
+		"kanji": [
+			{
+				"kanji": "自",
+				"meanings": [
+					"self"
+				]
+			},
+			{
+				"kanji": "以",
+				"meanings": [
+					"by means of"
+				]
+			},
+			{
+				"kanji": "白",
+				"meanings": [
+					"white"
+				]
+			},
+			{
+				"kanji": "主",
+				"meanings": [
+					"(one's) master"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::1",
+			"used_in_kanji::4"
+		],
+		"id": "85721090",
+		"svg": "04e36.svg"
+	},
+	{
+		"radical": "丿",
+		"reading": "の",
+		"meanings": [
+			"diagonal sweeping stroke",
+			"slash left"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of a single slash to the left, probably with some kind of a blade.",
+		"kanji": [
+			{
+				"kanji": "力",
+				"meanings": [
+					"power"
+				]
+			},
+			{
+				"kanji": "少",
+				"meanings": [
+					"few"
+				]
+			},
+			{
+				"kanji": "向",
+				"meanings": [
+					"direction"
+				]
+			},
+			{
+				"kanji": "面",
+				"meanings": [
+					"surface"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::1",
+			"used_in_kanji::4"
+		],
+		"id": "85721091",
+		"svg": "04e3f.svg"
+	},
+	{
+		"radical": "乙",
+		"reading": "おつ",
+		"meanings": [
+			"the second",
+			"latter"
+		],
+		"strokes": "1",
+		"kanji": [
+			{
+				"kanji": "乞",
+				"meanings": [
+					"beg"
+				]
+			}
+		],
+		"tags": [
+			"strokes::1",
+			"used_in_kanji::1"
+		],
+		"id": "85721092",
+		"svg": "04e59.svg"
+	},
+	{
+		"radical": "乚",
+		"reading": "おつ",
+		"meanings": [
+			"the second",
+			"umbrella handle"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of an umbrella handle. It's bent to the right because most people are right-handed, so they hold an umbrella with their right hand.\nDo not confuse with 亅, which is bent to the left.",
+		"kanji": [
+			{
+				"kanji": "俺",
+				"meanings": [
+					"me (manly)"
+				]
+			},
+			{
+				"kanji": "電",
+				"meanings": [
+					"electric"
+				]
+			},
+			{
+				"kanji": "礼",
+				"meanings": [
+					"polite"
+				]
+			},
+			{
+				"kanji": "乱",
+				"meanings": [
+					"chaos"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::1",
+			"used_in_kanji::4"
+		],
+		"id": "85721093"
+	},
+	{
+		"radical": "亅",
+		"reading": "はねぼう",
+		"meanings": [
+			"vertical stroke with a hook",
+			"hook"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of a fishing hook.\nDo not confuse with 乚, which is bent to the right.",
+		"kanji": [
+			{
+				"kanji": "事",
+				"meanings": [
+					"occurence"
+				]
+			},
+			{
+				"kanji": "子",
+				"meanings": [
+					"child"
+				]
+			},
+			{
+				"kanji": "小",
+				"meanings": [
+					"small"
+				]
+			},
+			{
+				"kanji": "水",
+				"meanings": [
+					"water"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::1",
+			"used_in_kanji::4"
+		],
+		"id": "85721094",
+		"svg": "04e85.svg"
+	},
+	{
+		"radical": "二",
+		"reading": "に",
+		"meanings": [
+			"two"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of two lines.",
+		"kanji": [
+			{
+				"kanji": "用",
+				"meanings": [
+					"used for"
+				]
+			},
+			{
+				"kanji": "発",
+				"meanings": [
+					"let out"
+				]
+			},
+			{
+				"kanji": "三",
+				"meanings": [
+					"three"
+				]
+			},
+			{
+				"kanji": "夫",
+				"meanings": [
+					"husband"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721095",
+		"svg": "04e8c.svg"
+	},
+	{
+		"radical": "亠",
+		"reading": "なべぶた",
+		"meanings": [
+			"lid",
+			"top"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a lid. You know, the thing you put on a pot?",
+		"kanji": [
+			{
+				"kanji": "立",
+				"meanings": [
+					"standing up"
+				]
+			},
+			{
+				"kanji": "高",
+				"meanings": [
+					"high"
+				]
+			},
+			{
+				"kanji": "夜",
+				"meanings": [
+					"night"
+				]
+			},
+			{
+				"kanji": "文",
+				"meanings": [
+					"written sentence"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721096",
+		"svg": "04ea0.svg"
+	},
+	{
+		"radical": "人",
+		"reading": "ひと",
+		"meanings": [
+			"person"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a headless, armless person.",
+		"kanji": [
+			{
+				"kanji": "大",
+				"meanings": [
+					"large"
+				]
+			},
+			{
+				"kanji": "全",
+				"meanings": [
+					"whole"
+				]
+			},
+			{
+				"kanji": "会",
+				"meanings": [
+					"meeting"
+				]
+			},
+			{
+				"kanji": "食",
+				"meanings": [
+					"eat"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721097",
+		"svg": "04eba.svg"
+	},
+	{
+		"radical": "亻",
+		"reading": "にんべん",
+		"meanings": [
+			"person",
+			"thin person"
+		],
+		"strokes": "2",
+		"mnemonic": "A variant of 人, which is a character for person. This one is thin, so it's a thin person.",
+		"kanji": [
+			{
+				"kanji": "何",
+				"meanings": [
+					"what"
+				]
+			},
+			{
+				"kanji": "俺",
+				"meanings": [
+					"me (manly)"
+				]
+			},
+			{
+				"kanji": "体",
+				"meanings": [
+					"body"
+				]
+			},
+			{
+				"kanji": "僕",
+				"meanings": [
+					"me (boyish)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721098",
+		"svg": "04ebb.svg"
+	},
+	{
+		"radical": "𠆢",
+		"reading": "ひとやね",
+		"meanings": [
+			"person"
+		],
+		"strokes": "2",
+		"tags": [
+			"strokes::2",
+			"used_in_kanji::0"
+		],
+		"id": "85721099",
+		"svg": "201a2.svg"
+	},
+	{
+		"radical": "儿",
+		"reading": "ひとあし",
+		"meanings": [
+			"human legs",
+			"legs"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a pair of legs.",
+		"kanji": [
+			{
+				"kanji": "見",
+				"meanings": [
+					"see"
+				]
+			},
+			{
+				"kanji": "先",
+				"meanings": [
+					"before (timewise)"
+				]
+			},
+			{
+				"kanji": "発",
+				"meanings": [
+					"let out"
+				]
+			},
+			{
+				"kanji": "兄",
+				"meanings": [
+					"older brother"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721100",
+		"svg": "0513f.svg"
+	},
+	{
+		"radical": "入",
+		"reading": "いる",
+		"meanings": [
+			"to enter",
+			"enter"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a person with one hand over his head pointing to the entrance on the left. Over there, enter over there!",
+		"kanji": [
+			{
+				"kanji": "込",
+				"meanings": [
+					"crowded"
+				]
+			},
+			{
+				"kanji": "瞞",
+				"meanings": [
+					"deception"
+				]
+			},
+			{
+				"kanji": "魎",
+				"meanings": [
+					"spirits of trees and rocks"
+				]
+			},
+			{
+				"kanji": "鳰",
+				"meanings": [
+					"grebe"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721101",
+		"svg": "05165.svg"
+	},
+	{
+		"radical": "八",
+		"reading": "はち",
+		"meanings": [
+			"eight"
+		],
+		"strokes": "2",
+		"kanji": [
+			{
+				"kanji": "曾",
+				"meanings": [
+					"formerly [old]"
+				]
+			},
+			{
+				"kanji": "兌",
+				"meanings": [
+					"convert"
+				]
+			},
+			{
+				"kanji": "叭"
+			},
+			{
+				"kanji": "諡",
+				"meanings": [
+					"posthumous name"
+				]
+			}
+		],
+		"tags": [
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721102",
+		"svg": "0516b.svg"
+	},
+	{
+		"radical": "冂",
+		"reading": "けいがまえ",
+		"meanings": [
+			"to enclose",
+			"upside-down box"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of an upside-down box that someone flipped over.",
+		"kanji": [
+			{
+				"kanji": "向",
+				"meanings": [
+					"direction"
+				]
+			},
+			{
+				"kanji": "同",
+				"meanings": [
+					"same"
+				]
+			},
+			{
+				"kanji": "用",
+				"meanings": [
+					"used for"
+				]
+			},
+			{
+				"kanji": "高",
+				"meanings": [
+					"high"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721103",
+		"svg": "05182.svg"
+	},
+	{
+		"radical": "冖",
+		"reading": "わかんむり",
+		"meanings": [
+			"cover",
+			"crown",
+			"roof without a chimney"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a roof without a chimney.",
+		"kanji": [
+			{
+				"kanji": "学",
+				"meanings": [
+					"study"
+				]
+			},
+			{
+				"kanji": "確",
+				"meanings": [
+					"certain"
+				]
+			},
+			{
+				"kanji": "覚",
+				"meanings": [
+					"awareness"
+				]
+			},
+			{
+				"kanji": "受",
+				"meanings": [
+					"receive"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721104",
+		"svg": "05196.svg"
+	},
+	{
+		"radical": "冫",
+		"reading": "にすい",
+		"meanings": [
+			"ice",
+			"icicles"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of two icicles.",
+		"kanji": [
+			{
+				"kanji": "次",
+				"meanings": [
+					"next"
+				]
+			},
+			{
+				"kanji": "冷",
+				"meanings": [
+					"cold (to the touch)"
+				]
+			},
+			{
+				"kanji": "弱",
+				"meanings": [
+					"weak"
+				]
+			},
+			{
+				"kanji": "凄",
+				"meanings": [
+					"amazing"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721105",
+		"svg": "051ab.svg"
+	},
+	{
+		"radical": "几",
+		"reading": "きにょう",
+		"meanings": [
+			"table",
+			"desk"
+		],
+		"strokes": "2",
+		"mnemonic": "It's a desk with a pair of legs and a countertop.",
+		"kanji": [
+			{
+				"kanji": "風",
+				"meanings": [
+					"wind"
+				]
+			},
+			{
+				"kanji": "処",
+				"meanings": [
+					"dispose of"
+				]
+			},
+			{
+				"kanji": "肌",
+				"meanings": [
+					"skin"
+				]
+			},
+			{
+				"kanji": "冗",
+				"meanings": [
+					"superfluous"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721106",
+		"svg": "051e0.svg"
+	},
+	{
+		"radical": "𠘨",
+		"reading": "かぜかんむり",
+		"meanings": [
+			"wind"
+		],
+		"strokes": "2",
+		"tags": [
+			"strokes::2",
+			"used_in_kanji::0"
+		],
+		"id": "85721107"
+	},
+	{
+		"radical": "凵",
+		"reading": "かんにょう",
+		"meanings": [
+			"container",
+			"open box"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of an open box.",
+		"kanji": [
+			{
+				"kanji": "画",
+				"meanings": [
+					"drawing"
+				]
+			},
+			{
+				"kanji": "揺",
+				"meanings": [
+					"shake"
+				]
+			},
+			{
+				"kanji": "歯",
+				"meanings": [
+					"tooth"
+				]
+			},
+			{
+				"kanji": "凶",
+				"meanings": [
+					"bad luck"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721108",
+		"svg": "051f5.svg"
+	},
+	{
+		"radical": "刀",
+		"reading": "かたな",
+		"meanings": [
+			"knife",
+			"sword",
+			"katana"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a handle of a katana.",
+		"kanji": [
+			{
+				"kanji": "分",
+				"meanings": [
+					"part"
+				]
+			},
+			{
+				"kanji": "切",
+				"meanings": [
+					"cut"
+				]
+			},
+			{
+				"kanji": "解",
+				"meanings": [
+					"unravel"
+				]
+			},
+			{
+				"kanji": "初",
+				"meanings": [
+					"first time"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721109",
+		"svg": "05200.svg"
+	},
+	{
+		"radical": "刂",
+		"reading": "りっとう",
+		"meanings": [
+			"knife",
+			"sword"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a blade of a knife.",
+		"kanji": [
+			{
+				"kanji": "別",
+				"meanings": [
+					"separate"
+				]
+			},
+			{
+				"kanji": "剣",
+				"meanings": [
+					"sword"
+				]
+			},
+			{
+				"kanji": "利",
+				"meanings": [
+					"profit"
+				]
+			},
+			{
+				"kanji": "制",
+				"meanings": [
+					"control"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721110",
+		"svg": "05202.svg"
+	},
+	{
+		"radical": "力",
+		"reading": "ちから",
+		"meanings": [
+			"power"
+		],
+		"strokes": "2",
+		"mnemonic": "You need a lot of power to be able to slash through a clothes hanger.",
+		"kanji": [
+			{
+				"kanji": "動",
+				"meanings": [
+					"move"
+				]
+			},
+			{
+				"kanji": "男",
+				"meanings": [
+					"man"
+				]
+			},
+			{
+				"kanji": "勝",
+				"meanings": [
+					"win"
+				]
+			},
+			{
+				"kanji": "助",
+				"meanings": [
+					"help"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721111",
+		"svg": "0529b.svg"
+	},
+	{
+		"radical": "勹",
+		"reading": "つつみがまえ",
+		"meanings": [
+			"to wrap",
+			"plastic wrapper"
+		],
+		"strokes": "2",
+		"mnemonic": "A translucent plastic wrapper, like the ones used for candy.",
+		"kanji": [
+			{
+				"kanji": "与",
+				"meanings": [
+					"bestow upon"
+				]
+			},
+			{
+				"kanji": "包",
+				"meanings": [
+					"wrap"
+				]
+			},
+			{
+				"kanji": "句",
+				"meanings": [
+					"phrase"
+				]
+			},
+			{
+				"kanji": "匂",
+				"meanings": [
+					"scent"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721112",
+		"svg": "052f9.svg"
+	},
+	{
+		"radical": "匕",
+		"reading": "さじ",
+		"meanings": [
+			"spoon"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a very peculiar spoon. The top part is the handle which you hold, the horizontal stroke is the crossguard (it's a spoon made out of a bent dagger!), and the bottom part is the part which you use to scoop something out with it.",
+		"kanji": [
+			{
+				"kanji": "死",
+				"meanings": [
+					"death"
+				]
+			},
+			{
+				"kanji": "能",
+				"meanings": [
+					"ability"
+				]
+			},
+			{
+				"kanji": "化",
+				"meanings": [
+					"transformation"
+				]
+			},
+			{
+				"kanji": "頃",
+				"meanings": [
+					"around that time"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721113",
+		"svg": "05315.svg"
+	},
+	{
+		"radical": "匚",
+		"reading": "はこがまえ",
+		"meanings": [
+			"box",
+			"box on its side"
+		],
+		"strokes": "2",
+		"kanji": [
+			{
+				"kanji": "医",
+				"meanings": [
+					"medical"
+				]
+			},
+			{
+				"kanji": "区",
+				"meanings": [
+					"district"
+				]
+			},
+			{
+				"kanji": "匠",
+				"meanings": [
+					"craft"
+				]
+			},
+			{
+				"kanji": "匹",
+				"meanings": [
+					"small animal"
+				]
+			}
+		],
+		"tags": [
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721114",
+		"svg": "0531a.svg"
+	},
+	{
+		"radical": "匸",
+		"reading": "かくしがまえ",
+		"meanings": [
+			"to conceal",
+			"hide",
+			"hiding enclosure"
+		],
+		"strokes": "2",
+		"tags": [
+			"strokes::2",
+			"used_in_kanji::0"
+		],
+		"id": "85721115",
+		"svg": "05338.svg"
+	},
+	{
+		"radical": "十",
+		"reading": "じゅう",
+		"meanings": [
+			"ten"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a cross, which signifies the number ten. You know, like the ten commandments?",
+		"kanji": [
+			{
+				"kanji": "真",
+				"meanings": [
+					"truth"
+				]
+			},
+			{
+				"kanji": "直",
+				"meanings": [
+					"straight"
+				]
+			},
+			{
+				"kanji": "士",
+				"meanings": [
+					"professional"
+				]
+			},
+			{
+				"kanji": "早",
+				"meanings": [
+					"early"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721116",
+		"svg": "05341.svg"
+	},
+	{
+		"radical": "卜",
+		"reading": "ぼく",
+		"meanings": [
+			"oracle",
+			"crooked divining rod"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a crooked divining rod, a magical tool used to find ground water, buried metals, ores, gemstones and many other objects and materials without the use of a proper scientific apparatus.\nIt's crooked since it gives slightly... fishy results. Instead of finding precious metals and water it will most likely only find you garbage.\nDo not confuse with ⺊ which is also a divining rod, however that one is straight and this one's not.",
+		"kanji": [
+			{
+				"kanji": "下",
+				"meanings": [
+					"below"
+				]
+			},
+			{
+				"kanji": "掛",
+				"meanings": [
+					"hang"
+				]
+			},
+			{
+				"kanji": "咎",
+				"meanings": [
+					"reprehend"
+				]
+			},
+			{
+				"kanji": "赴",
+				"meanings": [
+					"proceed"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721117",
+		"svg": "0535c.svg"
+	},
+	{
+		"radical": "卩",
+		"reading": "ふしづくり",
+		"meanings": [
+			"stamp",
+			"seal",
+			"crooked seal"
+		],
+		"strokes": "2",
+		"kanji": [
+			{
+				"kanji": "報",
+				"meanings": [
+					"report"
+				]
+			},
+			{
+				"kanji": "服",
+				"meanings": [
+					"clothes"
+				]
+			},
+			{
+				"kanji": "刺",
+				"meanings": [
+					"stab"
+				]
+			},
+			{
+				"kanji": "叩",
+				"meanings": [
+					"hit (with a hand)"
+				]
+			}
+		],
+		"tags": [
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721118",
+		"svg": "05369.svg"
+	},
+	{
+		"radical": "厂",
+		"reading": "がんだれ",
+		"meanings": [
+			"cliff"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a cliff,",
+		"kanji": [
+			{
+				"kanji": "反",
+				"meanings": [
+					"be against"
+				]
+			},
+			{
+				"kanji": "備",
+				"meanings": [
+					"equip"
+				]
+			},
+			{
+				"kanji": "危",
+				"meanings": [
+					"dangerous"
+				]
+			},
+			{
+				"kanji": "原",
+				"meanings": [
+					"original"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721119",
+		"svg": "05382.svg"
+	},
+	{
+		"radical": "厶",
+		"reading": "む",
+		"meanings": [
+			"private",
+			"Katakana Mu",
+			"arm of a bodybuilder"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of an arm of a bodybuilder, full of muscles and ready to arm wrestle.",
+		"kanji": [
+			{
+				"kanji": "私",
+				"meanings": [
+					"private"
+				]
+			},
+			{
+				"kanji": "強",
+				"meanings": [
+					"strong"
+				]
+			},
+			{
+				"kanji": "能",
+				"meanings": [
+					"ability"
+				]
+			},
+			{
+				"kanji": "広",
+				"meanings": [
+					"wide"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721120",
+		"svg": "053b6.svg"
+	},
+	{
+		"radical": "又",
+		"reading": "また",
+		"meanings": [
+			"again",
+			"right hand",
+			"once again"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a proper folding chair. Even after you've used it once you can just fold it back up, and use it once again at a later date. It's reusable!\nDo not confuse with 攵 or 夂.",
+		"kanji": [
+			{
+				"kanji": "度",
+				"meanings": [
+					"degrees"
+				]
+			},
+			{
+				"kanji": "取",
+				"meanings": [
+					"take"
+				]
+			},
+			{
+				"kanji": "受",
+				"meanings": [
+					"receive"
+				]
+			},
+			{
+				"kanji": "反",
+				"meanings": [
+					"be against"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::2",
+			"used_in_kanji::4"
+		],
+		"id": "85721121",
+		"svg": "053c8.svg"
+	},
+	{
+		"radical": "口",
+		"reading": "くち",
+		"meanings": [
+			"mouth"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of an open mouth.",
+		"kanji": [
+			{
+				"kanji": "事",
+				"meanings": [
+					"occurence"
+				]
+			},
+			{
+				"kanji": "中",
+				"meanings": [
+					"in"
+				]
+			},
+			{
+				"kanji": "合",
+				"meanings": [
+					"come together"
+				]
+			},
+			{
+				"kanji": "感",
+				"meanings": [
+					"feelings"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721122",
+		"svg": "053e3.svg"
+	},
+	{
+		"radical": "囗",
+		"reading": "くにがまえ",
+		"meanings": [
+			"border",
+			"territorial boundaries",
+			"closed box"
+		],
+		"strokes": "3",
+		"mnemonic": "Pictograph of a closed box.\nDo not confuse with 口, which is a mouth. These two look very similar, however unlike the mouth the closed box is usually used to enclose something in it.",
+		"kanji": [
+			{
+				"kanji": "回",
+				"meanings": [
+					"going around"
+				]
+			},
+			{
+				"kanji": "国",
+				"meanings": [
+					"country"
+				]
+			},
+			{
+				"kanji": "囲",
+				"meanings": [
+					"surround"
+				]
+			},
+			{
+				"kanji": "四",
+				"meanings": [
+					"four"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721123",
+		"svg": "056d7.svg"
+	},
+	{
+		"radical": "土",
+		"reading": "つち",
+		"meanings": [
+			"earth"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a cross planted into the earth. The lower stroke is longer since it signifies the ground, or the horizon, which infinitely stretches in every direction.\nDo not confuse with 士 where the upper stroke is longer.",
+		"kanji": [
+			{
+				"kanji": "生",
+				"meanings": [
+					"life"
+				]
+			},
+			{
+				"kanji": "場",
+				"meanings": [
+					"location"
+				]
+			},
+			{
+				"kanji": "地",
+				"meanings": [
+					"ground"
+				]
+			},
+			{
+				"kanji": "達",
+				"meanings": [
+					"accomplished"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721124",
+		"svg": "0571f.svg"
+	},
+	{
+		"radical": "士",
+		"reading": "さむらい",
+		"meanings": [
+			"man",
+			"scholar",
+			"samurai",
+			"professional"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a crosshair (the 十 in the middle) attached to a gun (the ー at the bottom) through which a certain kind of a professional looks through to find his target... yes, a professional who kills people for money! An assasin! Perhaps even Leon the Professional!\nDo not confuse with 土 where the upper stroke is shorter.",
+		"kanji": [
+			{
+				"kanji": "声",
+				"meanings": [
+					"voice"
+				]
+			},
+			{
+				"kanji": "仕",
+				"meanings": [
+					"serve"
+				]
+			},
+			{
+				"kanji": "売",
+				"meanings": [
+					"sell"
+				]
+			},
+			{
+				"kanji": "志",
+				"meanings": [
+					"intention"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721125",
+		"svg": "058eb.svg"
+	},
+	{
+		"radical": "夂",
+		"reading": "のまた",
+		"meanings": [
+			"to follow",
+			"late winter"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of an almost complete folding chair. Making folding chairs is a lot of work, so it's going to take until late winter until it's finished!\nDo not confuse with 攵, which depicts an already finished folding chair, hence the second stroke is slightly longer there.",
+		"kanji": [
+			{
+				"kanji": "後",
+				"meanings": [
+					"after"
+				]
+			},
+			{
+				"kanji": "変",
+				"meanings": [
+					"change"
+				]
+			},
+			{
+				"kanji": "愛",
+				"meanings": [
+					"love"
+				]
+			},
+			{
+				"kanji": "夜",
+				"meanings": [
+					"night"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721126",
+		"svg": "05902.svg"
+	},
+	{
+		"radical": "夊",
+		"reading": "なつあし",
+		"meanings": [
+			"to go slowly",
+			"extra delayed"
+		],
+		"strokes": "3",
+		"kanji": [
+			{
+				"kanji": "聰",
+				"meanings": [
+					"wise"
+				]
+			},
+			{
+				"kanji": "窗",
+				"meanings": [
+					"pane"
+				]
+			},
+			{
+				"kanji": "總",
+				"meanings": [
+					"general [old]"
+				]
+			}
+		],
+		"tags": [
+			"strokes::3",
+			"used_in_kanji::3"
+		],
+		"id": "85721127",
+		"svg": "0590a.svg"
+	},
+	{
+		"radical": "夕",
+		"reading": "ゆうべ",
+		"meanings": [
+			"evening",
+			"evening (before sunset)"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a warped reflection of the sun on water, in the evening, right before the sunset.\nDo not confuse with 晩 which is also \"evening\", however it is the part of the evening after the sunset.",
+		"kanji": [
+			{
+				"kanji": "外",
+				"meanings": [
+					"outside"
+				]
+			},
+			{
+				"kanji": "名",
+				"meanings": [
+					"name"
+				]
+			},
+			{
+				"kanji": "多",
+				"meanings": [
+					"many"
+				]
+			},
+			{
+				"kanji": "夢",
+				"meanings": [
+					"dream"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721128",
+		"svg": "05915.svg"
+	},
+	{
+		"radical": "大",
+		"reading": "だい",
+		"meanings": [
+			"large",
+			"big"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a person with their hands stretched out. Why is he doing that? Who knows. He's really large, so it's not like you can do anything about him; he'll beat you up anyway.",
+		"kanji": [
+			{
+				"kanji": "俺",
+				"meanings": [
+					"me (manly)"
+				]
+			},
+			{
+				"kanji": "突",
+				"meanings": [
+					"thrust"
+				]
+			},
+			{
+				"kanji": "戻",
+				"meanings": [
+					"turn back to how it was"
+				]
+			},
+			{
+				"kanji": "美",
+				"meanings": [
+					"beauty"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721129",
+		"svg": "05927.svg"
+	},
+	{
+		"radical": "女",
+		"reading": "おんな",
+		"meanings": [
+			"woman"
+		],
+		"strokes": "3",
+		"mnemonic": "This kanji can be decomposed into three strokes:\n\n\"く\" (\"ku\" in hiragana),\n\"ノ\" (\"no\" in katakana),\n\"一\" (\"ichi\" in kanji),\n\nwhich gives us くノ一 (\"kunoichi\") — a female ninja.",
+		"kanji": [
+			{
+				"kanji": "好",
+				"meanings": [
+					"liked"
+				]
+			},
+			{
+				"kanji": "要",
+				"meanings": [
+					"needed"
+				]
+			},
+			{
+				"kanji": "数",
+				"meanings": [
+					"number"
+				]
+			},
+			{
+				"kanji": "始",
+				"meanings": [
+					"begin"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721130",
+		"svg": "05973.svg"
+	},
+	{
+		"radical": "子",
+		"reading": "こ",
+		"meanings": [
+			"child",
+			"son"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a child. He's wearing a bright red Mario cap, and he has his arms outstretched to give you a hug. So cute!",
+		"kanji": [
+			{
+				"kanji": "学",
+				"meanings": [
+					"study"
+				]
+			},
+			{
+				"kanji": "好",
+				"meanings": [
+					"liked"
+				]
+			},
+			{
+				"kanji": "存",
+				"meanings": [
+					"existence"
+				]
+			},
+			{
+				"kanji": "浮",
+				"meanings": [
+					"float"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721131",
+		"svg": "05b50.svg"
+	},
+	{
+		"radical": "宀",
+		"reading": "うかんむり",
+		"meanings": [
+			"roof",
+			"house",
+			"roof with a chimney"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a roof with a chimney.",
+		"kanji": [
+			{
+				"kanji": "実",
+				"meanings": [
+					"real"
+				]
+			},
+			{
+				"kanji": "家",
+				"meanings": [
+					"house"
+				]
+			},
+			{
+				"kanji": "定",
+				"meanings": [
+					"define"
+				]
+			},
+			{
+				"kanji": "安",
+				"meanings": [
+					"peace of mind"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721132",
+		"svg": "05b80.svg"
+	},
+	{
+		"radical": "寸",
+		"reading": "すん",
+		"meanings": [
+			"inch",
+			"(2.25 cm)",
+			"a few centimeters"
+		],
+		"strokes": "3",
+		"mnemonic": "It only takes one hook clumsily cast during fishing (you know, when you're taking a swing backwards with your fishing rod) to pierce the skin of another nearby fisherman and result in a few droplets of blood and a nasty few centimeters wide gash on his skin.",
+		"kanji": [
+			{
+				"kanji": "付",
+				"meanings": [
+					"attach"
+				]
+			},
+			{
+				"kanji": "対",
+				"meanings": [
+					"opposite"
+				]
+			},
+			{
+				"kanji": "得",
+				"meanings": [
+					"gain"
+				]
+			},
+			{
+				"kanji": "守",
+				"meanings": [
+					"protect"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721133",
+		"svg": "05bf8.svg"
+	},
+	{
+		"radical": "小",
+		"reading": "しょう",
+		"meanings": [
+			"small"
+		],
+		"strokes": "3",
+		"mnemonic": "We see here a pair of short legs and a fishing hook between them. Yes, that must be a pretty small fisherman if his fishing hook is longer than his legs!",
+		"kanji": [
+			{
+				"kanji": "少",
+				"meanings": [
+					"few"
+				]
+			},
+			{
+				"kanji": "原",
+				"meanings": [
+					"original"
+				]
+			},
+			{
+				"kanji": "歳",
+				"meanings": [
+					"years old"
+				]
+			},
+			{
+				"kanji": "京",
+				"meanings": [
+					"capital"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721134",
+		"svg": "05c0f.svg"
+	},
+	{
+		"radical": "⺌",
+		"reading": "しょうかんむり",
+		"meanings": [
+			"small",
+			"rays of light"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of three rays of light.",
+		"kanji": [
+			{
+				"kanji": "当",
+				"meanings": [
+					"hit (the target)"
+				]
+			},
+			{
+				"kanji": "光",
+				"meanings": [
+					"ray"
+				]
+			},
+			{
+				"kanji": "常",
+				"meanings": [
+					"usual"
+				]
+			},
+			{
+				"kanji": "堂",
+				"meanings": [
+					"assembly hall"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721135",
+		"svg": "02e8c.svg"
+	},
+	{
+		"radical": "尢",
+		"reading": "だいのまげあし",
+		"meanings": [
+			"lame leg",
+			"lame"
+		],
+		"strokes": "3",
+		"kanji": [
+			{
+				"kanji": "尤",
+				"meanings": [
+					"plausible"
+				]
+			},
+			{
+				"kanji": "无",
+				"meanings": [
+					"nothing"
+				]
+			}
+		],
+		"tags": [
+			"strokes::3",
+			"used_in_kanji::2"
+		],
+		"id": "85721136",
+		"svg": "05c22.svg"
+	},
+	{
+		"radical": "尸",
+		"reading": "しかばね",
+		"meanings": [
+			"corpse",
+			"awning",
+			"corpse with a flag"
+		],
+		"strokes": "3",
+		"mnemonic": "Imagine a battlefield. A pile of corpses. Everyone's dead. And there is a single flag stuck into the ground among all of those corpses, fluttering in the wind, with one of the corpses still tightly holding onto the flag's pole, even after their death. Yes, a corpse with a flag.",
+		"kanji": [
+			{
+				"kanji": "声",
+				"meanings": [
+					"voice"
+				]
+			},
+			{
+				"kanji": "屋",
+				"meanings": [
+					"roof"
+				]
+			},
+			{
+				"kanji": "殿",
+				"meanings": [
+					"palace"
+				]
+			},
+			{
+				"kanji": "居",
+				"meanings": [
+					"to be (animate object)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721137",
+		"svg": "05c38.svg"
+	},
+	{
+		"radical": "屮",
+		"reading": "くさのめ",
+		"meanings": [
+			"sprout",
+			"a sprout"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a young plant sprout, just starting its life as a plant.",
+		"kanji": [
+			{
+				"kanji": "逆",
+				"meanings": [
+					"reverse"
+				]
+			},
+			{
+				"kanji": "朔",
+				"meanings": [
+					"first day of the month"
+				]
+			},
+			{
+				"kanji": "芻",
+				"meanings": [
+					"hay"
+				]
+			},
+			{
+				"kanji": "闕",
+				"meanings": [
+					"fail"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721138",
+		"svg": "05c6e.svg"
+	},
+	{
+		"radical": "山",
+		"reading": "やま",
+		"meanings": [
+			"mountain"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a mountain.",
+		"kanji": [
+			{
+				"kanji": "出",
+				"meanings": [
+					"exit"
+				]
+			},
+			{
+				"kanji": "両",
+				"meanings": [
+					"both"
+				]
+			},
+			{
+				"kanji": "微",
+				"meanings": [
+					"micro"
+				]
+			},
+			{
+				"kanji": "密",
+				"meanings": [
+					"intimate"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721139",
+		"svg": "05c71.svg"
+	},
+	{
+		"radical": "巛",
+		"reading": "まがりがわ",
+		"meanings": [
+			"winding river",
+			"curving river"
+		],
+		"strokes": "3",
+		"kanji": [
+			{
+				"kanji": "拶",
+				"meanings": [
+					"squeeze fingers"
+				]
+			},
+			{
+				"kanji": "巡",
+				"meanings": [
+					"go around"
+				]
+			},
+			{
+				"kanji": "災",
+				"meanings": [
+					"natural disaster"
+				]
+			},
+			{
+				"kanji": "輜",
+				"meanings": [
+					"wagon"
+				]
+			}
+		],
+		"tags": [
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721140",
+		"svg": "05ddb.svg"
+	},
+	{
+		"radical": "川",
+		"reading": "さんぼんがわ",
+		"meanings": [
+			"river"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a bird's eye view of a river.",
+		"kanji": [
+			{
+				"kanji": "順",
+				"meanings": [
+					"sequence"
+				]
+			},
+			{
+				"kanji": "訓",
+				"meanings": [
+					"instruct"
+				]
+			},
+			{
+				"kanji": "馴",
+				"meanings": [
+					"become used to"
+				]
+			},
+			{
+				"kanji": "州",
+				"meanings": [
+					"state"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721141",
+		"svg": "05ddd.svg"
+	},
+	{
+		"radical": "工",
+		"reading": "たくみ",
+		"meanings": [
+			"work",
+			"carpenter",
+			"skill",
+			"construction"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a steel I-beam used during construction.",
+		"kanji": [
+			{
+				"kanji": "空",
+				"meanings": [
+					"empty air"
+				]
+			},
+			{
+				"kanji": "差",
+				"meanings": [
+					"difference"
+				]
+			},
+			{
+				"kanji": "攻",
+				"meanings": [
+					"attack"
+				]
+			},
+			{
+				"kanji": "恐",
+				"meanings": [
+					"fear"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721142",
+		"svg": "05de5.svg"
+	},
+	{
+		"radical": "己",
+		"reading": "おのれ",
+		"meanings": [
+			"self",
+			"oneself"
+		],
+		"strokes": "3",
+		"mnemonic": "The letter S stands for \"self\", and I made it personal for oneself by flipping it!",
+		"kanji": [
+			{
+				"kanji": "起",
+				"meanings": [
+					"to occur"
+				]
+			},
+			{
+				"kanji": "配",
+				"meanings": [
+					"hand out"
+				]
+			},
+			{
+				"kanji": "記",
+				"meanings": [
+					"regularly record"
+				]
+			},
+			{
+				"kanji": "巻",
+				"meanings": [
+					"scroll"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721143",
+		"svg": "05df1.svg"
+	},
+	{
+		"radical": "巾",
+		"reading": "はば",
+		"meanings": [
+			"cloth",
+			"piece of fabric"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a piece of fabric punctured by a stick.",
+		"kanji": [
+			{
+				"kanji": "常",
+				"meanings": [
+					"usual"
+				]
+			},
+			{
+				"kanji": "師",
+				"meanings": [
+					"mentor"
+				]
+			},
+			{
+				"kanji": "帝",
+				"meanings": [
+					"emperor"
+				]
+			},
+			{
+				"kanji": "席",
+				"meanings": [
+					"seat"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721144",
+		"svg": "05dfe.svg"
+	},
+	{
+		"radical": "干",
+		"reading": "かん",
+		"meanings": [
+			"to dry",
+			"shield",
+			"left to dry"
+		],
+		"strokes": "3",
+		"mnemonic": "Two sticks can be used to make a clothes stand where clothes can be left to dry.",
+		"kanji": [
+			{
+				"kanji": "平",
+				"meanings": [
+					"flat"
+				]
+			},
+			{
+				"kanji": "揺",
+				"meanings": [
+					"shake"
+				]
+			},
+			{
+				"kanji": "南",
+				"meanings": [
+					"south"
+				]
+			},
+			{
+				"kanji": "汗",
+				"meanings": [
+					"sweat"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721145",
+		"svg": "05e72.svg"
+	},
+	{
+		"radical": "幺",
+		"reading": "いとがしら",
+		"meanings": [
+			"young",
+			"slight",
+			"thread spool"
+		],
+		"strokes": "3",
+		"mnemonic": "A stylized pictograph of a thread spool used for sewing.",
+		"kanji": [
+			{
+				"kanji": "後",
+				"meanings": [
+					"after"
+				]
+			},
+			{
+				"kanji": "幼",
+				"meanings": [
+					"very young"
+				]
+			},
+			{
+				"kanji": "幾",
+				"meanings": [
+					"how many"
+				]
+			},
+			{
+				"kanji": "幻",
+				"meanings": [
+					"illusion"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721146",
+		"svg": "05e7a.svg"
+	},
+	{
+		"radical": "广",
+		"reading": "まだれ",
+		"meanings": [
+			"slanting roof",
+			"house on a cliff"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a house on a cliff.",
+		"kanji": [
+			{
+				"kanji": "度",
+				"meanings": [
+					"degrees"
+				]
+			},
+			{
+				"kanji": "応",
+				"meanings": [
+					"respond with action"
+				]
+			},
+			{
+				"kanji": "店",
+				"meanings": [
+					"shop"
+				]
+			},
+			{
+				"kanji": "座",
+				"meanings": [
+					"to sit"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721147",
+		"svg": "05e7f.svg"
+	},
+	{
+		"radical": "廴",
+		"reading": "えんにょう",
+		"meanings": [
+			"to move",
+			"stretch",
+			"long stride"
+		],
+		"strokes": "3",
+		"kanji": [
+			{
+				"kanji": "建",
+				"meanings": [
+					"build"
+				]
+			},
+			{
+				"kanji": "延",
+				"meanings": [
+					"prolong"
+				]
+			},
+			{
+				"kanji": "廷",
+				"meanings": [
+					"court"
+				]
+			},
+			{
+				"kanji": "廻",
+				"meanings": [
+					"going around (old)"
+				]
+			}
+		],
+		"tags": [
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721148",
+		"svg": "05ef4.svg"
+	},
+	{
+		"radical": "廾",
+		"reading": "にじゅうあし",
+		"meanings": [
+			"folded hands",
+			"both hands"
+		],
+		"strokes": "3",
+		"mnemonic": "A simplified pictograph of both hands.\nA long time ago this character actually looked like a drawing of two hands.",
+		"kanji": [
+			{
+				"kanji": "弁",
+				"meanings": [
+					"dialect"
+				]
+			},
+			{
+				"kanji": "鼻",
+				"meanings": [
+					"nose"
+				]
+			},
+			{
+				"kanji": "算",
+				"meanings": [
+					"calculate"
+				]
+			},
+			{
+				"kanji": "戒",
+				"meanings": [
+					"commandment"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721149",
+		"svg": "05efe.svg"
+	},
+	{
+		"radical": "弋",
+		"reading": "いぐるみ",
+		"meanings": [
+			"javelin",
+			"shoot with a bow"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a bowstring (the vertical line) being drawn with an arrow (the horizontal line), and with a droplet of sweat, perhaps from the person who's drawing the bow. Shoot with a bow!",
+		"kanji": [
+			{
+				"kanji": "代",
+				"meanings": [
+					"substitute"
+				]
+			},
+			{
+				"kanji": "武",
+				"meanings": [
+					"military"
+				]
+			},
+			{
+				"kanji": "式",
+				"meanings": [
+					"ceremony"
+				]
+			},
+			{
+				"kanji": "弐",
+				"meanings": [
+					"two (formal)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721150",
+		"svg": "05f0b.svg"
+	},
+	{
+		"radical": "弓",
+		"reading": "ゆみ",
+		"meanings": [
+			"bow （in archery）",
+			"bow (weapon)"
+		],
+		"strokes": "3",
+		"mnemonic": "A stylized pictograph of a bow.",
+		"kanji": [
+			{
+				"kanji": "強",
+				"meanings": [
+					"strong"
+				]
+			},
+			{
+				"kanji": "引",
+				"meanings": [
+					"pull"
+				]
+			},
+			{
+				"kanji": "張",
+				"meanings": [
+					"lengthen"
+				]
+			},
+			{
+				"kanji": "弾",
+				"meanings": [
+					"bullet"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721151",
+		"svg": "05f13.svg"
+	},
+	{
+		"radical": "彐",
+		"reading": "けいがしら",
+		"meanings": [
+			"pig’s head",
+			"partially buried broken trident"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a sideways partially buried broken trident, a three-pronged spear used by the God of the Sea, Poseidon. It's leftmost prong is buried in the ground.\nNot to be confused with ヨ, which isn't partially buried.",
+		"kanji": [
+			{
+				"kanji": "縁",
+				"meanings": [
+					"connected by fate"
+				]
+			},
+			{
+				"kanji": "録",
+				"meanings": [
+					"record on something"
+				]
+			},
+			{
+				"kanji": "緑",
+				"meanings": [
+					"green"
+				]
+			},
+			{
+				"kanji": "剥",
+				"meanings": [
+					"peel off"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721152",
+		"svg": "05f50.svg"
+	},
+	{
+		"radical": "⺕",
+		"reading": "けいがしら",
+		"meanings": [
+			"pig’s head",
+			"sideways trident"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a trident, a three-pronged spear used by the God of the Sea, Poseidon.",
+		"kanji": [
+			{
+				"kanji": "事",
+				"meanings": [
+					"occurence"
+				]
+			},
+			{
+				"kanji": "争",
+				"meanings": [
+					"conflict"
+				]
+			},
+			{
+				"kanji": "妻",
+				"meanings": [
+					"wife"
+				]
+			},
+			{
+				"kanji": "隷",
+				"meanings": [
+					"slave"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721153",
+		"svg": "02e95.svg"
+	},
+	{
+		"radical": "彑",
+		"reading": "けいがしら",
+		"meanings": [
+			"pig’s head",
+			"pig's head on a stick"
+		],
+		"strokes": "3",
+		"mnemonic": "A pig's head attached to a stick which is protruding from the ground.",
+		"kanji": [
+			{
+				"kanji": "互",
+				"meanings": [
+					"mutual"
+				]
+			},
+			{
+				"kanji": "剝"
+			},
+			{
+				"kanji": "碌",
+				"meanings": [
+					"satisfactory"
+				]
+			},
+			{
+				"kanji": "彙",
+				"meanings": [
+					"glossary"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721154",
+		"svg": "05f51.svg"
+	},
+	{
+		"radical": "彡",
+		"reading": "さんづくり",
+		"meanings": [
+			"hair-style",
+			"light rays",
+			"a patch of hair"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a patch of hair.",
+		"kanji": [
+			{
+				"kanji": "形",
+				"meanings": [
+					"shape"
+				]
+			},
+			{
+				"kanji": "影",
+				"meanings": [
+					"shadow"
+				]
+			},
+			{
+				"kanji": "参",
+				"meanings": [
+					"admit defeat"
+				]
+			},
+			{
+				"kanji": "修",
+				"meanings": [
+					"discipline (of study)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721155",
+		"svg": "05f61.svg"
+	},
+	{
+		"radical": "彳",
+		"reading": "ぎょうにんべん",
+		"meanings": [
+			"step",
+			"stride",
+			"street",
+			"to go",
+			"stand still"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a thin person who is standing still under a teeny-weeny roof. Why? It's raining outside. If he moves even a little bit he'll get wet. And he really doesn't want to get wet. So he's standing really still.",
+		"kanji": [
+			{
+				"kanji": "行",
+				"meanings": [
+					"go"
+				]
+			},
+			{
+				"kanji": "彼",
+				"meanings": [
+					"he"
+				]
+			},
+			{
+				"kanji": "後",
+				"meanings": [
+					"after"
+				]
+			},
+			{
+				"kanji": "待",
+				"meanings": [
+					"wait"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721156",
+		"svg": "05f73.svg"
+	},
+	{
+		"radical": "艹",
+		"reading": "くさかんむり",
+		"meanings": [
+			"grass",
+			"blades of grass"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of blades of grass, with the horizontal line being the ground, and the upper part of the vertical lines being the grass, and the lower part being the grass' roots.",
+		"kanji": [
+			{
+				"kanji": "葉",
+				"meanings": [
+					"leaf"
+				]
+			},
+			{
+				"kanji": "落",
+				"meanings": [
+					"fall down"
+				]
+			},
+			{
+				"kanji": "苦",
+				"meanings": [
+					"suffering"
+				]
+			},
+			{
+				"kanji": "備",
+				"meanings": [
+					"equip"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721157",
+		"svg": "08279.svg"
+	},
+	{
+		"radical": "辶",
+		"reading": "しんにょう",
+		"meanings": [
+			"road",
+			"walk",
+			"to advance",
+			"walking on a road"
+		],
+		"strokes": "3",
+		"kanji": [
+			{
+				"kanji": "這",
+				"meanings": [
+					"crawl"
+				]
+			},
+			{
+				"kanji": "辿",
+				"meanings": [
+					"track down"
+				]
+			},
+			{
+				"kanji": "逢",
+				"meanings": [
+					"meet face-to-face"
+				]
+			},
+			{
+				"kanji": "迂",
+				"meanings": [
+					"detour"
+				]
+			}
+		],
+		"tags": [
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721158",
+		"svg": "08fb6.svg"
+	},
+	{
+		"radical": "阝",
+		"reading": "おおざと",
+		"meanings": [
+			"village",
+			"country",
+			"city",
+			"small village"
+		],
+		"strokes": "3",
+		"mnemonic": "It's the letter \"B\", short for a \"building\". A small village is not going to have too many buildings. If it's really small then perhaps in only has one building, THE building where everyone in the village gathers to socialize.",
+		"kanji": [
+			{
+				"kanji": "部",
+				"meanings": [
+					"section"
+				]
+			},
+			{
+				"kanji": "限",
+				"meanings": [
+					"limit"
+				]
+			},
+			{
+				"kanji": "険",
+				"meanings": [
+					"risky and steep"
+				]
+			},
+			{
+				"kanji": "隊",
+				"meanings": [
+					"squad"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721159",
+		"svg": "0961d.svg"
+	},
+	{
+		"radical": "阝",
+		"reading": "こざとへん",
+		"meanings": [
+			"hill",
+			"mound",
+			"small village"
+		],
+		"strokes": "3",
+		"mnemonic": "It's the letter \"B\", short for a \"building\". A small village is not going to have too many buildings. If it's really small then perhaps in only has one building, THE building where everyone in the village gathers to socialize.",
+		"kanji": [
+			{
+				"kanji": "部",
+				"meanings": [
+					"section"
+				]
+			},
+			{
+				"kanji": "限",
+				"meanings": [
+					"limit"
+				]
+			},
+			{
+				"kanji": "険",
+				"meanings": [
+					"risky and steep"
+				]
+			},
+			{
+				"kanji": "隊",
+				"meanings": [
+					"squad"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721160",
+		"svg": "0961d.svg"
+	},
+	{
+		"radical": "𭕄",
+		"reading": "つ",
+		"meanings": [
+			"Katakana Tsu",
+			"tiny hairs"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a bunch of tiny hairs.",
+		"kanji": [
+			{
+				"kanji": "学",
+				"meanings": [
+					"study"
+				]
+			},
+			{
+				"kanji": "覚",
+				"meanings": [
+					"awareness"
+				]
+			},
+			{
+				"kanji": "単",
+				"meanings": [
+					"single"
+				]
+			},
+			{
+				"kanji": "獣",
+				"meanings": [
+					"beast"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721161"
+	},
+	{
+		"radical": "忄",
+		"reading": "りっしんべん",
+		"meanings": [
+			"heart",
+			"mind",
+			"spirit",
+			"weak heart"
+		],
+		"strokes": "3",
+		"mnemonic": "A variant of 心, which is a character for heart, so it's a weak heart, since it's so thin.",
+		"kanji": [
+			{
+				"kanji": "情",
+				"meanings": [
+					"emotion"
+				]
+			},
+			{
+				"kanji": "性",
+				"meanings": [
+					"nature (of a person)"
+				]
+			},
+			{
+				"kanji": "怖",
+				"meanings": [
+					"scary"
+				]
+			},
+			{
+				"kanji": "怪",
+				"meanings": [
+					"suspicious"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721162",
+		"svg": "05fc4.svg"
+	},
+	{
+		"radical": "扌",
+		"reading": "てへん",
+		"meanings": [
+			"hand",
+			"left hand"
+		],
+		"strokes": "3",
+		"mnemonic": "A variant of 手, which is a character for hand. This one always appears on the left of every kanji in which it's in, so it's a left hand.",
+		"kanji": [
+			{
+				"kanji": "持",
+				"meanings": [
+					"have"
+				]
+			},
+			{
+				"kanji": "指",
+				"meanings": [
+					"finger"
+				]
+			},
+			{
+				"kanji": "振",
+				"meanings": [
+					"to wave"
+				]
+			},
+			{
+				"kanji": "抜",
+				"meanings": [
+					"pull out"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721163",
+		"svg": "0624c.svg"
+	},
+	{
+		"radical": "氵",
+		"reading": "さんずい",
+		"meanings": [
+			"water",
+			"water drops"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of three water drops.",
+		"kanji": [
+			{
+				"kanji": "法",
+				"meanings": [
+					"law"
+				]
+			},
+			{
+				"kanji": "落",
+				"meanings": [
+					"fall down"
+				]
+			},
+			{
+				"kanji": "決",
+				"meanings": [
+					"decide"
+				]
+			},
+			{
+				"kanji": "流",
+				"meanings": [
+					"current (in a fluid)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721164",
+		"svg": "06c35.svg"
+	},
+	{
+		"radical": "犭",
+		"reading": "けものへん",
+		"meanings": [
+			"beast",
+			"animal"
+		],
+		"strokes": "3",
+		"kanji": [
+			{
+				"kanji": "犯",
+				"meanings": [
+					"perpetrator"
+				]
+			},
+			{
+				"kanji": "独",
+				"meanings": [
+					"alone"
+				]
+			},
+			{
+				"kanji": "狙",
+				"meanings": [
+					"aim at"
+				]
+			},
+			{
+				"kanji": "猫",
+				"meanings": [
+					"cat"
+				]
+			}
+		],
+		"tags": [
+			"strokes::3",
+			"used_in_kanji::4"
+		],
+		"id": "85721165",
+		"svg": "072ad.svg"
+	},
+	{
+		"radical": "心",
+		"reading": "こころ",
+		"meanings": [
+			"heart",
+			"mind",
+			"spirit"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a heart.",
+		"kanji": [
+			{
+				"kanji": "思",
+				"meanings": [
+					"think (that something is true)"
+				]
+			},
+			{
+				"kanji": "感",
+				"meanings": [
+					"feelings"
+				]
+			},
+			{
+				"kanji": "意",
+				"meanings": [
+					"idea"
+				]
+			},
+			{
+				"kanji": "悪",
+				"meanings": [
+					"bad"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721166",
+		"svg": "05fc3.svg"
+	},
+	{
+		"radical": "㣺",
+		"reading": "したごころ",
+		"meanings": [
+			"heart",
+			"mind",
+			"spirit"
+		],
+		"strokes": "4",
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::0"
+		],
+		"id": "85721167"
+	},
+	{
+		"radical": "戈",
+		"reading": "ほこ",
+		"meanings": [
+			"spear",
+			"weapon",
+			"dagger-axe"
+		],
+		"strokes": "4",
+		"mnemonic": "If someone is trying to shoot you with a bow then you can slash them to the left with your dagger-axe, a type of a halberd-like weapon used in ancient China.",
+		"kanji": [
+			{
+				"kanji": "戦",
+				"meanings": [
+					"war"
+				]
+			},
+			{
+				"kanji": "我",
+				"meanings": [
+					"me (old fashioned)"
+				]
+			},
+			{
+				"kanji": "幾",
+				"meanings": [
+					"how many"
+				]
+			},
+			{
+				"kanji": "戒",
+				"meanings": [
+					"commandment"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721168",
+		"svg": "06208.svg"
+	},
+	{
+		"radical": "戶",
+		"reading": "と",
+		"meanings": [
+			"door"
+		],
+		"strokes": "4",
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::0"
+		],
+		"id": "85721169"
+	},
+	{
+		"radical": "手",
+		"reading": "て",
+		"meanings": [
+			"hand"
+		],
+		"strokes": "4",
+		"mnemonic": "A human hand is truly a magnificent body part; it's definitely useful for at least a thousand and one different things!",
+		"kanji": [
+			{
+				"kanji": "撃",
+				"meanings": [
+					"fire a gun"
+				]
+			},
+			{
+				"kanji": "我",
+				"meanings": [
+					"me (old fashioned)"
+				]
+			},
+			{
+				"kanji": "拳",
+				"meanings": [
+					"fist"
+				]
+			},
+			{
+				"kanji": "挙",
+				"meanings": [
+					"raise and present"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721170",
+		"svg": "0624b.svg"
+	},
+	{
+		"radical": "支",
+		"reading": "しにょう",
+		"meanings": [
+			"branch",
+			"support"
+		],
+		"strokes": "4",
+		"mnemonic": "Once again it's the tenth (day of the month); I need to support my child with alimony.",
+		"kanji": [
+			{
+				"kanji": "技",
+				"meanings": [
+					"skill"
+				]
+			},
+			{
+				"kanji": "皮",
+				"meanings": [
+					"skin (of an animal or a plant)"
+				]
+			},
+			{
+				"kanji": "枝",
+				"meanings": [
+					"branch"
+				]
+			},
+			{
+				"kanji": "鼓",
+				"meanings": [
+					"drum"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721171",
+		"svg": "0652f.svg"
+	},
+	{
+		"radical": "攴",
+		"reading": "ぼくづくり",
+		"meanings": [
+			"activity",
+			"to strike",
+			"hit",
+			"hit with a rod"
+		],
+		"strokes": "4",
+		"kanji": [
+			{
+				"kanji": "寇",
+				"meanings": [
+					"bandits"
+				]
+			},
+			{
+				"kanji": "敲"
+			},
+			{
+				"kanji": "冦",
+				"meanings": [
+					"feud"
+				]
+			}
+		],
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::3"
+		],
+		"id": "85721172",
+		"svg": "06534.svg"
+	},
+	{
+		"radical": "攵",
+		"reading": "ぼくづくり",
+		"meanings": [
+			"activity",
+			"to strike",
+			"hit",
+			"folding chair"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a folding chair, with an extra handle on the left onto which you can hold on to. You know, in case of earthquakes, so that you don't fall off? After all it's a Japanese folding chair and they do have earthquakes there.\nDo not confuse with 夂, where the second stroke is slightly shorter.",
+		"kanji": [
+			{
+				"kanji": "教",
+				"meanings": [
+					"teach"
+				]
+			},
+			{
+				"kanji": "数",
+				"meanings": [
+					"number"
+				]
+			},
+			{
+				"kanji": "放",
+				"meanings": [
+					"release"
+				]
+			},
+			{
+				"kanji": "敵",
+				"meanings": [
+					"enemy"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721173",
+		"svg": "06535.svg"
+	},
+	{
+		"radical": "文",
+		"reading": "ぶん",
+		"meanings": [
+			"literature",
+			"letters",
+			"written sentence"
+		],
+		"strokes": "4",
+		"mnemonic": "You have homework to do. You need to write an essay — a bunch of sentences strung together into one coherent story. But you don't have anything to sit on... Your only folding chair broke, and you only have the folding chair legs... Hey, I know! Just put a lid on it and you should be able to sit down! Yeah, the handle of the lid might might be a little bit uncomfortable when you sit on it, but what else can do you?",
+		"kanji": [
+			{
+				"kanji": "対",
+				"meanings": [
+					"opposite"
+				]
+			},
+			{
+				"kanji": "紋",
+				"meanings": [
+					"crest (often of a family)"
+				]
+			},
+			{
+				"kanji": "斉",
+				"meanings": [
+					"simultaneously"
+				]
+			},
+			{
+				"kanji": "斐",
+				"meanings": [
+					"symmetrically patterned"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721174",
+		"svg": "06587.svg"
+	},
+	{
+		"radical": "斗",
+		"reading": "ますづくり",
+		"meanings": [
+			"big dipper",
+			"ladle",
+			"18 liters",
+			"18 litres"
+		],
+		"strokes": "4",
+		"mnemonic": "Those two drops are certainly going to flow to the left because of the slope. Perhaps it leads to an 18 liter container.",
+		"kanji": [
+			{
+				"kanji": "料",
+				"meanings": [
+					"ingredients"
+				]
+			},
+			{
+				"kanji": "科",
+				"meanings": [
+					"department"
+				]
+			},
+			{
+				"kanji": "斜",
+				"meanings": [
+					"diagonal"
+				]
+			},
+			{
+				"kanji": "魁",
+				"meanings": [
+					"pioneer"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721175",
+		"svg": "06597.svg"
+	},
+	{
+		"radical": "斤",
+		"reading": "おのづくり",
+		"meanings": [
+			"axe"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of an axe. The top part is the handle, and the bottom part is the blade.",
+		"kanji": [
+			{
+				"kanji": "所",
+				"meanings": [
+					"place"
+				]
+			},
+			{
+				"kanji": "近",
+				"meanings": [
+					"near"
+				]
+			},
+			{
+				"kanji": "新",
+				"meanings": [
+					"new"
+				]
+			},
+			{
+				"kanji": "断",
+				"meanings": [
+					"be cut off"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721176",
+		"svg": "065a4.svg"
+	},
+	{
+		"radical": "方",
+		"reading": "ほう",
+		"meanings": [
+			"direction",
+			"flag",
+			"way"
+		],
+		"strokes": "4",
+		"mnemonic": "How did primitive humans mark the way to go? They didn't have language, so they couldn't speak, and they couldn't write. They used sticks! Ten thousand of them to be exact. Just drop a stick every few steps, and everyone will know the way to go!",
+		"kanji": [
+			{
+				"kanji": "族",
+				"meanings": [
+					"tribe"
+				]
+			},
+			{
+				"kanji": "放",
+				"meanings": [
+					"release"
+				]
+			},
+			{
+				"kanji": "激",
+				"meanings": [
+					"intense"
+				]
+			},
+			{
+				"kanji": "遊",
+				"meanings": [
+					"play"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721177",
+		"svg": "065b9.svg"
+	},
+	{
+		"radical": "无",
+		"reading": "むにょう",
+		"meanings": [
+			"not",
+			"nothing"
+		],
+		"strokes": "4",
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::0"
+		],
+		"id": "85721178",
+		"svg": "065e0.svg"
+	},
+	{
+		"radical": "日",
+		"reading": "ひ",
+		"meanings": [
+			"sun",
+			"day",
+			"time"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a sun, which makes a day.\nIn the ancient times this character was once written as a circle with a dot inside, but over time it became rectangular and the dot in the middle morphed into a line.",
+		"kanji": [
+			{
+				"kanji": "俺",
+				"meanings": [
+					"me (manly)"
+				]
+			},
+			{
+				"kanji": "間",
+				"meanings": [
+					"interval"
+				]
+			},
+			{
+				"kanji": "時",
+				"meanings": [
+					"time"
+				]
+			},
+			{
+				"kanji": "者",
+				"meanings": [
+					"someone"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721179",
+		"svg": "065e5.svg"
+	},
+	{
+		"radical": "曰",
+		"reading": "ひらび",
+		"meanings": [
+			"to say",
+			"sayeth"
+		],
+		"strokes": "4",
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::0"
+		],
+		"id": "85721180",
+		"svg": "066f0.svg"
+	},
+	{
+		"radical": "月",
+		"reading": "つき",
+		"meanings": [
+			"moon",
+			"month",
+			"period"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a moon, whose full cycle takes approximately a month.\nIn the ancient times this character looked more like a crescent moon, but over time it morphed into being drawn like this.",
+		"kanji": [
+			{
+				"kanji": "明",
+				"meanings": [
+					"bright"
+				]
+			},
+			{
+				"kanji": "然",
+				"meanings": [
+					"sort of thing"
+				]
+			},
+			{
+				"kanji": "能",
+				"meanings": [
+					"ability"
+				]
+			},
+			{
+				"kanji": "勝",
+				"meanings": [
+					"win"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721181",
+		"svg": "06708.svg"
+	},
+	{
+		"radical": "月",
+		"reading": "つきへん",
+		"meanings": [
+			"moon",
+			"month",
+			"period"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a moon, whose full cycle takes approximately a month.\nIn the ancient times this character looked more like a crescent moon, but over time it morphed into being drawn like this.",
+		"kanji": [
+			{
+				"kanji": "明",
+				"meanings": [
+					"bright"
+				]
+			},
+			{
+				"kanji": "然",
+				"meanings": [
+					"sort of thing"
+				]
+			},
+			{
+				"kanji": "能",
+				"meanings": [
+					"ability"
+				]
+			},
+			{
+				"kanji": "勝",
+				"meanings": [
+					"win"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721182",
+		"svg": "06708.svg"
+	},
+	{
+		"radical": "木",
+		"reading": "き",
+		"meanings": [
+			"tree",
+			"wood"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a tree, any kind of a tree.",
+		"kanji": [
+			{
+				"kanji": "様",
+				"meanings": [
+					"-sama"
+				]
+			},
+			{
+				"kanji": "本",
+				"meanings": [
+					"book"
+				]
+			},
+			{
+				"kanji": "相",
+				"meanings": [
+					"towards each other"
+				]
+			},
+			{
+				"kanji": "殺",
+				"meanings": [
+					"kill"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721183",
+		"svg": "06728.svg"
+	},
+	{
+		"radical": "欠",
+		"reading": "あくび",
+		"meanings": [
+			"to lack",
+			"yawn",
+			"lack of"
+		],
+		"strokes": "4",
+		"mnemonic": "This person has a hook claw instead of a head. Normal people need a head, but this is a zombie, so the lack of a head doesn't bother it in the slightest.",
+		"kanji": [
+			{
+				"kanji": "次",
+				"meanings": [
+					"next"
+				]
+			},
+			{
+				"kanji": "欲",
+				"meanings": [
+					"desire"
+				]
+			},
+			{
+				"kanji": "飲",
+				"meanings": [
+					"drink"
+				]
+			},
+			{
+				"kanji": "吹",
+				"meanings": [
+					"blow"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721184",
+		"svg": "06b20.svg"
+	},
+	{
+		"radical": "止",
+		"reading": "とめる",
+		"meanings": [
+			"to stop",
+			"stop"
+		],
+		"strokes": "4",
+		"mnemonic": "If you encounter a giant stick stuck above the ground you'll surely have to stop or you'll crash into it.",
+		"kanji": [
+			{
+				"kanji": "正",
+				"meanings": [
+					"correct"
+				]
+			},
+			{
+				"kanji": "歩",
+				"meanings": [
+					"walk"
+				]
+			},
+			{
+				"kanji": "武",
+				"meanings": [
+					"military"
+				]
+			},
+			{
+				"kanji": "歳",
+				"meanings": [
+					"years old"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721185",
+		"svg": "06b62.svg"
+	},
+	{
+		"radical": "歹",
+		"reading": "がつ",
+		"meanings": [
+			"death & dying",
+			"to decompose",
+			"bone remains"
+		],
+		"strokes": "4",
+		"mnemonic": "A bunch of bone remains which were stripped of flesh a long time ago, with one bone especially glistening in the evening sunset.",
+		"kanji": [
+			{
+				"kanji": "死",
+				"meanings": [
+					"death"
+				]
+			},
+			{
+				"kanji": "残",
+				"meanings": [
+					"left behind"
+				]
+			},
+			{
+				"kanji": "列",
+				"meanings": [
+					"row"
+				]
+			},
+			{
+				"kanji": "殊",
+				"meanings": [
+					"especially"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721186",
+		"svg": "06b79.svg"
+	},
+	{
+		"radical": "殳",
+		"reading": "るまた",
+		"meanings": [
+			"lance shaft",
+			"action",
+			"weapon"
+		],
+		"strokes": "4",
+		"mnemonic": "I once again took the desk, raised it over my head and used it as a weapon!",
+		"kanji": [
+			{
+				"kanji": "撃",
+				"meanings": [
+					"fire a gun"
+				]
+			},
+			{
+				"kanji": "殺",
+				"meanings": [
+					"kill"
+				]
+			},
+			{
+				"kanji": "段",
+				"meanings": [
+					"step"
+				]
+			},
+			{
+				"kanji": "殿",
+				"meanings": [
+					"palace"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721187",
+		"svg": "06bb3.svg"
+	},
+	{
+		"radical": "毋",
+		"reading": "なかれ",
+		"meanings": [
+			"not",
+			"mother",
+			"mother [simplified]"
+		],
+		"strokes": "4",
+		"kanji": [
+			{
+				"kanji": "毎",
+				"meanings": [
+					"every"
+				]
+			},
+			{
+				"kanji": "毒",
+				"meanings": [
+					"poison"
+				]
+			}
+		],
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::2"
+		],
+		"id": "85721188",
+		"svg": "06bcb.svg"
+	},
+	{
+		"radical": "比",
+		"reading": "くらべる",
+		"meanings": [
+			"to compare",
+			"compare (things of the same type)"
+		],
+		"strokes": "4",
+		"mnemonic": "You look at the two spoons to compare them. The left one is a bit different but they are generally of the same type.",
+		"kanji": [
+			{
+				"kanji": "皆",
+				"meanings": [
+					"all"
+				]
+			},
+			{
+				"kanji": "鹿",
+				"meanings": [
+					"deer"
+				]
+			},
+			{
+				"kanji": "陛",
+				"meanings": [
+					"highness"
+				]
+			},
+			{
+				"kanji": "庇",
+				"meanings": [
+					"overhang"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721189",
+		"svg": "06bd4.svg"
+	},
+	{
+		"radical": "毛",
+		"reading": "け",
+		"meanings": [
+			"hair",
+			"fur"
+		],
+		"strokes": "4",
+		"kanji": [
+			{
+				"kanji": "尾",
+				"meanings": [
+					"tail"
+				]
+			},
+			{
+				"kanji": "耗",
+				"meanings": [
+					"decrease"
+				]
+			},
+			{
+				"kanji": "毯",
+				"meanings": [
+					"carpet"
+				]
+			},
+			{
+				"kanji": "毟"
+			}
+		],
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721190",
+		"svg": "06bdb.svg"
+	},
+	{
+		"radical": "氏",
+		"reading": "うじ",
+		"meanings": [
+			"family",
+			"clan",
+			"family name"
+		],
+		"strokes": "4",
+		"mnemonic": "A highly stylized letter \"F\", short for family name, with an extra vertical stroke representing the concept of family name continuity. As Tywin Lannister said, it's the family name that lives on, it's all that lives on, even when we're all dead and rotting in the ground.",
+		"kanji": [
+			{
+				"kanji": "紙",
+				"meanings": [
+					"paper"
+				]
+			},
+			{
+				"kanji": "舐",
+				"meanings": [
+					"lick"
+				]
+			},
+			{
+				"kanji": "昏",
+				"meanings": [
+					"lose consciousness"
+				]
+			},
+			{
+				"kanji": "祇",
+				"meanings": [
+					"earthly god"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721191",
+		"svg": "06c0f.svg"
+	},
+	{
+		"radical": "气",
+		"reading": "きがまえ",
+		"meanings": [
+			"steam",
+			"air",
+			"vapor"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a river flowing to the right and suddenly turning into a waterfall, which always gives rise to a lot of vapor. (Which is why the bottom stroke is slighty curved — that's the vapor rising into the air.)",
+		"kanji": [
+			{
+				"kanji": "気",
+				"meanings": [
+					"state of mind"
+				]
+			},
+			{
+				"kanji": "汽",
+				"meanings": [
+					"steam"
+				]
+			},
+			{
+				"kanji": "氣",
+				"meanings": [
+					"state of mind [old]"
+				]
+			},
+			{
+				"kanji": "氛",
+				"meanings": [
+					"air (around something)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721192",
+		"svg": "06c14.svg"
+	},
+	{
+		"radical": "水",
+		"reading": "みず",
+		"meanings": [
+			"water"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a bird's eye view of water in a river and two of its banks on each side.",
+		"kanji": [
+			{
+				"kanji": "様",
+				"meanings": [
+					"-sama"
+				]
+			},
+			{
+				"kanji": "踏",
+				"meanings": [
+					"to step on"
+				]
+			},
+			{
+				"kanji": "氷",
+				"meanings": [
+					"ice"
+				]
+			},
+			{
+				"kanji": "永",
+				"meanings": [
+					"eternity"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721193",
+		"svg": "06c34.svg"
+	},
+	{
+		"radical": "火",
+		"reading": "ひ",
+		"meanings": [
+			"fire"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a person on fire.",
+		"kanji": [
+			{
+				"kanji": "滅",
+				"meanings": [
+					"perish"
+				]
+			},
+			{
+				"kanji": "焼",
+				"meanings": [
+					"roast"
+				]
+			},
+			{
+				"kanji": "爆",
+				"meanings": [
+					"explosion"
+				]
+			},
+			{
+				"kanji": "炎",
+				"meanings": [
+					"intense flame"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721194",
+		"svg": "0706b.svg"
+	},
+	{
+		"radical": "灬",
+		"reading": "れっか",
+		"meanings": [
+			"fire",
+			"fire sparks"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of fire sparks.",
+		"kanji": [
+			{
+				"kanji": "無",
+				"meanings": [
+					"nothing"
+				]
+			},
+			{
+				"kanji": "然",
+				"meanings": [
+					"sort of thing"
+				]
+			},
+			{
+				"kanji": "馬",
+				"meanings": [
+					"horse"
+				]
+			},
+			{
+				"kanji": "黒",
+				"meanings": [
+					"black"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721195",
+		"svg": "0706c.svg"
+	},
+	{
+		"radical": "爪",
+		"reading": "つめ",
+		"meanings": [
+			"claw",
+			"nail"
+		],
+		"strokes": "4",
+		"kanji": [
+			{
+				"kanji": "段",
+				"meanings": [
+					"step"
+				]
+			},
+			{
+				"kanji": "印",
+				"meanings": [
+					"stamp"
+				]
+			},
+			{
+				"kanji": "爬"
+			},
+			{
+				"kanji": "抓"
+			}
+		],
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721196",
+		"svg": "0722a.svg"
+	},
+	{
+		"radical": "爫",
+		"reading": "つめかんむり",
+		"meanings": [
+			"claw",
+			"nail",
+			"claw (radical)"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a claw.",
+		"kanji": [
+			{
+				"kanji": "受",
+				"meanings": [
+					"receive"
+				]
+			},
+			{
+				"kanji": "愛",
+				"meanings": [
+					"love"
+				]
+			},
+			{
+				"kanji": "瞬",
+				"meanings": [
+					"blink"
+				]
+			},
+			{
+				"kanji": "浮",
+				"meanings": [
+					"float"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721197"
+	},
+	{
+		"radical": "爫",
+		"reading": "つめかんむり",
+		"meanings": [
+			"claw",
+			"nail",
+			"claw (radical)"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a claw.",
+		"kanji": [
+			{
+				"kanji": "受",
+				"meanings": [
+					"receive"
+				]
+			},
+			{
+				"kanji": "愛",
+				"meanings": [
+					"love"
+				]
+			},
+			{
+				"kanji": "瞬",
+				"meanings": [
+					"blink"
+				]
+			},
+			{
+				"kanji": "浮",
+				"meanings": [
+					"float"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721198"
+	},
+	{
+		"radical": "父",
+		"reading": "ちち",
+		"meanings": [
+			"father"
+		],
+		"strokes": "4",
+		"mnemonic": "Traditionally when it's time to punish a child it's usually the father who doles out the punishment. And how to better punish a child than to have him sit his short legs on bare folding chair legs? Folding chairs usually have a piece of cloth on the top on which you can sit, but if you remove that and only leave the metal legs... ouch!",
+		"kanji": [
+			{
+				"kanji": "交",
+				"meanings": [
+					"mingle"
+				]
+			},
+			{
+				"kanji": "爺",
+				"meanings": [
+					"old geezer"
+				]
+			},
+			{
+				"kanji": "斧",
+				"meanings": [
+					"hatchet"
+				]
+			},
+			{
+				"kanji": "釜",
+				"meanings": [
+					"cauldron"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721199",
+		"svg": "07236.svg"
+	},
+	{
+		"radical": "爻",
+		"reading": "こう",
+		"meanings": [
+			"to mix",
+			"to mix with"
+		],
+		"strokes": "4",
+		"kanji": [
+			{
+				"kanji": "爽",
+				"meanings": [
+					"refreshing"
+				]
+			},
+			{
+				"kanji": "爾",
+				"meanings": [
+					"let it be"
+				]
+			},
+			{
+				"kanji": "駁",
+				"meanings": [
+					"rebuttal"
+				]
+			},
+			{
+				"kanji": "欝",
+				"meanings": [
+					"depressed"
+				]
+			}
+		],
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721200",
+		"svg": "0723b.svg"
+	},
+	{
+		"radical": "爿",
+		"reading": "しょうへん",
+		"meanings": [
+			"split wood"
+		],
+		"strokes": "4",
+		"kanji": [
+			{
+				"kanji": "淵",
+				"meanings": [
+					"abyss (old)"
+				]
+			},
+			{
+				"kanji": "鼎",
+				"meanings": [
+					"tripod"
+				]
+			},
+			{
+				"kanji": "寐"
+			},
+			{
+				"kanji": "牆"
+			}
+		],
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721201",
+		"svg": "0723f.svg"
+	},
+	{
+		"radical": "片",
+		"reading": "かた",
+		"meanings": [
+			"split wood",
+			"one of a pair"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a chair under a table with a single lit candle on it. It's only one of a pair. There's also a second char that isn't pictured here, and on which your date is going to sit during your candlelit dinner date.",
+		"kanji": [
+			{
+				"kanji": "版",
+				"meanings": [
+					"edition"
+				]
+			},
+			{
+				"kanji": "淵",
+				"meanings": [
+					"abyss (old)"
+				]
+			},
+			{
+				"kanji": "牌",
+				"meanings": [
+					"mahjong tile"
+				]
+			},
+			{
+				"kanji": "牒",
+				"meanings": [
+					"label"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721202",
+		"svg": "07247.svg"
+	},
+	{
+		"radical": "牛",
+		"reading": "うし",
+		"meanings": [
+			"cow"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a cow grazing. The 𠂉 is a cow's head in the background, and the 十 signifies a fence through which you're looking at that cow.\nDo not confuse with 午, whose fourth stroke is slightly shorter.",
+		"kanji": [
+			{
+				"kanji": "先",
+				"meanings": [
+					"before (timewise)"
+				]
+			},
+			{
+				"kanji": "物",
+				"meanings": [
+					"thing"
+				]
+			},
+			{
+				"kanji": "解",
+				"meanings": [
+					"unravel"
+				]
+			},
+			{
+				"kanji": "特",
+				"meanings": [
+					"special"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721203",
+		"svg": "0725b.svg"
+	},
+	{
+		"radical": "犬",
+		"reading": "いぬ",
+		"meanings": [
+			"dog"
+		],
+		"strokes": "4",
+		"mnemonic": "Hm... what's that large drop over there in the distance... it's a plane... it's a bird... no, it's a dog!",
+		"kanji": [
+			{
+				"kanji": "然",
+				"meanings": [
+					"sort of thing"
+				]
+			},
+			{
+				"kanji": "状",
+				"meanings": [
+					"condition"
+				]
+			},
+			{
+				"kanji": "黙",
+				"meanings": [
+					"shut up"
+				]
+			},
+			{
+				"kanji": "獣",
+				"meanings": [
+					"beast"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721204",
+		"svg": "072ac.svg"
+	},
+	{
+		"radical": "礻",
+		"reading": "しめすへん",
+		"meanings": [
+			"altar",
+			"festival",
+			"religious service"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a Shinto altar.",
+		"kanji": [
+			{
+				"kanji": "神",
+				"meanings": [
+					"god"
+				]
+			},
+			{
+				"kanji": "視",
+				"meanings": [
+					"look at"
+				]
+			},
+			{
+				"kanji": "礼",
+				"meanings": [
+					"polite"
+				]
+			},
+			{
+				"kanji": "社",
+				"meanings": [
+					"company"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721205",
+		"svg": "0793b.svg"
+	},
+	{
+		"radical": "㓁",
+		"reading": "あみがしら",
+		"meanings": [
+			"net"
+		],
+		"strokes": "4",
+		"tags": [
+			"strokes::4",
+			"used_in_kanji::0"
+		],
+		"id": "85721206",
+		"svg": "034c1.svg"
+	},
+	{
+		"radical": "耂",
+		"reading": "おいかんむり",
+		"meanings": [
+			"old",
+			"old-age",
+			"old grave"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of what looks like a really old grave. Many years ago some asshole has slashed the gravestone with his machete which made it crumble, and now the grave is so old that all of the stone that it was made of was whittled down by the elements and only a pile of earth remains.",
+		"kanji": [
+			{
+				"kanji": "者",
+				"meanings": [
+					"someone"
+				]
+			},
+			{
+				"kanji": "考",
+				"meanings": [
+					"think (about something)"
+				]
+			},
+			{
+				"kanji": "老",
+				"meanings": [
+					"elderly"
+				]
+			},
+			{
+				"kanji": "孝",
+				"meanings": [
+					"duty to one's parents"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::4",
+			"used_in_kanji::4"
+		],
+		"id": "85721207",
+		"svg": "08002.svg"
+	},
+	{
+		"radical": "玄",
+		"reading": "げん",
+		"meanings": [
+			"darkness",
+			"dark and mysterious"
+		],
+		"strokes": "5",
+		"mnemonic": "A dark and mysterious figure as seen from the back, with a lid on his head and a threaded cloak that hides most of his body.",
+		"kanji": [
+			{
+				"kanji": "呟",
+				"meanings": [
+					"mutter"
+				]
+			},
+			{
+				"kanji": "率",
+				"meanings": [
+					"ratio"
+				]
+			},
+			{
+				"kanji": "眩",
+				"meanings": [
+					"dazzling"
+				]
+			},
+			{
+				"kanji": "畜",
+				"meanings": [
+					"livestock"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721208",
+		"svg": "07384.svg"
+	},
+	{
+		"radical": "玉",
+		"reading": "たま",
+		"meanings": [
+			"jewelry",
+			"ball"
+		],
+		"strokes": "5",
+		"mnemonic": "A king likes to play with his balls, especially with that one tiny droplet in his pants.... What?! He's a king! He can do whatever he wants!",
+		"kanji": [
+			{
+				"kanji": "国",
+				"meanings": [
+					"country"
+				]
+			},
+			{
+				"kanji": "宝",
+				"meanings": [
+					"treasure"
+				]
+			},
+			{
+				"kanji": "璧",
+				"meanings": [
+					"gem with a hole in the center"
+				]
+			},
+			{
+				"kanji": "璽",
+				"meanings": [
+					"imperial seal"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721209",
+		"svg": "07389.svg"
+	},
+	{
+		"radical": "瓦",
+		"reading": "かわら",
+		"meanings": [
+			"tile"
+		],
+		"strokes": "5",
+		"kanji": [
+			{
+				"kanji": "瓶",
+				"meanings": [
+					"bottle"
+				]
+			},
+			{
+				"kanji": "甕",
+				"meanings": [
+					"jug"
+				]
+			},
+			{
+				"kanji": "甍",
+				"meanings": [
+					"roof tile"
+				]
+			},
+			{
+				"kanji": "甑",
+				"meanings": [
+					"rice-steaming pot"
+				]
+			}
+		],
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721210",
+		"svg": "074e6.svg"
+	},
+	{
+		"radical": "甘",
+		"reading": "あまい",
+		"meanings": [
+			"sweet"
+		],
+		"strokes": "5",
+		"kanji": [
+			{
+				"kanji": "某",
+				"meanings": [
+					"known but unnamed"
+				]
+			},
+			{
+				"kanji": "嵌",
+				"meanings": [
+					"fit into"
+				]
+			},
+			{
+				"kanji": "紺",
+				"meanings": [
+					"navy blue"
+				]
+			},
+			{
+				"kanji": "柑",
+				"meanings": [
+					"citrus tree"
+				]
+			}
+		],
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721211",
+		"svg": "07518.svg"
+	},
+	{
+		"radical": "生",
+		"reading": "うまれる",
+		"meanings": [
+			"birth",
+			"to be born",
+			"live",
+			"life"
+		],
+		"strokes": "5",
+		"mnemonic": "That decapitated cow head you have over there will eventually return to the earth, be slowly absorbed, and will be transformed into nutrients that will nurture new life. Ah, the cycle of life.",
+		"kanji": [
+			{
+				"kanji": "性",
+				"meanings": [
+					"nature (of a person)"
+				]
+			},
+			{
+				"kanji": "星",
+				"meanings": [
+					"star"
+				]
+			},
+			{
+				"kanji": "産",
+				"meanings": [
+					"give birth"
+				]
+			},
+			{
+				"kanji": "牲",
+				"meanings": [
+					"offering"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721212",
+		"svg": "0751f.svg"
+	},
+	{
+		"radical": "用",
+		"reading": "もちいる",
+		"meanings": [
+			"to use",
+			"used for"
+		],
+		"strokes": "5",
+		"mnemonic": "It looks like a trap used used for catching mice. You have an upside-down box propped on a stick, and some tasty cheese hiden inside to lure any nearby rodent.",
+		"kanji": [
+			{
+				"kanji": "備",
+				"meanings": [
+					"equip"
+				]
+			},
+			{
+				"kanji": "鞴",
+				"meanings": [
+					"bellows"
+				]
+			},
+			{
+				"kanji": "糒",
+				"meanings": [
+					"dried boiled rice"
+				]
+			},
+			{
+				"kanji": "韛"
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721213",
+		"svg": "07528.svg"
+	},
+	{
+		"radical": "田",
+		"reading": "た",
+		"meanings": [
+			"rice paddy",
+			"rice field"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a rice field, seen from the top.",
+		"kanji": [
+			{
+				"kanji": "思",
+				"meanings": [
+					"think (that something is true)"
+				]
+			},
+			{
+				"kanji": "男",
+				"meanings": [
+					"man"
+				]
+			},
+			{
+				"kanji": "界",
+				"meanings": [
+					"realm"
+				]
+			},
+			{
+				"kanji": "番",
+				"meanings": [
+					"place in a series"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721214",
+		"svg": "07530.svg"
+	},
+	{
+		"radical": "疋",
+		"reading": "ひき",
+		"meanings": [
+			"bolt of cloth",
+			"small animal (archaic)"
+		],
+		"strokes": "5",
+		"mnemonic": "If you only see a Mario cap lying on top of a pair of running shoes then perhaps something has turned Mario into a prehistoric small animal, and he's still in there under the cap?\nDo not confuse with 匹, which is the modern counter for small animals.",
+		"kanji": [
+			{
+				"kanji": "疑",
+				"meanings": [
+					"doubt"
+				]
+			},
+			{
+				"kanji": "旋",
+				"meanings": [
+					"swirl"
+				]
+			},
+			{
+				"kanji": "楚",
+				"meanings": [
+					"neat"
+				]
+			},
+			{
+				"kanji": "蛋",
+				"meanings": [
+					"protein"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721215",
+		"svg": "0758b.svg"
+	},
+	{
+		"radical": "𤴔",
+		"reading": "ひきへん",
+		"meanings": [
+			"bolt of cloth"
+		],
+		"strokes": "5",
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::0"
+		],
+		"id": "85721216"
+	},
+	{
+		"radical": "疒",
+		"reading": "やまいだれ",
+		"meanings": [
+			"sickness"
+		],
+		"strokes": "5",
+		"mnemonic": "Everyone living in the house on the cliff has died of sickness, so now it's abandoned with only a bunch of icicles growing on its walls.",
+		"kanji": [
+			{
+				"kanji": "痛",
+				"meanings": [
+					"pain"
+				]
+			},
+			{
+				"kanji": "病",
+				"meanings": [
+					"illness"
+				]
+			},
+			{
+				"kanji": "疲",
+				"meanings": [
+					"tired"
+				]
+			},
+			{
+				"kanji": "療",
+				"meanings": [
+					"therapy"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721217",
+		"svg": "07592.svg"
+	},
+	{
+		"radical": "癶",
+		"reading": "はつがしら",
+		"meanings": [
+			"outspread legs",
+			"departure",
+			"tent"
+		],
+		"strokes": "5",
+		"kanji": [
+			{
+				"kanji": "発",
+				"meanings": [
+					"let out"
+				]
+			},
+			{
+				"kanji": "登",
+				"meanings": [
+					"climb"
+				]
+			},
+			{
+				"kanji": "癸",
+				"meanings": [
+					"10th calendar sign"
+				]
+			},
+			{
+				"kanji": "發",
+				"meanings": [
+					"departure [old]"
+				]
+			}
+		],
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721218",
+		"svg": "07676.svg"
+	},
+	{
+		"radical": "白",
+		"reading": "しろ",
+		"meanings": [
+			"white"
+		],
+		"strokes": "5",
+		"mnemonic": "We are very fortunate that the Sun is approximately 150 million kilometres apart from us. If you'd take only a single drop of the Sun, and put it here on Earth, it'd be so bright you'd see nothing but white.",
+		"kanji": [
+			{
+				"kanji": "的",
+				"meanings": [
+					"target"
+				]
+			},
+			{
+				"kanji": "楽",
+				"meanings": [
+					"comfort"
+				]
+			},
+			{
+				"kanji": "原",
+				"meanings": [
+					"original"
+				]
+			},
+			{
+				"kanji": "皆",
+				"meanings": [
+					"all"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721219",
+		"svg": "0767d.svg"
+	},
+	{
+		"radical": "皮",
+		"reading": "けがわ",
+		"meanings": [
+			"skin",
+			"hide",
+			"skin (of an animal or a plant)"
+		],
+		"strokes": "5",
+		"mnemonic": "The skin is an organ which supports an animal. As long as the skin is intact the animal will live, but once it's slashed the animal won't be able to survive anymore.",
+		"kanji": [
+			{
+				"kanji": "彼",
+				"meanings": [
+					"he"
+				]
+			},
+			{
+				"kanji": "破",
+				"meanings": [
+					"to tear"
+				]
+			},
+			{
+				"kanji": "疲",
+				"meanings": [
+					"tired"
+				]
+			},
+			{
+				"kanji": "波",
+				"meanings": [
+					"a wave"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721220",
+		"svg": "076ae.svg"
+	},
+	{
+		"radical": "皿",
+		"reading": "さら",
+		"meanings": [
+			"plate",
+			"bowl",
+			"dish"
+		],
+		"strokes": "5",
+		"mnemonic": "A sideways pictograph of one of those racks that is used for dishwashing, signifying a dish you'd use to eat your dinner on. This one can hold three dish plates.",
+		"kanji": [
+			{
+				"kanji": "血",
+				"meanings": [
+					"blood"
+				]
+			},
+			{
+				"kanji": "温",
+				"meanings": [
+					"warm (to the touch)"
+				]
+			},
+			{
+				"kanji": "盛",
+				"meanings": [
+					"a heap of"
+				]
+			},
+			{
+				"kanji": "盗",
+				"meanings": [
+					"steal"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721221",
+		"svg": "076bf.svg"
+	},
+	{
+		"radical": "目",
+		"reading": "め",
+		"meanings": [
+			"eye"
+		],
+		"strokes": "5",
+		"mnemonic": "A stylized pictograph of an eye. The two lines in the middle is the iris.",
+		"kanji": [
+			{
+				"kanji": "見",
+				"meanings": [
+					"see"
+				]
+			},
+			{
+				"kanji": "自",
+				"meanings": [
+					"self"
+				]
+			},
+			{
+				"kanji": "相",
+				"meanings": [
+					"towards each other"
+				]
+			},
+			{
+				"kanji": "着",
+				"meanings": [
+					"wear"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721222",
+		"svg": "076ee.svg"
+	},
+	{
+		"radical": "矛",
+		"reading": "ほこ",
+		"meanings": [
+			"halberd"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a halberd, with the halberd blade on the top, a guard in the middle, a handle on the bottom, and a decorative piece of fabric on the left.",
+		"kanji": [
+			{
+				"kanji": "務",
+				"meanings": [
+					"perform a task"
+				]
+			},
+			{
+				"kanji": "柔",
+				"meanings": [
+					"soft (to touch)"
+				]
+			},
+			{
+				"kanji": "橘",
+				"meanings": [
+					"mandarin orange"
+				]
+			},
+			{
+				"kanji": "矜"
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721223",
+		"svg": "077db.svg"
+	},
+	{
+		"radical": "矢",
+		"reading": "や",
+		"meanings": [
+			"arrow"
+		],
+		"strokes": "5",
+		"mnemonic": "You see that large decapitated cow head over there? Come on! Shoot it with your arrow! Target practice!",
+		"kanji": [
+			{
+				"kanji": "知",
+				"meanings": [
+					"know"
+				]
+			},
+			{
+				"kanji": "族",
+				"meanings": [
+					"tribe"
+				]
+			},
+			{
+				"kanji": "疑",
+				"meanings": [
+					"doubt"
+				]
+			},
+			{
+				"kanji": "短",
+				"meanings": [
+					"short"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721224",
+		"svg": "077e2.svg"
+	},
+	{
+		"radical": "石",
+		"reading": "いし",
+		"meanings": [
+			"stone"
+		],
+		"strokes": "5",
+		"mnemonic": "A stone landed to the left of his mouth and slashed his face with a sharp edge leaving one very nasty gash...",
+		"kanji": [
+			{
+				"kanji": "確",
+				"meanings": [
+					"certain"
+				]
+			},
+			{
+				"kanji": "破",
+				"meanings": [
+					"to tear"
+				]
+			},
+			{
+				"kanji": "研",
+				"meanings": [
+					"refine"
+				]
+			},
+			{
+				"kanji": "砂",
+				"meanings": [
+					"sand"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721225",
+		"svg": "077f3.svg"
+	},
+	{
+		"radical": "示",
+		"reading": "しめす",
+		"meanings": [
+			"altar",
+			"festival",
+			"religious service",
+			"demonstrate"
+		],
+		"strokes": "5",
+		"mnemonic": "It only takes one person with short legs to demonstrate that the street sign is too low. If even he hits his head on it constantly then surely it must be raised.",
+		"kanji": [
+			{
+				"kanji": "祭",
+				"meanings": [
+					"festival"
+				]
+			},
+			{
+				"kanji": "禁",
+				"meanings": [
+					"prohibit"
+				]
+			},
+			{
+				"kanji": "奈",
+				"meanings": [
+					"Nara (city)"
+				]
+			},
+			{
+				"kanji": "宗",
+				"meanings": [
+					"religion"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721226",
+		"svg": "0793a.svg"
+	},
+	{
+		"radical": "禸",
+		"reading": "じゅうのあし",
+		"meanings": [
+			"footprint",
+			"rump"
+		],
+		"strokes": "5",
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::0"
+		],
+		"id": "85721227",
+		"svg": "079b8.svg"
+	},
+	{
+		"radical": "禾",
+		"reading": "のぎへん",
+		"meanings": [
+			"grain",
+			"grain plant"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a single grain plant, probably rice, or wheat.\nDo not confuse it with 未.",
+		"kanji": [
+			{
+				"kanji": "私",
+				"meanings": [
+					"private"
+				]
+			},
+			{
+				"kanji": "乗",
+				"meanings": [
+					"ride"
+				]
+			},
+			{
+				"kanji": "程",
+				"meanings": [
+					"extent"
+				]
+			},
+			{
+				"kanji": "利",
+				"meanings": [
+					"profit"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721228",
+		"svg": "079be.svg"
+	},
+	{
+		"radical": "穴",
+		"reading": "あな",
+		"meanings": [
+			"hole",
+			"cave"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a volcano-like hole in the ground that was covered with a roof with a chimney.\nImagine a huge hole similar to the Darvaza gas crater. Let's say you'd like to cover it up, you know, so that no one accidentally falls in there and dies. So how'd you do it? Simple — just build a roof over it! And add a chimney so that the burning gasses can escape.",
+		"kanji": [
+			{
+				"kanji": "空",
+				"meanings": [
+					"empty air"
+				]
+			},
+			{
+				"kanji": "突",
+				"meanings": [
+					"thrust"
+				]
+			},
+			{
+				"kanji": "窓",
+				"meanings": [
+					"window"
+				]
+			},
+			{
+				"kanji": "究",
+				"meanings": [
+					"research"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721229",
+		"svg": "07a74.svg"
+	},
+	{
+		"radical": "立",
+		"reading": "たつ",
+		"meanings": [
+			"to stand",
+			"standing up"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a lid which is standing up placed on a pair of horns protruding from the ground. Wait, what?",
+		"kanji": [
+			{
+				"kanji": "音",
+				"meanings": [
+					"sound"
+				]
+			},
+			{
+				"kanji": "親",
+				"meanings": [
+					"parent"
+				]
+			},
+			{
+				"kanji": "新",
+				"meanings": [
+					"new"
+				]
+			},
+			{
+				"kanji": "位",
+				"meanings": [
+					"rank"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721230",
+		"svg": "07acb.svg"
+	},
+	{
+		"radical": "氺",
+		"reading": "したみず",
+		"meanings": [
+			"water",
+			"water splash"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a hook being suddenly thrown into the water, which results in a water splash.",
+		"kanji": [
+			{
+				"kanji": "求",
+				"meanings": [
+					"seek"
+				]
+			},
+			{
+				"kanji": "暴",
+				"meanings": [
+					"outburst"
+				]
+			},
+			{
+				"kanji": "膝",
+				"meanings": [
+					"knee"
+				]
+			},
+			{
+				"kanji": "録",
+				"meanings": [
+					"record on something"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721231",
+		"svg": "06c3a.svg"
+	},
+	{
+		"radical": "罒",
+		"reading": "あみがしら",
+		"meanings": [
+			"net",
+			"small net"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a small net.",
+		"kanji": [
+			{
+				"kanji": "置",
+				"meanings": [
+					"put down"
+				]
+			},
+			{
+				"kanji": "夢",
+				"meanings": [
+					"dream"
+				]
+			},
+			{
+				"kanji": "買",
+				"meanings": [
+					"buy"
+				]
+			},
+			{
+				"kanji": "壊",
+				"meanings": [
+					"break"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721232",
+		"svg": "07f52.svg"
+	},
+	{
+		"radical": "𦉰",
+		"reading": "あみがしら",
+		"meanings": [
+			"net"
+		],
+		"strokes": "5",
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::0"
+		],
+		"id": "85721233"
+	},
+	{
+		"radical": "衤",
+		"reading": "ころもへん",
+		"meanings": [
+			"clothing",
+			"altar clothes"
+		],
+		"strokes": "5",
+		"mnemonic": "See that extra stroke on the altar? Those are some altar clothes that somebody left there.",
+		"kanji": [
+			{
+				"kanji": "初",
+				"meanings": [
+					"first time"
+				]
+			},
+			{
+				"kanji": "被",
+				"meanings": [
+					"be a target of"
+				]
+			},
+			{
+				"kanji": "補",
+				"meanings": [
+					"supplementary"
+				]
+			},
+			{
+				"kanji": "裕",
+				"meanings": [
+					"abundant"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::5",
+			"used_in_kanji::4"
+		],
+		"id": "85721234",
+		"svg": "08864.svg"
+	},
+	{
+		"radical": "旡",
+		"reading": "むにょう",
+		"meanings": [
+			"not",
+			"choke"
+		],
+		"strokes": "5",
+		"kanji": [
+			{
+				"kanji": "既",
+				"meanings": [
+					"already"
+				]
+			},
+			{
+				"kanji": "漑"
+			},
+			{
+				"kanji": "廐",
+				"meanings": [
+					"stable"
+				]
+			}
+		],
+		"tags": [
+			"strokes::5",
+			"used_in_kanji::3"
+		],
+		"id": "85721235",
+		"svg": "065e1.svg"
+	},
+	{
+		"radical": "竹",
+		"reading": "たけ",
+		"meanings": [
+			"bamboo"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of two bamboo trees.",
+		"kanji": [
+			{
+				"kanji": "笑",
+				"meanings": [
+					"laugh"
+				]
+			},
+			{
+				"kanji": "答",
+				"meanings": [
+					"answer"
+				]
+			},
+			{
+				"kanji": "第",
+				"meanings": [
+					"ordinal number"
+				]
+			},
+			{
+				"kanji": "等",
+				"meanings": [
+					"equal"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721236",
+		"svg": "07af9.svg"
+	},
+	{
+		"radical": "𥫗",
+		"reading": "たけかんむり",
+		"meanings": [
+			"bamboo"
+		],
+		"strokes": "6",
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::0"
+		],
+		"id": "85721237"
+	},
+	{
+		"radical": "米",
+		"reading": "こめ",
+		"meanings": [
+			"rice"
+		],
+		"strokes": "6",
+		"mnemonic": "A pair of horns growing out of a tree.... wait, those are not horns, those are grains of rice!",
+		"kanji": [
+			{
+				"kanji": "来",
+				"meanings": [
+					"come"
+				]
+			},
+			{
+				"kanji": "数",
+				"meanings": [
+					"number"
+				]
+			},
+			{
+				"kanji": "断",
+				"meanings": [
+					"be cut off"
+				]
+			},
+			{
+				"kanji": "精",
+				"meanings": [
+					"spirit (of life)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721238",
+		"svg": "07c73.svg"
+	},
+	{
+		"radical": "糸",
+		"reading": "いと",
+		"meanings": [
+			"thread"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of a thread spool at the top with a small needle stuck into it on the bottom. That's a lot of thread!",
+		"kanji": [
+			{
+				"kanji": "結",
+				"meanings": [
+					"tied together"
+				]
+			},
+			{
+				"kanji": "続",
+				"meanings": [
+					"continue"
+				]
+			},
+			{
+				"kanji": "終",
+				"meanings": [
+					"end"
+				]
+			},
+			{
+				"kanji": "線",
+				"meanings": [
+					"line"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721239",
+		"svg": "07cf8.svg"
+	},
+	{
+		"radical": "缶",
+		"reading": "みずがめ",
+		"meanings": [
+			"earthen jar",
+			"tin can"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "鬱",
+				"meanings": [
+					"low spirits"
+				]
+			},
+			{
+				"kanji": "遙",
+				"meanings": [
+					"long ago"
+				]
+			},
+			{
+				"kanji": "罅",
+				"meanings": [
+					"fissure"
+				]
+			},
+			{
+				"kanji": "瑤",
+				"meanings": [
+					"beautiful (as a jewel)"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721240",
+		"svg": "07f36.svg"
+	},
+	{
+		"radical": "网",
+		"reading": "あみめ",
+		"meanings": [
+			"net"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "羀",
+				"meanings": [
+					"fishing trap"
+				]
+			},
+			{
+				"kanji": "䋞"
+			},
+			{
+				"kanji": "䍑"
+			},
+			{
+				"kanji": "䍞"
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721241",
+		"svg": "07f51.svg"
+	},
+	{
+		"radical": "羊",
+		"reading": "ひつじ",
+		"meanings": [
+			"sheep"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of a ram — a male sheep — behind a fence. Since the fence is in the way you can only see its horns.",
+		"kanji": [
+			{
+				"kanji": "達",
+				"meanings": [
+					"accomplished"
+				]
+			},
+			{
+				"kanji": "遅",
+				"meanings": [
+					"slow"
+				]
+			},
+			{
+				"kanji": "群",
+				"meanings": [
+					"a pack (e.g. of dogs)"
+				]
+			},
+			{
+				"kanji": "詳",
+				"meanings": [
+					"detailed"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721242",
+		"svg": "07f8a.svg"
+	},
+	{
+		"radical": "𦍌",
+		"reading": "ひつじ",
+		"meanings": [
+			"sheep",
+			"force of nature"
+		],
+		"strokes": "6",
+		"mnemonic": "The raw force of nature is unstoppable, and inevitable. Do you see those antlers on a wall hanging over there? Eventually the wall they're using for support will rot and collapse, and then the antlers themselves with crumble, turning into dust and becoming the earth from which they came from. Nothing can stop nature.",
+		"kanji": [
+			{
+				"kanji": "様",
+				"meanings": [
+					"-sama"
+				]
+			},
+			{
+				"kanji": "着",
+				"meanings": [
+					"wear"
+				]
+			},
+			{
+				"kanji": "美",
+				"meanings": [
+					"beauty"
+				]
+			},
+			{
+				"kanji": "差",
+				"meanings": [
+					"difference"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721243"
+	},
+	{
+		"radical": "羽",
+		"reading": "はね",
+		"meanings": [
+			"feather",
+			"wing",
+			"feathers"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of two feathers.",
+		"kanji": [
+			{
+				"kanji": "習",
+				"meanings": [
+					"learn"
+				]
+			},
+			{
+				"kanji": "翼",
+				"meanings": [
+					"wing"
+				]
+			},
+			{
+				"kanji": "翌",
+				"meanings": [
+					"the following"
+				]
+			},
+			{
+				"kanji": "翻",
+				"meanings": [
+					"flip over"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721244",
+		"svg": "07fbd.svg"
+	},
+	{
+		"radical": "羽",
+		"reading": "はね",
+		"meanings": [
+			"feather",
+			"wing",
+			"feathers"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of two feathers.",
+		"kanji": [
+			{
+				"kanji": "習",
+				"meanings": [
+					"learn"
+				]
+			},
+			{
+				"kanji": "翼",
+				"meanings": [
+					"wing"
+				]
+			},
+			{
+				"kanji": "翌",
+				"meanings": [
+					"the following"
+				]
+			},
+			{
+				"kanji": "翻",
+				"meanings": [
+					"flip over"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721245",
+		"svg": "07fbd.svg"
+	},
+	{
+		"radical": "老",
+		"reading": "おいかんむり",
+		"meanings": [
+			"old",
+			"old-age",
+			"elderly"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "姥",
+				"meanings": [
+					"elderly woman"
+				]
+			},
+			{
+				"kanji": "耄"
+			},
+			{
+				"kanji": "耆",
+				"meanings": [
+					"senility"
+				]
+			},
+			{
+				"kanji": "蛯"
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721246",
+		"svg": "08001.svg"
+	},
+	{
+		"radical": "而",
+		"reading": "しこうして",
+		"meanings": [
+			"and also",
+			"and then"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "耐",
+				"meanings": [
+					"withstand"
+				]
+			},
+			{
+				"kanji": "需",
+				"meanings": [
+					"demand (for something)"
+				]
+			},
+			{
+				"kanji": "耑",
+				"meanings": [
+					"specialized"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::3"
+		],
+		"id": "85721247",
+		"svg": "0800c.svg"
+	},
+	{
+		"radical": "耒",
+		"reading": "らいすき",
+		"meanings": [
+			"plow",
+			"handle of a plow"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "籍",
+				"meanings": [
+					"registry"
+				]
+			},
+			{
+				"kanji": "耗",
+				"meanings": [
+					"decrease"
+				]
+			},
+			{
+				"kanji": "耕",
+				"meanings": [
+					"plow (the soil)"
+				]
+			},
+			{
+				"kanji": "藉",
+				"meanings": [
+					"trample on"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721248",
+		"svg": "08012.svg"
+	},
+	{
+		"radical": "耳",
+		"reading": "みみ",
+		"meanings": [
+			"ear"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of a rectangular ear.",
+		"kanji": [
+			{
+				"kanji": "聞",
+				"meanings": [
+					"hear"
+				]
+			},
+			{
+				"kanji": "取",
+				"meanings": [
+					"take"
+				]
+			},
+			{
+				"kanji": "聖",
+				"meanings": [
+					"holy"
+				]
+			},
+			{
+				"kanji": "恥",
+				"meanings": [
+					"shame"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721249",
+		"svg": "08033.svg"
+	},
+	{
+		"radical": "聿",
+		"reading": "ふでづくり",
+		"meanings": [
+			"writing brush",
+			"brush"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "書",
+				"meanings": [
+					"write"
+				]
+			},
+			{
+				"kanji": "建",
+				"meanings": [
+					"build"
+				]
+			},
+			{
+				"kanji": "筆",
+				"meanings": [
+					"writing brush"
+				]
+			},
+			{
+				"kanji": "律",
+				"meanings": [
+					"regulate"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721250",
+		"svg": "0807f.svg"
+	},
+	{
+		"radical": "肉",
+		"reading": "にく",
+		"meanings": [
+			"flesh",
+			"meat"
+		],
+		"strokes": "6",
+		"mnemonic": "There is meat inside of every person.",
+		"kanji": [
+			{
+				"kanji": "腐",
+				"meanings": [
+					"rot"
+				]
+			},
+			{
+				"kanji": "臠",
+				"meanings": [
+					"witness"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::2"
+		],
+		"id": "85721251",
+		"svg": "08089.svg"
+	},
+	{
+		"radical": "臣",
+		"reading": "しん",
+		"meanings": [
+			"retainer",
+			"minister",
+			"government minister"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "姫",
+				"meanings": [
+					"princess"
+				]
+			},
+			{
+				"kanji": "監",
+				"meanings": [
+					"supervise"
+				]
+			},
+			{
+				"kanji": "蔵",
+				"meanings": [
+					"stash"
+				]
+			},
+			{
+				"kanji": "臨",
+				"meanings": [
+					"face something"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721252",
+		"svg": "081e3.svg"
+	},
+	{
+		"radical": "自",
+		"reading": "みずから",
+		"meanings": [
+			"self"
+		],
+		"strokes": "6",
+		"mnemonic": "When your eye burns and itches it's time to self-medicate and put a drop of eyedrops in you eye.",
+		"kanji": [
+			{
+				"kanji": "身",
+				"meanings": [
+					"one's body"
+				]
+			},
+			{
+				"kanji": "息",
+				"meanings": [
+					"breath"
+				]
+			},
+			{
+				"kanji": "首",
+				"meanings": [
+					"neck"
+				]
+			},
+			{
+				"kanji": "夏",
+				"meanings": [
+					"summer"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721253",
+		"svg": "081ea.svg"
+	},
+	{
+		"radical": "至",
+		"reading": "いたる",
+		"meanings": [
+			"to arrive",
+			"reach",
+			"apex"
+		],
+		"strokes": "6",
+		"mnemonic": "There can be only one elite bodybuilder on this earth. He's at the apex of his form, and he's the best - his name is Arnold Schwarzenegger! Imagine him flexing all of his muscles standing on a pile of earth.",
+		"kanji": [
+			{
+				"kanji": "屋",
+				"meanings": [
+					"roof"
+				]
+			},
+			{
+				"kanji": "室",
+				"meanings": [
+					"room"
+				]
+			},
+			{
+				"kanji": "到",
+				"meanings": [
+					"arrival"
+				]
+			},
+			{
+				"kanji": "致",
+				"meanings": [
+					"politely do"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721254",
+		"svg": "081f3.svg"
+	},
+	{
+		"radical": "臼",
+		"reading": "うす",
+		"meanings": [
+			"mortar",
+			"quern",
+			"mortar (a hollow cup)"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "睨",
+				"meanings": [
+					"glare at"
+				]
+			},
+			{
+				"kanji": "鼠",
+				"meanings": [
+					"mouse"
+				]
+			},
+			{
+				"kanji": "猊",
+				"meanings": [
+					"the seat of a famous priest"
+				]
+			},
+			{
+				"kanji": "潟",
+				"meanings": [
+					"lagoon"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721255",
+		"svg": "081fc.svg"
+	},
+	{
+		"radical": "舌",
+		"reading": "した",
+		"meanings": [
+			"tongue"
+		],
+		"strokes": "6",
+		"mnemonic": "If you'd pick a thousand people at random, and looked into their mouth you will find that each one of them has a tongue inside.",
+		"kanji": [
+			{
+				"kanji": "話",
+				"meanings": [
+					"to speak"
+				]
+			},
+			{
+				"kanji": "活",
+				"meanings": [
+					"activity"
+				]
+			},
+			{
+				"kanji": "乱",
+				"meanings": [
+					"chaos"
+				]
+			},
+			{
+				"kanji": "辞",
+				"meanings": [
+					"resign"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721256",
+		"svg": "0820c.svg"
+	},
+	{
+		"radical": "舛",
+		"reading": "まいあし",
+		"meanings": [
+			"contrary",
+			"to err",
+			"dancing legs"
+		],
+		"strokes": "6",
+		"mnemonic": "I spent almost a year dancing around in the evening before sunset before I got my dancing legs and really learned how to dance.",
+		"kanji": [
+			{
+				"kanji": "瞬",
+				"meanings": [
+					"blink"
+				]
+			},
+			{
+				"kanji": "舞",
+				"meanings": [
+					"traditional dance"
+				]
+			},
+			{
+				"kanji": "隣",
+				"meanings": [
+					"neighbor"
+				]
+			},
+			{
+				"kanji": "憐",
+				"meanings": [
+					"sympathize with"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721257",
+		"svg": "0821b.svg"
+	},
+	{
+		"radical": "舟",
+		"reading": "ふね",
+		"meanings": [
+			"ship",
+			"boat"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "船",
+				"meanings": [
+					"ship"
+				]
+			},
+			{
+				"kanji": "艦",
+				"meanings": [
+					"warship"
+				]
+			},
+			{
+				"kanji": "般",
+				"meanings": [
+					"as any other"
+				]
+			},
+			{
+				"kanji": "航",
+				"meanings": [
+					"navigation"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721258",
+		"svg": "0821f.svg"
+	},
+	{
+		"radical": "艮",
+		"reading": "こん",
+		"meanings": [
+			"boundary",
+			"almost good"
+		],
+		"strokes": "6",
+		"mnemonic": "When the sun shines on your bare long legs it's almost good for you. You're getting that beneficial vitamin D which is produced by the body in response to skin being exposed to sunlight, but you're also receiving UV light which causes cancer. So remember to apply that sunscreen!",
+		"kanji": [
+			{
+				"kanji": "良",
+				"meanings": [
+					"good"
+				]
+			},
+			{
+				"kanji": "限",
+				"meanings": [
+					"limit"
+				]
+			},
+			{
+				"kanji": "眼",
+				"meanings": [
+					"eyeball"
+				]
+			},
+			{
+				"kanji": "根",
+				"meanings": [
+					"root"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721259",
+		"svg": "0826e.svg"
+	},
+	{
+		"radical": "色",
+		"reading": "いろ",
+		"meanings": [
+			"color"
+		],
+		"strokes": "6",
+		"mnemonic": "You want to color your hook? Just dip it into that that liquid over there which looks like a swirly pattern. That's paint. Lots of paints mixed together. That's why it's swirly.",
+		"kanji": [
+			{
+				"kanji": "絶",
+				"meanings": [
+					"cut off"
+				]
+			},
+			{
+				"kanji": "艶",
+				"meanings": [
+					"glossy"
+				]
+			},
+			{
+				"kanji": "艷",
+				"meanings": [
+					"glossy [old]"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::3"
+		],
+		"id": "85721260",
+		"svg": "08272.svg"
+	},
+	{
+		"radical": "艸",
+		"reading": "くさ",
+		"meanings": [
+			"grass",
+			"plant",
+			"grass crown"
+		],
+		"strokes": "6",
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::0"
+		],
+		"id": "85721261",
+		"svg": "08278.svg"
+	},
+	{
+		"radical": "虍",
+		"reading": "とらがしら",
+		"meanings": [
+			"tiger",
+			"tiger's head"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "慮",
+				"meanings": [
+					"consider carefully"
+				]
+			},
+			{
+				"kanji": "劇",
+				"meanings": [
+					"drama"
+				]
+			},
+			{
+				"kanji": "虚",
+				"meanings": [
+					"without a physical form"
+				]
+			},
+			{
+				"kanji": "噓",
+				"meanings": [
+					"lie [alt]"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721262",
+		"svg": "0864d.svg"
+	},
+	{
+		"radical": "虫",
+		"reading": "むし",
+		"meanings": [
+			"worm",
+			"insect",
+			"bug"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of an arm of a bodybuilder being bitten by an insect.",
+		"kanji": [
+			{
+				"kanji": "強",
+				"meanings": [
+					"strong"
+				]
+			},
+			{
+				"kanji": "風",
+				"meanings": [
+					"wind"
+				]
+			},
+			{
+				"kanji": "触",
+				"meanings": [
+					"touch"
+				]
+			},
+			{
+				"kanji": "騒",
+				"meanings": [
+					"make noise"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721263",
+		"svg": "0866b.svg"
+	},
+	{
+		"radical": "血",
+		"reading": "ち",
+		"meanings": [
+			"blood"
+		],
+		"strokes": "6",
+		"mnemonic": "It's easy to slash one of your fingers on a chipped dish. Ouch! There's blood coming out of my finger!",
+		"kanji": [
+			{
+				"kanji": "衆",
+				"meanings": [
+					"a lot of people"
+				]
+			},
+			{
+				"kanji": "睾",
+				"meanings": [
+					"testicle"
+				]
+			},
+			{
+				"kanji": "恤",
+				"meanings": [
+					"relieve"
+				]
+			},
+			{
+				"kanji": "衄",
+				"meanings": [
+					"nosebleed"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721264",
+		"svg": "08840.svg"
+	},
+	{
+		"radical": "行",
+		"reading": "ぎょうがまえ",
+		"meanings": [
+			"to go",
+			"go"
+		],
+		"strokes": "6",
+		"mnemonic": "Every journey starts the same: first you take a single small step and stop standing still, and then you go!",
+		"kanji": [
+			{
+				"kanji": "桁",
+				"meanings": [
+					"number of digits"
+				]
+			},
+			{
+				"kanji": "裄",
+				"meanings": [
+					"sleeve length"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::2"
+		],
+		"id": "85721265",
+		"svg": "0884c.svg"
+	},
+	{
+		"radical": "衣",
+		"reading": "ころも",
+		"meanings": [
+			"clothing",
+			"garment"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "装",
+				"meanings": [
+					"outfit"
+				]
+			},
+			{
+				"kanji": "壊",
+				"meanings": [
+					"break"
+				]
+			},
+			{
+				"kanji": "襲",
+				"meanings": [
+					"assault"
+				]
+			},
+			{
+				"kanji": "裂",
+				"meanings": [
+					"split"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721266",
+		"svg": "08863.svg"
+	},
+	{
+		"radical": "襾",
+		"reading": "にし",
+		"meanings": [
+			"cover",
+			"west",
+			"place on top of"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "譚",
+				"meanings": [
+					"talk"
+				]
+			},
+			{
+				"kanji": "潭",
+				"meanings": [
+					"deep water"
+				]
+			},
+			{
+				"kanji": "蕈",
+				"meanings": [
+					"toadstool"
+				]
+			},
+			{
+				"kanji": "覊",
+				"meanings": [
+					"reins"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721267",
+		"svg": "0897e.svg"
+	},
+	{
+		"radical": "覀",
+		"reading": "にし",
+		"meanings": [
+			"cover",
+			"west",
+			"helicopter"
+		],
+		"strokes": "6",
+		"mnemonic": "A pictograph of a helicopter.",
+		"kanji": [
+			{
+				"kanji": "要",
+				"meanings": [
+					"needed"
+				]
+			},
+			{
+				"kanji": "価",
+				"meanings": [
+					"value"
+				]
+			},
+			{
+				"kanji": "覆",
+				"meanings": [
+					"overturn"
+				]
+			},
+			{
+				"kanji": "煙",
+				"meanings": [
+					"smoke"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721268"
+	},
+	{
+		"radical": "瓜",
+		"reading": "うり",
+		"meanings": [
+			"melon"
+		],
+		"strokes": "6",
+		"kanji": [
+			{
+				"kanji": "孤",
+				"meanings": [
+					"orphan"
+				]
+			},
+			{
+				"kanji": "狐",
+				"meanings": [
+					"fox"
+				]
+			},
+			{
+				"kanji": "弧",
+				"meanings": [
+					"arc"
+				]
+			},
+			{
+				"kanji": "瓢",
+				"meanings": [
+					"gourd"
+				]
+			}
+		],
+		"tags": [
+			"strokes::6",
+			"used_in_kanji::4"
+		],
+		"id": "85721269",
+		"svg": "074dc.svg"
+	},
+	{
+		"radical": "見",
+		"reading": "みる",
+		"meanings": [
+			"to see",
+			"see"
+		],
+		"strokes": "7",
+		"mnemonic": "A walking eye with legs attached; surely its main purpose is to see.",
+		"kanji": [
+			{
+				"kanji": "現",
+				"meanings": [
+					"right now"
+				]
+			},
+			{
+				"kanji": "覚",
+				"meanings": [
+					"awareness"
+				]
+			},
+			{
+				"kanji": "視",
+				"meanings": [
+					"look at"
+				]
+			},
+			{
+				"kanji": "親",
+				"meanings": [
+					"parent"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721270",
+		"svg": "0898b.svg"
+	},
+	{
+		"radical": "角",
+		"reading": "つの",
+		"meanings": [
+			"horn",
+			"corner",
+			"angle"
+		],
+		"strokes": "7",
+		"mnemonic": "A hook claw is used for grabbing things, even things which are laying at an angle. (Imagine grabbing a teddy bear laying on its side in a claw crane.)\n(The 丨 in 用 is missing here since it's not necessary to support whatever's being grabbed anymore.)",
+		"kanji": [
+			{
+				"kanji": "解",
+				"meanings": [
+					"unravel"
+				]
+			},
+			{
+				"kanji": "触",
+				"meanings": [
+					"touch"
+				]
+			},
+			{
+				"kanji": "斛",
+				"meanings": [
+					"a boatload"
+				]
+			},
+			{
+				"kanji": "觚"
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721271",
+		"svg": "089d2.svg"
+	},
+	{
+		"radical": "言",
+		"reading": "げん",
+		"meanings": [
+			"words",
+			"to speak",
+			"say"
+		],
+		"strokes": "7",
+		"mnemonic": "A cryptic pictograph of a face trying to say something.\nWe have a mouth at the bottom, then we have two short lines signifying a nose (this person has a really long nose, hence two lines), then one long line for the eyes (this person has an eye visor just like RoboCop), and then the final line at the top to represent the forehead.",
+		"kanji": [
+			{
+				"kanji": "話",
+				"meanings": [
+					"to speak"
+				]
+			},
+			{
+				"kanji": "誰",
+				"meanings": [
+					"who?"
+				]
+			},
+			{
+				"kanji": "信",
+				"meanings": [
+					"belief"
+				]
+			},
+			{
+				"kanji": "調",
+				"meanings": [
+					"tone"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721272",
+		"svg": "08a00.svg"
+	},
+	{
+		"radical": "谷",
+		"reading": "たに",
+		"meanings": [
+			"valley"
+		],
+		"strokes": "7",
+		"mnemonic": "Pictograph of a small house in a valley. The outline of the surrounding mountains can be seen above.",
+		"kanji": [
+			{
+				"kanji": "欲",
+				"meanings": [
+					"desire"
+				]
+			},
+			{
+				"kanji": "容",
+				"meanings": [
+					"contain"
+				]
+			},
+			{
+				"kanji": "裕",
+				"meanings": [
+					"abundant"
+				]
+			},
+			{
+				"kanji": "浴",
+				"meanings": [
+					"bath"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721273",
+		"svg": "08c37.svg"
+	},
+	{
+		"radical": "豆",
+		"reading": "まめ",
+		"meanings": [
+			"bean"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "頭",
+				"meanings": [
+					"head"
+				]
+			},
+			{
+				"kanji": "闘",
+				"meanings": [
+					"fight to win"
+				]
+			},
+			{
+				"kanji": "喜",
+				"meanings": [
+					"joy"
+				]
+			},
+			{
+				"kanji": "短",
+				"meanings": [
+					"short"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721274",
+		"svg": "08c46.svg"
+	},
+	{
+		"radical": "豕",
+		"reading": "いのこ",
+		"meanings": [
+			"pig",
+			"wild pig"
+		],
+		"strokes": "7",
+		"mnemonic": "One must not beat a wild pig with a divining rod. Not only you'll probably break your divining rod, but you'll piss of the pig and it'll eat all of your crops in revenge.",
+		"kanji": [
+			{
+				"kanji": "家",
+				"meanings": [
+					"house"
+				]
+			},
+			{
+				"kanji": "隊",
+				"meanings": [
+					"squad"
+				]
+			},
+			{
+				"kanji": "象",
+				"meanings": [
+					"elephant"
+				]
+			},
+			{
+				"kanji": "縁",
+				"meanings": [
+					"connected by fate"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721275",
+		"svg": "08c55.svg"
+	},
+	{
+		"radical": "豸",
+		"reading": "むじなへん",
+		"meanings": [
+			"badger"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "貌",
+				"meanings": [
+					"facial features"
+				]
+			},
+			{
+				"kanji": "懇",
+				"meanings": [
+					"sincere"
+				]
+			},
+			{
+				"kanji": "豹",
+				"meanings": [
+					"leopard"
+				]
+			},
+			{
+				"kanji": "貘",
+				"meanings": [
+					"tapir"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721276",
+		"svg": "08c78.svg"
+	},
+	{
+		"radical": "貝",
+		"reading": "かい",
+		"meanings": [
+			"shell",
+			"property",
+			"wealth",
+			"shellfish"
+		],
+		"strokes": "7",
+		"mnemonic": "A shellfish with one really big eye and a pair of short legs.\nDo not confuse with 見, where the legs are longer.",
+		"kanji": [
+			{
+				"kanji": "貴",
+				"meanings": [
+					"noble"
+				]
+			},
+			{
+				"kanji": "員",
+				"meanings": [
+					"member"
+				]
+			},
+			{
+				"kanji": "負",
+				"meanings": [
+					"lose to (something)"
+				]
+			},
+			{
+				"kanji": "質",
+				"meanings": [
+					"quality"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721277",
+		"svg": "08c9d.svg"
+	},
+	{
+		"radical": "赤",
+		"reading": "あか",
+		"meanings": [
+			"red"
+		],
+		"strokes": "7",
+		"mnemonic": "A bloody knife stained the earth red with all of the blood dripping from it.",
+		"kanji": [
+			{
+				"kanji": "赦",
+				"meanings": [
+					"pardon"
+				]
+			},
+			{
+				"kanji": "赫",
+				"meanings": [
+					"incandescent"
+				]
+			},
+			{
+				"kanji": "赭"
+			},
+			{
+				"kanji": "赧",
+				"meanings": [
+					"get red"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721278",
+		"svg": "08d64.svg"
+	},
+	{
+		"radical": "走",
+		"reading": "はしる",
+		"meanings": [
+			"to run",
+			"run"
+		],
+		"strokes": "7",
+		"mnemonic": "Running barefoot is a dangerous business. You can get splinters in your foot from stepping on the rocks and bare earth. So be sure to wear your running shoes before you go for a run!",
+		"kanji": [
+			{
+				"kanji": "起",
+				"meanings": [
+					"to occur"
+				]
+			},
+			{
+				"kanji": "徒",
+				"meanings": [
+					"follower"
+				]
+			},
+			{
+				"kanji": "越",
+				"meanings": [
+					"go beyond"
+				]
+			},
+			{
+				"kanji": "超",
+				"meanings": [
+					"exceed"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721279",
+		"svg": "08d70.svg"
+	},
+	{
+		"radical": "足",
+		"reading": "あし",
+		"meanings": [
+			"foot",
+			"leg"
+		],
+		"strokes": "7",
+		"mnemonic": "Gross! Do not put your mouth in your running shoes! That's where your foot goes, right?!",
+		"kanji": [
+			{
+				"kanji": "促",
+				"meanings": [
+					"urge"
+				]
+			},
+			{
+				"kanji": "捉",
+				"meanings": [
+					"grab and hold"
+				]
+			},
+			{
+				"kanji": "跫",
+				"meanings": [
+					"sound of footsteps"
+				]
+			},
+			{
+				"kanji": "蹙",
+				"meanings": [
+					"a tight place"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721280",
+		"svg": "08db3.svg"
+	},
+	{
+		"radical": "𧾷",
+		"reading": "あしへん",
+		"meanings": [
+			"foot",
+			"leg",
+			"slender foot"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "路",
+				"meanings": [
+					"path"
+				]
+			},
+			{
+				"kanji": "踏",
+				"meanings": [
+					"to step on"
+				]
+			},
+			{
+				"kanji": "距",
+				"meanings": [
+					"separated by"
+				]
+			},
+			{
+				"kanji": "跡",
+				"meanings": [
+					"traces (of something moving or being done)"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721281"
+	},
+	{
+		"radical": "身",
+		"reading": "み",
+		"meanings": [
+			"body",
+			"one's body"
+		],
+		"strokes": "7",
+		"mnemonic": "One's body is where you can nurture a self-made talent.",
+		"kanji": [
+			{
+				"kanji": "射",
+				"meanings": [
+					"shoot"
+				]
+			},
+			{
+				"kanji": "窮",
+				"meanings": [
+					"reach a limit"
+				]
+			},
+			{
+				"kanji": "躱",
+				"meanings": [
+					"dodge"
+				]
+			},
+			{
+				"kanji": "躯",
+				"meanings": [
+					"body (old)"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721282",
+		"svg": "08eab.svg"
+	},
+	{
+		"radical": "車",
+		"reading": "くるま",
+		"meanings": [
+			"vehicle",
+			"wheel",
+			"car"
+		],
+		"strokes": "7",
+		"mnemonic": "A pictograph of a vehicle, show from a bird's-eye view. You have the front wheels at the top, the back wheels at the bottom, and the middle is where you put stuff in, be it people or goods.",
+		"kanji": [
+			{
+				"kanji": "撃",
+				"meanings": [
+					"fire a gun"
+				]
+			},
+			{
+				"kanji": "連",
+				"meanings": [
+					"take along"
+				]
+			},
+			{
+				"kanji": "軍",
+				"meanings": [
+					"army"
+				]
+			},
+			{
+				"kanji": "輩",
+				"meanings": [
+					"comrade"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721283",
+		"svg": "08eca.svg"
+	},
+	{
+		"radical": "辛",
+		"reading": "からい",
+		"meanings": [
+			"bitter",
+			"spicy"
+		],
+		"strokes": "7",
+		"mnemonic": "The food was so spicy that I had to stand up ten times and go take a sip of water before I finished it all.",
+		"kanji": [
+			{
+				"kanji": "幸",
+				"meanings": [
+					"happiness"
+				]
+			},
+			{
+				"kanji": "辞",
+				"meanings": [
+					"resign"
+				]
+			},
+			{
+				"kanji": "梓",
+				"meanings": [
+					"catalpa"
+				]
+			},
+			{
+				"kanji": "宰",
+				"meanings": [
+					"primary supervisor"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721284",
+		"svg": "08f9b.svg"
+	},
+	{
+		"radical": "辰",
+		"reading": "しんのたつ",
+		"meanings": [
+			"Fifth zodiac sign",
+			"7–9 A.M.",
+			"sign of the dragon"
+		],
+		"strokes": "7",
+		"mnemonic": "There are only two pairs of long legs left under the cliff, with the upper torso completely missing, burned away by something... It's a definite sign of a dragon. A very pissed fire-breathing one at that. Those poor adventurers never stood a chance...\n(Imagine the dragon completely vaporizing the adventurers' torsos with his breath leaving only the legs, and then flying away in search of another prey.)",
+		"kanji": [
+			{
+				"kanji": "振",
+				"meanings": [
+					"to wave"
+				]
+			},
+			{
+				"kanji": "震",
+				"meanings": [
+					"tremors"
+				]
+			},
+			{
+				"kanji": "唇",
+				"meanings": [
+					"lips"
+				]
+			},
+			{
+				"kanji": "農",
+				"meanings": [
+					"farming"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721285",
+		"svg": "08fb0.svg"
+	},
+	{
+		"radical": "辵",
+		"reading": "しんにょう",
+		"meanings": [
+			"to advance",
+			"move ahead",
+			"walking"
+		],
+		"strokes": "7",
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::0"
+		],
+		"id": "85721286"
+	},
+	{
+		"radical": "邑",
+		"reading": "むら",
+		"meanings": [
+			"community",
+			"city walls"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "扈"
+			},
+			{
+				"kanji": "邕",
+				"meanings": [
+					"former or literary name for Nann"
+				]
+			},
+			{
+				"kanji": "癰"
+			},
+			{
+				"kanji": "悒",
+				"meanings": [
+					"be depressed"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721287",
+		"svg": "09091.svg"
+	},
+	{
+		"radical": "酉",
+		"reading": "ひよみのとり",
+		"meanings": [
+			"sake jar",
+			"bird",
+			"sign of the bird"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "配",
+				"meanings": [
+					"hand out"
+				]
+			},
+			{
+				"kanji": "酒",
+				"meanings": [
+					"alcoholic drink"
+				]
+			},
+			{
+				"kanji": "酷",
+				"meanings": [
+					"cruel"
+				]
+			},
+			{
+				"kanji": "酔",
+				"meanings": [
+					"drunk"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721288",
+		"svg": "09149.svg"
+	},
+	{
+		"radical": "釆",
+		"reading": "のごめ",
+		"meanings": [
+			"to separate",
+			"slashed rice"
+		],
+		"strokes": "7",
+		"mnemonic": "A pictograph of rice that was slashed from the top with a sickle.",
+		"kanji": [
+			{
+				"kanji": "番",
+				"meanings": [
+					"place in a series"
+				]
+			},
+			{
+				"kanji": "釈",
+				"meanings": [
+					"explanation"
+				]
+			},
+			{
+				"kanji": "悉",
+				"meanings": [
+					"without exception"
+				]
+			},
+			{
+				"kanji": "奧",
+				"meanings": [
+					"deep inside [old]"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721289",
+		"svg": "091c6.svg"
+	},
+	{
+		"radical": "里",
+		"reading": "さと",
+		"meanings": [
+			"village",
+			"(3.93 km)",
+			"home village"
+		],
+		"strokes": "7",
+		"mnemonic": "My home village is famous for its turtle outer shell soup, we eat two every day!",
+		"kanji": [
+			{
+				"kanji": "理",
+				"meanings": [
+					"logic"
+				]
+			},
+			{
+				"kanji": "重",
+				"meanings": [
+					"heavy"
+				]
+			},
+			{
+				"kanji": "黒",
+				"meanings": [
+					"black"
+				]
+			},
+			{
+				"kanji": "野",
+				"meanings": [
+					"field"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721290",
+		"svg": "091cc.svg"
+	},
+	{
+		"radical": "臣",
+		"reading": "しん",
+		"meanings": [
+			"retainer",
+			"minister",
+			"government minister"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "姫",
+				"meanings": [
+					"princess"
+				]
+			},
+			{
+				"kanji": "監",
+				"meanings": [
+					"supervise"
+				]
+			},
+			{
+				"kanji": "蔵",
+				"meanings": [
+					"stash"
+				]
+			},
+			{
+				"kanji": "臨",
+				"meanings": [
+					"face something"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::4"
+		],
+		"id": "85721291",
+		"svg": "081e3.svg"
+	},
+	{
+		"radical": "麦",
+		"reading": "むぎ",
+		"meanings": [
+			"wheat"
+		],
+		"strokes": "7",
+		"kanji": [
+			{
+				"kanji": "麺",
+				"meanings": [
+					"noodles"
+				]
+			},
+			{
+				"kanji": "麹",
+				"meanings": [
+					"malted rice"
+				]
+			},
+			{
+				"kanji": "麸",
+				"meanings": [
+					"light wheat-gluten bread [simplified]"
+				]
+			}
+		],
+		"tags": [
+			"strokes::7",
+			"used_in_kanji::3"
+		],
+		"id": "85721292",
+		"svg": "09ea6.svg"
+	},
+	{
+		"radical": "金",
+		"reading": "かね",
+		"meanings": [
+			"metal",
+			"gold",
+			"mineral"
+		],
+		"strokes": "8",
+		"mnemonic": "Money and gold is known to make people corrupt. Even if it's not obvious, even if someone doesn't have a pair of horns growing out of their head and instead they're hiding those horns in their pants, you can still tell their whole existence is corrupt.",
+		"kanji": [
+			{
+				"kanji": "銀",
+				"meanings": [
+					"silver"
+				]
+			},
+			{
+				"kanji": "銃",
+				"meanings": [
+					"gun"
+				]
+			},
+			{
+				"kanji": "鉄",
+				"meanings": [
+					"iron"
+				]
+			},
+			{
+				"kanji": "鏡",
+				"meanings": [
+					"mirror"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721293",
+		"svg": "091d1.svg"
+	},
+	{
+		"radical": "長",
+		"reading": "ながい",
+		"meanings": [
+			"long"
+		],
+		"strokes": "8",
+		"mnemonic": "A hair comb with really long legs (also called \"teeth\" — you know, the part which you actually use to brush your hair with?) is a fashion accessory that's not going to be seen often. It may be long, but it certainly isn't practical!",
+		"kanji": [
+			{
+				"kanji": "張",
+				"meanings": [
+					"lengthen"
+				]
+			},
+			{
+				"kanji": "帳",
+				"meanings": [
+					"notebook"
+				]
+			},
+			{
+				"kanji": "脹",
+				"meanings": [
+					"dilate"
+				]
+			},
+			{
+				"kanji": "悵"
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721294",
+		"svg": "09577.svg"
+	},
+	{
+		"radical": "門",
+		"reading": "もんがまえ",
+		"meanings": [
+			"gate",
+			"door"
+		],
+		"strokes": "8",
+		"mnemonic": "A pictograph of a gate. This kanji looks just like those wild west saloon doors, doesn't it? A gate into the saloon!",
+		"kanji": [
+			{
+				"kanji": "間",
+				"meanings": [
+					"interval"
+				]
+			},
+			{
+				"kanji": "聞",
+				"meanings": [
+					"hear"
+				]
+			},
+			{
+				"kanji": "開",
+				"meanings": [
+					"open"
+				]
+			},
+			{
+				"kanji": "問",
+				"meanings": [
+					"question"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721295",
+		"svg": "09580.svg"
+	},
+	{
+		"radical": "阜",
+		"reading": "こざと",
+		"meanings": [
+			"hill",
+			"Gifu hill"
+		],
+		"strokes": "8",
+		"kanji": [
+			{
+				"kanji": "埠",
+				"meanings": [
+					"wharf"
+				]
+			}
+		],
+		"tags": [
+			"strokes::8",
+			"used_in_kanji::1"
+		],
+		"id": "85721296",
+		"svg": "0961c.svg"
+	},
+	{
+		"radical": "隶",
+		"reading": "れいづくり",
+		"meanings": [
+			"to capture",
+			"servant"
+		],
+		"strokes": "8",
+		"tags": [
+			"strokes::8",
+			"used_in_kanji::0"
+		],
+		"id": "85721297",
+		"svg": "096b6.svg"
+	},
+	{
+		"radical": "隹",
+		"reading": "ふるとり",
+		"meanings": [
+			"small bird",
+			"old bird"
+		],
+		"strokes": "8",
+		"mnemonic": "A pictograph of a very proud, old bird.",
+		"kanji": [
+			{
+				"kanji": "確",
+				"meanings": [
+					"certain"
+				]
+			},
+			{
+				"kanji": "誰",
+				"meanings": [
+					"who?"
+				]
+			},
+			{
+				"kanji": "離",
+				"meanings": [
+					"physical distance"
+				]
+			},
+			{
+				"kanji": "集",
+				"meanings": [
+					"gather together"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721298",
+		"svg": "096b9.svg"
+	},
+	{
+		"radical": "雨",
+		"reading": "あめ",
+		"meanings": [
+			"rain"
+		],
+		"strokes": "8",
+		"mnemonic": "A pictograph of a window through which you can see the rain.",
+		"kanji": [
+			{
+				"kanji": "電",
+				"meanings": [
+					"electric"
+				]
+			},
+			{
+				"kanji": "霊",
+				"meanings": [
+					"ghost"
+				]
+			},
+			{
+				"kanji": "震",
+				"meanings": [
+					"tremors"
+				]
+			},
+			{
+				"kanji": "雪",
+				"meanings": [
+					"snow"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721299",
+		"svg": "096e8.svg"
+	},
+	{
+		"radical": "雨",
+		"reading": "あめかんむり",
+		"meanings": [
+			"rain"
+		],
+		"strokes": "8",
+		"mnemonic": "A pictograph of a window through which you can see the rain.",
+		"kanji": [
+			{
+				"kanji": "電",
+				"meanings": [
+					"electric"
+				]
+			},
+			{
+				"kanji": "霊",
+				"meanings": [
+					"ghost"
+				]
+			},
+			{
+				"kanji": "震",
+				"meanings": [
+					"tremors"
+				]
+			},
+			{
+				"kanji": "雪",
+				"meanings": [
+					"snow"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721300",
+		"svg": "096e8.svg"
+	},
+	{
+		"radical": "靑",
+		"reading": "あお",
+		"meanings": [
+			"blue",
+			"green"
+		],
+		"strokes": "8",
+		"tags": [
+			"strokes::8",
+			"used_in_kanji::0"
+		],
+		"id": "85721301"
+	},
+	{
+		"radical": "青",
+		"reading": "あお",
+		"meanings": [
+			"blue",
+			"green"
+		],
+		"strokes": "8",
+		"mnemonic": "If a king with a hat would live on the moon, he would certainly appear blue due to all of the blue light reflected off Earth.",
+		"kanji": [
+			{
+				"kanji": "情",
+				"meanings": [
+					"emotion"
+				]
+			},
+			{
+				"kanji": "精",
+				"meanings": [
+					"spirit (of life)"
+				]
+			},
+			{
+				"kanji": "静",
+				"meanings": [
+					"quiet"
+				]
+			},
+			{
+				"kanji": "晴",
+				"meanings": [
+					"clear up"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721302",
+		"svg": "09752.svg"
+	},
+	{
+		"radical": "非",
+		"reading": "あらず",
+		"meanings": [
+			"wrong",
+			"non-",
+			"go against"
+		],
+		"strokes": "8",
+		"mnemonic": "Pictograph of an ugly centipede, such a creation definitely goes against the will of God and was created by the devil himself. Even its lower left leg is crooked!",
+		"kanji": [
+			{
+				"kanji": "輩",
+				"meanings": [
+					"comrade"
+				]
+			},
+			{
+				"kanji": "悲",
+				"meanings": [
+					"sad"
+				]
+			},
+			{
+				"kanji": "罪",
+				"meanings": [
+					"sin"
+				]
+			},
+			{
+				"kanji": "扉",
+				"meanings": [
+					"front door"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721303",
+		"svg": "0975e.svg"
+	},
+	{
+		"radical": "飠",
+		"reading": "しょくへん",
+		"meanings": [
+			"food",
+			"to eat",
+			"eat a little"
+		],
+		"strokes": "8",
+		"kanji": [
+			{
+				"kanji": "飲",
+				"meanings": [
+					"drink"
+				]
+			},
+			{
+				"kanji": "館",
+				"meanings": [
+					"public building"
+				]
+			},
+			{
+				"kanji": "飯",
+				"meanings": [
+					"meal"
+				]
+			},
+			{
+				"kanji": "飾",
+				"meanings": [
+					"decorate"
+				]
+			}
+		],
+		"tags": [
+			"strokes::8",
+			"used_in_kanji::4"
+		],
+		"id": "85721304",
+		"svg": "098e0.svg"
+	},
+	{
+		"radical": "斉",
+		"reading": "せい",
+		"meanings": [
+			"alike",
+			"simultaneously"
+		],
+		"strokes": "8",
+		"mnemonic": "You can't simultaneously look down writing sentences in your notebook and look up at the moon at the same time. Well, maybe you can if you'd hold your notebook up with one hand covering part of the moon with it and write with your other hand.",
+		"kanji": [
+			{
+				"kanji": "済",
+				"meanings": [
+					"settle"
+				]
+			},
+			{
+				"kanji": "剤",
+				"meanings": [
+					"chemical substance"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::8",
+			"used_in_kanji::2"
+		],
+		"id": "85721305",
+		"svg": "06589.svg"
+	},
+	{
+		"radical": "面",
+		"reading": "めん",
+		"meanings": [
+			"face",
+			"surface"
+		],
+		"strokes": "9",
+		"mnemonic": "A pictograph of a screen showing a ladder hanging from the ceiling on a piece of string or a rope. It's the surface of a projector screen. Someone's showing a PowerPoint presetation on it about ladders.",
+		"kanji": [
+			{
+				"kanji": "麺",
+				"meanings": [
+					"noodles"
+				]
+			},
+			{
+				"kanji": "緬",
+				"meanings": [
+					"fine thread"
+				]
+			},
+			{
+				"kanji": "靨",
+				"meanings": [
+					"dimple"
+				]
+			},
+			{
+				"kanji": "麵",
+				"meanings": [
+					"noodles [old]"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721306",
+		"svg": "09762.svg"
+	},
+	{
+		"radical": "革",
+		"reading": "つくりがわ",
+		"meanings": [
+			"leather"
+		],
+		"strokes": "9",
+		"kanji": [
+			{
+				"kanji": "靴",
+				"meanings": [
+					"shoes"
+				]
+			},
+			{
+				"kanji": "鞄",
+				"meanings": [
+					"briefcase"
+				]
+			},
+			{
+				"kanji": "覇",
+				"meanings": [
+					"supremacy"
+				]
+			},
+			{
+				"kanji": "鞭",
+				"meanings": [
+					"whip"
+				]
+			}
+		],
+		"tags": [
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721307",
+		"svg": "09769.svg"
+	},
+	{
+		"radical": "韭",
+		"reading": "にら",
+		"meanings": [
+			"leek",
+			"leek (radical)"
+		],
+		"strokes": "9",
+		"kanji": [
+			{
+				"kanji": "殲",
+				"meanings": [
+					"annihilation"
+				]
+			},
+			{
+				"kanji": "懺",
+				"meanings": [
+					"penitential"
+				]
+			},
+			{
+				"kanji": "籤",
+				"meanings": [
+					"lottery"
+				]
+			},
+			{
+				"kanji": "韮",
+				"meanings": [
+					"leek"
+				]
+			}
+		],
+		"tags": [
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721308",
+		"svg": "097ed.svg"
+	},
+	{
+		"radical": "音",
+		"reading": "おと",
+		"meanings": [
+			"sound",
+			"noise"
+		],
+		"strokes": "9",
+		"mnemonic": "Imagine physically standing on the surface a sun. I'd be so hot that the only sound you'd be making is a horrific scream. \"Aaaaaaaaaaaaah! IT BURNS!\"",
+		"kanji": [
+			{
+				"kanji": "意",
+				"meanings": [
+					"idea"
+				]
+			},
+			{
+				"kanji": "響",
+				"meanings": [
+					"echo"
+				]
+			},
+			{
+				"kanji": "暗",
+				"meanings": [
+					"dark"
+				]
+			},
+			{
+				"kanji": "闇",
+				"meanings": [
+					"pitch-black darkness"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721309",
+		"svg": "097f3.svg"
+	},
+	{
+		"radical": "頁",
+		"reading": "おおがい",
+		"meanings": [
+			"head",
+			"page"
+		],
+		"strokes": "9",
+		"mnemonic": "If you'd take one shellfish how much text do you think you'd be able to scribble on its shell? If you'd use a really tiny font probably one page worth of text?",
+		"kanji": [
+			{
+				"kanji": "顔",
+				"meanings": [
+					"face"
+				]
+			},
+			{
+				"kanji": "頭",
+				"meanings": [
+					"head"
+				]
+			},
+			{
+				"kanji": "題",
+				"meanings": [
+					"topic"
+				]
+			},
+			{
+				"kanji": "頼",
+				"meanings": [
+					"rely on"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721310",
+		"svg": "09801.svg"
+	},
+	{
+		"radical": "風",
+		"reading": "かぜ",
+		"meanings": [
+			"wind"
+		],
+		"strokes": "9",
+		"mnemonic": "When there's an insect under your desk you need to quickly slash it with your fly swatter! Oh wait, that wasn't an insect that touched your leg; it was just the wind...",
+		"kanji": [
+			{
+				"kanji": "嵐",
+				"meanings": [
+					"storm"
+				]
+			},
+			{
+				"kanji": "楓",
+				"meanings": [
+					"maple tree"
+				]
+			},
+			{
+				"kanji": "颯",
+				"meanings": [
+					"rustling"
+				]
+			},
+			{
+				"kanji": "飄",
+				"meanings": [
+					"turn over"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721311",
+		"svg": "098a8.svg"
+	},
+	{
+		"radical": "飛",
+		"reading": "とぶ",
+		"meanings": [
+			"to fly",
+			"fly"
+		],
+		"strokes": "9",
+		"kanji": [
+			{
+				"kanji": "飜",
+				"meanings": [
+					"flip over [old]"
+				]
+			}
+		],
+		"tags": [
+			"strokes::9",
+			"used_in_kanji::1"
+		],
+		"id": "85721312",
+		"svg": "098db.svg"
+	},
+	{
+		"radical": "食",
+		"reading": "しょく",
+		"meanings": [
+			"food",
+			"to eat",
+			"eat"
+		],
+		"strokes": "9",
+		"mnemonic": "A good person will eat everything that their momma puts on their plate.",
+		"kanji": [
+			{
+				"kanji": "養",
+				"meanings": [
+					"support growth"
+				]
+			},
+			{
+				"kanji": "喰",
+				"meanings": [
+					"feed on (something)"
+				]
+			},
+			{
+				"kanji": "餐",
+				"meanings": [
+					"repast"
+				]
+			},
+			{
+				"kanji": "饗",
+				"meanings": [
+					"feast"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::9",
+			"used_in_kanji::4"
+		],
+		"id": "85721313",
+		"svg": "098df.svg"
+	},
+	{
+		"radical": "首",
+		"reading": "くび",
+		"meanings": [
+			"head",
+			"neck"
+		],
+		"strokes": "9",
+		"kanji": [
+			{
+				"kanji": "道",
+				"meanings": [
+					"roadway"
+				]
+			},
+			{
+				"kanji": "馗"
+			},
+			{
+				"kanji": "馘",
+				"meanings": [
+					"behead"
+				]
+			}
+		],
+		"tags": [
+			"strokes::9",
+			"used_in_kanji::3"
+		],
+		"id": "85721314",
+		"svg": "09996.svg"
+	},
+	{
+		"radical": "香",
+		"reading": "かおり",
+		"meanings": [
+			"scent",
+			"nice smell"
+		],
+		"strokes": "9",
+		"kanji": [
+			{
+				"kanji": "馨",
+				"meanings": [
+					"heavenly smell"
+				]
+			},
+			{
+				"kanji": "馥"
+			}
+		],
+		"tags": [
+			"strokes::9",
+			"used_in_kanji::2"
+		],
+		"id": "85721315",
+		"svg": "09999.svg"
+	},
+	{
+		"radical": "馬",
+		"reading": "うま",
+		"meanings": [
+			"horse"
+		],
+		"strokes": "10",
+		"kanji": [
+			{
+				"kanji": "驚",
+				"meanings": [
+					"surprise"
+				]
+			},
+			{
+				"kanji": "騎",
+				"meanings": [
+					"horseman"
+				]
+			},
+			{
+				"kanji": "験",
+				"meanings": [
+					"verification"
+				]
+			},
+			{
+				"kanji": "駄",
+				"meanings": [
+					"low quality"
+				]
+			}
+		],
+		"tags": [
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721316",
+		"svg": "099ac.svg"
+	},
+	{
+		"radical": "骨",
+		"reading": "ほね",
+		"meanings": [
+			"bone"
+		],
+		"strokes": "10",
+		"kanji": [
+			{
+				"kanji": "滑",
+				"meanings": [
+					"slippery"
+				]
+			},
+			{
+				"kanji": "骸",
+				"meanings": [
+					"remains"
+				]
+			},
+			{
+				"kanji": "髄",
+				"meanings": [
+					"marrow"
+				]
+			},
+			{
+				"kanji": "猾",
+				"meanings": [
+					"sly"
+				]
+			}
+		],
+		"tags": [
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721317",
+		"svg": "09aa8.svg"
+	},
+	{
+		"radical": "高",
+		"reading": "たかい",
+		"meanings": [
+			"high"
+		],
+		"strokes": "10",
+		"mnemonic": "That is a really high two-story building. We have the mouth on the bottom being the entrance, the upside-down-box being the first floor, another mouth being the second floor widow, and a lid at the top being its roof.",
+		"kanji": [
+			{
+				"kanji": "稿",
+				"meanings": [
+					"draft"
+				]
+			},
+			{
+				"kanji": "藁",
+				"meanings": [
+					"straw"
+				]
+			},
+			{
+				"kanji": "膏",
+				"meanings": [
+					"ointment"
+				]
+			},
+			{
+				"kanji": "縞",
+				"meanings": [
+					"stripe"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721318",
+		"svg": "09ad8.svg"
+	},
+	{
+		"radical": "髟",
+		"reading": "かみかんむり",
+		"meanings": [
+			"long hair",
+			"comb a patch of hair"
+		],
+		"strokes": "10",
+		"mnemonic": "A bodybuilder is holding a hair comb and is using it on his last remaining patch of hair to comb it. If he keeps on using all of those steroids it won't be long before he goes completely bald and won't be able to do it anymore...",
+		"kanji": [
+			{
+				"kanji": "髪",
+				"meanings": [
+					"hair"
+				]
+			},
+			{
+				"kanji": "髭",
+				"meanings": [
+					"beard"
+				]
+			},
+			{
+				"kanji": "髯",
+				"meanings": [
+					"mustache"
+				]
+			},
+			{
+				"kanji": "鬚"
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721319",
+		"svg": "09adf.svg"
+	},
+	{
+		"radical": "鬥",
+		"reading": "たたかいがまえ",
+		"meanings": [
+			"fighting",
+			"king's gate"
+		],
+		"strokes": "10",
+		"kanji": [
+			{
+				"kanji": "鬨",
+				"meanings": [
+					"war cry"
+				]
+			},
+			{
+				"kanji": "鬩"
+			},
+			{
+				"kanji": "鬮",
+				"meanings": [
+					"raffle"
+				]
+			},
+			{
+				"kanji": "鬧",
+				"meanings": [
+					"dispute hotly"
+				]
+			}
+		],
+		"tags": [
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721320",
+		"svg": "09b25.svg"
+	},
+	{
+		"radical": "鬯",
+		"reading": "においざけ",
+		"meanings": [
+			"herbs",
+			"fragrant herbs"
+		],
+		"strokes": "10",
+		"tags": [
+			"strokes::10",
+			"used_in_kanji::0"
+		],
+		"id": "85721321",
+		"svg": "09b2f.svg"
+	},
+	{
+		"radical": "鬲",
+		"reading": "れき",
+		"meanings": [
+			"tripod",
+			"kettle with three legs"
+		],
+		"strokes": "10",
+		"kanji": [
+			{
+				"kanji": "隔",
+				"meanings": [
+					"isolate"
+				]
+			},
+			{
+				"kanji": "融",
+				"meanings": [
+					"dissolve"
+				]
+			},
+			{
+				"kanji": "膈",
+				"meanings": [
+					"diaphragm"
+				]
+			},
+			{
+				"kanji": "鬻",
+				"meanings": [
+					"deal in"
+				]
+			}
+		],
+		"tags": [
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721322",
+		"svg": "09b32.svg"
+	},
+	{
+		"radical": "鬼",
+		"reading": "おに",
+		"meanings": [
+			"demon",
+			"oni"
+		],
+		"strokes": "10",
+		"mnemonic": "The oni are demonic, fearsome creatures of legend. Even though this one's face was badly slashed on its left side it is powerul enough to plow through a whole rice field and eat all of the farmers working on it, running on its strong legs, and having a whole arm of a bodybuilder inside of its belly that it consumed a while ago.",
+		"kanji": [
+			{
+				"kanji": "魔",
+				"meanings": [
+					"demon"
+				]
+			},
+			{
+				"kanji": "魂",
+				"meanings": [
+					"soul"
+				]
+			},
+			{
+				"kanji": "魅",
+				"meanings": [
+					"charm"
+				]
+			},
+			{
+				"kanji": "塊",
+				"meanings": [
+					"lump"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721323",
+		"svg": "09b3c.svg"
+	},
+	{
+		"radical": "韋",
+		"reading": "なめしがわ",
+		"meanings": [
+			"leather",
+			"tanned leather"
+		],
+		"strokes": "10",
+		"kanji": [
+			{
+				"kanji": "違",
+				"meanings": [
+					"different therefore wrong"
+				]
+			},
+			{
+				"kanji": "衛",
+				"meanings": [
+					"defend"
+				]
+			},
+			{
+				"kanji": "偉",
+				"meanings": [
+					"great"
+				]
+			},
+			{
+				"kanji": "緯",
+				"meanings": [
+					"latitude"
+				]
+			}
+		],
+		"tags": [
+			"strokes::10",
+			"used_in_kanji::4"
+		],
+		"id": "85721324",
+		"svg": "097cb.svg"
+	},
+	{
+		"radical": "魚",
+		"reading": "うお",
+		"meanings": [
+			"fish"
+		],
+		"strokes": "11",
+		"mnemonic": "You know how dead fish always rise to the surface? Let's set the rice field on fire and then use our hook to grab all of the fish! What do you mean there are no fish swimming in the rice fields? But it's full of water!",
+		"kanji": [
+			{
+				"kanji": "鮮",
+				"meanings": [
+					"fresh"
+				]
+			},
+			{
+				"kanji": "蘇",
+				"meanings": [
+					"resurrect"
+				]
+			},
+			{
+				"kanji": "漁",
+				"meanings": [
+					"gathering seafood"
+				]
+			},
+			{
+				"kanji": "鱗",
+				"meanings": [
+					"scaled"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::11",
+			"used_in_kanji::4"
+		],
+		"id": "85721325",
+		"svg": "09b5a.svg"
+	},
+	{
+		"radical": "鳥",
+		"reading": "とり",
+		"meanings": [
+			"bird"
+		],
+		"strokes": "11",
+		"kanji": [
+			{
+				"kanji": "鳴",
+				"meanings": [
+					"to ring"
+				]
+			},
+			{
+				"kanji": "鷹",
+				"meanings": [
+					"hawk"
+				]
+			},
+			{
+				"kanji": "鶴",
+				"meanings": [
+					"crane"
+				]
+			},
+			{
+				"kanji": "鶏",
+				"meanings": [
+					"chicken"
+				]
+			}
+		],
+		"tags": [
+			"strokes::11",
+			"used_in_kanji::4"
+		],
+		"id": "85721326",
+		"svg": "09ce5.svg"
+	},
+	{
+		"radical": "鹵",
+		"reading": "しお",
+		"meanings": [
+			"salt",
+			"rocksalt"
+		],
+		"strokes": "11",
+		"kanji": [
+			{
+				"kanji": "鹸",
+				"meanings": [
+					"lye"
+				]
+			},
+			{
+				"kanji": "鹼",
+				"meanings": [
+					"alkaline"
+				]
+			},
+			{
+				"kanji": "鹹",
+				"meanings": [
+					"salty"
+				]
+			}
+		],
+		"tags": [
+			"strokes::11",
+			"used_in_kanji::3"
+		],
+		"id": "85721327",
+		"svg": "09e75.svg"
+	},
+	{
+		"radical": "鹿",
+		"reading": "しか",
+		"meanings": [
+			"deer"
+		],
+		"strokes": "11",
+		"mnemonic": "Under a house on a cliff I used a small net to catch two deer and then compare them, for science!",
+		"kanji": [
+			{
+				"kanji": "麗",
+				"meanings": [
+					"lovely"
+				]
+			},
+			{
+				"kanji": "塵",
+				"meanings": [
+					"dust"
+				]
+			},
+			{
+				"kanji": "麓",
+				"meanings": [
+					"foot of a mountain"
+				]
+			},
+			{
+				"kanji": "麟",
+				"meanings": [
+					"camelopard"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::11",
+			"used_in_kanji::4"
+		],
+		"id": "85721328",
+		"svg": "09e7f.svg"
+	},
+	{
+		"radical": "麥",
+		"reading": "むぎ",
+		"meanings": [
+			"wheat",
+			"wheat [old]"
+		],
+		"strokes": "11",
+		"kanji": [
+			{
+				"kanji": "麩",
+				"meanings": [
+					"light wheat-gluten bread"
+				]
+			},
+			{
+				"kanji": "麭",
+				"meanings": [
+					"sticky rice ball"
+				]
+			},
+			{
+				"kanji": "麵",
+				"meanings": [
+					"noodles [old]"
+				]
+			},
+			{
+				"kanji": "麪",
+				"meanings": [
+					"wheat flour"
+				]
+			}
+		],
+		"tags": [
+			"strokes::11",
+			"used_in_kanji::4"
+		],
+		"id": "85721329",
+		"svg": "09ea5.svg"
+	},
+	{
+		"radical": "麻",
+		"reading": "あさ",
+		"meanings": [
+			"hemp"
+		],
+		"strokes": "11",
+		"mnemonic": "A pictograph of a house on a cliff overlooking a bunch of trees. Wait... those are not trees... that's hemp! The bastard who lives in that house is planting cannabis!\n(In case you didn't know the word \"trees\" is actually a slang term for cannabis.)",
+		"kanji": [
+			{
+				"kanji": "魔",
+				"meanings": [
+					"demon"
+				]
+			},
+			{
+				"kanji": "磨",
+				"meanings": [
+					"polish"
+				]
+			},
+			{
+				"kanji": "摩",
+				"meanings": [
+					"grind against"
+				]
+			},
+			{
+				"kanji": "靡",
+				"meanings": [
+					"flutter"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::11",
+			"used_in_kanji::4"
+		],
+		"id": "85721330",
+		"svg": "09ebb.svg"
+	},
+	{
+		"radical": "黄",
+		"reading": "き",
+		"meanings": [
+			"yellow"
+		],
+		"strokes": "11",
+		"kanji": [
+			{
+				"kanji": "横",
+				"meanings": [
+					"sideways"
+				]
+			}
+		],
+		"tags": [
+			"strokes::11",
+			"used_in_kanji::1"
+		],
+		"id": "85721331",
+		"svg": "09ec4.svg"
+	},
+	{
+		"radical": "黒",
+		"reading": "くろ",
+		"meanings": [
+			"black"
+		],
+		"strokes": "11",
+		"mnemonic": "The bandits set a fire under my home village burning it to the ground, leaving behind nothing but black smoke and ashes.",
+		"kanji": [
+			{
+				"kanji": "墨",
+				"meanings": [
+					"black ink"
+				]
+			},
+			{
+				"kanji": "黛",
+				"meanings": [
+					"blue-black"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::11",
+			"used_in_kanji::2"
+		],
+		"id": "85721332",
+		"svg": "09ed2.svg"
+	},
+	{
+		"radical": "亀",
+		"reading": "かめ",
+		"meanings": [
+			"turtle"
+		],
+		"strokes": "11",
+		"tags": [
+			"strokes::11",
+			"used_in_kanji::0"
+		],
+		"id": "85721333",
+		"svg": "04e80.svg"
+	},
+	{
+		"radical": "黃",
+		"reading": "き",
+		"meanings": [
+			"yellow",
+			"yellow [old]"
+		],
+		"strokes": "12",
+		"tags": [
+			"strokes::12",
+			"used_in_kanji::0"
+		],
+		"id": "85721334",
+		"svg": "09ec3.svg"
+	},
+	{
+		"radical": "黍",
+		"reading": "きび",
+		"meanings": [
+			"millet"
+		],
+		"strokes": "12",
+		"kanji": [
+			{
+				"kanji": "黐",
+				"meanings": [
+					"bird-lime"
+				]
+			}
+		],
+		"tags": [
+			"strokes::12",
+			"used_in_kanji::1"
+		],
+		"id": "85721335",
+		"svg": "09ecd.svg"
+	},
+	{
+		"radical": "黑",
+		"reading": "くろ",
+		"meanings": [
+			"black",
+			"black [old]"
+		],
+		"strokes": "12",
+		"kanji": [
+			{
+				"kanji": "黴",
+				"meanings": [
+					"mold"
+				]
+			},
+			{
+				"kanji": "黝"
+			},
+			{
+				"kanji": "黥",
+				"meanings": [
+					"tatooing"
+				]
+			},
+			{
+				"kanji": "黯"
+			}
+		],
+		"tags": [
+			"strokes::12",
+			"used_in_kanji::4"
+		],
+		"id": "85721336",
+		"svg": "09ed1.svg"
+	},
+	{
+		"radical": "黹",
+		"reading": "ぬいとり",
+		"meanings": [
+			"embroider"
+		],
+		"strokes": "12",
+		"kanji": [
+			{
+				"kanji": "黻",
+				"meanings": [
+					"lap robe"
+				]
+			},
+			{
+				"kanji": "黼"
+			},
+			{
+				"kanji": "黺"
+			},
+			{
+				"kanji": "𪓐"
+			}
+		],
+		"tags": [
+			"strokes::12",
+			"used_in_kanji::4"
+		],
+		"id": "85721337",
+		"svg": "09ef9.svg"
+	},
+	{
+		"radical": "歯",
+		"reading": "は",
+		"meanings": [
+			"tooth"
+		],
+		"strokes": "12",
+		"kanji": [
+			{
+				"kanji": "噛",
+				"meanings": [
+					"bite"
+				]
+			},
+			{
+				"kanji": "齢",
+				"meanings": [
+					"age"
+				]
+			}
+		],
+		"tags": [
+			"strokes::12",
+			"used_in_kanji::2"
+		],
+		"id": "85721338",
+		"svg": "06b6f.svg"
+	},
+	{
+		"radical": "黽",
+		"reading": "かえる",
+		"meanings": [
+			"frog",
+			"frog seen from above"
+		],
+		"strokes": "13",
+		"kanji": [
+			{
+				"kanji": "蠅",
+				"meanings": [
+					"housefly"
+				]
+			},
+			{
+				"kanji": "竈"
+			},
+			{
+				"kanji": "鼈",
+				"meanings": [
+					"snapping turtle"
+				]
+			},
+			{
+				"kanji": "繩",
+				"meanings": [
+					"rope [old]"
+				]
+			}
+		],
+		"tags": [
+			"strokes::13",
+			"used_in_kanji::4"
+		],
+		"id": "85721339",
+		"svg": "09efd.svg"
+	},
+	{
+		"radical": "鼎",
+		"reading": "かなえ",
+		"meanings": [
+			"tripod"
+		],
+		"strokes": "13",
+		"tags": [
+			"strokes::13",
+			"used_in_kanji::0"
+		],
+		"id": "85721340",
+		"svg": "09f0e.svg"
+	},
+	{
+		"radical": "鼓",
+		"reading": "つづみ",
+		"meanings": [
+			"drum"
+		],
+		"strokes": "13",
+		"kanji": [
+			{
+				"kanji": "瞽",
+				"meanings": [
+					"blind person"
+				]
+			},
+			{
+				"kanji": "鼕",
+				"meanings": [
+					"beating of drums"
+				]
+			}
+		],
+		"tags": [
+			"strokes::13",
+			"used_in_kanji::2"
+		],
+		"id": "85721341",
+		"svg": "09f13.svg"
+	},
+	{
+		"radical": "鼠",
+		"reading": "ねずみ",
+		"meanings": [
+			"rat",
+			"mouse"
+		],
+		"strokes": "13",
+		"mnemonic": "A highly stylized pictograph of a mouse.\nThe top part is the head, in the bottom left corner we can see two of its legs, with four patches of fur, and on the right is its tail.",
+		"kanji": [
+			{
+				"kanji": "鼬",
+				"meanings": [
+					"weasel"
+				]
+			},
+			{
+				"kanji": "竄",
+				"meanings": [
+					"flee"
+				]
+			},
+			{
+				"kanji": "鼯",
+				"meanings": [
+					"flying squirrel"
+				]
+			},
+			{
+				"kanji": "鼹",
+				"meanings": [
+					"kind of insectivorous rodent"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::13",
+			"used_in_kanji::4"
+		],
+		"id": "85721342",
+		"svg": "09f20.svg"
+	},
+	{
+		"radical": "鼻",
+		"reading": "はな",
+		"meanings": [
+			"nose"
+		],
+		"strokes": "14",
+		"kanji": [
+			{
+				"kanji": "鼾",
+				"meanings": [
+					"snore"
+				]
+			},
+			{
+				"kanji": "嬶",
+				"meanings": [
+					"wife (vulgar)"
+				]
+			},
+			{
+				"kanji": "嚊",
+				"meanings": [
+					"breathing through the nose"
+				]
+			},
+			{
+				"kanji": "劓",
+				"meanings": [
+					"cut off nose"
+				]
+			}
+		],
+		"tags": [
+			"strokes::14",
+			"used_in_kanji::4"
+		],
+		"id": "85721343",
+		"svg": "09f3b.svg"
+	},
+	{
+		"radical": "齊",
+		"reading": "せい",
+		"meanings": [
+			"alike",
+			"simultaneously [old]"
+		],
+		"strokes": "14",
+		"kanji": [
+			{
+				"kanji": "齎",
+				"meanings": [
+					"bring"
+				]
+			},
+			{
+				"kanji": "臍",
+				"meanings": [
+					"belly button"
+				]
+			},
+			{
+				"kanji": "儕"
+			},
+			{
+				"kanji": "薺",
+				"meanings": [
+					"water-chestnuts"
+				]
+			}
+		],
+		"tags": [
+			"strokes::14",
+			"used_in_kanji::4"
+		],
+		"id": "85721344",
+		"svg": "09f4a.svg"
+	},
+	{
+		"radical": "齒",
+		"reading": "は",
+		"meanings": [
+			"tooth",
+			"tooth [old]"
+		],
+		"strokes": "15",
+		"kanji": [
+			{
+				"kanji": "嚙",
+				"meanings": [
+					"bite [old]"
+				]
+			},
+			{
+				"kanji": "齧",
+				"meanings": [
+					"gnaw (like an animal)"
+				]
+			},
+			{
+				"kanji": "齟",
+				"meanings": [
+					"uneven"
+				]
+			},
+			{
+				"kanji": "齬",
+				"meanings": [
+					"irregular teeth"
+				]
+			}
+		],
+		"tags": [
+			"strokes::15",
+			"used_in_kanji::4"
+		],
+		"id": "85721345",
+		"svg": "09f52.svg"
+	},
+	{
+		"radical": "龍",
+		"reading": "りゅう",
+		"meanings": [
+			"dragon",
+			"ancient dragon"
+		],
+		"strokes": "16",
+		"mnemonic": "On the right side we can see a pictograph of an ancient dragon who is standing up. He's so huge his head is higher in the sky than the moon!",
+		"kanji": [
+			{
+				"kanji": "襲",
+				"meanings": [
+					"assault"
+				]
+			},
+			{
+				"kanji": "籠",
+				"meanings": [
+					"basket"
+				]
+			},
+			{
+				"kanji": "朧",
+				"meanings": [
+					"haziness"
+				]
+			},
+			{
+				"kanji": "寵",
+				"meanings": [
+					"patronage"
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"strokes::16",
+			"used_in_kanji::4"
+		],
+		"id": "85721346",
+		"svg": "09f8d.svg"
+	},
+	{
+		"radical": "龜",
+		"reading": "かめ",
+		"meanings": [
+			"turtle",
+			"ancient turtle"
+		],
+		"strokes": "16",
+		"kanji": [
+			{
+				"kanji": "鬮",
+				"meanings": [
+					"raffle"
+				]
+			}
+		],
+		"tags": [
+			"strokes::16",
+			"used_in_kanji::1"
+		],
+		"id": "85721347",
+		"svg": "09f9c.svg"
+	},
+	{
+		"radical": "龠",
+		"reading": "やく",
+		"meanings": [
+			"flute"
+		],
+		"strokes": "17",
+		"tags": [
+			"strokes::17",
+			"used_in_kanji::0"
+		],
+		"id": "85721348",
+		"svg": "09fa0.svg"
+	}
+]

@@ -1,0 +1,126 @@
+.card {
+    font-family: myfont;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #2e2e2e;
+    background-color: #fefefe;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #d1d1d1;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+h3 {
+    font-size: 1.4em;
+    margin-bottom: 0.5em;
+    color: #4b88a2;
+    border-bottom: 2px solid #4b88a2;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.grammar-point {
+    font-size: 2em;
+    font-weight: bold;
+    color: #2a4d69;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.grammar-reading {
+    font-size: 1.2em;
+    color: #5d737e;
+    background-color: #f0f8ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+    display: inline-block;
+    font-style: italic;
+}
+
+.grammar-meaning {
+    font-size: 1.1em;
+    background-color: #ffebcd;
+    color: #7a4b00;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.grammar-meaning-example {
+    font-size: 0.9em;
+    color: #a67100;
+    margin-top: 5px;
+    display: block;
+    font-style: italic;
+}
+
+.grammar-usage {
+    background-color: #e0f7fa;
+    color: #006064;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 8px 0;
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+}
+
+.grammar-phrase {
+    font-size: 1.3em;
+    color: #3e2723;
+    background-color: #fbe9e7;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+    line-height: 1.4;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.entry {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 4px solid #4b88a2;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.entry br {
+    content: " ";
+    display: block;
+    margin-top: 5px;
+}
+
+.note-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.note {
+    background-color: #fef3c7;
+    color: #5d4037;
+    border: 1px solid #f9d78c;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.card * {
+    font-family: myfont !important;
+    font-optical-sizing: auto !important;
+    font-style: normal !important;
+}
+
+@font-face {
+    font-family: myfont;
+    src: url("NotoSansJP-VariableFont_wght.ttf");
+}

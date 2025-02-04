@@ -1,0 +1,6190 @@
+[
+	{
+		"point": "を中心に",
+		"meaning": {
+			"meaning": "center on, in the middle of",
+			"example": "the center of our discussion"
+		},
+		"readings": [
+			{
+				"reading": "をちゅうしんに"
+			}
+		],
+		"usages": [
+			"Noun+を中心に",
+			"Noun+を+Noun+の+中心に"
+		],
+		"phrases": [
+			{
+				"phrase": "今日の会議でこの議題を中心に議論をしましょう。",
+				"translations": [
+					"Let's make this matter the central topic of the discussion at today's meeting,"
+				]
+			},
+			{
+				"phrase": "駅を中心にたくさんの商店が集まっている。",
+				"translations": [
+					"Centered around the station there are many stores."
+				]
+			},
+			{
+				"phrase": "中国を海外展開計画の中心に議論しましょう",
+				"translations": [
+					"Let's make China the center of our overseas expansion plan discussion"
+				]
+			},
+			{
+				"phrase": "この地方を中心として、山地は、本州の東北では三列に、同じく西南では二列に分かれて連なっています。",
+				"translations": [
+					"Centered around this region, three separate mountain ranges extend towards north-east of Honshu, and two separate mountain ranges extend to the south-western part of Honshu"
+				]
+			},
+			{
+				"phrase": "その家のことはすべてメアリーおばさんを中心に動いていた。",
+				"translations": [
+					"Everything in that house revolved around Aunt Mary."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1295"
+	},
+	{
+		"point": "〜時",
+		"meaning": {
+			"meaning": "when",
+			"example": "when i was in japan"
+		},
+		"readings": [
+			{
+				"reading": "〜とき"
+			}
+		],
+		"usages": [
+			"Verb (casual)+時+(に)+(は)",
+			"い-adjective+時+(に)+(は)",
+			"な-adjective+な+時+(に)+(は)",
+			"Noun+の+時+(に)+(は)"
+		],
+		"phrases": [
+			{
+				"phrase": "私は日本に行った時日本語を勉強した",
+				"translations": [
+					"When  I was in Japan, I studied Japanese."
+				]
+			},
+			{
+				"phrase": "いつでも都合のいい時にお金を返してください。",
+				"translations": [
+					"Pay me back when it's convenient."
+				]
+			},
+			{
+				"phrase": "何というときに出てきたんだ！",
+				"translations": [
+					"How on earth could you make your appearance at a crucial time like this!"
+				]
+			},
+			{
+				"phrase": "危険なとき",
+				"translations": [
+					"When in danger"
+				]
+			},
+			{
+				"phrase": "会議のとき",
+				"translations": [
+					"During the meeting"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "509"
+	},
+	{
+		"point": "として",
+		"meaning": {
+			"meaning": "as; in the capacity of",
+			"example": "I'm using this room as a storeroom."
+		},
+		"usages": [
+			"Noun+として"
+		],
+		"phrases": [
+			{
+				"phrase": "この部屋は物置として使っている。",
+				"translations": [
+					"I'm using this room as a storeroom."
+				]
+			},
+			{
+				"phrase": "李さんは自動車の会社でエンジニアとして働いている。",
+				"translations": [
+					"Mister Lee is working in a car maker firm as an engineer."
+				]
+			},
+			{
+				"phrase": "彼は単に冗談としてそれを言った。",
+				"translations": [
+					"He said it merely as a joke."
+				]
+			},
+			{
+				"phrase": "先生として働いています。",
+				"translations": [
+					"I work as a teacher."
+				]
+			},
+			{
+				"phrase": "私は医者としてあなたに言います。",
+				"translations": [
+					"I'll tell you this as a doctor."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "585"
+	},
+	{
+		"point": "に反して",
+		"meaning": {
+			"meaning": "against, contrary to",
+			"example": "contrary to expectations"
+		},
+		"readings": [
+			{
+				"reading": "にはんして"
+			}
+		],
+		"usages": [
+			"Noun+に反して"
+		],
+		"phrases": [
+			{
+				"phrase": "両親の期待に反して女の子が生まれた。",
+				"translations": [
+					"Contrary to the parents expectations, a girl was born."
+				]
+			},
+			{
+				"phrase": "国民の期待に反して政府は年金制度改正法案の強行採決に踏み切った。",
+				"translations": [
+					"Contrary to the peoples expectations, the government bulldozed the pension system revision bill through the Diet."
+				]
+			},
+			{
+				"phrase": "研究社員になる希望に反して大学を止めらなければなりませんでした。",
+				"translations": [
+					"I had to drop out of university against my aspirations of becoming a scientist."
+				]
+			},
+			{
+				"phrase": "神の意向に反して人間は自然を破壊している。",
+				"translations": [
+					"Contrary to God's will, humans are destroying nature."
+				]
+			},
+			{
+				"phrase": "（僕の期待に反して）実のところ物価は毎週上昇している。",
+				"translations": [
+					"( Against my expectations) prices are going up every week.（M)"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "100"
+	},
+	{
+		"point": "それで",
+		"meaning": {
+			"meaning": "and then, after that; Due to that",
+			"example": "Then, what happened? /Due to a early frost, the apple harvest will be small this year."
+		},
+		"phrases": [
+			{
+				"phrase": "朝寝坊した。それで仕事に遅れたんだ。",
+				"translations": [
+					"I overslept. Due to that,  I was late for work."
+				]
+			},
+			{
+				"phrase": "３時のバスで行こうよ。それでいいかい？",
+				"translations": [
+					"I say we catch the 3 o'clock bus. Is that alright with you?"
+				]
+			},
+			{
+				"phrase": "それでどうなりましたか？",
+				"translations": [
+					"And then  what happened?"
+				]
+			},
+			{
+				"phrase": "それでこのカードに記入してください。",
+				"translations": [
+					"Then you just have to fill out this card."
+				]
+			},
+			{
+				"phrase": "それでこれ以上の義務を負わなくてよくなる。",
+				"translations": [
+					"That absolves me from further responsibility."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1486"
+	},
+	{
+		"point": "〜なのに",
+		"meaning": {
+			"meaning": "but, although (contrast, surprising)",
+			"example": "It's summer but it's cold."
+		},
+		"usages": [
+			"い-Adjective+のに",
+			"な-Adjective (without な)+なのに",
+			"Noun+なのに"
+		],
+		"phrases": [
+			{
+				"phrase": "このコンピューター１年前に買ったばかりなのに、もうすっかり時代遅れだわ。",
+				"translations": [
+					"Even though  I bought this computer one year ago, it's already old fashioned."
+				]
+			},
+			{
+				"phrase": "この情報は当然最新であるべきなのに、実際はそうでない。",
+				"translations": [
+					"This information is not as up-to-date as it should be."
+				]
+			},
+			{
+				"phrase": "これは新しい靴なのにもう修理する必要がある。",
+				"translations": [
+					"These new shoes already want mending."
+				]
+			},
+			{
+				"phrase": "ずっと歩いて来たとは、あなたは足が丈夫なのにちがいない。",
+				"translations": [
+					"You must be a good walker to have walked all the way."
+				]
+			},
+			{
+				"phrase": "ジムは目覚めると、自分が部屋に１人なのに気がついた。",
+				"translations": [
+					"Jim awoke and found himself alone in the room."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1493"
+	},
+	{
+		"point": "がち",
+		"meaning": {
+			"meaning": "tend to",
+			"example": "he tends to be late"
+		},
+		"usages": [
+			"Noun+がち",
+			"Verb ます-stem+がち"
+		],
+		"phrases": [
+			{
+				"phrase": "私のボスは、短気で怒りがち。　　　（怒りっぽい is conventional.）",
+				"translations": [
+					"My boss is short-tempered and tends to get  angry easily  ."
+				]
+			},
+			{
+				"phrase": "担当者の好き嫌いによる誤解も場合によっては起こりがち。",
+				"translations": [
+					"Depending on the likes and dislikes of the person in charge it is also easy for mis-understandings to occur."
+				]
+			},
+			{
+				"phrase": "曇りがち",
+				"translations": [
+					"mainly  cloudy"
+				]
+			},
+			{
+				"phrase": "遠慮がち",
+				"translations": [
+					"tends to be reserved"
+				]
+			},
+			{
+				"phrase": "お金持ちは貧乏人を見下しがちである。",
+				"translations": [
+					"The rich are apt to look down upon the poor."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1238"
+	},
+	{
+		"point": "訳ではない",
+		"meaning": {
+			"meaning": "It does not (necessarily) mean that 〜; I don't mean that 〜; It is not (true) that 〜; It is not the case that 〜",
+			"example": "It doesn't necessarily mean he understood."
+		},
+		"readings": [
+			{
+				"reading": "わけではない"
+			}
+		],
+		"usages": [
+			"Verb (casual form)+わけではない",
+			"な-adjective+な+わけではない",
+			"い-adjective+わけではない"
+		],
+		"phrases": [
+			{
+				"phrase": "全然見込みがないわけではないが、あまり期待はしない方がいいでしょう",
+				"translations": [
+					"it does not mean that there is no hope, but you'd better not expect too much"
+				]
+			},
+			{
+				"phrase": "あいつは馬鹿というわけではないがそれにしても、やってることはどうかなあ。",
+				"translations": [
+					"While I am not saying he is stupid, I have my doubts when I look at what he is actually doing."
+				]
+			},
+			{
+				"phrase": "世界中の人が同じ言語を話すわけではないので、現在、翻訳に多くの努力が費やされている。",
+				"translations": [
+					"Because people in the world don't speak the same language, much effort is now devoted to translation."
+				]
+			},
+			{
+				"phrase": "あの男しかいないわけではないよ。",
+				"translations": [
+					"He is not the only pebble on the beach."
+				]
+			},
+			{
+				"phrase": "あれは全く誤りというわけではない。",
+				"translations": [
+					"That is not altogether false."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "544"
+	},
+	{
+		"point": "だろう",
+		"meaning": {
+			"meaning": "is, would be, probably is; isn't it?",
+			"example": "I guess it will rain today"
+		},
+		"phrases": [
+			{
+				"phrase": "「かっこいいじゃん！」「でしょう、でしょう！！」",
+				"translations": [
+					"\"You look cool!\" \" Don't I? Don't I? \""
+				]
+			},
+			{
+				"phrase": "毒魚ってなんだろう？",
+				"translations": [
+					"\"Poison fish\"- whadd'ya suppose they are?"
+				]
+			},
+			{
+				"phrase": "「洞窟の中で何が起こっているんだろう？すごく知りたいな。」「見当もつかないよ。」",
+				"translations": [
+					"\"What's going on in the cave? I'm curious.\" \"I have no idea.\""
+				]
+			},
+			{
+				"phrase": "「何時だろうか」と彼は疑った。",
+				"translations": [
+					"\"What time is it?\" he wondered."
+				]
+			},
+			{
+				"phrase": "10年後には私たちの町も大いに変わるだろう。",
+				"translations": [
+					"In ten years our town will change a lot."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "856"
+	},
+	{
+		"point": "に限って",
+		"meaning": {
+			"meaning": "of all the ... / especially / only / just",
+			"example": "our child of all children / especially our child"
+		},
+		"readings": [
+			{
+				"reading": "にかぎって"
+			}
+		],
+		"usages": [
+			"Noun+に限って"
+		],
+		"phrases": [
+			{
+				"phrase": "中野先生はたいてい研究室にいらっしゃるのに、今日に限っていらしゃらなかった。",
+				"translations": [
+					"Professor Nakano is usually in his office, but today, of all days, he wasn't there."
+				]
+			},
+			{
+				"phrase": "嫌なことがある時に限って、嫌なことが重なる。",
+				"translations": [
+					"Only when something unpleasant happens, do other unpleasant things occur."
+				]
+			},
+			{
+				"phrase": "うちの子供に限ってそんなひどいことはしませんよ。",
+				"translations": [
+					"our child, out of all children, would not do such a terrible thing"
+				]
+			},
+			{
+				"phrase": "傘を持っていない日に限って、雨が降る。",
+				"translations": [
+					"Just on a day when you don't have an umbrella with you, it will rain."
+				]
+			},
+			{
+				"phrase": "参加者は女性に限る",
+				"translations": [
+					"Female participants only."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "143"
+	},
+	{
+		"point": "しか",
+		"meaning": {
+			"meaning": "but, only, just",
+			"example": "that's all I can do"
+		},
+		"phrases": [
+			{
+				"phrase": "ローマ字しか書けません。",
+				"translations": [
+					"I can not write anything but romaji [Roman letters]. (western person)"
+				]
+			},
+			{
+				"phrase": "田中さんしか来ませんでした。",
+				"translations": [
+					"No one came except  Mr Tanaka."
+				]
+			},
+			{
+				"phrase": "百円しかない。",
+				"translations": [
+					"I only have 100 yen"
+				]
+			},
+			{
+				"phrase": "赤いものしかない。",
+				"translations": [
+					"Nothing but red things."
+				]
+			},
+			{
+				"phrase": "そこは車でしか行けない。",
+				"translations": [
+					"you can only go there by car"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1199"
+	},
+	{
+		"point": "で・に・前",
+		"meaning": {
+			"meaning": "time and place prepositions at in on",
+			"example": "On Friday at 3pm"
+		},
+		"readings": [
+			{
+				"reading": "で・に・ まえ (de - ni -mae)"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "駅前でお会いします",
+				"translations": [
+					"IN FRONT OF the station"
+				]
+			},
+			{
+				"phrase": "カフェー内で",
+				"translations": [
+					"IN the cafe (= inside)"
+				]
+			},
+			{
+				"phrase": "カフェで",
+				"translations": [
+					"AT the cafe (at that place, could be in or outside)"
+				]
+			},
+			{
+				"phrase": "駅で",
+				"translations": [
+					"AT the station"
+				]
+			},
+			{
+				"phrase": "駅長室で",
+				"translations": [
+					"IN the station masters office"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1387"
+	},
+	{
+		"point": "っぽい",
+		"meaning": {
+			"meaning": "-like",
+			"example": "It is a child-like expression."
+		},
+		"usages": [
+			"Verb stem+っぽい",
+			"Noun+っぽい"
+		],
+		"phrases": [
+			{
+				"phrase": "ジョンは怒りっぽい。",
+				"translations": [
+					"John gets angry easily."
+				]
+			},
+			{
+				"phrase": "子どもっぽい表現だという印象があります",
+				"translations": [
+					"The expression has a childish ring to it"
+				]
+			},
+			{
+				"phrase": "かわいいっぽい上原さん。",
+				"translations": [
+					"Ms. Uehara, how cute-ish you look."
+				]
+			},
+			{
+				"phrase": "なにっぽいって！",
+				"translations": [
+					"What do you mean, -ish!"
+				]
+			},
+			{
+				"phrase": "ローラちゃんは色っぽいよ。",
+				"translations": [
+					"Laura is sexy!"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1530"
+	},
+	{
+		"point": "〜の",
+		"meaning": {
+			"meaning": "? (sentence ending particle - question) [F]",
+			"example": "What is it you don't get?"
+		},
+		"usages": [
+			"Phrase+の"
+		],
+		"phrases": [
+			{
+				"phrase": "「納得いかないんですよ」「何が？何がですの？」",
+				"translations": [
+					"\"I just can't accept that!\" \"What? What is it that you can't accept ? \""
+				]
+			},
+			{
+				"phrase": "男・女：もうお店やっていないの？！まだ4時だよ。",
+				"translations": [
+					"This shop is already closed, is it?  It's still 4."
+				]
+			},
+			{
+				"phrase": "なんで彼女がいないの？",
+				"translations": [
+					"Why don't you have a girlfriend ? [M/F]"
+				]
+			},
+			{
+				"phrase": "悪いけど他に用事があるの。",
+				"translations": [
+					"I'm sorry, I have another engagement .[F]"
+				]
+			},
+			{
+				"phrase": "「どうしたの。」「少しほうっておいて。あなたには関係ないことなの。」",
+				"translations": [
+					"\"What's wrong with you ?\"[F] \"Leave me alone for a while. It's none of your business.\"[F]"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "737"
+	},
+	{
+		"point": "によって",
+		"meaning": {
+			"meaning": "by; according to; due to; owing to; due to",
+			"example": "we lost our father due to the war"
+		},
+		"phrases": [
+			{
+				"phrase": "アメリカ大陸はコロンブスによって発見された。",
+				"translations": [
+					"The American continent was discovered by Columbus."
+				]
+			},
+			{
+				"phrase": "Dan Sman さんによって書かれた本",
+				"translations": [
+					"A book　written by Mr Dan Sman"
+				]
+			},
+			{
+				"phrase": "列車の代わりに飛行機に乗ることによって失った時間を埋め合わすことができる。",
+				"translations": [
+					"You can make up for lost time by taking an airplane instead of a train."
+				]
+			},
+			{
+				"phrase": "理想は言葉によって表現される。",
+				"translations": [
+					"Thoughts are expressed by means of words."
+				]
+			},
+			{
+				"phrase": "リンゴは彼女によってナイフで半分に切られた。",
+				"translations": [
+					"The apple was cut in two by her with a knife."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1249"
+	},
+	{
+		"point": "〜に比べて",
+		"meaning": {
+			"meaning": "compared to",
+			"example": "compared to past times..."
+		},
+		"readings": [
+			{
+				"reading": "〜にくらべて"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "今年は去年に比べ、雨の量が多い。",
+				"translations": [
+					"This year, compared to last year, the quantity of rain is much more."
+				]
+			},
+			{
+				"phrase": "ノーパンクタイヤはエアタイヤに比べて寿命が長く、理想的です。",
+				"translations": [
+					"\"no puncture\" tires in comparison with air tires have a long useful life and are ideal"
+				]
+			},
+			{
+				"phrase": "この作品は君の前のに比べて進歩している。",
+				"translations": [
+					"This work is an improvement on your last."
+				]
+			},
+			{
+				"phrase": "この本はあの本に比べて、ためになるばかりでなくおもしろい。",
+				"translations": [
+					"This book is not only more instructive but more interesting than that book."
+				]
+			},
+			{
+				"phrase": "それは以前に比べて格段に進歩した。",
+				"translations": [
+					"It has greatly improved compared with what it was."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1300"
+	},
+	{
+		"point": "〜ことから",
+		"meaning": {
+			"meaning": "because"
+		},
+		"phrases": [
+			{
+				"phrase": "店の前にいつも人が並んでいることから、人気のある店だということがわかる。",
+				"translations": [
+					"Since there's always a line of people in front of the store, I understand the fact that it's a popular shop."
+				]
+			},
+			{
+				"phrase": "町並みが昔のままに保存され、古い寺も多いことから、その町は「小京都」と呼ばれている。",
+				"translations": [
+					"Since the streets are maintained to look how they did long ago, and since there are lots of old temples, that town is called \"Little Kyoto.\""
+				]
+			},
+			{
+				"phrase": "文字のことから看板のことまでご相談下さい。",
+				"translations": [
+					"Please feel free to contact us about anything from text to signboards."
+				]
+			},
+			{
+				"phrase": "皆さん、話がおしゃむ君のことから逸れてるんですけど｡",
+				"translations": [
+					"'Scuze me all, but the subject's about Oshamu-kun so you're getting off topic."
+				]
+			},
+			{
+				"phrase": "そういうことだから。",
+				"translations": [
+					"Because it's supposed to be like that."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1320"
+	},
+	{
+		"point": "〜こそ",
+		"meaning": {
+			"meaning": "this, especially (emphasis),very, emphasize the preceding word",
+			"example": "It is \"love\" that truly strengthens people"
+		},
+		"usages": [
+			"Noun+こそ"
+		],
+		"phrases": [
+			{
+				"phrase": "愛こそが人を強くする",
+				"translations": [
+					"It is love  that truly strengthens people."
+				]
+			},
+			{
+				"phrase": "今度こそやってやる。",
+				"translations": [
+					"I'm gonna do it this time"
+				]
+			},
+			{
+				"phrase": "夢こそが希望の源だ",
+				"translations": [
+					"Dreams  are the source of hope."
+				]
+			},
+			{
+				"phrase": "わたしこそお詫びしなければなりません。",
+				"translations": [
+					"It is I, and not you, who must apologize."
+				]
+			},
+			{
+				"phrase": "家族こそが人生で最も大切なものだ",
+				"translations": [
+					"It is indeed family  that is the most important thing in life."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "253"
+	},
+	{
+		"point": "訳",
+		"meaning": {
+			"meaning": "meaning; reason; circumstances",
+			"example": "And by that reasoning ..."
+		},
+		"readings": [
+			{
+				"reading": "わけ"
+			}
+		],
+		"usages": [
+			"Verb plain form+わけ",
+			"い-Adjective+わけ",
+			"な-Adjective+な+わけ",
+			"Noun+である+わけ"
+		],
+		"phrases": [
+			{
+				"phrase": "僕は決して農業が嫌いな訳じゃない。",
+				"translations": [
+					"By no means do I dislike farming. (Lit: The reason is not that I dislike farming)"
+				]
+			},
+			{
+				"phrase": "私は訳もなく悲しくなった。",
+				"translations": [
+					"I felt sad for no reason ."
+				]
+			},
+			{
+				"phrase": "わけありの二人",
+				"translations": [
+					"A couple with some amorous circumstances"
+				]
+			},
+			{
+				"phrase": "それを纏めるのはわけはない",
+				"translations": [
+					"Not difficult to resolve that issue."
+				]
+			},
+			{
+				"phrase": "それとこれとはわけが違う",
+				"translations": [
+					"You are trying to compare apples and oranges."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "781"
+	},
+	{
+		"point": "に従って; に従い",
+		"meaning": {
+			"meaning": "following; in accordance with; as 〜, accordingly; in proportion to",
+			"example": "As our income increases, our expenditure increase accordingly."
+		},
+		"readings": [
+			{
+				"reading": "にしたがって; にしたがい"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "契約に従い、雇用期間を三年とする。",
+				"translations": [
+					"In accordance with the contract, your tenure is three years."
+				]
+			},
+			{
+				"phrase": "収入が増えるに従って、支出も増える。",
+				"translations": [
+					"As our income increases, our expenditure increases accordingly."
+				]
+			},
+			{
+				"phrase": "予算が不足している。したがってこの計画は実行できない。",
+				"translations": [
+					"The budget is insufficient. Accordingly, this plan cannot be implemented."
+				]
+			},
+			{
+				"phrase": "南に行くにしたがって気温が高くなる。",
+				"translations": [
+					"As you go further south, the temperature gets warmer."
+				]
+			},
+			{
+				"phrase": "私の指示にしたがって下さい。",
+				"translations": [
+					"Please follow my instructions"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "972"
+	},
+	{
+		"point": "くれる (呉れる)",
+		"meaning": {
+			"meaning": "to give me, to do for me, I was given",
+			"example": "The teacher gave me a book to help me in my studies. // Would you please write this in Kanji for me?"
+		},
+		"usages": [
+			"Verb (て form)+くれる"
+		],
+		"phrases": [
+			{
+				"phrase": "彼女は、「これを　洗って　くれないか　い」と　いった。",
+				"translations": [
+					"She said, \"Please wash this for me.\""
+				]
+			},
+			{
+				"phrase": "先生は私に本をくれました。",
+				"translations": [
+					"My teacher gave me  a book."
+				]
+			},
+			{
+				"phrase": "先生は私に教えてくださいました。",
+				"translations": [
+					"The teacher gave me some help (helped me):"
+				]
+			},
+			{
+				"phrase": "友達は私に本を買ってくれました。",
+				"translations": [
+					"My friend bought (and) gave me a book."
+				]
+			},
+			{
+				"phrase": "今日、来てくれてありがとうございます。",
+				"translations": [
+					"Thankyou for coming today. (more formal)"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1596"
+	},
+	{
+		"point": "かどうか",
+		"meaning": {
+			"meaning": "whether, if",
+			"example": "It doesn't matter whether it's finished (lit. or not)"
+		},
+		"phrases": [
+			{
+				"phrase": "知り合いであるかどうかは関係ない",
+				"translations": [
+					"It doesn't matter if ( or whether ) we know each other (lit. \"or not\")"
+				]
+			},
+			{
+				"phrase": "あなたはルーシーが日本語を話すことができるかどうか知っていますか。",
+				"translations": [
+					"Do you know if Lucy can speak Japanese?"
+				]
+			},
+			{
+				"phrase": "あの人に彼女がいるかどうか知ってる？",
+				"translations": [
+					"Do you know if he has a girlfriend?"
+				]
+			},
+			{
+				"phrase": "きのう彼はあなたがお元気かどうか尋ねていました。",
+				"translations": [
+					"He asked after you your health yesterday."
+				]
+			},
+			{
+				"phrase": "このくつを試しにはいて、合うかどうかみてみなさい。",
+				"translations": [
+					"Try these shoes on and see of they fit you."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "893"
+	},
+	{
+		"point": "ついでに",
+		"meaning": {
+			"meaning": "while doing A, I had a chance to do B, since doing A anyway, do B",
+			"example": "while I was at my parents,"
+		},
+		"usages": [
+			"Verb dictionary form+ついでに",
+			"Verb plain past ~た form+ついでに",
+			"Noun+の+ついでに"
+		],
+		"phrases": [
+			{
+				"phrase": "実家に帰ったついでに昔の学校に行ってみた。",
+				"translations": [
+					"At the time I went back to my hometown, I also took the opportunity to go see my old school."
+				]
+			},
+			{
+				"phrase": "仕事へ行くついでに、郵便局で手紙を出した。",
+				"translations": [
+					"While on my way to work, I mailed a letter at the post office"
+				]
+			},
+			{
+				"phrase": "出て行くついでに頼むのは悪いけど、ゴミを捨ててくれる？",
+				"translations": [
+					"I hate to ask you to do this, but since you are going out anyway, would you get rid of the garbage bag?"
+				]
+			},
+			{
+				"phrase": "パリへ行くついでにロンドンに寄る",
+				"translations": [
+					"Since I am going to go to Paris, anyway, I will also drop by London"
+				]
+			},
+			{
+				"phrase": "デパートへ行ったついでに、そこで開かれていた展覧会を見た。",
+				"translations": [
+					"While out at the department store, I also took the opportunity to see the exhibition being held there."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "917"
+	},
+	{
+		"point": "によると",
+		"meaning": {
+			"meaning": "according to",
+			"example": "according to the news"
+		},
+		"phrases": [
+			{
+				"phrase": "彼は自分の成功を、良い教育を受けたことによると考えた。",
+				"translations": [
+					"He attributed his success to the good teaching he had received."
+				]
+			},
+			{
+				"phrase": "友達の話しによればあの映画はとても面白いということです。",
+				"translations": [
+					"According to what my friend said, that movie is very interesting."
+				]
+			},
+			{
+				"phrase": "米国NBC News、ロイターなどの報道によると、ブッシュ米大統領が、新しい宇宙探査計画の発表を準備しているとのことだ。",
+				"translations": [
+					"According to America's NBC News, Reuters and such news agencies US President Bush is in the process of preparing an anouncement of a new plan for space exploration"
+				]
+			},
+			{
+				"phrase": "電灯の発明はエジソンによるとされている。によるとされている。",
+				"translations": [
+					"The invention of electric light is accredited to Edison."
+				]
+			},
+			{
+				"phrase": "彼の概算によると家の新築費用は３０００万円です。",
+				"translations": [
+					"He estimates that the new house will cost roughly thirty million yen."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "974"
+	},
+	{
+		"point": "を聞いた",
+		"meaning": {
+			"meaning": "I heard",
+			"example": "I heard from Tom you want to move"
+		},
+		"readings": [
+			{
+				"reading": "をきいた"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "あなたがフランスに行きたいということをトムから聞いた",
+				"translations": [
+					"[LIT] You want to go to France (that fact) i heard the thing from Tom, I heard"
+				]
+			},
+			{
+				"phrase": "あなたは酒嫌いだと聞いた",
+				"translations": [
+					"I heard you don't like alcohol"
+				]
+			},
+			{
+				"phrase": "トムが金持ちの女性と結婚したことを聞いた。",
+				"translations": [
+					"I've heard of Tom's marriage to a rich woman."
+				]
+			},
+			{
+				"phrase": "後ろから私の名前が呼ばれるのを聞いた。",
+				"translations": [
+					"I heard my name called from behind."
+				]
+			},
+			{
+				"phrase": "昨日になって初めて、その事故のことを聞いた。",
+				"translations": [
+					"It was until yesterday that I heard about the accident."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1138"
+	},
+	{
+		"point": "に対して",
+		"meaning": {
+			"meaning": "toward; to; in contrast to; whereas; in regard to; in; per",
+			"example": "Up until now, Japan has taken a closed policy toward foreign countries."
+		},
+		"readings": [
+			{
+				"reading": "にたいして"
+			}
+		],
+		"usages": [
+			"Noun+に対して",
+			"Verb (plain form)+に対して",
+			"い-adjective+に対して",
+			"な-adjective+な/である/だった/であった+のに対して",
+			"Noun+に(対する/対しての)+Noun",
+			"名+に対する+名"
+		],
+		"phrases": [
+			{
+				"phrase": "これまで日本は外交に対して、閉鎖的な政策を取ってきた。",
+				"translations": [
+					"Up until now, Japanese has taken a closed policy toward foreign countries."
+				]
+			},
+			{
+				"phrase": "日本の大学に入学するのが難しいのに対して、アメリカの大学は卒業するのが難しい。",
+				"translations": [
+					"Whereas entering university is difficult in Japan, graduating from university is difficult in America."
+				]
+			},
+			{
+				"phrase": "市民は増税に対して強く反対してる。",
+				"translations": [
+					"The citizens are strongly opposed to the tax hike."
+				]
+			},
+			{
+				"phrase": "私は政治に対して強い関心がある。",
+				"translations": [
+					"I have a strong interest in politics."
+				]
+			},
+			{
+				"phrase": "手数料は一万円に対して、五百円です。",
+				"translations": [
+					"The commission charge will be 500 yen per 10,000 yen."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "522"
+	},
+	{
+		"point": "〜て",
+		"meaning": {
+			"meaning": "([verb]-te, connects two sentences)",
+			"example": "I'm going to the book shop to buy it."
+		},
+		"phrases": [
+			{
+				"phrase": "茶碗を口のところまで持ってきて、箸でごはんをかきこむのは行儀が悪い。",
+				"translations": [
+					"Bringing  the bowl up to your mouth and shoveling rice in with chopsticks is bad manners."
+				]
+			},
+			{
+				"phrase": "この赤くて大きい車は田中さんのです。",
+				"translations": [
+					"This large and red car is Mr Tanaka's."
+				]
+			},
+			{
+				"phrase": "本屋に行って買います。",
+				"translations": [
+					"I'm going to the book shop and buying it."
+				]
+			},
+			{
+				"phrase": "メロンを食べて、コーヒーを飲みました。",
+				"translations": [
+					"He ate some melon and drank some coffee."
+				]
+			},
+			{
+				"phrase": "歩いて来ます。",
+				"translations": [
+					"I come on foot (walking)."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "609"
+	},
+	{
+		"point": "条件形",
+		"meaning": {
+			"meaning": "if",
+			"example": "If you go, you'll understand."
+		},
+		"readings": [
+			{
+				"reading": "えば"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "行けばわかる。",
+				"translations": [
+					"If you go, you'll understand."
+				]
+			},
+			{
+				"phrase": "この本をもう一度読めば、5回読んだことになります。",
+				"translations": [
+					"If I read this book again, I will have read it five times."
+				]
+			},
+			{
+				"phrase": "走れば、すぐに彼に追いつくだろう。",
+				"translations": [
+					"You will soon come up with him if you run."
+				]
+			},
+			{
+				"phrase": "しばらく眠れば、ずっと気分がよくなりますよ。",
+				"translations": [
+					"If you sleep for a while, you will feel much better."
+				]
+			},
+			{
+				"phrase": "このクラブに入会すれば、その施設の全てを使用する権利が与えられる。",
+				"translations": [
+					"If you join this club, you will be entitled to use all of its facilities."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "732"
+	},
+	{
+		"point": "なら",
+		"meaning": {
+			"meaning": "if",
+			"example": "If it's from outside, I don't mind."
+		},
+		"usages": [
+			"Verb (casual)+なら+(ば)",
+			"い-adjective+なら+(ば)",
+			"な-adjective (without な)+なら+(ば)",
+			"Noun+なら+(ば)",
+			"Assumed context+なら+Result"
+		],
+		"phrases": [
+			{
+				"phrase": "外からなら撮ってもいいよ と言われたので，外に出て撮影しました。",
+				"translations": [
+					"I was told that if you're taking it from outside I don't mind so I went out and took the shot."
+				]
+			},
+			{
+				"phrase": "乗るなら飲むな。",
+				"translations": [
+					"If you drive, don't drink."
+				]
+			},
+			{
+				"phrase": "自分の信念を隠すくらいなら死んだほうがましだ。",
+				"translations": [
+					"I would rather die than conceal my belief."
+				]
+			},
+			{
+				"phrase": "よんどころない理由で参加されないのなら前払い金はお返しします。",
+				"translations": [
+					"If you cannot attend for unavoidable reasons, we will refund your advance payment."
+				]
+			},
+			{
+				"phrase": "ご都合により参加されないのなら前払い金はお返ししません。",
+				"translations": [
+					"If you cannot attend for reasons of your own, the advance payment will not be refunded."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "780"
+	},
+	{
+		"point": "させる",
+		"meaning": {
+			"meaning": "make, let someone do something",
+			"example": "I made my daughter study"
+		},
+		"phrases": [
+			{
+				"phrase": "田中さんは娘を大学へ行かせた",
+				"translations": [
+					"Tanaka san made/let his daughter go to college"
+				]
+			},
+			{
+				"phrase": "そんなことさせるなんて、あんたも強情だね。",
+				"translations": [
+					"You must be pretty hardheaded to make him do that."
+				]
+			},
+			{
+				"phrase": "あなたの息子さんを親離れさせるべきです。",
+				"translations": [
+					"You should make your son independent from you."
+				]
+			},
+			{
+				"phrase": "あなたに心配させるつもりがない。",
+				"translations": [
+					"I don't mean to make  you worry."
+				]
+			},
+			{
+				"phrase": "どうしても私の言葉を彼に信じさせる事ができなかった。",
+				"translations": [
+					"I could never make him believe what I said."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1302"
+	},
+	{
+		"point": "〜と",
+		"meaning": {
+			"meaning": "(on when) doing, if",
+			"example": "after you see ..."
+		},
+		"usages": [
+			"Verb dictionary form+と",
+			"Noun+だ+と"
+		],
+		"phrases": [
+			{
+				"phrase": "「ロミオとジュリエット」を見ると必ず涙ぐむ。",
+				"translations": [
+					"After you see 'Romeo and Juliet' you will definitely cry"
+				]
+			},
+			{
+				"phrase": "家を出るとすぐに雨が降り始めた。",
+				"translations": [
+					"As soon as I left home, it began to rain."
+				]
+			},
+			{
+				"phrase": "ここだと２万円前後の テレビ が 買うことができる。",
+				"translations": [
+					"If it's here then you can buy a television for 20,000 yen - give or take."
+				]
+			},
+			{
+				"phrase": "冬になると雨が降っています。",
+				"translations": [
+					"When it becomes winter (when winter comes)-it rains."
+				]
+			},
+			{
+				"phrase": "立川駅に着くと電話をしなくてはいけない",
+				"translations": [
+					"When ( I ) get to Tachikawa station, I have to make a call."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1368"
+	},
+	{
+		"point": "上げる",
+		"meaning": {
+			"meaning": "to do something for someone else",
+			"example": "I will read this to you"
+		},
+		"readings": [
+			{
+				"reading": "あげる"
+			}
+		],
+		"usages": [
+			"Verb て-form+あげる"
+		],
+		"phrases": [
+			{
+				"phrase": "赤ちゃんに絵本を読んであげる",
+				"translations": [
+					"I will read a picture book for the baby"
+				]
+			},
+			{
+				"phrase": "あなたがたの近所の人たちをできるだけ助けてあげるようにしましょう。",
+				"translations": [
+					"You should do all you can to help your neighbours."
+				]
+			},
+			{
+				"phrase": "あなたにしてあげる事は、これだけです。",
+				"translations": [
+					"This is all I can do for you."
+				]
+			},
+			{
+				"phrase": "あなたに代わって買い物をして家を掃除して夕食を作ってあげる。",
+				"translations": [
+					"I'll do your shopping, clean up the house, and cook your dinner for you."
+				]
+			},
+			{
+				"phrase": "いつかそのうちに動物園に連れてってあげるよ。",
+				"translations": [
+					"I will take you to the zoo one of these days."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1312"
+	},
+	{
+		"point": "おかげで",
+		"meaning": {
+			"meaning": "thanks to",
+			"example": "It's thanks to you that I received the promotion."
+		},
+		"usages": [
+			"Verb casual form+おかけで",
+			"Noun+の+おかけで",
+			"い-adjective+おかけで",
+			"な-adjevtive+な+おかけで"
+		],
+		"phrases": [
+			{
+				"phrase": "そんな中、ホストファミリーが陽気に話しかけ、あちらこちらへ連れ出してくれたお蔭で、徐々に英語にも慣れ理解できるようになっていきました。",
+				"translations": [
+					"Among which, thanks to the host family cheerfully chatting with me, taking me hither and thither I gradually accustomed to and able to understand English."
+				]
+			},
+			{
+				"phrase": "あいつのお陰で事故に巻き込まれた。",
+				"translations": [
+					"Thanks to him, I ended up getting involved in this accident."
+				]
+			},
+			{
+				"phrase": "両親のお陰で、私はアルバイトをしないで勉強することができる。",
+				"translations": [
+					"Thanks to my parents, I can study without working."
+				]
+			},
+			{
+				"phrase": "私がアルバイトせずに勉強できるのは、両親のお陰だ。",
+				"translations": [
+					"I can study without working thanks to my parents."
+				]
+			},
+			{
+				"phrase": "君のおかげで、お金を全部使ってしまい歩いて帰宅せねばならなかった。",
+				"translations": [
+					"Thanks to you, I spent all my money and had to walk home."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "55"
+	},
+	{
+		"point": "からして",
+		"meaning": {
+			"meaning": "(1)Even; (2)Given, (Judging) From/By",
+			"example": "(1) He can't even read hiragana."
+		},
+		"phrases": [
+			{
+				"phrase": "ひらがなからして読めない。もちろん漢字も読めない。",
+				"translations": [
+					"Cannot even read hiragana, and also of course cannot read kanji"
+				]
+			},
+			{
+				"phrase": "A国は食料からして、不足している。（暗示：だからガソリンなど、ほとんどないだろう）",
+				"translations": [
+					"That country doesn't have enough food for a start (implies: so they definitely don't have enough gasoline etc.)"
+				]
+			},
+			{
+				"phrase": "彼の健康状態からしてスポーツは無理でしょう。",
+				"translations": [
+					"Judging from his physical condition　doing sports would be unwise"
+				]
+			},
+			{
+				"phrase": "態度からしてけしからん",
+				"translations": [
+					"Even his attitude is nasty."
+				]
+			},
+			{
+				"phrase": "値段からして、Xの機種はYとは比べものにならないと思っていた。",
+				"translations": [
+					"Given its price, I didn't expect the X machine to be in the same league as the Y machine."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "502"
+	},
+	{
+		"point": "みたい",
+		"meaning": {
+			"meaning": "looks like",
+			"example": "Seems like he's caught a cold."
+		},
+		"usages": [
+			"Verb (casual)+みたい",
+			"Noun+みたい",
+			"い-adjective+みたい",
+			"な-adjective (without な)+みたい"
+		],
+		"phrases": [
+			{
+				"phrase": "彼は風邪をひいたみたいです。",
+				"translations": [
+					"Seems like he's caught a cold."
+				]
+			},
+			{
+				"phrase": "まるで夢みたい",
+				"translations": [
+					"It's like a dream"
+				]
+			},
+			{
+				"phrase": "お前みたいな奴は見たことがない",
+				"translations": [
+					"I've never met the likes of you!"
+				]
+			},
+			{
+				"phrase": "京都みたいな所に行くのが好きです",
+				"translations": [
+					"I like to visit places like Kyoto"
+				]
+			},
+			{
+				"phrase": "外国に行くみたいなことを言っていました",
+				"translations": [
+					"He was talking like he was going abroad"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "633"
+	},
+	{
+		"point": "べき",
+		"meaning": {
+			"meaning": "should do",
+			"example": "I should have studied more."
+		},
+		"phrases": [
+			{
+				"phrase": "私は列車に乗り遅れた。もっと早く来るべきだった。",
+				"translations": [
+					"I missed the train. I should have come earlier."
+				]
+			},
+			{
+				"phrase": "われわれはなるべくたくさん本を読むべきである。",
+				"translations": [
+					"We should read as many books as possible."
+				]
+			},
+			{
+				"phrase": "あなたは他の人たちの援助を当てにすべきでない。",
+				"translations": [
+					"You shouldn't rely on other people's help."
+				]
+			},
+			{
+				"phrase": "いかに生きるべきかは、青年にとって重要な問題である。",
+				"translations": [
+					"How to live is an important question to young people."
+				]
+			},
+			{
+				"phrase": "いつ出発するべきか私に教えてください。",
+				"translations": [
+					"Please tell me when I should leave."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "779"
+	},
+	{
+		"point": "合う",
+		"meaning": {
+			"meaning": "Vm, verb~together, mutually",
+			"example": "I talked it out with him."
+		},
+		"readings": [
+			{
+				"reading": "あう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "彼らはお互いに助けあった。",
+				"translations": [
+					"They helped one another  ."
+				]
+			},
+			{
+				"phrase": "話しあうことでこの問題は解決できます。",
+				"translations": [
+					"Through mutual discussion, this issue can be resolved."
+				]
+			},
+			{
+				"phrase": "あなたは、スミス氏と連絡を取り合うべきです。",
+				"translations": [
+					"You should keep in touch with Mr. Smith."
+				]
+			},
+			{
+				"phrase": "お互いを理解し合うようにしようではありませんか。",
+				"translations": [
+					"Let's try to understand one another."
+				]
+			},
+			{
+				"phrase": "お母さんは私に彼と付き合うなと言いました。",
+				"translations": [
+					"My mother told me not to keep company with him."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "882"
+	},
+	{
+		"point": "つい",
+		"meaning": {
+			"meaning": "without thinking, despite myself",
+			"example": "oops, i said too much!"
+		},
+		"usages": [
+			"つい+phrase (the thing done unintentionally)"
+		],
+		"phrases": [
+			{
+				"phrase": "秘密でしたか？ついうっかり喋ちゃいました。",
+				"translations": [
+					"It was a secret? Oops! I spoke about it without thinking..."
+				]
+			},
+			{
+				"phrase": "つい買っちゃった！",
+				"translations": [
+					"Damn! I went and bought it (and I shouldn't have)."
+				]
+			},
+			{
+				"phrase": "つい「コンピュータがおかしい」と思ってしまいます．でも，コンピュータ側がおかしいことはまずありません．",
+				"translations": [
+					"I carelessly thought \"There's something up with the computer\". But actually there was nothing up with the _computer_ side."
+				]
+			},
+			{
+				"phrase": "つい先ほど時雨れた",
+				"translations": [
+					"We had a light shower a while ago."
+				]
+			},
+			{
+				"phrase": "つい必要なワードフィルを削除してしまった。",
+				"translations": [
+					"I just (unintentional) deleted an important word file."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "947"
+	},
+	{
+		"point": "為",
+		"meaning": {
+			"meaning": "In order to, because of, for",
+			"example": "I telephoned to make sure he was coming."
+		},
+		"readings": [
+			{
+				"reading": "ため"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "雪がたくさん降ったため試合が中止された。",
+				"translations": [
+					"Because a lot of snow fell, the match was canceled."
+				]
+			},
+			{
+				"phrase": "彼が来る事を確かめる為に電話をした。",
+				"translations": [
+					"I telephoned to make sure that he was coming."
+				]
+			},
+			{
+				"phrase": "彼は、去年老齢の為、なくなった。",
+				"translations": [
+					"He died last year of old age."
+				]
+			},
+			{
+				"phrase": "このキーは何の為の物ですか？",
+				"translations": [
+					"What's this key for ?"
+				]
+			},
+			{
+				"phrase": "外国人の為のいい辞書がない",
+				"translations": [
+					"There are no good dictionaries for foreigners"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1130"
+	},
+	{
+		"point": "し",
+		"meaning": {
+			"meaning": "and",
+			"example": "we went shopping, and ate lunch"
+		},
+		"phrases": [
+			{
+				"phrase": "開拓者達は辛い生活をしたし、彼らの子供もそうだった。",
+				"translations": [
+					"Pioneer men and women had a hard life, and so did their children."
+				]
+			},
+			{
+				"phrase": "ここでの討論はおもしろいものでしたし、困惑させたり、ときにはぞっとする内容のものもありました。",
+				"translations": [
+					"The debate has been interesting, (and) confusing, and sometimes horrifying."
+				]
+			},
+			{
+				"phrase": "ロッククライミングも、海で深く潜ることもしたし、インドネシアの熱帯雨林で眠ったこともある。",
+				"translations": [
+					"I've done rock climbing and deep-sea diving and slept in rain forests in the jungle of Indonesia."
+				]
+			},
+			{
+				"phrase": "彼は幸福だ。1つには、昇進したし、それに結婚したばかりだから。",
+				"translations": [
+					"He is happy. For one thing, he's got a promotion and  for another he has just got married."
+				]
+			},
+			{
+				"phrase": "母はその知らせを喜んでいたし、私もそうでした。",
+				"translations": [
+					"My mother was happy about the news, and so was I."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1499"
+	},
+	{
+		"point": "〜中に、〜上に、〜下に、など",
+		"meaning": {
+			"meaning": "Talking about relative location of an object",
+			"example": "My hat is in your car"
+		},
+		"readings": [
+			{
+				"reading": "〜なかに、〜うえに、〜したに、など"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "スポーツの中に、どちらが一番好き？",
+				"translations": [
+					"out of all the sports, which do you like best?"
+				]
+			},
+			{
+				"phrase": "その建物に銀行がありますか｡",
+				"translations": [
+					"Is there a bank in that building?"
+				]
+			},
+			{
+				"phrase": "ドアの近いにあるかばんは誰のですか｡",
+				"translations": [
+					"whos bag is that by the door."
+				]
+			},
+			{
+				"phrase": "車が家の左に止まっておいたよ｡",
+				"translations": [
+					"I parked the car on the left side of the house."
+				]
+			},
+			{
+				"phrase": "チキンは冷凍庫の中です｡",
+				"translations": [
+					"The chicken is in the freezer."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1517"
+	},
+	{
+		"point": "まま",
+		"meaning": {
+			"meaning": "as it is, leave as it is, (remain) unchanged",
+			"example": "I'll leave this place as it is."
+		},
+		"readings": [
+			{
+				"reading": "儘"
+			}
+		],
+		"usages": [
+			"Verb た-form+まま",
+			"Verb ない-form+まま",
+			"い-adjective+まま",
+			"な-adjective+な+まま",
+			"Noun+の+まま"
+		],
+		"phrases": [
+			{
+				"phrase": "２つの問題が未解決のままであった。",
+				"translations": [
+					"Two problems remained unsolved."
+				]
+			},
+			{
+				"phrase": "この家はこのままにしておきたい。",
+				"translations": [
+					"I like this house as it is."
+				]
+			},
+			{
+				"phrase": "この家は今のままでは売れないだろう。",
+				"translations": [
+					"This house will not sell as it stands."
+				]
+			},
+			{
+				"phrase": "この自転車は今月の初めからここに置かれたままだ。",
+				"translations": [
+					"This bicycle has been left here since the beginning of this month."
+				]
+			},
+			{
+				"phrase": "この窓は一ヶ月割れたままになっている。",
+				"translations": [
+					"This window has been broken for a month."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1621"
+	},
+	{
+		"point": "あっと言う間",
+		"meaning": {
+			"meaning": "In a flash, before one knows it, in a blink of an eye, in no time, flash by, (time) flies",
+			"example": "Time flies when you're having fun"
+		},
+		"readings": [
+			{
+				"reading": "あっというま"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "あっという間に砂嵐に襲われた。",
+				"translations": [
+					"Before we knew where we were, the dust storm was on us."
+				]
+			},
+			{
+				"phrase": "あっという間に逃げてしまった。",
+				"translations": [
+					"He disappeared in an instant."
+				]
+			},
+			{
+				"phrase": "クリスマスの時期にはあっという間に満席になるから早く飛行機の蘭??ｵなさい。",
+				"translations": [
+					"Book your flight early as it fills up quickly during Christmas."
+				]
+			},
+			{
+				"phrase": "クレジットカードを使うとあっという間に借金をつくりやすい。",
+				"translations": [
+					"It's easy to get into debt quickly with charge cards."
+				]
+			},
+			{
+				"phrase": "鳥はあっと言う間に飛び去った。",
+				"translations": [
+					"The bird flew away in a flash."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1652"
+	},
+	{
+		"point": "とする",
+		"meaning": {
+			"meaning": "assume, regard X as ~ , suppose",
+			"example": "if we assume that n=1"
+		},
+		"phrases": [
+			{
+				"phrase": "日本へ行くとすれば",
+				"translations": [
+					"If we assume that we go to japan"
+				]
+			},
+			{
+				"phrase": "温度は一定であるとする。",
+				"translations": [
+					"We assume that temperature is constant."
+				]
+			},
+			{
+				"phrase": "あなたが立派な世界市民になろうとするなら、偏見は持たないように努力すべきである。",
+				"translations": [
+					"If you are to be a good world citizen, you should try to be free of any prejudices."
+				]
+			},
+			{
+				"phrase": "私たちは みな、 人生に おいて 成功を 収めようとするが、成功するのは、きわめて 数少ない人たちである。",
+				"translations": [
+					"We all try hard to make the grade in life, but only a few succeed."
+				]
+			},
+			{
+				"phrase": "進んで学ぼうとする気の無い物には教える甲斐がない。",
+				"translations": [
+					"One who is not willing to learn is not worth teaching."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "541"
+	},
+	{
+		"point": "〜か",
+		"meaning": {
+			"meaning": "whether, the question of (sub sentence question)",
+			"example": "Regardless of whether I had written it..."
+		},
+		"phrases": [
+			{
+				"phrase": "私が書いたかを問わず、(全て）「作者：あまつか」です。",
+				"translations": [
+					"Regardless of whether I had written it or not it's (always) \"Author : Amatuka\"."
+				]
+			},
+			{
+				"phrase": "おまえは・・・・俺が誰か知ってるのか。",
+				"translations": [
+					"You ... Don't you know who I am? [Lit: Do you know who I am?]"
+				]
+			},
+			{
+				"phrase": "今度の出張はいつかまだ分かりません。",
+				"translations": [
+					"Regarding my next business trip, I still don't know when it's going to be."
+				]
+			},
+			{
+				"phrase": "誰が一緒に出掛けたか教えてください。",
+				"translations": [
+					"Please tell me who you went out with."
+				]
+			},
+			{
+				"phrase": "書類どこにあるか(と)聞きました。",
+				"translations": [
+					"I asked, where the documents are."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "693"
+	},
+	{
+		"point": "〜な",
+		"meaning": {
+			"meaning": "Vru, (negative command - sentence ending particle)",
+			"example": "Don't do that!"
+		},
+		"usages": [
+			"Verb dictionary form+な"
+		],
+		"phrases": [
+			{
+				"phrase": "バカなことするな！",
+				"translations": [
+					"Don't do something that stupid!"
+				]
+			},
+			{
+				"phrase": "あまり飲むな",
+				"translations": [
+					"Don't  drink too much."
+				]
+			},
+			{
+				"phrase": "馬鹿なことをするな。",
+				"translations": [
+					"Don't  be silly"
+				]
+			},
+			{
+				"phrase": "誰も動くな。",
+				"translations": [
+					"Nobody moves!"
+				]
+			},
+			{
+				"phrase": "心配するな。",
+				"translations": [
+					"Don't  worry"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "705"
+	},
+	{
+		"point": "方が",
+		"meaning": {
+			"meaning": "(often it'd be better to do __) Such-and-such an option is something",
+			"example": "You'd better study then."
+		},
+		"readings": [
+			{
+				"reading": "ほうが"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "３月１日の方が都合がよいのですが。",
+				"translations": [
+					"We feel that March 1 would be more convenient."
+				]
+			},
+			{
+				"phrase": "９時以降に電話した方が安いですか。",
+				"translations": [
+					"Is it cheaper to call after 9:00?"
+				]
+			},
+			{
+				"phrase": "物事を生半可に知っているくらいなら全然知らない方がましだ。",
+				"translations": [
+					"I would rather not know a thing at all than know it imperfectly."
+				]
+			},
+			{
+				"phrase": "遅くても着実な方が競争に勝つ。",
+				"translations": [
+					"Slow but sure wins the race."
+				]
+			},
+			{
+				"phrase": "私は肉より魚の方がいい。",
+				"translations": [
+					"I prefer fish to meat."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "786"
+	},
+	{
+		"point": "より",
+		"meaning": {
+			"meaning": "than, rather than",
+			"example": "Tokyo is larger than Kyoto."
+		},
+		"usages": [
+			"Noun+より+...",
+			"Noun+は+Noun+より+..."
+		],
+		"phrases": [
+			{
+				"phrase": "私は肉より魚の方がいい。",
+				"translations": [
+					"I prefer fish to meat."
+				]
+			},
+			{
+				"phrase": "現実は聞いたよりももっと悲しい。",
+				"translations": [
+					"The reality is much sadder than what I have heard."
+				]
+			},
+			{
+				"phrase": "これよりほかに方法がないんだよ",
+				"translations": [
+					"There's really no other better way than this."
+				]
+			},
+			{
+				"phrase": "一般に日本人は、自分たちがかつてより暮し向きがよくなったと考えている。",
+				"translations": [
+					"The Japanese at large consider themselves better off than they used to be."
+				]
+			},
+			{
+				"phrase": "彼はわたしより速く走ることができる。",
+				"translations": [
+					"He is able to run faster than I am."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "789"
+	},
+	{
+		"point": "らしい",
+		"meaning": {
+			"meaning": "seem, look like, apparently, I heard",
+			"example": "It seems Tanaka will resign"
+		},
+		"usages": [
+			"Noun+らしい",
+			"Verb (casual)+らしい",
+			"な-adjective (without な)+らしい",
+			"い-adjective+らしい"
+		],
+		"phrases": [
+			{
+				"phrase": "動かないらしい",
+				"translations": [
+					"Seems like it doesn't work (lit: doesn't move)"
+				]
+			},
+			{
+				"phrase": "そんな事をするなんて君らしくない。",
+				"translations": [
+					"It doesn't seem like you doing such a thing."
+				]
+			},
+			{
+				"phrase": "私は彼と彼のガールフレンドらしい人を見かけた。",
+				"translations": [
+					"I saw him and a girl who looked to be his girlfriend."
+				]
+			},
+			{
+				"phrase": "みんなさんは夕方来るらしい。",
+				"translations": [
+					"It seems everybody will come in the evening."
+				]
+			},
+			{
+				"phrase": "kyou ha,tenki ga yoirashiidesu.",
+				"translations": [
+					"the weather today seems like good."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "854"
+	},
+	{
+		"point": "にくい",
+		"meaning": {
+			"meaning": "Is difficult to do",
+			"example": "He's difficult to understand, isn't he?"
+		},
+		"phrases": [
+			{
+				"phrase": "彼は分かりにくいでしょうかなぁ？",
+				"translations": [
+					"He's difficult to understand,isn't he?"
+				]
+			},
+			{
+				"phrase": "食べにくい食べ物がきらいだ。",
+				"translations": [
+					"I don't like difficult to eat foods."
+				]
+			},
+			{
+				"phrase": "このめずらしい切手は手にはいりにくいんだよ。",
+				"translations": [
+					"This rare stamp is hard to come by."
+				]
+			},
+			{
+				"phrase": "タイガーティの説明はとてもわかりにくいですね｡",
+				"translations": [
+					"tigert`s explanation is very difficult to understand."
+				]
+			},
+			{
+				"phrase": "英語での本を読みにくいです。",
+				"translations": [
+					"It's hard to read the book in English."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1408"
+	},
+	{
+		"point": "ようになる",
+		"meaning": {
+			"meaning": "Indicates a change which has taken place or will take place.",
+			"example": "I came to have an interest in Japan after I went to Japan"
+		},
+		"phrases": [
+			{
+				"phrase": "彼は日本に住んでいたくせに、日本語を話せるようにならなかったよ。",
+				"translations": [
+					"Although he lived in Japan he didn't learn (become able) to speak Japanese!"
+				]
+			},
+			{
+				"phrase": "子供は, 自分で部屋を片付けるようになりました。",
+				"translations": [
+					"(My) child has reached the point where she cleans up her room herself."
+				]
+			},
+			{
+				"phrase": "赤ちゃんは, もうすぐ笑うようになる。",
+				"translations": [
+					"The baby will soon reach the point where he will smile."
+				]
+			},
+			{
+				"phrase": "日本に来たから、豆腐を食べるようになりました。",
+				"translations": [
+					"Since I came to Japan, I've gotten used to eating tofu. (I didn't use to eat tofu.)"
+				]
+			},
+			{
+				"phrase": "レンズさんは日本語が話せるようになった。",
+				"translations": [
+					"Mr. Renz had reached the point where he can speak Japanese."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1504"
+	},
+	{
+		"point": "比べものにならない",
+		"meaning": {
+			"meaning": "there is no point comparing....",
+			"example": "When we talk about speed, there is no point comparing a plane and a ship."
+		},
+		"readings": [
+			{
+				"reading": "くらべものにならない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "速さという点では飛行機は船とは比べものにならない。",
+				"translations": [
+					"When we talk about speed, there is no point to compare a plane and a ship."
+				]
+			},
+			{
+				"phrase": "食べる量という点では馬は鳥とは比べものにならない。",
+				"translations": [
+					"What a horse eats and what a chicken eats just cannot be compared."
+				]
+			},
+			{
+				"phrase": "このほうが比べものにならないほど優れている。",
+				"translations": [
+					"This is superior beyond comparison."
+				]
+			},
+			{
+				"phrase": "私の業績はあなたの業績とは比べものにならない。",
+				"translations": [
+					"Your achievements cannot be compared with mine."
+				]
+			},
+			{
+				"phrase": "私の料理などお母さんのとは比べものにならない。",
+				"translations": [
+					"My cooking cannot hold a candle to Mother's."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1508"
+	},
+	{
+		"point": "くらい、ぐらい (位)",
+		"meaning": {
+			"meaning": "to the extent that; so ~ that ~ almost ~; at least; the only ~; rather than ~",
+			"example": "It's so warm this evening that we (almost) don't need a heater."
+		},
+		"phrases": [
+			{
+				"phrase": "今晩は暖かいので、ストーブが要らないくらいだ。",
+				"translations": [
+					"It's so warm this evening that we almost  don't need a heater."
+				]
+			},
+			{
+				"phrase": "私たちは一歩も歩けないくらい疲れていた。",
+				"translations": [
+					"We were so tired that we couldn't take a single step."
+				]
+			},
+			{
+				"phrase": "山田さんくらい物を忘れる人はいない。",
+				"translations": [
+					"There's no one as forgetful as Yamada (who forgets things as much as Yamada)."
+				]
+			},
+			{
+				"phrase": "私は料理は下手ですが、ご飯くらい(は)炊けます。",
+				"translations": [
+					"I'm a poor cook, but I can at least cook rice."
+				]
+			},
+			{
+				"phrase": "今この仕事が出来るのは彼くらいのものだ。",
+				"translations": [
+					"He's the only person who can do this job now. (The person who's capable enough to do this job is he.)"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1595"
+	},
+	{
+		"point": "〜ところ(だ) (所だ・処だ)",
+		"meaning": {
+			"meaning": "I am about to / I was about to",
+			"example": "He arrived just as I was about to give up."
+		},
+		"usages": [
+			"V辞書形+ところ（だ）",
+			"Vている形+ところ（だ）",
+			"Vた形／Vていた形+ところ（だ）"
+		],
+		"phrases": [
+			{
+				"phrase": "私は息子がクッキーを盗み食いしようとしているところを見つけた。",
+				"translations": [
+					"I caught my son stealing from a cookie jar."
+				]
+			},
+			{
+				"phrase": "バスは発車するところだった。",
+				"translations": [
+					"The bus was about to start."
+				]
+			},
+			{
+				"phrase": "今、食べる所です。",
+				"translations": [
+					"Right now, I'm just about to eat."
+				]
+			},
+			{
+				"phrase": "これから、部屋を掃除するところです。",
+				"translations": [
+					"I'm just about to start cleaning up my room."
+				]
+			},
+			{
+				"phrase": "食事がおいしくないといってくれて、ありがとう、危うく食べる所でした。",
+				"translations": [
+					"Thanks for telling me the food wasn't good, I was just about to eat it."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "589"
+	},
+	{
+		"point": "〜は",
+		"meaning": {
+			"meaning": "'ha (wa)' used to indicate contrast",
+			"example": "I don't eat /meat/ (but I do eat fish)."
+		},
+		"phrases": [
+			{
+				"phrase": "私は肉は食べない。",
+				"translations": [
+					"I don't eat / meat / . (but I eat fish)"
+				]
+			},
+			{
+				"phrase": "「セリーナをみせて！」「心配は要らない。いきてはいる、いきて。」",
+				"translations": [
+					"\"Show me Serena!\" \"No need to worry. She's / alive / . Alive (but _not_ well).\""
+				]
+			},
+			{
+				"phrase": "いや、でも野球を見に行くのは好きだけどね。",
+				"translations": [
+					"No, but I like + going to baseball."
+				]
+			},
+			{
+				"phrase": "私は、足し算は好きだけど、引き算は嫌いだ。",
+				"translations": [
+					"I like + addition but + subtraction."
+				]
+			},
+			{
+				"phrase": "彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．",
+				"translations": [
+					"Because he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection with him at all."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "660"
+	},
+	{
+		"point": "そう",
+		"meaning": {
+			"meaning": "I hear that",
+			"example": "I hear it's going to snow."
+		},
+		"usages": [
+			"Verb (casual)+そう+(だ)",
+			"Noun+だ+そう+(だ)",
+			"い-adjective+そう+(だ)",
+			"な-adjective (without な)+だ+そう+(だ)"
+		],
+		"phrases": [
+			{
+				"phrase": "天気予報を聞いてたら雪が降るそうです。",
+				"translations": [
+					"When I listened to the weather forcast they reckoned it's going to snow."
+				]
+			},
+			{
+				"phrase": "電話したら彼はいないそうです。",
+				"translations": [
+					"Upon phoning, I was told that he wasn't there."
+				]
+			},
+			{
+				"phrase": "彼はいないのですかと聞いたらそうだといわれました。",
+				"translations": [
+					"When I asked if he was not there, I was told that it was so."
+				]
+			},
+			{
+				"phrase": "そうですか！",
+				"translations": [
+					"Is that so!"
+				]
+			},
+			{
+				"phrase": "なんでそうやねん(Kansai Dialect)",
+				"translations": [
+					"Why so?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "663"
+	},
+	{
+		"point": "〜よ",
+		"meaning": {
+			"meaning": "! (exclamation mark, add emphasis, denote new information being imparted)",
+			"example": "The bus is coming!"
+		},
+		"phrases": [
+			{
+				"phrase": "バスが来るよ。",
+				"translations": [
+					"The bus is coming !"
+				]
+			},
+			{
+				"phrase": "それは大変なことだよ。",
+				"translations": [
+					"That's pretty serious, you realize that!"
+				]
+			},
+			{
+				"phrase": "あなたが好きなんだよ",
+				"translations": [
+					"I like you, you know!"
+				]
+			},
+			{
+				"phrase": "好い加減にしなさいよ。",
+				"translations": [
+					"Shape up !"
+				]
+			},
+			{
+				"phrase": "いいよ。",
+				"translations": [
+					"Sure!"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "752"
+	},
+	{
+		"point": "ように言う",
+		"meaning": {
+			"meaning": "V, To say to (do something)",
+			"example": "My doctor told me to stop drinking."
+		},
+		"readings": [
+			{
+				"reading": "ようにいう"
+			}
+		],
+		"usages": [
+			"Verb dictionary form+ように言う",
+			"Verb ~ない form+ように言う"
+		],
+		"phrases": [
+			{
+				"phrase": "医者に控えるように言われているのでお酒が飲めなくて、ウズウズしている。",
+				"translations": [
+					"My doctor told me to lay off the liquor so I have this uneasy impatient feeling."
+				]
+			},
+			{
+				"phrase": "医者は彼に酒を控えるように忠告した。",
+				"translations": [
+					"The doctor advised him to keep away from drinking."
+				]
+			},
+			{
+				"phrase": "医者なら誰でも君に禁煙するように言うだろう。",
+				"translations": [
+					"Any doctor will tell you to quit smoking."
+				]
+			},
+			{
+				"phrase": "私は図書館の職員に金曜日締め切りのレポートのためにその本が必要だと言った。そうしたら彼女は借りている人に返却を求めるように言うと言った。",
+				"translations": [
+					"I told the librarian that I needed the book for a report due on Friday; so she said she would call it in."
+				]
+			},
+			{
+				"phrase": "先生は私たちに毎日教室を掃除するように言う。",
+				"translations": [
+					"The teacher tells us to clean our classroom every day."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "759"
+	},
+	{
+		"point": "よう",
+		"meaning": {
+			"meaning": "appearance, looks, seems",
+			"example": "A sound like rain falling"
+		},
+		"usages": [
+			"Verb (casual form)+よう",
+			"い-adjective+よう",
+			"な-adjective+な+よう",
+			"Noun+の+よう"
+		],
+		"phrases": [
+			{
+				"phrase": "雨が降るような音がしました。",
+				"translations": [
+					"There was a sound like  rain falling."
+				]
+			},
+			{
+				"phrase": "そして、ウッドは「負けたら承知しないぞ」と言うように全員をにらみつけた。",
+				"translations": [
+					"Then Wood stared at all the team members like he was saying \"I won't accept it if you're defeated!\""
+				]
+			},
+			{
+				"phrase": "星のように輝いてる瞳。",
+				"translations": [
+					"Eyes that sparkle like stars."
+				]
+			},
+			{
+				"phrase": "そのようなこともあるのでしょうね。",
+				"translations": [
+					"I guess something like that could happen."
+				]
+			},
+			{
+				"phrase": "安いようだ。",
+				"translations": [
+					"Looks  cheap."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "861"
+	},
+	{
+		"point": "ところで (所で・処で)",
+		"meaning": {
+			"meaning": "by the way",
+			"example": "by the way it looks like rain"
+		},
+		"phrases": [
+			{
+				"phrase": "雨が降ってきたなあところで飯にしないか",
+				"translations": [
+					"Hey, it's starting to rain By the way you want to go get something to eat?"
+				]
+			},
+			{
+				"phrase": "( 「ところで」の他の意味 )私が説得したところであいつは耳をかさないだろう.",
+				"translations": [
+					"(alternate usage) No matter how much I try to persuade him, that guy won't listen."
+				]
+			},
+			{
+				"phrase": "ところで、あなたの仕事は何ですか。",
+				"translations": [
+					"By the way, what do you do?"
+				]
+			},
+			{
+				"phrase": "ところで、あなたは宿題をしましたか。",
+				"translations": [
+					"By the way, have you done your homework?"
+				]
+			},
+			{
+				"phrase": "ところで、ちょっと君に話がある。",
+				"translations": [
+					"By the way, I have something to tell you."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "868"
+	},
+	{
+		"point": "~出す",
+		"meaning": {
+			"meaning": "begin/start...",
+			"example": "Rain started to fall."
+		},
+		"readings": [
+			{
+				"reading": "〜だす"
+			}
+		],
+		"usages": [
+			"Verb ます stem+出す"
+		],
+		"phrases": [
+			{
+				"phrase": "地震が収まると、みんな家を飛び出した",
+				"translations": [
+					"When the earthquake subsided, everybody started running out of the houses."
+				]
+			},
+			{
+				"phrase": "泥棒が警察を見て、突然走り出しました。",
+				"translations": [
+					"When the burglar saw the police he imediately started running."
+				]
+			},
+			{
+				"phrase": "彼女は笑い出した。",
+				"translations": [
+					"She started in laughing."
+				]
+			},
+			{
+				"phrase": "気圧計は昨夜下がり出したが朝には止まった。",
+				"translations": [
+					"The barometer started to fall last night but stopped in the morning."
+				]
+			},
+			{
+				"phrase": "朝から雨が降り出した。",
+				"translations": [
+					"It began to rain this morning."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1728"
+	},
+	{
+		"point": "のに",
+		"meaning": {
+			"meaning": "in order to, to",
+			"example": "It takes time to learn Japanese"
+		},
+		"phrases": [
+			{
+				"phrase": "日本語を覚えるのに、時間がかかります",
+				"translations": [
+					"It takes time in order to , learn japanese"
+				]
+			},
+			{
+				"phrase": "あなたに会うのには何時(いつ）/何処(どこ）がいいですか。",
+				"translations": [
+					"What would be the good time/place in order to /to see you?"
+				]
+			},
+			{
+				"phrase": "パスポートは海外旅行に行くのに必要です。",
+				"translations": [
+					"A passport is necessary in order to travel overseas."
+				]
+			},
+			{
+				"phrase": "水着は泳ぐのに使う。",
+				"translations": [
+					"Swimwear is used for swimming."
+				]
+			},
+			{
+				"phrase": "私がその仕事を仕上げるのに５ヶ月かかった。",
+				"translations": [
+					"It took me five months to complete the job."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "551"
+	},
+	{
+		"point": "〜の",
+		"meaning": {
+			"meaning": "Turn a phrase ending in a verb into a 'noun phrase'",
+			"example": "Getting married is such an effort!"
+		},
+		"usages": [
+			"Verb (dictionary form)+の"
+		],
+		"phrases": [
+			{
+				"phrase": "結婚するのは大変だ。",
+				"translations": [
+					"Getting married is such an effort!"
+				]
+			},
+			{
+				"phrase": "「さあ、皆さん、正々堂々戦いましょう」全選手が周りに集まるのを待って先生が言った。",
+				"translations": [
+					"\"Well, everyone, let's play fair and square.\" the teacher said after waiting for all the players to assemble + ."
+				]
+			},
+			{
+				"phrase": "夢に耽ったり、生きることを忘れてしまうのはよくない。",
+				"translations": [
+					"Becoming absorbed in a dream, forgett ing to live is no good."
+				]
+			},
+			{
+				"phrase": "私も買い物に行くのが好きです。",
+				"translations": [
+					"I also like to go shopping."
+				]
+			},
+			{
+				"phrase": "アルバイトをしながら学校に行くのは大変ですね。",
+				"translations": [
+					"Having a part time job while going to school is hard, right?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "641"
+	},
+	{
+		"point": "なあ、な〜、な",
+		"meaning": {
+			"meaning": "Adds emphasis - sentence ending particle; Emphasizes personal desires",
+			"example": "Won't it be great if we can go fishing tomorrow?"
+		},
+		"phrases": [
+			{
+				"phrase": "明日は釣れるといいなあ！",
+				"translations": [
+					"Won't it be great if (we) can fish tommorow!"
+				]
+			},
+			{
+				"phrase": "冷たいビールを飲みたいなあ。",
+				"translations": [
+					"I'd really like a cold beer. / I could really go for a cold beer."
+				]
+			},
+			{
+				"phrase": "腹減ったなあ。",
+				"translations": [
+					"I'm so hungry."
+				]
+			},
+			{
+				"phrase": "きれいだなぁ〜。",
+				"translations": [
+					"Oh, how beautiful."
+				]
+			},
+			{
+				"phrase": "冷たいビールをのみたいなぁ〜。",
+				"translations": [
+					"I want to drink a cold beer."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "652"
+	},
+	{
+		"point": "なさい",
+		"meaning": {
+			"meaning": "Informal Imperative (request form)",
+			"example": "Sit down."
+		},
+		"usages": [
+			"Verb masu stem+なさい"
+		],
+		"phrases": [
+			{
+				"phrase": "「一人で間違えずに歌える自信のある人だけ座りなさい。」と指示しました",
+				"translations": [
+					"[The teacher] directed that (just) people who had the confidence that they could sing, on their own, without error should sit down."
+				]
+			},
+			{
+				"phrase": "早くしなさい。",
+				"translations": [
+					"Do it quickly."
+				]
+			},
+			{
+				"phrase": "好い加減にしなさいよ。",
+				"translations": [
+					"Shape up!"
+				]
+			},
+			{
+				"phrase": "野菜を食べなさい！",
+				"translations": [
+					"Eat your vegetables!"
+				]
+			},
+			{
+				"phrase": "座りなさい。",
+				"translations": [
+					"Sit down."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "658"
+	},
+	{
+		"point": "〜かな",
+		"meaning": {
+			"meaning": "I wonder.. (Based on か question particle.)",
+			"example": "I wonder if he'll be here soon?"
+		},
+		"phrases": [
+			{
+				"phrase": "この靴は高いかな",
+				"translations": [
+					"I wonder if these shoes are expensive"
+				]
+			},
+			{
+				"phrase": "締め切りに間に合わなかったらどうなるかな。",
+				"translations": [
+					"What if I miss the deadline?"
+				]
+			},
+			{
+				"phrase": "「彼の病気は重いのかな。」「そうでないといいね。」",
+				"translations": [
+					"\"Is he seriously ill ?\" \"I hope not.\""
+				]
+			},
+			{
+				"phrase": "「肘が痛むんだよ。病院に行こうかな。」",
+				"translations": [
+					"\"My elbow really hurts. I guess I should go to a hospital.\""
+				]
+			},
+			{
+				"phrase": "７月の上旬に、海に行くのは早いかな。",
+				"translations": [
+					"I wonder if the first week (or so) of July is too early to go to the beach."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "749"
+	},
+	{
+		"point": "せっかく",
+		"meaning": {
+			"meaning": "with effort",
+			"example": "I took the trouble to go and see him, but he wasn't there"
+		},
+		"phrases": [
+			{
+				"phrase": "せっかく会いに行ったのに、友達はいませんでした。",
+				"translations": [
+					"I took the effort to go and see my friend, but he wasn't there"
+				]
+			},
+			{
+				"phrase": "せっかくいい大学に入ったのだからよく勉強するつもりです。",
+				"translations": [
+					"I worked hard to get into a good college, so I intend to study hard"
+				]
+			},
+			{
+				"phrase": "人がせっかく作ってくれた料理を食べないのは失礼だ。",
+				"translations": [
+					"It's impolite not to eat food which someone has taken the trouble  of preparing for you. (from An Integrated Approach to Intermediate Japanese)"
+				]
+			},
+			{
+				"phrase": "せっかく彼女に手紙を書いたのに、送るのを忘れちゃった。",
+				"translations": [
+					"I took the effort  to write a letter to her and forgot to send it."
+				]
+			},
+			{
+				"phrase": "せっかく母親が買ってきたシャツをどうしても着ようとしなかった。",
+				"translations": [
+					"After all of the trouble  my mother went to buy the shirt, I did not wear it."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "852"
+	},
+	{
+		"point": "ところ",
+		"meaning": {
+			"meaning": "place, time, occasion"
+		},
+		"phrases": [
+			{
+				"phrase": "今着いたところです",
+				"translations": [
+					"I am just now arriving (Lit: now arrival time is)"
+				]
+			},
+			{
+				"phrase": "このホテルは公共交通機関の点から見ると便利な所に位置している。",
+				"translations": [
+					"This hotel is in a convenient place in terms of public transportation."
+				]
+			},
+			{
+				"phrase": "あなたはそれを終えましたか。それどこか、今始めたところです。",
+				"translations": [
+					"Have you finished it? On the contrary, I've just begun."
+				]
+			},
+			{
+				"phrase": "あなたは昨晩私が彼女と二人っきりでいるところを見つけて驚いたにちがいない。",
+				"translations": [
+					"You must have been surprised to find me with her alone last night."
+				]
+			},
+			{
+				"phrase": "あなたは当分の間私のところにいても良い。",
+				"translations": [
+					"You may stay with me for the time being."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "888"
+	},
+	{
+		"point": "〜ものだから",
+		"meaning": {
+			"meaning": "so, therefore (explaining something unavoidable)",
+			"example": "The dog ate my homework (so) I can't turn it in today."
+		},
+		"phrases": [
+			{
+				"phrase": "家が狭いものですから大きい家具は置けません",
+				"translations": [
+					"The house is small (narrow) [so / therefore] you cant put big furniture in (it)."
+				]
+			},
+			{
+				"phrase": "一人っ子なものだからわがままに育ててしまいました。",
+				"translations": [
+					"It ((s)he) was an only child and so grew selfish"
+				]
+			},
+			{
+				"phrase": "遅くなってごめんね。道路が込んでいたもんだから。",
+				"translations": [
+					"I'm sorry I'm late, I got caught in a traffic jam."
+				]
+			},
+			{
+				"phrase": "上着を脱いでもいいですか。暑いものですから。",
+				"translations": [
+					"Can I take my jacket off? I'm feeling a bit hot."
+				]
+			},
+			{
+				"phrase": "僕は何でも嗅げれない。どうやら風邪を引っちゃったよ。ものだから。",
+				"translations": [
+					"It seems I have caught I cold and cant smell anything. ものだから"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1163"
+	},
+	{
+		"point": "〜反面",
+		"meaning": {
+			"meaning": "on the other hand",
+			"example": "the reverse"
+		},
+		"readings": [
+			{
+				"reading": "〜はんめん"
+			}
+		],
+		"usages": [
+			"Phrase+反面+phrase"
+		],
+		"phrases": [
+			{
+				"phrase": "その反面",
+				"translations": [
+					"on the other hand"
+				]
+			},
+			{
+				"phrase": "普通兄は優しい反面、卑しいところもある。",
+				"translations": [
+					"My older brother is usually kind, but on the other hand he can be mean."
+				]
+			},
+			{
+				"phrase": "その仕事は十分にお金になるが、その反面１日に１２時間働かなくてはならない。",
+				"translations": [
+					"The job pays well, but on the other hand I have to work twelve hours a day."
+				]
+			},
+			{
+				"phrase": "この布は水に強い反面,熱には弱い.",
+				"translations": [
+					"This cloth is strong in water on the other hand, is vulnerable to heat."
+				]
+			},
+			{
+				"phrase": "インターネットは子供にとって役に立つ学習ツールだが、反面、しっかりその使い方を指導しない子供がポルノや沫ﾍシーンの画像に簡単に接してしまうことになりかねない。",
+				"translations": [
+					"The internet is a useful learning tool for children. On the other hand, it can expose them to pornographic or violent images if they are allowed to use it unsupervised."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1481"
+	},
+	{
+		"point": "〜ようとする",
+		"meaning": {
+			"meaning": "Try to do something, but the nuance is that it was unsuccessful.",
+			"example": "I tried to kiss her, but she said no."
+		},
+		"usages": [
+			"よう形+とする"
+		],
+		"phrases": [
+			{
+				"phrase": "このコンピューターを使おうとしたが、ダメだった。",
+				"translations": [
+					"I tried to use this computer, but I couldn't."
+				]
+			},
+			{
+				"phrase": "電車に乗ろうとしたら、ドアが閉まってしまいました。",
+				"translations": [
+					"I was about to get on the train when the door closed on me."
+				]
+			},
+			{
+				"phrase": "彼が彼女にキスしようとした時、,お母さんが 部屋に入って来た（のでキスできなかった）。",
+				"translations": [
+					"He was trying to kiss his girlfriend when his mom walked in the room. (so I did not get to kiss her)"
+				]
+			},
+			{
+				"phrase": "私は彼に真実な気持ちを言おうとしたが、彼の携帯電話が鳴ってしまいました。言おうとした",
+				"translations": [
+					"I tried to tell him how I felt,but his phone rang. Tried"
+				]
+			},
+			{
+				"phrase": "人間の寿命は短いって分かっていたのに、なんでもっと知ろうと思わなかったんだろう。 ～フレーレン",
+				"translations": [
+					"I knew human lives were short. Why didn`t I try to get to know  him better? ーFrieren"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1565"
+	},
+	{
+		"point": "がする",
+		"meaning": {
+			"meaning": "to affect the senses (to taste, to smell of, to feel like, to give the sensation of etc.)",
+			"example": "This room smells of gas."
+		},
+		"phrases": [
+			{
+				"phrase": "「ちょっと目まいがするわ。」「顔色が悪いぞ。一日休んだほうがいいよ。」",
+				"translations": [
+					"\" I feel sort of dizzy.\" \"You look pale. You'd better take a day off.\" [F] [M]"
+				]
+			},
+			{
+				"phrase": "このスープは魚の味がする。",
+				"translations": [
+					"This soup tastes of fish."
+				]
+			},
+			{
+				"phrase": "この部屋はガスのにおいがする。",
+				"translations": [
+					"This room smells of gas."
+				]
+			},
+			{
+				"phrase": "あなたも血のにおいがするな.",
+				"translations": [
+					"I smell blood on you too."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "556"
+	},
+	{
+		"point": "〜だい",
+		"meaning": {
+			"meaning": "? (for casual questions)",
+			"example": "Who's it?"
+		},
+		"usages": [
+			"Adj Na/Noun+だい",
+			"Verb/ adj i+ん+だい",
+			"Adj Na/Noun+な+ん+だい",
+			"Adj Na/Noun+だった+ん+だい"
+		],
+		"phrases": [
+			{
+				"phrase": "誰だい。",
+				"translations": [
+					"Who is it ?"
+				]
+			},
+			{
+				"phrase": "何をこそこそしているんだい。",
+				"translations": [
+					"What are you doing sneaking around ?"
+				]
+			},
+			{
+				"phrase": "いつまで起きているんだい。早く寝なさい！",
+				"translations": [
+					"Why are you still up ? Just go to bed!"
+				]
+			},
+			{
+				"phrase": "その優しげな目の奥にあるのは本当に何を知りたいんだい?",
+				"translations": [
+					"What do you wanna know in your cute eyes?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "714"
+	},
+	{
+		"point": "しまう (仕舞う・終う・了う)",
+		"meaning": {
+			"meaning": "Vte, (Definitely, completely [often to ones regret] do V)",
+			"example": "Now you've gone and broke it."
+		},
+		"usages": [
+			"Verb て-form+しまう"
+		],
+		"phrases": [
+			{
+				"phrase": "もう〜。また皿を壊してしまったか。",
+				"translations": [
+					"Good grief. (That) another plate (you've) gone and broken?"
+				]
+			},
+			{
+				"phrase": "夢に耽ったり、生きることを忘れてしまうのはよくない。",
+				"translations": [
+					"Becoming absorbed in a dream, forgetting to live is no good."
+				]
+			},
+			{
+				"phrase": "あなたは笑われてしまうでしょう。",
+				"translations": [
+					"You will be laughed at."
+				]
+			},
+			{
+				"phrase": "電車の中に財布を落としてしまった。",
+				"translations": [
+					"I lost my wallet in the train."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "718"
+	},
+	{
+		"point": "である",
+		"meaning": {
+			"meaning": "To be, is (formal equivalent of だ [da])"
+		},
+		"usages": [
+			"Noun+である"
+		],
+		"phrases": [
+			{
+				"phrase": "医者である田中さん",
+				"translations": [
+					"The Tanaka san who is a doctor."
+				]
+			},
+			{
+				"phrase": "そうであるとしても、この場合は別でしょう。",
+				"translations": [
+					"Even if that is correct, would it not have to be different in this case?"
+				]
+			},
+			{
+				"phrase": "いつも正直であるということは、容易なことではない。",
+				"translations": [
+					"To be always honest is not easy."
+				]
+			},
+			{
+				"phrase": "\"We\" are a cat (famous novel title).",
+				"translations": [
+					"我輩は猫である。"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "733"
+	},
+	{
+		"point": "たい",
+		"meaning": {
+			"meaning": "Vm, wanting to do ___",
+			"example": "I want to see a Bond movie!"
+		},
+		"phrases": [
+			{
+				"phrase": "ボンドの映画を見たいな〜。",
+				"translations": [
+					"I wanna see the Bond movie!"
+				]
+			},
+			{
+				"phrase": "この車を買いたいんですが、お金が無い。",
+				"translations": [
+					"I want to buy this car but I don't have the money."
+				]
+			},
+			{
+				"phrase": "あなたは何をしたいのですか。",
+				"translations": [
+					"What would you like to do?"
+				]
+			},
+			{
+				"phrase": "彼女は私のすることをいつみ知りたがる。",
+				"translations": [
+					"She`s always curious about (as to) what I`m doing."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "757"
+	},
+	{
+		"point": "〜を",
+		"meaning": {
+			"meaning": "area passed through (通過点)",
+			"example": "I walked through the park."
+		},
+		"phrases": [
+			{
+				"phrase": "公園を歩きました。",
+				"translations": [
+					"I walked (through/in) the park."
+				]
+			},
+			{
+				"phrase": "12歳のとき、私は川を泳いで渡ることができた。",
+				"translations": [
+					"I could swim + across the river when I was twelve."
+				]
+			},
+			{
+				"phrase": "この列車はニューヨークとボストン間を走っている。",
+				"translations": [
+					"This train runs + between New York and Boston."
+				]
+			},
+			{
+				"phrase": "お忙しいところをお出で頂きありがとうございます。",
+				"translations": [
+					"Than you very much for coming despite the fact that. you were busy."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "766"
+	},
+	{
+		"point": "〜を",
+		"meaning": {
+			"meaning": "(marks point of departure) 出発点",
+			"example": "I left the room."
+		},
+		"phrases": [
+			{
+				"phrase": "部屋を出た。",
+				"translations": [
+					"I left the room."
+				]
+			},
+			{
+				"phrase": "大阪を出発する。",
+				"translations": [
+					"He leaves + Osaka."
+				]
+			},
+			{
+				"phrase": "去年日本を離れた。",
+				"translations": [
+					"I left + Japan last year."
+				]
+			},
+			{
+				"phrase": "１９００年に彼はイギリスを去った。",
+				"translations": [
+					"In 1900 he left + England."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "767"
+	},
+	{
+		"point": "て形+ある (て在る・て有る)",
+		"meaning": {
+			"meaning": "Vte something has been purposely put into a state",
+			"example": "The window has been closed."
+		},
+		"readings": [
+			{
+				"reading": "〜てある"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "窓が開けてある。",
+				"translations": [
+					"The window has been left open."
+				]
+			},
+			{
+				"phrase": "窓が閉めてある。",
+				"translations": [
+					"The window has been closed."
+				]
+			},
+			{
+				"phrase": "窓を（は）開けてある。",
+				"translations": [
+					"I left the window open."
+				]
+			},
+			{
+				"phrase": "窓を（は）閉めてある。",
+				"translations": [
+					"I kept the window closed."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "784"
+	},
+	{
+		"point": "て形+くる (て来る)",
+		"meaning": {
+			"meaning": "Do something, and return",
+			"example": "I'll go buy the newspaper (and come back)"
+		},
+		"readings": [
+			{
+				"reading": "てくる"
+			}
+		],
+		"usages": [
+			"Verb て-form+来る"
+		],
+		"phrases": [
+			{
+				"phrase": "新聞を買ってくる。",
+				"translations": [
+					"I'll go buy the newspaper. (implying you'll be back)"
+				]
+			},
+			{
+				"phrase": "医者に行って薬をもらってきました。",
+				"translations": [
+					"I went to the doctor and got some medicine (and came back with it) ."
+				]
+			},
+			{
+				"phrase": "日本語が少しずつ分かってきた",
+				"translations": [
+					"Little by little, I came to understand Japanese."
+				]
+			},
+			{
+				"phrase": "物価が下がってくる。",
+				"translations": [
+					"Prices continue to fall."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1127"
+	},
+	{
+		"point": "と言うと",
+		"meaning": {
+			"meaning": "when you talk of, speaking of, when you say",
+			"example": "talking of the french..."
+		},
+		"readings": [
+			{
+				"reading": "というと"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "スイスというと何をイメージしますか？",
+				"translations": [
+					"When you hear 'Switzerland' what does it invoke in your mind?"
+				]
+			},
+			{
+				"phrase": "なぜクビにならなかったかと言うと彼には超能力があり、彼の予知で数々の難事件が解決をみたからだ",
+				"translations": [
+					"To say (the reason) why he wasn't fired, having psychic powers, he solved many difficult cases with his foresight."
+				]
+			},
+			{
+				"phrase": "何かというとあいつはいつも口を出そうとする。",
+				"translations": [
+					"Whatever happens, that guy always tries to interject himself."
+				]
+			},
+			{
+				"phrase": "何故かといわれても、知りません",
+				"translations": [
+					"If you ask me why, I don't know."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1145"
+	},
+	{
+		"point": "予定",
+		"meaning": {
+			"meaning": "be planning to do~",
+			"example": "i am planning to go back to my country at the end of june"
+		},
+		"readings": [
+			{
+				"reading": "よてい"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "これはあくまでも予定以外のなにものでもない。",
+				"translations": [
+					"This is only a plan and nothing more than that."
+				]
+			},
+			{
+				"phrase": "明日この宿題を終わる予定です。",
+				"translations": [
+					"I plan to finish this assignment tomorrow."
+				]
+			},
+			{
+				"phrase": "来週帰国する予定です。",
+				"translations": [
+					"I plan to go back to my home country next week."
+				]
+			},
+			{
+				"phrase": "来年彼女と結婚する予定です。",
+				"translations": [
+					"next year I am planning to marry her."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1482"
+	},
+	{
+		"point": "て形+みる (て見る)",
+		"meaning": {
+			"meaning": "to try (out)",
+			"example": "try to read"
+		},
+		"readings": [
+			{
+				"reading": "てみる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "着てみてもいい？",
+				"translations": [
+					"Is it ok if i try it on to see?"
+				]
+			},
+			{
+				"phrase": "あなたは自分で行って見るべきです。",
+				"translations": [
+					"You should go and see for yourself."
+				]
+			},
+			{
+				"phrase": "老いた故郷の両親のことを考えて見るべきだ。",
+				"translations": [
+					"You must think of your old parents at home."
+				]
+			},
+			{
+				"phrase": "やって見ようか？",
+				"translations": [
+					"Shall we have a go?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1559"
+	},
+	{
+		"point": "出す、出して、出した",
+		"meaning": {
+			"meaning": "to pay, to place, to issue, to stick out, to put forth, to serve",
+			"example": "to pay, to place, to issue, to stick out, to put forth, to serve"
+		},
+		"readings": [
+			{
+				"reading": "だす、だして、だした"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "まど　から　くび　を　だす。",
+				"translations": [
+					"Lean out the window."
+				]
+			},
+			{
+				"phrase": "わたし　の　かいしゃ　は　ほん　を　出した。",
+				"translations": [
+					"My company published a book."
+				]
+			},
+			{
+				"phrase": "ごみ　を　出す。",
+				"translations": [
+					"Take out the garbage."
+				]
+			},
+			{
+				"phrase": "お金　を　出す　から　買って　ください。",
+				"translations": [
+					"I will pay (for it), please buy it."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1626"
+	},
+	{
+		"point": "気になる",
+		"meaning": {
+			"meaning": "thinking about, concerned about, worried about",
+			"example": "I was worried about my father's health."
+		},
+		"readings": [
+			{
+				"reading": "きになる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "何かきになることがある？",
+				"translations": [
+					"Is there something you're worried about?"
+				]
+			},
+			{
+				"phrase": "A:なんでその変なスタイルにしたの？ Ｂ：何か、気になるよ",
+				"translations": [
+					"A:Why did you go with that weird style? B:Well, the feeling just came to me!"
+				]
+			},
+			{
+				"phrase": "Well, the feeling just came to me!",
+				"translations": [
+					"Ｂ：何か、気になるよ"
+				]
+			},
+			{
+				"phrase": "子供の教育のことが気になる。",
+				"translations": [
+					"I'm worried about my child's education."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1639"
+	},
+	{
+		"point": "〜おうとすると",
+		"meaning": {
+			"meaning": "A voluntary action stopped just before being completed",
+			"example": "I was about to go out when the phone rang."
+		},
+		"phrases": [
+			{
+				"phrase": "バスを降りようとすると、後ろから押された。",
+				"translations": [
+					"I was about to get off the bus, when someone pushed me from behind."
+				]
+			},
+			{
+				"phrase": "出かけようとすると、父に呼ばれた。",
+				"translations": [
+					"I was just about to go out, when dad called me."
+				]
+			},
+			{
+				"phrase": "お風呂に入ろうとしたときに、電話が鳴りました。",
+				"translations": [
+					"The telephone rang just as I was about to get into the bath."
+				]
+			},
+			{
+				"phrase": "彼女に告白しようとすると、突然友達が来ました。",
+				"translations": [
+					"when i try to propose her suddenly friend are come."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1671"
+	},
+	{
+		"point": "ほど-2",
+		"meaning": {
+			"meaning": "to the extent of; to the extent that ~; (not as) ~ as ~ ; about [REL. bakari; kurai]",
+			"example": "(Lit, I'm not strong as Lenz's extent. (=I'm not as strong as Lenz))"
+		},
+		"phrases": [
+			{
+				"phrase": "僕は君ほど速く歩けません。",
+				"translations": [
+					"I can't walk as fast as you can."
+				]
+			},
+			{
+				"phrase": "ジェニファーほどよく勉強する学生はいない。",
+				"translations": [
+					"There is no student who studies as hard as Jennifer."
+				]
+			},
+			{
+				"phrase": "私は西田さんがあれほどピアノが弾けるは思わなかった。",
+				"translations": [
+					"I didn't think that Mr. Nishida could play the piano that well . (lit. to that extent)"
+				]
+			},
+			{
+				"phrase": "ルイスさんの日本語は太田先生も外国人だと気づかなかったほど上手です。",
+				"translations": [
+					"Mr. Lewis's Japanese is so good that even Prof. Ota didn't notice he was a foreigner."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1760"
+	},
+	{
+		"point": "どうしても",
+		"meaning": {
+			"meaning": "absolutely, surely, by all means, no matter what, at any cost; after all",
+			"example": "No matter what I did, Tom wouldn't do what I told him."
+		},
+		"phrases": [
+			{
+				"phrase": "どうしても事故は起こるものだ。",
+				"translations": [
+					"No matter what, accidents will happen."
+				]
+			},
+			{
+				"phrase": "どうしても痩せたい",
+				"translations": [
+					"I'd like to lose weight no matter what."
+				]
+			},
+			{
+				"phrase": "どうしても上手になりたいです。",
+				"translations": [
+					"I want to improve no matter what  ."
+				]
+			},
+			{
+				"phrase": "どうしても試験に合格したいです",
+				"translations": [
+					"I wanna pass examination no matter what"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1776"
+	},
+	{
+		"point": "〜な",
+		"meaning": {
+			"meaning": "(particle used with na-adjectives)",
+			"example": "What a strange man!"
+		},
+		"phrases": [
+			{
+				"phrase": "私はきっと変な人だと思われてる。",
+				"translations": [
+					"I'm sure I'm thought of as an odd person."
+				]
+			},
+			{
+				"phrase": "彼女はきれいな足をしている。",
+				"translations": [
+					"She has beautiful legs."
+				]
+			},
+			{
+				"phrase": "静かなレストランに行きましょう。",
+				"translations": [
+					"Let's go to a quiet restaurant."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "638"
+	},
+	{
+		"point": "ばかり",
+		"meaning": {
+			"meaning": "have just done something; have just finished doing something’",
+			"example": "When I was a newcomer to Japan, I had trouble understanding Japanese."
+		},
+		"phrases": [
+			{
+				"phrase": "日本へ行ったばかりのころは、日本語がわからなくて困りました。",
+				"translations": [
+					"When I was a newcomer to Japan, I had trouble understanding Japanese."
+				]
+			},
+			{
+				"phrase": "食べたばかりだから、ちょっと待ってください。",
+				"translations": [
+					"I just ate so please wait a bit."
+				]
+			},
+			{
+				"phrase": "働き始めたばかりのとき、僕も間違えたよ。",
+				"translations": [
+					"When I had just begun working, I made some mistakes too."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1502"
+	},
+	{
+		"point": "として",
+		"meaning": {
+			"meaning": "try to",
+			"example": "Try to do two things at a time"
+		},
+		"usages": [
+			"informal volitional+として"
+		],
+		"phrases": [
+			{
+				"phrase": "2つのことを一度にしようとしてはいけません。",
+				"translations": [
+					"Don't try to do two things at a time."
+				]
+			},
+			{
+				"phrase": "このような（子供の）態度は、自分たちがある程度独立していることを示そうとしての結果なのである。",
+				"translations": [
+					"This is because they are trying to prove they are somewhat independent."
+				]
+			},
+			{
+				"phrase": "アイスクリームを食べようとして、スプーンがないことに気が付いた。これでは食べようがない。どうしよう。",
+				"translations": [
+					"When they were trying to eat ice cream, they noticed they didn't have a spoon. There's no way to eat. What should we do?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1597"
+	},
+	{
+		"point": "わざとらしい",
+		"meaning": {
+			"meaning": "fake, pretending",
+			"example": "it seems like he is faking his injury"
+		},
+		"phrases": [
+			{
+				"phrase": "わざとらしい笑い。",
+				"translations": [
+					"An artificial smile."
+				]
+			},
+			{
+				"phrase": "彼のわざとらしい話し方が嫌いだ。",
+				"translations": [
+					"I don't like his affected manner of speaking."
+				]
+			},
+			{
+				"phrase": "彼のけがするのは、わざとらしいですね",
+				"translations": [
+					"It`s like he is faking his injury."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1657"
+	},
+	{
+		"point": "-方",
+		"meaning": {
+			"meaning": "how to _____, way to _____,",
+			"example": "teach me how to write this kanji"
+		},
+		"readings": [
+			{
+				"reading": "-かた"
+			}
+		],
+		"usages": [
+			"ます stem+方"
+		],
+		"phrases": [
+			{
+				"phrase": "私は英語の手紙の書き方を知っています。",
+				"translations": [
+					"I know how to write a letter in English."
+				]
+			},
+			{
+				"phrase": "この漢字の読み方を教えてください。",
+				"translations": [
+					"Please teach me how to read this kanji."
+				]
+			},
+			{
+				"phrase": "いろいろな人の考え方を見出すのが好きです。",
+				"translations": [
+					"I like to discover various people's way of thinking."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1716"
+	},
+	{
+		"point": "までに",
+		"meaning": {
+			"meaning": "by __[day, date, time, etc.]__",
+			"example": "Turn in the report by Friday."
+		},
+		"phrases": [
+			{
+				"phrase": "明日までにそれを済ませてしまうべきです。",
+				"translations": [
+					"You ought to have done it by tomorrow."
+				]
+			},
+			{
+				"phrase": "お昼までに戻らないといけない。",
+				"translations": [
+					"(I) need to be back by noon."
+				]
+			},
+			{
+				"phrase": "書類を夜までにださなければなりません。",
+				"translations": [
+					"Document must be submitted by  evening."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1737"
+	},
+	{
+		"point": "なければなりません",
+		"meaning": {
+			"meaning": "must ____; really should _____; it won't do if you don't ____.",
+			"example": "You must use the large envelope."
+		},
+		"phrases": [
+			{
+				"phrase": "野菜を食べなければなりません。",
+				"translations": [
+					"You must eat your vegetables."
+				]
+			},
+			{
+				"phrase": "お店で卵を買わなければなりません。なければなりません。",
+				"translations": [
+					"I have to buy eggs at the store. なければなりません"
+				]
+			},
+			{
+				"phrase": "毎日日本語を勉強しなければなりません。",
+				"translations": [
+					"I must study Japanese everyday"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1772"
+	},
+	{
+		"point": "ことで",
+		"meaning": {
+			"meaning": "by doing this　(meant to highlight a method or means)",
+			"example": "By listening to Japanese music, you will become better."
+		},
+		"usages": [
+			"Verb dictionary form+ことで",
+			"い adjective+ことで",
+			"な adjective な+ことで",
+			"Noun+の+ことで"
+		],
+		"phrases": [
+			{
+				"phrase": "あなたは日本の音楽を聞くことで上手になります。",
+				"translations": [
+					"By listening to Japanese music, you will become better. (at understanding Japanese) By listening to Japanese music"
+				]
+			},
+			{
+				"phrase": "退席することで実は正しいことをすることになる。",
+				"translations": [
+					"You may actually be doing the right thing by walking out."
+				]
+			},
+			{
+				"phrase": "まいにちれんしゅうすることで、にほんごがぺらぺらになりました。",
+				"translations": [
+					"Everyday by studying japanese language, you will be better."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1788"
+	},
+	{
+		"point": "なる",
+		"meaning": {
+			"meaning": "Used much like the な of na-adjectives - somewhat archaic.",
+			"example": "With my sacred sword I shall smite thee!"
+		},
+		"phrases": [
+			{
+				"phrase": "悪魔め！俺様は聖なる剣で貴様を倒す！",
+				"translations": [
+					"Foul demon! _I_ will smite you with this sacred + sword!"
+				]
+			},
+			{
+				"phrase": "スター・ウォーズのエピソード４の副題は、「新たなる希望」である。",
+				"translations": [
+					"The subtitle of Episod IV of Star Wars is \"a new + hope\"."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "640"
+	},
+	{
+		"point": "にする",
+		"meaning": {
+			"meaning": "To decide on, to choose",
+			"example": "Let's make it Sunday."
+		},
+		"phrases": [
+			{
+				"phrase": "うちは毎年９月末の日曜日にすると決まっているのです。",
+				"translations": [
+					"It's our rule to make it the last Sunday of September every year."
+				]
+			},
+			{
+				"phrase": "そのようにすると後で困らない？",
+				"translations": [
+					"if you do it this way, won't you be troubled later on?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "649"
+	},
+	{
+		"point": "て形+いる (て居る)",
+		"meaning": {
+			"meaning": "Vte (Continuing states, experience, repetative events)/ doing currently",
+			"example": "The window is open."
+		},
+		"readings": [
+			{
+				"reading": "〜ている"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "私 は 食べている",
+				"translations": [
+					"I am eating now"
+				]
+			},
+			{
+				"phrase": "あなた は 見ている",
+				"translations": [
+					"You are looking now"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "783"
+	},
+	{
+		"point": "なし",
+		"meaning": {
+			"meaning": "without",
+			"example": "without a coat on"
+		},
+		"phrases": [
+			{
+				"phrase": "とても寒いけれど、彼女はコートなしで出かけました。",
+				"translations": [
+					"Although it is very cold, she went out without a coat on"
+				]
+			},
+			{
+				"phrase": "彼女はコートなしで出かけました",
+				"translations": [
+					"she went out without wearing a coat"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1203"
+	},
+	{
+		"point": "ずに",
+		"meaning": {
+			"meaning": "without",
+			"example": "i went without eating"
+		},
+		"usages": [
+			"Verb ~ない form without ない+ずに"
+		],
+		"phrases": [
+			{
+				"phrase": "朝ごはんを食べずに学校へ来ました。",
+				"translations": [
+					"I came to school without eating breakfast."
+				]
+			},
+			{
+				"phrase": "勉強せずにテストを受けた。",
+				"translations": [
+					"I took the test without having studied."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1561"
+	},
+	{
+		"point": "ことにする",
+		"meaning": {
+			"meaning": "Decide to do something",
+			"example": "I have decided to go to Japan this year."
+		},
+		"phrases": [
+			{
+				"phrase": "最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。",
+				"translations": [
+					"I gained a little weight recently so I've decided not to eat hamburgers every day."
+				]
+			},
+			{
+				"phrase": "合格するようにもっと勉強をすることにしました。",
+				"translations": [
+					"In order to pass the exam I decided to study harder"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1629"
+	},
+	{
+		"point": "とても〜ない",
+		"meaning": {
+			"meaning": "Can`t possibly",
+			"example": "There is so much (food) that I can`t possibly eat it all"
+		},
+		"phrases": [
+			{
+				"phrase": "たくさんあって､とても食べきれません",
+				"translations": [
+					"There is so much (food) that I can`t possible eat it all."
+				]
+			},
+			{
+				"phrase": "東京ではとても家なんか買えません。",
+				"translations": [
+					"I can`t possibly buy a house in Tokyo."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1648"
+	},
+	{
+		"point": "のだ",
+		"meaning": {
+			"meaning": "explanation",
+			"example": "explanation"
+		},
+		"phrases": [
+			{
+				"phrase": "どうしたんですか。顔色が悪いですよ。",
+				"translations": [
+					"What happened? You are really pale."
+				]
+			},
+			{
+				"phrase": "どうしたのですか。頭が痛いのです。",
+				"translations": [
+					"What's wrong with you? I have a headache."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1731"
+	},
+	{
+		"point": "ことになる",
+		"meaning": {
+			"meaning": "it has been decided/arranged that",
+			"example": "It has been decided that I will work in Tokyo"
+		},
+		"phrases": [
+			{
+				"phrase": "主人が仕事で東京にいくことになった。",
+				"translations": [
+					"It has been decided that my husband will go to Tokyo for professional reasons."
+				]
+			},
+			{
+				"phrase": "留学することになりました。",
+				"translations": [
+					"It has been arranged that I will study abroad."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1732"
+	},
+	{
+		"point": "かしら。",
+		"meaning": {
+			"meaning": "I wonder if...　（A type of question mark)",
+			"example": "Is she the ikebana teacher?"
+		},
+		"phrases": [
+			{
+				"phrase": "昨夜、誰がテレビをつけたかしら。",
+				"translations": [
+					"I wonder who turned on the TV last night."
+				]
+			},
+			{
+				"phrase": "いくらかしら。",
+				"translations": [
+					"I wonder how much it is."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1774"
+	},
+	{
+		"point": "と同様",
+		"meaning": {
+			"meaning": "the same way as, as well as",
+			"example": "大都市と同様、地方でも交通事故が増えている"
+		},
+		"readings": [
+			{
+				"reading": "とどうよう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "多くのアメリカ人と同様に彼は気さくだ。",
+				"translations": [
+					"Like/similar to many Americans, he is very friendly."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1675"
+	},
+	{
+		"point": "ということですね (と云う事ですね)",
+		"meaning": {
+			"meaning": "your message is that ...",
+			"example": "you are coming to tokyo tomorrow,right?"
+		},
+		"phrases": [
+			{
+				"phrase": "少しずつそうなったということですね",
+				"translations": [
+					"its a gradual thing,isn't it?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1734"
+	},
+	{
+		"point": "〜のような (〜の様な)",
+		"meaning": {
+			"meaning": "just like, alike to, similar to",
+			"example": "she's flying just like a bird!"
+		},
+		"phrases": [
+			{
+				"phrase": "この写真のようなカットが欲しい。",
+				"translations": [
+					"I want a haircut like this one in the picture."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1768"
+	},
+	{
+		"point": "かい。",
+		"meaning": {
+			"meaning": "(A type of question mark)",
+			"example": "Will you go as far as Kita Senju?"
+		},
+		"phrases": [
+			{
+				"phrase": "そろそろ終わりかい？",
+				"translations": [
+					"Is it about to end?"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1773"
+	},
+	{
+		"point": "~上げる",
+		"meaning": {
+			"meaning": "Something has just been finished",
+			"example": "I finally finished writing my paper"
+		},
+		"readings": [
+			{
+				"reading": "あげる"
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1795"
+	},
+	{
+		"point": "気がする",
+		"meaning": {
+			"meaning": "to feel, realize",
+			"example": "I have a feeling he's a bad person"
+		},
+		"readings": [
+			{
+				"reading": "きがする"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "電車の中での勉強はとても無理なような気がします。",
+				"translations": [
+					"I feel like it's almost impossible to study on the train ."
+				]
+			},
+			{
+				"phrase": "旅行で行きましたけど、そこには住みたくないような気がしました。",
+				"translations": [
+					"I went travelling there, but realized I would not like to live there ."
+				]
+			},
+			{
+				"phrase": "悪い人のような気がしました。",
+				"translations": [
+					"I felt that he was a bad person ."
+				]
+			},
+			{
+				"phrase": "高いような気がしている。",
+				"translations": [
+					"I feel like its expensive ."
+				]
+			},
+			{
+				"phrase": "いつも排尿したいような気がする。",
+				"translations": [
+					"I have a constant feeling I have to pee ."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1117"
+	},
+	{
+		"point": "筈",
+		"meaning": {
+			"meaning": "believe that it is so; expect that it is so; it is supposed to be so",
+			"example": "I expected him to come, but ..."
+		},
+		"readings": [
+			{
+				"reading": "はず"
+			}
+		],
+		"usages": [
+			"Verb plain form+はず",
+			"い adjective+はず",
+			"な adjective+な+はず",
+			"Noun+の+はず"
+		],
+		"phrases": [
+			{
+				"phrase": "田中さんが、病気の子どもだけを家にのこして出かけるはずがない。",
+				"translations": [
+					"Mrs Tanaka is not supposed to leave the ill child alone at home."
+				]
+			},
+			{
+				"phrase": "彼は８時に来るはずだったが、１０時になるまで姿を現さなかった。",
+				"translations": [
+					"He was supposed to be there at 8 o'clock and he didn't show up till ten."
+				]
+			},
+			{
+				"phrase": "易しいはずだったのに、試験は予想外に難しかった。",
+				"translations": [
+					"It was supposed to be easy, but the test proved to be unexpectedly difficult."
+				]
+			},
+			{
+				"phrase": "そんな筈はない",
+				"translations": [
+					"That cannot be."
+				]
+			},
+			{
+				"phrase": "来るはずはない",
+				"translations": [
+					"It's not likely he will come"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1154"
+	},
+	{
+		"point": "〜にしては",
+		"meaning": {
+			"meaning": "even though (it is) ; for",
+			"example": "its a cold day for June"
+		},
+		"usages": [
+			"Verb Plain form+に しては",
+			"Noun+に しては"
+		],
+		"phrases": [
+			{
+				"phrase": "年寄りにしては若く見える。",
+				"translations": [
+					"Even though he's old, he looks young."
+				]
+			},
+			{
+				"phrase": "お金持ちにしては古い車に乗っている。",
+				"translations": [
+					"For (eg: even though he is) a rich person, he drives an old car."
+				]
+			},
+			{
+				"phrase": "６月にしては寒い朝だ。",
+				"translations": [
+					"It is a cold morning for June."
+				]
+			},
+			{
+				"phrase": "７０歳にしては、彼はいまだに驚くほど元気である。",
+				"translations": [
+					"For a man of seventy he still has surprising vigour."
+				]
+			},
+			{
+				"phrase": "このホテルはこの町にしては比較的高い。",
+				"translations": [
+					"This hotel is relatively expensive for this town."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1289"
+	},
+	{
+		"point": "とは限らない",
+		"meaning": {
+			"meaning": "not always, not necessarily",
+			"example": "expensive things are not always better"
+		},
+		"readings": [
+			{
+				"reading": "とはかぎらない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "高い物が必ずしも安いものより良いとは限らない。",
+				"translations": [
+					"Expensive things are not always better than cheap things."
+				]
+			},
+			{
+				"phrase": "いつでも自分の思い通りにできるとは限らないよ。",
+				"translations": [
+					"You cannot always have your own way."
+				]
+			},
+			{
+				"phrase": "うまい冗談を言うことはいつもたやすいとは限らない。",
+				"translations": [
+					"It is not always easy to make a good joke."
+				]
+			},
+			{
+				"phrase": "おいしそうに見える食べ物が必ずしもおいしいとは限らない。",
+				"translations": [
+					"Delicious looking food doesn't necessarily taste good."
+				]
+			},
+			{
+				"phrase": "お金が幸福をもたらすとは限らない。",
+				"translations": [
+					"Money does not always bring happiness."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "516"
+	},
+	{
+		"point": "あまり　+　動詞(否定形)",
+		"meaning": {
+			"meaning": "not very, not much",
+			"example": "When used with negative verbs, [amari + v-nai] = [not very much v]"
+		},
+		"readings": [
+			{
+				"reading": "あまり〜ない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "英語があまりわかりません。",
+				"translations": [
+					"I don't understand English very well."
+				]
+			},
+			{
+				"phrase": "今回のことであまり思い詰めないほうがいいよ。だれにでも失敗はあるんだから。",
+				"translations": [
+					"Don't worry too much about it. Everybody blows it once in a while."
+				]
+			},
+			{
+				"phrase": "ホテルのメイドとしてパートで仕事していますが、その仕事はあまり好きではありません。",
+				"translations": [
+					"I had a part-time job as a hotel maid, but I didn't like it very much"
+				]
+			},
+			{
+				"phrase": "あなたはあまりにも素早すぎる。",
+				"translations": [
+					"You are all too quick."
+				]
+			},
+			{
+				"phrase": "あなたはあまり夜更かしをしない方がいい。",
+				"translations": [
+					"You had better not sit up late up night."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "476"
+	},
+	{
+		"point": "こんな",
+		"meaning": {
+			"meaning": "such; this; like this; such.....as this; of this kind",
+			"example": "in this way"
+		},
+		"phrases": [
+			{
+				"phrase": "こんなに心配しないでください。",
+				"translations": [
+					"Please don't worry like this(so hard)."
+				]
+			},
+			{
+				"phrase": "こんな面白いことはない",
+				"translations": [
+					"Nothing is more interesting (than this)"
+				]
+			},
+			{
+				"phrase": "こんなに夜遅く",
+				"translations": [
+					"so late at night (as this)."
+				]
+			},
+			{
+				"phrase": "こんな風に持って下さい",
+				"translations": [
+					"Please hold it in this way"
+				]
+			},
+			{
+				"phrase": "こんなことになろうとは、正に「お釈迦様でも気がつくめい」だね。",
+				"translations": [
+					"It's precisely \"Even the Buddha could not have guessed it\"in the sense that things turned out this way."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "988"
+	},
+	{
+		"point": "にとって",
+		"meaning": {
+			"meaning": "to; for",
+			"example": "For Asians, dairy products are hard to digest"
+		},
+		"usages": [
+			"Noun+にとって+(は/も/の)"
+		],
+		"phrases": [
+			{
+				"phrase": "この大学で教えられることは私にとって極めて名誉なことです。",
+				"translations": [
+					"Being able to teach at this university is a big honor for me."
+				]
+			},
+			{
+				"phrase": "町の人々にとってこの工場の閉鎖は死活問題だ。",
+				"translations": [
+					"For people in this town, the shutdown of this plant is a matter of life and death."
+				]
+			},
+			{
+				"phrase": "ここは君にとって一番安全な場所だ。",
+				"translations": [
+					"This is the safest place for you."
+				]
+			},
+			{
+				"phrase": "アジア人にとって乳製品は食べにくい",
+				"translations": [
+					"for Asians, dairy products are hard to eat"
+				]
+			},
+			{
+				"phrase": "この写真は私にとって、何よりも大切なものです。",
+				"translations": [
+					"For me, that photo is more important than anything."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "117"
+	},
+	{
+		"point": "せいで",
+		"meaning": {
+			"meaning": "because of, due to (indicates only negative meaning)",
+			"example": "Due to lack of sleep, I have a headache today"
+		},
+		"usages": [
+			"Verb casual form+せいで",
+			"Noun+の+せいで",
+			"い-adjective+せいで",
+			"な-adjective+な+せいで"
+		],
+		"phrases": [
+			{
+				"phrase": "寝不足のせいで、今日は頭がぼんやりしている",
+				"translations": [
+					"Due to lack of sleep, today I'm absent minded."
+				]
+			},
+			{
+				"phrase": "あいつのせいで、先生に叱られた。",
+				"translations": [
+					"Because of him, I was scolded by my teacher."
+				]
+			},
+			{
+				"phrase": "私は失敗したのは、彼のせいだ。",
+				"translations": [
+					"Because of him, I failed."
+				]
+			},
+			{
+				"phrase": "電車が遅れたせいで、遅刻した。",
+				"translations": [
+					"I was late because the train was late."
+				]
+			},
+			{
+				"phrase": "暑いせいか、食欲がない。",
+				"translations": [
+					"Since it's hot, I have no appetite."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1583"
+	},
+	{
+		"point": "て形+はいけない (ては行け無い)",
+		"meaning": {
+			"meaning": "you shouldn't, one should not",
+			"example": "美術館で写真を撮ってはいけない。/You shouldn't take picture in the museum."
+		},
+		"readings": [
+			{
+				"reading": "てはいけない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "どうぶつをいじめてはいけません。",
+				"translations": [
+					"One must not harass the animals."
+				]
+			},
+			{
+				"phrase": "ここでたばこを吸うってはいけません。禁煙ですから。",
+				"translations": [
+					"You are not allowed to smoke here, because this is a no-smoke area."
+				]
+			},
+			{
+				"phrase": "お酒を飲んではいけません。",
+				"translations": [
+					"You are not allowed to drink alcohol."
+				]
+			},
+			{
+				"phrase": "ここに自転車を止めてはいけない。",
+				"translations": [
+					"It is forbidden to park bicycles here."
+				]
+			},
+			{
+				"phrase": "「あなたは塩辛いものを食べてはいけないよ」と言ったけど、彼は食べ物にたくさんの塩を加えた。",
+				"translations": [
+					"Although I told him \"You're not allowed to eat salty!\" he added a lot of salt in his food."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1661"
+	},
+	{
+		"point": "て形+しまう (て仕舞う・て終う・て了う)",
+		"meaning": {
+			"meaning": "wind up ____ing, end up ___ing, finish ____ing",
+			"example": "I wound up laughing."
+		},
+		"readings": [
+			{
+				"reading": "てしまう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "前から欲しかった本がやっと手に入ったものだから、早速徹夜して終わりまで読んでしまった。",
+				"translations": [
+					"Because I finally came into possession of a book I was looking after for a long time, at once in a sleepless night I finished reading it until the end."
+				]
+			},
+			{
+				"phrase": "その映画を見て泣いてしまった。",
+				"translations": [
+					"Watching that movie, I ended up crying."
+				]
+			},
+			{
+				"phrase": "宿題はもうやってしまいました。",
+				"translations": [
+					"I've finished my homework."
+				]
+			},
+			{
+				"phrase": "いつも本を読んでいるうちに眠ってしまう。",
+				"translations": [
+					"I always fall asleep while reading a book."
+				]
+			},
+			{
+				"phrase": "彼は稼ぐ金をすべて本に使ってしまう。",
+				"translations": [
+					"What money he earns he spends on books."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1400"
+	},
+	{
+		"point": "向き",
+		"meaning": {
+			"meaning": "for, facing, toward, aimed at",
+			"example": "a PC for old people"
+		},
+		"readings": [
+			{
+				"reading": "むき"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "この小説を子供向きに書き改めるのは難しい。",
+				"translations": [
+					"It is hard to adapt this story for children."
+				]
+			},
+			{
+				"phrase": "こういう本は若い読者向きではない。",
+				"translations": [
+					"These books are not fit for young readers."
+				]
+			},
+			{
+				"phrase": "このとおりやさしい英語で書かれているので、その本は初心者向きである。",
+				"translations": [
+					"Written as if is in plain English, the book is suitable for beginners."
+				]
+			},
+			{
+				"phrase": "このテキストは初心者向きにできている。",
+				"translations": [
+					"This text is calculated for beginners."
+				]
+			},
+			{
+				"phrase": "この派手な服は私には向きません。",
+				"translations": [
+					"This showy dress isn't appropriate for me."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "308"
+	},
+	{
+		"point": "貰う",
+		"meaning": {
+			"meaning": "to get",
+			"example": "my dad bought a camera for me"
+		},
+		"readings": [
+			{
+				"reading": "もらう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "私は父にカメラを買って貰った",
+				"translations": [
+					"My father bought a camera for me"
+				]
+			},
+			{
+				"phrase": "私は友達に日本語を教えて貰っている",
+				"translations": [
+					"I am having a friend teach me japanese"
+				]
+			},
+			{
+				"phrase": "４時に医者に診てもらう予約をした。",
+				"translations": [
+					"I made an appointment to see the doctor at four o'clock."
+				]
+			},
+			{
+				"phrase": "あなたはグリーン先生に英語の発音を直してもらうべきだ。",
+				"translations": [
+					"You should have Mr Green correct your English pronunciation."
+				]
+			},
+			{
+				"phrase": "ことによると、きみにも一緒にきてもらう。",
+				"translations": [
+					"Maybe you better come with us."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "846"
+	},
+	{
+		"point": "と共に",
+		"meaning": {
+			"meaning": "as well as; with; along with; at the same time; when; as; while",
+			"example": "As I'm recovering from my illness, my appetite is coming back."
+		},
+		"readings": [
+			{
+				"reading": "とともに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "スタインベックはとともにヘミングウェイアメリカの大分な作家の一人だ。",
+				"translations": [
+					"Steinbeck, along with Hemingway, is one of America's major authors."
+				]
+			},
+			{
+				"phrase": "私は職場の同僚達とともにそのデモに参加した。",
+				"translations": [
+					"I took part in the demonstration with my office colleagues."
+				]
+			},
+			{
+				"phrase": "終戦とともに激しいインフレが人々を襲った。",
+				"translations": [
+					"Severe inflation hit people when the war ended (lit. with the end of the war)."
+				]
+			},
+			{
+				"phrase": "年をするとともに耳が遠くなってきた。",
+				"translations": [
+					"As I get older, I am losing my hearing."
+				]
+			},
+			{
+				"phrase": "その提案は建設的であるとともに革命的であった。",
+				"translations": [
+					"The discovery was revolutionary as well as constructive."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "513"
+	},
+	{
+		"point": "うちに",
+		"meaning": {
+			"meaning": "while; during; as",
+			"example": "みるみるうちに太った。/ He gained weight just while I was watching him."
+		},
+		"phrases": [
+			{
+				"phrase": "若いうちに本をたくさん読みなさい。",
+				"translations": [
+					"While you are young, read many books."
+				]
+			},
+			{
+				"phrase": "暇なうちに、遊びに来てください。",
+				"translations": [
+					"While you are free, come here and play with me please."
+				]
+			},
+			{
+				"phrase": "暗黙のうちに承諾する。",
+				"translations": [
+					"Accept implicitly."
+				]
+			},
+			{
+				"phrase": "みるみるうちに太った。",
+				"translations": [
+					"He gained weight just while I was watching him."
+				]
+			},
+			{
+				"phrase": "どうぞ、熱いうちに、食べて下さい。",
+				"translations": [
+					"Please go ahead and eat it while it's still hot"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1131"
+	},
+	{
+		"point": "ところに、ところへ、ところを",
+		"meaning": {
+			"meaning": "(Just) when",
+			"example": "Just when I had decided to call her, she phoned me."
+		},
+		"usages": [
+			"Verb（ている形）+ところ",
+			"Verb（た形）+ところ",
+			"Noun+の+ところ",
+			"い-adjective+ところ"
+		],
+		"phrases": [
+			{
+				"phrase": "こっそりたばこを吸っているところを妹に見られた。",
+				"translations": [
+					"I was having a cheeky cigarette and on that occasion, I was seen by my little sister"
+				]
+			},
+			{
+				"phrase": "ぐっすり寝ているところに地震が起きて、はっと目が覚めた。",
+				"translations": [
+					"An earthquake hit right when I was soundly asleep, and I jerked awake."
+				]
+			},
+			{
+				"phrase": "彼女に電話をかけようとしたところへ、彼女のほうからかかってきた。",
+				"translations": [
+					"Just when I had decided to give her a call, she phoned me."
+				]
+			},
+			{
+				"phrase": "犯人は、店から出てきたところを、警官に捕らえられた。",
+				"translations": [
+					"Just as the thief left the store, a policeman arrested him."
+				]
+			},
+			{
+				"phrase": "お忙しいところを来てくださって、ありがとうございます。",
+				"translations": [
+					"Thank you very much for coming when you're so busy."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1162"
+	},
+	{
+		"point": "意向形と思う",
+		"meaning": {
+			"meaning": "I think I will (do)",
+			"example": "今から銀行へ行こうと思います。/ I think I will go to the bank right now."
+		},
+		"readings": [
+			{
+				"reading": "（しよう）とおもう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "お礼を言おうと思いながら、かなり時間がたってしまいました。",
+				"translations": [
+					"I kept wanting to say thank you but unfortunately a long period of time passed."
+				]
+			},
+			{
+				"phrase": "がんばろうと思いつつ、怠けてしまうんですよ。",
+				"translations": [
+					"I planned to work hard but in spite of myself, I just ended up being lazy."
+				]
+			},
+			{
+				"phrase": "今から銀行へ行こうと思います。",
+				"translations": [
+					"I think I will go to the bank right now."
+				]
+			},
+			{
+				"phrase": "週末は海に行こうと思っています。",
+				"translations": [
+					"I intend to go to the sea this week-end."
+				]
+			},
+			{
+				"phrase": "彼は外国で働こうと思っています。",
+				"translations": [
+					"He plans to  work in foreign countries."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1523"
+	},
+	{
+		"point": "儚い",
+		"meaning": {
+			"meaning": "hopeless, fleeting, transient, fickle",
+			"example": "Unrequited (hopeless) love"
+		},
+		"readings": [
+			{
+				"reading": "はかない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "はかない恋",
+				"translations": [
+					"Unrequited love"
+				]
+			},
+			{
+				"phrase": "儚いお花の美しさ",
+				"translations": [
+					"The transient beauty of flowers"
+				]
+			},
+			{
+				"phrase": "それははかない夢だった",
+				"translations": [
+					"It was only an empty dream."
+				]
+			},
+			{
+				"phrase": "はかない努力",
+				"translations": [
+					"vain efforts"
+				]
+			},
+			{
+				"phrase": "はかない幸せ",
+				"translations": [
+					"fleeting [ephemeral] happiness"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "886"
+	},
+	{
+		"point": "積もりだった",
+		"meaning": {
+			"meaning": "I had the intention to do (but I didn't)",
+			"example": "僕は彼女と結婚するつもりだった。/ I had the intention to marry her (but I didn't)."
+		},
+		"readings": [
+			{
+				"reading": "つもりだった"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "医者になる積もりだった。",
+				"translations": [
+					"I intended to be a doctor."
+				]
+			},
+			{
+				"phrase": "これはほんの冗談の積もりだった。",
+				"translations": [
+					"This was meant as a joke."
+				]
+			},
+			{
+				"phrase": "この夏ハワイへ行く積もりだった。",
+				"translations": [
+					"I was planning on going to Hawaii this summer."
+				]
+			},
+			{
+				"phrase": "僕は彼女と結婚するつもりだった。",
+				"translations": [
+					"I had the intention to marry her (but I didn't)."
+				]
+			},
+			{
+				"phrase": "今日は誰も来ないし、私も出かけないつもりだった。",
+				"translations": [
+					"Today, nobody should have come, and I hadn't intention to leave too."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1632"
+	},
+	{
+		"point": "〜としても",
+		"meaning": {
+			"meaning": "even if; assuming",
+			"example": "Even if it was true, I wouldn't believe it of him!"
+		},
+		"usages": [
+			"Verb casual form+としても",
+			"い-adjective+としても",
+			"な-adjective (without な)+だ+としても",
+			"Noun+だ+としても"
+		],
+		"phrases": [
+			{
+				"phrase": "彼女と結婚できるとしても、2、3年後になるだろう。",
+				"translations": [
+					"Even if I could marry her, it probably won't be for another two or three years."
+				]
+			},
+			{
+				"phrase": "親が有名だとしても、本人に実力がなければ社会で認められないでしょう。",
+				"translations": [
+					"Even though my parents are famous, society wouldn't have recognized their skills if they didn't really have them."
+				]
+			},
+			{
+				"phrase": "たとえ相手が部下だとしても、世話になったらお礼の気持ちをちゃんと伝えるべきだ。",
+				"translations": [
+					"Even if it's a subordinate as your partner, you should properly thank them if they help you."
+				]
+			},
+			{
+				"phrase": "ゲーム用OSとしても進化を遂げつつあるLinux",
+				"translations": [
+					"Advancing - even as an OS for game use : Linux."
+				]
+			},
+			{
+				"phrase": "彼はとてもいい人だとしても、私は彼を本当は信頼していない。",
+				"translations": [
+					"Even if he's very nice, I don't really trust him."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "410"
+	},
+	{
+		"point": "やすい",
+		"meaning": {
+			"meaning": "Easy to V",
+			"example": "A beautiful woman is easy to fall in love with / 美女は惚れやすい。"
+		},
+		"usages": [
+			"Verb ます stem+やすい"
+		],
+		"phrases": [
+			{
+				"phrase": "雨がよく降ってる日が　家の中に遊びやすいです｡",
+				"translations": [
+					"Its easy to play inside on rainy days."
+				]
+			},
+			{
+				"phrase": "もしかしたら日本語で毎日、読んだり、書いたりしたら、日本語が分かりやすくなると思います。",
+				"translations": [
+					"If you do things like read and write in Japanese every day, Japanese will become easy to understand."
+				]
+			},
+			{
+				"phrase": "かいだんがぬれています。すべりやすいので、ちゅういしてくたさい。",
+				"translations": [
+					"The stairs are wet. They are slippery (easy to slip), so please be careful."
+				]
+			},
+			{
+				"phrase": "このくつはあのくつよりはきやすいです。",
+				"translations": [
+					"These shoes here are easier to put on than the ones over there."
+				]
+			},
+			{
+				"phrase": "このガラスの人形は壊れ易いので、触らないでください。",
+				"translations": [
+					"As this glass doll break easily, please don't touch."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "1645"
+	},
+	{
+		"point": "続ける",
+		"meaning": {
+			"meaning": "keep on doing ...",
+			"example": "keep on eating (sweet stuff)"
+		},
+		"readings": [
+			{
+				"reading": "つづける"
+			}
+		],
+		"usages": [
+			"ます stem+つづける"
+		],
+		"phrases": [
+			{
+				"phrase": "ダイエット中のくせにあくまでも甘い物を食べつづけます",
+				"translations": [
+					"even though I'm on a diet, I will keep on eating sweet things until the end."
+				]
+			},
+			{
+				"phrase": "お金のために、愛してもいない男との生活をつづけるならば、すっかり失望して、進退きわまる時が将来やってくることだろう。",
+				"translations": [
+					"If she continues to live with a man she doesn't love for his money, the day will come when she will be utterly frustrated and between the devil and the deep blue sea."
+				]
+			},
+			{
+				"phrase": "この失敗、きっと一生、言われつづけるなあ。",
+				"translations": [
+					"People will keep talking about this mistake forever."
+				]
+			},
+			{
+				"phrase": "私は母国を愛しているし、これからも愛しつづけるだろう。",
+				"translations": [
+					"I love, and will continue to love, my mother country."
+				]
+			},
+			{
+				"phrase": "無視しろぅ！　じゃ、書き続けて！",
+				"translations": [
+					"Ignore it! Keep writing!"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "800"
+	},
+	{
+		"point": "って",
+		"meaning": {
+			"meaning": "...said; no matter what",
+			"example": "He said that....."
+		},
+		"phrases": [
+			{
+				"phrase": "「あばたもえくぼ」って言うからね。",
+				"translations": [
+					"They say love is blind."
+				]
+			},
+			{
+				"phrase": "「テレビの音を小さくしてもらえませんか」って言ったんですよ！",
+				"translations": [
+					"I said, \"Could you please turn your television down?\""
+				]
+			},
+			{
+				"phrase": "彼が探してた鍵ってこれ？",
+				"translations": [
+					"Is this the key he was looking for?"
+				]
+			},
+			{
+				"phrase": "知らないって",
+				"translations": [
+					"He (She, They, etc.) said that he (she, they, etc.) did not know."
+				]
+			},
+			{
+				"phrase": "幾らたのまれたってできない",
+				"translations": [
+					"I cannot do that no matter how much you insist"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "879"
+	},
+	{
+		"point": "あまり",
+		"meaning": {
+			"meaning": "not really",
+			"example": "彼女はあまりきれいじゃない。　She isn't very pretty."
+		},
+		"phrases": [
+			{
+				"phrase": "シャンハイ（上海）はあまり寒くないです。",
+				"translations": [
+					"The weather is not very cold in Shanghai."
+				]
+			},
+			{
+				"phrase": "彼女はあまりきれいじゃない。",
+				"translations": [
+					"She is not very pretty."
+				]
+			},
+			{
+				"phrase": "彼はあまり優しくないです。",
+				"translations": [
+					"He is not very nice."
+				]
+			},
+			{
+				"phrase": "彼女はあまり魚を食べません。",
+				"translations": [
+					"She doesn't eat a lot of fish."
+				]
+			},
+			{
+				"phrase": "桜大学はあまり有名な大学じゃありません。",
+				"translations": [
+					"Sakura University is not very famous."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1627"
+	},
+	{
+		"point": "によって",
+		"meaning": {
+			"meaning": "depending on",
+			"example": "depending on the weather, I will come"
+		},
+		"usages": [
+			"Noun+によって"
+		],
+		"phrases": [
+			{
+				"phrase": "結果によっては採用しないことがあります。",
+				"translations": [
+					"Depending upon the outcome, you may not be hired."
+				]
+			},
+			{
+				"phrase": "天気によっては中止することがあります。",
+				"translations": [
+					"Depending upon the weather, the event may be cancelled."
+				]
+			},
+			{
+				"phrase": "景気にようってはメキシコに行きます。",
+				"translations": [
+					"Depending upon the finances, I will go to Mexico."
+				]
+			},
+			{
+				"phrase": "漢字によって意味が違います",
+				"translations": [
+					"Depending on  kanji the meaning is different"
+				]
+			},
+			{
+				"phrase": "天気によっては来ます",
+				"translations": [
+					"depending on the weather, i will come"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N3"
+		],
+		"id": "976"
+	},
+	{
+		"point": "どうせ",
+		"meaning": {
+			"meaning": "after all; eventually; at best",
+			"example": "After all, there's nothing permanent."
+		},
+		"phrases": [
+			{
+				"phrase": "どうせ二人は枯すすき、花の咲かない枯ススキ",
+				"translations": [
+					"After all we two are nothing but withered grass: flowerless grass"
+				]
+			},
+			{
+				"phrase": "どうせ郵便局へ行くのなら、切手を買ってくださいませんか？",
+				"translations": [
+					"Since you're going to the post-office anyway won't you please buy some stamps for me?"
+				]
+			},
+			{
+				"phrase": "どうせ行かなければならないのなら早いほうがいいです。",
+				"translations": [
+					"If you have to go anyway , then you might as well do it quickly."
+				]
+			},
+			{
+				"phrase": "あなたが手伝ってくれないことは分かっている。どうせあなたはそういう人だ。",
+				"translations": [
+					"I know you won't help me. That's the kind of guy you are, after all."
+				]
+			},
+			{
+				"phrase": "どうせ金なんてそのうちなくなるんだ",
+				"translations": [
+					"After all (eventually) money you now have will be gone."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1175"
+	},
+	{
+		"point": "であろう",
+		"meaning": {
+			"meaning": "I guess, wonder, probably, isn't it?",
+			"example": "I guess he will never come back the place."
+		},
+		"phrases": [
+			{
+				"phrase": "あなたの助けがなかったら、我々は仕事を間に合わせられなかったであろう。",
+				"translations": [
+					"If it weren't for your help, we probably  wouldn't have finished this job in time."
+				]
+			},
+			{
+				"phrase": "おそらくそれは嘘であろう。",
+				"translations": [
+					"I dare say it is a lie."
+				]
+			},
+			{
+				"phrase": "きっと彼女の病気はすぐによくなるであろう。",
+				"translations": [
+					"That she will get over her illness soon is certain."
+				]
+			},
+			{
+				"phrase": "それはナンセンスだ。誰もそれを信じないであろう。",
+				"translations": [
+					"That's nonsense. Nobody would believe it."
+				]
+			},
+			{
+				"phrase": "現在の私たちにとって、もっとも重要なのは、地球の環境を守ることであろう。自分と関係がないと考えずに、自分の問題として、この問題を考えることが求められている。",
+				"translations": [
+					"I fear  the more essential fact nowdays is the planet environnement. If you don't think this have no relation whith you, you are part of the problem, and you will be asked to think about this problem."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1501"
+	},
+	{
+		"point": "になる",
+		"meaning": {
+			"meaning": "To become",
+			"example": "It's become a real mess!"
+		},
+		"phrases": [
+			{
+				"phrase": "この薔薇の花はもっと美しくなりました。",
+				"translations": [
+					"This rose has become more beautiful."
+				]
+			},
+			{
+				"phrase": "注意しなかったので,病気になりました。",
+				"translations": [
+					"Because I wasn't careful,I became sick."
+				]
+			},
+			{
+				"phrase": "ざっと計算しても大変なことになる！",
+				"translations": [
+					"Even by a rough calculation we are going to be in a terrible state!"
+				]
+			},
+			{
+				"phrase": "将来には先生になりたいです。",
+				"translations": [
+					"In the future, I want to become  a teacher."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "687"
+	},
+	{
+		"point": "〜わ",
+		"meaning": {
+			"meaning": "(adds emphasis) [female]",
+			"example": "That's just fine."
+		},
+		"phrases": [
+			{
+				"phrase": "いいわよ。",
+				"translations": [
+					"That's just fine."
+				]
+			},
+			{
+				"phrase": "この本おもしろいわね。",
+				"translations": [
+					"This book is interesting, isn't it? [F]"
+				]
+			},
+			{
+				"phrase": "(レジで)あら、どうしよう。お財布にお金が入ってないわ。困ったわね。このにんじんは要らないわ。",
+				"translations": [
+					"(At the cash register) oh,I don't have eough money in my wallet. What should I do? I don't take this carrot. [F]"
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "776"
+	},
+	{
+		"point": "切る",
+		"meaning": {
+			"meaning": "verb-totally",
+			"example": "totally sold out"
+		},
+		"readings": [
+			{
+				"reading": "きる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "自分たちの持っている力を試合で出し切れば、きっと勝てますよ。",
+				"translations": [
+					"If they can put forth every ounce  of their energy at the game, they'll surely win."
+				]
+			},
+			{
+				"phrase": "３巻もある長い小説を１年かけて読みきった。",
+				"translations": [
+					"That three part novel took me a year to read completely."
+				]
+			},
+			{
+				"phrase": "このセマイ部屋に、全員入りきるのか。",
+				"translations": [
+					"You goin't'get everybody in this tiny room are you?"
+				]
+			},
+			{
+				"phrase": "ダイエット中のくせに彼女はケーキを食べきりました。",
+				"translations": [
+					"Even though (despite the fact) she was on a diet, she ate all of the cake. (ate it to the end)"
+				]
+			},
+			{
+				"phrase": "さあさあ、座って疲れきった脚を休めなさい。",
+				"translations": [
+					"Come on, sit down and rest your weary legs."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "859"
+	},
+	{
+		"point": "について",
+		"meaning": {
+			"meaning": "regarding, about",
+			"example": "lets talk about the project"
+		},
+		"phrases": [
+			{
+				"phrase": "私が子供の頃、日本という国について知っていたことは、東アジアの島国だということぐらいでした。（here ぐらい expresses the aproximation)",
+				"translations": [
+					"In my childhood, all I knew about Japan was that it is an insular country situated in Eastern Asia."
+				]
+			},
+			{
+				"phrase": "晩餐会の席でソトウェアの新バージョンの発について触れたい。",
+				"translations": [
+					"I want to mention [touch upon] the release of our new software edition at the banquet."
+				]
+			},
+			{
+				"phrase": "計画について",
+				"translations": [
+					"regarding the plan"
+				]
+			},
+			{
+				"phrase": "私が行くことについて",
+				"translations": [
+					"regarding my going there"
+				]
+			},
+			{
+				"phrase": "コンピューターの使い方についての本がほしい。",
+				"translations": [
+					"I want a book regarding the usage of computers."
+				]
+			}
+		],
+		"jlpt": "N3",
+		"tags": [
+			"grammar::N3"
+		],
+		"id": "1305"
+	}
+]

@@ -1,0 +1,700 @@
+[
+	{
+		"point": "〜が",
+		"meaning": {
+			"meaning": "but, however, still",
+			"example": "I know him but we've never met."
+		},
+		"usages": [
+			"Sentence 1+が+Sentence 2"
+		],
+		"phrases": [
+			{
+				"phrase": "突然ですがボードゲーム告知をてっきり忘れてました。",
+				"translations": [
+					"This is out of nowhere [a sudden change of subject] but I completely forgot about the BoardGame notice."
+				]
+			},
+			{
+				"phrase": "悪いですがちょっと静かにしてください。",
+				"translations": [
+					"Sorry [Bad of me] but could you keep it a little quieter?"
+				]
+			},
+			{
+				"phrase": "冷静になろうとしたのだが、ついかっとなった。",
+				"translations": [
+					"I tried to be calm but finally I lost my temper."
+				]
+			},
+			{
+				"phrase": "料理はあまりおいしくなかったが、その他の点では、そのパーティーは成功だった。",
+				"translations": [
+					"The dishes were not so delicious, but otherwise the party was a success."
+				]
+			},
+			{
+				"phrase": "立ち聞きする気はなかったが、あなたの話しが聞こえた。",
+				"translations": [
+					"I didn't mean to eavesdrop, but I did overhear you."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "725"
+	},
+	{
+		"point": "〜に",
+		"meaning": {
+			"meaning": "(location marker, time marker, direction marker)",
+			"example": "There's a dog in that car."
+		},
+		"usages": [
+			"Noun+に"
+		],
+		"phrases": [
+			{
+				"phrase": "その車のなかに犬 が います 。",
+				"translations": [
+					"There is a dog in  that car."
+				]
+			},
+			{
+				"phrase": "１０時に約束があります。",
+				"translations": [
+					"I have an appointment at ten."
+				]
+			},
+			{
+				"phrase": "きっかり９時に来なさい。",
+				"translations": [
+					"Come at nine o'clock sharp."
+				]
+			},
+			{
+				"phrase": "１０人の学生が同時に立ち上がった。",
+				"translations": [
+					"Ten students stood up all at  once."
+				]
+			},
+			{
+				"phrase": "２時に空港に見送りに行きます。",
+				"translations": [
+					"I'm going to  see her off at  the airport at  2:00."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "626"
+	},
+	{
+		"point": "いくら (幾等)",
+		"meaning": {
+			"meaning": "how much",
+			"example": "How much is a postcard?"
+		},
+		"phrases": [
+			{
+				"phrase": "葉書は幾らですか。",
+				"translations": [
+					"How much for a postcard?"
+				]
+			},
+			{
+				"phrase": "「それはいくらかかりましたか。」「1,000円かかりました。」",
+				"translations": [
+					"\"How much did it cost?\" \"It cost me a thousand yen.\""
+				]
+			},
+			{
+				"phrase": "いくらお金をもってますか。",
+				"translations": [
+					"How much money do you have with you?"
+				]
+			},
+			{
+				"phrase": "それがいくらするのか前もって彼に聞いたほうがよい。",
+				"translations": [
+					"You had better ask him in advance how much it will cost."
+				]
+			},
+			{
+				"phrase": "このＴシャツの値段はいくらですか。",
+				"translations": [
+					"How much is this T-shirt?"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "623"
+	},
+	{
+		"point": "〜で",
+		"meaning": {
+			"meaning": "by means of, by, [action] at a place",
+			"example": "I came by car."
+		},
+		"phrases": [
+			{
+				"phrase": "車で来ました。",
+				"translations": [
+					"(I) came by car."
+				]
+			},
+			{
+				"phrase": "ひとりで行きますか。",
+				"translations": [
+					"Are you going by youself?"
+				]
+			},
+			{
+				"phrase": "ペンで書く。",
+				"translations": [
+					"I write with a pen."
+				]
+			},
+			{
+				"phrase": "町角で",
+				"translations": [
+					"At the corner of the street"
+				]
+			},
+			{
+				"phrase": "食料品店でそれを買いました。",
+				"translations": [
+					"I bought it at the grocer's shop."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "624"
+	},
+	{
+		"point": "〜が",
+		"meaning": {
+			"meaning": "(subject marker)",
+			"example": "There is a television in the kitchen."
+		},
+		"usages": [
+			"Subject (noun)+が+Verb"
+		],
+		"phrases": [
+			{
+				"phrase": "バスが来るよ。",
+				"translations": [
+					"The bus + is coming!"
+				]
+			},
+			{
+				"phrase": "台所にテレビがあります 。",
+				"translations": [
+					"There is a television + in the kitchen."
+				]
+			},
+			{
+				"phrase": "ここだと２万円前後のテレビが買える。",
+				"translations": [
+					"If it's here then you can buy a television for 20,000 yen - more or less."
+				]
+			},
+			{
+				"phrase": "この店ではほかでは売っていない特別仕様のＣＧ機能を持つＰＣを買うことができる。",
+				"translations": [
+					"At this shop, you can buy PCs with special CG functionality that is not offered by others."
+				]
+			},
+			{
+				"phrase": "日本語ができます。",
+				"translations": [
+					"(I) can speak japanese Literal: Japanese is doable (to me is implied)"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "754"
+	},
+	{
+		"point": "何",
+		"meaning": {
+			"meaning": "What",
+			"example": "What will you have?"
+		},
+		"readings": [
+			{
+				"reading": "なに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "何にしますか。",
+				"translations": [
+					"What will you have?"
+				]
+			},
+			{
+				"phrase": "何の用ですか。",
+				"translations": [
+					"What is your business (here / with me) ?"
+				]
+			},
+			{
+				"phrase": "この花は英語で何（なん）と言いますか。",
+				"translations": [
+					"What do you call this flower in English?"
+				]
+			},
+			{
+				"phrase": "この箱の中に何がありますか。",
+				"translations": [
+					"What  is in this box?"
+				]
+			},
+			{
+				"phrase": "あなたの好きな食べ物は何ですか。",
+				"translations": [
+					"What is your favourite food?"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "629"
+	},
+	{
+		"point": "まで",
+		"meaning": {
+			"meaning": "till, to",
+			"example": "Opening hours are 9am to 5pm."
+		},
+		"phrases": [
+			{
+				"phrase": "人間は食べ物がなくても４０日まで生きられるが、水がないと７日間しか生きられない。",
+				"translations": [
+					"Human beings can live up to 40 days without food, but no more than 7 without water."
+				]
+			},
+			{
+				"phrase": "私は東京から九州まで飛行機で行った。",
+				"translations": [
+					"I took an airplane from Tokyo to Kyushu."
+				]
+			},
+			{
+				"phrase": "おまけに雨まで降っていた。",
+				"translations": [
+					"To top things off it was even raining."
+				]
+			},
+			{
+				"phrase": "私は昼までに手紙を書き終えた。",
+				"translations": [
+					"I finished writing the letter by noon."
+				]
+			},
+			{
+				"phrase": "１０時まで起きてた。",
+				"translations": [
+					"I stayed up till 10pm."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "719"
+	},
+	{
+		"point": "〜を",
+		"meaning": {
+			"meaning": "'object marker' (also shown as 'o') 目的",
+			"example": "That [←marked by object marker] please."
+		},
+		"usages": [
+			"Noun+を+Verb"
+		],
+		"phrases": [
+			{
+				"phrase": "新しいカメラを買った。「あたらしいカメラをかった」",
+				"translations": [
+					"I bought + a new camera."
+				]
+			},
+			{
+				"phrase": "それをください。",
+				"translations": [
+					"That + please."
+				]
+			},
+			{
+				"phrase": "私はチキンをもらいます。",
+				"translations": [
+					"I'll have + chicken."
+				]
+			},
+			{
+				"phrase": "彼は「イマジン」を歌いました。",
+				"translations": [
+					"He sang + \"Imagine\"."
+				]
+			},
+			{
+				"phrase": "仕事を探している。",
+				"translations": [
+					"I'm looking for + a job."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "765"
+	},
+	{
+		"point": "〜も",
+		"meaning": {
+			"meaning": "also",
+			"example": "This is also mine"
+		},
+		"phrases": [
+			{
+				"phrase": "これも私のです。",
+				"translations": [
+					"This is also mine."
+				]
+			},
+			{
+				"phrase": "あなたもジャズが好きですか？",
+				"translations": [
+					"Do you also like jazz?"
+				]
+			},
+			{
+				"phrase": "あなたも私たちと一緒にいらっしゃいませんか。",
+				"translations": [
+					"Wouldn't you like to come with us, too?"
+				]
+			},
+			{
+				"phrase": "お客様もオレンジジュースになさいますか。",
+				"translations": [
+					"What about you? Will you have orange juice, too?"
+				]
+			},
+			{
+				"phrase": "あの小さいのもわたしのです。",
+				"translations": [
+					"That small one is also mine."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "576"
+	},
+	{
+		"point": "てから",
+		"meaning": {
+			"meaning": "after",
+			"example": "From 9 to 5."
+		},
+		"usages": [
+			"Verb て-Form+から",
+			"Noun+から",
+			"動詞（て形）+から",
+			"名詞+から"
+		],
+		"phrases": [
+			{
+				"phrase": "以下のプルダウンメニューから、言語およびプラットフォームご利用いただけるバージョンが表示されます。",
+				"translations": [
+					"From the pull down menu below language and the platform it is to be used on are displayed."
+				]
+			},
+			{
+				"phrase": "先週の木曜日からずっと雨が降っている。",
+				"translations": [
+					"It has been raining since last Thursday."
+				]
+			},
+			{
+				"phrase": "それをここから持って行け！",
+				"translations": [
+					"Get them out of here!"
+				]
+			},
+			{
+				"phrase": "「オーストラリアからですか」とフィリピン人はたずねました。",
+				"translations": [
+					"\"Are you from Australia?\" asked the Filipino."
+				]
+			},
+			{
+				"phrase": "「結婚してからも私働いて高?ﾈいわよ」と彼女は言った。",
+				"translations": [
+					"\"I don't mind if I keep working after we're married\", she said."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "1269"
+	},
+	{
+		"point": "〜の",
+		"meaning": {
+			"meaning": "'s, of",
+			"example": "Fred's car. / Dixon of Dock Green"
+		},
+		"usages": [
+			"Noun+の"
+		],
+		"phrases": [
+			{
+				"phrase": "フレッド君の車はどこにありますか。",
+				"translations": [
+					"Where is Fred 's car?"
+				]
+			},
+			{
+				"phrase": "フレッド君のですか。",
+				"translations": [
+					"(Is this) Fred 's ?"
+				]
+			},
+			{
+				"phrase": "「これは誰のペン？」「私の。」「kore wa dare no pen?」「watashi no。」",
+				"translations": [
+					"\"Whose  pen is this?\" \"Mine.\""
+				]
+			},
+			{
+				"phrase": "リリーの靴はどこにあるか知りません。",
+				"translations": [
+					"I don't know where Lilly's shoes are."
+				]
+			},
+			{
+				"phrase": "お前のせいだぞ！",
+				"translations": [
+					"It's your  freaking fault!"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "574"
+	},
+	{
+		"point": "から",
+		"meaning": {
+			"meaning": "because"
+		},
+		"usages": [
+			"sentence one+から+sentence two"
+		],
+		"phrases": [
+			{
+				"phrase": "面接に行くからはげましてください",
+				"translations": [
+					"I'm going to an interview so please encourage me."
+				]
+			},
+			{
+				"phrase": "必要から発明が生まれる。",
+				"translations": [
+					"Inventions are made as dictated by necessity."
+				]
+			},
+			{
+				"phrase": "あの日帰ったのは体調が悪かったからです。",
+				"translations": [
+					"It is because the physical condition was bad that I returned that day."
+				]
+			},
+			{
+				"phrase": "ああ、ゆっくりやって下さい。急ぎませんから。",
+				"translations": [
+					"Oh, take your time. (Because) I'm in no hurry."
+				]
+			},
+			{
+				"phrase": "昨夜病気だから、眠れなかった。",
+				"translations": [
+					"Because I was sick, I couldn't sleep last night."
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "1216"
+	},
+	{
+		"point": "〜たい",
+		"meaning": {
+			"meaning": "I want to (verb)",
+			"example": "netai: I want to sleep"
+		},
+		"usages": [
+			"Verb stem+たい"
+		],
+		"phrases": [
+			{
+				"phrase": "日本に行きたいです。",
+				"translations": [
+					"(I) want to go to Japan."
+				]
+			},
+			{
+				"phrase": "君のところへ行きたいよ。",
+				"translations": [
+					"(I) want to go to where you are."
+				]
+			},
+			{
+				"phrase": "日本で英語をおしえたいです。",
+				"translations": [
+					"I want to teach English in Japan."
+				]
+			},
+			{
+				"phrase": "どこに行きたいですか?",
+				"translations": [
+					"where do you want to go?"
+				]
+			},
+			{
+				"phrase": "日本語を学びたいです",
+				"translations": [
+					"I want to learn Japanese"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N5"
+		],
+		"id": "1538"
+	},
+	{
+		"point": "これ(此・是・之・惟)、それ(其), あれ(彼)",
+		"meaning": {
+			"meaning": "this, that, the other",
+			"example": "this is mine, that is yours and the other is anybody's guess."
+		},
+		"readings": [
+			{
+				"reading": "これ, それ, あれ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "それはりんごケーキです。",
+				"translations": [
+					"That is apple cake."
+				]
+			},
+			{
+				"phrase": "あれは何のケーキでしょうか。",
+				"translations": [
+					"I wonder what that cake is [over there] ?"
+				]
+			},
+			{
+				"phrase": "これはイチゴケーキです。",
+				"translations": [
+					"This is strawberry cake."
+				]
+			},
+			{
+				"phrase": "すみません！これはいくらですか？",
+				"translations": [
+					"Excuse me! How much is this ?"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "580"
+	},
+	{
+		"point": "だけ",
+		"meaning": {
+			"meaning": "1) just, only, simply, merely; 2) as much as X wants/like/can (whatever, anything)",
+			"example": "1) don't just love her; 2) eat as much as you want (eat whatever/anything you'd like)"
+		},
+		"phrases": [
+			{
+				"phrase": "最近は職場だけでなく家庭においてもパソコンが使われている.",
+				"translations": [
+					"The personal computer is used not only at the office but also at home recently."
+				]
+			},
+			{
+				"phrase": "彼女はよく働くだけでなく、魅力的だ。",
+				"translations": [
+					"She is not only diligent she is also charming."
+				]
+			},
+			{
+				"phrase": "お土産に十分なものを買うだけの十分な時間がありますか。",
+				"translations": [
+					"Do you have enough time to buy enough things for souvenirs?"
+				]
+			},
+			{
+				"phrase": "ローマ字だけ書けます。",
+				"translations": [
+					"I can only write romaji [Roman letters]."
+				]
+			},
+			{
+				"phrase": "日本語がこれだけ書ければとてもすばらしいと思います。",
+				"translations": [
+					"I think it's great that you can write Japanese like this. ( or: this much, to this extent )"
+				]
+			}
+		],
+		"jlpt": "N5",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "249"
+	}
+]

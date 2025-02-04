@@ -1,0 +1,712 @@
+[
+	{
+		"kana": "あ",
+		"reading": "a",
+		"audio": "あ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951616",
+		"svg": "03042.svg"
+	},
+	{
+		"kana": "い",
+		"reading": "i",
+		"audio": "い.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951617",
+		"svg": "03044.svg"
+	},
+	{
+		"kana": "う",
+		"reading": "u",
+		"audio": "う.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951618",
+		"svg": "03046.svg"
+	},
+	{
+		"kana": "え",
+		"reading": "e",
+		"audio": "え.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951619",
+		"svg": "03048.svg"
+	},
+	{
+		"kana": "お",
+		"reading": "o",
+		"audio": "お.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951620",
+		"svg": "0304a.svg"
+	},
+	{
+		"kana": "か",
+		"reading": "ka",
+		"audio": "か.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951621",
+		"svg": "0304b.svg"
+	},
+	{
+		"kana": "き",
+		"reading": "ki",
+		"audio": "き.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951622",
+		"svg": "0304d.svg"
+	},
+	{
+		"kana": "く",
+		"reading": "ku",
+		"audio": "く.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951623",
+		"svg": "0304f.svg"
+	},
+	{
+		"kana": "け",
+		"reading": "ke",
+		"audio": "け.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951624",
+		"svg": "03051.svg"
+	},
+	{
+		"kana": "こ",
+		"reading": "ko",
+		"audio": "こ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951625",
+		"svg": "03053.svg"
+	},
+	{
+		"kana": "さ",
+		"reading": "sa",
+		"audio": "さ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951626",
+		"svg": "03055.svg"
+	},
+	{
+		"kana": "し",
+		"reading": "shi",
+		"audio": "し.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951627",
+		"svg": "03057.svg"
+	},
+	{
+		"kana": "す",
+		"reading": "su",
+		"audio": "す.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951628",
+		"svg": "03059.svg"
+	},
+	{
+		"kana": "せ",
+		"reading": "se",
+		"audio": "せ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951629",
+		"svg": "0305b.svg"
+	},
+	{
+		"kana": "そ",
+		"reading": "so",
+		"audio": "そ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951630",
+		"svg": "0305d.svg"
+	},
+	{
+		"kana": "た",
+		"reading": "ta",
+		"audio": "た.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951631",
+		"svg": "0305f.svg"
+	},
+	{
+		"kana": "ち",
+		"reading": "chi",
+		"audio": "ち.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951632",
+		"svg": "03061.svg"
+	},
+	{
+		"kana": "つ",
+		"reading": "tsu",
+		"audio": "つ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951633",
+		"svg": "03064.svg"
+	},
+	{
+		"kana": "て",
+		"reading": "te",
+		"audio": "て.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951634",
+		"svg": "03066.svg"
+	},
+	{
+		"kana": "と",
+		"reading": "to",
+		"audio": "と.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951635",
+		"svg": "03068.svg"
+	},
+	{
+		"kana": "な",
+		"reading": "na",
+		"audio": "な.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951636",
+		"svg": "0306a.svg"
+	},
+	{
+		"kana": "に",
+		"reading": "ni",
+		"audio": "に.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951637",
+		"svg": "0306b.svg"
+	},
+	{
+		"kana": "ぬ",
+		"reading": "nu",
+		"audio": "ぬ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951638",
+		"svg": "0306c.svg"
+	},
+	{
+		"kana": "ね",
+		"reading": "ne",
+		"audio": "ね.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951639",
+		"svg": "0306d.svg"
+	},
+	{
+		"kana": "の",
+		"reading": "no",
+		"audio": "の.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951640",
+		"svg": "0306e.svg"
+	},
+	{
+		"kana": "は",
+		"reading": "ha ('wa' as particle)",
+		"audio": "は.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951641",
+		"svg": "0306f.svg"
+	},
+	{
+		"kana": "ひ",
+		"reading": "hi",
+		"audio": "ひ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951642",
+		"svg": "03072.svg"
+	},
+	{
+		"kana": "ふ",
+		"reading": "fu",
+		"audio": "ふ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951643",
+		"svg": "03075.svg"
+	},
+	{
+		"kana": "へ",
+		"reading": "he",
+		"audio": "へ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951644",
+		"svg": "03078.svg"
+	},
+	{
+		"kana": "ほ",
+		"reading": "ho",
+		"audio": "ほ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951645",
+		"svg": "0307b.svg"
+	},
+	{
+		"kana": "ま",
+		"reading": "ma",
+		"audio": "ま.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951646",
+		"svg": "0307e.svg"
+	},
+	{
+		"kana": "み",
+		"reading": "mi",
+		"audio": "み.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951647",
+		"svg": "0307f.svg"
+	},
+	{
+		"kana": "む",
+		"reading": "mu",
+		"audio": "む.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951648",
+		"svg": "03080.svg"
+	},
+	{
+		"kana": "め",
+		"reading": "me",
+		"audio": "め.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951649",
+		"svg": "03081.svg"
+	},
+	{
+		"kana": "も",
+		"reading": "mo",
+		"audio": "も.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951650",
+		"svg": "03082.svg"
+	},
+	{
+		"kana": "や",
+		"reading": "ya",
+		"audio": "や.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951651",
+		"svg": "03084.svg"
+	},
+	{
+		"kana": "ゆ",
+		"reading": "yu",
+		"audio": "ゆ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951652",
+		"svg": "03086.svg"
+	},
+	{
+		"kana": "よ",
+		"reading": "yo",
+		"audio": "よ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951653",
+		"svg": "03088.svg"
+	},
+	{
+		"kana": "ら",
+		"reading": "ra",
+		"audio": "ら.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951654",
+		"svg": "03089.svg"
+	},
+	{
+		"kana": "り",
+		"reading": "ri",
+		"audio": "り.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951655",
+		"svg": "0308a.svg"
+	},
+	{
+		"kana": "る",
+		"reading": "ru",
+		"audio": "る.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951656",
+		"svg": "0308b.svg"
+	},
+	{
+		"kana": "れ",
+		"reading": "re",
+		"audio": "れ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951657",
+		"svg": "0308c.svg"
+	},
+	{
+		"kana": "ろ",
+		"reading": "ro",
+		"audio": "ろ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951658",
+		"svg": "0308d.svg"
+	},
+	{
+		"kana": "わ",
+		"reading": "wa",
+		"audio": "わ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951659",
+		"svg": "0308f.svg"
+	},
+	{
+		"kana": "を",
+		"reading": "o/wo (particle)",
+		"audio": "を.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951660",
+		"svg": "03092.svg"
+	},
+	{
+		"kana": "ん",
+		"reading": "n",
+		"audio": "ん.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951661",
+		"svg": "03093.svg"
+	},
+	{
+		"kana": "が",
+		"reading": "ga",
+		"audio": "が.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951662",
+		"svg": "0304c.svg"
+	},
+	{
+		"kana": "ぎ",
+		"reading": "gi",
+		"audio": "ぎ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951663",
+		"svg": "0304e.svg"
+	},
+	{
+		"kana": "ぐ",
+		"reading": "gu",
+		"audio": "ぐ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951664",
+		"svg": "03050.svg"
+	},
+	{
+		"kana": "げ",
+		"reading": "ge",
+		"audio": "げ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951665",
+		"svg": "03052.svg"
+	},
+	{
+		"kana": "ご",
+		"reading": "go",
+		"audio": "ご.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951666",
+		"svg": "03054.svg"
+	},
+	{
+		"kana": "ざ",
+		"reading": "za",
+		"audio": "ざ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951667",
+		"svg": "03056.svg"
+	},
+	{
+		"kana": "じ",
+		"reading": "ji",
+		"audio": "じ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951668",
+		"svg": "03058.svg"
+	},
+	{
+		"kana": "ず",
+		"reading": "zu",
+		"audio": "ず.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951669",
+		"svg": "0305a.svg"
+	},
+	{
+		"kana": "ぜ",
+		"reading": "ze",
+		"audio": "ぜ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951670",
+		"svg": "0305c.svg"
+	},
+	{
+		"kana": "ぞ",
+		"reading": "zo",
+		"audio": "ぞ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951671",
+		"svg": "0305e.svg"
+	},
+	{
+		"kana": "だ",
+		"reading": "da",
+		"audio": "だ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951672",
+		"svg": "03060.svg"
+	},
+	{
+		"kana": "ぢ",
+		"reading": "ji",
+		"audio": "ぢ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951673",
+		"svg": "03062.svg"
+	},
+	{
+		"kana": "づ",
+		"reading": "zu",
+		"audio": "づ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951674",
+		"svg": "03065.svg"
+	},
+	{
+		"kana": "で",
+		"reading": "de",
+		"audio": "で.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951675",
+		"svg": "03067.svg"
+	},
+	{
+		"kana": "ど",
+		"reading": "do",
+		"audio": "ど.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951676",
+		"svg": "03069.svg"
+	},
+	{
+		"kana": "ば",
+		"reading": "ba",
+		"audio": "ば.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951677",
+		"svg": "03070.svg"
+	},
+	{
+		"kana": "び",
+		"reading": "bi",
+		"audio": "び.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951678",
+		"svg": "03073.svg"
+	},
+	{
+		"kana": "ぶ",
+		"reading": "bu",
+		"audio": "ぶ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951679",
+		"svg": "03076.svg"
+	},
+	{
+		"kana": "べ",
+		"reading": "be",
+		"audio": "べ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951680",
+		"svg": "03079.svg"
+	},
+	{
+		"kana": "ぼ",
+		"reading": "bo",
+		"audio": "ぼ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951681",
+		"svg": "0307c.svg"
+	},
+	{
+		"kana": "ぱ",
+		"reading": "pa",
+		"audio": "ぱ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951682",
+		"svg": "03071.svg"
+	},
+	{
+		"kana": "ぴ",
+		"reading": "pi",
+		"audio": "ぴ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951683",
+		"svg": "03074.svg"
+	},
+	{
+		"kana": "ぷ",
+		"reading": "pu",
+		"audio": "ぷ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951684",
+		"svg": "03077.svg"
+	},
+	{
+		"kana": "ぺ",
+		"reading": "pe",
+		"audio": "ぺ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951685",
+		"svg": "0307a.svg"
+	},
+	{
+		"kana": "ぽ",
+		"reading": "po",
+		"audio": "ぽ.mp3",
+		"tags": [
+			"hiragana"
+		],
+		"id": "83951686",
+		"svg": "0307d.svg"
+	}
+]

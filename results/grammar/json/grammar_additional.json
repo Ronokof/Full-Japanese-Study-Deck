@@ -1,0 +1,1788 @@
+[
+	{
+		"point": "其の上",
+		"meaning": {
+			"meaning": "moreover; besides",
+			"example": "moreover she has to take an exam"
+		},
+		"readings": [
+			{
+				"reading": "そのうえ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "私の先生がそう言うのもごもっともだ。",
+				"translations": [
+					"My teacher is quite absolutely right in saying so."
+				]
+			},
+			{
+				"phrase": "私の先生がそう言うのもごもっともだ。",
+				"translations": [
+					"My teacher is quite absolutely right in saying so."
+				]
+			},
+			{
+				"phrase": "私の先生がそう言うのもごもっともだ。",
+				"translations": [
+					"My teacher is quite absolutely right in saying so."
+				]
+			},
+			{
+				"phrase": "雨が降ってきました。その上悪いことに強い風が吹いてきました。",
+				"translations": [
+					"It began rain. To make matters worse, a strong wind was blowing."
+				]
+			},
+			{
+				"phrase": "彼は英語を話せる。その上、フランス語も話せる。",
+				"translations": [
+					"He can speak English. In addition, he can speak French."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1711"
+	},
+	{
+		"point": "もしかして",
+		"meaning": {
+			"meaning": "is it possible",
+			"example": "is it possible~"
+		},
+		"phrases": [
+			{
+				"phrase": "もしかして、あなたは社長ですか？",
+				"translations": [
+					"Are you the president, by any chance?"
+				]
+			},
+			{
+				"phrase": "もしかして名案じゃないかな。",
+				"translations": [
+					"Maybe it's a great idea."
+				]
+			},
+			{
+				"phrase": "もしかして財布を落としたかも。",
+				"translations": [
+					"Maybe I dropped down my wallet."
+				]
+			},
+			{
+				"phrase": "もしかして鍵を失くしたのですか？",
+				"translations": [
+					"Do you happen to lose your key?"
+				]
+			},
+			{
+				"phrase": "あなた、もしかして、俳優？",
+				"translations": [
+					"Are you, by any chance , an actor?"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1722"
+	},
+	{
+		"point": "なければならない",
+		"meaning": {
+			"meaning": "must",
+			"example": "One must keep one's promises"
+		},
+		"phrases": [
+			{
+				"phrase": "私は宿題をしなければならない。",
+				"translations": [
+					"I must do my assignment."
+				]
+			},
+			{
+				"phrase": "私は日本語を勉強しなければならない。",
+				"translations": [
+					"I have to study Japanese."
+				]
+			},
+			{
+				"phrase": "私は今週、期末試験を受けなければならない。",
+				"translations": [
+					"I have to take my final exams this week."
+				]
+			},
+			{
+				"phrase": "私は朝食を食べなければならない。",
+				"translations": [
+					"I have to eat breakfast."
+				]
+			},
+			{
+				"phrase": "私は10時ごろに出発しなければならない。",
+				"translations": [
+					"I have to get going at about 10"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1709"
+	},
+	{
+		"point": "そうもない",
+		"meaning": {
+			"meaning": "no way; impossible",
+			"example": "there is no way~"
+		},
+		"phrases": [
+			{
+				"phrase": "今夜は眠れそうもない。",
+				"translations": [
+					"I don't think I can sleep tonight."
+				]
+			},
+			{
+				"phrase": "明日は雪が降りそうもない。",
+				"translations": [
+					"There is no way it snows tomorrow."
+				]
+			},
+			{
+				"phrase": "明日までにこの宿題を終われそうもない。",
+				"translations": [
+					"I don't think I can finish this homework by tomorrow."
+				]
+			},
+			{
+				"phrase": "あまり期待できそうもない。",
+				"translations": [
+					"There is not much hope."
+				]
+			},
+			{
+				"phrase": "あなたは一度その映画を見たら、忘れそうもないでしょう。",
+				"translations": [
+					"Once you see the movie, you will never forget it."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1721"
+	},
+	{
+		"point": "さもないと",
+		"meaning": {
+			"meaning": "or else, otherwise",
+			"example": "One should keep one's promise; otherwise no one will trust him or her"
+		},
+		"phrases": [
+			{
+				"phrase": "謝りなさい。さもないと、怒りますよ。",
+				"translations": [
+					"Say you're sorry right now. Otherwise, I will be angry."
+				]
+			},
+			{
+				"phrase": "このバスに乗らなくてはいけない、さもないと学校に遅刻してしまう。",
+				"translations": [
+					"I have to get on this bus, otherwise I'll be late for school."
+				]
+			},
+			{
+				"phrase": "私は急がなければなりません、さもないと、バスに遅れます。",
+				"translations": [
+					"I have to hurry up, otherwise I'll miss the bus."
+				]
+			},
+			{
+				"phrase": "ボタンを留めなさい。さもないと、風邪をひきますよ。",
+				"translations": [
+					"Button up your coat, otherwise you will catch cold."
+				]
+			},
+			{
+				"phrase": "英語を勉強しなさい、さもないとテストに落ちますよ。",
+				"translations": [
+					"Study English, otherwise you will fail the test."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1706"
+	},
+	{
+		"point": "か何か",
+		"meaning": {
+			"meaning": "or something like that",
+			"example": "A typhoon or something like that."
+		},
+		"readings": [
+			{
+				"reading": "かなにか"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "コーラか何かおごるよ。",
+				"translations": [
+					"Let me buy you a coke or something."
+				]
+			},
+			{
+				"phrase": "私はアイスクリームかなにか食べたいです。",
+				"translations": [
+					"I want to eat ice creams or something."
+				]
+			},
+			{
+				"phrase": "そこには猿か何かいます。",
+				"translations": [
+					"There are monkeys or something there."
+				]
+			},
+			{
+				"phrase": "冷たい飲み物か何かください。",
+				"translations": [
+					"Please give me a cool drink or something."
+				]
+			},
+			{
+				"phrase": "野球か何かしたいです。",
+				"translations": [
+					"I want to play baseball or something."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1707"
+	},
+	{
+		"point": "~たっけ",
+		"meaning": {
+			"meaning": "was it~; did you say~",
+			"example": "What did you say your name was ?"
+		},
+		"phrases": [
+			{
+				"phrase": "あれはそんなによかったっけ？",
+				"translations": [
+					"Was it that good?"
+				]
+			},
+			{
+				"phrase": "いつ映画を見にいったっけ？",
+				"translations": [
+					"When did we go to a movie?"
+				]
+			},
+			{
+				"phrase": "どこまで話したっけ？",
+				"translations": [
+					"Where did I leave off?"
+				]
+			},
+			{
+				"phrase": "ジョンの家はどこでしたっけ？",
+				"translations": [
+					"Where is John's house again?"
+				]
+			},
+			{
+				"phrase": "お昼ご飯何食べたっけ？",
+				"translations": [
+					"What did I eat lunch today?"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1710"
+	},
+	{
+		"point": "の様",
+		"meaning": {
+			"meaning": "seems like; looks like",
+			"example": "it looks like it is going to rain"
+		},
+		"readings": [
+			{
+				"reading": "のよう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "彼はとてもあなたの様に見える。",
+				"translations": [
+					"He looks just like you."
+				]
+			},
+			{
+				"phrase": "この店はとても盛況のようだね。",
+				"translations": [
+					"This shop looks like it is doing well."
+				]
+			},
+			{
+				"phrase": "彼はまるで王の様だった。",
+				"translations": [
+					"He looked like a　king."
+				]
+			},
+			{
+				"phrase": "彼はお疲れの様だ。",
+				"translations": [
+					"He looks tired."
+				]
+			},
+			{
+				"phrase": "鬼の様な先生だ。",
+				"translations": [
+					"A teacher look a devil."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1713"
+	},
+	{
+		"point": "下さいませんか",
+		"meaning": {
+			"meaning": "kudaisamasenka",
+			"example": "please"
+		},
+		"readings": [
+			{
+				"reading": "くださいませんか"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "わたしに飲み物を下さいませんか？",
+				"translations": [
+					"Please give me something to drink?"
+				]
+			},
+			{
+				"phrase": "英語で自己紹介して下さいませんか？",
+				"translations": [
+					"Could you tell me about yourself in English?"
+				]
+			},
+			{
+				"phrase": "その本を貸して下さいませんか？",
+				"translations": [
+					"Could you lend me the book?"
+				]
+			},
+			{
+				"phrase": "お代わりを下さいませんか？",
+				"translations": [
+					"Could you give me another one?"
+				]
+			},
+			{
+				"phrase": "もっとはっきり説明して下さいませんか？",
+				"translations": [
+					"Would you explain that more clearly?"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1720"
+	},
+	{
+		"point": "~てもいいですか",
+		"meaning": {
+			"meaning": "do you mind if~",
+			"example": "do you mind if~"
+		},
+		"phrases": [
+			{
+				"phrase": "このペンをお借りしてもいいですか？",
+				"translations": [
+					"May I borrow this pen?"
+				]
+			},
+			{
+				"phrase": "家に帰ってもいいですか？",
+				"translations": [
+					"May I go back home?"
+				]
+			},
+			{
+				"phrase": "机の上のりんごを食べてもいいですか？",
+				"translations": [
+					"May I eat these apples on the table?"
+				]
+			},
+			{
+				"phrase": "ここに座ってもいいですか？",
+				"translations": [
+					"Do you mind if I sit here?"
+				]
+			},
+			{
+				"phrase": "先生に話してもいいですか？",
+				"translations": [
+					"Can I talk to my teacher?"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1723"
+	},
+	{
+		"point": "どうぞ",
+		"meaning": {
+			"meaning": "go ahead; be my guest",
+			"example": "be my guest"
+		},
+		"phrases": [
+			{
+				"phrase": "どうぞお座りください。",
+				"translations": [
+					"Please sit down."
+				]
+			},
+			{
+				"phrase": "スナック菓子をご自由にどうぞ。",
+				"translations": [
+					"Help yourself to a snack."
+				]
+			},
+			{
+				"phrase": "どうぞ座ったままで結構です。",
+				"translations": [
+					"Please keep your seats."
+				]
+			},
+			{
+				"phrase": "どうぞごゆっくりしていってください。",
+				"translations": [
+					"You can stay as long as you like."
+				]
+			},
+			{
+				"phrase": "どうぞ、おっしゃってください。",
+				"translations": [
+					"Go ahead and say it."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1717"
+	},
+	{
+		"point": "時間がたつ",
+		"meaning": {
+			"meaning": "passing of time;",
+			"example": "time passes fast"
+		},
+		"readings": [
+			{
+				"reading": "じかんがたつ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "時間がたつのも忘れちゃったよ",
+				"translations": [
+					"I lost track of time."
+				]
+			},
+			{
+				"phrase": "私は時間がたつのを待った。",
+				"translations": [
+					"I waited for time to pass ."
+				]
+			},
+			{
+				"phrase": "忙しいときは時間がたつのが早い。",
+				"translations": [
+					"Time passes quickly when you're busy."
+				]
+			},
+			{
+				"phrase": "楽しいとき、時間がたつのは早い。",
+				"translations": [
+					"Time flies when you are having fun."
+				]
+			},
+			{
+				"phrase": "コンデンサは時間がたつと電荷を失う。",
+				"translations": [
+					"Capacitors lose their charge over time."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1719"
+	},
+	{
+		"point": "じゅう／ちゅう",
+		"meaning": {
+			"meaning": "throughout, through, during all",
+			"example": "She cried all day."
+		},
+		"phrases": [
+			{
+				"phrase": "彼女は一日中泣いてました。",
+				"translations": [
+					"She cried all day."
+				]
+			},
+			{
+				"phrase": "その犬は一晩中ほえ続けた。",
+				"translations": [
+					"The dog kept barking all night."
+				]
+			},
+			{
+				"phrase": "会議中（ちゅう）にお腹がグーグー鳴っていて困ったよ。",
+				"translations": [
+					"My stomach started growling right there in the meeting. It was embarrassing."
+				]
+			},
+			{
+				"phrase": "冬中暖房無しで過ごした。",
+				"translations": [
+					"I did without heating all through the winter."
+				]
+			},
+			{
+				"phrase": "家内は海外旅行中（ちゅう）よく電話をかけてきた。",
+				"translations": [
+					"My wife often rang me up during her travel abroad."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "739"
+	},
+	{
+		"point": "ように",
+		"meaning": {
+			"meaning": "in order to",
+			"example": "in order to be on time"
+		},
+		"phrases": [
+			{
+				"phrase": "上例のように使えば、いいと思います。",
+				"translations": [
+					"I think it is alright if you use it like the example above"
+				]
+			},
+			{
+				"phrase": "忘れ物をしないようにご注意して下さい。",
+				"translations": [
+					"In order not to leave things, please take care (often heard on trains)"
+				]
+			},
+			{
+				"phrase": "この度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。",
+				"translations": [
+					"Please excuse us for the bother, but could those people who have acquired the data erroneously disseminated on this occasion please delete them."
+				]
+			},
+			{
+				"phrase": "あなたが元気になりますように",
+				"translations": [
+					"I pray you get better soon."
+				]
+			},
+			{
+				"phrase": "パソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。",
+				"translations": [
+					"The computer admin has become really tricky, so in order to make it easier to do, I'll be changing things bit by bit"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1268"
+	},
+	{
+		"point": "できるだけ",
+		"meaning": {
+			"meaning": "as soon/early as possible",
+			"example": "I'd like to meet as soon as possible"
+		},
+		"phrases": [
+			{
+				"phrase": "できるだけ早く参ります。",
+				"translations": [
+					"I'll come as soon as I can."
+				]
+			},
+			{
+				"phrase": "この本はできるだけ早く返してくれ。",
+				"translations": [
+					"Return this book as soon as you can."
+				]
+			},
+			{
+				"phrase": "できるだけ早く起きなさい。",
+				"translations": [
+					"Get up as early as you can."
+				]
+			},
+			{
+				"phrase": "できるだけ速く走ったので、友人に追いつけた。",
+				"translations": [
+					"Running as fast as I could, I was able to catch up with my friend."
+				]
+			},
+			{
+				"phrase": "彼はできるだけ長く生きたいと思っている。",
+				"translations": [
+					"He wants to live as long as he can."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1473"
+	},
+	{
+		"point": "せねばならない",
+		"meaning": {
+			"meaning": "Have to, feel obliged to",
+			"example": "Those involved must tell the truth."
+		},
+		"phrases": [
+			{
+				"phrase": "関係者は真実を明らかにせねばならない",
+				"translations": [
+					"Those involved must tell the truth"
+				]
+			},
+			{
+				"phrase": "これらの製品の新たなる販路を開拓せねばならない。",
+				"translations": [
+					"We have to find a new market for these products."
+				]
+			},
+			{
+				"phrase": "是非とも目標を達成せねばならない。",
+				"translations": [
+					"I have to attain my purpose at all costs."
+				]
+			},
+			{
+				"phrase": "老人を尊敬せねばならない。",
+				"translations": [
+					"You have to respect the old."
+				]
+			},
+			{
+				"phrase": "私は彼に遅れをとらないように一生懸命勉強せねばならない。",
+				"translations": [
+					"I must study hard in order to keep up of him."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1519"
+	},
+	{
+		"point": "ましてや",
+		"meaning": {
+			"meaning": "Let alone, still, much less",
+			"example": "How do you explain it to others, let alone to yourself?"
+		},
+		"phrases": [
+			{
+				"phrase": "それを自分に対して、ましてや他人に対して認めるのは、とても難しいことだ。",
+				"translations": [
+					"It's very hard to admit that to yourself let alone to other people."
+				]
+			},
+			{
+				"phrase": "私はギターを弾くことはできない。ましてやバイオリンは弾けない。",
+				"translations": [
+					"I can't play the guitar, much less the violin."
+				]
+			},
+			{
+				"phrase": "私は誰にもこの時計を貸すつもりはありません。ましてや手放すつもりなど毛頭ありません。",
+				"translations": [
+					"I have no intention of lending this watch to anyone, much less parting with it."
+				]
+			},
+			{
+				"phrase": "私は中古車を買う余裕などなく、ましてや新車などはもってのほかだ。",
+				"translations": [
+					"I can't afford to buy a used car, much less a new car."
+				]
+			},
+			{
+				"phrase": "彼は、フランス語を話せる、ましてや英語も話せる。",
+				"translations": [
+					"He can speak French, still more English."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1520"
+	},
+	{
+		"point": "を通して",
+		"meaning": {
+			"meaning": "through, by use of, by means of",
+			"example": "through a camera lens"
+		},
+		"readings": [
+			{
+				"reading": "をとおして"
+			}
+		],
+		"usages": [
+			"Noun+を通して"
+		],
+		"phrases": [
+			{
+				"phrase": "レンズを通して町を眺める。",
+				"translations": [
+					"View the town through a camera lens"
+				]
+			},
+			{
+				"phrase": "この目を通して見た現実。",
+				"translations": [
+					"Reality as seen with one's own eyes [through one's own eyes]"
+				]
+			},
+			{
+				"phrase": "紹介者を通して発注する。",
+				"translations": [
+					"Place an order through an intermediary"
+				]
+			},
+			{
+				"phrase": "通訳を通して会談する。",
+				"translations": [
+					"Hold discussions with the aid of [using the services of, through] an interpreter"
+				]
+			},
+			{
+				"phrase": "彼女の評判は田中さんを通して知っている。",
+				"translations": [
+					"I know of her reputation via [from] Mrs. Tanaka"
+				]
+			}
+		],
+		"tags": [
+			"grammar::has_usages",
+			"grammar::additional"
+		],
+		"id": "1679"
+	},
+	{
+		"point": "少しも〜ない",
+		"meaning": {
+			"meaning": "not at all",
+			"example": "I can't swim at all."
+		},
+		"phrases": [
+			{
+				"phrase": "あなたはたくさんお金をもっているが、私は少しも（お金を）持ってない。",
+				"translations": [
+					"You have a lot of money, and I have none."
+				]
+			},
+			{
+				"phrase": "あなたは少しも幸せではない。",
+				"translations": [
+					"You are not in the least happy."
+				]
+			},
+			{
+				"phrase": "あなたは少しも眠れないことがある。",
+				"translations": [
+					"Sometimes you can't sleep at all."
+				]
+			},
+			{
+				"phrase": "いいえ、少しも（ありません）。",
+				"translations": [
+					"Not at all."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1478"
+	},
+	{
+		"point": "だからこそ",
+		"meaning": {
+			"meaning": "(just) because of",
+			"example": "only because he was a scholar, he could understand"
+		},
+		"phrases": [
+			{
+				"phrase": "だからこそ気になるものだ",
+				"translations": [
+					"precisely what is so worrisome"
+				]
+			},
+			{
+				"phrase": "だからこそ私は本当に〜したい。",
+				"translations": [
+					"and that's exactly why I would really like to..."
+				]
+			},
+			{
+				"phrase": "だからこそ注意しないといけないんだよ。",
+				"translations": [
+					"All the more reason to be careful."
+				]
+			},
+			{
+				"phrase": "あなたが来いと言ったからこそ私は来たんです。",
+				"translations": [
+					"I came especially because you said to."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1494"
+	},
+	{
+		"point": "ってば",
+		"meaning": {
+			"meaning": "emphasize speakers emotion/desire/will",
+			"example": "I said I would go"
+		},
+		"phrases": [
+			{
+				"phrase": "本当にいくの? 行くってば！",
+				"translations": [
+					"Will you really go there? I said I would go!"
+				]
+			},
+			{
+				"phrase": "早く帰りなさいってば！",
+				"translations": [
+					"I told you go home at once!"
+				]
+			},
+			{
+				"phrase": "何だってば！",
+				"translations": [
+					"I say what’s that!"
+				]
+			},
+			{
+				"phrase": "マールでいいってば！",
+				"translations": [
+					"I'm telling you , Marle's fine!"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1516"
+	},
+	{
+		"point": "今では",
+		"meaning": {
+			"meaning": "\"(by) now\"; \"nowadays\"",
+			"example": "Expresses surprise at how different a state is now from the past."
+		},
+		"readings": [
+			{
+				"reading": "いまでは"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "昔は新婚旅行といえばハワイだったが、今ではトルコやエジプトも珍しくない。",
+				"translations": [
+					"Long ago, if mentioning honeymoon travel, you would think of Hawaii, but now Turkey and Egypt are also not unusual."
+				]
+			},
+			{
+				"phrase": "おじは今では安楽に暮らしている。",
+				"translations": [
+					"My uncle now lives in comfort."
+				]
+			},
+			{
+				"phrase": "この型のカメラは今では流行遅れである。",
+				"translations": [
+					"This type of camera is now out of fashion."
+				]
+			},
+			{
+				"phrase": "この言葉は今では用いられない。",
+				"translations": [
+					"This word has gone out of use."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1585"
+	},
+	{
+		"point": "~ぶり",
+		"meaning": {
+			"meaning": "first time in ~",
+			"example": "First time in a year (一年ぶり)"
+		},
+		"usages": [
+			"Time span+ぶり+に"
+		],
+		"phrases": [
+			{
+				"phrase": "久しぶりに田舎へ帰りました。",
+				"translations": [
+					"After a long time I returned back to my hometown."
+				]
+			},
+			{
+				"phrase": "３年ぶりに日本に帰ってきました！",
+				"translations": [
+					"I'm back to Japan after 3 years!"
+				]
+			}
+		],
+		"tags": [
+			"grammar::has_usages",
+			"grammar::additional"
+		],
+		"id": "1686"
+	},
+	{
+		"point": "どちらかといえば",
+		"meaning": {
+			"meaning": "If I had to say...",
+			"example": "on balance"
+		},
+		"phrases": [
+			{
+				"phrase": "どちらかと言えば海に行きたい。",
+				"translations": [
+					"If I had my druthers, I would like to go to the sea."
+				]
+			},
+			{
+				"phrase": "どちらかといえば泳ぎはうまい方でした。",
+				"translations": [
+					"He was, if anything, a good swimmer."
+				]
+			},
+			{
+				"phrase": "どちらかといえば今日はあの人に会いたくない。",
+				"translations": [
+					"I would rather not see him(her) today."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1477"
+	},
+	{
+		"point": "〜放題",
+		"meaning": {
+			"meaning": "As you like",
+			"example": "Do as you like"
+		},
+		"readings": [
+			{
+				"reading": "〜ほうだい"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "したい放題にする",
+				"translations": [
+					"Do as you like."
+				]
+			},
+			{
+				"phrase": "飲み放題",
+				"translations": [
+					"all you can drink"
+				]
+			},
+			{
+				"phrase": "食べ放題",
+				"translations": [
+					"all you can eat"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1651"
+	},
+	{
+		"point": "~直す",
+		"meaning": {
+			"meaning": "to do something again, hoping to improve it",
+			"example": "This essay is terrible! Please rewrite it (書き直す)"
+		},
+		"readings": [
+			{
+				"reading": "~なおす"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "第一回目試験を落第したから、受け直すつもりだよ。dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.",
+				"translations": [
+					"Since (I) failed the test the first time, (I'm) planning on re-taking it."
+				]
+			},
+			{
+				"phrase": "やりなおす。",
+				"translations": [
+					"(I) will redo it."
+				]
+			},
+			{
+				"phrase": "聞き直したがまだわからない。",
+				"translations": [
+					"(I) listened to it again but I still don't understand it."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1685"
+	},
+	{
+		"point": "そうすると",
+		"meaning": {
+			"meaning": "That means, If that's the case, etc",
+			"example": "That means that there is no time to drink beer!"
+		},
+		"phrases": [
+			{
+				"phrase": "９時に彼女らと会うのか？そうするとビールを飲む時間はないんだよ！ くそ！",
+				"translations": [
+					"We're meeting the girls at 9? That means there's no time to drink beer! Damnit!"
+				]
+			},
+			{
+				"phrase": "そうするといやが上にも美しく見える。",
+				"translations": [
+					"That makes you much more attractive still."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1407"
+	},
+	{
+		"point": "なんとなく",
+		"meaning": {
+			"meaning": "Vaguely, somehow",
+			"example": "Vaguely; somehow"
+		},
+		"phrases": [
+			{
+				"phrase": "あの人はなんとなく母を想いださせる。",
+				"translations": [
+					"She vaguely resembles my mother."
+				]
+			},
+			{
+				"phrase": "なんとなく京都に行きたくなった。",
+				"translations": [
+					"Somehow I wanted to go to Kyoto."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1475"
+	},
+	{
+		"point": "ひとつとっても",
+		"meaning": {
+			"meaning": "One example being, for example",
+			"example": "There are many troubles when we live in a foreign country, one example being sickness"
+		},
+		"phrases": [
+			{
+				"phrase": "日本のソフトクリームとは、ラベンダーひとつとっても様々な珍しい味が楽しめる商品だ。",
+				"translations": [
+					"Japanese soft-serve ice cream is a product you can enjoy in a variety of exotic flavors, such as Lavender."
+				]
+			},
+			{
+				"phrase": "部屋探しひとつとっても外国人として日本に生活を始めるのが難しいと言われる。",
+				"translations": [
+					"It is said that it is hard to start living in Japan as a foreigner; take the search for an apartment as an example."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1497"
+	},
+	{
+		"point": "のに",
+		"meaning": {
+			"meaning": "wish",
+			"example": "I wish today's weather was as nice as yesterday's"
+		},
+		"phrases": [
+			{
+				"phrase": "今日の天気が昨日のような天気だったら良かった。のに",
+				"translations": [
+					"I wish today's weather had been as nice as yesterday's. のに"
+				]
+			},
+			{
+				"phrase": "雨さえやめばいいのになあ。",
+				"translations": [
+					"If only it would stop raining!"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1593"
+	},
+	{
+		"point": "未だ",
+		"meaning": {
+			"meaning": "yet / as yet / so far/ not yet",
+			"example": "you are STILL very young"
+		},
+		"readings": [
+			{
+				"reading": "いまだ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "あなたは未だとても若い。未だ",
+				"translations": [
+					"you are still very young still"
+				]
+			},
+			{
+				"phrase": "宿題を未だ終わっていない。",
+				"translations": [
+					"I still haven`t finished my homework."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1624"
+	},
+	{
+		"point": "とっさに",
+		"meaning": {
+			"meaning": "To reflexively react; an unconscious movement.",
+			"example": "とっさの機転で、災難を逃れることができた。"
+		},
+		"phrases": [
+			{
+				"phrase": "とっさの機転で、災難を逃れることができた。",
+				"translations": [
+					"Due to my (instinctive) quick wits, I was able to escape the calamity."
+				]
+			},
+			{
+				"phrase": "彼の反応はとっさに出たものだ。",
+				"translations": [
+					"His response is automatic."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1631"
+	},
+	{
+		"point": "stem + 出す",
+		"meaning": {
+			"meaning": "Begin to ~",
+			"example": "It started to rain"
+		},
+		"readings": [
+			{
+				"reading": "Stem +　だす"
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1662"
+	},
+	{
+		"point": "なくてもすむ",
+		"meaning": {
+			"meaning": "Don't have to 〜　(and are happy because of it)",
+			"example": "Above anything, employees are happy for not having to ride on overcrowded trains."
+		},
+		"phrases": [
+			{
+				"phrase": "何よりも、満員電車に乗らなくてもすむのはうれしい。",
+				"translations": [
+					"Above anything, employees are happy for not having to ride on overcrowded trains."
+				]
+			},
+			{
+				"phrase": "今度の試験は易しいから、あまり勉強しなくてもすむ。",
+				"translations": [
+					"The upcoming test should be easy, so I think I can get by without studying much."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1673"
+	},
+	{
+		"point": "ときたら",
+		"meaning": {
+			"meaning": "when it comes to~ (neg. sense)",
+			"example": "Speaking of my son, he really isn't very good at sports"
+		},
+		"phrases": [
+			{
+				"phrase": "うちの息子ときたら、全然勉強しないで、ゲームばっかりしてるのよ。",
+				"translations": [
+					"Speaking of my son, he is always playing games without studying."
+				]
+			},
+			{
+				"phrase": "私ときたら、料理はまったくだめなのよ。",
+				"translations": [
+					"I really can't cook at all."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1678"
+	},
+	{
+		"point": "〜ひいては",
+		"meaning": {
+			"meaning": "which in turn",
+			"example": "This is good for [subject], which in turn is good for [subject]"
+		},
+		"phrases": [
+			{
+				"phrase": "それは母体に良く、ひいてはお腹の赤ちゃんにも良い。",
+				"translations": [
+					"It is good for the mother's body, which in turn is good for her coming baby."
+				]
+			},
+			{
+				"phrase": "ひいては国際化に繋がるのだ ろうか?",
+				"translations": [
+					"ENG Will this in turn lead to internationalization?"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1681"
+	},
+	{
+		"point": "からして",
+		"meaning": {
+			"meaning": "Since; because; Consequently",
+			"example": "今年の収支は赤字であるからして、来年はなんとか黒字にしよう。"
+		},
+		"phrases": [
+			{
+				"phrase": "今年の収支は赤字であるからして、来年はなんとか黒字にしよう。",
+				"translations": [
+					"Our balance sheet is in the red this year; consequently ,let's try to somehow come out on top next year."
+				]
+			},
+			{
+				"phrase": "そういう噂からして、あの二人は近々結婚するだろう。",
+				"translations": [
+					"Since that sort of rumor is going around, consequently, it's likely that those two will get married soon."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1778"
+	},
+	{
+		"point": "であろうが",
+		"meaning": {
+			"meaning": "A or B doesn't matter, at least I want C",
+			"example": "Whether Mini or Air, in any case I want an IPad"
+		},
+		"phrases": [
+			{
+				"phrase": "iPadが欲しい。ミニだろうがエアーだろうが欲しい。",
+				"translations": [
+					"I want an iPad. Doesn't matter if Mini or Air, in any case I want it"
+				]
+			},
+			{
+				"phrase": "住みやすかろうが住みにくかろうが、大事なのは家賃が低いことです",
+				"translations": [
+					"Doesn't matter if it's nice to live there or not (nice to live), the important thing is a cheap rent"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1781"
+	},
+	{
+		"point": "もとい",
+		"meaning": {
+			"meaning": "is wrong, rather",
+			"example": "So I was there at the pub ... no, the disco when ..."
+		},
+		"phrases": [
+			{
+				"phrase": "２人っきりでデート・・もとい、ＯＦＦ会だと思ったけど、そこまで甘くもないよな。",
+				"translations": [
+					"So I thought my date er rather offline-meeting was going to be just me and her but I things aren't that easy."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1587"
+	},
+	{
+		"point": "と伝えていただけませんか",
+		"meaning": {
+			"meaning": "Politely asking someone to convey a message.",
+			"example": "Could you please tell Anthony that i will phone him later."
+		},
+		"readings": [
+			{
+				"reading": "につたえていたでけませんか"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "彼におめでとうと伝えていただけませんか。",
+				"translations": [
+					"Please tell him congratulations from me."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1598"
+	},
+	{
+		"point": "それに",
+		"meaning": {
+			"meaning": "moreover, and what's more",
+			"example": "The price of food in this restaurant is cheap moreover food is delicious."
+		},
+		"phrases": [
+			{
+				"phrase": "The city that I live in is small,and moreover, it is very quiet.",
+				"translations": [
+					"住んでいる市は小さいし、それにとても静かな市です。"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1637"
+	},
+	{
+		"point": "より",
+		"meaning": {
+			"meaning": "from",
+			"example": "a data from Mr. Tanaka"
+		},
+		"phrases": [
+			{
+				"phrase": "会社のメールに山田さんよりのレポートがあります。",
+				"translations": [
+					"There is a report from Mr. Yamada in the company's e-mail."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1650"
+	},
+	{
+		"point": "次第に",
+		"meaning": {
+			"meaning": "Gradually, little by little",
+			"example": "After the winter solstice, the days gradually become longer."
+		},
+		"readings": [
+			{
+				"reading": "しだいに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "夜が次第に長くなる.",
+				"translations": [
+					"The nights are gaining on the day."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1667"
+	},
+	{
+		"point": "旨",
+		"meaning": {
+			"meaning": "concerning ... , regarding ... , that ...",
+			"example": "(phrase)する旨。。。　that (phrase)"
+		},
+		"readings": [
+			{
+				"reading": "むね"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。",
+				"translations": [
+					"The suspect believed in the prosecutor's words THAT the prosecution would be delayed if he confessed."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1669"
+	},
+	{
+		"point": "並みに",
+		"meaning": {
+			"meaning": "As...as, to the same degree as",
+			"example": "Wikipedia is as accurate as Britannica"
+		},
+		"readings": [
+			{
+				"reading": "なみに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "Wikipediaはブリタニカ並みに正確だ。",
+				"translations": [
+					"Wikipedia is as accurate as Britannica"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1682"
+	},
+	{
+		"point": "~なき",
+		"meaning": {
+			"meaning": "~less, without",
+			"example": "This contract is meaningless"
+		},
+		"phrases": [
+			{
+				"phrase": "A contract with that company is worth next to nothing.",
+				"translations": [
+					"あの会社との契約はあってなきに等しいものです。"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1687"
+	},
+	{
+		"point": "ことにする",
+		"meaning": {
+			"meaning": "(I/you/he/she/we/they) has/have decided that...",
+			"example": "I have decided that I'll do the test."
+		},
+		"readings": [
+			{
+				"reading": "ことになる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "たばこを止めることにしました。",
+				"translations": [
+					"I have decided to quit smoking."
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1769"
+	},
+	{
+		"point": "Q~でも",
+		"meaning": {
+			"meaning": "Question word + demo = Question word + ever. (Whenever, wherever, whatever, whoever)",
+			"example": "何でもいいです. \"Anything is good\"."
+		},
+		"readings": [
+			{
+				"reading": "〜でも"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "Q. ピクニックは どこが　いいですか？　A. どこでも いいです。",
+				"translations": [
+					"Q. Where is the best spot for a picnic? A. Anywhere will do. (Whenever will be okay)"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1771"
+	},
+	{
+		"point": "のなさ",
+		"meaning": {
+			"meaning": "lack of something",
+			"example": "I am appalled by his lack of his common sense"
+		},
+		"phrases": [
+			{
+				"phrase": "能力のなさ",
+				"translations": [
+					"lack of ability"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1785"
+	},
+	{
+		"point": "よくも〜ものだ",
+		"meaning": {
+			"meaning": "How the hell is it possible, that ...?",
+			"example": "How the hell could someone like him, who never studied during school, become a teacher?"
+		},
+		"phrases": [
+			{
+				"phrase": "こんな大きなケーキをよくもひとりで食べられるものだ",
+				"translations": [
+					"How the hell could he eat a cake that big all by himself?"
+				]
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1787"
+	},
+	{
+		"point": "なぜなら",
+		"meaning": {
+			"meaning": "because: a reason for or to do (x).",
+			"example": "（私は日本にいきまして、）なぜなら、三人の友達が日本にいたからです。I went to japan, because I had three friends living there."
+		},
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1623"
+	},
+	{
+		"point": "とは限りません",
+		"meaning": {
+			"meaning": "it's not necessarily the case that, it does not mean that",
+			"example": "It's not necessarily the case that students who are studying Japanese will all be going to Japan."
+		},
+		"readings": [
+			{
+				"reading": "とはかぎりません"
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1659"
+	},
+	{
+		"point": "はっちゃける",
+		"meaning": {
+			"meaning": "To party, unwind and have a good time in order to forget stresses and problems",
+			"example": "let's go have a good time"
+		},
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1677"
+	},
+	{
+		"point": "~に基づいて",
+		"meaning": {
+			"meaning": "based on~",
+			"example": "Her theory is based on careful research"
+		},
+		"readings": [
+			{
+				"reading": "~にもとづいて"
+			}
+		],
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1688"
+	},
+	{
+		"point": "とのこと",
+		"meaning": {
+			"meaning": "according to",
+			"example": "According to a telephone call from Mrs. Koizumi, the arrival will be late 10 minutes."
+		},
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1779"
+	},
+	{
+		"point": "というのに",
+		"meaning": {
+			"meaning": "Although; Despite",
+			"example": "「止めなさい！」というのに、彼女は聞きません。"
+		},
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1783"
+	},
+	{
+		"point": "〜なかったろう",
+		"meaning": {
+			"meaning": "Probable negative plain verbform. As in, \"he probably did not go.\" Same meaning as -nandarou 〜なんだろう.",
+			"example": "私　は　今　程　に　立派　では　なかったろう、と　思い　ます。(I don't think it could have been nearly as impressive as it is now.)"
+		},
+		"tags": [
+			"grammar::additional"
+		],
+		"id": "1784"
+	},
+	{
+		"point": "挙げ句",
+		"meaning": {
+			"meaning": "in the end, after all",
+			"example": "in the end, he ended up in jail"
+		},
+		"readings": [
+			{
+				"reading": "あげく"
+			}
+		],
+		"usages": [
+			"Verb た-form+あげく+(に)"
+		],
+		"phrases": [
+			{
+				"phrase": "両親に相談したあげくに、彼と離婚することにした。",
+				"translations": [
+					"After talking with both (his) parents the end result was that I decided to divorce him."
+				]
+			},
+			{
+				"phrase": "挙げ句の果てに彼は刑務所行きになった。",
+				"translations": [
+					"In the end he landed up in jail."
+				]
+			},
+			{
+				"phrase": "4頭の象が酔っ払った挙句の果てに高圧線に襲い掛かって感電死。",
+				"translations": [
+					"Four elephants get drunk and in the end crashed into high-voltage power lines, electrocuted."
+				]
+			},
+			{
+				"phrase": "散々考えた挙げ句その計画を実行にうつした",
+				"translations": [
+					"After hard thinking , I carried out the plan"
+				]
+			},
+			{
+				"phrase": "彼女はみんなにさんざん迷惑をかけたあげく、あいさつもしないで会社をやめていった。",
+				"translations": [
+					"After she gave people a great deal of trouble, she left the company without even saying good-bye."
+				]
+			}
+		],
+		"tags": [
+			"grammar::has_usages",
+			"grammar::additional"
+		],
+		"id": "978"
+	}
+]

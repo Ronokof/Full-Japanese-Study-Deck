@@ -1,0 +1,96 @@
+.card {
+    font-family: myfont;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #2e2e2e;
+    background-color: #fafafa;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #d1d1d1;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    color: #4b88a2;
+    border-bottom: 2px solid #4b88a2;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.kana-character {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #1a237e;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.kana-reading {
+    background-color: #e3f2fd;
+    color: #0d47a1;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+    font-size: 1.5em;
+    font-style: italic;
+    line-height: 1.5;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.kana-stroke-order {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    background-color: #fafafa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.entry {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 4px solid #4b88a2;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.entry br {
+    content: " ";
+    display: block;
+    margin-top: 5px;
+}
+
+.note-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.note {
+    background-color: #fef3c7;
+    color: #5d4037;
+    border: 1px solid #f9d78c;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.card * {
+    font-family: myfont !important;
+    font-optical-sizing: auto !important;
+    font-style: normal !important;
+}
+
+@font-face {
+    font-family: myfont;
+    src: url("NotoSansJP-VariableFont_wght.ttf");
+}

@@ -1,0 +1,5922 @@
+[
+	{
+		"point": "兼ねて",
+		"meaning": {
+			"meaning": "combine with",
+			"example": "combine work and play"
+		},
+		"readings": [
+			{
+				"reading": "かねて"
+			}
+		],
+		"usages": [
+			"Noun+を+兼ねて"
+		],
+		"phrases": [
+			{
+				"phrase": "大阪の仕事を兼ねて京都見物に行く",
+				"translations": [
+					"I am going to Osaka on business, I'll combine it with  a sightseeing visit to Kyoto."
+				]
+			},
+			{
+				"phrase": "総理大臣（首相）と外務大臣（外相）とを兼ねる。",
+				"translations": [
+					"Hold the office of Prime Minister concurrently with the portfolio of Foreign Minister."
+				]
+			},
+			{
+				"phrase": "私は勉強と遊びを兼ねている仕事につきたい。",
+				"translations": [
+					"I want to get a job that mixes  work and play."
+				]
+			},
+			{
+				"phrase": "作文の練習を兼ねて、日本のペンフレンドと文通をしています。まあ、一挙両得というわけです。",
+				"translations": [
+					"Combined with writing practice, I am corresponding with my Japanese pen friend. I guess I am killing two birds with one stone."
+				]
+			},
+			{
+				"phrase": "趣味と実益を兼ねて日本語の勉強をしたが、いつの間にか、通訳が本業になってしまった。",
+				"translations": [
+					"Along with personal interest and practical reasons, I studied Japanese. Before I knew it, translation became my main source of income."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1355"
+	},
+	{
+		"point": "は言うまでもなく",
+		"meaning": {
+			"meaning": "goes without saying/not to mention",
+			"example": "he speaks vulcan, not to mention geek."
+		},
+		"readings": [
+			{
+				"reading": "はいうまでもなく"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "いつものカクテルは言うまでもなく、フランス製のシャンペンも出された。",
+				"translations": [
+					"We were served French champagne, not to mention  the usual cocktails."
+				]
+			},
+			{
+				"phrase": "ここには、結果の不正確さは言うまでもなく、方法論上の問題が数多く存在している。",
+				"translations": [
+					"There are a number of methodological problems here, not to mention  the inaccuracy of some of the results."
+				]
+			},
+			{
+				"phrase": "その先生は、英語は言うまでもなく、立派なフランス語を話す。",
+				"translations": [
+					"The teacher speaks good French, not to mention  English."
+				]
+			},
+			{
+				"phrase": "ジェーンはギターは言うまでもなく、バイオリンもひける。",
+				"translations": [
+					"Jane can play the violin, not to mention  the guitar."
+				]
+			},
+			{
+				"phrase": "ボストンは私には寒すぎるが、シカゴは言うまでもなくもっと寒い。",
+				"translations": [
+					"Boston is too cold for me, let alone Chicago."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1498"
+	},
+	{
+		"point": "〜（で）すら",
+		"meaning": {
+			"meaning": "just / even if",
+			"example": "if you just take your vitamins"
+		},
+		"phrases": [
+			{
+				"phrase": "この天才の私ですらわからなかった",
+				"translations": [
+					"a genius such as myself even didn't understand"
+				]
+			},
+			{
+				"phrase": "私は緊張しすぎて、ちらっと見ることすら出来ませんでした",
+				"translations": [
+					"I was so nervous that I couldn't even take a quick peek"
+				]
+			},
+			{
+				"phrase": "「人」の漢字すら知らない生徒は、いないでしょ！",
+				"translations": [
+					"There are no students that don't even know the 「人」 kanji!"
+				]
+			},
+			{
+				"phrase": "この大学の学生の中には教師に対する口の聞き方すら知らないものがいる。",
+				"translations": [
+					"Some students in this university don't even  know how to talk to teachers."
+				]
+			},
+			{
+				"phrase": "これらの言葉ですらいつか消えてしまいます。",
+				"translations": [
+					"Even these words will someday disappear."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1507"
+	},
+	{
+		"point": "いかにも",
+		"meaning": {
+			"meaning": "seems (but is not); indeed",
+			"example": "the bag indeed looks heavy, but its empty"
+		},
+		"phrases": [
+			{
+				"phrase": "あのかばんはいかにも重そうだが、中身はからで、１キロしかない。",
+				"translations": [
+					"The bag indeed looks heavy, but there's nothing inside, so it only weighs 1 kilo."
+				]
+			},
+			{
+				"phrase": "あの人の見かけはいかにもこわそうだが、本当はとても優しい人です。",
+				"translations": [
+					"That guy has a really  frightening look, but in real he is a very kind person."
+				]
+			},
+			{
+				"phrase": "いかにもあいつの言いそうなことだ。",
+				"translations": [
+					"That indeed sounds like what he would have said."
+				]
+			},
+			{
+				"phrase": "あのスーツはいかにも高そうだ。",
+				"translations": [
+					"That suit has an expensive look."
+				]
+			},
+			{
+				"phrase": "いかにもビルのやりそうなことだ。",
+				"translations": [
+					"That's Bill all over."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1092"
+	},
+	{
+		"point": "や否や",
+		"meaning": {
+			"meaning": "just as soon as",
+			"example": "the baby cried as soon as it saw me"
+		},
+		"readings": [
+			{
+				"reading": "やいなや"
+			}
+		],
+		"usages": [
+			"Verb (dictionary form)+やいなや"
+		],
+		"phrases": [
+			{
+				"phrase": "赤ん坊は私の顔をみるやいなや、泣き出した。",
+				"translations": [
+					"The baby began to cry the moment that she saw my face"
+				]
+			},
+			{
+				"phrase": "そこに出かけるやいなや彼女は病気になった。",
+				"translations": [
+					"As soon as she went there, she fell ill."
+				]
+			},
+			{
+				"phrase": "その一行が出発するやいなや、雨が降り出した。",
+				"translations": [
+					"The group had no sooner set off than it began to rain."
+				]
+			},
+			{
+				"phrase": "その音を聞くやいなや、犬は逃げていきました。",
+				"translations": [
+					"On hearing the sound, the dog rushed away."
+				]
+			},
+			{
+				"phrase": "その犬は私の姿を見るやいなや逃げて行った。",
+				"translations": [
+					"Scarcely had the dog seen me before it ran away."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1303"
+	},
+	{
+		"point": "なりに",
+		"meaning": {
+			"meaning": "in one's own way, one's own style",
+			"example": "she has her own way of doing it"
+		},
+		"phrases": [
+			{
+				"phrase": "私は私なりに人生観を持っています。",
+				"translations": [
+					"I have my own outlook on life."
+				]
+			},
+			{
+				"phrase": "動物は動物なりのコミュニケーションが出来る",
+				"translations": [
+					"Animals have their own way of communicating"
+				]
+			},
+			{
+				"phrase": "子供は子供なりに自分の世界を持っているものだ",
+				"translations": [
+					"Kids have kids own world"
+				]
+			},
+			{
+				"phrase": "そうなら、それなりにやってみてください。",
+				"translations": [
+					"If that is so, then try to do it accordingly (in line with that)."
+				]
+			},
+			{
+				"phrase": "言うなりになる。",
+				"translations": [
+					"End up according to (as) what one has been told."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "537"
+	},
+	{
+		"point": "ごとき, ごとく, ごとし",
+		"meaning": {
+			"meaning": "Like, As if; resemblance, analogy, similarity",
+			"example": "I want to fly like a bird."
+		},
+		"phrases": [
+			{
+				"phrase": "烈火のごとき非難。",
+				"translations": [
+					"Criticism like fire."
+				]
+			},
+			{
+				"phrase": "私のごとき初心者にとって、。。。",
+				"translations": [
+					"For a beginner like me, ..."
+				]
+			},
+			{
+				"phrase": "ジェット機のごとく空を飛ぶ。",
+				"translations": [
+					"Fly through the sky like a jet."
+				]
+			},
+			{
+				"phrase": "以上のごとく",
+				"translations": [
+					"As stated above..."
+				]
+			},
+			{
+				"phrase": "常のごとく",
+				"translations": [
+					"As usual."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1511"
+	},
+	{
+		"point": "に即して",
+		"meaning": {
+			"meaning": "in line with, in keeping with",
+			"example": "in keeping with our customs"
+		},
+		"readings": [
+			{
+				"reading": "にそくして"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "日本の習慣に即して",
+				"translations": [
+					"In line with japanese customs"
+				]
+			},
+			{
+				"phrase": "彼の伝記は全くの事実に即して書かれたものだ。",
+				"translations": [
+					"His biography is quite true to life."
+				]
+			},
+			{
+				"phrase": "現実に即して（人）を判断する",
+				"translations": [
+					"appraise someone realistically"
+				]
+			},
+			{
+				"phrase": "その仕事のルールに即していないことをする",
+				"translations": [
+					"do something that is not part of the rules of the game"
+				]
+			},
+			{
+				"phrase": "業種に即している",
+				"translations": [
+					"be pertinent to the line of work"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "959"
+	},
+	{
+		"point": "どうやら",
+		"meaning": {
+			"meaning": "it seems, apparently, somehow",
+			"example": "it seems he doesn't know"
+		},
+		"phrases": [
+			{
+				"phrase": "急いだので、どうやら間に合った。",
+				"translations": [
+					"I rushed, and somehow made it on time."
+				]
+			},
+			{
+				"phrase": "どうやら、彼は知らないらしい。",
+				"translations": [
+					"It seems he doesn't know."
+				]
+			},
+			{
+				"phrase": "どうやらあの人が判らないらしい。",
+				"translations": [
+					"It appears that he cannot identify that man there."
+				]
+			},
+			{
+				"phrase": "「あら ごめんなさい。どうやら間違え電話をしてしまったようだね。」",
+				"translations": [
+					"\"Oh, I'm sorry. I guess I have the wrong number.\""
+				]
+			},
+			{
+				"phrase": "どうやら、そのみすぼらしいアパートは空き家のようだ。",
+				"translations": [
+					"Apparently the shabby flat is vacant."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "992"
+	},
+	{
+		"point": "かけた",
+		"meaning": {
+			"meaning": "1. started, but not finished; 2. nearly occurred (but didn't)",
+			"example": "1. the half-drunk thing in the fridge; 2. nearly hit by a car"
+		},
+		"phrases": [
+			{
+				"phrase": "ケーキを食べかけた時に、電話が掛かって来た。",
+				"translations": [
+					"Just as I was about to eat the cake, the phone rang."
+				]
+			},
+			{
+				"phrase": "作文は今日中に書かなければならないのにまだ書きかけだ。",
+				"translations": [
+					"the essay has to be finished by today, but I am still in the middle of writing it."
+				]
+			},
+			{
+				"phrase": "読みかけた。",
+				"translations": [
+					"Iam in the process of reading it."
+				]
+			},
+			{
+				"phrase": "完全に忘れている。読んだ（いや、読みかけた）ことは、確かなのに。",
+				"translations": [
+					"I've totally forgotten (them). Even though it's certain that I've read (no, well, started to read,) them."
+				]
+			},
+			{
+				"phrase": "冷蔵庫の中にある飲みかけの物を捨てて下さい。",
+				"translations": [
+					"please throw away the half-drunk things in the fridge."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "801"
+	},
+	{
+		"point": "に相当する",
+		"meaning": {
+			"meaning": "equivalent",
+			"example": "this is equivalent to that"
+		},
+		"readings": [
+			{
+				"reading": "にそうとうする"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "鳥の羽は人間の腕と手に相当する。",
+				"translations": [
+					"Birds' wings correspond to man's arms and hands."
+				]
+			},
+			{
+				"phrase": "この日本語に相当する英語はない",
+				"translations": [
+					"In Japanese, there is no equivalent to this english"
+				]
+			},
+			{
+				"phrase": "この絵には莫大な額のお金に相当する価値がある。",
+				"translations": [
+					"This painting is worth great deal of money."
+				]
+			},
+			{
+				"phrase": "その語に相当するようなフランス語を知っていますか。",
+				"translations": [
+					"Do you know the French equivalent of the word?"
+				]
+			},
+			{
+				"phrase": "地図上の青い線は川に相当する。",
+				"translations": [
+					"The blue lines on the map correspond to rivers."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "983"
+	},
+	{
+		"point": "にあって",
+		"meaning": {
+			"meaning": "being in/due to/suited to",
+			"example": "due to the confusion"
+		},
+		"phrases": [
+			{
+				"phrase": "幼児期にあって、彼はストレスの多い状況を経験した。",
+				"translations": [
+					"As an infant, he underwent a stressful situation."
+				]
+			},
+			{
+				"phrase": "この核時代にあっては、世界中どこの国だって安全ではない。",
+				"translations": [
+					"No country under the sun is safe in this nuclear age."
+				]
+			},
+			{
+				"phrase": "その行いが神にあってなされたことが明らかにされるためである。」",
+				"translations": [
+					"So that it may be seen plainly that what he has done has been done through God."
+				]
+			},
+			{
+				"phrase": "その宝はまだ森の中にあって、そこの木の下に埋めてある。",
+				"translations": [
+					"The treasure is still in the forest, where it is buried under a tree."
+				]
+			},
+			{
+				"phrase": "それは信じるものはみな、人の子にあって永遠の命を持つためです。",
+				"translations": [
+					"That every one who believes in him may have eternal life."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1322"
+	},
+	{
+		"point": "に関わる",
+		"meaning": {
+			"meaning": "Brings about an effect on; relates to; a matter of",
+			"example": "that will affect our reputation"
+		},
+		"readings": [
+			{
+				"reading": "にかかわる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "こういう行いは君の威信にかかわる。",
+				"translations": [
+					"Such conduct is beneath your dignity. (lit. will affect your dignity)."
+				]
+			},
+			{
+				"phrase": "これは我が校の名誉にかかわる問題だ。",
+				"translations": [
+					"This affects the honor of our school."
+				]
+			},
+			{
+				"phrase": "よく注意して運転しないと、命にかかわるよ。",
+				"translations": [
+					"If you drive with anything less than extreme caution, you're risking your life."
+				]
+			},
+			{
+				"phrase": "ああいう行動は君の名誉にかかわる。",
+				"translations": [
+					"That kind of behaviour affects your honour."
+				]
+			},
+			{
+				"phrase": "それは生死にかかわる問題だ。",
+				"translations": [
+					"It is a matter of life and death."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1255"
+	},
+	{
+		"point": "〜ともなく,〜ともなしに",
+		"meaning": {
+			"meaning": "Without really planning to, ~ A phrase indicating that the subject does something without paying much attention or that when, where, to whom, etc. s.t. took place is unclear.",
+			"example": "Without really planning to, I spent all day playing computer games."
+		},
+		"phrases": [
+			{
+				"phrase": "ゴロゴロしながら見るともなく外を見ると、アンパンマンがいました！",
+				"translations": [
+					"Without really planning, I looked ouside and saw anpanman!"
+				]
+			},
+			{
+				"phrase": "どこからともなく",
+				"translations": [
+					"Out of thin air..."
+				]
+			},
+			{
+				"phrase": "待つこともなく彼女が現れた。",
+				"translations": [
+					"I had not waited long before she turned up."
+				]
+			},
+			{
+				"phrase": "彼女はどこからともなくひょっこりやってきた。",
+				"translations": [
+					"She came up from goodness knows where."
+				]
+			},
+			{
+				"phrase": "見るともなくぼんやり外を見ていたら、不意に大きなカラスが飛んできた。",
+				"translations": [
+					"I was gazing absentmindedly out of the window, when suddenly a large crow flew towards me."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1496"
+	},
+	{
+		"point": "に至る",
+		"meaning": {
+			"meaning": "leads to, all the way to, as far as",
+			"example": "this thinking will lead us to glory"
+		},
+		"readings": [
+			{
+				"reading": "にいたる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "この道は公園に至る。",
+				"translations": [
+					"This road goes to the park."
+				]
+			},
+			{
+				"phrase": "義務の路は栄光に至る道であった。",
+				"translations": [
+					"The path of duty was the way to glory."
+				]
+			},
+			{
+				"phrase": "公民権運動はある夢に至る。",
+				"translations": [
+					"The civil rights movement leads to a dream."
+				]
+			},
+			{
+				"phrase": "重要なのはゴールではなく、そこに至る道程である。",
+				"translations": [
+					"It is not the goal but the way there that matters."
+				]
+			},
+			{
+				"phrase": "昔から今に至るまで存在する、あらゆる社会の歴史は階級闘争の歴史である。",
+				"translations": [
+					"The history of all hitherto existing society is the history of class struggles."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1296"
+	},
+	{
+		"point": "〜は愚か・〜は疎か",
+		"meaning": {
+			"meaning": "let alone B; not to mention; of course A but also B;",
+			"example": "He can't read hiragana let alone kanji."
+		},
+		"readings": [
+			{
+				"reading": "〜はおろか"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "その赤ちゃんは走る事はおろか、歩くことさえできない。",
+				"translations": [
+					"The baby cannot even walk, much less run."
+				]
+			},
+			{
+				"phrase": "私の連れは疲れすぎていて走るのはおろか、歩くこともできない、と言った。",
+				"translations": [
+					"My companion said that she was too tired to walk, let alone run."
+				]
+			},
+			{
+				"phrase": "私はバイオリンはおろかギターも弾けない。",
+				"translations": [
+					"I can't play the guitar, much less the violin."
+				]
+			},
+			{
+				"phrase": "僕はイタリア語を書くのはおろか読めもしない。",
+				"translations": [
+					"I can't even read Italian, let alone write it. [M]"
+				]
+			},
+			{
+				"phrase": "話すことはおろか、ささやくなんてとんでもないことです。",
+				"translations": [
+					"Don't whisper, let alone speak."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1339"
+	},
+	{
+		"point": "ながらも",
+		"meaning": {
+			"meaning": "Notwithstanding, even while, even though, as she was",
+			"example": "child as she was"
+		},
+		"phrases": [
+			{
+				"phrase": "少し悪いと思いながらも、彼は笑うのを抑えることはできなかった。",
+				"translations": [
+					"He could not refrain from smiling, though with a slight sense of guilt."
+				]
+			},
+			{
+				"phrase": "彼は、結婚するためにイランに帰るかもしれないと言いながらも、日本から帰った後の彼の計画は依然としてめどが立っていない。",
+				"translations": [
+					"Although he says he might return to Iran to marry, his plans after Japan are up in the air."
+				]
+			},
+			{
+				"phrase": "彼は少ないながらも持ち合わせていた金を全部私にくれた。",
+				"translations": [
+					"He gave me what little money he had about him."
+				]
+			},
+			{
+				"phrase": "トムは元気を取り戻した。そして、やっぱり、大晦日にはびっこを引きながらもパーティーに参加できた。",
+				"translations": [
+					"Tom took heart and, sure enough, on New Year's Eve he was able to hobble along to a party."
+				]
+			},
+			{
+				"phrase": "彼は少ないながらも彼の持ち物すべてを私にくれた。",
+				"translations": [
+					"Notwithstanding the small amount he did have, he gave me all that he had"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1377"
+	},
+	{
+		"point": "までもない",
+		"meaning": {
+			"meaning": "No need to",
+			"example": "お金よりも健康が大切なことを言うまでもない It goes with out saying that health is more important than money"
+		},
+		"phrases": [
+			{
+				"phrase": "電話ですむことですから、わざわざ行くまでもありません。",
+				"translations": [
+					"This matter can be dealt with by telephone, so there's no need to go all the way there."
+				]
+			},
+			{
+				"phrase": "ただの風邪ですから、薬を飲むまでもありません。",
+				"translations": [
+					"Its just a cold, so its not neccessary to take medicine"
+				]
+			},
+			{
+				"phrase": "いろいろな意味で、正直が最善の策であることは言うまでもない。",
+				"translations": [
+					"It goes without saying that honesty is the best policy in many ways."
+				]
+			},
+			{
+				"phrase": "お金がすべてではないのは言うまでもない。",
+				"translations": [
+					"It goes without saying that money is not everything."
+				]
+			},
+			{
+				"phrase": "お金よりも健康が大切なことは言うまでもない。",
+				"translations": [
+					"It goes without saying that health is above wealth."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1668"
+	},
+	{
+		"point": "うっかり",
+		"meaning": {
+			"meaning": "carelessly, without thinking",
+			"example": "make a careless mistake"
+		},
+		"phrases": [
+			{
+				"phrase": "うっかりミスをする",
+				"translations": [
+					"make a careless mistake"
+				]
+			},
+			{
+				"phrase": "うっかり間違いを犯した。",
+				"translations": [
+					"I made a careless mistake."
+				]
+			},
+			{
+				"phrase": "うっかり口を滑らせると思わぬ結果を招くことが多い。",
+				"translations": [
+					"A slip of the tongue often brings about unexpected results."
+				]
+			},
+			{
+				"phrase": "降りるところをうっかり通り越した。",
+				"translations": [
+					"I went past my stop absent-mindedly."
+				]
+			},
+			{
+				"phrase": "ついうっかりしてバスを乗り間違えた。",
+				"translations": [
+					"I got on a wrong bus by mistake."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "948"
+	},
+	{
+		"point": "ながらに",
+		"meaning": {
+			"meaning": "since (A) started, it has been continuously in the same state",
+			"example": "Use old things as they were originally used."
+		},
+		"phrases": [
+			{
+				"phrase": "すべての人は生まれながらに平等である。",
+				"translations": [
+					"All people are created equal by birth."
+				]
+			},
+			{
+				"phrase": "彼は生まれながらに知性と美に恵まれていた。",
+				"translations": [
+					"Nature endowed him with wit and beauty."
+				]
+			},
+			{
+				"phrase": "彼は生まれながらにして偉大な才能に恵まれていた。",
+				"translations": [
+					"He was endowed with great talents."
+				]
+			},
+			{
+				"phrase": "昔ながらのやり方。",
+				"translations": [
+					"In the traditional [unchanged of old] style."
+				]
+			},
+			{
+				"phrase": "古いものを昔ながらに使う。",
+				"translations": [
+					"Use old things as they were originally used."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1279"
+	},
+	{
+		"point": "ならでは",
+		"meaning": {
+			"meaning": "unless / impossible if it's not / only possible with/by/at/etc / very difficult by any other~,",
+			"example": "service you can expect only at this shop / cannot be done by anyone but him / impossible unless one is a student"
+		},
+		"phrases": [
+			{
+				"phrase": "こんな新しい発想はあのデザイナーならではのものです。",
+				"translations": [
+					"Such a new conception is something only that designer could think of."
+				]
+			},
+			{
+				"phrase": "こんな美味しい料理は母親ならではのものです。",
+				"translations": [
+					"no one but mother could have made such delicious food."
+				]
+			},
+			{
+				"phrase": "あの人ならではこのような文章を書けなかっただろう。",
+				"translations": [
+					"No one could have written such a prose as this one except him."
+				]
+			},
+			{
+				"phrase": "あの人ならではとてもこの仕事はできない。",
+				"translations": [
+					"Noone but he would be equal to this task."
+				]
+			},
+			{
+				"phrase": "その辞書ならではの特徴",
+				"translations": [
+					"characteristic of the dictionary"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1283"
+	},
+	{
+		"point": "とにかく",
+		"meaning": {
+			"meaning": "in any case, anyway",
+			"example": "anyway, you can't come"
+		},
+		"phrases": [
+			{
+				"phrase": "それはとにかくとして、この問題はどうするの。",
+				"translations": [
+					"Leaving that aside, how do you intend to deal with this problem?"
+				]
+			},
+			{
+				"phrase": "とにかく私に言えるのは",
+				"translations": [
+					"Anyway, all I can say is..."
+				]
+			},
+			{
+				"phrase": "とにかく頼むからちょっと聞いてよ",
+				"translations": [
+					"Anyway I'm asking you to just listen for a minute"
+				]
+			},
+			{
+				"phrase": "とにかくやってみないことには",
+				"translations": [
+					"Anyway, we won't know unless we try."
+				]
+			},
+			{
+				"phrase": "とにかく、きみは上京すべきだ。",
+				"translations": [
+					"In any case you should come up to Tokyo."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "905"
+	},
+	{
+		"point": "さながら",
+		"meaning": {
+			"meaning": "Just like",
+			"example": "Just like the real thing."
+		},
+		"phrases": [
+			{
+				"phrase": "夜のトイレを恐れる駄々っ子さながらの、言い訳にもならないセリフでお茶を濁した。",
+				"translations": [
+					"Just like a spoiled, selfish child, I avoided the main issue."
+				]
+			},
+			{
+				"phrase": "さまざまなトラブルを想定した本番さながらの訓練",
+				"translations": [
+					"The training session included a variety of mock situations and emergencies."
+				]
+			},
+			{
+				"phrase": "本場ニューヨークさながらのジャズナイト",
+				"translations": [
+					"A jazz night just like a genuine New York one."
+				]
+			},
+			{
+				"phrase": "石器時代さながらの着火方法",
+				"translations": [
+					"How to light a fire just like they did it in the stone age."
+				]
+			},
+			{
+				"phrase": "NYさながらのStylishな雰囲気",
+				"translations": [
+					"A stylish atmosphere like New York"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1529"
+	},
+	{
+		"point": "もさることながら (も然る事乍ら)",
+		"meaning": {
+			"meaning": "is (such) but (____) is also",
+			"example": "of course talent is important but practice cannot be neglected"
+		},
+		"phrases": [
+			{
+				"phrase": "アメリカではバスケもさることながらアメフトも人気だ",
+				"translations": [
+					"In America, Basketball is clearly popular but so is Football."
+				]
+			},
+			{
+				"phrase": "路上駐車の問題解決には、自治体の対応もさることながら、地域住民の態度も大切な要素となる。",
+				"translations": [
+					"In solving the problem of street-parking of cars the response of the council is obviously important but the attitude of the local residents is also a significant factor."
+				]
+			},
+			{
+				"phrase": "両親の意向もさることながら、子供自身が有名校にあこがれている。",
+				"translations": [
+					"Not only intention of the parents, the child himself has yearned to the famous school."
+				]
+			},
+			{
+				"phrase": "この図書館は蔵書の多さもさることながらサービスが実にすばらしい。",
+				"translations": [
+					"This library's large collection of books is one thing, but the services they provide are really wonderful."
+				]
+			},
+			{
+				"phrase": "高齢化が進むにつれ、認知症老人の介護が問題になっているが、これかれは、介護のこともさることながらぼけをいかに予防するかがさらに重要だ。",
+				"translations": [
+					"As the population has aged, the care of senile seniors has become a problem. It is true that from now on care will be an important issue, but the question of how to prevent people from becoming senile is more important."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1547"
+	},
+	{
+		"point": "とはいえ",
+		"meaning": {
+			"meaning": "Although it is said that, even though it is said, admitting that, that being said, however, nevertheless",
+			"example": "Even admitting that Jane didn't have much time, I don't believe that she couldn't write a simple report like this"
+		},
+		"phrases": [
+			{
+				"phrase": "便利とはいえパソコンは高いのでなかなか買えない。",
+				"translations": [
+					"They're useful... but having said that, computers are so expensive that I can't buy one."
+				]
+			},
+			{
+				"phrase": "８０才の祖母は、この間階段で転んで足を痛め、歩くのが不自由になってしまった。とはいえ、全く歩けないということではないので、家事をするには問題ないとのことだ。",
+				"translations": [
+					"Recently, my 80 year old grandmother fell on the stairs and hurt her leg, and now she has trouble walking. Having said that, it's not as if she cannot walk at all, in other words she can manage to do the housework without problems."
+				]
+			},
+			{
+				"phrase": "相手に言い分もわかったとはいえ、心から納得したわけではない",
+				"translations": [
+					"Admitting where he's coming from, I still can't really agree with him"
+				]
+			},
+			{
+				"phrase": "春になったとはいえ朝晩はまだ寒い。",
+				"translations": [
+					"They say that Spring has arrived but the mornings and evenings are still cold."
+				]
+			},
+			{
+				"phrase": "幼いとは言え、その子は自分の家庭の苦しい事情を理解している。",
+				"translations": [
+					"Even though the kid is young, nevertheless he understands the difficult circumstances of his family."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1636"
+	},
+	{
+		"point": "〜つ〜つ",
+		"meaning": {
+			"meaning": "Used to express passive and active actions happening at once.",
+			"example": "push and be pushed. go and come back, chase and be chased"
+		},
+		"phrases": [
+			{
+				"phrase": "ラシューアワーの車内で乗客は押しつ押されつしている",
+				"translations": [
+					"in a rush-hour train, the passengers push and are pushed"
+				]
+			},
+			{
+				"phrase": "彼が通りを行きつ戻りつしているのが見えた",
+				"translations": [
+					"I saw him walking up and down the street."
+				]
+			},
+			{
+				"phrase": "遠くに見えつ隠れつする富士山",
+				"translations": [
+					"Mt. Fuji appearing and disappearing in the distance"
+				]
+			},
+			{
+				"phrase": "彼と僕とは持ちつ持たれつだ",
+				"translations": [
+					"He and I manage to get along (somehow) by supporting each other."
+				]
+			},
+			{
+				"phrase": "A社とは長年の付き合いで、持ちつ持たれつの関係にある。",
+				"translations": [
+					"We have been working with A company for a long time, so we have a relationship based on give and take."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1749"
+	},
+	{
+		"point": "辛うじて",
+		"meaning": {
+			"meaning": "barely",
+			"example": "I barely made it to the train."
+		},
+		"readings": [
+			{
+				"reading": "かろうじて"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "走って行ったらかろうじて2時の電車に間に合いました",
+				"translations": [
+					"I ran and barely made the 2 O'Clock train"
+				]
+			},
+			{
+				"phrase": "かろうじて落第せずにすんだ",
+				"translations": [
+					"I just barely managed to avoid dropping out of class"
+				]
+			},
+			{
+				"phrase": "かろうじて付き合っている",
+				"translations": [
+					"They are just barely still together"
+				]
+			},
+			{
+				"phrase": "１１時までにかろうじてなんとかその手紙を書いた。",
+				"translations": [
+					"I barely managed to finish the letter by eleven o'clock."
+				]
+			},
+			{
+				"phrase": "かろうじて間に合いましたね。",
+				"translations": [
+					"You are only just in time."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "984"
+	},
+	{
+		"point": "〜であれ",
+		"meaning": {
+			"meaning": "No matter what; Even if; No matter how",
+			"example": "Even the company president has to obey the rules."
+		},
+		"phrases": [
+			{
+				"phrase": "社長であれ規則はまもらないといけない。",
+				"translations": [
+					"Even the company president has to obey the rules."
+				]
+			},
+			{
+				"phrase": "投票は海外に住んでいる人であれするべきだ。",
+				"translations": [
+					"Voting is something that you have to do, even if you live abroad."
+				]
+			},
+			{
+				"phrase": "あなたの職業がなんであれ、また、その職業にどんなに満足していても、何かほかの仕事を選べばよかったと思うときがあるものだ。",
+				"translations": [
+					"No matter what your profession, or how happy you may be in it, there are moments when you wish you had chosen some other career."
+				]
+			},
+			{
+				"phrase": "たとえ天候がどうであれ、私は行きます。",
+				"translations": [
+					"I will go, be the weather what it may."
+				]
+			},
+			{
+				"phrase": "ドアの所にいる人が誰であれ、待つように言ってください。",
+				"translations": [
+					"Whoever is at the door, please ask him to wait."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1245"
+	},
+	{
+		"point": "にもまして",
+		"meaning": {
+			"meaning": "above everything; more than before",
+			"example": "More than winning the match, i think we can be proud that we really gave it our all"
+		},
+		"phrases": [
+			{
+				"phrase": "トムはいまや以前にもまして勤勉に働いている。",
+				"translations": [
+					"Tom works more diligently now."
+				]
+			},
+			{
+				"phrase": "何ものにもまして私は健康になりたい。",
+				"translations": [
+					"Above all, I want to be healthy."
+				]
+			},
+			{
+				"phrase": "彼は以前にもまして勉強しようと決めたのです。",
+				"translations": [
+					"He decided to study harder."
+				]
+			},
+			{
+				"phrase": "彼は何物にもまして名誉を重んじる。",
+				"translations": [
+					"He values honor above anything else."
+				]
+			},
+			{
+				"phrase": "その花は色が美しいのにもまして、香りが素晴らしい。",
+				"translations": [
+					"This flower's color is wonderful. However, the scent is even more wonderful."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1299"
+	},
+	{
+		"point": "なしに",
+		"meaning": {
+			"meaning": "without (the thing \"without\" is s.t. that should naturally have been there)",
+			"example": "You cannot enter university without the proper forms"
+		},
+		"phrases": [
+			{
+				"phrase": "あなたのおもてなしにはどんなに感謝しても感謝しきれません。",
+				"translations": [
+					"Your hospitality cannot go unthanked."
+				]
+			},
+			{
+				"phrase": "この辞書なしには済まされない。",
+				"translations": [
+					"I can't do without this dictionary."
+				]
+			},
+			{
+				"phrase": "その取り決めは、予告なしに変ることがある。",
+				"translations": [
+					"The arrangements are subject to change without notice."
+				]
+			},
+			{
+				"phrase": "だれも努力なしには何事も成し遂げられない。",
+				"translations": [
+					"No one can achieve anything without effort."
+				]
+			},
+			{
+				"phrase": "なんの気なしに言っただけで、別に悪気があってのことではありません。",
+				"translations": [
+					"I just said so without thinking much about it. I didn't mean anything serious."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1319"
+	},
+	{
+		"point": "にひきかえ",
+		"meaning": {
+			"meaning": "in sharp contrast with; compared to",
+			"example": "The son, in stark contrast to his meticulous father, was slovenly."
+		},
+		"phrases": [
+			{
+				"phrase": "私の古い車にひきかえ彼のはとても早いです。",
+				"translations": [
+					"In contrast to  my old car, his is really fast."
+				]
+			},
+			{
+				"phrase": "去年はトマト50個収穫できたのよ。それにひきかえ今年は30個だけ。多分気候のせいね…",
+				"translations": [
+					"We harvested 50 tomatoes last year. In contrast, this year we harvested only 30. This may be due to the weather..."
+				]
+			},
+			{
+				"phrase": "同じ年の人にひきかえ彼はとても頭がいいです。",
+				"translations": [
+					"He is very intelligent in stark contrast to people of the same age"
+				]
+			},
+			{
+				"phrase": "几帳面な父にひきかえ息子はだらしなかった。",
+				"translations": [
+					"The son, in contrast to his meticulous father, was slovenly."
+				]
+			},
+			{
+				"phrase": "この大学は教育の質がとてもいいのにひきかえ、学内の設備が劣る（おとる）",
+				"translations": [
+					"While the quality of the education at this college is excellent, the quality of the campus facilities is inferior"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1333"
+	},
+	{
+		"point": "でなくては",
+		"meaning": {
+			"meaning": "if not.. then noone",
+			"example": "noone but him can do this"
+		},
+		"phrases": [
+			{
+				"phrase": "こんなおいしい料理は母親でなくては作れない。",
+				"translations": [
+					"Noone but mother could make this delicious food"
+				]
+			},
+			{
+				"phrase": "そうでなくては話にならない。",
+				"translations": [
+					"There is no point in discussing it unless that would be the case."
+				]
+			},
+			{
+				"phrase": "どんなにお金があっても健康でなくては人間は幸福に暮らせない。",
+				"translations": [
+					"No matter how rich one may be, one cannot live happily without health."
+				]
+			},
+			{
+				"phrase": "栗は少なくとも１５分は茹でなくてはいけない。",
+				"translations": [
+					"Chestnuts have to be boiled for at least fifteen minutes."
+				]
+			},
+			{
+				"phrase": "君たち学生は勤勉でなくてはならない。",
+				"translations": [
+					"You students are supposed to be diligent."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1484"
+	},
+	{
+		"point": "ばかりに",
+		"meaning": {
+			"meaning": "because (of a negative thing); simply because; simply on account of",
+			"example": "he was fired just for talking back"
+		},
+		"phrases": [
+			{
+				"phrase": "あの日たまたま休んでいたばかりに、大事な連絡を開きそびれた。",
+				"translations": [
+					"I missed a really important announcement just because I happened to be absent that day."
+				]
+			},
+			{
+				"phrase": "新車を買ったばかりにお金がありません。",
+				"translations": [
+					"I am broke because I bought a new car"
+				]
+			},
+			{
+				"phrase": "渡し船があることを知らなかったばかりに歩いて湖を半周してしまった。",
+				"translations": [
+					"Just because I did not know there was a ferry service, I ended up walking halfway around the lake."
+				]
+			},
+			{
+				"phrase": "ドイツ語の試験に落ちたばかりに、来月に卒業できない。",
+				"translations": [
+					"Just because I failed my German language exam, I cannot graduate next month."
+				]
+			},
+			{
+				"phrase": "うそをついたばかりに彼に嫌われた。",
+				"translations": [
+					"He hates me simply because I told a lie."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "835"
+	},
+	{
+		"point": "果たして",
+		"meaning": {
+			"meaning": "really, as was expected",
+			"example": "is it really true?"
+		},
+		"readings": [
+			{
+				"reading": "はたして"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "果たして本当だろうか？",
+				"translations": [
+					"Is it really true?"
+				]
+			},
+			{
+				"phrase": "果たしてまた会うことができるだろうか。",
+				"translations": [
+					"Would we ever meet again?"
+				]
+			},
+			{
+				"phrase": "彼は果たして成功した。",
+				"translations": [
+					"He succeeded as I had expected that he would."
+				]
+			},
+			{
+				"phrase": "あいつは果たして失敗した。",
+				"translations": [
+					"That guy failed, as I had expected that he would."
+				]
+			},
+			{
+				"phrase": "あなたの言う事が果たして事実なのか調べてみよう。",
+				"translations": [
+					"We will check to see what you have said is really the truth."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "961"
+	},
+	{
+		"point": "どんな",
+		"meaning": {
+			"meaning": "Whatever; whoever, etc.",
+			"example": "Whatever happened"
+		},
+		"phrases": [
+			{
+				"phrase": "どんなことがあっても",
+				"translations": [
+					"No matter what happens."
+				]
+			},
+			{
+				"phrase": "どんなことを言ったとしても.....",
+				"translations": [
+					"No matter whatever you said......"
+				]
+			},
+			{
+				"phrase": "どんな人も、入ることはできません",
+				"translations": [
+					"Noone whatsoever can enter."
+				]
+			},
+			{
+				"phrase": "どんな意見でも聞き入れるようにします。",
+				"translations": [
+					"We try to accept whatever opinion you may have."
+				]
+			},
+			{
+				"phrase": "どんな風に説明したの？",
+				"translations": [
+					"In what manner did you explain it?"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1095"
+	},
+	{
+		"point": "今ごろになって ~も",
+		"meaning": {
+			"meaning": "it's already too late",
+			"example": "It's too late to say you're sorry!"
+		},
+		"readings": [
+			{
+				"reading": "いまごろになって ~も"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "今ごろになってやめろと言われても遅い",
+				"translations": [
+					"Its too late to tell me to stop now!"
+				]
+			},
+			{
+				"phrase": "今頃になって（から）、切符を買うのは遅すぎる",
+				"translations": [
+					"Its too late to buy tickets now."
+				]
+			},
+			{
+				"phrase": "今ごろになって（から）、注文しても遅い",
+				"translations": [
+					"It's too late to order"
+				]
+			},
+			{
+				"phrase": "今ごろになって勝訴しても、亡くなった人は帰ってこない。",
+				"translations": [
+					"Even though we won the lawsuit, it's too late to bring the dead back."
+				]
+			},
+			{
+				"phrase": "明日出発なのに、今頃になってビザがないなんて。",
+				"translations": [
+					"You are leaving tomorrow, and I can't believe at this late point you still haven't gotten yourself a visa!"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1167"
+	},
+	{
+		"point": "あっての",
+		"meaning": {
+			"meaning": "Thanks to (various things), (outcome)",
+			"example": "My success is thanks to your support"
+		},
+		"phrases": [
+			{
+				"phrase": "今日の私があるのも、２０数年前に私を産んでくれた両親あっての事です。",
+				"translations": [
+					"What I am today is thanks to my parents who gave me a life twenty some years ago."
+				]
+			},
+			{
+				"phrase": "あなたの援助あっての私の成功。",
+				"translations": [
+					"My success is thanks to your support."
+				]
+			},
+			{
+				"phrase": "なんの気なしに言っただけで、別に悪気があってのことではありません。",
+				"translations": [
+					"I just said so without thinking much about it. I didn't mean anything serious."
+				]
+			},
+			{
+				"phrase": "事故で車は全損って嘆いているけどさ、怪我がなくてなにより、命あっての物種だよ。",
+				"translations": [
+					"I know you're complaining about your car being totaled but it's just a good thing you weren't injured. You should be thankful to be alive."
+				]
+			},
+			{
+				"phrase": "命あっての物種。",
+				"translations": [
+					"While there is life, there is hope."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1214"
+	},
+	{
+		"point": "と言わんばかりに",
+		"meaning": {
+			"meaning": "as if to say",
+			"example": "She winked at me, as if to say , I love you"
+		},
+		"readings": [
+			{
+				"reading": "といわんばかりに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "私がうそをついたと言わんばかりにののしった",
+				"translations": [
+					"He spoke ill of me as if to say I had lied about it."
+				]
+			},
+			{
+				"phrase": "「あなたを愛しているのよ」と言わんばかりに彼女は僕にウィンクした。",
+				"translations": [
+					"She winked at me, as much as to say , I love you."
+				]
+			},
+			{
+				"phrase": "これ以上の議論は無駄だと言わんばかりに、A国の代表は席を立った。",
+				"translations": [
+					"As if to say that further discussion is pointless, the representative from country A got up from his seat."
+				]
+			},
+			{
+				"phrase": "彼は同意すると言わんばかりにうなずいた。",
+				"translations": [
+					"He nodded as much as to say , I agree."
+				]
+			},
+			{
+				"phrase": "彼らは「かわいそうな奴」といわんばかりに私達をじっと見た。",
+				"translations": [
+					"They looked at us, as much as to say, \"Poor creature.\""
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1314"
+	},
+	{
+		"point": "〜にたえない",
+		"meaning": {
+			"meaning": "cannot stand; cannot do; no value to",
+			"example": "I can't stand listening to his karaoke"
+		},
+		"usages": [
+			"Verb dictionary form+にたえない"
+		],
+		"phrases": [
+			{
+				"phrase": "これは芸術作品どころか、見るにたえないほどのできだ。",
+				"translations": [
+					"This is far from being an artists work, its so bad its hard to look at"
+				]
+			},
+			{
+				"phrase": "聞くに耐えない歌いぶり",
+				"translations": [
+					"execrable singing"
+				]
+			},
+			{
+				"phrase": "最近のテレビには、見るにたえないほどひどい番組がある",
+				"translations": [
+					"TV of late, the programs are so terrible, I can't stand to watch them"
+				]
+			},
+			{
+				"phrase": "見るに耐えない",
+				"translations": [
+					"butt-ugly"
+				]
+			},
+			{
+				"phrase": "言うに耐えない",
+				"translations": [
+					"unspeakable"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1330"
+	},
+	{
+		"point": "ひとり〜だけでなく, ひとり〜のみならず",
+		"meaning": {
+			"meaning": "not only (A) but also (B)",
+			"example": "The trend in declining birth rates is not just Japan, but is similarly seen in other countries too."
+		},
+		"phrases": [
+			{
+				"phrase": "最近のロンドン爆破テロは、ひとりイギリスだけではなく世界の問題です。",
+				"translations": [
+					"The recent terrorism in London is not only  England's problem, it involves the whole world."
+				]
+			},
+			{
+				"phrase": "いじめや不登校問題は、ひとり教育の現場だけでなく大きな社会問題となっております。",
+				"translations": [
+					"Bullying and non-attendance is not only becoming [an issue] in the field of education but also a major social problem."
+				]
+			},
+			{
+				"phrase": "義務兵役制度はひとり台湾、ドイツだけでなくデンマーク、オーストリアなど全世界20カ 国で長い歴史を持っています。",
+				"translations": [
+					"Compulsory military services have a long history and are being implemented not only in Taiwan and Germany, but in 20 countries around the world including Denmark and Austria."
+				]
+			},
+			{
+				"phrase": "失業はひとり本人の問題だけでなく、家族にも心配をかける。",
+				"translations": [
+					"Unemployment is not just a problem for the person herself, it's a cause for worry for the whole family."
+				]
+			},
+			{
+				"phrase": "公共の場所でタバコを吸うのはひとり本人に有害であるだけでなく、周囲の人にとっても迷惑なものである。",
+				"translations": [
+					"Smoking tobacco in a public place is not just harmful to the person themself, it's a nuisance for people in the surrounding area."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1341"
+	},
+	{
+		"point": "の極み",
+		"meaning": {
+			"meaning": "the utmost",
+			"example": "height of luxury"
+		},
+		"readings": [
+			{
+				"reading": "のきわみ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "遺憾の極みである",
+				"translations": [
+					"be most regrettable"
+				]
+			},
+			{
+				"phrase": "光栄の極みである",
+				"translations": [
+					"be extremely honored"
+				]
+			},
+			{
+				"phrase": "混乱の極みである",
+				"translations": [
+					"feel quite confused"
+				]
+			},
+			{
+				"phrase": "混乱の極みにある理由を説明する",
+				"translations": [
+					"explain why is feeling so churned up"
+				]
+			},
+			{
+				"phrase": "興奮の極みに",
+				"translations": [
+					"at the height of excitement"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1495"
+	},
+	{
+		"point": "〜尽くめ",
+		"meaning": {
+			"meaning": "Full of / A lot of",
+			"example": "The meeting was full of good ideas."
+		},
+		"readings": [
+			{
+				"reading": "〜ずくめ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "その学校は規則ずくめだ。",
+				"translations": [
+					"That school is full of rules."
+				]
+			},
+			{
+				"phrase": "幸せずくめに見えた彼女にも人知れぬ悩みがあったんだね。",
+				"translations": [
+					"Even the girl that seemed full of happiness had hidden worries."
+				]
+			},
+			{
+				"phrase": "彼は全身黒ずくめだった。",
+				"translations": [
+					"He was wearing all black."
+				]
+			},
+			{
+				"phrase": "日本語能力試験の一級も無事合格したし、今年はいいことずくめだった。",
+				"translations": [
+					"I managed to pass JLPT level 1 with no problems, this year was full of so many good things."
+				]
+			},
+			{
+				"phrase": "結構ずくめめな話である",
+				"translations": [
+					"Everything about it sounds fine. / That's [That sounds] perfect."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1513"
+	},
+	{
+		"point": "ものを",
+		"meaning": {
+			"meaning": "But...! / But If (you) had just... / But (I) could have...",
+			"example": "But if you had just asked, I would have given it to you."
+		},
+		"usages": [
+			"Verb casual form+ものを"
+		],
+		"phrases": [
+			{
+				"phrase": "知ってるのであれば、教えてくれてもいいものを。",
+				"translations": [
+					"If you knew, why didn't you tell me!?"
+				]
+			},
+			{
+				"phrase": "人手が足りなかったんですって？ちょっと連絡してくれれば、手伝ってあげたものを。",
+				"translations": [
+					"You didn't have enough people? If you had just called me, I would have helped you."
+				]
+			},
+			{
+				"phrase": "インターネットで予約すれば簡単にすむものを、彼女は国際電話をかけたんだって。",
+				"translations": [
+					"If she had just used the internet, she could have easily made the reservation, but she made an international call."
+				]
+			},
+			{
+				"phrase": "本当のことを言えばいいものを、彼は嘘をついて信用を失ってしまった。",
+				"translations": [
+					"He should have told the truth, but he lied and lost their trust."
+				]
+			},
+			{
+				"phrase": "すぐ医者に診（み）てもらったら簡単に治っていた​ものを。手遅れになってしまった。",
+				"translations": [
+					"If I'd only gone to the doctor right away, I would have gotten better without any trouble. I acted too late."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1524"
+	},
+	{
+		"point": "まさかの〜",
+		"meaning": {
+			"meaning": "If unexpectedly there is anything , 〜",
+			"example": "If there is anything unexpected, please call here."
+		},
+		"phrases": [
+			{
+				"phrase": "まさかの場合、ここに電話してください。",
+				"translations": [
+					"If there is anything unexpected/For the unexpected , please contact to this place."
+				]
+			},
+			{
+				"phrase": "まさかの時、すぐお知らせ下さい。",
+				"translations": [
+					"If there is anything(unexpected) ,please let me know at once."
+				]
+			},
+			{
+				"phrase": "まさかのときには貯蓄に頼ればよい。",
+				"translations": [
+					"In an emergency you can fall back on your savings."
+				]
+			},
+			{
+				"phrase": "まさかのときに備えて貯蓄せよ。",
+				"translations": [
+					"Keep something for a rainy day."
+				]
+			},
+			{
+				"phrase": "まさかのときの友こそ真の友。",
+				"translations": [
+					"Friend in need is a friend indeed."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1557"
+	},
+	{
+		"point": "さすが (流石)",
+		"meaning": {
+			"meaning": "as expected, after all",
+			"example": "he won. After all, he is a fast runner"
+		},
+		"phrases": [
+			{
+				"phrase": "さすが、彼は期待を裏切らないね。",
+				"translations": [
+					"That's just what one would expect of him."
+				]
+			},
+			{
+				"phrase": "さすがだね。君ならやってくれると思っていたよ。",
+				"translations": [
+					"Excellent! It's just like you to come through like that."
+				]
+			},
+			{
+				"phrase": "さすがに偉大な学者だけあって、彼はその問いに容易に答えた。",
+				"translations": [
+					"Like the great scholar that he was, he answered the question easily."
+				]
+			},
+			{
+				"phrase": "年の功と言うのか、彼の意見はさすがに一日の長があるね。",
+				"translations": [
+					"Maybe it's his age but his opinions seem a little more grounded in experience than everyone else's."
+				]
+			},
+			{
+				"phrase": "彼はさすがに大学へ行っただけのことはある。",
+				"translations": [
+					"He did not go to college for nothing."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "944"
+	},
+	{
+		"point": "いかなる〜でも (如何なる〜でも)",
+		"meaning": {
+			"meaning": "whatever ~",
+			"example": "whatever your conclusion, I will accept it."
+		},
+		"phrases": [
+			{
+				"phrase": "いかなる意見でも、必ず聞き入れます。",
+				"translations": [
+					"whatever your opinion is, i'll accept it"
+				]
+			},
+			{
+				"phrase": "いかなる人でも入ることはできません。",
+				"translations": [
+					"Whoever you might be, you can't come in."
+				]
+			},
+			{
+				"phrase": "いかなる状況でも部屋を離れてはならない。",
+				"translations": [
+					"Under no circumstances must you leave the room."
+				]
+			},
+			{
+				"phrase": "いかなる状況のもとでも、王女が王位を継承することはあるまい。",
+				"translations": [
+					"Under no circumstances will the princess succeed to the throne."
+				]
+			},
+			{
+				"phrase": "いつ、いかなる時でも。",
+				"translations": [
+					"Whenever, wherever I am."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1096"
+	},
+	{
+		"point": "〜が最後",
+		"meaning": {
+			"meaning": "If s.o. does s.t for even a moment, the following result will necessarily occur • Once someone starts something, the person can’t stop it",
+			"example": "If the boss even touches the mic for a second, he won't let anyone else sing karaoke ALL night"
+		},
+		"readings": [
+			{
+				"reading": "〜がさいご"
+			}
+		],
+		"usages": [
+			"Verb plain past ~た form+が最後"
+		],
+		"phrases": [
+			{
+				"phrase": "食べ出したが最後、おいしくて止められなかった",
+				"translations": [
+					"It was so delicious that once I started eating, I couldn’t stop."
+				]
+			},
+			{
+				"phrase": "見つかったが最後、真珠は取上げられてしまいますぞ。",
+				"translations": [
+					"Whoever finds us will take the pearl. [M]"
+				]
+			},
+			{
+				"phrase": "入ったが最後、二度と出てこられなくなるトイレ",
+				"translations": [
+					"Such a restroom that once you  enter in it, you wont ever want to come out."
+				]
+			},
+			{
+				"phrase": "あいつはマイクを握ったが最後、離そうとしないカラオケ狂だ。",
+				"translations": [
+					"He is such karaoke fan that if only he gets his hands on the mike he wouldn’t drop it all night."
+				]
+			},
+			{
+				"phrase": "冒頭の一文がいい。「これからする話を聞いてほしいんだ。」素直に耳を傾け始めたが最後、そのまま止まらなくなること必定である。",
+				"translations": [
+					"The opening sentence is good. \"I want you to listen to the following story\". If you just obediently lean in your ears, it's certain that you won't be able to stop (reading). (Nikkei book review)"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1241"
+	},
+	{
+		"point": "まみれ　(塗れ）",
+		"meaning": {
+			"meaning": "covered in st (名詞＋に＋まみれる); (名詞＋まみれ)",
+			"example": "covered in sauce：　ソースまみれ、ソースにまみれる"
+		},
+		"readings": [
+			{
+				"reading": "まにれ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "その子供たちは全身ほこりまみれだった",
+				"translations": [
+					"The children were covered with dirt from head to foot"
+				]
+			},
+			{
+				"phrase": "彼は全身泥まみれだった。",
+				"translations": [
+					"He was covered with mud from head to foot."
+				]
+			},
+			{
+				"phrase": "そのナイフは血にまみれていた。",
+				"translations": [
+					"The knife was covered in blood."
+				]
+			},
+			{
+				"phrase": "彼の額は汗まみれだった。",
+				"translations": [
+					"Sweat bathed his forehead."
+				]
+			},
+			{
+				"phrase": "インドにお互いを色でまみれる祭がある。",
+				"translations": [
+					"There is a festival of coloring each other in India."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1252"
+	},
+	{
+		"point": "なくして",
+		"meaning": {
+			"meaning": "If it wasn't for...",
+			"example": "If it wasn't for love..."
+		},
+		"phrases": [
+			{
+				"phrase": "愛なくして、結婚生活は続けられない。",
+				"translations": [
+					"If it wasn't for love, marriage would not succeed."
+				]
+			},
+			{
+				"phrase": "民主主義なくしては達成できない。",
+				"translations": [
+					"If it wasn't for democracy, it would be unattainable."
+				]
+			},
+			{
+				"phrase": "苦労なくしてもうけなし。",
+				"translations": [
+					"No gain without pains."
+				]
+			},
+			{
+				"phrase": "私の許可なくして、君はそんなことをすべきではなかったのだが。",
+				"translations": [
+					"You should not have done it without my permission."
+				]
+			},
+			{
+				"phrase": "忍耐なくしては、誰も成功することはできない。",
+				"translations": [
+					"Nobody is able to succeed without endurance."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1281"
+	},
+	{
+		"point": "〜をおいて (を措いて)",
+		"meaning": {
+			"meaning": "apart from/leaving aside",
+			"example": "apart from you"
+		},
+		"phrases": [
+			{
+				"phrase": "あなたをおいて、この会社の社長の適任者はいない",
+				"translations": [
+					"Apart from you, there is noone suitable for this company's President."
+				]
+			},
+			{
+				"phrase": "日本のミサから:「主よ、あなたは神の子キリスト、永遠の命の糧。あなたをおいて誰のところに行きましょう。」",
+				"translations": [
+					"From the Japanese Mass: \"Lord, you are Christ, the Son of God, Bread of eternal life. Without you, to whom should we go?\""
+				]
+			},
+			{
+				"phrase": "最近は職場だけでなく家庭においてもパソコンが使われている",
+				"translations": [
+					"The personal computer is used at not only the office but also at home recently."
+				]
+			},
+			{
+				"phrase": "まさか僕をおいてきぼりにするんじゃありますまいね。",
+				"translations": [
+					"You are not going to leave me behind."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1491"
+	},
+	{
+		"point": "たりとも",
+		"meaning": {
+			"meaning": "Even only / Even merely / Even just",
+			"example": "Don't waste even just one cent!"
+		},
+		"phrases": [
+			{
+				"phrase": "ご飯の一粒たりとも無駄にするな！",
+				"translations": [
+					"Don't you dare waste even one grain of rice!"
+				]
+			},
+			{
+				"phrase": "こんなテレビゲームをやる時、一瞬たりとも気を抜くことが出来ない。",
+				"translations": [
+					"With this type of video game, you can't afford to lose your concentration for even just a second."
+				]
+			},
+			{
+				"phrase": "１センチたりとも進まない。",
+				"translations": [
+					"Not progress even a centimeter."
+				]
+			},
+			{
+				"phrase": "一分たりとも無駄に出来ないぞ。",
+				"translations": [
+					"(We) don't have a minute to waste!"
+				]
+			},
+			{
+				"phrase": "試合の最中は、一瞬たりとも油断はできない。",
+				"translations": [
+					"We can't afford even a moment of carelessness during the game."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1514"
+	},
+	{
+		"point": "なり",
+		"meaning": {
+			"meaning": "As soon as",
+			"example": "As soon as the door opened, 8 people burst out of the car."
+		},
+		"phrases": [
+			{
+				"phrase": "彼は帰ってくるなり食事もせずに寝てしまいました。",
+				"translations": [
+					"As soon as he got home, he went to bed without eating."
+				]
+			},
+			{
+				"phrase": "彼はドアを開けるなり、靴をはいたまま部屋に入ってきた。",
+				"translations": [
+					"As soon as he opened the door, he walked in still wearing his shoes."
+				]
+			},
+			{
+				"phrase": "パーティー会場に入るなり、サムは食べ物めがけて突進した。",
+				"translations": [
+					"As soon as he got to the party, Sam made a bee line for the food."
+				]
+			},
+			{
+				"phrase": "ファンは、有名人と出くわすなり、彼にサインを求めた。",
+				"translations": [
+					"On encountering the celebrity, the fans asked for his autogaph."
+				]
+			},
+			{
+				"phrase": "教室に入るなり、先生は突然怒ったような口調で話しはじめた。",
+				"translations": [
+					"On entering the classroom, our teacher burst into angry speech."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1526"
+	},
+	{
+		"point": "こととて",
+		"meaning": {
+			"meaning": "because/since - explains the cause or gives a reason for",
+			"example": "Since it was early morning, there wasn't even a dog around."
+		},
+		"usages": [
+			"Verb -ない stem+ぬ+こととて",
+			"Noun+の+こととて"
+		],
+		"phrases": [
+			{
+				"phrase": "何も知らぬこととて、間違いをしてしまいました。",
+				"translations": [
+					"Since I did not know anything, I ended up making mistake. . ."
+				]
+			},
+			{
+				"phrase": "店が狭いこととて、お客様には窮屈な思いをさせて申し訳ございません",
+				"translations": [
+					"We deeply regret making our valued customers feel squeezed due to the narrowness of the shop."
+				]
+			},
+			{
+				"phrase": "何も知らぬこととて、失礼を致しました。",
+				"translations": [
+					"I'm so sorry for my rudeness owing to my ignorance."
+				]
+			},
+			{
+				"phrase": "引っ越ししてきたばかりで、辺りの様子も分からないこととて、どうぞ宜しくおねがいいたします。",
+				"translations": [
+					"We hope you can favour us since we have only just moved and we know nothing of the local conditions."
+				]
+			},
+			{
+				"phrase": "今回の転勤は急なこととて、ゆっくりに挨拶にも伺えませんでした。",
+				"translations": [
+					"I could not stop by to say hello because the current change of job was so hurried."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1647"
+	},
+	{
+		"point": "〜であれ〜であれ",
+		"meaning": {
+			"meaning": "Whether X or Y; A structure that means \"no matter which one is the case\"",
+			"example": "No matter if one is famous or nameless, life is short."
+		},
+		"phrases": [
+			{
+				"phrase": "男性であれ、女性であれ、人間としての権利は同じはずだ。",
+				"translations": [
+					"Whether one is a man or a woman, one's rights as a human being should be the same."
+				]
+			},
+			{
+				"phrase": "有名であれ、無名であれ、人生は短い。",
+				"translations": [
+					"No matter if one is famous or nameless, life is short."
+				]
+			},
+			{
+				"phrase": "注射であれ飲み薬であれ、良く効く薬はかえって副作用が心配だ",
+				"translations": [
+					"Whether it's an injection or oral medecine, I worry that drugs that work well will have adverse side-effects."
+				]
+			},
+			{
+				"phrase": "父は菓子であれ、果物であれ、甘い者は一切口にしない。",
+				"translations": [
+					"My father won't eat any anything sweet, whether it be sweets or fruit."
+				]
+			},
+			{
+				"phrase": "正社員であれ、パートであれ、仕事に対する責任は変わりません。",
+				"translations": [
+					"Whether a full time employee or a part-timer, your duty to your job is the same."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1750"
+	},
+	{
+		"point": "〜なり〜なり",
+		"meaning": {
+			"meaning": "either.... or....",
+			"example": "Either you must come here or I must go there."
+		},
+		"phrases": [
+			{
+				"phrase": "ジュースなりコーラなり、お好きなものをどうぞ",
+				"translations": [
+					"juice.. cola.. have whatever you like"
+				]
+			},
+			{
+				"phrase": "君が来るなり，僕が行くなりしなくてはならない",
+				"translations": [
+					"Either you must come here or I must go there."
+				]
+			},
+			{
+				"phrase": "勉強ばかりしていいないで、たまには外に遊びに行くなりスポーツをするなりして、気分転換をしたらどうですか。",
+				"translations": [
+					"Instead of studying all the time, once in a while why don't you go outside and play or play sports and do something for a change of pace sometimes?"
+				]
+			},
+			{
+				"phrase": "風邪を引いたのなら、薬を飲むなり何なりすればよかったのに",
+				"translations": [
+					"If you caught a cold, it would have been better if you'd taken some medicine or done something (instead of doing nothing)"
+				]
+			},
+			{
+				"phrase": "うろうろ探しまわらないで、交番で聞くなりすれば良かったのに",
+				"translations": [
+					"It would have been better if you'd gone and asked the police or something instead of lingering around searching for it."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1752"
+	},
+	{
+		"point": "みせる",
+		"meaning": {
+			"meaning": "am determined to",
+			"example": "I will definitely become President"
+		},
+		"phrases": [
+			{
+				"phrase": "今年こそは修士論文を書き上げてみせる。",
+				"translations": [
+					"This very year or never, I'm going to finish my MA thesis, if you will."
+				]
+			},
+			{
+				"phrase": "読んでみせる",
+				"translations": [
+					"I'm going to read it, if you will."
+				]
+			},
+			{
+				"phrase": "どんな手を使ってでも勝ちとってみせる。",
+				"translations": [
+					"I win by all means."
+				]
+			},
+			{
+				"phrase": "私はどんな困難にも耐えてみせる。",
+				"translations": [
+					"I'm sure I can overcome any difficulty."
+				]
+			},
+			{
+				"phrase": "石にかじりついても成功してみせる。",
+				"translations": [
+					"I will succeed at any cost."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "533"
+	},
+	{
+		"point": "今さら〜たところで",
+		"meaning": {
+			"meaning": "it's already too late, It's no use doing s.t. now",
+			"example": "It's too late to explain why."
+		},
+		"readings": [
+			{
+				"reading": "いまさら〜たところで"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "今さら説明したところで先生は許してくれないと思う。",
+				"translations": [
+					"It's too late to explain, I don't think the teacher will forgive you now."
+				]
+			},
+			{
+				"phrase": "今さら騒いだところで、どうにもならないよ。後の祭りだよ。",
+				"translations": [
+					"Yelling about it won't help now . You should have done that when it counted."
+				]
+			},
+			{
+				"phrase": "今さら、戻ったところで、彼はもうおまえを愛しないようになった。",
+				"translations": [
+					"It’s too late to come back, he no longer loves you."
+				]
+			},
+			{
+				"phrase": "この問題をいまさら議論したところで無意味でしょう",
+				"translations": [
+					"To discuss the issue at this late stage would be meaningless."
+				]
+			},
+			{
+				"phrase": "子供時代に過ごした村を訪ねたいと思っていますが、いまさら行ったところで、古いものは何も残していないでしょうね。",
+				"translations": [
+					"I'd like to visit the village where I spent my childhood, but even if I went there now after so long, I guess nothing of the old times would still be there."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1089"
+	},
+	{
+		"point": "頂く",
+		"meaning": {
+			"meaning": "to receive (polite)",
+			"example": "the mail I received today"
+		},
+		"readings": [
+			{
+				"reading": "いただく"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "社長は手紙をDCから弁護士に送って貰いたいのでしょうか？",
+				"translations": [
+					"Would the President like DC to send the letter to the lawyer?"
+				]
+			},
+			{
+				"phrase": "今日頂いたメールに基づいて、、",
+				"translations": [
+					"based on the email I received today..."
+				]
+			},
+			{
+				"phrase": "頂きます",
+				"translations": [
+					"For what we are about to receive (said before eating a meal, like \"grace\" in the west)"
+				]
+			},
+			{
+				"phrase": "あなたの許可を頂くべきだったでしょうか。",
+				"translations": [
+					"Should I have asked your permission?"
+				]
+			},
+			{
+				"phrase": "お返事をお待ちしております。またお返事をいただくことにより、私どもはより効率よく会議の準備をすることができます。",
+				"translations": [
+					"Your response is greatly appreciated and will enable us to prepare more efficiently."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1141"
+	},
+	{
+		"point": "〜べく",
+		"meaning": {
+			"meaning": "For the purpose of; To ____, In order to",
+			"example": "I studied hard in order to become an engineer."
+		},
+		"phrases": [
+			{
+				"phrase": "エンジニアになるべく一生懸命勉強した",
+				"translations": [
+					"I studied hard in order to become an engineer."
+				]
+			},
+			{
+				"phrase": "このお支払いの問題が解決できるよう、ご指摘の件を改善すべく努力いたします。",
+				"translations": [
+					"We will make great efforts in order to remedy the problem you indicated, so that we can solve this payment problem."
+				]
+			},
+			{
+				"phrase": "彼らは男を逮捕すべく追いかけた。",
+				"translations": [
+					"They chased the man to arrest him."
+				]
+			},
+			{
+				"phrase": "恩師に会うべく、久しぶりに母校を訪れた",
+				"translations": [
+					"For the first time in ages, I went back to my old school in order to see my old teacher."
+				]
+			},
+			{
+				"phrase": "本学は、経済的な理由で大学教育を受けられない海外の優秀な学生にその機会を与えるべく、 奨学金を供与している。",
+				"translations": [
+					"We provide scholarships to give educational opportunities to excellent students from overseas who cannot go on to higher education for financial reasons."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1243"
+	},
+	{
+		"point": "に至って",
+		"meaning": {
+			"meaning": "Once [things have] reached the point at which...; (Only) now that it has come to this...",
+			"example": "Expresses that it is already late in the game. // in an extreme instance //at this moment [point] (in time)"
+		},
+		"readings": [
+			{
+				"reading": "にいたって"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "破産しそうで破産に至っていない人",
+				"translations": [
+					"someone who is on the verge of bankruptcy but hasn't been through bankruptcy"
+				]
+			},
+			{
+				"phrase": "学生達も受験を目前にするに至って、やっとやる気になった。",
+				"translations": [
+					"When the university students reached the stage of their exams, they finally got motivation."
+				]
+			},
+			{
+				"phrase": "いじめによる自殺が社会問題化するに至って、やっと文部省は重い腰を上げた。",
+				"translations": [
+					"Suicide due to bullying has reached the level of being one of society’s problems. Therefore, finally the ministry of education has decided to act."
+				]
+			},
+			{
+				"phrase": "大地震で何千人もの死傷者を出すに至って、やっと危機管理の重要性が叫ばれるようになった。",
+				"translations": [
+					"It took thousands of earthquake casualties before the importance of crisis management could finally be called for."
+				]
+			},
+			{
+				"phrase": "腹心の部下が辞めてしまうに至って、社長は自分の非に気づいた。",
+				"translations": [
+					"It took his closest confident resigning before the company president awoke to his own fault."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1288"
+	},
+	{
+		"point": "〜の至り",
+		"meaning": {
+			"meaning": "completely; utmost",
+			"example": "the utmost joy"
+		},
+		"readings": [
+			{
+				"reading": "〜のいたり"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "赤面の至りだ。",
+				"translations": [
+					"I was completely embarassed."
+				]
+			},
+			{
+				"phrase": "若気の至りで",
+				"translations": [
+					"in the folly of youth"
+				]
+			},
+			{
+				"phrase": "喜びの至り",
+				"translations": [
+					"utmost joy"
+				]
+			},
+			{
+				"phrase": "冥加の至り",
+				"translations": [
+					"great blessing"
+				]
+			},
+			{
+				"phrase": "憧れの女優に握手してもらって、もう感激の至りだ。",
+				"translations": [
+					"I shook the hand of my favourite actress. I was completely overwhelmed."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1336"
+	},
+	{
+		"point": "〜それまでだ",
+		"meaning": {
+			"meaning": "Conveys the idea that if something occurs, then a bad end is reached.",
+			"example": "If you tell your girlfriend that her cooking sucks, you're screwed."
+		},
+		"phrases": [
+			{
+				"phrase": "今までどんなに頑張ったには関係なく、あきらめたらそれまでだ。",
+				"translations": [
+					"It doesn't matter how hard you've tried up this point. If you quit, it's all over."
+				]
+			},
+			{
+				"phrase": "君がいやだと言えばそれまでだ。",
+				"translations": [
+					"If you say no, there is an end of the matter."
+				]
+			},
+			{
+				"phrase": "大審院で有罪になればそれまでだ。",
+				"translations": [
+					"If the prisoner is found guilty in the Supreme Court, the decision is without appeal."
+				]
+			},
+			{
+				"phrase": "カンニングして問題を解いても、先生に見つかってしまったらそれまでだ。",
+				"translations": [
+					"Even if you cheated and solved the problem, if you were caught by a teacher, it ends."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1340"
+	},
+	{
+		"point": "〜べからざる",
+		"meaning": {
+			"meaning": "must not; cannot"
+		},
+		"phrases": [
+			{
+				"phrase": "成人指定映画は青少年の見るべからざるものだ。",
+				"translations": [
+					"Movies for adults must not be watched by young people."
+				]
+			},
+			{
+				"phrase": "許すべからざる行為。",
+				"translations": [
+					"An act that cannot be forgiven."
+				]
+			},
+			{
+				"phrase": "これは将に無視すべからざる犯罪ではないでしょうか。",
+				"translations": [
+					"Is it not true that this is certainly a crime that cannot be ignored?"
+				]
+			},
+			{
+				"phrase": "今日の社会では、パソコンは欠くべからざるものとなっている。",
+				"translations": [
+					"In today's society, computers are becoming something you can't do without."
+				]
+			},
+			{
+				"phrase": "この荷物には「危険！触るべからず」と書いてある",
+				"translations": [
+					"On this luggage, it is written/stated that 「Danger! Do not touch」"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1343"
+	},
+	{
+		"point": "を禁じ得無い",
+		"meaning": {
+			"meaning": "can't help feeling",
+			"example": "I can't help feeling sorry for them"
+		},
+		"readings": [
+			{
+				"reading": "をきんじえない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "孤児には同情をきんじえない。",
+				"translations": [
+					"I can’t help feeling sorry for the orphans."
+				]
+			},
+			{
+				"phrase": "同情を禁じえない",
+				"translations": [
+					"cant help feeling sorry for"
+				]
+			},
+			{
+				"phrase": "彼の愚かな振る舞いに怒りを禁じえなかった。",
+				"translations": [
+					"I could not control my anger at his silly behaviour."
+				]
+			},
+			{
+				"phrase": "不安を禁じえない。",
+				"translations": [
+					"I can't help but be worried."
+				]
+			},
+			{
+				"phrase": "彼は彼女に驚きを禁じえなかった。",
+				"translations": [
+					"He couldn't help but surprise her."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1358"
+	},
+	{
+		"point": "〜に越したことは無いが",
+		"meaning": {
+			"meaning": "Normally Its better to (You can never have too much)",
+			"example": "(As used by my Tennis Club Chairman) It would be better if the weather was nice"
+		},
+		"readings": [
+			{
+				"reading": "〜にこしたことはないが"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "用心に越したことはないんですが．．",
+				"translations": [
+					"You can never be too careful"
+				]
+			},
+			{
+				"phrase": "この仕事は経験がなくてもかまわないが、もちろんあるに越したことは無い。",
+				"translations": [
+					"This job doesn't require experience but it would probably be an advantage."
+				]
+			},
+			{
+				"phrase": "明日、雨が降らないと言っても、傘を持つに越したことは無い。",
+				"translations": [
+					"Even though they said it won't rain tomorrow, better to have your umbrella with you just in case."
+				]
+			},
+			{
+				"phrase": "病気の時は寝るに越したことはない。",
+				"translations": [
+					"When you are sick, sleeping is the best thing to do."
+				]
+			},
+			{
+				"phrase": "日本語が話せるようになりたかったら、日本へ行くに越したことはないと思うけれど、まずアメリカでちゃんと勉強してから行った方がいいと思います。",
+				"translations": [
+					"If you want to become proficient in Japanese, the best thing is to go to Japan, but I think you should first study properly [i.e. the basics] in America."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1618"
+	},
+	{
+		"point": "と思いきや",
+		"meaning": {
+			"meaning": "\"thought so, but\" OR, \"would have thought so/imagined, but didn't\"",
+			"example": "I thought this restaurant would be cheap but (surprisingly) the bill was over 5,000 yen."
+		},
+		"readings": [
+			{
+				"reading": "とおもいきや"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "昼間だから絶対込んでいると思いきや、一人もいなかった。",
+				"translations": [
+					"Despite having thought that it must be crowded since it was afternoon, (surprisingly) not a single person was there"
+				]
+			},
+			{
+				"phrase": "このレストランは安いと思いきや、会計は5千円以上だった！",
+				"translations": [
+					"I thought this restaurant would be cheap but (surprisingly) the bill was over 5,000 yen!"
+				]
+			},
+			{
+				"phrase": "雪国で育った彼のことだから、さぞかしスキーがうまいだろうと思いきや、滑っては転び、滑っては転びの繰り返しだった",
+				"translations": [
+					"For someone brought up in a snowy country, you'd think he'd be great at skiing, but he just slips and falls, slips and falls."
+				]
+			},
+			{
+				"phrase": "老後は退職金の蓄えで安泰だと思いきや、インフレで預金が目減りしてしまった。",
+				"translations": [
+					"In my remaining years I thought I could live in peace and security from the stores of my retirement savings, but to my surprise , inflation has diminished the value of my savings."
+				]
+			},
+			{
+				"phrase": "A チームの勝利で試合終了かと思いきや、最後に大逆転が起こった。",
+				"translations": [
+					"I thought that maybe the tournament would end with a win for team A, but surprisingly, it ended in a huge turn in the opposite direction."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1692"
+	},
+	{
+		"point": "~としたところで, ~としたって, ~にしたところで",
+		"meaning": {
+			"meaning": "even if, though",
+			"example": "Even if all the members participated, there'd still only be about 20 persons"
+		},
+		"phrases": [
+			{
+				"phrase": "全員が参加するとしたところで、せいぜい２０人位だ.",
+				"translations": [
+					"Even if all the members participated, there'd still only be about 20 persons"
+				]
+			},
+			{
+				"phrase": "彼は日本語を20年も勉強しているが、その彼にしたところで、まだ分からない文法に時々出くわすそうだ。",
+				"translations": [
+					"He has studied Japanese for 20 years, but he told me that even he enccounters grammar he doesn't understand."
+				]
+			},
+			{
+				"phrase": "三島由紀夫は産湯に浸かった記憶があると書いているが、彼にしたところで、死ぬまでのすべての記憶がある訳ではない。",
+				"translations": [
+					"Yukio Mishima wrote that he remembered taking his first bath as a baby, but there's no way even he remembered everything he did from birth until death."
+				]
+			},
+			{
+				"phrase": "彼がどんなに歌が得意としたって、素人の域を出ていないよ。",
+				"translations": [
+					"However good his singing is, the fact is he hasn't left the realms of an amateur."
+				]
+			},
+			{
+				"phrase": "わたしにしたって、その問題については、どうしたりいかわからにんです。",
+				"translations": [
+					"Even I don't know what the right thing to do is when it comes to that problem"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1693"
+	},
+	{
+		"point": "未だに",
+		"meaning": {
+			"meaning": "Still, yet",
+			"example": "The old man still cherishes his old pen."
+		},
+		"readings": [
+			{
+				"reading": "いまだに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "御爺さんは未だに古いペンを愛用している。",
+				"translations": [
+					"The old man still cherishes his old pen."
+				]
+			},
+			{
+				"phrase": "彼女は未だに帰宅していない。",
+				"translations": [
+					"She has not come home yet."
+				]
+			},
+			{
+				"phrase": "その祖父が買った時計は未だに調子がいいです。",
+				"translations": [
+					"That watch my grandfather bought is still in good condition."
+				]
+			},
+			{
+				"phrase": "その文化人類学者は「その州では未だに古い習慣が根強い。」だと言いました。",
+				"translations": [
+					"That anthropoligst said the old customs are still long standing in that province."
+				]
+			},
+			{
+				"phrase": "その傷は未だに治らない。",
+				"translations": [
+					"The wound is still not healed."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1704"
+	},
+	{
+		"point": "といえども",
+		"meaning": {
+			"meaning": "even, although, though, even though",
+			"example": "Even though I live in Tokyo, there are many sightseeing spots in the city that I don't know."
+		},
+		"phrases": [
+			{
+				"phrase": "近年、医学が目覚ましく進歩したといえども、病人の数は減少傾向にはない",
+				"translations": [
+					"in recent years, even though you could say medical science has been progressing greatly, the number of sick people has not decreased"
+				]
+			},
+			{
+				"phrase": "いかに多忙といえども、健康管理を怠ってはならない",
+				"translations": [
+					"Even though you might be so busy, you must not neglect your health"
+				]
+			},
+			{
+				"phrase": "たとえ外国人といえども「郷に入って、郷に従え」です。",
+				"translations": [
+					"Even though he is a foreigner, it's a case of when in Rome, do as the Romans do."
+				]
+			},
+			{
+				"phrase": "老いたりといえども、まだまだ若いものには負けないつもりだ。",
+				"translations": [
+					"Even though I am getting on a bit, I don't intend to lose out to the youngsters for some time to come."
+				]
+			},
+			{
+				"phrase": "いかに日本での生活が長いといえども、言葉の問題には常に遭遇する。",
+				"translations": [
+					"Although I've lived in Japan for a long time, I constantly encounter language problems"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1730"
+	},
+	{
+		"point": "(よ)うが, (よ)うと　ようが　ようと",
+		"meaning": {
+			"meaning": "\"even if\", \"no matter what\" (people say etc.), strong expression that contains the idea of concession",
+			"example": "Even if people say I'm stubborn or stupid, I'll do what I believe."
+		},
+		"phrases": [
+			{
+				"phrase": "人がなんと言おう（と/が）、私は自分の子供を信じている。",
+				"translations": [
+					"Whatever other people say, I believe my child"
+				]
+			},
+			{
+				"phrase": "頑固と言われよう（と／が）バカと言われよう（と／が）、私は自分の信じることをやります。",
+				"translations": [
+					"Even if people say I'm stubborn or stupid, I'll do what I believe in."
+				]
+			},
+			{
+				"phrase": "あの教授は学生が分かろう（と／が）分かるまい（と／が）かまわず授業を進めていく。",
+				"translations": [
+					"That professor keeps lecturing regardlesss of whether his students understand it or not."
+				]
+			},
+			{
+				"phrase": "報酬が多かろう（と／が）少なかろう（と／が）私はやるべきことをやるだけだ。",
+				"translations": [
+					"Whether the compensation is high or low, I'll just do what I have to do."
+				]
+			},
+			{
+				"phrase": "周囲に反対されようが、自分でやると決めた以上は最後までやり抜くつもりだ",
+				"translations": [
+					"even if those around me disagree, once I've decided I'll do it, I'll give it my all"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1745"
+	},
+	{
+		"point": "ようにも〜ない",
+		"meaning": {
+			"meaning": "even though ~ try / want to ~; although ~ be thinking of doing; A conjunctive phrase that indicates concession: \"even though s.o. tries to do s.t., he/she cannot do it for some reason\"",
+			"example": "I have a terrible headache, and I cannot get up even though I want to"
+		},
+		"phrases": [
+			{
+				"phrase": "頭が痛くて、起きようにも起きられなかった",
+				"translations": [
+					"I have a terrible headache, and I cannot get up even though I want to"
+				]
+			},
+			{
+				"phrase": "新しいパソコンを買おうにも、お金がなくて買えない。",
+				"translations": [
+					"Even though I want to buy a new computer, I don't have the money so I can't."
+				]
+			},
+			{
+				"phrase": "会社を辞めようにも、次の仕事が見つからない。",
+				"translations": [
+					"Even though I think of quitting the company, I can't find another job so I can't."
+				]
+			},
+			{
+				"phrase": "寿司を作ろうにも材料が手に入らない。",
+				"translations": [
+					"Even though I want to make sushi, I cannot get the ingredients"
+				]
+			},
+			{
+				"phrase": "母は僕の日本人のガールフレンドと話そうにも日本語ができなかった。",
+				"translations": [
+					"Even though my mother wanted to talk to my Japanese girlfriend, my mother couldn't because she can't speak Japanese."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1754"
+	},
+	{
+		"point": "とばかりに",
+		"meaning": {
+			"meaning": "as if; as if ~ were convinced that; as if ~ believed that; as if ~ decided that",
+			"example": "Takemoto vented his long held complaints as if he were convinced this was the time to do so"
+		},
+		"phrases": [
+			{
+				"phrase": "課長は余計な質問はするなとばかりに私ににらみつけた。",
+				"translations": [
+					"My section chief glared at me as if to tell me not to ask any unnecessary questions."
+				]
+			},
+			{
+				"phrase": "霧が晴れたので私がチャンスとばかりに写真を撮りまくった。",
+				"translations": [
+					"The fog had cleared, so I took pictures furiously, as if it were my only chance."
+				]
+			},
+			{
+				"phrase": "竹本はこの時とばかりに日頃の不満を吐き出した。",
+				"translations": [
+					"Takemoto vented his long-held complaints as if he were convinced this was the time to do so."
+				]
+			},
+			{
+				"phrase": "彼女が舞台に登場すると、「待ってました！」とばかりに大きな拍手が起こった",
+				"translations": [
+					"she appeared on the stage, and as if everyone had been waiting, huge applause broke out"
+				]
+			},
+			{
+				"phrase": "彼女は、信じられないとばかりに、口を開けたまま彼を見つめていた。",
+				"translations": [
+					"She just stared at him with her mouth wide open as if she didn't believe him."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1755"
+	},
+	{
+		"point": "せんがため",
+		"meaning": {
+			"meaning": "In order to do",
+			"example": "In order to pass the test, he studied day and night."
+		},
+		"phrases": [
+			{
+				"phrase": "キリスト教義の正当性をより強固にせんがための伏線ととれないこともありません。",
+				"translations": [
+					"This must be a covert effort in order to further strengthen the veracity of the Christian dogma"
+				]
+			},
+			{
+				"phrase": "あの頃わたしは大学に進学せんがために毎日必死でがんばった。",
+				"translations": [
+					"At that time, in order to go on to university I frantically did my best everyday."
+				]
+			},
+			{
+				"phrase": "研究を完成せんがため、彼は昼夜寝ずにがんばった。",
+				"translations": [
+					"In order to finish the project, he worked day and night without sleeping. sengatame"
+				]
+			},
+			{
+				"phrase": "一日も早く自分の店を持たんがために、必死で働いている。",
+				"translations": [
+					"To keep one's store going even one more day, one is frantically working."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "490"
+	},
+	{
+		"point": "今から思えば",
+		"meaning": {
+			"meaning": "Looking back on it now",
+			"example": "Looking back on it now, breaking up was the right thing to do."
+		},
+		"readings": [
+			{
+				"reading": "いまからおもえば"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "今から思えばあの時に会社を辞めたことは間違いではなかった。",
+				"translations": [
+					"Looking back on it now, quitting the company was the right thing to do."
+				]
+			},
+			{
+				"phrase": "今から思えば両親に言われた通りにしておけば良かった。",
+				"translations": [
+					"Looking back on it now I wish i had done things the way my parents told me."
+				]
+			},
+			{
+				"phrase": "今から思えばまだ両親に手伝うことをしなかった。",
+				"translations": [
+					"Looking back on it now I haven't done anything to help my parents."
+				]
+			},
+			{
+				"phrase": "今から思えば父が私にしつけを教えてもらったのが良かった。",
+				"translations": [
+					"Looking back now I think it's good that my father teaches discipline ."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1093"
+	},
+	{
+		"point": "これ以上〜ば",
+		"meaning": {
+			"meaning": "if ~ any more than this",
+			"example": "If it rains any more..."
+		},
+		"readings": [
+			{
+				"reading": "これいじょう〜ば"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "これ以上雨が降れば、川が氾濫してしまう",
+				"translations": [
+					"If it rains any more than this the river will flood."
+				]
+			},
+			{
+				"phrase": "皆さんからお褒めの言葉を頂きこれ以上の光栄はございません。",
+				"translations": [
+					"Having received many kind compliments from all of you, I cannot feel any more honored than this."
+				]
+			},
+			{
+				"phrase": "これ以上待つのは時間の浪費だ。",
+				"translations": [
+					"It's a waste of time to wait any longer."
+				]
+			},
+			{
+				"phrase": "これ以上何を失えば心は許されるの",
+				"translations": [
+					"How much more do I have to lose, before my heart is forgiven? (from \"one more time, one more chance\" by yamasaki masayoshi)"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1094"
+	},
+	{
+		"point": "いかんによらず",
+		"meaning": {
+			"meaning": "without regard to"
+		},
+		"phrases": [
+			{
+				"phrase": "理由のいかんによらず、殺人は許されないことだ。",
+				"translations": [
+					"Regardless of the reason, murder is unforgiveable"
+				]
+			},
+			{
+				"phrase": "国籍のいかんを問わず、採用試験を受けることのできる自治体が増えている。",
+				"translations": [
+					"The number of municipalities where one can take the employment test regardless of nationalty is increasing."
+				]
+			},
+			{
+				"phrase": "納入した学費は理由のいかんに関わらず返却しません。",
+				"translations": [
+					"The tuition and fees you have paid will not be returned, no matter what the reason."
+				]
+			},
+			{
+				"phrase": "このコンテンツの複製は方法、媒体のいかんを問わず禁止されている。",
+				"translations": [
+					"Copying the content is prohibited, regardless of the method or the medium."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1226"
+	},
+	{
+		"point": "はかどる (捗る)",
+		"meaning": {
+			"meaning": "Make progress",
+			"example": "Making progress in one's work"
+		},
+		"phrases": [
+			{
+				"phrase": "仕事がはかどってるようですね",
+				"translations": [
+					"Looks like you are making progress in your work."
+				]
+			},
+			{
+				"phrase": "どの程度はかどっているのですか？",
+				"translations": [
+					"How much progress are you making?"
+				]
+			},
+			{
+				"phrase": "あの人は学校の勉強のほうははかどっているのですか。",
+				"translations": [
+					"How is getting along with his school work?"
+				]
+			},
+			{
+				"phrase": "仕事は非常にはかどっている。",
+				"translations": [
+					"The work is marching right along."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1262"
+	},
+	{
+		"point": "〜にたえる",
+		"meaning": {
+			"meaning": "has value; it is worth doing",
+			"example": "It is worth reading that book"
+		},
+		"phrases": [
+			{
+				"phrase": "十分読むにたえる作品だ。",
+				"translations": [
+					"That book is worth reading"
+				]
+			},
+			{
+				"phrase": "趣味で始めた焼き物だが、ようやく市販するにたえる作品ができるようになった",
+				"translations": [
+					"I just started pottery as a hobby, but pretty soon I was making stuff that was good enough for sale"
+				]
+			},
+			{
+				"phrase": "あの子は大人の鑑賞にたえる絵を描く",
+				"translations": [
+					"That kid draws pictures that are worthy of adult appreciation."
+				]
+			},
+			{
+				"phrase": "ずいぶん値段が安いけど、使用にたえるかどうか、ちゃんと確認して買った方がいい。",
+				"translations": [
+					"The price may be very cheap, but before you buy it you should make sure to check whether it merits use or not."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1328"
+	},
+	{
+		"point": "であろうと",
+		"meaning": {
+			"meaning": "No matter what; Even if; No matter how",
+			"example": "no matter what kind of person"
+		},
+		"phrases": [
+			{
+				"phrase": "どんな人であろうと、この映画は楽しめます。",
+				"translations": [
+					"This movie can be enjoyed by anyone, no matter what kind of person they are."
+				]
+			},
+			{
+				"phrase": "いかに粗末であろうとも、我が家は我が家である。",
+				"translations": [
+					"No matter how humble it may be, home is home."
+				]
+			},
+			{
+				"phrase": "この本を書いたのが誰であろうとも、その人はとても利口だ。",
+				"translations": [
+					"No matter who it was that wrote this book, he's very clever."
+				]
+			},
+			{
+				"phrase": "どんな仕事であろうと、圧迫されるときはある。",
+				"translations": [
+					"In every job, there are times when you feel pressure."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1361"
+	},
+	{
+		"point": "始末だ",
+		"meaning": {
+			"meaning": "Unfortunately, (it has become ~)",
+			"example": "Unfortunately, it came to the point where he had to borrow money."
+		},
+		"readings": [
+			{
+				"reading": "しまつだ"
+			}
+		],
+		"usages": [
+			"Verb dictionary form+始末だ"
+		],
+		"phrases": [
+			{
+				"phrase": "あの二人は犬猿の仲で、ちょっとしたことでも、すぐ口論になる始末だ。",
+				"translations": [
+					"Those two don't get along very well. Unfortunately , at the drop of a hat, they start arguing."
+				]
+			},
+			{
+				"phrase": "友達に借金までするしまつだ。",
+				"translations": [
+					"Unfortunately, it has got to the point where he has to borrow money from friends."
+				]
+			},
+			{
+				"phrase": "この始末は、今まで述べたとおりです。",
+				"translations": [
+					"Just as I said, it turned out like this!"
+				]
+			},
+			{
+				"phrase": "離婚したうえに、首にまでなるしまつだ。",
+				"translations": [
+					"On top of getting divorced, I got fired from my job"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1512"
+	},
+	{
+		"point": "〜っぱなし (〜っ放し)",
+		"meaning": {
+			"meaning": "Keep ~ing / To leave ~",
+			"example": "I kept standing for 5 hours."
+		},
+		"phrases": [
+			{
+				"phrase": "新幹線の中では、東京から青森まで３時間立ちっぱなしだった。足が痛くなっちゃった！",
+				"translations": [
+					"On the shinkansen from Toukyou to Aomori I kept standing up for 3 hours. My feet hurt!"
+				]
+			},
+			{
+				"phrase": "ここに置きっぱなしにしちゃダメでしょ。",
+				"translations": [
+					"Hey, you can't leave your things here."
+				]
+			},
+			{
+				"phrase": "ゴミを散らかしっぱなしにしないでね。",
+				"translations": [
+					"Don't drop your rubbish about, ok."
+				]
+			},
+			{
+				"phrase": "友達のビデオが借りっぱなしだ。早く返さなくちゃ。",
+				"translations": [
+					"I borrowed my friends video and didn't return it. I'd better return it soon."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1515"
+	},
+	{
+		"point": "〜をよそに (を余所に)",
+		"meaning": {
+			"meaning": "Without consideration for... / Despite... / Without thinking...",
+			"example": "Without considering his parents expectations, he dropped out of university."
+		},
+		"phrases": [
+			{
+				"phrase": "彼は大学入試をよそに、毎日パソコンに興じてる。",
+				"translations": [
+					"Despite having university entrance exams soon, he's wasting his time on the computer every day."
+				]
+			},
+			{
+				"phrase": "親の心配をよそに遊んでばかりいる。",
+				"translations": [
+					"Without considering that his parents might be worried, he always slacks off."
+				]
+			},
+			{
+				"phrase": "中国人の反対の声をよそに、小泉総理は靖国神社に参拝してしまいました。",
+				"translations": [
+					"Indifferent to the protests from China, Mr Koizumi visited Yasukuni Shrine."
+				]
+			},
+			{
+				"phrase": "首相は国民の批判をよそにイラク戦争支持を楓ｾした。",
+				"translations": [
+					"​ Ignoring the people's criticism, the prime minister declared his support for the Iraq War."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1525"
+	},
+	{
+		"point": "まだしも",
+		"meaning": {
+			"meaning": "would be much better, would be acceptable",
+			"example": "If it was next month that would be better, but it isn't going to happen until next year."
+		},
+		"phrases": [
+			{
+				"phrase": "一度ならまだしもここまで六回その言葉を間違えて書いた。",
+				"translations": [
+					"Once would be acceptable, but you've misspelled that word six times now."
+				]
+			},
+			{
+				"phrase": "この方がまだしもあれよりよい。",
+				"translations": [
+					"This would be better than that."
+				]
+			},
+			{
+				"phrase": "こんなひどい目に合うよりまだしも死んだほうがよい。",
+				"translations": [
+					"I would rather die than have such a terrible experience."
+				]
+			},
+			{
+				"phrase": "すうじつならまだしも１０日も滞納している。",
+				"translations": [
+					"A few days would have been excusable but you are in arrears for 10 days."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1603"
+	},
+	{
+		"point": "隙に",
+		"meaning": {
+			"meaning": "While 〜 To take advantage of a moment of time to do something　(there is an element of cunning in its meaning)",
+			"example": "(1)kare ga ｙudan shiteiru suki ni kishuu shite hoshin da zo. The best thing to do is to attack him when his guard is down."
+		},
+		"readings": [
+			{
+				"reading": "すきに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "皆さん、ジョンさんがいないすきに、サプライズパーティーを整えましょう。",
+				"translations": [
+					"Lets prepare the surprise party for John in his absence."
+				]
+			},
+			{
+				"phrase": "皆が前を向いているすきにぎゅっと手を引いてほしいんだ。",
+				"translations": [
+					"I want you to take me by the hand while everyone else is looking the other way."
+				]
+			},
+			{
+				"phrase": "先生が余所見をしているすきに、ラブレターをきみが渡してくれたんだな。",
+				"translations": [
+					"While the teacher's attention was momentarily distracted you passed me a love letter didn't you."
+				]
+			},
+			{
+				"phrase": "彼女が気がついていないすきに、彼女にキスした。",
+				"translations": [
+					"While  she didn't pay attention, I kissed her"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1611"
+	},
+	{
+		"point": "唯でさえ",
+		"meaning": {
+			"meaning": "To add to, something alone is normally enough",
+			"example": "This neighbourhood was already noisy enough but this week they started construction work"
+		},
+		"readings": [
+			{
+				"reading": "ただでさえ"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "もうこの近所はただでさえうるさいところが、今週は近くで工事が始まったため、夜は一睡も出来なくなった。",
+				"translations": [
+					"This neighbourhood is already normally noisy enough but this week construction started nearby so now I can hardly get a wink of sleep."
+				]
+			},
+			{
+				"phrase": "もうただでさえ迷惑をかけているのに〜",
+				"translations": [
+					"Haven't you caused enough trouble already?"
+				]
+			},
+			{
+				"phrase": "これはただでさえおいしいものが、さらに我が隠し味を入れたら美味しくてたまらなくなるよ。",
+				"translations": [
+					"This is normally really delicious anyway but if you add our special ingredient it will be irresistable."
+				]
+			},
+			{
+				"phrase": "今日はただでさえ忙しいのに、母に買い物に行かされた",
+				"translations": [
+					"To day, I'm already busy enough but ,my mother wanted me to go shopping"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1613"
+	},
+	{
+		"point": "とあって",
+		"meaning": {
+			"meaning": "Because ~; ~ as expected; because ~, naturally ~; Introduces an expected reason for some circumstance that is different from the usual situation.",
+			"example": "Because this is the series of holidays after the bonus season, (unsurprisingly), all the tourist spots are crowded."
+		},
+		"phrases": [
+			{
+				"phrase": "ボーナス後の連休とあって、観光地はどこも人でいっぱいだ。",
+				"translations": [
+					"Because this is the series of holidays after the bonus season, unsurprisingly, all the tourist spots are crowded."
+				]
+			},
+			{
+				"phrase": "夏休みが始まったとあって、子供たちはみんな嬉しそうだ。",
+				"translations": [
+					"Summer vacation has begun, so the children all look happy."
+				]
+			},
+			{
+				"phrase": "人気スターがやって来るとあって、空港は大勢の人たちが待ち受けていた",
+				"translations": [
+					"because a popular star is coming, a large crowd gathered to meet him at the airport"
+				]
+			},
+			{
+				"phrase": "掃除が終わったらお菓子がもらえるとあって、子供たちは一生懸命手伝っている。",
+				"translations": [
+					"Because they know they'll get sweets after they finish cleaning, the children are doing their very best to help out."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1742"
+	},
+	{
+		"point": "と相まって",
+		"meaning": {
+			"meaning": "Coupled with, together with",
+			"example": "In many countries, water and air polution is coupled with progressive environmental destruction"
+		},
+		"readings": [
+			{
+				"reading": "とあいまって"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "多くの国々では、水や空気の汚染と相まって、環境破壊が進んでいる",
+				"translations": [
+					"In many countries, water and air polution is coupled with progressive environmental destruction"
+				]
+			},
+			{
+				"phrase": "実力と運とが相まって、彼を成功に導いた。",
+				"translations": [
+					"His ability coupled with luck brought about his success."
+				]
+			},
+			{
+				"phrase": "そのゲームはかわいいキャラクターと魅力的なストーリーがあいまって、多くのユーザーに支持されたヒット作品となった。",
+				"translations": [
+					"That game featured cute characters coupled with a charming story, so it became a big hit supported by many users."
+				]
+			},
+			{
+				"phrase": "コーチの指導力と選手のやる気が相まって、優勝できた。",
+				"translations": [
+					"The coach's leadership abilities coupled with the player's motivation lead to the victory"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1746"
+	},
+	{
+		"point": "ないまでも",
+		"meaning": {
+			"meaning": "expressing the speaker's feeling that although an ideal action or state isn't possible, at least the next best action or stat is or should be available",
+			"example": "Although you may not be able to call this public performance a great success, it produced results of a sort."
+		},
+		"phrases": [
+			{
+				"phrase": "この公演は大成功とは言えないまでも、それなりの成果をもたらした。",
+				"translations": [
+					"Although you may not be able to call this public performance a great success, it produced results of a sort."
+				]
+			},
+			{
+				"phrase": "彼の論文は決して多くないまでも、その質は非常に高い。",
+				"translations": [
+					"Although he hasn't published many papers at all, the quality of those he has published is extremely high."
+				]
+			},
+			{
+				"phrase": "彼が犯人だと断定できないまでも、いろいろと怪しいところがある",
+				"translations": [
+					"Even though we can't conclude he's the culprit, he has many suspicious points"
+				]
+			},
+			{
+				"phrase": "この彫刻は完璧とは言えないまでも、非常に可能性を感じさせる作品だった。",
+				"translations": [
+					"The sculpture may not be called a perfect work, but it is a work that makes you feel there is much potential."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1748"
+	},
+	{
+		"point": "〜といい〜といい",
+		"meaning": {
+			"meaning": "In terms of both ~ and ~; in terms of ~ as well as ~; from the perspective of both ~ and ~",
+			"example": "From the perspective of the colour as well as the design, this suit is a good match for you"
+		},
+		"phrases": [
+			{
+				"phrase": "このスーツ、色といいデザインといい、お客様にはよく似合いですよ",
+				"translations": [
+					"From the perspective of the colour as well as the design, this suit is a good match for you"
+				]
+			},
+			{
+				"phrase": "内容といい話し方といい、見事なスピーチでした。",
+				"translations": [
+					"It was a splendid speech in terms of content as well as delivery."
+				]
+			},
+			{
+				"phrase": "家柄といい学歴といい、彼は非の打ちどころがない。",
+				"translations": [
+					"He is just perfect, both in terms of his family and educational background."
+				]
+			},
+			{
+				"phrase": "スピードといいパワーといい、今の彼に勝てる選手はいない。",
+				"translations": [
+					"No player can beat him now in terms of either speed or power."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1751"
+	},
+	{
+		"point": "(よ)うと〜まい, (よ)うが〜まい, ようと〜まい, よう",
+		"meaning": {
+			"meaning": "Regardless of whether or not",
+			"example": "Regardless of whether it rains or not, I'm going out."
+		},
+		"phrases": [
+			{
+				"phrase": "雨が降ろうが降るまいが、私は出かけます",
+				"translations": [
+					"Regardless of whether it rains or not , I'm going out"
+				]
+			},
+			{
+				"phrase": "パーティに参加しようがするまいが、会費は全員払わなければならない。",
+				"translations": [
+					"Regardless of whether or not you go to the parties, all members must pay the membership fees."
+				]
+			},
+			{
+				"phrase": "昔の恋人が結婚しようとしまいと、今の私に関係ないことです。",
+				"translations": [
+					"Whether my childhood sweetheart gets married or not, it's got nothing to do with me now."
+				]
+			},
+			{
+				"phrase": "あの教授は学生がわかろうと分かるまいとかまわず授業を進めて行く",
+				"translations": [
+					"That professor keeps lecturing, regardless of whether his students understand it or not."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1753"
+	},
+	{
+		"point": "〜をもって (を以て)",
+		"meaning": {
+			"meaning": "By means of, via, through - method by which you do / achieve something",
+			"example": "Inform by letter"
+		},
+		"usages": [
+			"Noun+をもって"
+		],
+		"phrases": [
+			{
+				"phrase": "彼は人一倍の努力をもって優勝カップを手にすることができた",
+				"translations": [
+					"with his amazing efforts, we were able to get the champion's cup"
+				]
+			},
+			{
+				"phrase": "こんな難問は、優秀な彼の頭脳をもってしても解決できないだろう。",
+				"translations": [
+					"Even with his brilliant mind, such a difficult problem cannot be resolved."
+				]
+			},
+			{
+				"phrase": "身をもってその仕事の大変さを知った",
+				"translations": [
+					"I learned [from experience / firsthand] how hard the work was."
+				]
+			},
+			{
+				"phrase": "彼の迫ﾍをもってすれば，この問題の解決は容易であろう",
+				"translations": [
+					"With his ability, he should be able to solve the problem easily."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1757"
+	},
+	{
+		"point": "ろくに〜ない",
+		"meaning": {
+			"meaning": "(not) much, barely",
+			"example": "People complain that Japanese is difficult but do not study enough."
+		},
+		"phrases": [
+			{
+				"phrase": "ろくに彼女と話をする暇もない.",
+				"translations": [
+					"I have hardly enough time to talk [have a chat] with her."
+				]
+			},
+			{
+				"phrase": "彼女はろくに食べないで席を立った。",
+				"translations": [
+					"She had only eaten a little before she left the table."
+				]
+			},
+			{
+				"phrase": "多くの女性は自分の名前もろくに書けなかった。",
+				"translations": [
+					"Many women could barely spell their names."
+				]
+			},
+			{
+				"phrase": "昨夜はろくに眠れなかった。",
+				"translations": [
+					"I could not sleep much last night."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1775"
+	},
+	{
+		"point": "かのごとく",
+		"meaning": {
+			"meaning": "as if"
+		},
+		"phrases": [
+			{
+				"phrase": "あたかも永遠を傷つけることがないかのごとく暇をつぶしているが・・・。",
+				"translations": [
+					"As if you could kill time without injuring eternity."
+				]
+			},
+			{
+				"phrase": "誰も見ていないかのごとく自由に踊りましょう",
+				"translations": [
+					"Dance freely as if nobody was watching."
+				]
+			},
+			{
+				"phrase": "その森の中は、何万年も前に戻ったかのごとく神秘的だった",
+				"translations": [
+					"Within this forest, it was so mysterious as if one had even gone some ten thousands years back in time"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "498"
+	},
+	{
+		"point": "~ず もがな",
+		"meaning": {
+			"meaning": "Vn, As well not to ~",
+			"example": "as well not to buy them"
+		},
+		"phrases": [
+			{
+				"phrase": "サッカーで日本が勝って、韓国人の金さんがどんな気持ちかなんて、そんなこと、言わずもがなのことだよ。",
+				"translations": [
+					"When Japan wins at football (soccer), you don't even need to ask to know how the Korean Mr. Kim feels."
+				]
+			},
+			{
+				"phrase": "新しい電気製品なんて、買わずもがなで、買うとろくなものがない。",
+				"translations": [
+					"You might as well not buy those new electronic gadgets. If you do then nothing good will come of it."
+				]
+			},
+			{
+				"phrase": "あの人の書く文章には無くもがなといえる言葉が多い。",
+				"translations": [
+					"In his writings, there are a number of words which might better have been left out."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "750"
+	},
+	{
+		"point": "やまない (止ま無い・已ま無い)",
+		"meaning": {
+			"meaning": "not to stop",
+			"example": "Kids don't stop seeking their parents' love."
+		},
+		"phrases": [
+			{
+				"phrase": "子供たちは親の愛を求めてやまない。",
+				"translations": [
+					"Kids don't stop seeking their parent's love."
+				]
+			},
+			{
+				"phrase": "空模様からすると、雨はしばらくはやまないだろう。",
+				"translations": [
+					"From the look of the sky I'm afraid the rain won't let up for a while."
+				]
+			},
+			{
+				"phrase": "ご健康を心から願ってやみません。",
+				"translations": [
+					"I (never stop) wish you good health."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1256"
+	},
+	{
+		"point": "かたがた(旁)",
+		"meaning": {
+			"meaning": "at the same time, incidentally；doing something while fulfilling different purposes at the same time",
+			"example": "incidental to business, go sightseeing"
+		},
+		"usages": [
+			"Noun+かたがた"
+		],
+		"phrases": [
+			{
+				"phrase": "仕事かたがた京都見物にゆく",
+				"translations": [
+					"While on business, go sightseeing in Kyoto"
+				]
+			},
+			{
+				"phrase": "来春結婚する孫が、結婚の報告かたがた婚約者を連れてやってきた。",
+				"translations": [
+					"My grandson, who is getting married next spring, has brought his fiancee with him to visit while bringing us news of his wedding."
+				]
+			},
+			{
+				"phrase": "無事に卒業できたので、恩師に報告かたがた、手紙を書いた.",
+				"translations": [
+					"She was able to graduate without any problems and so wrote a letter to thank her professor."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1277"
+	},
+	{
+		"point": "に あたらない",
+		"meaning": {
+			"meaning": "no need to do so",
+			"example": "no need to feel sorry for him"
+		},
+		"phrases": [
+			{
+				"phrase": "それは驚くに当たらない。",
+				"translations": [
+					"It is not to be wondered at."
+				]
+			},
+			{
+				"phrase": "同情するにあたらない、飲酒運転したんだから、自業自得だ",
+				"translations": [
+					"no need to feel sorry for him, he was drunk-driving so its his own fault."
+				]
+			},
+			{
+				"phrase": "天気藍ﾍめったにあたらない。",
+				"translations": [
+					"A weather report is rarely on target."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1323"
+	},
+	{
+		"point": "〜まじき",
+		"meaning": {
+			"meaning": "not likely",
+			"example": "-2"
+		},
+		"phrases": [
+			{
+				"phrase": "許すまじきことであれ。",
+				"translations": [
+					"It's something that cannot be forgiven"
+				]
+			},
+			{
+				"phrase": "すまじきものは宮仕え。",
+				"translations": [
+					"It's government service one should avoid."
+				]
+			},
+			{
+				"phrase": "許すまじき暴言を吐いた。",
+				"translations": [
+					"She used offensive language that cannot be forgiven."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1345"
+	},
+	{
+		"point": "〜でなくてなんだろう",
+		"meaning": {
+			"meaning": "If thats not ... I don't know what is",
+			"example": "If that's not a secret society, i don't know what is"
+		},
+		"phrases": [
+			{
+				"phrase": "このケーキが世界一でなくてなんだろう。",
+				"translations": [
+					"If this isn't the world's best cake, then I don't know what is."
+				]
+			},
+			{
+				"phrase": "あの国の大統領は国民の意見は無視して何でも自分一人で決定する。これが独裁者でなくてなんだろう。",
+				"translations": [
+					"The president of that country decides everything himself ignoring nation's concerns. If that's not dictatorship, then i don't know what is."
+				]
+			},
+			{
+				"phrase": "自分の命を犠牲にして多くの人を救ったあの男が英雄でなくてなんだろう。",
+				"translations": [
+					"That man who sacrificed his own life to help so many people, if he isn't a hero I don't know who is. でなくてなんだろう"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1367"
+	},
+	{
+		"point": "それっきり",
+		"meaning": {
+			"meaning": "Since, since then",
+			"example": "Since then, I haven't seen Spike."
+		},
+		"phrases": [
+			{
+				"phrase": "僕はそれっきりスパイクと会っていない",
+				"translations": [
+					"Since then, I haven't seen Spike."
+				]
+			},
+			{
+				"phrase": "店はたたれたまま、それっきりだった。",
+				"translations": [
+					"The store closed down for good."
+				]
+			},
+			{
+				"phrase": "去年１１月プネに移りました。それっきり先生と連絡しなかったです。",
+				"translations": [
+					"I shiefted to pune in november last year. After that I have not communicated with my teacher."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1487"
+	},
+	{
+		"point": "めく",
+		"meaning": {
+			"meaning": "like / ish",
+			"example": "his sarcastic-ish way of speaking"
+		},
+		"usages": [
+			"Noun+めく"
+		],
+		"phrases": [
+			{
+				"phrase": "社長の皮肉めいた言い方を、社員は不快に感じている",
+				"translations": [
+					"because of the President's sarcastic like way of speech, the employees felt uncomfortable."
+				]
+			},
+			{
+				"phrase": "きらめく太陽に青い海、考えだけでも胸がときめくわ。",
+				"translations": [
+					"The glisten ing sun on the blue sea...Ahhh, just thinking about it makes my heart beat fast."
+				]
+			},
+			{
+				"phrase": "俺たちは十年来の友人じゃないか、そんな他人めいた言い方をするなよ。",
+				"translations": [
+					"Hey, we've been friends for many years right? Don't use such a strangerish/stranger- like style of speaking with me!"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1490"
+	},
+	{
+		"point": "〜をもって (を以て)",
+		"meaning": {
+			"meaning": "at (time / moment)",
+			"example": "today's business will close at 7"
+		},
+		"usages": [
+			"Noun+をもって"
+		],
+		"phrases": [
+			{
+				"phrase": "本日の営業は午後7時をもって終了いたします。",
+				"translations": [
+					"The store will close today at seven o'clock."
+				]
+			},
+			{
+				"phrase": "これをもちまして本日の披露宴をめでたくお開きとあさせていただきます。",
+				"translations": [
+					"At this point I would like to open this auspicious wedding reception."
+				]
+			},
+			{
+				"phrase": "店内改装のため、今月末をもって一時閉店することになりました。",
+				"translations": [
+					"Due to redecoration of the store, we will be closed at the end of this month."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1492"
+	},
+	{
+		"point": "きらいがある",
+		"meaning": {
+			"meaning": "there is a tendency for ~ to happen (and it is somewhat bad and/or a cause for concern)",
+			"example": "that person tends to talk more than act"
+		},
+		"phrases": [
+			{
+				"phrase": "人は自分の聞きたくないことは耳に入れないというきらいがあるのではないか。",
+				"translations": [
+					"It seems people have a tendency not to listen to things they dont want to hear, right?"
+				]
+			},
+			{
+				"phrase": "彼女は優しいですが、知らずに人を傷付けることを言うきらいがある。",
+				"translations": [
+					"She is a nice person; however, she tends to say hurtful things unintentionally."
+				]
+			},
+			{
+				"phrase": "人間は年をとると、ほかの人の話しを聞かなくなるきらいがある。",
+				"translations": [
+					"As humans get on in years, they tend to not listen to what others say."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1543"
+	},
+	{
+		"point": "ならいざ知らず",
+		"meaning": {
+			"meaning": "I'm not sure if it is [possible/so] but...",
+			"example": "It's possible that an expert could do this but there is no way I can do it."
+		},
+		"readings": [
+			{
+				"reading": "ならいざしらず"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "辞書があるならいざ知らず、何もなくてはこの文章はとても読めるものではない。",
+				"translations": [
+					"Maybe it would be possible if I had a dictionary, but with nothing, it is by no means easy to read."
+				]
+			},
+			{
+				"phrase": "専門家ならいざ知らず、素人ではこの化学品を作ることができない。",
+				"translations": [
+					"Maybe it's possible for an expert, but a beginner can't make this chemical."
+				]
+			},
+			{
+				"phrase": "他の人ならいざしらず、私はそんなことができない。",
+				"translations": [
+					"Maybe it's possible for someone, but I can't do that"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1551"
+	},
+	{
+		"point": "〜を限りに",
+		"meaning": {
+			"meaning": "with 〜, some continuing activity will end (or a prohibition on an activity will start)",
+			"example": "Starting today, I've decided to stop smoking."
+		},
+		"readings": [
+			{
+				"reading": "をかぎりに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "今日を限りに、この学校ともお別れです。",
+				"translations": [
+					"After today I'll say goodbye to this school, too."
+				]
+			},
+			{
+				"phrase": "その映画の上映は１５日を限りに打ち切られることとなった。",
+				"translations": [
+					"That film was pulled just 15 days after it was first shown."
+				]
+			},
+			{
+				"phrase": "人事部の山田さんは、明日を限りに退職します。",
+				"translations": [
+					"Mr. Yamada from personnel will quit this job as of tomorrow."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1641"
+	},
+	{
+		"point": "〜とあれば",
+		"meaning": {
+			"meaning": "\"if it happens to be\" • since it is a special condition",
+			"example": "If you happen to have a large body and strong legs, you are the ideal shape for a rugby player"
+		},
+		"phrases": [
+			{
+				"phrase": "だれも行かないとあれば、わたしが行くしかないだろう。",
+				"translations": [
+					"if it is so that no one goes, then there is nothing for it but for me to go"
+				]
+			},
+			{
+				"phrase": "遠来の客が来るとあれば、腕をふるってご馳走を用意しましょう",
+				"translations": [
+					"if a customer is coming from far away, let's show them what we can do and prepare a real treat"
+				]
+			},
+			{
+				"phrase": "彼女の両親が来るとあれば、部屋をきれいにしなければならない。",
+				"translations": [
+					"If my girlfriend's parents happen to come to stay, I must make the apartment clean"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1702"
+	},
+	{
+		"point": "ともなると",
+		"meaning": {
+			"meaning": "When it comes to (special situation), Naturally, (X) follows",
+			"example": "When it comes to the cherry blossom season, the park is packed with cherry blossom viewers"
+		},
+		"phrases": [
+			{
+				"phrase": "プロともなると体つきが変わってくるというが、目の前の彼女のきゃしゃで凛とした立ち姿からは、とても激しいダンスを一人で踊り通す人のようには見えない。",
+				"translations": [
+					"When you become a professional dancer, certain characteristics appear on your body, but looking at Kimura with her slim upright figure, she doesn't look like the vigorous dancing type."
+				]
+			},
+			{
+				"phrase": "大学へ進学するともなると、学問、バイト、サークルなど、人それぞれのライフスタイルができてくる。",
+				"translations": [
+					"When you enter college, each of you will develop your own lifestyle, with studies, work and club activities."
+				]
+			},
+			{
+				"phrase": "桜の季節ともなると、この公園は花見客でにぎわう",
+				"translations": [
+					"When it comes to the cherry blossom season, the park is packed with cherry blossom viewers"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1703"
+	},
+	{
+		"point": "ことなしに",
+		"meaning": {
+			"meaning": "In examples such as \"Without A, I can't do B\" where, without Action A, there is no possibility of B",
+			"example": "If you don't obtain the permission of the teacher in charge, you cannot change your registered classes"
+		},
+		"phrases": [
+			{
+				"phrase": "良いお返事をいただくことなしに、帰るわけにはまいりません",
+				"translations": [
+					"I cannot return without a good answer"
+				]
+			},
+			{
+				"phrase": "担当教師の許可を得ることなしに、履修科目の変更はできない。",
+				"translations": [
+					"Without the permission of the teacher in charge, you may not change your registered classes."
+				]
+			},
+			{
+				"phrase": "外相は「真の相互理解に基づく関係は、領土問題を解決して平和条約を締結することなしには構築し得ない」",
+				"translations": [
+					"The foreign minister said \"a relationship built on genuine mutual understanding means that without solving the territorial dispute and completing the peace treaty, we cannot secure construction works\""
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1738"
+	},
+	{
+		"point": "ではあるまいし",
+		"meaning": {
+			"meaning": "\"It's not as if\" giving a reason why something should not be how it is",
+			"example": "It's not as if we're going to climbing a mountain in winter, so you don't need such overstated clothing"
+		},
+		"phrases": [
+			{
+				"phrase": "冬山登山をするのではあるまいし、そんな大げさ格好は要りません",
+				"translations": [
+					"we're not exactly climbing mountains in mid-winter, so there's no need for that sort of over-the-top clothing"
+				]
+			},
+			{
+				"phrase": "こどもではあるまいし、暗い所が怖いなんて、おかしいですね。",
+				"translations": [
+					"It's not like he's a child so to be afraid of the dark is just bizarre isn't it?"
+				]
+			},
+			{
+				"phrase": "幽霊が現れたんじゃあるまいし、そんな驚いた顔をするなよ。",
+				"translations": [
+					"It's not like a ghost jumped out at you, quit giving me such a startled face."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1739"
+	},
+	{
+		"point": "故に, 故の",
+		"meaning": {
+			"meaning": "Due to, therefore (formal, written)",
+			"example": "She also has many worries due to her good looks."
+		},
+		"readings": [
+			{
+				"reading": "ゆえに, ゆえの"
+			}
+		],
+		"usages": [
+			"Phrase+が+ゆえに",
+			"Noun+(の)+ゆえに/ゆえの"
+		],
+		"phrases": [
+			{
+				"phrase": "動かぬ証拠があるゆえに、有罪が確定した",
+				"translations": [
+					"because of the rock-solid evidence, his guilt was proven"
+				]
+			},
+			{
+				"phrase": "彼女はその美貌の故に、悩みも多い。",
+				"translations": [
+					"Because of her good looks, she also has many things to worry about."
+				]
+			},
+			{
+				"phrase": "結果にこだわりすぎるがゆえに、小さなことに心を奪われることになる。",
+				"translations": [
+					"Because you want the end result to be perfect, you end up being distracted by the little things,"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1743"
+	},
+	{
+		"point": "ところを",
+		"meaning": {
+			"meaning": "despite a certain time / despite a certain situation",
+			"example": "Thank you for seeing me despite being so busy."
+		},
+		"phrases": [
+			{
+				"phrase": "お忙しいところをおいで下さいまして、ありがとうございます。",
+				"translations": [
+					"Thank you so much for coming, despite being so busy."
+				]
+			},
+			{
+				"phrase": "本日は、雨で足元が大変悪いところを、このようにたくさんの方にご参加いただきまして、誠にありがとうございます。",
+				"translations": [
+					"We are very thankful that so many people could participate even though it's so terrible underfoot, due to the rain."
+				]
+			},
+			{
+				"phrase": "お休みのところをお邪魔致しまして、申し訳ありません。",
+				"translations": [
+					"I deeply apologise for intruding on you despite it being your holiday."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1744"
+	},
+	{
+		"point": "ただ〜のみならず",
+		"meaning": {
+			"meaning": "Not only ~ (but also ~); not only that. Used in comparison, juxtaposition, and analogy - literary language. Formal, written.",
+			"example": "I heard that she didn't just look after the the elderly man who'd fallen over, she took him all the way home"
+		},
+		"phrases": [
+			{
+				"phrase": "富士山はただ高いのみならず、姿も美しいので、日本の象徴として愛されている。",
+				"translations": [
+					"Mount Fuji is not just a high mountain, it has a beautiful shape so it is loved as a symbol of Japan."
+				]
+			},
+			{
+				"phrase": "彼はただ勇敢であるのみならず、優しい心の持ち主である。",
+				"translations": [
+					"He is not only brave, but the owner of a kind heart."
+				]
+			},
+			{
+				"phrase": "これからの企業は単に利益を追求するのみならず、環境に配慮した生産活動を行わなければならない。",
+				"translations": [
+					"Today's companies should not just pursue profits; they should also consider envrionmental protection issues in their production activities."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1747"
+	},
+	{
+		"point": "〜堪えない",
+		"meaning": {
+			"meaning": "Emphasizing a strong emotional reaction either good or bad",
+			"example": "I'm absolutely furious about the way he treats me."
+		},
+		"readings": [
+			{
+				"reading": "〜にたえない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "色々お世話になりまして、感謝にたえません",
+				"translations": [
+					"you've been so good to me, I really want to thank you"
+				]
+			},
+			{
+				"phrase": "氏の当会へのご援助はまことに感謝にたえません",
+				"translations": [
+					"We cannot be too grateful to him for the help he has given our society."
+				]
+			},
+			{
+				"phrase": "彼の私に対する態度は憤慨に堪えない",
+				"translations": [
+					"I'm absolutely furious about the way he treats me."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1756"
+	},
+	{
+		"point": "あるまじき",
+		"meaning": {
+			"meaning": "It's not proper",
+			"example": "It's not a proper action for a professional artist to steal others compositions."
+		},
+		"phrases": [
+			{
+				"phrase": "人のお金を盗むとは、警察官にあるまじき行為だ。",
+				"translations": [
+					"Stealing someone's money is not proper conduct for a police officer."
+				]
+			},
+			{
+				"phrase": "他人の文章を盗んで書くとは、プロの作家にあるまじき行為だ。",
+				"translations": [
+					"It's not proper behavior for a professional author to steal other people's writings."
+				]
+			},
+			{
+				"phrase": "その言葉は市長にあるまじきものであった。",
+				"translations": [
+					"That remark was unworthy of a mayor."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1766"
+	},
+	{
+		"point": "〜に難くない",
+		"meaning": {
+			"meaning": "not hard to ...(名詞＋にかたくない/　Vる＋にかたくない）",
+			"example": "not hard to imagine it becoming a problem"
+		},
+		"readings": [
+			{
+				"reading": "〜にかたくない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "彼の不安は想像にかたくない",
+				"translations": [
+					"Its not hard to imagine he is worried"
+				]
+			},
+			{
+				"phrase": "彼の喜びは、察するにかたくない。",
+				"translations": [
+					"It's not hard to guess how happy he is."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1326"
+	},
+	{
+		"point": "なり",
+		"meaning": {
+			"meaning": "expresses continuing state",
+			"example": "he kept staring at her"
+		},
+		"phrases": [
+			{
+				"phrase": "会社を出たなり、いつまでも帰らない。",
+				"translations": [
+					"He left the office and hasn't come back."
+				]
+			},
+			{
+				"phrase": "彼女を見つめたなり、しばらくの間微動だにしなかった。",
+				"translations": [
+					"He stared at her and didn't move an inch for a while."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1546"
+	},
+	{
+		"point": "ならともかく",
+		"meaning": {
+			"meaning": "I'm not sure if it is [possible/so] but...",
+			"example": "It's possible that an expert could do this, but I can't."
+		},
+		"phrases": [
+			{
+				"phrase": "君ならともかく、俺はそんなことをしない。",
+				"translations": [
+					"Maybe you can do it, but I don't do such a thing."
+				]
+			},
+			{
+				"phrase": "外人ならともかく、日本人はそんなことは絶対にしない。",
+				"translations": [
+					"Maybe it's possible for a foreigner, but Japanese people would never do that."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1554"
+	},
+	{
+		"point": "まして〜はずがない",
+		"meaning": {
+			"meaning": "it is even more unlikely that 〜",
+			"example": "even adults also being eluded of this matter,there is no way/it is even more unlikely that children knows such a thing"
+		},
+		"phrases": [
+			{
+				"phrase": "大人でさえ知らない事は、まして子供は知っているはずがない。",
+				"translations": [
+					"It is even more unlikely/it is impossible for children to know things that even adults don't know."
+				]
+			},
+			{
+				"phrase": "大人でさえ知らないし、まして子供は知っているはずがない。",
+				"translations": [
+					"Even adutls also have no idea about it, it is even more unlikely for/it is impossible for/let alone of children to know about it."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1558"
+	},
+	{
+		"point": "〜てはいられない・〜てばかりはいられない",
+		"meaning": {
+			"meaning": "can't / can't afford 〜(doing something)",
+			"example": "we can't be relaxing like this drinking tea"
+		},
+		"phrases": [
+			{
+				"phrase": "もうすぐ試験なので、遊んでばかりはいられないのです。",
+				"translations": [
+					"Because exam is just around the corner, I can't (afford to) be fooling around."
+				]
+			},
+			{
+				"phrase": "お客様がそろそろお着きになって大変なので、のんびりお茶など飲んではいられない",
+				"translations": [
+					"Since the customers will be coming in no time and it will be a hard time, we can't just relaxing around drinking tea."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1560"
+	},
+	{
+		"point": "不調法 or 無調法",
+		"meaning": {
+			"meaning": "A rudeness or blunder, carelessness",
+			"example": "(1)ainiku osake ha buchouhou deshite - I must apologize but I don't drink (2) karaoke wo utatte agerareru to ii n desuga, ainiku buchouhou na mono desu.　If I could sing karaoke to you I would but sorry unfortunately I can't."
+		},
+		"readings": [
+			{
+				"reading": "ぶちょうほう"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "「一杯如何？」「ごめんね。まったく不調法なの」",
+				"translations": [
+					"How about another ? sorry I cant cope with alcohol at all"
+				]
+			},
+			{
+				"phrase": "口は不調法だが、腕は確かだ",
+				"translations": [
+					"I am not well spoken but can do a great job"
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1607"
+	},
+	{
+		"point": "やむをえない (已むを得無い)",
+		"meaning": {
+			"meaning": "no other way to do something　しかたがない",
+			"example": "この大雪では、試合を中止にするのもやむをえない There's no other way but to cancel the game because of the snowfall"
+		},
+		"phrases": [
+			{
+				"phrase": "やむを得ず雨天で試合が中止になる場合はある。",
+				"translations": [
+					"regretfully there may be situations where the game has to be cancelled due to bad weather."
+				]
+			},
+			{
+				"phrase": "やむを得ず雨天で試合が中止になる場合はある。",
+				"translations": [
+					"regretfully there may be situations where the game has to be cancelled due to bad weather."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1609"
+	},
+	{
+		"point": "そばから, 傍から",
+		"meaning": {
+			"meaning": "as soon as, right after",
+			"example": "The child messes up [the room] (repeatedly) as soon as I clean so I already became wanting to give up."
+		},
+		"usages": [
+			"Verb dictionary form+そばから",
+			"Verb past ~た form+そばから"
+		],
+		"phrases": [
+			{
+				"phrase": "子供が掃除するそばから散らかすから、もうあきらめたくなった。",
+				"translations": [
+					"The child messes it up as soon as  I clean, so I've gotten to the point of not wanting to even try anymore."
+				]
+			},
+			{
+				"phrase": "私は聞いたそばから人の名前を忘れてしまう。",
+				"translations": [
+					"I forget the person's name as soon as I hear it."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1691"
+	},
+	{
+		"point": "てからというもの",
+		"meaning": {
+			"meaning": "Ever Since s.t. changed",
+			"example": "Ever since the daughter returned, her aging father has really perked up"
+		},
+		"usages": [
+			"Verb て-form+からというもの"
+		],
+		"phrases": [
+			{
+				"phrase": "娘が帰って来てからというもの、年老いた父親を見違えるほど元気になった",
+				"translations": [
+					"Ever since the daughter returned, her aging father has really perked up"
+				]
+			},
+			{
+				"phrase": "水泳を習い始めてからというもの、冬でも風邪を引かなかった。",
+				"translations": [
+					"Ever since I started learning how to swim, even in winter, I don't catch a cold."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1758"
+	},
+	{
+		"point": "矢先に",
+		"meaning": {
+			"meaning": "Just as one is about to start doing something",
+			"example": "Just as I was about to leave the house, it started raining"
+		},
+		"readings": [
+			{
+				"reading": "やさきに"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "私が返事をしようとした矢先に、彼が口を出してきた。",
+				"translations": [
+					"I was about to reply, when he boldly cut in."
+				]
+			},
+			{
+				"phrase": "父が出かけようとした矢先に電話が鳴った。",
+				"translations": [
+					"My father was about to leave when the telephone rang."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1790"
+	},
+	{
+		"point": "と言ったらない",
+		"meaning": {
+			"meaning": "There's no way to express...",
+			"example": "There's no way to express my gratitude for your saving me"
+		},
+		"readings": [
+			{
+				"reading": "といったらない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "良子さんの美しさと言ったらない。",
+				"translations": [
+					"There's no way to express Yoshiko's beauty."
+				]
+			},
+			{
+				"phrase": "今まで残業し続いたせいで、体の疲れ具合と言ったらない。",
+				"translations": [
+					"I cannot describe my exhaustion after having worked so much overtime."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1792"
+	},
+	{
+		"point": "〜てまで",
+		"meaning": {
+			"meaning": "do as far as to",
+			"example": "～という程まで"
+		},
+		"usages": [
+			"Verb て-form+まで"
+		],
+		"phrases": [
+			{
+				"phrase": "お金を払ってまで見たい映画ではない。",
+				"translations": [
+					"It's not a movie one wants to pay to see."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1797"
+	},
+	{
+		"point": "お茶を濁す",
+		"meaning": {
+			"meaning": "to avoid giving a direct answer",
+			"example": "本音を見せず、お茶を濁した。He beat around the bush and avoided showing his true feelings.//もちろん人それぞれだからと慌てて茶を濁し、話題をすり替えた。She hurriedly made up some excuse about there being all types of people and changed the subject."
+		},
+		"readings": [
+			{
+				"reading": "おちゃをにごす"
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1604"
+	},
+	{
+		"point": "ふと",
+		"meaning": {
+			"meaning": "suddenly, by coincidence",
+			"example": "without thinking, I shouted out"
+		},
+		"phrases": [
+			{
+				"phrase": "電車の中でふと木村さんを見かけた",
+				"translations": [
+					"By coincidence, I happened to see Kimura san on the train"
+				]
+			},
+			{
+				"phrase": "ふと新しい考えが浮かんだ。",
+				"translations": [
+					"Suddenly, I hit upon this new idea."
+				]
+			},
+			{
+				"phrase": "テレビを見ていて学生時代の友達をふと思い出した。",
+				"translations": [
+					"Watching TV,I had this instant recall of the memory of my friend during my student days."
+				]
+			},
+			{
+				"phrase": "ふとした事が人生の分かれ目になることがある。",
+				"translations": [
+					"A pure happenstance can be a die-casting event in your life."
+				]
+			},
+			{
+				"phrase": "うまい考えがふと浮かんだ。",
+				"translations": [
+					"A happy idea came upon me."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "946"
+	},
+	{
+		"point": "せいぜい (精精)",
+		"meaning": {
+			"meaning": "my utmost, at most",
+			"example": "try my utmost"
+		},
+		"phrases": [
+			{
+				"phrase": "この仕事だったらせいぜい三日もあればできる。",
+				"translations": [
+					"If it's this type of work, it can be done in about three days at the outside."
+				]
+			},
+			{
+				"phrase": "この仕事の完成にせいぜい努力します。",
+				"translations": [
+					"I will exert my best in finishing this work."
+				]
+			},
+			{
+				"phrase": "あの婦人はせいぜい40歳だ。",
+				"translations": [
+					"The lady is forty years old at most."
+				]
+			},
+			{
+				"phrase": "ここから歩いてせいぜい10分のところです。",
+				"translations": [
+					"It is no more than ten minutes' walk from here."
+				]
+			},
+			{
+				"phrase": "この時計はせいぜい10ドルだ。",
+				"translations": [
+					"This watch costs ten dollar at most."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "937"
+	},
+	{
+		"point": "〜だに",
+		"meaning": {
+			"meaning": "Even; just",
+			"example": "I never even imagined it"
+		},
+		"phrases": [
+			{
+				"phrase": "想像だにしなかった",
+				"translations": [
+					"I never even imagined it"
+				]
+			},
+			{
+				"phrase": "聞くだに恐ろしい",
+				"translations": [
+					"Just hearing about it is dreadful"
+				]
+			},
+			{
+				"phrase": "その質問はいまだに頭から離れない。",
+				"translations": [
+					"That question still sticks me."
+				]
+			},
+			{
+				"phrase": "その州では未だに古い慣習が根強い、とその文化人類学者は言っている。",
+				"translations": [
+					"The anthropologist says old customs still prevail in the province."
+				]
+			},
+			{
+				"phrase": "その母親は子供の死をいまだに嘆き悲しんでいた。",
+				"translations": [
+					"The mother was still grieving over her child's death."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1247"
+	},
+	{
+		"point": "〜が早いか",
+		"meaning": {
+			"meaning": "as soon as",
+			"example": "As soon as the President arrived"
+		},
+		"readings": [
+			{
+				"reading": "〜がはやいか"
+			}
+		],
+		"usages": [
+			"Verb dictionary form+がはやいか"
+		],
+		"phrases": [
+			{
+				"phrase": "社長が会議室に入ったがはやいか、早速会議が始まった。",
+				"translations": [
+					"As soon as the company president entered the meeting room, the meeting started."
+				]
+			},
+			{
+				"phrase": "その力士はまわしを取るが早いか、相手を投げ飛ばした。",
+				"translations": [
+					"As soon as the sumo wrestler snared the front of the opponent's sash, he tumbled him onto the ground."
+				]
+			},
+			{
+				"phrase": "新刊を出版したのですが、出版するが早いか腹を立てた人から手紙が届き始めました。",
+				"translations": [
+					"We put a new book out, but the second it was published we started to get letters from angry people."
+				]
+			},
+			{
+				"phrase": "ことによるとあの女は、私が太刀打ちを始めるが早いか、人の助けでも呼ぶために、藪をくぐって逃げたかもしれない。",
+				"translations": [
+					"It's possible that as soon as I started the sword fight, that that woman ran slipped into the grove and ran to call for help."
+				]
+			},
+			{
+				"phrase": "言うが早いかやってしまった。",
+				"translations": [
+					"No sooner said than done."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1366"
+	},
+	{
+		"point": "〜をものともせずに",
+		"meaning": {
+			"meaning": "In the face of, in defiance of, in spite of",
+			"example": "周囲の反対をものともせずに、二人は結婚した。"
+		},
+		"phrases": [
+			{
+				"phrase": "周囲の反対をものともせずに、二人は結婚した。",
+				"translations": [
+					"in defiance of everyone around them, the two of them got married."
+				]
+			},
+			{
+				"phrase": "雪の深い道をものともせずそいつはひたすら車を駆った。",
+				"translations": [
+					"Without heed to the road deeply covered with snow, he doggedly drove on."
+				]
+			},
+			{
+				"phrase": "敵の攻撃を物ともせず部隊は突進した。",
+				"translations": [
+					"Heedless of the enemy advance, the troops charged."
+				]
+			},
+			{
+				"phrase": "寒さをものともせずに、彼は薄着で外出した",
+				"translations": [
+					"Making nothing of the cold he went out in thin clothes."
+				]
+			},
+			{
+				"phrase": "氷のような水をものともせずに彼は川へ飛びこんだ",
+				"translations": [
+					"He jumped into the river in defiance of the icy water."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1110"
+	},
+	{
+		"point": "あればこそ",
+		"meaning": {
+			"meaning": "only because",
+			"example": "~だからこそ（他の理由ではない）"
+		},
+		"phrases": [
+			{
+				"phrase": "皆様の協力があればこそ無事故で完工できたことを感謝しております。",
+				"translations": [
+					"I'm thankful to you all, it's particularly because of all of your support that we were able to complete construction without incident."
+				]
+			},
+			{
+				"phrase": "エア切れで２０メートルの深度からエアエンボにもかからず浮上できたのも、日頃の訓練あればこそでした。",
+				"translations": [
+					"The fact that I could surface from the depth of 20 meters after running out of air without suffering air embolism could only be attributed to the constant training I went through."
+				]
+			},
+			{
+				"phrase": "私にはその仕事がやさしいとわかった。前にもそんな仕事をしたことがあればこそだ。",
+				"translations": [
+					"I found the work easy, especially since I had done that kind of work before."
+				]
+			},
+			{
+				"phrase": "あなたのためを思えばこそ、厳しくしているのだ。",
+				"translations": [
+					"Because I am especially thinking about your wellbeing, I am strict."
+				]
+			},
+			{
+				"phrase": "頭がよければこその悩みですね。",
+				"translations": [
+					"Especially because she is smart, she worries about such things."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "496"
+	},
+	{
+		"point": "どうも",
+		"meaning": {
+			"meaning": "apparently, naturally",
+			"example": "of course she got angry"
+		},
+		"phrases": [
+			{
+				"phrase": "この空模様では、どうも雨になりそうだ。",
+				"translations": [
+					"With this kind of sky apparently it will rain"
+				]
+			},
+			{
+				"phrase": "どうもうまくゆかない。",
+				"translations": [
+					"Whatever I do, it doesn't end up well."
+				]
+			},
+			{
+				"phrase": "どうも済みません。",
+				"translations": [
+					"I feel very bad about it."
+				]
+			},
+			{
+				"phrase": "どうもよくわからん。",
+				"translations": [
+					"It's not very clear and I don't quite understand."
+				]
+			},
+			{
+				"phrase": "「あの人たちは、またストをやるんだろうか」「どうもそうらしいね」",
+				"translations": [
+					"\"Will they go on strike again?\" \"I'm afraid so.\""
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "994"
+	},
+	{
+		"point": "かたわら",
+		"meaning": {
+			"meaning": "besides doing a main thing, one is also involved in another activities.",
+			"example": "the king sat beside the queen"
+		},
+		"usages": [
+			"Verb dictionary form+かたわら",
+			"Noun+の+かたわら"
+		],
+		"phrases": [
+			{
+				"phrase": "メアリーは読書をしており、１匹の猫がかたわらで眠っていた。",
+				"translations": [
+					"Mary was reading, with a cat sleeping beside her."
+				]
+			},
+			{
+				"phrase": "王妃は王のかたわらに立っていた。",
+				"translations": [
+					"The queen stood beside the king."
+				]
+			},
+			{
+				"phrase": "審判はコートのかたわらにある高い椅子に座る。",
+				"translations": [
+					"The umpire sits in a high chair at the side of the court."
+				]
+			},
+			{
+				"phrase": "私はスペイン語を習うかたわら、趣味でフラメンコを習うことにしました.",
+				"translations": [
+					"As well as studying Spanish, I decided to study flamenco as a hobby."
+				]
+			},
+			{
+				"phrase": "私の母は自分で編み物を習うかたわら、人にも教えている",
+				"translations": [
+					"In addition to learning how to knit, my mother also teaches it ."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1274"
+	},
+	{
+		"point": "気が付いた",
+		"meaning": {
+			"meaning": "I realized",
+			"example": "natto is tasty, I realized"
+		},
+		"readings": [
+			{
+				"reading": "きがついた"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "納豆は美味しいと気が付いた。",
+				"translations": [
+					"Natto is tasty I realized."
+				]
+			},
+			{
+				"phrase": "気がついたら病院のベッドに横たわっていた。",
+				"translations": [
+					"When I came to, I was lying down on a hospital bed."
+				]
+			},
+			{
+				"phrase": "彼が好きになったのに気が付いた。",
+				"translations": [
+					"I realized that I liked him"
+				]
+			},
+			{
+				"phrase": "公園のベンチにかばんを置き忘れたことに今気がついた。",
+				"translations": [
+					"I just realized that I forgot my satchel in a bench of the park."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "382"
+	},
+	{
+		"point": "がてら",
+		"meaning": {
+			"meaning": "while doing something and taking advantage of that opportunity to do something else",
+			"example": "getting one thing done while doing something else"
+		},
+		"usages": [
+			"Noun+がてら",
+			"Verb ます stem+がてら"
+		],
+		"phrases": [
+			{
+				"phrase": "散歩がてら本屋に寄った。",
+				"translations": [
+					"Since I took a walk. I stopped at a bookshop."
+				]
+			},
+			{
+				"phrase": "せっかく上京したのだから見物がてら、買い物でもしよう。",
+				"translations": [
+					"Since I've come all the way to the capital, I might as well get some shopping done on top of sightseeing."
+				]
+			},
+			{
+				"phrase": "ドライブがてら駅に私を迎えにきてください。",
+				"translations": [
+					"Since you go for a run in the car, coud you pick me up at the station?"
+				]
+			},
+			{
+				"phrase": "息抜きがてら同僚とチャットをする。",
+				"translations": [
+					"Chat with a colleague on the internet for a change."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N1"
+		],
+		"id": "1265"
+	},
+	{
+		"point": "極まりない/　極まる",
+		"meaning": {
+			"meaning": "unlimited, extremely, boundlessly",
+			"example": "私は、彼の失礼きわまりない態度に我慢ならなかった。 I couldn't get used to his unlimited rudeness."
+		},
+		"readings": [
+			{
+				"reading": "きわまりない/　きわまる"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "その机は、乱雑極まりない状態だ。",
+				"translations": [
+					"The desk is in a state of total disorder."
+				]
+			},
+			{
+				"phrase": "私は、彼の失礼きわまりない態度に我慢ならなかった。",
+				"translations": [
+					"I couldn't get used to his unlimited rudeness."
+				]
+			},
+			{
+				"phrase": "こんな風は強い日に小型のボートで沖に出るなんて、危険極まりない。",
+				"translations": [
+					"This type of wind, for example sailing offshore on a small boat in a hard day, is extremely dangerous."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1215"
+	},
+	{
+		"point": "たかだか (高高)",
+		"meaning": {
+			"meaning": "At most",
+			"example": "At the very outside"
+		},
+		"phrases": [
+			{
+				"phrase": "この仕事だったらたかだか三日もあればできる。",
+				"translations": [
+					"This work can be completed within about three days at the outside."
+				]
+			},
+			{
+				"phrase": "パーティーの出席者はたかだか20人だろう。",
+				"translations": [
+					"No more than (At best, only) 20 people will come to the party."
+				]
+			},
+			{
+				"phrase": "たかだか五万円稼いだくらいでいばるな。",
+				"translations": [
+					"Don't be cocky about making a mere 50,000 yen."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1297"
+	},
+	{
+		"point": "居られない",
+		"meaning": {
+			"meaning": "cannot exist, not possible, can't afford to",
+			"example": "don't have the time to"
+		},
+		"readings": [
+			{
+				"reading": "いられない"
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "お客様がそろそろお着きになって大変なので、のんびりお茶など飲んではいられない。",
+				"translations": [
+					"Guests are arriving soon and we will be very busy, so we won't be able to have a quiet cup of tea."
+				]
+			},
+			{
+				"phrase": "眩しいというのは目をあけていられないほど光が強い様子だ。",
+				"translations": [
+					"Dazzling is the state when light is so hard that you almost can't keep the eyes open."
+				]
+			},
+			{
+				"phrase": "出かけたとき、外にいられないくらい風がつきささった。",
+				"translations": [
+					"When we went out, we almost couln't stand the bite of the wind."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1608"
+	},
+	{
+		"point": "からすると",
+		"meaning": {
+			"meaning": "from (the point of view)",
+			"example": "from his point of view"
+		},
+		"phrases": [
+			{
+				"phrase": "メールを受け取った方からすると、何のわるぎもなくついうっかり転送してしまったということでも、発信者からすると自分が丹精こめて書いたものを、無断で第三者に転送されてしまったということにもなりかねません。",
+				"translations": [
+					"As the person receiving the email he might casually forward the message with no ill intent but for the person who sent the email, put together with hard effort, to be sent on to a third party without notice could be unforgivable."
+				]
+			},
+			{
+				"phrase": "知っている側からすると",
+				"translations": [
+					"From the point of view of those who know ..."
+				]
+			},
+			{
+				"phrase": "この見地からすると、君の言うことは正しい。",
+				"translations": [
+					"From this point of view, you are right."
+				]
+			},
+			{
+				"phrase": "空模様では、からすると、雨はしばらくは止まないだろう。",
+				"translations": [
+					"From the look of the sky, I'm afraid the rain won't let up for a while."
+				]
+			},
+			{
+				"phrase": "空模様からすると、今夜あたり雪になるかもしれない。",
+				"translations": [
+					"From the look of the sky, it may begin to snow tonight."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "728"
+	},
+	{
+		"point": "せめて",
+		"meaning": {
+			"meaning": "at least, at most a small thing",
+			"example": "at least I want to finish"
+		},
+		"phrases": [
+			{
+				"phrase": "せめてなべでもあれば、ご飯が炊けるんですが",
+				"translations": [
+					"If we at least had a pot, we could cook rice"
+				]
+			},
+			{
+				"phrase": "せめて両親には分かって貰いたいんですが",
+				"translations": [
+					"At least I want to be understood by my parents"
+				]
+			},
+			{
+				"phrase": "じゃ、せめてテーブルの準備でもしましょう。",
+				"translations": [
+					"At least let me help with the table."
+				]
+			},
+			{
+				"phrase": "せめて後十分待ってくれませんか。",
+				"translations": [
+					"Can't you wait just ten more minutes?"
+				]
+			},
+			{
+				"phrase": "せめて謝ってくれてもいいのに。",
+				"translations": [
+					"He might at least apologize."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "942"
+	},
+	{
+		"point": "からには",
+		"meaning": {
+			"meaning": "so long as, since",
+			"example": "so long as I am a woman"
+		},
+		"phrases": [
+			{
+				"phrase": "やると決めたからには最後までやれ",
+				"translations": [
+					"So long as you commit yourself to do it, stick with it to the very end."
+				]
+			},
+			{
+				"phrase": "パリに行ったからには絶対エッフェル塔に昇りたい",
+				"translations": [
+					"Seeing as I went (came) to Paris, I absolutely want to go up the Eiffel Tower."
+				]
+			},
+			{
+				"phrase": "女として生まれたからには綺麗でいたい",
+				"translations": [
+					"Since I was born as a woman, I want to be pretty."
+				]
+			},
+			{
+				"phrase": "約束したからには、守っていただきます。守らなければ死んでもらいます。",
+				"translations": [
+					"As/in that you have made a promise, please keep it. If you don't, die for me."
+				]
+			},
+			{
+				"phrase": "試合に出るからには、勝ちたい。",
+				"translations": [
+					"Since I am going for match, I would like to win."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "554"
+	},
+	{
+		"point": "〜にして",
+		"meaning": {
+			"meaning": "only; because of that"
+		},
+		"phrases": [
+			{
+				"phrase": "留学生にして日本に行った。",
+				"translations": [
+					"Only as a student did I go to Japan."
+				]
+			},
+			{
+				"phrase": "９０歳にして彼はいまだに驚くほど元気である。",
+				"translations": [
+					"At the age of ninety he still has surprising vigour."
+				]
+			},
+			{
+				"phrase": "これは長年訓練を積んだ彼のような人にして初めてできる技だ。",
+				"translations": [
+					"This is a skill that only a person with long-term training such as he can pull off."
+				]
+			},
+			{
+				"phrase": "かれはノーベル賞に値する研究を成し遂げた。これは、偉大な科学者にして初めてできることであろう。",
+				"translations": [
+					"He worked hard to execute Nobel Prize level research. This was the something only a great scholar could achieve."
+				]
+			}
+		],
+		"jlpt": "N1",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1327"
+	}
+]

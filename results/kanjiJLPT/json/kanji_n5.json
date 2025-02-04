@@ -1,0 +1,6874 @@
+[
+	{
+		"kanji": "日",
+		"meanings": [
+			"day",
+			"sun",
+			"Japan",
+			"counter for days"
+		],
+		"onyomi": [
+			"ニチ",
+			"ジツ"
+		],
+		"kunyomi": [
+			"ひ",
+			"-び",
+			"-か"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a sun, which makes a day.\nIn the ancient times this character was once written as a circle with a dot inside, but over time it became rectangular and the dot in the middle morphed into a line.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "今日"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "today, this day, these days, recently, nowadays"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "日"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "day, days, sun, sunshine, (the) day, daytime, date"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "毎日"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まいにち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "every day"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::0"
+		],
+		"id": "33580517",
+		"svg": "065e5.svg"
+	},
+	{
+		"kanji": "一",
+		"meanings": [
+			"one",
+			"one radical (no.1)"
+		],
+		"onyomi": [
+			"イチ",
+			"イツ"
+		],
+		"kunyomi": [
+			"ひと-",
+			"ひと.つ"
+		],
+		"strokes": "1",
+		"mnemonic": "A pictograph of a one line.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一緒に"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっしょに"
+					}
+				],
+				"translations": [
+					{
+						"translation": "together (with), at the same time, in a lump"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一度"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いちど"
+					}
+				],
+				"translations": [
+					{
+						"translation": "once, one time, temporarily, for a moment, one degree, one tone"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一番"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いちばん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "number one, first, best, most, game, round"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::1",
+			"components::0"
+		],
+		"id": "33574400",
+		"svg": "04e00.svg"
+	},
+	{
+		"kanji": "国",
+		"meanings": [
+			"country"
+		],
+		"onyomi": [
+			"コク"
+		],
+		"kunyomi": [
+			"くに"
+		],
+		"strokes": "8",
+		"components": [
+			{
+				"component": "囗",
+				"meaning": "closed box"
+			},
+			{
+				"component": "玉",
+				"meaning": "ball"
+			}
+		],
+		"mnemonic": "The country of Japan's flag looks like a red ball inside of a white rectangular box.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "国"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くに"
+					}
+				],
+				"translations": [
+					{
+						"translation": "country, state, region, national government, central government, home (i.e. hometown, home country), (arch.)  province (of Japan)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "全国"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぜんこく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the whole country"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "王国"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おうこく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "kingdom, monarchy"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::8",
+			"components::2"
+		],
+		"id": "33576701",
+		"svg": "056fd.svg"
+	},
+	{
+		"kanji": "人",
+		"meanings": [
+			"person"
+		],
+		"onyomi": [
+			"ジン",
+			"ニン"
+		],
+		"kunyomi": [
+			"ひと",
+			"-り",
+			"-と"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a headless, armless person.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひと"
+					}
+				],
+				"translations": [
+					{
+						"translation": "person, someone, human beings, mankind, human (Homo sapiens), (other) people, others"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "人間"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にんげん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "human being, human, person, character (of a person)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "counter for people"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::2",
+			"components::0"
+		],
+		"id": "33574586",
+		"svg": "04eba.svg"
+	},
+	{
+		"kanji": "年",
+		"meanings": [
+			"year",
+			"counter for years"
+		],
+		"onyomi": [
+			"ネン"
+		],
+		"kunyomi": [
+			"とし"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "𠂉",
+				"meaning": "cow head"
+			},
+			{
+				"component": "㐄",
+				"meaning": "almost a year"
+			}
+		],
+		"mnemonic": "Spending almost a year making an elaborate fake cow head — now that's basically a whole year wasted. What are you going to use that fake cow head for anyway, huh?",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "年"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ねん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "year, counter for years (e.g. of an era), grades (e.g. school), period of an apprentice's contract (usu. ten years)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "年"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "year, age, years, past one's prime, old age"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "少年"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょうねん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "boy, juvenile, young boy, youth, lad"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33578612",
+		"svg": "05e74.svg"
+	},
+	{
+		"kanji": "大",
+		"meanings": [
+			"large",
+			"big"
+		],
+		"onyomi": [
+			"ダイ",
+			"タイ"
+		],
+		"kunyomi": [
+			"おお-",
+			"おお.きい",
+			"-おお.いに"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "人",
+				"meaning": "person"
+			}
+		],
+		"mnemonic": "A pictograph of a person with their hands stretched out. Why is he doing that? Who knows. He's really large, so it's not like you can do anything about him; he'll beat you up anyway.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "大きい"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おおきい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "big, large, loud, extensive, spacious, important"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "大きな"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おおきな"
+					}
+				],
+				"translations": [
+					{
+						"translation": "big, large, great"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "大変"
+					}
+				],
+				"readings": [
+					{
+						"reading": "たいへん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "very, greatly, immense, enormous, serious, grave"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33577255",
+		"svg": "05927.svg"
+	},
+	{
+		"kanji": "十",
+		"meanings": [
+			"ten"
+		],
+		"onyomi": [
+			"ジュウ",
+			"ジッ",
+			"ジュッ"
+		],
+		"kunyomi": [
+			"とお",
+			"と",
+			"そ"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a cross, which signifies the number ten. You know, like the ten commandments?",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "十分"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じゅうぶん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "enough, sufficient, sufficiently, fully, division into ten"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "ten, 10, ten years of age"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "二十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はたち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "20 years old, (arch.)  twenty"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::2",
+			"components::0"
+		],
+		"id": "33575745",
+		"svg": "05341.svg"
+	},
+	{
+		"kanji": "二",
+		"meanings": [
+			"two",
+			"two radical (no. 7)"
+		],
+		"onyomi": [
+			"ニ",
+			"ジ"
+		],
+		"kunyomi": [
+			"ふた",
+			"ふた.つ",
+			"ふたたび"
+		],
+		"strokes": "2",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			}
+		],
+		"mnemonic": "A pictograph of two lines.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "二人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふたり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "two persons, two people, pair, couple"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "二"
+					}
+				],
+				"readings": [
+					{
+						"reading": "に"
+					}
+				],
+				"translations": [
+					{
+						"translation": "two, 2"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "二度と"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にどと"
+					}
+				],
+				"translations": [
+					{
+						"translation": "never again"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::2",
+			"components::2"
+		],
+		"id": "33574540",
+		"svg": "04e8c.svg"
+	},
+	{
+		"kanji": "本",
+		"meanings": [
+			"book",
+			"present",
+			"main",
+			"origin",
+			"true",
+			"real",
+			"counter for long cylindrical things"
+		],
+		"onyomi": [
+			"ホン"
+		],
+		"kunyomi": [
+			"もと"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			}
+		],
+		"mnemonic": "A pictograph of a tree with an extra stroke at the bottom to show where it's supposed to be cut. Because you first need to cut at least one tree to make a book!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "本当"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ほんとう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "truth, reality, proper, right, genuine, authentic"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "本"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ほん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "book, volume, this, present, main, head"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "本気"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ほんき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "seriousness, earnestness, truth, sanctity"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33580844",
+		"svg": "0672c.svg"
+	},
+	{
+		"kanji": "中",
+		"meanings": [
+			"in",
+			"inside",
+			"middle",
+			"mean",
+			"center"
+		],
+		"onyomi": [
+			"チュウ"
+		],
+		"kunyomi": [
+			"なか",
+			"うち",
+			"あた.る"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "口",
+				"meaning": "mouth"
+			},
+			{
+				"component": "丨",
+				"meaning": "stick"
+			}
+		],
+		"mnemonic": "A pictograph of a stick jammed in someone's mouth. Maybe a prehistoric dentist keeping his patient's mouth open...?",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "中"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なか"
+					}
+				],
+				"translations": [
+					{
+						"translation": "inside, interior, among, within, middle, center, during"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "中"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "medium, average, moderation, middle school, China, volume two (of three), during (a certain time when one did or is doing something)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "途中"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とちゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "on the way, en route, in the middle of, midway, halfway"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33574445",
+		"svg": "04e2d.svg"
+	},
+	{
+		"kanji": "長",
+		"meanings": [
+			"long",
+			"leader",
+			"superior",
+			"senior"
+		],
+		"onyomi": [
+			"チョウ"
+		],
+		"kunyomi": [
+			"なが.い",
+			"おさ"
+		],
+		"strokes": "8",
+		"components": [
+			{
+				"component": "󺨂",
+				"meaning": "hair comb"
+			},
+			{
+				"component": "󺨁",
+				"meaning": "long legs"
+			}
+		],
+		"mnemonic": "A hair comb with really long legs (also called \"teeth\" — you know, the part which you actually use to brush your hair with?) is a fashion accessory that's not going to be seen often. It may be long, but it certainly isn't practical!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "長い"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ながい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "long (distance, length), long (time), protracted, prolonged"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "成長"
+					}
+				],
+				"readings": [
+					{
+						"reading": "せいちょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "growth, development, growing up, growth (of a company, the economy, etc.)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "長"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "head, chief, merit, strong point, superiority, major"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::8",
+			"components::2"
+		],
+		"id": "33592695",
+		"svg": "09577.svg"
+	},
+	{
+		"kanji": "出",
+		"meanings": [
+			"exit",
+			"leave",
+			"go out",
+			"come out",
+			"put out",
+			"protrude"
+		],
+		"onyomi": [
+			"シュツ",
+			"スイ"
+		],
+		"kunyomi": [
+			"で.る",
+			"-で",
+			"だ.す",
+			"-だ.す",
+			"い.でる",
+			"い.だす"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "山",
+				"meaning": "mountain"
+			},
+			{
+				"component": "山",
+				"meaning": "mountain"
+			}
+		],
+		"mnemonic": "You see two mountains stacked on top of each other that stand in your way. Uh... is that the exit...? Why is getting out of here so hard?!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "出る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "でる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to leave, to exit, to leave (on a journey), to depart, to move forward, to come to, to get to"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "出す"
+					}
+				],
+				"readings": [
+					{
+						"reading": "だす"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to take out, to get out, to put out, to reveal, to submit (e.g. thesis), to turn in, to publish"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "思い出す"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おもいだす"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to recall, to remember, to recollect"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33575418",
+		"svg": "051fa.svg"
+	},
+	{
+		"kanji": "三",
+		"meanings": [
+			"three"
+		],
+		"onyomi": [
+			"サン",
+			"ゾウ"
+		],
+		"kunyomi": [
+			"み",
+			"み.つ",
+			"みっ.つ"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "二",
+				"meaning": "two"
+			}
+		],
+		"mnemonic": "A pictograph of three lines.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "三"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "three, 3"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "三人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さんにん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "three people"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "三十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さんじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "thirty, 30"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33574409",
+		"svg": "04e09.svg"
+	},
+	{
+		"kanji": "時",
+		"meanings": [
+			"time",
+			"hour"
+		],
+		"onyomi": [
+			"ジ"
+		],
+		"kunyomi": [
+			"とき",
+			"-どき"
+		],
+		"strokes": "10",
+		"components": [
+			{
+				"component": "日",
+				"meaning": "sun"
+			},
+			{
+				"component": "寺",
+				"meaning": "Buddhist temple"
+			}
+		],
+		"mnemonic": "Imagine a Buddhist temple, late in the day, with the sun already almost setting in the west. The monks at the temple are busy meditating, with the sun's gentle warmth caressing their faces. They've been doing that for several hours already, but to them it's only been a short while since they started. Yes, the flow of time at a Buddhist temple is very different from anywhere else in the world.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "時"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "time, hour, occasion, case, chance, opportunity"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "時間"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じかん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "time, hour, period, class"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "その時"
+					}
+				],
+				"readings": [
+					{
+						"reading": "そのとき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "at that time, at that moment, then, on that occasion"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::10",
+			"components::2"
+		],
+		"id": "33580610",
+		"svg": "06642.svg"
+	},
+	{
+		"kanji": "行",
+		"meanings": [
+			"going",
+			"journey",
+			"carry out",
+			"conduct",
+			"act",
+			"line",
+			"row",
+			"bank"
+		],
+		"onyomi": [
+			"コウ",
+			"ギョウ",
+			"アン"
+		],
+		"kunyomi": [
+			"い.く",
+			"ゆ.く",
+			"-ゆ.き",
+			"-ゆき",
+			"-い.き",
+			"-いき",
+			"おこな.う",
+			"おこ.なう"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "彳",
+				"meaning": "stand still"
+			},
+			{
+				"component": "亍",
+				"meaning": "take a small step"
+			}
+		],
+		"mnemonic": "Every journey starts the same: first you take a single small step and stop standing still, and then you go!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "行く"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to go, to move (in a direction or towards a specific location), to proceed, to take place, to pass through, to come and go, to walk"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "行う"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おこなう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to perform, to do, to conduct oneself, to carry out"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "行動"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こうどう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "action, conduct, behaviour, behavior, mobilization, mobilisation"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33589324",
+		"svg": "0884c.svg"
+	},
+	{
+		"kanji": "見",
+		"meanings": [
+			"see",
+			"hopes",
+			"chances",
+			"idea",
+			"opinion",
+			"look at",
+			"visible"
+		],
+		"onyomi": [
+			"ケン"
+		],
+		"kunyomi": [
+			"み.る",
+			"み.える",
+			"み.せる"
+		],
+		"strokes": "7",
+		"components": [
+			{
+				"component": "目",
+				"meaning": "eye"
+			},
+			{
+				"component": "儿",
+				"meaning": "legs"
+			}
+		],
+		"mnemonic": "A walking eye with legs attached; surely its main purpose is to see.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "見る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to see, to look, to examine, to look over, to look after, to attend to, to experience"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "見える"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みえる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to be seen, to be in sight, to look, to seem, to come"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "見せる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みせる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to show, to display"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::7",
+			"components::2"
+		],
+		"id": "33589643",
+		"svg": "0898b.svg"
+	},
+	{
+		"kanji": "月",
+		"meanings": [
+			"month",
+			"moon"
+		],
+		"onyomi": [
+			"ゲツ",
+			"ガツ"
+		],
+		"kunyomi": [
+			"つき"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a moon, whose full cycle takes approximately a month.\nIn the ancient times this character looked more like a crescent moon, but over time it morphed into being drawn like this.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "月"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "moon, month"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "ヶ月"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かげつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "months (period of)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "月"
+					}
+				],
+				"readings": [
+					{
+						"reading": "げつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Monday"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::0"
+		],
+		"id": "33580808",
+		"svg": "06708.svg"
+	},
+	{
+		"kanji": "後",
+		"meanings": [
+			"behind",
+			"back",
+			"later"
+		],
+		"onyomi": [
+			"ゴ",
+			"コウ"
+		],
+		"kunyomi": [
+			"のち",
+			"うし.ろ",
+			"うしろ",
+			"あと",
+			"おく.れる"
+		],
+		"strokes": "9",
+		"components": [
+			{
+				"component": "彳",
+				"meaning": "stand still"
+			},
+			{
+				"component": "幺",
+				"meaning": "thread spool"
+			},
+			{
+				"component": "夂",
+				"meaning": "late winter"
+			}
+		],
+		"mnemonic": "It's going to be a late winter this year. The only winter clothes you have cannot be even called clothes anymore; they are so tattered that they are literally falling apart. Quickly, grab your thread spool and start sewing! There's no time to stand still! It's going to be too late after it gets too cold and you'll freeze to death due to lack of winter clothes!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "後"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あと"
+					}
+				],
+				"translations": [
+					{
+						"translation": "behind, rear, after, later, remainder, the rest, more (e.g. five more minutes)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "最後"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さいご"
+					}
+				],
+				"translations": [
+					{
+						"translation": "end, conclusion, last, final, no sooner than, once"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "後"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ご"
+					}
+				],
+				"translations": [
+					{
+						"translation": "after"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::9",
+			"components::3"
+		],
+		"id": "33578892",
+		"svg": "05f8c.svg"
+	},
+	{
+		"kanji": "前",
+		"meanings": [
+			"in front",
+			"before"
+		],
+		"onyomi": [
+			"ゼン"
+		],
+		"kunyomi": [
+			"まえ",
+			"-まえ"
+		],
+		"strokes": "9",
+		"components": [
+			{
+				"component": "䒑",
+				"meaning": "antlers on a wall"
+			},
+			{
+				"component": "刖",
+				"meaning": "cutting off a leg as punishment"
+			}
+		],
+		"mnemonic": "If you're going to cut off someone's leg as a punishment in a gruesome ritual then you might as well do that in front of a creepy pair of antlers on a wall, right?",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "前"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "in front (of), before (e.g. a building), before, earlier, (the) front, frontal part, forward"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "名前"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なまえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "name, given name, first name"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お前"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おまえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "you, presence (of a god, nobleman, etc.)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::9",
+			"components::2"
+		],
+		"id": "33575501",
+		"svg": "0524d.svg"
+	},
+	{
+		"kanji": "生",
+		"meanings": [
+			"life",
+			"genuine",
+			"birth"
+		],
+		"onyomi": [
+			"セイ",
+			"ショウ"
+		],
+		"kunyomi": [
+			"い.きる",
+			"い.かす",
+			"い.ける",
+			"う.まれる",
+			"うま.れる",
+			"う.まれ",
+			"うまれ",
+			"う.む",
+			"お.う",
+			"は.える",
+			"は.やす",
+			"き",
+			"なま",
+			"なま-",
+			"な.る",
+			"な.す",
+			"む.す",
+			"-う"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "𠂉",
+				"meaning": "cow head"
+			},
+			{
+				"component": "土",
+				"meaning": "earth"
+			}
+		],
+		"mnemonic": "That decapitated cow head you have over there will eventually return to the earth, be slowly absorbed, and will be transformed into nutrients that will nurture new life. Ah, the cycle of life.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "生きる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いきる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to live, to exist, to make a living, to subsist, to be in effect, to be in use"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "生む"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うむ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "生活"
+					}
+				],
+				"readings": [
+					{
+						"reading": "せいかつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "living, life (one's daily existence), livelihood"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33584415",
+		"svg": "0751f.svg"
+	},
+	{
+		"kanji": "五",
+		"meanings": [
+			"five"
+		],
+		"onyomi": [
+			"ゴ"
+		],
+		"kunyomi": [
+			"いつ",
+			"いつ.つ"
+		],
+		"strokes": "4",
+		"mnemonic": "It has five lines. It looks like a 5. It's a five.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "五"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ご"
+					}
+				],
+				"translations": [
+					{
+						"translation": "five, 5"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "五十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fifty, 50"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "十五"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じゅうご"
+					}
+				],
+				"translations": [
+					{
+						"translation": "15, fifteen"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::0"
+		],
+		"id": "33574548",
+		"svg": "04e94.svg"
+	},
+	{
+		"kanji": "間",
+		"meanings": [
+			"interval",
+			"space"
+		],
+		"onyomi": [
+			"カン",
+			"ケン"
+		],
+		"kunyomi": [
+			"あいだ",
+			"ま",
+			"あい"
+		],
+		"strokes": "12",
+		"components": [
+			{
+				"component": "門",
+				"meaning": "gate"
+			},
+			{
+				"component": "日",
+				"meaning": "sun"
+			}
+		],
+		"mnemonic": "There is only a limited interval of time during which the sun can be seen through the gate.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "人間"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にんげん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "human being, human, person, character (of a person)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "時間"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じかん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "time, hour, period, class"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "間"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あいだ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "space (between), gap, period of time (during, while), duration, between (two parties or things), among (a group), relations (between)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::12",
+			"components::2"
+		],
+		"id": "33592723",
+		"svg": "09593.svg"
+	},
+	{
+		"kanji": "上",
+		"meanings": [
+			"above",
+			"up"
+		],
+		"onyomi": [
+			"ジョウ",
+			"ショウ",
+			"シャン"
+		],
+		"kunyomi": [
+			"うえ",
+			"-うえ",
+			"うわ-",
+			"かみ",
+			"あ.げる",
+			"-あ.げる",
+			"あ.がる",
+			"-あ.がる",
+			"あ.がり",
+			"-あ.がり",
+			"のぼ.る",
+			"のぼ.り",
+			"のぼ.せる",
+			"のぼ.す",
+			"たてまつ.る"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "⺊",
+				"meaning": "divining rod"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			}
+		],
+		"mnemonic": "A pictograph of a magical divining rod hovering above the ground.\nDo not confuse it with 下, which also features a magical levitating divining rod, however that one is crooked, so it's incorrectly hovering right below the ceiling instead of doing it properly above the ground like this one is.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "上"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "above, up, top, summit, surface, before, previous"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "以上"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いじょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "not less than, ... and over, beyond (e.g. one's expectations), above, above-mentioned, aforementioned"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "上げる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あげる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to raise, to elevate, to do up (one's hair), to fly (a kite, etc.), to launch (fireworks, etc.), to land (a boat), to show someone (into a room)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33574410",
+		"svg": "04e0a.svg"
+	},
+	{
+		"kanji": "東",
+		"meanings": [
+			"east"
+		],
+		"onyomi": [
+			"トウ"
+		],
+		"kunyomi": [
+			"ひがし"
+		],
+		"strokes": "8",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "日",
+				"meaning": "sun"
+			}
+		],
+		"mnemonic": "A pictograph of a rising sun behind a tree, representing east.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "東"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひがし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "east"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "東京"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とうきょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Tokyo"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "関東"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんとう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Kanto, region consisting of Tokyo and surrounding prefectures, Kanto, north-eastern half of Japan (during the feudal era)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::8",
+			"components::2"
+		],
+		"id": "33580913",
+		"svg": "06771.svg"
+	},
+	{
+		"kanji": "四",
+		"meanings": [
+			"four"
+		],
+		"onyomi": [
+			"シ"
+		],
+		"kunyomi": [
+			"よ",
+			"よ.つ",
+			"よっ.つ",
+			"よん"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "囗",
+				"meaning": "closed box"
+			},
+			{
+				"component": "儿",
+				"meaning": "legs"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "四"
+					}
+				],
+				"readings": [
+					{
+						"reading": "し"
+					}
+				],
+				"translations": [
+					{
+						"translation": "four"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "四人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "よにん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "four people"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "四十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "よんじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "forty, 40"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33576667",
+		"svg": "056db.svg"
+	},
+	{
+		"kanji": "今",
+		"meanings": [
+			"now"
+		],
+		"onyomi": [
+			"コン",
+			"キン"
+		],
+		"kunyomi": [
+			"いま"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "亼",
+				"meaning": "sloped roof"
+			},
+			{
+				"component": "㇇",
+				"meaning": "katakana fu"
+			}
+		],
+		"mnemonic": "You hear an evil laughter from below. Fufufu. Crap! It's getting closer and closer! But where should you go? You're trapped here and you can only go down. There is one way — now is the time to go up on the sloped roof and escape!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "今"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いま"
+					}
+				],
+				"translations": [
+					{
+						"translation": "now, the present time, just now, another, more"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "今日"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "today, this day, these days, recently, nowadays"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "今度"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こんど"
+					}
+				],
+				"translations": [
+					{
+						"translation": "this time, now, next time, another time, recently, lately"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33574602",
+		"svg": "04eca.svg"
+	},
+	{
+		"kanji": "金",
+		"meanings": [
+			"gold"
+		],
+		"onyomi": [
+			"キン",
+			"コン",
+			"ゴン"
+		],
+		"kunyomi": [
+			"かね",
+			"かな-",
+			"-がね"
+		],
+		"strokes": "8",
+		"components": [
+			{
+				"component": "全",
+				"meaning": "whole"
+			},
+			{
+				"component": "丷",
+				"meaning": "horns"
+			}
+		],
+		"mnemonic": "Money and gold is known to make people corrupt. Even if it's not obvious, even if someone doesn't have a pair of horns growing out of their head and instead they're hiding those horns in their pants, you can still tell their whole existence is corrupt.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "金"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かね"
+					}
+				],
+				"translations": [
+					{
+						"translation": "money, metal"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お金"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おかね"
+					}
+				],
+				"translations": [
+					{
+						"translation": "money"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "金"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "gold (Au), golden (color), valuable, of highest value, money, gold coin, Friday"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::8",
+			"components::2"
+		],
+		"id": "33591761",
+		"svg": "091d1.svg"
+	},
+	{
+		"kanji": "九",
+		"meanings": [
+			"nine"
+		],
+		"onyomi": [
+			"キュウ",
+			"ク"
+		],
+		"kunyomi": [
+			"ここの",
+			"ここの.つ"
+		],
+		"strokes": "2",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "九"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "nine, 9"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "九時"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "nine o'clock"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "九十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きゅうじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "ninety, 90"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::2",
+			"components::0"
+		],
+		"id": "33574493",
+		"svg": "04e5d.svg"
+	},
+	{
+		"kanji": "入",
+		"meanings": [
+			"enter",
+			"insert"
+		],
+		"onyomi": [
+			"ニュウ",
+			"ジュ"
+		],
+		"kunyomi": [
+			"い.る",
+			"-い.る",
+			"-い.り",
+			"い.れる",
+			"-い.れ",
+			"はい.る"
+		],
+		"strokes": "2",
+		"mnemonic": "A pictograph of a person with one hand over his head pointing to the entrance on the left. Over there, enter over there!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "入る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はいる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to enter, to go into, to break into, to join, to enroll, to contain, to hold"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "入れる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いれる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to put in, to let in, to admit, to accept, to accept, to comply, to include"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "受け入れる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うけいれる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to accept, to receive, to agree"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::2",
+			"components::0"
+		],
+		"id": "33575269",
+		"svg": "05165.svg"
+	},
+	{
+		"kanji": "学",
+		"meanings": [
+			"study",
+			"learning",
+			"science"
+		],
+		"onyomi": [
+			"ガク"
+		],
+		"kunyomi": [
+			"まな.ぶ"
+		],
+		"strokes": "8",
+		"components": [
+			{
+				"component": "𭕄",
+				"meaning": "tiny hairs"
+			},
+			{
+				"component": "冖",
+				"meaning": "roof without a chimney"
+			},
+			{
+				"component": "子",
+				"meaning": "child"
+			}
+		],
+		"mnemonic": "What do you do when your child just won't behave and absolutely refuses to study? You lock him up in a derelict hut deep in the forest, and force him to study under a roof full of tiny hairs which are — on a closer look — millions of tiny, hairy, disgusting caterpillars.\nAnd since the hut's roof is so old and dilapidated it can collapse at any time. The threat of all of those creepy caterpillars falling on your child's head should really motivate him to study. The faster he studies the faster he'll be able to leave the hut!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "学校"
+					}
+				],
+				"readings": [
+					{
+						"reading": "がっこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "school"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "学ぶ"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まなぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to study (in depth), to learn, to take lessons in"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "大学"
+					}
+				],
+				"readings": [
+					{
+						"reading": "だいがく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "university, college, former central university of Kyoto (established under the ritsuryo system for the training of government administrators), the Great Learning (one of the Four Books)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::8",
+			"components::3"
+		],
+		"id": "33577830",
+		"svg": "05b66.svg"
+	},
+	{
+		"kanji": "高",
+		"meanings": [
+			"tall",
+			"high",
+			"expensive"
+		],
+		"onyomi": [
+			"コウ"
+		],
+		"kunyomi": [
+			"たか.い",
+			"たか",
+			"-だか",
+			"たか.まる",
+			"たか.める"
+		],
+		"strokes": "10",
+		"components": [
+			{
+				"component": "亠",
+				"meaning": "lid"
+			},
+			{
+				"component": "口",
+				"meaning": "mouth"
+			},
+			{
+				"component": "冂",
+				"meaning": "upside-down box"
+			},
+			{
+				"component": "口",
+				"meaning": "mouth"
+			}
+		],
+		"mnemonic": "That is a really high two-story building. We have the mouth on the bottom being the entrance, the upside-down-box being the first floor, another mouth being the second floor widow, and a lid at the top being its roof.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "高い"
+					}
+				],
+				"readings": [
+					{
+						"reading": "たかい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "high, tall, expensive, high-priced, high (level), above average (in degree, quality, etc.)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "最高"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さいこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "most, highest, maximum, best, wonderful, finest"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "高校"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こうこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "senior high school, high school"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::10",
+			"components::4"
+		],
+		"id": "33594072",
+		"svg": "09ad8.svg"
+	},
+	{
+		"kanji": "円",
+		"meanings": [
+			"circle",
+			"yen",
+			"round"
+		],
+		"onyomi": [
+			"エン"
+		],
+		"kunyomi": [
+			"まる.い",
+			"まる",
+			"まど",
+			"まど.か",
+			"まろ.やか"
+		],
+		"strokes": "4",
+		"mnemonic": "A circular one yen coin. This character looks like one of those bank teller windows where you can obtain such coins, with the upper two rectangles being the glass windows through which you can see the teller, and the lower part being where you put your hand through to take the money.\nInternationally we use the \"¥\" sign to denote the Japanese yen, however domestically the Japanese actually use this kanji as the sign for their currency.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "円"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "yen (Japanese monetary unit), circle"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "円形"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えんけい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "round shape, circle, circular form"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "円を描く"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えんをえがく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to make a circle (of a motion, arrangement, etc.), to move (e.g. one's head) in a circle, to form (the shape of) a circle, to draw a circle"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::0"
+		],
+		"id": "33575302",
+		"svg": "05186.svg"
+	},
+	{
+		"kanji": "子",
+		"meanings": [
+			"child",
+			"sign of the rat",
+			"11PM-1AM",
+			"first sign of Chinese zodiac"
+		],
+		"onyomi": [
+			"シ",
+			"ス",
+			"ツ"
+		],
+		"kunyomi": [
+			"こ",
+			"-こ",
+			"ね"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "乛",
+				"meaning": "Mario cap"
+			},
+			{
+				"component": "亅",
+				"meaning": "hook"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			}
+		],
+		"mnemonic": "A pictograph of a child. He's wearing a bright red Mario cap, and he has his arms outstretched to give you a hug. So cute!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "子"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "child, kid, (one's) child, offspring, young (animal), young woman, offshoot"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "様子"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ようす"
+					}
+				],
+				"translations": [
+					{
+						"translation": "state, state of affairs, appearance, look, sign, indication"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "子供"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こども"
+					}
+				],
+				"translations": [
+					{
+						"translation": "child"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::3"
+		],
+		"id": "33577808",
+		"svg": "05b50.svg"
+	},
+	{
+		"kanji": "外",
+		"meanings": [
+			"outside"
+		],
+		"onyomi": [
+			"ガイ",
+			"ゲ"
+		],
+		"kunyomi": [
+			"そと",
+			"ほか",
+			"はず.す",
+			"はず.れる",
+			"と-"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "夕",
+				"meaning": "evening (before sunset)"
+			},
+			{
+				"component": "丨",
+				"meaning": "stick"
+			},
+			{
+				"component": "乀",
+				"meaning": "slash right"
+			}
+		],
+		"mnemonic": "When you want to test out a new sword it's best to grab a stick, stick it into the ground, and slash it with your new sword during the evening while it's still bright outside.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "外"
+					}
+				],
+				"readings": [
+					{
+						"reading": "そと"
+					}
+				],
+				"translations": [
+					{
+						"translation": "outside, exterior, the open (air), other place, somewhere else"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "以外"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いがい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "with the exception of, excepting, excluding"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "意外"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いがい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "unexpected, surprising"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::3"
+		],
+		"id": "33577238",
+		"svg": "05916.svg"
+	},
+	{
+		"kanji": "八",
+		"meanings": [
+			"eight",
+			"eight radical (no. 12)"
+		],
+		"onyomi": [
+			"ハチ",
+			"ハツ"
+		],
+		"kunyomi": [
+			"や",
+			"や.つ",
+			"やっ.つ",
+			"よう"
+		],
+		"strokes": "2",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "八"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "eight, 8"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "十八"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じゅうはち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "18, eighteen"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "八十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はちじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "eighty, 80"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::2",
+			"components::0"
+		],
+		"id": "33575275",
+		"svg": "0516b.svg"
+	},
+	{
+		"kanji": "六",
+		"meanings": [
+			"six"
+		],
+		"onyomi": [
+			"ロク",
+			"リク"
+		],
+		"kunyomi": [
+			"む",
+			"む.つ",
+			"むっ.つ",
+			"むい"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "亠",
+				"meaning": "lid"
+			},
+			{
+				"component": "ハ",
+				"meaning": "short legs"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "六"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ろく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "six, 6"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "十六"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じゅうろく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "16, sixteen"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "六十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ろくじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sixty, 60"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33575277",
+		"svg": "0516d.svg"
+	},
+	{
+		"kanji": "下",
+		"meanings": [
+			"below",
+			"down",
+			"descend",
+			"give",
+			"low",
+			"inferior"
+		],
+		"onyomi": [
+			"カ",
+			"ゲ"
+		],
+		"kunyomi": [
+			"した",
+			"しも",
+			"もと",
+			"さ.げる",
+			"さ.がる",
+			"くだ.る",
+			"くだ.り",
+			"くだ.す",
+			"-くだ.す",
+			"くだ.さる",
+			"お.ろす",
+			"お.りる"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "卜",
+				"meaning": "crooked divining rod"
+			}
+		],
+		"mnemonic": "A pictograph of a crooked divining rod hovering in the air right below the ceiling.\nDo not confuse it with 上, which also features a magical levitating divining rod, however that one is not crooked, so it's properly hovering above the ground instead of right below the ceiling like this one is.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "下"
+					}
+				],
+				"readings": [
+					{
+						"reading": "した"
+					}
+				],
+				"translations": [
+					{
+						"translation": "below, down, bottom, beneath, underneath, just after, right after"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "下がる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さがる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to come down, to go down, to hang, to dangle, to move back, to step back, to deteriorate"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "下"
+					}
+				],
+				"readings": [
+					{
+						"reading": "もと"
+					}
+				],
+				"translations": [
+					{
+						"translation": "under (guidance, supervision, rules, the law, etc.), under (a flag, the sun, etc.), beneath, with (e.g. one blow), on (the promise, condition, assumption, etc. that ...), (somebody's) side"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33574411",
+		"svg": "04e0b.svg"
+	},
+	{
+		"kanji": "来",
+		"meanings": [
+			"come",
+			"due",
+			"next",
+			"cause",
+			"become"
+		],
+		"onyomi": [
+			"ライ",
+			"タイ"
+		],
+		"kunyomi": [
+			"く.る",
+			"きた.る",
+			"きた.す",
+			"き.たす",
+			"き.たる",
+			"き",
+			"こ"
+		],
+		"strokes": "7",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "米",
+				"meaning": "rice"
+			}
+		],
+		"mnemonic": "One serving of rice, coming up!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "来る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to come (spatially or temporally), to approach, to come back, to do ... and come back, to come to be, to become"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "未来"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みらい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the future (usually distant), future tense, the world to come"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "本来"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ほんらい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "originally, primarily, essentially, intrinsically, proper, rightful"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::7",
+			"components::2"
+		],
+		"id": "33580901",
+		"svg": "06765.svg"
+	},
+	{
+		"kanji": "気",
+		"meanings": [
+			"spirit",
+			"mind",
+			"air",
+			"atmosphere",
+			"mood"
+		],
+		"onyomi": [
+			"キ",
+			"ケ"
+		],
+		"kunyomi": [
+			"き"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "气",
+				"meaning": "vapor"
+			},
+			{
+				"component": "㐅",
+				"meaning": "cross"
+			}
+		],
+		"mnemonic": "If you inhale a lot of nasty vapors you'll collapse to the floor, your eyes will turn into crosses like in a cartoon (X_X) and you'll lose your current state of mind.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "気持ち"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きもち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "feeling, sensation, preparedness, readiness, thought, sentiment"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "気"
+					}
+				],
+				"readings": [
+					{
+						"reading": "き"
+					}
+				],
+				"translations": [
+					{
+						"translation": "spirit, mind, nature, disposition, motivation, intention"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "元気"
+					}
+				],
+				"readings": [
+					{
+						"reading": "げんき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "lively, full of spirit, energetic, healthy, well, fit"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33582103",
+		"svg": "06c17.svg"
+	},
+	{
+		"kanji": "小",
+		"meanings": [
+			"little",
+			"small"
+		],
+		"onyomi": [
+			"ショウ"
+		],
+		"kunyomi": [
+			"ちい.さい",
+			"こ-",
+			"お-",
+			"さ-"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "ハ",
+				"meaning": "short legs"
+			},
+			{
+				"component": "亅",
+				"meaning": "hook"
+			}
+		],
+		"mnemonic": "We see here a pair of short legs and a fishing hook between them. Yes, that must be a pretty small fisherman if his fishing hook is longer than his legs!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "小さい"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちいさい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "small, little, slight, below average (in degree, amount, etc.), low (e.g. sound), soft (e.g. voice)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "小さな"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちいさな"
+					}
+				],
+				"translations": [
+					{
+						"translation": "small, little, tiny"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "小"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "smallness, small item, short month (i.e. having fewer than 31 days), elementary school, smaller (of two things, places, etc. with the same name), inferior, younger (of two people with the same name)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33577999",
+		"svg": "05c0f.svg"
+	},
+	{
+		"kanji": "七",
+		"meanings": [
+			"seven"
+		],
+		"onyomi": [
+			"シチ"
+		],
+		"kunyomi": [
+			"なな",
+			"なな.つ",
+			"なの"
+		],
+		"strokes": "2",
+		"mnemonic": "If you flip it upside-down and left-to-right it looks like a seven.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "七"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "seven"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "十七"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じゅうしち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "17, seventeen"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "七十"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しちじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "seventy, 70"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::2",
+			"components::0"
+		],
+		"id": "33574403",
+		"svg": "04e03.svg"
+	},
+	{
+		"kanji": "山",
+		"meanings": [
+			"mountain"
+		],
+		"onyomi": [
+			"サン",
+			"セン"
+		],
+		"kunyomi": [
+			"やま"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a mountain.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "山"
+					}
+				],
+				"readings": [
+					{
+						"reading": "やま"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mountain, hill, mine (e.g. coal mine), heap, pile, crown (of a hat), thread (of a screw)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "沢山"
+					}
+				],
+				"readings": [
+					{
+						"reading": "たくさん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "a lot, lots, enough, sufficient, enough, too many"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "山ほど"
+					}
+				],
+				"readings": [
+					{
+						"reading": "やまほど"
+					}
+				],
+				"translations": [
+					{
+						"translation": "lots of, a ton of, a mountain of, piles of, heaps of, so many"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::0"
+		],
+		"id": "33578097",
+		"svg": "05c71.svg"
+	},
+	{
+		"kanji": "話",
+		"meanings": [
+			"tale",
+			"talk"
+		],
+		"onyomi": [
+			"ワ"
+		],
+		"kunyomi": [
+			"はな.す",
+			"はなし"
+		],
+		"strokes": "13",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "舌",
+				"meaning": "tongue"
+			}
+		],
+		"mnemonic": "You can say many things without speaking 一 with your hands, your body language, or through your actions, but to speak, ah, yes, you need to actually use your tongue to say the things you want to say.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "話"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はなし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "talk, speech, topic, subject, discussions, negotiation, rumor"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "話す"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はなす"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to talk, to speak, to tell, to explain, to speak (a language)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "会話"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かいわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "conversation"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::13",
+			"components::2"
+		],
+		"id": "33589873",
+		"svg": "08a71.svg"
+	},
+	{
+		"kanji": "女",
+		"meanings": [
+			"woman",
+			"female"
+		],
+		"onyomi": [
+			"ジョ",
+			"ニョ",
+			"ニョウ"
+		],
+		"kunyomi": [
+			"おんな",
+			"め"
+		],
+		"strokes": "3",
+		"mnemonic": "This kanji can be decomposed into three strokes:\n\n\"く\" (\"ku\" in hiragana),\n\"ノ\" (\"no\" in katakana),\n\"一\" (\"ichi\" in kanji),\n\nwhich gives us くノ一 (\"kunoichi\") — a female ninja.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "女性"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じょせい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "woman, female, feminine gender"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "彼女"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かのじょ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "she, her, girlfriend"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "女"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おんな"
+					}
+				],
+				"translations": [
+					{
+						"translation": "female, woman, female sex, female lover, girlfriend, mistress"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::0"
+		],
+		"id": "33577331",
+		"svg": "05973.svg"
+	},
+	{
+		"kanji": "北",
+		"meanings": [
+			"north"
+		],
+		"onyomi": [
+			"ホク"
+		],
+		"kunyomi": [
+			"きた"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of a bird's eye view of a road leading north.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "北"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きた"
+					}
+				],
+				"translations": [
+					{
+						"translation": "north, the North, northern territories, North Korea, (arch.)  north wind"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "敗北"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はいぼく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "defeat, loss, reverse, setback"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "北海道"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ほっかいどう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Hokkaido (island, prefectural-level administrative unit)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::0"
+		],
+		"id": "33575703",
+		"svg": "05317.svg"
+	},
+	{
+		"kanji": "午",
+		"meanings": [
+			"noon",
+			"sign of the horse",
+			"11AM-1PM",
+			"seventh sign of Chinese zodiac"
+		],
+		"onyomi": [
+			"ゴ"
+		],
+		"kunyomi": [
+			"うま"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "𠂉",
+				"meaning": "cow head"
+			},
+			{
+				"component": "十",
+				"meaning": "ten"
+			}
+		],
+		"mnemonic": "It's a pictograph of a cow, but it's really close to the fence, with its head reaching over the fence. It's looking an you and saying \"noon, noon\". Huh, it looks like this cow doesn't moo like every other cow, and it apparently also knows when it's noon...",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "午後"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごご"
+					}
+				],
+				"translations": [
+					{
+						"translation": "afternoon, p.m."
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "午前"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごぜん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "morning, a.m."
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "午前中"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごぜんちゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "in the morning, during the morning"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33575752",
+		"svg": "05348.svg"
+	},
+	{
+		"kanji": "百",
+		"meanings": [
+			"hundred"
+		],
+		"onyomi": [
+			"ヒャク",
+			"ビャク"
+		],
+		"kunyomi": [
+			"もも"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "白",
+				"meaning": "white"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "百"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひゃく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "100, hundred"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "何百"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なんびゃく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "hundreds"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "二百"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にひゃく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "200, two hundred"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33584766",
+		"svg": "0767e.svg"
+	},
+	{
+		"kanji": "書",
+		"meanings": [
+			"write"
+		],
+		"onyomi": [
+			"ショ"
+		],
+		"kunyomi": [
+			"か.く",
+			"-が.き",
+			"-がき"
+		],
+		"strokes": "10",
+		"components": [
+			{
+				"component": "聿",
+				"meaning": "brush"
+			},
+			{
+				"component": "日",
+				"meaning": "sun"
+			}
+		],
+		"mnemonic": "In the old days if you wanted to write something you'd use your brush and some ink on a piece of parchment, and then lay it out in the sun to dry.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "書く"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to write, to compose, to pen, to draw, to paint"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "書類"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょるい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "document, official papers"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "書"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "book, document, calligraphy (esp. Chinese), penmanship, handwriting, letter"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::10",
+			"components::2"
+		],
+		"id": "33580792",
+		"svg": "066f8.svg"
+	},
+	{
+		"kanji": "先",
+		"meanings": [
+			"before",
+			"ahead",
+			"previous",
+			"future",
+			"precedence"
+		],
+		"onyomi": [
+			"セン"
+		],
+		"kunyomi": [
+			"さき",
+			"ま.ず"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "牛",
+				"meaning": "cow"
+			},
+			{
+				"component": "儿",
+				"meaning": "legs"
+			}
+		],
+		"mnemonic": "It's a cow with human legs! Wow! I've never seen such a creature before!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "先"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "point, tip, head (of a line), front, first, before, (the way) ahead"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "先に"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さきに"
+					}
+				],
+				"translations": [
+					{
+						"translation": "previously, before, first, before (something or someone else), beforehand, in advance"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "先生"
+					}
+				],
+				"readings": [
+					{
+						"reading": "せんせい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "teacher, instructor, sensei, title or form of address for a teacher, master, doctor, lawyer, etc., intimate or teasing form of address, (arch.)  one's elder"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33575240",
+		"svg": "05148.svg"
+	},
+	{
+		"kanji": "名",
+		"meanings": [
+			"name",
+			"noted",
+			"distinguished",
+			"reputation"
+		],
+		"onyomi": [
+			"メイ",
+			"ミョウ"
+		],
+		"kunyomi": [
+			"な",
+			"-な"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "夕",
+				"meaning": "evening (before sunset)"
+			},
+			{
+				"component": "口",
+				"meaning": "mouth"
+			}
+		],
+		"mnemonic": "When you're having a date this evening with a girl you've anonymously met online it'd be the best to open your mouth and tell her your name before the sun sets and you'll go to your apartment to do the deed. Otherwise it'll be really awkward the next day when you wake up next to each other, in the same bed, and not know the other's name.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "名前"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なまえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "name, given name, first name"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "名"
+					}
+				],
+				"readings": [
+					{
+						"reading": "な"
+					}
+				],
+				"translations": [
+					{
+						"translation": "name, given name, title, fame, renown, pretext"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "名"
+					}
+				],
+				"readings": [
+					{
+						"reading": "めい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "counter for people (usu. seating, reservations and such), first name, famous, great, name, noun"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33575949",
+		"svg": "0540d.svg"
+	},
+	{
+		"kanji": "川",
+		"meanings": [
+			"stream",
+			"river",
+			"river or three-stroke river radical (no. 47)"
+		],
+		"onyomi": [
+			"セン"
+		],
+		"kunyomi": [
+			"かわ"
+		],
+		"strokes": "3",
+		"mnemonic": "A pictograph of a bird's eye view of a river.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "川"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "river, stream, River, the ... river"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "小川"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おがわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "stream, brook, creek"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "川沿い"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かわぞい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "along the river, riverside"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::0"
+		],
+		"id": "33578461",
+		"svg": "05ddd.svg"
+	},
+	{
+		"kanji": "千",
+		"meanings": [
+			"thousand"
+		],
+		"onyomi": [
+			"セン"
+		],
+		"kunyomi": [
+			"ち"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "丿",
+				"meaning": "slash left"
+			},
+			{
+				"component": "十",
+				"meaning": "ten"
+			}
+		],
+		"mnemonic": "An extra stroke on the top, and a ten becomes a thousand! Why? Well, three strokes, three zeroes!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "千"
+					}
+				],
+				"readings": [
+					{
+						"reading": "せん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "1,000, thousand"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "何千"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なんぜん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "many thousands"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "数千"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すうせん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "thousands, several thousand"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33575747",
+		"svg": "05343.svg"
+	},
+	{
+		"kanji": "水",
+		"meanings": [
+			"water"
+		],
+		"onyomi": [
+			"スイ"
+		],
+		"kunyomi": [
+			"みず",
+			"みず-"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "㇇",
+				"meaning": "katakana fu"
+			},
+			{
+				"component": "亅",
+				"meaning": "hook"
+			},
+			{
+				"component": "丿",
+				"meaning": "slash left"
+			},
+			{
+				"component": "乀",
+				"meaning": "slash right"
+			}
+		],
+		"mnemonic": "A pictograph of a bird's eye view of water in a river and two of its banks on each side.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "水"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みず"
+					}
+				],
+				"translations": [
+					{
+						"translation": "water (esp. cool, fresh water, e.g. drinking water), fluid (esp. in an animal tissue), liquid, flood, floodwaters, water offered to wrestlers just prior to a bout"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "水面"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すいめん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "water's surface"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "水分"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すいぶん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "water, liquid, fluid, moisture, humidity, sap"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::4"
+		],
+		"id": "33582132",
+		"svg": "06c34.svg"
+	},
+	{
+		"kanji": "半",
+		"meanings": [
+			"half",
+			"middle",
+			"odd number",
+			"semi-",
+			"part-"
+		],
+		"onyomi": [
+			"ハン"
+		],
+		"kunyomi": [
+			"なか.ば"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "丷",
+				"meaning": "horns"
+			},
+			{
+				"component": "二",
+				"meaning": "two"
+			},
+			{
+				"component": "丨",
+				"meaning": "stick"
+			}
+		],
+		"mnemonic": "A pictograph of a part of a fence that will be destroyed. There are three boards to smash, the first one is already in half and there are still two more to go",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "半分"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はんぶん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "half"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "半"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "half, semi-, half-past, odd number, (arch.)  unit of land area (595.8 m^2)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "半ば"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なかば"
+					}
+				],
+				"translations": [
+					{
+						"translation": "middle, halfway, half (of), one half, half (e.g. done, jokingly), partly"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::3"
+		],
+		"id": "33575754",
+		"svg": "0534a.svg"
+	},
+	{
+		"kanji": "男",
+		"meanings": [
+			"male"
+		],
+		"onyomi": [
+			"ダン",
+			"ナン"
+		],
+		"kunyomi": [
+			"おとこ",
+			"お"
+		],
+		"strokes": "7",
+		"components": [
+			{
+				"component": "田",
+				"meaning": "rice field"
+			},
+			{
+				"component": "力",
+				"meaning": "power"
+			}
+		],
+		"mnemonic": "A man is someone who has the power to work in a rice field.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "男"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おとこ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "man, male, fellow, guy, male lover, boyfriend"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "男性"
+					}
+				],
+				"readings": [
+					{
+						"reading": "だんせい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "man, male, masculine gender"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "男の子"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おとこのこ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "boy, son, baby boy, young man"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::7",
+			"components::2"
+		],
+		"id": "33584439",
+		"svg": "07537.svg"
+	},
+	{
+		"kanji": "西",
+		"meanings": [
+			"west",
+			"Spain"
+		],
+		"onyomi": [
+			"セイ",
+			"サイ",
+			"ス"
+		],
+		"kunyomi": [
+			"にし"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "兀",
+				"meaning": "high and steep"
+			},
+			{
+				"component": "口",
+				"meaning": "mouth"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "西"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "west"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "西洋"
+					}
+				],
+				"readings": [
+					{
+						"reading": "せいよう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the West, the Occident, Western countries"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "西側"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にしがわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "west side, west bank"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33589631",
+		"svg": "0897f.svg"
+	},
+	{
+		"kanji": "電",
+		"meanings": [
+			"electricity"
+		],
+		"onyomi": [
+			"デン"
+		],
+		"strokes": "13",
+		"components": [
+			{
+				"component": "雨",
+				"meaning": "rain"
+			},
+			{
+				"component": "日",
+				"meaning": "sun"
+			},
+			{
+				"component": "乚",
+				"meaning": "umbrella handle"
+			}
+		],
+		"mnemonic": "An umbrella can protect you from the sun and from the rain, but it's not very effective against an electrical storm. If you get struck by a lightning it's over for you.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "電話"
+					}
+				],
+				"readings": [
+					{
+						"reading": "でんわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "telephone call, phone call, telephone (device), phone"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "電車"
+					}
+				],
+				"readings": [
+					{
+						"reading": "でんしゃ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "train, electric train"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "電気"
+					}
+				],
+				"readings": [
+					{
+						"reading": "でんき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "electricity, (electric) light"
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::mnemonic",
+			"has::words",
+			"strokes::13",
+			"components::3"
+		],
+		"id": "33593083",
+		"svg": "096fb.svg"
+	},
+	{
+		"kanji": "校",
+		"meanings": [
+			"exam",
+			"school",
+			"printing",
+			"proof",
+			"correction"
+		],
+		"onyomi": [
+			"コウ",
+			"キョウ"
+		],
+		"strokes": "10",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "交",
+				"meaning": "mingle"
+			}
+		],
+		"mnemonic": "A school is not only a place where you learn; it's also a place where you mingle with your classmates around a tree in the courtyard during the breaks.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "学校"
+					}
+				],
+				"readings": [
+					{
+						"reading": "がっこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "school"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "高校"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こうこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "senior high school, high school"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "小学校"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょうがっこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "primary school, elementary school, grade school"
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::mnemonic",
+			"has::words",
+			"strokes::10",
+			"components::2"
+		],
+		"id": "33581089",
+		"svg": "06821.svg"
+	},
+	{
+		"kanji": "語",
+		"meanings": [
+			"word",
+			"speech",
+			"language"
+		],
+		"onyomi": [
+			"ゴ"
+		],
+		"kunyomi": [
+			"かた.る",
+			"かた.らう"
+		],
+		"strokes": "14",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "五",
+				"meaning": "five"
+			},
+			{
+				"component": "口",
+				"meaning": "mouth"
+			}
+		],
+		"mnemonic": "Five mouths are saying something to each other in a language I can't understand. Russian spies perhaps...?",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "語る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かたる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to talk about, to speak of, to recite, to chant, to indicate, to show"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "物語"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ものがたり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "story, tale, narrative, account, fable, legend"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "英語"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えいご"
+					}
+				],
+				"translations": [
+					{
+						"translation": "English (language)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::14",
+			"components::3"
+		],
+		"id": "33589918",
+		"svg": "08a9e.svg"
+	},
+	{
+		"kanji": "土",
+		"meanings": [
+			"soil",
+			"earth",
+			"ground",
+			"Turkey"
+		],
+		"onyomi": [
+			"ド",
+			"ト"
+		],
+		"kunyomi": [
+			"つち"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "十",
+				"meaning": "ten"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			}
+		],
+		"mnemonic": "A pictograph of a cross planted into the earth. The lower stroke is longer since it signifies the ground, or the horizon, which infinitely stretches in every direction.\nDo not confuse with 士 where the upper stroke is longer.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "土地"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "plot of land, lot, soil, locality, region, place"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "土"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "earth, soil, the earth (historically, esp. as opposed to the heavens), the ground, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お土産"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おみやげ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "local specialty or souvenir bought as a gift while travelling, present brought by a visitor, something unpleasant that one is given (e.g. an illness while on vacation), unwelcome gift"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::2"
+		],
+		"id": "33576735",
+		"svg": "0571f.svg"
+	},
+	{
+		"kanji": "木",
+		"meanings": [
+			"tree",
+			"wood"
+		],
+		"onyomi": [
+			"ボク",
+			"モク"
+		],
+		"kunyomi": [
+			"き",
+			"こ-"
+		],
+		"strokes": "4",
+		"mnemonic": "A pictograph of a tree, any kind of a tree.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "木"
+					}
+				],
+				"readings": [
+					{
+						"reading": "き"
+					}
+				],
+				"translations": [
+					{
+						"translation": "tree, shrub, bush, wood, timber"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "木々"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きぎ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(many) trees, every tree, all kinds of trees"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "木製"
+					}
+				],
+				"readings": [
+					{
+						"reading": "もくせい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wooden, made of wood"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::0"
+		],
+		"id": "33580840",
+		"svg": "06728.svg"
+	},
+	{
+		"kanji": "聞",
+		"meanings": [
+			"hear",
+			"ask",
+			"listen"
+		],
+		"onyomi": [
+			"ブン",
+			"モン"
+		],
+		"kunyomi": [
+			"き.く",
+			"き.こえる"
+		],
+		"strokes": "14",
+		"components": [
+			{
+				"component": "門",
+				"meaning": "gate"
+			},
+			{
+				"component": "耳",
+				"meaning": "ear"
+			}
+		],
+		"mnemonic": "Stick your ear out of the gate and you'll hear everything that goes on outside.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "聞く"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to hear, to listen (e.g. to music), to ask, to enquire, to hear about, to hear of, to follow (advice, order, etc.)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "聞こえる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きこえる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to be heard, to be audible, to be said to be, to be reputed"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "聞かす"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きかす"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to let (someone) hear, to tell (e.g. a story), to make (someone) listen, to make (someone) understand, to grip (someone) with skilful singing, storytelling, etc., to hold (someone) enchanted by"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::14",
+			"components::2"
+		],
+		"id": "33587294",
+		"svg": "0805e.svg"
+	},
+	{
+		"kanji": "食",
+		"meanings": [
+			"eat",
+			"food"
+		],
+		"onyomi": [
+			"ショク",
+			"ジキ"
+		],
+		"kunyomi": [
+			"く.う",
+			"く.らう",
+			"た.べる",
+			"は.む"
+		],
+		"strokes": "9",
+		"components": [
+			{
+				"component": "人",
+				"meaning": "person"
+			},
+			{
+				"component": "良",
+				"meaning": "good"
+			}
+		],
+		"mnemonic": "A good person will eat everything that their momma puts on their plate.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "食べる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "たべる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to eat, to live on (e.g. a salary), to live off, to subsist on"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "食う"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to eat, to live, to make a living, to bite, to sting (as insects do), to tease, to torment"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "食事"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょくじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "meal, dinner, diet"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::9",
+			"components::2"
+		],
+		"id": "33593567",
+		"svg": "098df.svg"
+	},
+	{
+		"kanji": "車",
+		"meanings": [
+			"car"
+		],
+		"onyomi": [
+			"シャ"
+		],
+		"kunyomi": [
+			"くるま"
+		],
+		"strokes": "7",
+		"mnemonic": "A pictograph of a vehicle, show from a bird's-eye view. You have the front wheels at the top, the back wheels at the bottom, and the middle is where you put stuff in, be it people or goods.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "車"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くるま"
+					}
+				],
+				"translations": [
+					{
+						"translation": "car, automobile, vehicle, wheel"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "電車"
+					}
+				],
+				"readings": [
+					{
+						"reading": "でんしゃ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "train, electric train"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "馬車"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ばしゃ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "coach (horse-drawn), carriage, wagon, cart"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::7",
+			"components::0"
+		],
+		"id": "33590986",
+		"svg": "08eca.svg"
+	},
+	{
+		"kanji": "何",
+		"meanings": [
+			"what"
+		],
+		"onyomi": [
+			"カ"
+		],
+		"kunyomi": [
+			"なに",
+			"なん",
+			"なに-",
+			"なん-"
+		],
+		"strokes": "7",
+		"components": [
+			{
+				"component": "亻",
+				"meaning": "thin person"
+			},
+			{
+				"component": "可",
+				"meaning": "can do"
+			}
+		],
+		"mnemonic": "Imagine a really thin person lifting up a car. What?! Even such a thin person can do that?! It's a real thing actually, it's called hysterical strength.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "何"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なに"
+					}
+				],
+				"translations": [
+					{
+						"translation": "what, you-know-what, that thing, whatsit, whachamacallit, (not) at all, (not) in the slightest"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "何"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "what, how many, many, a lot of, several, a few"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "何か"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なにか"
+					}
+				],
+				"translations": [
+					{
+						"translation": "something, some, somehow, for some reason, (is there) something (you want, etc.)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::7",
+			"components::2"
+		],
+		"id": "33574741",
+		"svg": "04f55.svg"
+	},
+	{
+		"kanji": "南",
+		"meanings": [
+			"south"
+		],
+		"onyomi": [
+			"ナン",
+			"ナ"
+		],
+		"kunyomi": [
+			"みなみ"
+		],
+		"strokes": "9",
+		"components": [
+			{
+				"component": "十",
+				"meaning": "ten"
+			},
+			{
+				"component": "冂",
+				"meaning": "upside-down box"
+			},
+			{
+				"component": "丷",
+				"meaning": "horns"
+			},
+			{
+				"component": "干",
+				"meaning": "left to dry"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "南"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みなみ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "south"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "南部"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なんぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "southern part, the south (of a region)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "南方"
+					}
+				],
+				"readings": [
+					{
+						"reading": "なんぽう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the south, southward, southern direction, countries in the south (esp. Southeast Asia and the pre-WWII South Pacific Mandate)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9",
+			"components::4"
+		],
+		"id": "33575767",
+		"svg": "05357.svg"
+	},
+	{
+		"kanji": "万",
+		"meanings": [
+			"ten thousand",
+			"10,000"
+		],
+		"onyomi": [
+			"マン",
+			"バン"
+		],
+		"kunyomi": [
+			"よろず"
+		],
+		"strokes": "3",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "丿",
+				"meaning": "slash left"
+			},
+			{
+				"component": "𠃌",
+				"meaning": "clothes hanger"
+			}
+		],
+		"mnemonic": "It's only ten thousand yen for a clothes hanger which you can attach to the ceiling by a rope!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "万"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "10,000, ten thousand, myriad, everything, all, (arch.)  various"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "万が一"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まんがいち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(if) by some chance, by some possibility, in the unlikely event that, (unlikely event of) emergency, the worst(-case scenario)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "万全"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ばんぜん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "perfection, flawlessness"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::3",
+			"components::3"
+		],
+		"id": "33574407",
+		"svg": "04e07.svg"
+	},
+	{
+		"kanji": "毎",
+		"meanings": [
+			"every"
+		],
+		"onyomi": [
+			"マイ"
+		],
+		"kunyomi": [
+			"ごと",
+			"-ごと.に"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "𠂉",
+				"meaning": "cow head"
+			},
+			{
+				"component": "毋",
+				"meaning": "mother [simplified]"
+			}
+		],
+		"mnemonic": "My mother dresses up every Halloween as a cow, she even wears a cow head.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "毎日"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まいにち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "every day"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "毎年"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まいとし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "every year, yearly, annually"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "毎回"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まいかい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "every time, each round"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33582030",
+		"svg": "06bce.svg"
+	},
+	{
+		"kanji": "白",
+		"meanings": [
+			"white"
+		],
+		"onyomi": [
+			"ハク",
+			"ビャク"
+		],
+		"kunyomi": [
+			"しろ",
+			"しら-",
+			"しろ.い"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "丶",
+				"meaning": "droplet"
+			},
+			{
+				"component": "日",
+				"meaning": "sun"
+			}
+		],
+		"mnemonic": "We are very fortunate that the Sun is approximately 150 million kilometres apart from us. If you'd take only a single drop of the Sun, and put it here on Earth, it'd be so bright you'd see nothing but white.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "白い"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しろい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "white"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "面白い"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おもしろい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "interesting, fascinating, amusing, funny, enjoyable, fun"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "白"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しろ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "white, innocence, innocent person, blank space, white go stone, white dragon tile, skewered grilled pig intestine"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33584765",
+		"svg": "0767d.svg"
+	},
+	{
+		"kanji": "天",
+		"meanings": [
+			"heavens",
+			"sky",
+			"imperial"
+		],
+		"onyomi": [
+			"テン"
+		],
+		"kunyomi": [
+			"あまつ",
+			"あめ",
+			"あま-"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "大",
+				"meaning": "large"
+			}
+		],
+		"mnemonic": "A pictograph of a large man with outstretched arms, and one line above his head which represents the heaven, which is a plane of existence one level higher that the one the man's currently in.\nDo not confuse it with 夭, which looks similar and whose first stroke is written in right-to-left and is slightly curved.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "天"
+					}
+				],
+				"readings": [
+					{
+						"reading": "てん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sky, heaven, God, svarga (heaven-like realm visited as a stage of death and rebirth), deva (divine being of Buddhism), top (of a book), sole (of a Japanese sandal)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "天井"
+					}
+				],
+				"readings": [
+					{
+						"reading": "てんじょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "ceiling, ceiling price, (price) ceiling"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "天使"
+					}
+				],
+				"readings": [
+					{
+						"reading": "てんし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "angel"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33577257",
+		"svg": "05929.svg"
+	},
+	{
+		"kanji": "母",
+		"meanings": [
+			"mother"
+		],
+		"onyomi": [
+			"ボ"
+		],
+		"kunyomi": [
+			"はは",
+			"も"
+		],
+		"strokes": "5",
+		"mnemonic": "A pictograph of woman's breasts with nipples, turned on its side.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "母"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はは"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mother"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "母親"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ははおや"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mother"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お母さん"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おかあさん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mother, mom, mum, wife"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::5",
+			"components::0"
+		],
+		"id": "33582029",
+		"svg": "06bcd.svg"
+	},
+	{
+		"kanji": "火",
+		"meanings": [
+			"fire"
+		],
+		"onyomi": [
+			"カ"
+		],
+		"kunyomi": [
+			"ひ",
+			"-び",
+			"ほ-"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "ハ",
+				"meaning": "short legs"
+			},
+			{
+				"component": "人",
+				"meaning": "person"
+			}
+		],
+		"mnemonic": "A pictograph of a person on fire.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "火"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fire, flame, blaze"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "花火"
+					}
+				],
+				"readings": [
+					{
+						"reading": "はなび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fireworks"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "火事"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fire, conflagration"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33583211",
+		"svg": "0706b.svg"
+	},
+	{
+		"kanji": "右",
+		"meanings": [
+			"right"
+		],
+		"onyomi": [
+			"ウ",
+			"ユウ"
+		],
+		"kunyomi": [
+			"みぎ"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "𠂇",
+				"meaning": "by one's side"
+			},
+			{
+				"component": "口",
+				"meaning": "mouth"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "右"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みぎ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "right, right-hand side, afore-mentioned (esp. in vertical Japanese writing), foregoing, forgoing"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "右手"
+					}
+				],
+				"readings": [
+					{
+						"reading": "みぎて"
+					}
+				],
+				"translations": [
+					{
+						"translation": "right hand, right-hand side, right-hand direction, (on) the right"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "左右"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さゆう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "left and right, right and left, (asserting) control, influence, one's attendants, people accompanying one"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33575923",
+		"svg": "053f3.svg"
+	},
+	{
+		"kanji": "読",
+		"meanings": [
+			"read"
+		],
+		"onyomi": [
+			"ドク",
+			"トク",
+			"トウ"
+		],
+		"kunyomi": [
+			"よ.む",
+			"-よ.み"
+		],
+		"strokes": "14",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "売",
+				"meaning": "sell"
+			}
+		],
+		"mnemonic": "Every good salesman that tries to sell you something will say whatever they can to get you to buy their product, but don't be fooled! You need to read the fine-print! There's always a catch.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "読む"
+					}
+				],
+				"readings": [
+					{
+						"reading": "よむ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to decipher, to count"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "読み取る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "よみとる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to read and understand, to take in, to sense from external cues, to read (someone's) mind, to read (calibration, tape, etc.), to scan (bar code)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "読書"
+					}
+				],
+				"readings": [
+					{
+						"reading": "どくしょ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "reading (books)"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::14",
+			"components::2"
+		],
+		"id": "33589933",
+		"svg": "08aad.svg"
+	},
+	{
+		"kanji": "友",
+		"meanings": [
+			"friend"
+		],
+		"onyomi": [
+			"ユウ"
+		],
+		"kunyomi": [
+			"とも"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "𠂇",
+				"meaning": "by one's side"
+			},
+			{
+				"component": "又",
+				"meaning": "once again"
+			}
+		],
+		"mnemonic": "If someone's once again by your side when your in trouble for the millionth time, you know you have a true friend.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "友達"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ともだち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "friend, companion"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "友人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ゆうじん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "friend"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "親友"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しんゆう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "close friend, bosom friend, buddy, crony, chum"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33575883",
+		"svg": "053cb.svg"
+	},
+	{
+		"kanji": "左",
+		"meanings": [
+			"left"
+		],
+		"onyomi": [
+			"サ",
+			"シャ"
+		],
+		"kunyomi": [
+			"ひだり"
+		],
+		"strokes": "5",
+		"components": [
+			{
+				"component": "𠂇",
+				"meaning": "by one's side"
+			},
+			{
+				"component": "工",
+				"meaning": "construction"
+			}
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "左"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひだり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "left, left hand side"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "左右"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さゆう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "left and right, right and left, (asserting) control, influence, one's attendants, people accompanying one"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "左手"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひだりて"
+					}
+				],
+				"translations": [
+					{
+						"translation": "left hand, left-hand side, left-hand direction, (on) the left"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::5",
+			"components::2"
+		],
+		"id": "33578470",
+		"svg": "05de6.svg"
+	},
+	{
+		"kanji": "休",
+		"meanings": [
+			"rest",
+			"day off",
+			"retire",
+			"sleep"
+		],
+		"onyomi": [
+			"キュウ"
+		],
+		"kunyomi": [
+			"やす.む",
+			"やす.まる",
+			"やす.める"
+		],
+		"strokes": "6",
+		"components": [
+			{
+				"component": "亻",
+				"meaning": "thin person"
+			},
+			{
+				"component": "木",
+				"meaning": "tree"
+			}
+		],
+		"mnemonic": "A really thin person is not going to be very strong physically, so when covering long distances he'll have to rest quite frequenty. And what's the best place to rest when you're out in the nature? Well, it's by a nearby tree! Not only it shields you from the bad weather, but you can also lean on it to recover strength.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "休む"
+					}
+				],
+				"readings": [
+					{
+						"reading": "やすむ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to be absent, to take a day off, to rest, to have a break, to go to bed, to (lie down to) sleep"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "休み"
+					}
+				],
+				"readings": [
+					{
+						"reading": "やすみ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rest, recess, vacation, holiday, dormancy (of a silkworm prior to moulting)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "休憩"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きゅうけい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rest, break, recess, intermission"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::6",
+			"components::2"
+		],
+		"id": "33574673",
+		"svg": "04f11.svg"
+	},
+	{
+		"kanji": "父",
+		"meanings": [
+			"father"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"ちち"
+		],
+		"strokes": "4",
+		"components": [
+			{
+				"component": "ハ",
+				"meaning": "short legs"
+			},
+			{
+				"component": "乂",
+				"meaning": "folding chair legs"
+			}
+		],
+		"mnemonic": "Traditionally when it's time to punish a child it's usually the father who doles out the punishment. And how to better punish a child than to have him sit his short legs on bare folding chair legs? Folding chairs usually have a piece of cloth on the top on which you can sit, but if you remove that and only leave the metal legs... ouch!",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "父"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "father"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "父親"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちちおや"
+					}
+				],
+				"translations": [
+					{
+						"translation": "father"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お父さん"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おとうさん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "father, dad, husband, you, he"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::4",
+			"components::2"
+		],
+		"id": "33583670",
+		"svg": "07236.svg"
+	},
+	{
+		"kanji": "雨",
+		"meanings": [
+			"rain"
+		],
+		"onyomi": [
+			"ウ"
+		],
+		"kunyomi": [
+			"あめ",
+			"あま-",
+			"-さめ"
+		],
+		"strokes": "8",
+		"mnemonic": "A pictograph of a window through which you can see the rain.",
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "雨"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あめ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rain, rainy day, rainy weather, the November suit (in hanafuda)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "大雨"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おおあめ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "heavy rain"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "雨音"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あまおと"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sound of rainfall"
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::mnemonic",
+			"has::words",
+			"strokes::8",
+			"components::0"
+		],
+		"id": "33593064",
+		"svg": "096e8.svg"
+	}
+]

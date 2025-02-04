@@ -1,0 +1,50 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "lib": [
+            "ES2019",
+            "ES2020",
+            "ES2021",
+            "DOM"
+        ],
+        "allowUmdGlobalAccess": true,
+        "resolveJsonModule": true,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "exactOptionalPropertyTypes": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true,
+        "useUnknownInCatchVariables": true,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noImplicitUseStrict": false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "strict": true,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "declaration": true,
+        "declarationMap": true,
+        "preserveConstEnums": true,
+        "allowJs": false,
+        "checkJs": false,
+        "disableSizeLimit": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "preserveSymlinks": true,
+        "skipDefaultLibCheck": true,
+        "skipLibCheck": true
+    },
+    "include": [
+        "**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

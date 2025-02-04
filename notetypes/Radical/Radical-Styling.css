@@ -1,0 +1,138 @@
+.card {
+    font-family: myfont;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #2e2e2e;
+    background-color: #fafafa;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #d1d1d1;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    color: #4b88a2;
+    border-bottom: 2px solid #4b88a2;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.radical-character {
+    font-size: 2em;
+    font-weight: bold;
+    color: #1a237e;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.radical-reading {
+    background-color: #e3f2fd;
+    color: #0d47a1;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 1.3em;
+    font-style: italic;
+}
+
+.radical-meaning {
+    background-color: #e8f5e9;
+    color: #1b5e20;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+.radical-mnemonic {
+    background-color: #fce4ec;
+    color: #880e4f;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: block;
+    font-size: 1em;
+    line-height: 1.4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.radical-kanji {
+    background-color: #fff3e0;
+    color: #e65100;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 1.3em;
+}
+
+.radical-strokes {
+    background-color: #f5f5f5;
+    color: #4a148c;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 15px 0;
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.radical-stroke-order {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+    background-color: #fafafa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.entry {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-left: 4px solid #4b88a2;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.entry br {
+    content: " ";
+    display: block;
+    margin-top: 5px;
+}
+
+.note-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.note {
+    background-color: #fef3c7;
+    color: #5d4037;
+    border: 1px solid #f9d78c;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.card * {
+    font-family: myfont !important;
+    font-optical-sizing: auto !important;
+    font-style: normal !important;
+}
+
+@font-face {
+    font-family: myfont;
+    src: url("NotoSansJP-VariableFont_wght.ttf");
+}
