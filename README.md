@@ -14,7 +14,7 @@ This subdeck has the (142) basic and (230) extended **hiragana and katakana** ch
 
 ## JLPT
 
-This subdeck has (7264 words) vocabulary (with audio) and (2118) kanji for the **JLPT exams (N5 ~ N1)**.
+This subdeck has (7264 words) vocabulary (with audio) and (2118) kanji for the **JLPT** (N5 ~ N1).
 
 ## Grammar
 
@@ -30,7 +30,7 @@ This subdeck encompasses 9359 (used in Japanese) [CJK kanji](https://en.wikipedi
 
 ## Vocab with no kanji
 
-This subdeck includes 4671 words that **do not use kanji**, only kana.
+This subdeck includes 4671 common words that **do not use kanji**, only kana.
 
 
 ## Sources
