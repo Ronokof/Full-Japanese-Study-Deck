@@ -714,12 +714,6 @@
 				]
 			},
 			{
-				"phrase": "猫はにゃーにゃーいいつづけた。",
-				"translations": [
-					"The cat continued to mew."
-				]
-			},
-			{
 				"phrase": "猫はにゃーにゃーと鳴く。",
 				"translations": [
 					"Cats go \"meow, meow.\""
@@ -1065,12 +1059,6 @@
 				"translations": [
 					"See you again.",
 					"See you later!"
-				]
-			},
-			{
-				"phrase": "ではまた明日。",
-				"translations": [
-					"See you again tomorrow."
 				]
 			},
 			{
@@ -1790,12 +1778,6 @@
 				"translations": [
 					"This job is killing me."
 				]
-			},
-			{
-				"phrase": "この仕事、死ぬほどしんどい。",
-				"translations": [
-					"This job is killing me."
-				]
 			}
 		],
 		"tags": [
@@ -1850,12 +1832,6 @@
 				"phrase": "その警官は私に対してかなりぞんざいだった。",
 				"translations": [
 					"The policeman was rather abrupt with me."
-				]
-			},
-			{
-				"phrase": "彼は引き出しに物をぞんざいに押し込んだ。",
-				"translations": [
-					"He put his things carelessly in the drawer."
 				]
 			},
 			{
@@ -1946,18 +1922,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "あいつでかいことばかり言ってるけど、そのうちぼろを出すよ。",
-				"translations": [
-					"He's always talking like a big shot, but it won't be long before all his faults are exposed."
-				]
-			},
-			{
-				"phrase": "あいつでかいことばかり言ってるけど、そのうちぼろを出すよ。",
-				"translations": [
-					"He's always talking like a big shot, but it won't be long before all his faults are exposed."
-				]
-			},
 			{
 				"phrase": "あいつでかいことばかり言ってるけど、そのうちぼろを出すよ。",
 				"translations": [
@@ -3098,12 +3062,6 @@
 				"translations": [
 					"E-eh? I somehow seem to feel a very threatening aura..."
 				]
-			},
-			{
-				"phrase": "そのこと話してよ。すっごい聞きたいんだけど。",
-				"translations": [
-					"Tell me about it. I'm all ears."
-				]
 			}
 		],
 		"tags": [
@@ -3255,18 +3213,6 @@
 				"translations": [
 					"It seems they don't have the slightest intention of restoring it."
 				]
-			},
-			{
-				"phrase": "あの二人、元に戻すつもりなんて更々ないみたいだし・・・。",
-				"translations": [
-					"It seems they don't have the slightest intention of restoring it."
-				]
-			},
-			{
-				"phrase": "あの二人、元に戻すつもりなんて更々ないみたいだし・・・。",
-				"translations": [
-					"It seems they don't have the slightest intention of restoring it."
-				]
 			}
 		],
 		"tags": [
@@ -3373,18 +3319,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "「店のばーさんは、すげー愛想悪いんだけどさー」「大輝、聞こえとるぞ」「げっ・・・」",
-				"translations": [
-					"\"The old lady of this shop is very unsociable but ...\" \"Taiki, I can hear you!\" \"Ack!\""
-				]
-			},
-			{
-				"phrase": "「店のばーさんは、すげー愛想悪いんだけどさー」「大輝、聞こえとるぞ」「げっ・・・」",
-				"translations": [
-					"\"The old lady of this shop is very unsociable but ...\" \"Taiki, I can hear you!\" \"Ack!\""
-				]
-			},
 			{
 				"phrase": "「店のばーさんは、すげー愛想悪いんだけどさー」「大輝、聞こえとるぞ」「げっ・・・」",
 				"translations": [
@@ -3863,12 +3797,6 @@
 				"translations": [
 					"We wandered aimlessly around the shopping district."
 				]
-			},
-			{
-				"phrase": "繁華街を当てもなくウロウロした。",
-				"translations": [
-					"We wandered aimlessly around the shopping district."
-				]
 			}
 		],
 		"tags": [
@@ -4241,12 +4169,6 @@
 				"phrase": "カタツムリがすっと角を出した。",
 				"translations": [
 					"The snail shot out its horns."
-				]
-			},
-			{
-				"phrase": "彼の首筋を血がすっと伝った。",
-				"translations": [
-					"A trickle of blood ran down his neck."
 				]
 			},
 			{
@@ -5171,12 +5093,6 @@
 				"translations": [
 					"\"Your work has been causing a lot of complaints from customers; I'm ordering you to leave immediately.\" \"Oh, up yours! I didn't want to work here in the first place.\""
 				]
-			},
-			{
-				"phrase": "「君の仕事についてはお客さんから不満が殺到している。すぐに辞めてもらおう」「ふん、くそったれめ。こんな所はじめから勤めたくなかったんだ」",
-				"translations": [
-					"\"Your work has been causing a lot of complaints from customers; I'm ordering you to leave immediately.\" \"Oh, up yours! I didn't want to work here in the first place.\""
-				]
 			}
 		],
 		"tags": [
@@ -5284,12 +5200,6 @@
 				"translations": [
 					"No, it is enough. I am full."
 				]
-			},
-			{
-				"phrase": "ううん、もういいよ。お腹いっぱい。",
-				"translations": [
-					"No, it is enough. I am full."
-				]
 			}
 		],
 		"tags": [
@@ -5317,12 +5227,6 @@
 				"translations": [
 					"\"Might you happen to be Mr. Ogawa?\" \"Well, yes ... can I help you?\"",
 					"\"Aren't you Mr. Ogawa?\" \"Yes, I am. Can I help you?\""
-				]
-			},
-			{
-				"phrase": "そうですが違います。",
-				"translations": [
-					"Yes and no."
 				]
 			},
 			{
@@ -5573,12 +5477,6 @@
 				"phrase": "痛い！由紀子！痛いよ。グーで殴るのはよせよ！",
 				"translations": [
 					"Ow! Yukiko! That hurts! Quit hitting me with your fists!"
-				]
-			},
-			{
-				"phrase": "グーがチョキに、チョキがパーに、パーはグーに勝つ。",
-				"translations": [
-					"Rock breaks scissors. Scissors cut paper. Paper smothers rock."
 				]
 			},
 			{
@@ -6670,12 +6568,6 @@
 				"phrase": "あんなにおろおろしちゃって恥ずかしいったらありゃしない。馬鹿みたいだったわよ。",
 				"translations": [
 					"Shame on you for getting so flustered. You looked ridiculous."
-				]
-			},
-			{
-				"phrase": "突然の父の死の電話をきいて、私はオロオロしてしまった。",
-				"translations": [
-					"When I got the phone call telling me of my father's death, I was completely flustered."
 				]
 			},
 			{
@@ -7819,12 +7711,6 @@
 				"translations": [
 					"He was standing there with a vacant look."
 				]
-			},
-			{
-				"phrase": "彼はぽかんとした顔つきでそこに立っていた。",
-				"translations": [
-					"He was standing there with a vacant look."
-				]
 			}
 		],
 		"tags": [
@@ -8181,13 +8067,6 @@
 				"phrase": "秘密をばらすかもしれん。",
 				"translations": [
 					"She may spill the beans."
-				]
-			},
-			{
-				"phrase": "罠かもしれん、油断するな。",
-				"translations": [
-					"It could be a trap; don't let your guard down.",
-					"It could be a trap. Don't let your guard down."
 				]
 			},
 			{
@@ -8971,18 +8850,6 @@
 				"translations": [
 					"Her cool gaze made my heart skip a beat."
 				]
-			},
-			{
-				"phrase": "彼女のクールな視線に、俺はドキッとした。",
-				"translations": [
-					"Her cool gaze made my heart skip a beat."
-				]
-			},
-			{
-				"phrase": "彼女のクールな視線に、俺はドキッとした。",
-				"translations": [
-					"Her cool gaze made my heart skip a beat."
-				]
 			}
 		],
 		"tags": [
@@ -9186,12 +9053,6 @@
 				"translations": [
 					"It's getting quite springlike."
 				]
-			},
-			{
-				"phrase": "めっきり春らしくなったね。",
-				"translations": [
-					"It's getting quite springlike."
-				]
 			}
 		],
 		"tags": [
@@ -9219,18 +9080,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "グーがチョキに、チョキがパーに、パーはグーに勝つ。",
-				"translations": [
-					"Rock breaks scissors. Scissors cut paper. Paper smothers rock."
-				]
-			},
-			{
-				"phrase": "グーがチョキに、チョキがパーに、パーはグーに勝つ。",
-				"translations": [
-					"Rock breaks scissors. Scissors cut paper. Paper smothers rock."
-				]
-			},
 			{
 				"phrase": "グーがチョキに、チョキがパーに、パーはグーに勝つ。",
 				"translations": [
@@ -9374,12 +9223,6 @@
 				"phrase": "顔が涙でくしゃくしゃになる。",
 				"translations": [
 					"His face went to pieces with tears."
-				]
-			},
-			{
-				"phrase": "君の髪は、ほんとにくしゃくしゃに見えるよ。",
-				"translations": [
-					"Your hair really does look untidy."
 				]
 			},
 			{
@@ -9692,18 +9535,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "なす価値のあることはしくじる価値がある。",
-				"translations": [
-					"If a thing is worth doing it is worth doing badly."
-				]
-			},
-			{
-				"phrase": "なす価値のあることはしくじる価値がある。",
-				"translations": [
-					"If a thing is worth doing it is worth doing badly."
-				]
-			},
 			{
 				"phrase": "なす価値のあることはしくじる価値がある。",
 				"translations": [
@@ -10858,12 +10689,6 @@
 				"translations": [
 					"Every Tuesday her fat little fingers flew like birds up and down the keys of song too."
 				]
-			},
-			{
-				"phrase": "毎週火曜日には、先生のころころした小さな指がピアノの鍵盤をあちこちと鳥のように飛びはねていました。",
-				"translations": [
-					"Every Tuesday her fat little fingers flew like birds up and down the keys of song too."
-				]
 			}
 		],
 		"tags": [
@@ -11635,12 +11460,6 @@
 				"translations": [
 					"Cutting school is the first stage of delinquency."
 				]
-			},
-			{
-				"phrase": "彼は月曜日と土曜日によく授業をさぼる。",
-				"translations": [
-					"He often cuts classes on Monday and Saturday."
-				]
 			}
 		],
 		"tags": [
@@ -11886,13 +11705,6 @@
 				"phrase": "そのスポーツ選手はがっしりした体格をしていた。",
 				"translations": [
 					"The athlete had a strong build."
-				]
-			},
-			{
-				"phrase": "がっしりした私の父の隣にいて、彼は小さく見えた。",
-				"translations": [
-					"He looked small beside my father's stout body.",
-					"He looked small next to my heavyset father."
 				]
 			},
 			{
@@ -12682,12 +12494,6 @@
 				"phrase": "母はため息をつきながら、高校一年生にもなった息子の頭をがしがしと撫でた。",
 				"translations": [
 					"Mom sighed, and tousled the hair of her first-year high school son's head."
-				]
-			},
-			{
-				"phrase": "音が大きい方が、がしがし仕事してるように見えるという人と、うるさいだけって言う人いますよね。",
-				"translations": [
-					"Of those on the loud side, some people say they look like they're briskly working, while others say that they're just noisy."
 				]
 			},
 			{
@@ -13591,12 +13397,6 @@
 				"translations": [
 					"Could you do me a favor? Will you lend me some money?"
 				]
-			},
-			{
-				"phrase": "お願いがあるんですが。お金を貸していただけませんか。",
-				"translations": [
-					"Could you do me a favor? Will you lend me some money?"
-				]
 			}
 		],
 		"tags": [
@@ -13621,18 +13421,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "彼は彼女に車を運転させるつもりはなかったのだが、彼女があまりにせがむものだから、彼の方がとうとう折れた。",
-				"translations": [
-					"He didn't intend to let her drive but she pestered him so much that he finally gave in."
-				]
-			},
-			{
-				"phrase": "彼は彼女に車を運転させるつもりはなかったのだが、彼女があまりにせがむものだから、彼の方がとうとう折れた。",
-				"translations": [
-					"He didn't intend to let her drive but she pestered him so much that he finally gave in."
-				]
-			},
 			{
 				"phrase": "彼は彼女に車を運転させるつもりはなかったのだが、彼女があまりにせがむものだから、彼の方がとうとう折れた。",
 				"translations": [
@@ -13922,12 +13710,6 @@
 				"phrase": "両親が昨晩ひそひそと話をしているのを聞いた。",
 				"translations": [
 					"I heard my parents whispering last night."
-				]
-			},
-			{
-				"phrase": "彼はひそひそと話した。",
-				"translations": [
-					"He spoke under his breath."
 				]
 			},
 			{
@@ -14738,12 +14520,6 @@
 				"phrase": "パイプから水がぽたぽた落ちているのが聞こえるでしょ。",
 				"translations": [
 					"You can hear the water dripping from the pipe."
-				]
-			},
-			{
-				"phrase": "雨が屋根の隙間からぽたぽた落ちていた。",
-				"translations": [
-					"The rain was dripping through a leak in the roof."
 				]
 			},
 			{
@@ -17937,12 +17713,6 @@
 				"translations": [
 					"He did well for a beginner."
 				]
-			},
-			{
-				"phrase": "初心者なりによくやった。",
-				"translations": [
-					"He did well for a beginner."
-				]
 			}
 		],
 		"tags": [
@@ -18168,12 +17938,6 @@
 				"phrase": "なにニヤニヤしてるんだよ。何かいいことあったのか。",
 				"translations": [
 					"What are you smirking at? Did something good happen?"
-				]
-			},
-			{
-				"phrase": "さっきからあの人一人でにやにやして。怪しい。",
-				"translations": [
-					"That person has had an odd grin on his face for a while. What do you suppose is behind it?"
 				]
 			},
 			{
@@ -18538,12 +18302,6 @@
 				"phrase": "タクシーはカタツムリと同じくらいのろのろ進んでいるように思えた。",
 				"translations": [
 					"The taxi seemed to go as slowly as a snail."
-				]
-			},
-			{
-				"phrase": "休日で車は街道をのろのろと動いた。",
-				"translations": [
-					"The holiday traffic crawled along the highway."
 				]
 			},
 			{
@@ -19201,12 +18959,6 @@
 				"translations": [
 					"\"Who do you belong to?\" Wrapped around his feet was a small cat. It was a fluffy grey striped cat."
 				]
-			},
-			{
-				"phrase": "「お前、どこの子だ？」足に纏わりついてきたのは、小さな子猫だった。灰色の縞模様のふわふわした猫だ。",
-				"translations": [
-					"\"Who do you belong to?\" Wrapped around his feet was a small cat. It was a fluffy grey striped cat."
-				]
 			}
 		],
 		"tags": [
@@ -19391,12 +19143,6 @@
 					"I like green peppers very much.",
 					"I love green peppers.",
 					"I really like green peppers."
-				]
-			},
-			{
-				"phrase": "彼女はピーマンが大嫌いだ。",
-				"translations": [
-					"She hates green peppers."
 				]
 			},
 			{
@@ -19729,12 +19475,6 @@
 				"phrase": "やれやれ、女を選んで結婚することになるのか・・・。",
 				"translations": [
 					"Maybe I will settle down with a woman."
-				]
-			},
-			{
-				"phrase": "やれやれ、やっと着いたぞ。",
-				"translations": [
-					"Well, here we are!"
 				]
 			},
 			{
@@ -20862,18 +20602,6 @@
 				"translations": [
 					"It made him uneasy that someone might find out any second what he was hiding."
 				]
-			},
-			{
-				"phrase": "彼はいつ悪事がばれるかと、気が気でなかった。",
-				"translations": [
-					"It made him uneasy that someone might find out any second what he was hiding."
-				]
-			},
-			{
-				"phrase": "彼はいつ悪事がばれるかと、気が気でなかった。",
-				"translations": [
-					"It made him uneasy that someone might find out any second what he was hiding."
-				]
 			}
 		],
 		"tags": [
@@ -20907,12 +20635,6 @@
 				"phrase": "しゃべり出した時彼の両手はぶるぶる震えた。",
 				"translations": [
 					"His hands quivered when he began to speak."
-				]
-			},
-			{
-				"phrase": "トム・スケレトンは手足をぶるぶる震わせていた。",
-				"translations": [
-					"Tom Skeleton was shaking and trembling in every limb."
 				]
 			},
 			{
@@ -21612,12 +21334,6 @@
 				"translations": [
 					"He is still very much alive."
 				]
-			},
-			{
-				"phrase": "彼はまだぴんぴんしている。",
-				"translations": [
-					"He is still very much alive."
-				]
 			}
 		],
 		"tags": [
@@ -21717,12 +21433,6 @@
 				"phrase": "部屋は香水のにおいでぷんぷんしていた。",
 				"translations": [
 					"The room was pervaded with the scent of perfume."
-				]
-			},
-			{
-				"phrase": "隣に座った男の人がウイスキーのにおいをプンプンとさせて、がまんできなかった。",
-				"translations": [
-					"I just couldn't put up with the man smelling of whisky sitting next to me."
 				]
 			},
 			{
@@ -23790,12 +23500,6 @@
 				"translations": [
 					"Due to this a lot of time was lost, it's possible that if it wasn't for this accident the final stage of the race would have been better."
 				]
-			},
-			{
-				"phrase": "これが原因でタイムを大きくロスしてしまい、もしかしたら、このアクシデントがなかったら、レース終盤はもっと良くなっていただろう。",
-				"translations": [
-					"Due to this a lot of time was lost, it's possible that if it wasn't for this accident the final stage of the race would have been better."
-				]
 			}
 		],
 		"tags": [
@@ -23822,12 +23526,6 @@
 				"phrase": "アクション場面の少ない映画にはいつも退屈してしまう。",
 				"translations": [
 					"I'm always bored with films that have little action."
-				]
-			},
-			{
-				"phrase": "今週、３日連続でカーアクションものの外国映画を字幕で見た。",
-				"translations": [
-					"This week I've watched foreign car-action movies with subtitles for three days in a row."
 				]
 			},
 			{
@@ -23963,12 +23661,6 @@
 				"phrase": "私は注意深くアクセルを踏んだ。",
 				"translations": [
 					"I stepped on the accelerator carefully."
-				]
-			},
-			{
-				"phrase": "しばらく車を運転していないと、アクセルとブレーキがごっちゃになることない？",
-				"translations": [
-					"Have you ever got in your car after a long absence and got the brake mixed up with the accelerator?"
 				]
 			},
 			{
@@ -24486,12 +24178,6 @@
 				"phrase": "冬でもなおアスパラガスが食べられる。",
 				"translations": [
 					"You can still get asparagus in the winter."
-				]
-			},
-			{
-				"phrase": "この冷凍アスパラガスは何分ゆでましょうか。",
-				"translations": [
-					"How many minutes shall I boil this frozen asparagus?"
 				]
 			},
 			{
@@ -25422,12 +25108,6 @@
 				"translations": [
 					"My father achieved that and more in four words, which made quoting Shakespeare as effective as any business adviser could wish."
 				]
-			},
-			{
-				"phrase": "父は４語でそうしたことを充分すぎるくらいやり遂げていたのであり、それによってシェイクスピアの引用はビジネスのアドバイザーが望み得る限りの効果性を得たのであった。",
-				"translations": [
-					"My father achieved that and more in four words, which made quoting Shakespeare as effective as any business adviser could wish."
-				]
 			}
 		],
 		"tags": [
@@ -25501,12 +25181,6 @@
 				"phrase": "デパートの屋上にアドバルーンが上がっている。",
 				"translations": [
 					"There is an advertising balloon flying above the department store."
-				]
-			},
-			{
-				"phrase": "彼らはアドバルーンをあげた。",
-				"translations": [
-					"They sent up an advertising balloon."
 				]
 			},
 			{
@@ -25940,12 +25614,6 @@
 				"translations": [
 					"Well then, does everybody know the anime called Mai Hime?"
 				]
-			},
-			{
-				"phrase": "さてさて、みなさんは舞姫というアニメを知っているでしょうか？",
-				"translations": [
-					"Well then, does everybody know the anime called Mai Hime?"
-				]
 			}
 		],
 		"tags": [
@@ -26154,12 +25822,6 @@
 				"phrase": "学生達は扇動者のアピールに動かされた。",
 				"translations": [
 					"The students were animated by the agitator's appeal."
-				]
-			},
-			{
-				"phrase": "内面を理解して貰うためのアピールも必要なのさ！ボクのアグレッシブな行動もその中の一つ！",
-				"translations": [
-					"I also need to get people to understand the real me! My forceful behaviour is one way I try to do this!"
 				]
 			},
 			{
@@ -27337,18 +26999,6 @@
 				"translations": [
 					"If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?"
 				]
-			},
-			{
-				"phrase": "アルコールが酸化するとアルデヒドとなりますが、アルデヒドが酸化するとどうなりますか。",
-				"translations": [
-					"If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?"
-				]
-			},
-			{
-				"phrase": "アルコールが酸化するとアルデヒドとなりますが、アルデヒドが酸化するとどうなりますか。",
-				"translations": [
-					"If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?"
-				]
 			}
 		],
 		"tags": [
@@ -28214,12 +27864,6 @@
 				"translations": [
 					"Everyone called out to the singer for an encore."
 				]
-			},
-			{
-				"phrase": "歌手に向かって盛んなアンコールが起こった。",
-				"translations": [
-					"Everyone called out to the singer for an encore."
-				]
 			}
 		],
 		"tags": [
@@ -28500,12 +28144,6 @@
 				"translations": [
 					"Can you tell me where the nearest antique shop is?"
 				]
-			},
-			{
-				"phrase": "一番近いアンティークショップはどこにあるか教えていただけますか。",
-				"translations": [
-					"Can you tell me where the nearest antique shop is?"
-				]
 			}
 		],
 		"tags": [
@@ -28540,12 +28178,6 @@
 				"phrase": "このアンテナを屋根につけると画面がはっきりする。",
 				"translations": [
 					"You'll get a clear picture with this antenna on the roof."
-				]
-			},
-			{
-				"phrase": "その男はアンテナを取り付けようとした。",
-				"translations": [
-					"The man tried to install his own antenna."
 				]
 			},
 			{
@@ -29008,12 +28640,6 @@
 				"phrase": "彼女はインテリア・デザインの仕事をしていきたいと考えている。",
 				"translations": [
 					"She is pursuing her career in interior design."
-				]
-			},
-			{
-				"phrase": "インテリアの趣味がいいですね。",
-				"translations": [
-					"You have a good taste in interior design."
 				]
 			},
 			{
@@ -29957,13 +29583,6 @@
 					"Steak and caviar are my favorite dishes.",
 					"Steak and caviar are my favorite foods."
 				]
-			},
-			{
-				"phrase": "ステーキとキャビアが私の好物だ。",
-				"translations": [
-					"Steak and caviar are my favorite dishes.",
-					"Steak and caviar are my favorite foods."
-				]
 			}
 		],
 		"tags": [
@@ -30010,12 +29629,6 @@
 				"translations": [
 					"Many women pursue higher education and careers, thus delaying marriage and childbirth."
 				]
-			},
-			{
-				"phrase": "多くの女性がより高い教養とキャリアを追求し、それ故に結婚と出産を先延ばしにしている。",
-				"translations": [
-					"Many women pursue higher education and careers, thus delaying marriage and childbirth."
-				]
 			}
 		],
 		"tags": [
@@ -30045,12 +29658,6 @@
 				"phrase": "車のギアを入れずにリバースを入れたので店先に多大な損害を与えた。",
 				"translations": [
 					"Instead of putting the car into gear, she put it into reverse, causing a great deal of damage to the store-front."
-				]
-			},
-			{
-				"phrase": "西洋人と話をするとき、私はいわば頭の中のギヤを入れ換えなければならない。",
-				"translations": [
-					"When I speak to a Westerner, I have to shift mental gears, so to speak."
 				]
 			},
 			{
@@ -30118,12 +29725,6 @@
 				"phrase": "私、自動車にしょっちゅう乗ってるの。だから、クライアントが私にコンタクトが取れないって文句を言うの。",
 				"translations": [
 					"I'm on the road a lot, and my clients are complaining that they can never reach me."
-				]
-			},
-			{
-				"phrase": "飛田課長が、太鼓判を押した企画書ならクライアントも一発ＯＫだろう。",
-				"translations": [
-					"When Tobita gives a plan his seal of approval, the client accepts it at first glance."
 				]
 			},
 			{
@@ -30927,12 +30528,6 @@
 				"translations": [
 					"I'm from Zambia."
 				]
-			},
-			{
-				"phrase": "ザンビアからやって来ました。",
-				"translations": [
-					"I'm from Zambia."
-				]
 			}
 		],
 		"tags": [
@@ -31205,12 +30800,6 @@
 				"translations": [
 					"He had a shutout until the ninth inning."
 				]
-			},
-			{
-				"phrase": "彼は９回までシャットアウトに抑えた。",
-				"translations": [
-					"He had a shutout until the ninth inning."
-				]
 			}
 		],
 		"tags": [
@@ -31239,12 +30828,6 @@
 				"phrase": "ガラス製のシャンデリアがテーブルの真上に下がっていた。",
 				"translations": [
 					"A crystal chandelier was hanging over the table."
-				]
-			},
-			{
-				"phrase": "天井から美しいシャンデリアが下がっていた。",
-				"translations": [
-					"There was a beautiful chandelier hanging from the ceiling."
 				]
 			},
 			{
@@ -31715,12 +31298,6 @@
 				"translations": [
 					"This may be because of a change in people's attitude toward marriage and the sharp increase of fast food restaurants and convenience stores which are open 24 hours a day and enable young people to live more easily."
 				]
-			},
-			{
-				"phrase": "これは、結婚に対する人々の見方が変わったことと、１日２４時間あいているファーストフード・ストアやコンビニエンス・ストアが急速に増加して、若い人たちがもっと気楽に暮らせるようになったためかもしれない。",
-				"translations": [
-					"This may be because of a change in people's attitude toward marriage and the sharp increase of fast food restaurants and convenience stores which are open 24 hours a day and enable young people to live more easily."
-				]
 			}
 		],
 		"tags": [
@@ -31757,12 +31334,6 @@
 				"phrase": "どの官庁もお役所主義にはまり込まないで、仕事のスピードアップをはかるという点において問題があるようだ。",
 				"translations": [
 					"Every government office seems to have problems in expediting matters without entanglement in its red tape system."
-				]
-			},
-			{
-				"phrase": "この作業、もうちょっとスピードアップできないかなあ。",
-				"translations": [
-					"I'd like you to pick up the pace a little on this job."
 				]
 			},
 			{
@@ -32240,12 +31811,6 @@
 				"phrase": "彼女はチアガールの中で最もじょうずに踊ることができる。",
 				"translations": [
 					"She can dance the best of all the cheerleaders."
-				]
-			},
-			{
-				"phrase": "アンはチアガールです。",
-				"translations": [
-					"Ann is a cheerleader."
 				]
 			},
 			{
@@ -32885,12 +32450,6 @@
 				"translations": [
 					"The scene was a tiny mountain village in a remote section of West Virginia."
 				]
-			},
-			{
-				"phrase": "場所は西バージニア州の遠く離れた小さな山村。",
-				"translations": [
-					"The scene was a tiny mountain village in a remote section of West Virginia."
-				]
 			}
 		],
 		"tags": [
@@ -32924,12 +32483,6 @@
 				"phrase": "非ヴァーチャルアドレス帳を数分前に見つけたところです。",
 				"translations": [
 					"I couldn't find my non-virtual address book until only a few minutes ago."
-				]
-			},
-			{
-				"phrase": "最近の凶悪事件をニュースで見るたび、バーチャルな世界と生きる世界の区別がなくなった若者が急増していることに気付かされる。",
-				"translations": [
-					"These days when I hear about these horrible incidents on the news I get the feeling that more and more young people are losing their ability to distinguish between real and virtual worlds."
 				]
 			},
 			{
@@ -34868,12 +34421,6 @@
 				"translations": [
 					"Yugoslavia says it's not responsible for the actions of Serbian militias in Bosnia which have killed thousands, ruined cities, and turned 1.3 million people into refugees over the last three months."
 				]
-			},
-			{
-				"phrase": "ユーゴスラビアは、過去３ヶ月にわたって数千人を殺害し、諸都市を破壊して、１３０万人を難民へと追いやったボスニアのセルビア人武装勢力の行動は、同国の責任ではないとしています。",
-				"translations": [
-					"Yugoslavia says it's not responsible for the actions of Serbian militias in Bosnia which have killed thousands, ruined cities, and turned 1.3 million people into refugees over the last three months."
-				]
 			}
 		],
 		"tags": [
@@ -35049,12 +34596,6 @@
 				"translations": [
 					"Newspapers, television, and radio are called the mass media."
 				]
-			},
-			{
-				"phrase": "新聞・テレビ・ラジオは、マス・メディアと呼ばれる。",
-				"translations": [
-					"Newspapers, television, and radio are called the mass media."
-				]
 			}
 		],
 		"tags": [
@@ -35112,12 +34653,6 @@
 				"phrase": "あいつはカーマニアだから、車のことならなんでも知ってるよ。",
 				"translations": [
 					"He's a car nut. Ask him anything."
-				]
-			},
-			{
-				"phrase": "彼はスポーツカーのマニアだ。",
-				"translations": [
-					"He has mania for sports cars."
 				]
 			},
 			{
@@ -35895,12 +35430,6 @@
 				"translations": [
 					"Yugoslavia says it's not responsible for the actions of Serbian militias in Bosnia which have killed thousands, ruined cities, and turned 1.3 million people into refugees over the last three months."
 				]
-			},
-			{
-				"phrase": "ユーゴスラビアは、過去３ヶ月にわたって数千人を殺害し、諸都市を破壊して、１３０万人を難民へと追いやったボスニアのセルビア人武装勢力の行動は、同国の責任ではないとしています。",
-				"translations": [
-					"Yugoslavia says it's not responsible for the actions of Serbian militias in Bosnia which have killed thousands, ruined cities, and turned 1.3 million people into refugees over the last three months."
-				]
 			}
 		],
 		"tags": [
@@ -36140,12 +35669,6 @@
 				"phrase": "一番多かったのは、ヨーロッパからであったが、ラテン・アメリカ、アジア、アフリカ、オーストラリア、カナダからも大勢がやってきた。",
 				"translations": [
 					"The greatest number came from Europe, but many also came from Latin America, Asia, Africa, Australia, and Canada."
-				]
-			},
-			{
-				"phrase": "フォークを使う人々は、主にヨーロッパ、北アメリカ、そしてラテンアメリカの人たちで、はしを使う人々は、東アジアの人たちで、指を使う人々は、アフリカ、中東、インドネシア、そしてインドなどの地域の人たちである。",
-				"translations": [
-					"Fork-users are mainly in Europe, North America, and Latin America; chopstick-users in eastern Asia and finger-users in Africa, the Middle East, Indonesia, and India."
 				]
 			},
 			{
@@ -36502,12 +36025,6 @@
 				"phrase": "ステーキはレアが好きです。",
 				"translations": [
 					"I like my steak rare."
-				]
-			},
-			{
-				"phrase": "レアでお願いします。",
-				"translations": [
-					"I would like mine rare."
 				]
 			},
 			{
@@ -37180,12 +36697,6 @@
 				"translations": [
 					"What do you say to a bus tour next Saturday?"
 				]
-			},
-			{
-				"phrase": "来週土曜日にバスツアーをしない？",
-				"translations": [
-					"What do you say to a bus tour next Saturday?"
-				]
 			}
 		],
 		"tags": [
@@ -37297,12 +36808,6 @@
 				"phrase": "彼の職業上のキャリアは破綻していた。",
 				"translations": [
 					"His professional career was bankrupt."
-				]
-			},
-			{
-				"phrase": "多くの女性がより高い教養とキャリアを追求し、それ故に結婚と出産を先延ばしにしている。",
-				"translations": [
-					"Many women pursue higher education and careers, thus delaying marriage and childbirth."
 				]
 			},
 			{
@@ -37451,12 +36956,6 @@
 				"phrase": "ステーキはレアが好きです。",
 				"translations": [
 					"I like my steak rare."
-				]
-			},
-			{
-				"phrase": "レアでお願いします。",
-				"translations": [
-					"I would like mine rare."
 				]
 			},
 			{
@@ -37868,12 +37367,6 @@
 				"phrase": "彼らは宗教イコール教会に行くことだと考えている。",
 				"translations": [
 					"They equate religion with church-going."
-				]
-			},
-			{
-				"phrase": "俺は関係無い、イコール、いなくていい。だから、ここから出ていく何と言われようとも！",
-				"translations": [
-					"It's nothing to do with me, equals, I don't have to be here. So I'm getting out of here, whatever anybody says!"
 				]
 			},
 			{
@@ -38355,12 +37848,6 @@
 				"phrase": "有難くも、10000hit越えのお祝いイラストを頂いてしまいました！本当にかたじけないです。",
 				"translations": [
 					"I'm very lucky to have been gifted with this 10,000 hit picture! Thank you so very much."
-				]
-			},
-			{
-				"phrase": "６００００キリリクイラスト：キリ番を踏んだBeikyuさんのサイト「小さなカエデの木のそばで」のイメージイラストを描いてほしいというリクエストを頂きました。",
-				"translations": [
-					"60,000 lucky number request: I got a request to draw an illustration for the site of Beikyu, who hit the lucky number, \"Standing By A Little Maple Tree\"."
 				]
 			},
 			{
@@ -39121,12 +38608,6 @@
 				"phrase": "英語を話す時は、もっとイントネーションに注意しなさい。",
 				"translations": [
 					"Pay more attention to intonation when you speak English."
-				]
-			},
-			{
-				"phrase": "彼女のイントネーションから推すに少女時代はスペイン語圏に住んでいたと思われる。",
-				"translations": [
-					"You can tell by her intonation that she lived in a Spanish speaking country when she was young."
 				]
 			},
 			{
@@ -40544,12 +40025,6 @@
 				"translations": [
 					"We went to the stadium, where we enjoyed the exciting game."
 				]
-			},
-			{
-				"phrase": "私達はそのスタジアムに行き、そこでエキサイティングな試合を楽しんだ。",
-				"translations": [
-					"We went to the stadium, where we enjoyed the exciting game."
-				]
 			}
 		],
 		"tags": [
@@ -40856,12 +40331,6 @@
 				"phrase": "彼は最後の試合をエンジョイしたんだろうか。",
 				"translations": [
 					"I wonder if he enjoyed the last match."
-				]
-			},
-			{
-				"phrase": "先生も連休をエンジョイしたかったが、どっかの６人組の補習やら準備やらで連休無かったぞ！",
-				"translations": [
-					"I also wanted to enjoy the break, but thanks to preparation and supplementary lessons for a certain six-man team, I got none!"
 				]
 			},
 			{
@@ -41258,12 +40727,6 @@
 				"translations": [
 					"He was born in Ohio but brought up in Texas."
 				]
-			},
-			{
-				"phrase": "彼は生まれはオハイオだが育ったのはテキサスだ。",
-				"translations": [
-					"He was born in Ohio but brought up in Texas."
-				]
 			}
 		],
 		"tags": [
@@ -41353,18 +40816,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "法律の変更で、電子商取引におけるオンライン販売が脅かされている。",
-				"translations": [
-					"Legal changes threaten online sales in digital commerce."
-				]
-			},
-			{
-				"phrase": "法律の変更で、電子商取引におけるオンライン販売が脅かされている。",
-				"translations": [
-					"Legal changes threaten online sales in digital commerce."
-				]
-			},
 			{
 				"phrase": "法律の変更で、電子商取引におけるオンライン販売が脅かされている。",
 				"translations": [
@@ -41730,12 +41181,6 @@
 				"phrase": "新しい文を追加するまえに、その文によって当サイトに新しい語彙がもたらされるかどうか、キーワード検索してご確認ください。",
 				"translations": [
 					"Before adding a new sentence, please check that your sentence brings new vocabulary by searching the keywords."
-				]
-			},
-			{
-				"phrase": "キーワードに合致する文章やファイルから、さらに進んだ分析をして、隠れている真実を発見することがナレッジです。",
-				"translations": [
-					"To apply further analysis to documents and files matching the keywords and find the hidden truth is \"knowledge\"."
 				]
 			},
 			{
@@ -42274,12 +41719,6 @@
 				"translations": [
 					"They went to church on Christmas Eve."
 				]
-			},
-			{
-				"phrase": "彼らはクリスマスイブに教会に行った。",
-				"translations": [
-					"They went to church on Christmas Eve."
-				]
 			}
 		],
 		"tags": [
@@ -42510,12 +41949,6 @@
 				"translations": [
 					"Note the function of the background layers of these graphic designs."
 				]
-			},
-			{
-				"phrase": "これらのグラフィック・デザインの背景に配置されているレイヤーの機能に注目しよう。",
-				"translations": [
-					"Note the function of the background layers of these graphic designs."
-				]
 			}
 		],
 		"tags": [
@@ -42547,12 +41980,6 @@
 				"phrase": "私の事務所はあのグレーの６階建てのビルの４階だ。",
 				"translations": [
 					"My office is on the fourth floor of that gray six-story building."
-				]
-			},
-			{
-				"phrase": "冬にグレーのスーツを１着あつらえる事を考えています。",
-				"translations": [
-					"I have it in mind to have a gray suit made to order for the winter."
 				]
 			},
 			{
@@ -42683,12 +42110,6 @@
 				"phrase": "ゲイのクラブを推薦してください。",
 				"translations": [
 					"Where can I find a good gay club?"
-				]
-			},
-			{
-				"phrase": "このクラブはゲイ、それともストレートですか。",
-				"translations": [
-					"Is the club gay or straight?"
 				]
 			},
 			{
@@ -42827,18 +42248,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "電流が流れる電線にコイルを近づけると、コイルにも電気が流れます。",
-				"translations": [
-					"When a coil is moved near to a wire with current flowing in it current flows in the coil as well."
-				]
-			},
-			{
-				"phrase": "電流が流れる電線にコイルを近づけると、コイルにも電気が流れます。",
-				"translations": [
-					"When a coil is moved near to a wire with current flowing in it current flows in the coil as well."
-				]
-			},
 			{
 				"phrase": "電流が流れる電線にコイルを近づけると、コイルにも電気が流れます。",
 				"translations": [
@@ -43518,12 +42927,6 @@
 				"translations": [
 					"As the young man's car was close to the fence, Miss Baker had to drive up beside it on the other side, where the girl was sitting."
 				]
-			},
-			{
-				"phrase": "若い男の車がフェンスに接していたので、ベイカーさんは女子学生がすわっている、別のサイドに車を寄せた。",
-				"translations": [
-					"As the young man's car was close to the fence, Miss Baker had to drive up beside it on the other side, where the girl was sitting."
-				]
 			}
 		],
 		"tags": [
@@ -44041,12 +43444,6 @@
 				"translations": [
 					"My electric razor is on fire."
 				]
-			},
-			{
-				"phrase": "電気シェーバーから火が出ました。",
-				"translations": [
-					"My electric razor is on fire."
-				]
 			}
 		],
 		"tags": [
@@ -44366,12 +43763,6 @@
 				"translations": [
 					"You'll have it in June? 'June bride' has a nice ring, doesn't it?"
 				]
-			},
-			{
-				"phrase": "やっぱり６月？ジューンブライドって良いわよね～。",
-				"translations": [
-					"You'll have it in June? 'June bride' has a nice ring, doesn't it?"
-				]
 			}
 		],
 		"tags": [
@@ -44588,12 +43979,6 @@
 				"phrase": "大丈夫、キミなら出来る！自分を信じて！キミはもう既に立派なスイマーなのよ！",
 				"translations": [
 					"It'll be fine, you can do it! Trust yourself! You are already a splendid swimmer!"
-				]
-			},
-			{
-				"phrase": "神田さんは上手なスイマーです。",
-				"translations": [
-					"Miss Kanda is a good swimmer."
 				]
 			},
 			{
@@ -45125,12 +44510,6 @@
 				"phrase": "バッターのカウントはツーストライクツーボール。",
 				"translations": [
 					"The batter has two balls and two strikes on him."
-				]
-			},
-			{
-				"phrase": "ここから見ると、私にはストライクに見えましたよ。",
-				"translations": [
-					"It looked like a strike to me from here."
 				]
 			},
 			{
@@ -45840,15 +45219,6 @@
 					"I couldn't remember the title of that song.",
 					"No matter how hard I tried, I couldn't remember that song's title."
 				]
-			},
-			{
-				"phrase": "私はその歌のタイトルをどうしても思い出せなかった。",
-				"translations": [
-					"I failed to recall the song's title.",
-					"I wasn't able to remember the title of that song.",
-					"I couldn't remember the title of that song.",
-					"No matter how hard I tried, I couldn't remember that song's title."
-				]
 			}
 		],
 		"tags": [
@@ -46046,13 +45416,6 @@
 				"phrase": "オーブントースターのタイマーが鳴る。食パンがコンガリ焼けた、香ばしい匂い。",
 				"translations": [
 					"The toaster-oven's timer rings. The fragrant smell of well toasted bread."
-				]
-			},
-			{
-				"phrase": "PC内部のタイマー用ボタン電池が切れた。",
-				"translations": [
-					"The button battery in the PC's internal timer has gone flat.",
-					"The button battery for my computer's timer died."
 				]
 			},
 			{
@@ -46629,12 +45992,6 @@
 				"translations": [
 					"I get a kick from diving."
 				]
-			},
-			{
-				"phrase": "私はダイビングにスリルを感じる。",
-				"translations": [
-					"I get a kick from diving."
-				]
 			}
 		],
 		"tags": [
@@ -46901,12 +46258,6 @@
 				"phrase": "教室に入って席に着くのとほぼ同時に、始業を知らせるチャイムの音が鳴り響く。",
 				"translations": [
 					"About the same time as he entered the classroom and arrived at his seat, the chime to announce class rings across the school."
-				]
-			},
-			{
-				"phrase": "チャイムが鳴ったね。",
-				"translations": [
-					"The door bell has rung."
 				]
 			},
 			{
@@ -47209,12 +46560,6 @@
 				"translations": [
 					"Junk bond dealers left the market riding on a pillow of air."
 				]
-			},
-			{
-				"phrase": "ディーラーは車を売りたがっている。",
-				"translations": [
-					"The dealer wants to sell a car."
-				]
 			}
 		],
 		"tags": [
@@ -47493,12 +46838,6 @@
 				"translations": [
 					"That's a delicate point."
 				]
-			},
-			{
-				"phrase": "それはデリケートな点です。",
-				"translations": [
-					"That's a delicate point."
-				]
 			}
 		],
 		"tags": [
@@ -47605,13 +46944,6 @@
 					"There's no toilet paper.",
 					"There is no toilet paper."
 				]
-			},
-			{
-				"phrase": "トイレットペーパーがありません。",
-				"translations": [
-					"There's no toilet paper.",
-					"There is no toilet paper."
-				]
 			}
 		],
 		"tags": [
@@ -47648,12 +46980,6 @@
 				"phrase": "もう一度それにトライしてみたら。",
 				"translations": [
 					"Why don't you give it another try?"
-				]
-			},
-			{
-				"phrase": "初めて麻雀にトライします。",
-				"translations": [
-					"I'm trying mah-jong for the first time."
 				]
 			},
 			{
@@ -47800,12 +47126,6 @@
 				"phrase": "トレーラーがその車についている。",
 				"translations": [
 					"The trailer goes with the car."
-				]
-			},
-			{
-				"phrase": "彼は自動車にトレーラーをつないだ。",
-				"translations": [
-					"He attached the trailer to his car."
 				]
 			},
 			{
@@ -48749,18 +48069,6 @@
 				"translations": [
 					"Do you think real neurotics really go and call themselves such?"
 				]
-			},
-			{
-				"phrase": "本物のノイローゼの奴がノイローゼだなんて自称するのかね？",
-				"translations": [
-					"Do you think real neurotics really go and call themselves such?"
-				]
-			},
-			{
-				"phrase": "本物のノイローゼの奴がノイローゼだなんて自称するのかね？",
-				"translations": [
-					"Do you think real neurotics really go and call themselves such?"
-				]
 			}
 		],
 		"tags": [
@@ -49154,12 +48462,6 @@
 				"translations": [
 					"Japan is highly competitive in high technology industries."
 				]
-			},
-			{
-				"phrase": "日本はハイテク産業の競争力がある。",
-				"translations": [
-					"Japan is highly competitive in high technology industries."
-				]
 			}
 		],
 		"tags": [
@@ -49313,12 +48615,6 @@
 				"phrase": "ロックの場合、何を基準にハイファイとするのかが難しいですね。",
 				"translations": [
 					"For rock it's hard to know on what basis you should call something 'hi-fi'."
-				]
-			},
-			{
-				"phrase": "日本のカメラ、自動車、ハイファイ装置などは海外で広く使われているし、日本で開発された先端電子なしにやっていける先進国はほとんどないほどになっている。",
-				"translations": [
-					"Japanese cameras, cars, and hi-fi equipment are used widely abroad, and few modern industries can manage without advanced electronic equipment developed in Japan."
 				]
 			},
 			{
@@ -49654,12 +48950,6 @@
 				"translations": [
 					"Biotechnology will bring about a revolution in agriculture."
 				]
-			},
-			{
-				"phrase": "バイオテクノロジーは農業に革命をもたらすだろう。",
-				"translations": [
-					"Biotechnology will bring about a revolution in agriculture."
-				]
 			}
 		],
 		"tags": [
@@ -49790,14 +49080,6 @@
 				"phrase": "朝食はバイキング形式だって。",
 				"translations": [
 					"Breakfast is a smorgasbord."
-				]
-			},
-			{
-				"phrase": "バイキングのほうがコロンブスより先にアメリカを発見したと言われている。",
-				"translations": [
-					"It is said that the Vikings preceded Columbus in discovering America.",
-					"It's said that the Vikings discovered America before Columbus did.",
-					"They say that the Vikings discovered America before Columbus."
 				]
 			},
 			{
@@ -50165,12 +49447,6 @@
 				"translations": [
 					"Let's make Valentine's Day chocolate today."
 				]
-			},
-			{
-				"phrase": "今日はバレンタインにちなんでチョコを作ってみましょう。",
-				"translations": [
-					"Let's make Valentine's Day chocolate today."
-				]
 			}
 		],
 		"tags": [
@@ -50248,13 +49524,6 @@
 				"phrase": "スーパーマーケットでは多くのパートタイマーを雇った。",
 				"translations": [
 					"The supermarket hired many part-timers."
-				]
-			},
-			{
-				"phrase": "赤ちゃんが生まれたので、田中さん一家はパートタイマーを雇わなければならなくなった。",
-				"translations": [
-					"As the baby was born, the Tanakas had to hire a part-timer.",
-					"Now that they have a baby, the Tanakas had to hire a part-time helper."
 				]
 			},
 			{
@@ -50524,12 +49793,6 @@
 				"phrase": "このビーチはサーファーにはパラダイスだ。",
 				"translations": [
 					"This beach is a paradise for surfers."
-				]
-			},
-			{
-				"phrase": "ハワイってまさにパラダイスだもの。",
-				"translations": [
-					"Hawaii's really the land of milk and honey."
 				]
 			},
 			{
@@ -51637,12 +50900,6 @@
 				"translations": [
 					"She was disqualified from the race for two false starts."
 				]
-			},
-			{
-				"phrase": "彼女は２度のフライングで失格した。",
-				"translations": [
-					"She was disqualified from the race for two false starts."
-				]
 			}
 		],
 		"tags": [
@@ -51763,12 +51020,6 @@
 				"translations": [
 					"The yacht sailed around a buoy."
 				]
-			},
-			{
-				"phrase": "ヨットはブイを回った。",
-				"translations": [
-					"The yacht sailed around a buoy."
-				]
 			}
 		],
 		"tags": [
@@ -51821,12 +51072,6 @@
 				"phrase": "彼女はブラインドを引きおろした。",
 				"translations": [
 					"She pulled down the blinds."
-				]
-			},
-			{
-				"phrase": "彼女はブラインドを降ろした。",
-				"translations": [
-					"She pulled the blinds down."
 				]
 			},
 			{
@@ -52467,12 +51712,6 @@
 				"translations": [
 					"It is a toss-up whether the playboy will marry the blonde or the brunette; both girls are so beautiful."
 				]
-			},
-			{
-				"phrase": "あのプレイボーイと結婚するのはブロンドの女の子か、ブルーネットの女の子か五分五分といったところだ。どちらもきれいだから。",
-				"translations": [
-					"It is a toss-up whether the playboy will marry the blonde or the brunette; both girls are so beautiful."
-				]
 			}
 		],
 		"tags": [
@@ -52549,12 +51788,6 @@
 				"phrase": "彼はまだヘビー級の選手権を保持している。",
 				"translations": [
 					"He still holds the heavyweight title."
-				]
-			},
-			{
-				"phrase": "彼はあしたヘビー級チャンピオンと対戦する。",
-				"translations": [
-					"He will fight the heavyweight champion tomorrow."
 				]
 			},
 			{
@@ -52966,12 +52199,6 @@
 				"translations": [
 					"I'm sure that family is familiar with Japanese tastes in food. They've hosted quite a few Japanese exchange students."
 				]
-			},
-			{
-				"phrase": "もう何人も日本人がその家庭にはホームステイしているから、きっと日本人の好みの味を知っているんだと思うよ。",
-				"translations": [
-					"I'm sure that family is familiar with Japanese tastes in food. They've hosted quite a few Japanese exchange students."
-				]
 			}
 		],
 		"tags": [
@@ -53007,12 +52234,6 @@
 				"phrase": "ちなみにホイールマウスのホイールにも対応しているんだ。",
 				"translations": [
 					"By the way, it also works with the wheel of a wheel mouse."
-				]
-			},
-			{
-				"phrase": "彼の車にはホイールがありません。",
-				"translations": [
-					"His car has no wheels."
 				]
 			}
 		],
@@ -53254,12 +52475,6 @@
 				"phrase": "ボーイスカウトの団員が増えた。",
 				"translations": [
 					"The membership of the Boy Scout troop swelled."
-				]
-			},
-			{
-				"phrase": "ボーイスカウトたちは自分たちの作った物を一軒一軒売ってまわった。",
-				"translations": [
-					"The boy scouts went from door to door selling what they had made."
 				]
 			},
 			{
@@ -53526,12 +52741,6 @@
 				"translations": [
 					"Steam boilers may explode."
 				]
-			},
-			{
-				"phrase": "蒸気ボイラーは爆発する可能性がある。",
-				"translations": [
-					"Steam boilers may explode."
-				]
 			}
 		],
 		"tags": [
@@ -53755,12 +52964,6 @@
 				"phrase": "髪をリボンで縛ってポニーテールにした。",
 				"translations": [
 					"I used a ribbon to tie my hair into a ponytail."
-				]
-			},
-			{
-				"phrase": "ポニーテールが翻って思わず見とれる仕草だ。",
-				"translations": [
-					"The way she flips her ponytail will charm you before you realise it."
 				]
 			},
 			{
@@ -54338,12 +53541,6 @@
 				"translations": [
 					"The curry they serve in Japan is milder than real Indian curry. They adapt it to Japanese tastes."
 				]
-			},
-			{
-				"phrase": "日本にあるインドカレー屋のカレーって、やっぱり日本人の口に合わせて本場よりマイルドに作られてるよね。",
-				"translations": [
-					"The curry they serve in Japan is milder than real Indian curry. They adapt it to Japanese tastes."
-				]
 			}
 		],
 		"tags": [
@@ -54795,12 +53992,6 @@
 				"phrase": "その川はメインストリートと平行に流れている。",
 				"translations": [
 					"The river runs parallel to the main street."
-				]
-			},
-			{
-				"phrase": "メインストリートには誰一人姿は見られなかった。",
-				"translations": [
-					"Nobody was to be seen on the main street."
 				]
 			},
 			{
@@ -55428,12 +54619,6 @@
 				"translations": [
 					"The scholar carried out his lifework at the age of seventy."
 				]
-			},
-			{
-				"phrase": "その学者は７０才でライフワークを完成した。",
-				"translations": [
-					"The scholar carried out his lifework at the age of seventy."
-				]
 			}
 		],
 		"tags": [
@@ -55684,12 +54869,6 @@
 				"translations": [
 					"Since many organizations are putting effort into recycling in order to restore the natural environment, why won't you contribute to reforestation?"
 				]
-			},
-			{
-				"phrase": "自然環境の回復を宣伝する組織がリサイクルに力を入れて、植林に貢献しないのは何故か。",
-				"translations": [
-					"Since many organizations are putting effort into recycling in order to restore the natural environment, why won't you contribute to reforestation?"
-				]
 			}
 		],
 		"tags": [
@@ -55740,12 +54919,6 @@
 				"phrase": "その少女はリサイタルでのすばらしい踊りで、入賞した。",
 				"translations": [
 					"The girl took the cake for her wonderful dancing at the recital."
-				]
-			},
-			{
-				"phrase": "私は息子がリサイタルに成功したことが大変うれしい。",
-				"translations": [
-					"I am very happy about my son's success in his recital."
 				]
 			},
 			{
@@ -56127,12 +55300,6 @@
 				"phrase": "レンジャーが道を拓く。",
 				"translations": [
 					"The Rangers lead the way."
-				]
-			},
-			{
-				"phrase": "レインジャー隊は船員の救助に向かうことを決めた。",
-				"translations": [
-					"The rangers decided to go to the sailor's rescue."
 				]
 			},
 			{
@@ -56558,12 +55725,6 @@
 				"phrase": "私どものウェブサイトhttp://www.example.comは、あなたに必要な情報を全てお伝えします。",
 				"translations": [
 					"Our Web site, http://www.example.com will tell you all you need to know."
-				]
-			},
-			{
-				"phrase": "ウェブサイトのタグラインは、その企業が何を行っていて、競合他社とどこが違うのかがわかるようなものでなくてはならない。",
-				"translations": [
-					"The website's tagline has to let people know what that business does and how it differs from the competition."
 				]
 			},
 			{
@@ -58029,18 +57190,6 @@
 				"translations": [
 					"If you sum up feminist counselling in a few words, I suppose it would be counselling done from a woman's standpoint."
 				]
-			},
-			{
-				"phrase": "フェミニストカウンセリングを一言で説明するなら、女性の視点にたったカウンセリングということになるでしょうか。",
-				"translations": [
-					"If you sum up feminist counselling in a few words, I suppose it would be counselling done from a woman's standpoint."
-				]
-			},
-			{
-				"phrase": "フェミニストカウンセリングを一言で説明するなら、女性の視点にたったカウンセリングということになるでしょうか。",
-				"translations": [
-					"If you sum up feminist counselling in a few words, I suppose it would be counselling done from a woman's standpoint."
-				]
 			}
 		],
 		"tags": [
@@ -58782,12 +57931,6 @@
 				"translations": [
 					"That blue-white shining star is Sirius."
 				]
-			},
-			{
-				"phrase": "あの青白く光っている星がシリウスです。",
-				"translations": [
-					"That blue-white shining star is Sirius."
-				]
 			}
 		],
 		"tags": [
@@ -58856,12 +57999,6 @@
 				"phrase": "スーパーボウルを見るために会社を休んでいた事もありました。",
 				"translations": [
 					"I've sometimes taken time off work to watch the Super Bowl."
-				]
-			},
-			{
-				"phrase": "たとえば、ワールドシリーズやスーパーボウルを我が家の今で見られるので、それらの試合を見に球場まで出かける必要はない。",
-				"translations": [
-					"For example, they do not have to go to a stadium to see the World Series or the Super Bowl because they can enjoy watching the games in their own living rooms."
 				]
 			},
 			{
@@ -58988,18 +58125,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "ストロンチウム９０：ストロンチウムの放射性同位体の一つ；放射性降下物に含まれ人体に有害。",
-				"translations": [
-					"Strontium 90: One of the radioisotopes of strontium; part of radioactive fallout, harmful to human health."
-				]
-			},
-			{
-				"phrase": "ストロンチウム９０：ストロンチウムの放射性同位体の一つ；放射性降下物に含まれ人体に有害。",
-				"translations": [
-					"Strontium 90: One of the radioisotopes of strontium; part of radioactive fallout, harmful to human health."
-				]
-			},
 			{
 				"phrase": "ストロンチウム９０：ストロンチウムの放射性同位体の一つ；放射性降下物に含まれ人体に有害。",
 				"translations": [
@@ -59309,12 +58434,6 @@
 				"translations": [
 					"With this tutorial you will use the sample manga to become accustomed to the procedures for seeing the manga including download."
 				]
-			},
-			{
-				"phrase": "このチュートリアルではサンプルマンガを使用して、ダウンロードを含めてマンガを見る手順に慣れていただきます。",
-				"translations": [
-					"With this tutorial you will use the sample manga to become accustomed to the procedures for seeing the manga including download."
-				]
 			}
 		],
 		"tags": [
@@ -59433,12 +58552,6 @@
 				"phrase": "その女優のデビューは８歳の時でした。",
 				"translations": [
 					"The actress made her debut when she was eight."
-				]
-			},
-			{
-				"phrase": "トムは映画界にデビューするとすぐに１０代の若者の間で人気が出た。",
-				"translations": [
-					"Tom became popular among teenagers as soon as he made his debut on the screen."
 				]
 			},
 			{
@@ -59768,12 +58881,6 @@
 				"translations": [
 					"Wishing you a Halloween filled with fun."
 				]
-			},
-			{
-				"phrase": "楽しいハロウィンを。",
-				"translations": [
-					"Wishing you a Halloween filled with fun."
-				]
 			}
 		],
 		"tags": [
@@ -59859,18 +58966,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "ボールがバウンドして上がってくるところを打つ。",
-				"translations": [
-					"Hit the ball after the bounce."
-				]
-			},
-			{
-				"phrase": "ボールがバウンドして上がってくるところを打つ。",
-				"translations": [
-					"Hit the ball after the bounce."
-				]
-			},
 			{
 				"phrase": "ボールがバウンドして上がってくるところを打つ。",
 				"translations": [
@@ -60018,12 +59113,6 @@
 				"phrase": "審判はそのボールをファウルと判定した。",
 				"translations": [
 					"The umpire called the ball foul."
-				]
-			},
-			{
-				"phrase": "彼はボールをファウルと判定した。",
-				"translations": [
-					"He called the ball foul."
 				]
 			},
 			{
@@ -60704,12 +59793,6 @@
 				"phrase": "全従業員ラウンジに発表を掲示します。",
 				"translations": [
 					"We will post the announcement in all the staff lounges."
-				]
-			},
-			{
-				"phrase": "搭乗ラウンジはどこでしょう？",
-				"translations": [
-					"Where is the boarding lounge?"
 				]
 			},
 			{
@@ -61718,12 +60801,6 @@
 				]
 			},
 			{
-				"phrase": "この問題は、アイドルのエゴとヲタのエゴの衝突だ。",
-				"translations": [
-					"This problem is the clash of the idol's and obsessive fan's egos."
-				]
-			},
-			{
 				"phrase": "先進諸国では出生率の上昇が図られる一方で、発展途上国では出生率の抑制が叫ばれる。これは先進国側のエゴととらえられ、発展途上国側との合意形成は極めて難しいことになろう。",
 				"translations": [
 					"While the birth rate is intended to be decreased in developing countries, that of developed nations is selfishly planned to be increased, resulting in the difficulty of getting mutual consent."
@@ -62179,12 +61256,6 @@
 				"translations": [
 					"She was dismayed at their ignorance in etiquette."
 				]
-			},
-			{
-				"phrase": "彼らがエチケットを知らないことに彼女はがっかりした。",
-				"translations": [
-					"She was dismayed at their ignorance in etiquette."
-				]
 			}
 		],
 		"tags": [
@@ -62591,12 +61662,6 @@
 				"translations": [
 					"I didn't watch Star Wars episode 1."
 				]
-			},
-			{
-				"phrase": "私はスターウォーズエピソード１を見ていません。",
-				"translations": [
-					"I didn't watch Star Wars episode 1."
-				]
 			}
 		],
 		"tags": [
@@ -62787,12 +61852,6 @@
 				"phrase": "彼のエラーがなかったなら我々は勝てたのだが。",
 				"translations": [
 					"If it had not been for his error, we would have won."
-				]
-			},
-			{
-				"phrase": "ｍｅｄｉａ ｐｌａｙｅｒで音楽を聞こうとしてもエラーが出てファイルを再生できません。",
-				"translations": [
-					"When I try to listen to music with media player there's an error and I can't play the file."
 				]
 			},
 			{
@@ -63323,12 +62382,6 @@
 				"translations": [
 					"The movie \"Fight Club\" has a surprise ending."
 				]
-			},
-			{
-				"phrase": "映画「ファイトクラブ」のエンディングには驚かされた。",
-				"translations": [
-					"The movie \"Fight Club\" has a surprise ending."
-				]
 			}
 		],
 		"tags": [
@@ -63639,12 +62692,6 @@
 				"translations": [
 					"In recent years, with a method called VLBI that uses quasar observations, and by GPS we have begun to understand the absolute movement of tectonic plates."
 				]
-			},
-			{
-				"phrase": "近年では、クエーサーの観測を応用したVLBIと呼ばれる方法やGPSによって、プレートの絶対運動も理解され始めている。",
-				"translations": [
-					"In recent years, with a method called VLBI that uses quasar observations, and by GPS we have begun to understand the absolute movement of tectonic plates."
-				]
 			}
 		],
 		"tags": [
@@ -63744,12 +62791,6 @@
 				"phrase": "弟はサンディエゴに住んでいます。",
 				"translations": [
 					"My brother is living in San Diego."
-				]
-			},
-			{
-				"phrase": "サンディエゴ２枚ください。",
-				"translations": [
-					"Two tickets to San Diego, please."
 				]
 			},
 			{
@@ -64128,12 +63169,6 @@
 				"translations": [
 					"The story ends happily."
 				]
-			},
-			{
-				"phrase": "その物語はハッピーエンドだ。",
-				"translations": [
-					"The story ends happily."
-				]
 			}
 		],
 		"tags": [
@@ -64194,12 +63229,6 @@
 				"phrase": "ただ、毎日だとさすがに飽きるだろう。もっと料理のバリエーションを増やさないと。",
 				"translations": [
 					"It's just if we have it every day we're bound to get fed up with it. I must increase the variety of my cooking."
-				]
-			},
-			{
-				"phrase": "むろん、この両極端の間に多くのバリエーションがある。",
-				"translations": [
-					"Obviously there are many variations between these two extremes."
 				]
 			},
 			{
@@ -64299,12 +63328,6 @@
 				"phrase": "そのピエロはわざと転んだ。",
 				"translations": [
 					"The clown fell down on purpose."
-				]
-			},
-			{
-				"phrase": "ピエロを見て少年は物が言えなくなってしまった。",
-				"translations": [
-					"When the little boy saw the clown, the cat got his tongue."
 				]
 			},
 			{
@@ -64464,12 +63487,6 @@
 				"phrase": "そんなことリクエストしていません。",
 				"translations": [
 					"I didn't request you to do that."
-				]
-			},
-			{
-				"phrase": "６００００キリリクイラスト：キリ番を踏んだBeikyuさんのサイト「小さなカエデの木のそばで」のイメージイラストを描いてほしいというリクエストを頂きました。",
-				"translations": [
-					"60,000 lucky number request: I got a request to draw an illustration for the site of Beikyu, who hit the lucky number, \"Standing By A Little Maple Tree\"."
 				]
 			},
 			{
@@ -65207,12 +64224,6 @@
 				"phrase": "生産性はオートメーションの徹底によって向上する。",
 				"translations": [
 					"Production improves by becoming more automatic."
-				]
-			},
-			{
-				"phrase": "オートメーションは必ず重要な社会的結果をもたらすだろう。",
-				"translations": [
-					"Automation is bound to have important social consequences."
 				]
 			},
 			{
@@ -66063,12 +65074,6 @@
 				"translations": [
 					"The sudden increase of ultraviolet rays made the researchers believe in the existence of ozone holes."
 				]
-			},
-			{
-				"phrase": "紫外線の急激な上昇は研究者たちにオゾンホールの存在を信じさせた。",
-				"translations": [
-					"The sudden increase of ultraviolet rays made the researchers believe in the existence of ozone holes."
-				]
 			}
 		],
 		"tags": [
@@ -66485,12 +65490,6 @@
 				"translations": [
 					"4-speed automatic transmission is available as an option."
 				]
-			},
-			{
-				"phrase": "オプションとして４速自動変速機も選べる。",
-				"translations": [
-					"4-speed automatic transmission is available as an option."
-				]
 			}
 		],
 		"tags": [
@@ -66604,12 +65603,6 @@
 				"phrase": "１０４のオペレーターに聞いてみて。",
 				"translations": [
 					"Call the operator at 104 then."
-				]
-			},
-			{
-				"phrase": "電話を切ってお待ち下さい。すぐにオペレーターからお電話します。",
-				"translations": [
-					"Please hang up and the operator will call you back."
 				]
 			},
 			{
@@ -66877,12 +65870,6 @@
 				"translations": [
 					"For delayed flights, seasonal adjustments are made on the basis of the original flight date and so refunds of air-mile difference will not be made."
 				]
-			},
-			{
-				"phrase": "遅延便については、オリジナルの出発日に基づくシーズナリティを適用するため、マイル差額の払い戻しはいたしません。",
-				"translations": [
-					"For delayed flights, seasonal adjustments are made on the basis of the original flight date and so refunds of air-mile difference will not be made."
-				]
 			}
 		],
 		"tags": [
@@ -66950,13 +65937,6 @@
 				"phrase": "教会には普通オルガンがあります。",
 				"translations": [
 					"There is usually an organ in a church."
-				]
-			},
-			{
-				"phrase": "オルガンは弾けますか？",
-				"translations": [
-					"Can you play the organ?",
-					"Are you able to play organ?"
 				]
 			},
 			{
@@ -67213,12 +66193,6 @@
 				"phrase": "この歌の名前は『オンリー・ユー』です。",
 				"translations": [
 					"This song's name is \"Only You\"."
-				]
-			},
-			{
-				"phrase": "なにも田中さんの力がオンリーだというのはない。",
-				"translations": [
-					"This is not to say that Mr. Tanaka did it all on his own."
 				]
 			},
 			{
@@ -67532,12 +66506,6 @@
 				"phrase": "第二に、いくつかのクリオールはそれ自体独立した「国語」となるかもしれない。",
 				"translations": [
 					"Secondly, some of the Creoles may become independent \"national languages\" in their own right."
-				]
-			},
-			{
-				"phrase": "さらに時間がたつとこれらの「クリオール」は独立した言語になった：すなわち、スペイン語、フランス語、イタリア語、などである。",
-				"translations": [
-					"As more time passed, these Creoles became separate languages: Spanish, French, Italian, etc."
 				]
 			},
 			{
@@ -69088,12 +68056,6 @@
 				"translations": [
 					"If we had been in Venice a month prior, we could have taken part in the carnival."
 				]
-			},
-			{
-				"phrase": "１ヶ月前にベニスにいたら、私たちはそのカーニバルに参加できたのですが。",
-				"translations": [
-					"If we had been in Venice a month prior, we could have taken part in the carnival."
-				]
 			}
 		],
 		"tags": [
@@ -69517,12 +68479,6 @@
 				"translations": [
 					"I had to pay ten dollars for the cassette in addition."
 				]
-			},
-			{
-				"phrase": "私はそのカセットにさらに１０ドル払わなければならなかった。",
-				"translations": [
-					"I had to pay ten dollars for the cassette in addition."
-				]
 			}
 		],
 		"tags": [
@@ -69552,12 +68508,6 @@
 				"phrase": "カセットテープを買うつもりです。",
 				"translations": [
 					"I will buy cassette tapes."
-				]
-			},
-			{
-				"phrase": "カセットテープは人気の点でＣＤにとって代わられたようだ。",
-				"translations": [
-					"Cassette tapes seem to have given way to compact disks in popularity."
 				]
 			},
 			{
@@ -69863,12 +68813,6 @@
 				"translations": [
 					"It is reasonable to think that there exist other anomalies in this category."
 				]
-			},
-			{
-				"phrase": "このカテゴリーには他にも異常が存在すると考えることが妥当である。",
-				"translations": [
-					"It is reasonable to think that there exist other anomalies in this category."
-				]
 			}
 		],
 		"tags": [
@@ -70090,12 +69034,6 @@
 				"translations": [
 					"Is there a cafe?"
 				]
-			},
-			{
-				"phrase": "カフェがありますか。",
-				"translations": [
-					"Is there a cafe?"
-				]
 			}
 		],
 		"tags": [
@@ -70160,12 +69098,6 @@
 				"phrase": "食後に２カプセル飲みなさい。",
 				"translations": [
 					"Take two capsules after a meal."
-				]
-			},
-			{
-				"phrase": "このカプセルは食後３０分以内に飲んでください。",
-				"translations": [
-					"Take this capsule within thirty minutes of each meal."
 				]
 			},
 			{
@@ -70545,12 +69477,6 @@
 				"translations": [
 					"The picture is colorful in contrast with this one."
 				]
-			},
-			{
-				"phrase": "その絵はこの絵とは対照的にカラフルだ。",
-				"translations": [
-					"The picture is colorful in contrast with this one."
-				]
 			}
 		],
 		"tags": [
@@ -70756,12 +69682,6 @@
 				"phrase": "このカルテを持って３階のレントゲン室へ行ってください。",
 				"translations": [
 					"Please take this chart to the X-ray Room on the third floor."
-				]
-			},
-			{
-				"phrase": "たいていの病院ではカルテはアルファベット順に保管されている。",
-				"translations": [
-					"The clinical records in most hospitals are kept in alphabetical order."
 				]
 			},
 			{
@@ -71486,12 +70406,6 @@
 				"phrase": "キャンバスのオイルはとても微細な花びらを描けない。",
 				"translations": [
 					"Oil on canvas can never paint a petal so delicate."
-				]
-			},
-			{
-				"phrase": "なにやら唸りながら、ほとばしるパッションをキャンバスにぶつけている！",
-				"translations": [
-					"Groaning strangely she is hurling her overflowing passion onto the canvas!"
 				]
 			},
 			{
@@ -72341,12 +71255,6 @@
 				"translations": [
 					"I took up squash only a few months ago."
 				]
-			},
-			{
-				"phrase": "数ヶ月前にスカッシュを始めたばかりなんだ。",
-				"translations": [
-					"I took up squash only a few months ago."
-				]
 			}
 		],
 		"tags": [
@@ -72549,12 +71457,6 @@
 				"phrase": "おかしいな、スピーカーがガーガーいってるよ。",
 				"translations": [
 					"That's funny. The speaker is crackling."
-				]
-			},
-			{
-				"phrase": "彼女はいわば歩くスピーカーだ。",
-				"translations": [
-					"She is, as it were, a walking speaker."
 				]
 			},
 			{
@@ -72836,12 +71738,6 @@
 				"phrase": "昼食は、テクニカルグループも交えて、十二時からです。",
 				"translations": [
 					"Lunch is at 12:00 to coincide with the Technical Group."
-				]
-			},
-			{
-				"phrase": "数人から、その日の後半にあたるテクニカルセッションの中にも出席したいセッションがあるという意見が出ました。",
-				"translations": [
-					"A few people mentioned they would like to attend some sessions later in the day on the Technical Session Agenda."
 				]
 			},
 			{
@@ -73181,12 +72077,6 @@
 				"phrase": "ハーモニカはお父さんからのプレゼントですか。",
 				"translations": [
 					"Is the harmonica a present from his father?"
-				]
-			},
-			{
-				"phrase": "僕は高校時代、ハーモニカ部に入っていました。",
-				"translations": [
-					"I belonged to the harmonica club in my high school days."
 				]
 			},
 			{
@@ -73831,12 +72721,6 @@
 				"translations": [
 					"When the breaker tripped and it became pitch black, the baby got scared and started crying."
 				]
-			},
-			{
-				"phrase": "ブレーカーが落ちて真っ暗闇になった時、赤ちゃんが怖くて泣きだしました。",
-				"translations": [
-					"When the breaker tripped and it became pitch black, the baby got scared and started crying."
-				]
 			}
 		],
 		"tags": [
@@ -73867,12 +72751,6 @@
 				"phrase": "ブローカーは円高のおかげで大もうけしました。",
 				"translations": [
 					"Brokers made a killing because of the high yen."
-				]
-			},
-			{
-				"phrase": "利益追求に必死のブローカーは、必ずしもルールブックにのっとっているとは限らないのです。",
-				"translations": [
-					"Brokers struggling to make a profit don't always play by the book."
 				]
 			},
 			{
@@ -73953,12 +72831,6 @@
 				"phrase": "以前はタバコを吸い、かなりのヘビースモーカーでした。",
 				"translations": [
 					"I used to smoke. I was quite a heavy smoker."
-				]
-			},
-			{
-				"phrase": "喫煙によって死亡した者の大半はヘビースモーカーではなかった。",
-				"translations": [
-					"Most people killed by smoking were not heavy smokers."
 				]
 			},
 			{
@@ -75607,12 +74479,6 @@
 				"translations": [
 					"\"Where's mom?\" \"She's in the kitchen.\""
 				]
-			},
-			{
-				"phrase": "「母さんどこにいるの？」「キッチンよ」",
-				"translations": [
-					"\"Where's mom?\" \"She's in the kitchen.\""
-				]
 			}
 		],
 		"tags": [
@@ -75900,12 +74766,6 @@
 				"phrase": "彼は左手でボールをキャッチした。",
 				"translations": [
 					"He caught the ball with his left hand."
-				]
-			},
-			{
-				"phrase": "私はいまだに高く上げたバトンをうまくキャッチできない。",
-				"translations": [
-					"I am still clumsy catching batons thrown high up."
 				]
 			},
 			{
@@ -77413,18 +76273,6 @@
 				"translations": [
 					"This beer mug holds one pint."
 				]
-			},
-			{
-				"phrase": "このジョッキは１パイント入る。",
-				"translations": [
-					"This beer mug holds one pint."
-				]
-			},
-			{
-				"phrase": "このジョッキは１パイント入る。",
-				"translations": [
-					"This beer mug holds one pint."
-				]
 			}
 		],
 		"tags": [
@@ -78507,12 +77355,6 @@
 				"translations": [
 					"She seems to be laboring under the family handicap."
 				]
-			},
-			{
-				"phrase": "彼女は家庭的なハンディキャップに苦しんでいるようだ。",
-				"translations": [
-					"She seems to be laboring under the family handicap."
-				]
 			}
 		],
 		"tags": [
@@ -79468,12 +78310,6 @@
 				"translations": [
 					"I planned to say this later on but in Katahane there is no such thing as a 'bit part'."
 				]
-			},
-			{
-				"phrase": "これも後で言うつもりだったんだけどカタハネのキャラに端役というのは存在しないのよね。",
-				"translations": [
-					"I planned to say this later on but in Katahane there is no such thing as a 'bit part'."
-				]
 			}
 		],
 		"tags": [
@@ -79918,12 +78754,6 @@
 				"phrase": "渋滞にいらいらして大勢の運転手達はクラクションを鳴らし出した。",
 				"translations": [
 					"Impatient at the delay, many drivers began to blow their horns."
-				]
-			},
-			{
-				"phrase": "彼女はそれゆえにこちら側に近づいた。窓をあけて、自分がそこにいるということに気づいてもらうためにクラクションを軽くならした。",
-				"translations": [
-					"She therefore came up on this side, opened her own window and tapped her horn lightly to draw attention to the fact that she was there."
 				]
 			},
 			{
@@ -80472,12 +79302,6 @@
 				"translations": [
 					"Putting his trust in God and taking the bull by the horns, the Christian gladiator defeated many adversaries."
 				]
-			},
-			{
-				"phrase": "神を信じ、敢然と敵に向かった、そのクリスチャンの剣闘士は、たくさんの敵を倒した。",
-				"translations": [
-					"Putting his trust in God and taking the bull by the horns, the Christian gladiator defeated many adversaries."
-				]
 			}
 		],
 		"tags": [
@@ -80548,12 +79372,6 @@
 				"phrase": "ここにクリスマスツリーを立てましょう。",
 				"translations": [
 					"Let's put up the Christmas tree here."
-				]
-			},
-			{
-				"phrase": "我が家ではクリスマスツリーを照明で飾りました。",
-				"translations": [
-					"We decorated the Christmas tree with lights."
 				]
 			},
 			{
@@ -80651,12 +79469,6 @@
 				"translations": [
 					"When someone becomes neurotic about pens and paper clips, it's a sure sign they're cracking up."
 				]
-			},
-			{
-				"phrase": "誰かがペンとかクリップのことで神経質になってきたら、それは気が触れ出したという立派な前触れである。",
-				"translations": [
-					"When someone becomes neurotic about pens and paper clips, it's a sure sign they're cracking up."
-				]
 			}
 		],
 		"tags": [
@@ -80689,13 +79501,6 @@
 				"phrase": "ちなみに、ウチのクリニックから数百メートルの近場に「ランプ」が建設中です。",
 				"translations": [
 					"Incidentally a motorway ramp is being constructed in the neighbourhood, a few hundred metres away, of my clinic."
-				]
-			},
-			{
-				"phrase": "彼女は高須クリニックに行きました。",
-				"translations": [
-					"She went to Takasu clinic.",
-					"She went to the Takasu clinic."
 				]
 			},
 			{
@@ -81150,12 +79955,6 @@
 				"phrase": "クロールできる？",
 				"translations": [
 					"Can you do the crawl?"
-				]
-			},
-			{
-				"phrase": "彼女はクロールの泳ぎ方を知っている。",
-				"translations": [
-					"She knows how to do the crawl."
 				]
 			},
 			{
@@ -81674,12 +80473,6 @@
 				"translations": [
 					"Copernicus proposed the idea that the Earth travels around the Sun."
 				]
-			},
-			{
-				"phrase": "コペルニクスは、地球が太陽の周りを回っているという説を出した。",
-				"translations": [
-					"Copernicus proposed the idea that the Earth travels around the Sun."
-				]
 			}
 		],
 		"tags": [
@@ -82085,12 +80878,6 @@
 				"translations": [
 					"The church is built in Gothic style."
 				]
-			},
-			{
-				"phrase": "その教会はゴシック風の建築である。",
-				"translations": [
-					"The church is built in Gothic style."
-				]
 			}
 		],
 		"tags": [
@@ -82423,12 +81210,6 @@
 				"translations": [
 					"It's said to be a girls' high school characterised by its quiet and traditional feel and a chic, high-class uniform."
 				]
-			},
-			{
-				"phrase": "シックで上品な制服と歴史ある静かな雰囲気が特徴の女子高なのだという。",
-				"translations": [
-					"It's said to be a girls' high school characterised by its quiet and traditional feel and a chic, high-class uniform."
-				]
 			}
 		],
 		"tags": [
@@ -82609,12 +81390,6 @@
 				"translations": [
 					"She was in a silk dress."
 				]
-			},
-			{
-				"phrase": "彼女はシルクのドレスを着ていた。",
-				"translations": [
-					"She was in a silk dress."
-				]
 			}
 		],
 		"tags": [
@@ -82644,12 +81419,6 @@
 				"phrase": "ガラス製品はペルシャからシルクロードを通ってきました。",
 				"translations": [
 					"Glasswork came from Persia by way of the Silk Road."
-				]
-			},
-			{
-				"phrase": "私はシルクロードを訪れたい気が大きいにある。",
-				"translations": [
-					"I have a good mind to visit the Silk Road."
 				]
 			},
 			{
@@ -83429,12 +82198,6 @@
 				"translations": [
 					"Where can I buy snacks?"
 				]
-			},
-			{
-				"phrase": "スナック売り場は、どこですか。",
-				"translations": [
-					"Where can I buy snacks?"
-				]
 			}
 		],
 		"tags": [
@@ -83600,12 +82363,6 @@
 				"translations": [
 					"The swimmer, Cindy Nicholas, barely made it ashore at Dover at the end of the exhausting swim, but a spokesman from the Channel Swimming Association announced that she was in very good shape."
 				]
-			},
-			{
-				"phrase": "泳者のシンディ・ニコラスは、へとへとになって泳ぎ切った後、ドーバーでかろうじて陸に上がってきたが、海峡水泳教会のスポークスマンは彼女がとても元気であると発表した。",
-				"translations": [
-					"The swimmer, Cindy Nicholas, barely made it ashore at Dover at the end of the exhausting swim, but a spokesman from the Channel Swimming Association announced that she was in very good shape."
-				]
 			}
 		],
 		"tags": [
@@ -83717,12 +82474,6 @@
 				"phrase": "引用した問題ではありませんが、関係代名詞と関係副詞の使い分けを問う問題がリーディングセクションにはあります。",
 				"translations": [
 					"The problem quoted isn't one, but there are problems in the reading section that ask you to distinguish relative pronouns from relative adverbs."
-				]
-			},
-			{
-				"phrase": "この論評の最初のセクションでは、脳のプロセスがどのように我々の意識経験を引き起こすかという問題を提起する。",
-				"translations": [
-					"In the first section of this review I raise the question of how brain processes cause our conscious experiences."
 				]
 			},
 			{
@@ -84234,12 +82985,6 @@
 				"translations": [
 					"Each muscle shows perfect teamwork."
 				]
-			},
-			{
-				"phrase": "それぞれの筋肉が完璧なチームワークを示す。",
-				"translations": [
-					"Each muscle shows perfect teamwork."
-				]
 			}
 		],
 		"tags": [
@@ -84426,12 +83171,6 @@
 				"phrase": "あのテーマパークでスリルを味わった。",
 				"translations": [
 					"We had a thrilling time at the theme park."
-				]
-			},
-			{
-				"phrase": "そのテーマパークは先月閉園になった。",
-				"translations": [
-					"The theme park was closed down last month."
 				]
 			},
 			{
@@ -84770,12 +83509,6 @@
 				"translations": [
 					"Please pack the disks and hard copies into the briefcase."
 				]
-			},
-			{
-				"phrase": "ディスクと出力紙をかばんに詰めて下さい。",
-				"translations": [
-					"Please pack the disks and hard copies into the briefcase."
-				]
 			}
 		],
 		"tags": [
@@ -84874,12 +83607,6 @@
 				"phrase": "きれいな花が受付のデスクに飾ってありました。",
 				"translations": [
 					"There were beautiful flowers on the reception desk."
-				]
-			},
-			{
-				"phrase": "新しいデスクをお願いします。",
-				"translations": [
-					"I'm going to ask for a new desk."
 				]
 			},
 			{
@@ -85005,12 +83732,6 @@
 				"phrase": "今日のトピックは「北朝鮮による日本人拉致問題」です。",
 				"translations": [
 					"Today's topic is \"the problem of Japanese people abducted by North Korea\"."
-				]
-			},
-			{
-				"phrase": "このブログは情報インフラを中心としたトピックを取り上げています。",
-				"translations": [
-					"This blog covers topics that centre on information infrastructure."
 				]
 			},
 			{
@@ -85671,12 +84392,6 @@
 				"translations": [
 					"John, the tallest boy in our class, is nicknamed \"Mr High.\""
 				]
-			},
-			{
-				"phrase": "私たちのクラスの男の子で一番背が高いジョンは「ミスターハイ」というニックネームがついている。",
-				"translations": [
-					"John, the tallest boy in our class, is nicknamed \"Mr High.\""
-				]
 			}
 		],
 		"tags": [
@@ -85719,12 +84434,6 @@
 				"phrase": "技術者の不足が当社の発展の最大のネックだ。",
 				"translations": [
 					"The shortage of engineers is the greatest bottleneck to the development of our company."
-				]
-			},
-			{
-				"phrase": "俺はそんなこの町が好きだ。石段とかが多いのはネックだが・・・。",
-				"translations": [
-					"I like this town as it is. Although, there being so many stone stairs is a bit of a pain..."
 				]
 			},
 			{
@@ -85801,12 +84510,6 @@
 				"phrase": "ネットワーク誌１１月号に掲載されていたあなたのレポートを７０部コピーし、私どもの代理店に配ってよろしいですか。",
 				"translations": [
 					"Is it possible to reproduce 70 copies of your report which appeared in the November issue of The Network and distribute them to our agents?"
-				]
-			},
-			{
-				"phrase": "ネットワークの発達で、かつてないほど大量の文が世界中を駆け巡っています。",
-				"translations": [
-					"With the development of networks a huge and unprecedented volume of messages flies around the world."
 				]
 			},
 			{
@@ -85957,12 +84660,6 @@
 				"translations": [
 					"Nordic combined is one of the winter sport events, a competition where you compete on the combination of two Nordic style ski events - cross country skiing and ski jumping."
 				]
-			},
-			{
-				"phrase": "ノルディックコンバインドは冬季スキー競技スポーツの一つで、クロスカントリースキーとスキージャンプという二つのノルディックスキー競技を組み合わせて競う競技のことである。",
-				"translations": [
-					"Nordic combined is one of the winter sport events, a competition where you compete on the combination of two Nordic style ski events - cross country skiing and ski jumping."
-				]
 			}
 		],
 		"tags": [
@@ -86036,12 +84733,6 @@
 				"translations": [
 					"He is really a Hercules."
 				]
-			},
-			{
-				"phrase": "彼は実際ヘラクレスのような力の持ち主だ。",
-				"translations": [
-					"He is really a Hercules."
-				]
 			}
 		],
 		"tags": [
@@ -86074,12 +84765,6 @@
 				"phrase": "外付けのハードディスクに保存しといて。",
 				"translations": [
 					"Save it on the external hard drive."
-				]
-			},
-			{
-				"phrase": "８ギガバイトのハードディスクがあれば十分だと思います。",
-				"translations": [
-					"I suppose then an 8-Gigabyte hard drive will be adequate."
 				]
 			},
 			{
@@ -86805,12 +85490,6 @@
 				"phrase": "列車が脱線すると、たちまちパニック状態になった。",
 				"translations": [
 					"The train was derailed, and panic ensued."
-				]
-			},
-			{
-				"phrase": "何がなんだか分からない。頭がパニックに陥って整理がつかない。",
-				"translations": [
-					"I didn't know what was what. The inside of my head had gone to panic mode and I couldn't get things straight."
 				]
 			},
 			{
@@ -87599,12 +86278,6 @@
 				"translations": [
 					"Well that's because in fiction that sort of fine detail gets skipped."
 				]
-			},
-			{
-				"phrase": "そりゃ、フィクション世界ってのはそういう細かい部分をはしょるからな。",
-				"translations": [
-					"Well that's because in fiction that sort of fine detail gets skipped."
-				]
 			}
 		],
 		"tags": [
@@ -88289,12 +86962,6 @@
 				"phrase": "鯨はプランクトンと小魚を餌にしている。",
 				"translations": [
 					"Whales feed on plankton and small fish."
-				]
-			},
-			{
-				"phrase": "たいていの鯨はプランクトンをえさとする。",
-				"translations": [
-					"Most whales feed on plankton."
 				]
 			},
 			{
@@ -89116,12 +87783,6 @@
 				"translations": [
 					"Just how well can masks block the, even smaller than pollen, yellow sand dust? I think it much more of a nuisance than pollen."
 				]
-			},
-			{
-				"phrase": "花粉よりも小さな黄砂をマスクでどれだけ防ぐことが出来るのか？花粉よりもずっと厄介者のように思います。",
-				"translations": [
-					"Just how well can masks block the, even smaller than pollen, yellow sand dust? I think it much more of a nuisance than pollen."
-				]
 			}
 		],
 		"tags": [
@@ -89374,12 +88035,6 @@
 				"phrase": "私は場末のジャズクラブに行って、ライブミュージックを楽しみます。",
 				"translations": [
 					"I like to go to a local jazz club where I can enjoy live music."
-				]
-			},
-			{
-				"phrase": "こちらはワンダーミュージックショップです。",
-				"translations": [
-					"This is Wonder Music Shop."
 				]
 			},
 			{
@@ -89909,12 +88564,6 @@
 				"phrase": "あの政治家はいわゆるリクルート・スキャンダルが発覚して以来落ち目になってしまった。",
 				"translations": [
 					"That politician has come down in the world since the so-called \"Recruit scandal\" was publicized."
-				]
-			},
-			{
-				"phrase": "マスコミがリクルート事件を調査した結果数多くの汚職が明るみに出た。",
-				"translations": [
-					"The papers found lots of monkey business when they investigated the Recruit scandal."
 				]
 			},
 			{
@@ -91039,13 +89688,6 @@
 					"I'll have two hot dogs with mustard and ketchup.",
 					"Please give me two hot dogs with mustard and ketchup."
 				]
-			},
-			{
-				"phrase": "ホットドッグを２個、辛子とケチャップつきでおねがいします。",
-				"translations": [
-					"I'll have two hot dogs with mustard and ketchup.",
-					"Please give me two hot dogs with mustard and ketchup."
-				]
 			}
 		],
 		"tags": [
@@ -91316,12 +89958,6 @@
 				"phrase": "スケーターはこまのようにくるくる回った。",
 				"translations": [
 					"The skater spun around like a top."
-				]
-			},
-			{
-				"phrase": "そのスケーターは氷の上でぐるぐる回った。",
-				"translations": [
-					"The skater spun round and round on the ice."
 				]
 			},
 			{
@@ -91771,12 +90407,6 @@
 				"phrase": "そのパッケージは全部でいくらですか。",
 				"translations": [
 					"How much is the whole package?"
-				]
-			},
-			{
-				"phrase": "使用許諾契約書の条項に同意されない場合は、未開封のメディアパッケージを速やかにABC社に返送していただければ、商品代金を全額払い戻し致します。",
-				"translations": [
-					"In the case of not agreeing to the conditions of the usage consent contract, promptly return the unopened media package to ABC for a full refund."
 				]
 			},
 			{
@@ -92966,12 +91596,6 @@
 				"translations": [
 					"They all joined in the chorus."
 				]
-			},
-			{
-				"phrase": "彼らはみな一緒にコーラスを歌いました。",
-				"translations": [
-					"They all joined in the chorus."
-				]
 			}
 		],
 		"tags": [
@@ -93090,12 +91714,6 @@
 				"phrase": "雨が降ったので試合はコールドゲームになった。",
 				"translations": [
 					"The game was called off because it rained."
-				]
-			},
-			{
-				"phrase": "雨が降って試合はコールドゲームになった。",
-				"translations": [
-					"It was raining and the game was called off."
 				]
 			},
 			{
@@ -94008,13 +92626,6 @@
 					"I'm always interested in reading his column.",
 					"I always read his columns with interest."
 				]
-			},
-			{
-				"phrase": "私はいつも彼のコラムを興味をもって読む。",
-				"translations": [
-					"I'm always interested in reading his column.",
-					"I always read his columns with interest."
-				]
 			}
 		],
 		"tags": [
@@ -94432,12 +93043,6 @@
 				"translations": [
 					"Seeing the briskly working toy consultants also left a strong impression."
 				]
-			},
-			{
-				"phrase": "おもちゃコンサルタントの方々が甲斐甲斐しく働く姿がとても印象的でした。",
-				"translations": [
-					"Seeing the briskly working toy consultants also left a strong impression."
-				]
 			}
 		],
 		"tags": [
@@ -94539,12 +93144,6 @@
 				"translations": [
 					"They implemented a communication policy so as to promote their new concept."
 				]
-			},
-			{
-				"phrase": "彼らは自分たちの新しいコンセプトを広めるためにあるコミュニケーションポリシーを採用した。",
-				"translations": [
-					"They implemented a communication policy so as to promote their new concept."
-				]
 			}
 		],
 		"tags": [
@@ -94571,12 +93170,6 @@
 				"phrase": "今後は、新事業創造による経済の活性化という観点から、国民のコンセンサスに基づいた早急な内圧型規制緩和が推進されなければなるまい。",
 				"translations": [
 					"Therefore, they cannot catalyze deregulation without \"external pressure\"."
-				]
-			},
-			{
-				"phrase": "仕事をする時仲間が多いと、コンセンサスをとるのが意外と大変だ。",
-				"translations": [
-					"When you're at work, if you have a lot of workmates, it's surprisingly difficult to build a consensus."
 				]
 			},
 			{
@@ -94786,12 +93379,6 @@
 				"phrase": "運動選手はよいコンディションを保たねばならない。",
 				"translations": [
 					"An athlete must keep in good condition."
-				]
-			},
-			{
-				"phrase": "心身共にベストのコンディションで新人養成合宿に臨みましょう。",
-				"translations": [
-					"With both mind and body in their best condition, let's look forward to the newcomers' training camp."
 				]
 			},
 			{
@@ -95165,12 +93752,6 @@
 				"phrase": "私はコンパスで円を描いた。",
 				"translations": [
 					"I drew a circle with compasses."
-				]
-			},
-			{
-				"phrase": "ハイカーは森の中でも方向が分かるようにコンパスを携帯する必要がある。",
-				"translations": [
-					"Hikers need to carry a compass with them to find their way through the woods."
 				]
 			},
 			{
@@ -96768,12 +95349,6 @@
 					"ソファーの下にテレビのリモコンがある。",
 					"There is a TV remote control under the couch.",
 					"The TV remote control is under the couch."
-				]
-			},
-			{
-				"phrase": "テレビのリモコンどこに置いたのかな？",
-				"translations": [
-					"Where's the remote control for the TV?"
 				]
 			},
 			{
@@ -99062,12 +97637,6 @@
 				"translations": [
 					"Mr Pryor collapsed with a subarachnoid haemorrhage when rehearsing for a performance in Paris. He was taken to local hospital but passed away at 4:23 pm."
 				]
-			},
-			{
-				"phrase": "プライヤー氏はパリでの公演のリハーサル中にくも膜下出血で倒れ、市内の病院に運ばれましたが午後４時２３分息を引き取りました。",
-				"translations": [
-					"Mr Pryor collapsed with a subarachnoid haemorrhage when rehearsing for a performance in Paris. He was taken to local hospital but passed away at 4:23 pm."
-				]
 			}
 		],
 		"tags": [
@@ -99648,12 +98217,6 @@
 				"translations": [
 					"We glutted ourselves with lobsters and other seafood."
 				]
-			},
-			{
-				"phrase": "私たちは海老やその他のシーフードで腹いっぱいになった。",
-				"translations": [
-					"We glutted ourselves with lobsters and other seafood."
-				]
 			}
 		],
 		"tags": [
@@ -100003,12 +98566,6 @@
 				"phrase": "すぐにシスターが参ります。",
 				"translations": [
 					"Our sister will be with us soon."
-				]
-			},
-			{
-				"phrase": "修道女になったとき、シスター・テレサの名を受けた。",
-				"translations": [
-					"When she became a nun, she took the name Sister Teresa."
 				]
 			},
 			{
@@ -100750,12 +99307,6 @@
 				"translations": [
 					"Is it possible to take a shuttle bus from the airport to the hotel?"
 				]
-			},
-			{
-				"phrase": "空港からホテルまでシャトルバスを利用できますか。",
-				"translations": [
-					"Is it possible to take a shuttle bus from the airport to the hotel?"
-				]
 			}
 		],
 		"tags": [
@@ -101084,12 +99635,6 @@
 				"translations": [
 					"What a good shot!"
 				]
-			},
-			{
-				"phrase": "なんてうまいシュートだろう。",
-				"translations": [
-					"What a good shot!"
-				]
 			}
 		],
 		"tags": [
@@ -101333,12 +99878,6 @@
 				"translations": [
 					"I preferred wearing my Hawaiian T-shirt and green shorts to be cool and different, but I quickly got used to the white shirt and black slacks."
 				]
-			},
-			{
-				"phrase": "私は、かっこよく違った格好をするためには、ハワイのＴシャツを着て緑のショートパンツをはくのが好きでしたが、すぐに白いシャツと黒のズボンを身につけるのに慣れました。",
-				"translations": [
-					"I preferred wearing my Hawaiian T-shirt and green shorts to be cool and different, but I quickly got used to the white shirt and black slacks."
-				]
 			}
 		],
 		"tags": [
@@ -101538,12 +100077,6 @@
 				"translations": [
 					"This is Wonder Music Shop."
 				]
-			},
-			{
-				"phrase": "こちらはワンダーミュージックショップです。",
-				"translations": [
-					"This is Wonder Music Shop."
-				]
 			}
 		],
 		"tags": [
@@ -101708,12 +100241,6 @@
 				"phrase": "アクが出なくなったら清潔な瓶にシロップを戻し冷蔵庫で保存します。",
 				"translations": [
 					"When the scum stops appearing pour the syrup back into a clean bottle and keep it in the fridge."
-				]
-			},
-			{
-				"phrase": "咳止めシロップ。本番前に一口飲まないと落ち着かない！",
-				"translations": [
-					"Cough syrup. If I don't drink a mouthful before going on stage I can't settle down!"
 				]
 			},
 			{
@@ -101986,12 +100513,6 @@
 				"translations": [
 					"For things that have had contents with volatile oil like thinners they should be left for a few days to completely evaporate it before being disposed of as non-flammable waste."
 				]
-			},
-			{
-				"phrase": "シンナーなどの揮発性油分が入っていたものについては数日間放置して完全に揮発させてから、不燃物として捨てます。",
-				"translations": [
-					"For things that have had contents with volatile oil like thinners they should be left for a few days to completely evaporate it before being disposed of as non-flammable waste."
-				]
 			}
 		],
 		"tags": [
@@ -102085,12 +100606,6 @@
 				"translations": [
 					"I like the simplicity of her dress."
 				]
-			},
-			{
-				"phrase": "私は彼女のドレスのシンプルなところが好きだ。",
-				"translations": [
-					"I like the simplicity of her dress."
-				]
 			}
 		],
 		"tags": [
@@ -102137,12 +100652,6 @@
 				"phrase": "ハトは平和のシンボルである。",
 				"translations": [
 					"The dove is a symbol of peace."
-				]
-			},
-			{
-				"phrase": "このシンボルは強さと高潔さを表す。",
-				"translations": [
-					"This symbol stands for strength and integrity."
 				]
 			},
 			{
@@ -102390,12 +100899,6 @@
 				"translations": [
 					"Today is our anniversary so let's make this a special dinner."
 				]
-			},
-			{
-				"phrase": "今日は私達の記念日なので、夕御飯もスペシャルでいこう。",
-				"translations": [
-					"Today is our anniversary so let's make this a special dinner."
-				]
 			}
 		],
 		"tags": [
@@ -102450,18 +100953,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "数人から、その日の後半にあたるテクニカルセッションの中にも出席したいセッションがあるという意見が出ました。",
-				"translations": [
-					"A few people mentioned they would like to attend some sessions later in the day on the Technical Session Agenda."
-				]
-			},
-			{
-				"phrase": "数人から、その日の後半にあたるテクニカルセッションの中にも出席したいセッションがあるという意見が出ました。",
-				"translations": [
-					"A few people mentioned they would like to attend some sessions later in the day on the Technical Session Agenda."
-				]
-			},
 			{
 				"phrase": "数人から、その日の後半にあたるテクニカルセッションの中にも出席したいセッションがあるという意見が出ました。",
 				"translations": [
@@ -102663,12 +101154,6 @@
 				"translations": [
 					"In April of 1968, Rev. King was in Memphis, Tennessee."
 				]
-			},
-			{
-				"phrase": "１９６８年４月、キング牧師はテネシー州メンフィスにいた。",
-				"translations": [
-					"In April of 1968, Rev. King was in Memphis, Tennessee."
-				]
 			}
 		],
 		"tags": [
@@ -102792,12 +101277,6 @@
 				"phrase": "彼は今までに９体の人型ロボットを製造していたが、その全てはデモンストレーションモデルだった。",
 				"translations": [
 					"Up to now he had made nine humanoid robots but they were all demonstration models."
-				]
-			},
-			{
-				"phrase": "７地区で新製品のデモンストレーションを行い、成功しました。",
-				"translations": [
-					"Successfully demonstrated a new product in 7 districts."
 				]
 			},
 			{
@@ -103261,12 +101740,6 @@
 				"translations": [
 					"You can't equate nationalism with fascism."
 				]
-			},
-			{
-				"phrase": "ナショナリズムをファシズムと同一視してはいけない。",
-				"translations": [
-					"You can't equate nationalism with fascism."
-				]
 			}
 		],
 		"tags": [
@@ -103708,12 +102181,6 @@
 				"translations": [
 					"I have push button phones."
 				]
-			},
-			{
-				"phrase": "プッシュホンの電話機を持っています。",
-				"translations": [
-					"I have push button phones."
-				]
 			}
 		],
 		"tags": [
@@ -103768,12 +102235,6 @@
 				"phrase": "彼女は中年の都会派プロフェッショナルでした。",
 				"translations": [
 					"She was a middle-aged urban professional."
-				]
-			},
-			{
-				"phrase": "ここで明確にしなければならない点は、スポーツにおいてアマチュアとプロフェッショナルの境界線が消失しつつあるということだ。",
-				"translations": [
-					"The point we must clarify here is that the lines between amateur and professional in sport are beginning to disappear."
 				]
 			},
 			{
@@ -104284,12 +102745,6 @@
 				"phrase": "私は新しいミシンを買った。",
 				"translations": [
 					"I bought a new sewing machine."
-				]
-			},
-			{
-				"phrase": "このミシンのこつをのみ込むのに、どのくらい時間がかかるのか。",
-				"translations": [
-					"How long does it take to get the hang of this sewing machine?"
 				]
 			},
 			{
@@ -104923,12 +103378,6 @@
 				"phrase": "アトランタ・ブレーブスは、ワールドシリーズで優勝できると思いますか。",
 				"translations": [
 					"Do you think the Braves will take the series?"
-				]
-			},
-			{
-				"phrase": "たとえば、ワールドシリーズやスーパーボウルを我が家の今で見られるので、それらの試合を見に球場まで出かける必要はない。",
-				"translations": [
-					"For example, they do not have to go to a stadium to see the World Series or the Super Bowl because they can enjoy watching the games in their own living rooms."
 				]
 			},
 			{
@@ -105978,13 +104427,6 @@
 					"\"Superman\" is showing at the movie theatre this month.",
 					"\"Superman\" is showing at the movie theater this month."
 				]
-			},
-			{
-				"phrase": "「スーパーマン」は今月その映画館で上映中です。",
-				"translations": [
-					"\"Superman\" is showing at the movie theatre this month.",
-					"\"Superman\" is showing at the movie theater this month."
-				]
 			}
 		],
 		"tags": [
@@ -106777,12 +105219,6 @@
 				"translations": [
 					"The \"twin tiger cubs get separated ...\" story felt a bit trite."
 				]
-			},
-			{
-				"phrase": "「双子のトラの子が離れ離れになって・・・」というストーリーでちょっとありふれたような感じでした。",
-				"translations": [
-					"The \"twin tiger cubs get separated ...\" story felt a bit trite."
-				]
 			}
 		],
 		"tags": [
@@ -106850,12 +105286,6 @@
 				"phrase": "厳しい資金不足で計画はストップしている。",
 				"translations": [
 					"An acute lack of funds is holding up the plan."
-				]
-			},
-			{
-				"phrase": "戦争で彼らの研究はストップした。",
-				"translations": [
-					"The war brought their research to an end."
 				]
 			},
 			{
@@ -107153,12 +105583,6 @@
 				"translations": [
 					"The straw appears bent at the place where it enters the water."
 				]
-			},
-			{
-				"phrase": "ストローは水にはいるところで曲がって見える。",
-				"translations": [
-					"The straw appears bent at the place where it enters the water."
-				]
 			}
 		],
 		"tags": [
@@ -107288,12 +105712,6 @@
 				"phrase": "彼女は旅行中に撮ったスナップを見せてくれた。",
 				"translations": [
 					"She showed me the snaps which she had taken during her journey."
-				]
-			},
-			{
-				"phrase": "「そろそろ、人物写真でもやってみたらどうだ？」「え？スナップ・・・ですか？それは・・・」",
-				"translations": [
-					"\"Isn't it about time you tried photographing people or something?\" \"Eh? Snapshots? I don't know ...\""
 				]
 			},
 			{
@@ -107488,12 +105906,6 @@
 				"phrase": "どの学校であっても、体操着は、スパッツやハーフパンツばかりだ。",
 				"translations": [
 					"In schools everywhere sports-wear is all spats and shorts."
-				]
-			},
-			{
-				"phrase": "うちの体操服って普通の短パンだったのに今日から急にスパッツになっちゃったのね。",
-				"translations": [
-					"Our P.E. kit was just shorts but now it's spats from today."
 				]
 			},
 			{
@@ -108380,12 +106792,6 @@
 				"translations": [
 					"He seems to be in a slump."
 				]
-			},
-			{
-				"phrase": "彼はスランプのようです。",
-				"translations": [
-					"He seems to be in a slump."
-				]
 			}
 		],
 		"tags": [
@@ -108538,12 +106944,6 @@
 				"translations": [
 					"A man called Slim was killed in the accident.",
 					"A man named Slim was killed in that accident."
-				]
-			},
-			{
-				"phrase": "ダイエットを続けなければスリムなままでいる見込みはほとんどない。",
-				"translations": [
-					"There's little chance of keeping slim, unless you stick to a diet."
 				]
 			},
 			{
@@ -108806,12 +107206,6 @@
 				"phrase": "このスローガンは国民を奮い立たせる意図で作られた。",
 				"translations": [
 					"The slogan was designed to rouse the people."
-				]
-			},
-			{
-				"phrase": "かくて、国際化は日本人にとって今はやりのスローガンになっている。",
-				"translations": [
-					"Thus, internationalization has become a fashionable slogan for the Japanese."
 				]
 			},
 			{
@@ -109881,12 +108275,6 @@
 				"translations": [
 					"The invention of the transistor introduced a new era."
 				]
-			},
-			{
-				"phrase": "トランジスタの発明で新しい時代が始まった。",
-				"translations": [
-					"The invention of the transistor introduced a new era."
-				]
 			}
 		],
 		"tags": [
@@ -110767,12 +109155,6 @@
 				"translations": [
 					"Pasta is Fernando's province."
 				]
-			},
-			{
-				"phrase": "パスタならフェルナンドのお得意だよ。",
-				"translations": [
-					"Pasta is Fernando's province."
-				]
 			}
 		],
 		"tags": [
@@ -110934,12 +109316,6 @@
 				"phrase": "そのパフォーマンスは冴えないものでしたよ。",
 				"translations": [
 					"The performance was low-keyed."
-				]
-			},
-			{
-				"phrase": "あれ？何だろ？パフォーマンスでもやってるのか？",
-				"translations": [
-					"Hello, what's that? Somebody doing street theatre or something?"
 				]
 			},
 			{
@@ -111400,12 +109776,6 @@
 				"translations": [
 					"This may be because of a change in people's attitude toward marriage and the sharp increase of fast food restaurants and convenience stores which are open 24 hours a day and enable young people to live more easily."
 				]
-			},
-			{
-				"phrase": "これは、結婚に対する人々の見方が変わったことと、１日２４時間あいているファーストフード・ストアやコンビニエンス・ストアが急速に増加して、若い人たちがもっと気楽に暮らせるようになったためかもしれない。",
-				"translations": [
-					"This may be because of a change in people's attitude toward marriage and the sharp increase of fast food restaurants and convenience stores which are open 24 hours a day and enable young people to live more easily."
-				]
 			}
 		],
 		"tags": [
@@ -111525,12 +109895,6 @@
 				"phrase": "そのフェスティバルは来週開催されます。",
 				"translations": [
 					"The festival will be held next week."
-				]
-			},
-			{
-				"phrase": "雨が降らない限り、フェスティバルは庭園で開催されるだろう。",
-				"translations": [
-					"The festival will be held in the garden, unless it rains."
 				]
 			},
 			{
@@ -111969,12 +110333,6 @@
 				"translations": [
 					"This watch is as expensive a gift as that bracelet."
 				]
-			},
-			{
-				"phrase": "この時計はあのブレスレットと同じくらい高価な贈り物です。",
-				"translations": [
-					"This watch is as expensive a gift as that bracelet."
-				]
 			}
 		],
 		"tags": [
@@ -112154,12 +110512,6 @@
 				"phrase": "彼はズボンをプレスしてもらったか。",
 				"translations": [
 					"Did he have his trousers pressed?"
-				]
-			},
-			{
-				"phrase": "アイロンをかけるのが苦手だから永久プレス加工の服を買う。",
-				"translations": [
-					"I'm hopeless at ironing so I buy permanent press clothes."
 				]
 			},
 			{
@@ -112705,12 +111057,6 @@
 				"phrase": "パーティーでは誰がホストを勤めるのですか。",
 				"translations": [
 					"Who will host the party?"
-				]
-			},
-			{
-				"phrase": "今夜のパーティーで彼は見事にホスト役を演じた。",
-				"translations": [
-					"He played an excellent host at today's party."
 				]
 			},
 			{
@@ -113292,12 +111638,6 @@
 				"translations": [
 					"Easy on the mustard."
 				]
-			},
-			{
-				"phrase": "マスタードは少なめにお願いします。",
-				"translations": [
-					"Easy on the mustard."
-				]
 			}
 		],
 		"tags": [
@@ -113634,14 +111974,6 @@
 					"There are almost no books that have no misprints.",
 					"There are few books that have no misprints."
 				]
-			},
-			{
-				"phrase": "ミスプリントのないような本はほとんどない。",
-				"translations": [
-					"There are few books without misprints.",
-					"There are almost no books that have no misprints.",
-					"There are few books that have no misprints."
-				]
 			}
 		],
 		"tags": [
@@ -113741,12 +112073,6 @@
 				"phrase": "私の新しいムスタングを見せてなかったっけ？",
 				"translations": [
 					"Didn't I show you my new Mustang?"
-				]
-			},
-			{
-				"phrase": "マックは新型ムスタングが買いたいので、お金を貯めている。",
-				"translations": [
-					"Since Mac wants to buy a new Mustang, he is saving money."
 				]
 			},
 			{
@@ -114024,12 +112350,6 @@
 				"phrase": "世界中のモンスターと戦えるのかぁ・・・。腕がなるなぁー。",
 				"translations": [
 					"Fighting with monsters all over the world ... I just can't wait."
-				]
-			},
-			{
-				"phrase": "パックマンが、ある条件を満たすと追ってくるモンスターを逆襲して食べることができる。",
-				"translations": [
-					"Pac-Man, when a certain condition is reached, can counter attack and eat the monsters chasing him."
 				]
 			},
 			{
@@ -114390,12 +112710,6 @@
 				"phrase": "Mozilla Foundationは5月1日、メール/ニュースクライアントソフトの最新版「Thunderbird 2.0.0.14」をリリースした。",
 				"translations": [
 					"The Mozilla Foundation released the latest version of its email/news-client software, \"Thunderbird 2.0.0.14\" on May 1st."
-				]
-			},
-			{
-				"phrase": "Ｍａｒｋ／Ｓｐａｃｅは７月１８日、Ｍａｃ ＯＳ Ｘ用シンクロソフト、Ｍｉｓｓｉｎｇ Ｓｙｎｃ ｆｏｒ Ｗｉｎｄｏｗｓ Ｍｏｂｉｌｅのアップデート版をリリースした。",
-				"translations": [
-					"On Jul 18th Mark/Space released an updated version of Missing Sync for Windows Mobile for the Mac OS X."
 				]
 			},
 			{
@@ -115064,13 +113378,6 @@
 				"phrase": "このワンピースはいくらですか。",
 				"translations": [
 					"How much is this dress?"
-				]
-			},
-			{
-				"phrase": "このワンピースは、君の雰囲気にぴったりだね。",
-				"translations": [
-					"This dress is YOU.",
-					"This dress suits your style."
 				]
 			},
 			{
@@ -116299,12 +114606,6 @@
 				"translations": [
 					"Let's take advantage of the bargain sale and save money."
 				]
-			},
-			{
-				"phrase": "バーゲンセールを利用してお金を節約しよう。",
-				"translations": [
-					"Let's take advantage of the bargain sale and save money."
-				]
 			}
 		],
 		"tags": [
@@ -117273,12 +115574,6 @@
 				"translations": [
 					"The white parasol is hers."
 				]
-			},
-			{
-				"phrase": "白いパラソルは彼女のです。",
-				"translations": [
-					"The white parasol is hers."
-				]
 			}
 		],
 		"tags": [
@@ -117399,12 +115694,6 @@
 				"phrase": "この歌はラブソングです。",
 				"translations": [
 					"This song is a love song."
-				]
-			},
-			{
-				"phrase": "私はこのラブソングが好きです。",
-				"translations": [
-					"I like this love song."
 				]
 			},
 			{
@@ -117747,12 +116036,6 @@
 				"phrase": "順を追って基本的なタグを覚えていこう。",
 				"translations": [
 					"Let's learn the basic tags in order."
-				]
-			},
-			{
-				"phrase": "htmlは、基本的ルールとして開始タグと終了タグでマークアップして要素とすると説明しました。",
-				"translations": [
-					"We have explained that HTML is, as a basic rule, elements marked up with open and close tags."
 				]
 			},
 			{
@@ -118341,18 +116624,6 @@
 				"translations": [
 					"That year's buzzword was digital: digital clocks, digital microwave ovens, even digital pens."
 				]
-			},
-			{
-				"phrase": "その年の流行語はデジタルで、例えばデジタル時計、デジタルマイクロウエーブオーブンとか、デジタルペンであった。",
-				"translations": [
-					"That year's buzzword was digital: digital clocks, digital microwave ovens, even digital pens."
-				]
-			},
-			{
-				"phrase": "その年の流行語はデジタルで、例えばデジタル時計、デジタルマイクロウエーブオーブンとか、デジタルペンであった。",
-				"translations": [
-					"That year's buzzword was digital: digital clocks, digital microwave ovens, even digital pens."
-				]
 			}
 		],
 		"tags": [
@@ -118736,12 +117007,6 @@
 				"phrase": "血圧は健康のバロメーターとして重要である。",
 				"translations": [
 					"Blood pressure is important as a barometer of health."
-				]
-			},
-			{
-				"phrase": "小売物価指数は経済活動のバロメーターです。",
-				"translations": [
-					"The retail price index is a barometer of economic activity."
 				]
 			},
 			{
@@ -119621,12 +117886,6 @@
 				"translations": [
 					"I'm going to a training camp tomorrow. However it's not the physical side that I'll be training, but the mental."
 				]
-			},
-			{
-				"phrase": "明日から強化合宿に入るんですが、強化するのは体力面ではなく、メンタルの部分です。",
-				"translations": [
-					"I'm going to a training camp tomorrow. However it's not the physical side that I'll be training, but the mental."
-				]
 			}
 		],
 		"tags": [
@@ -120093,12 +118352,6 @@
 				"phrase": "そのレポーターは戦争について直接に知った。",
 				"translations": [
 					"The reporter learned about war first hand."
-				]
-			},
-			{
-				"phrase": "リポーターは言われたことをすべて書き留めた。",
-				"translations": [
-					"The reporter took down everything that was said."
 				]
 			},
 			{
@@ -120779,12 +119032,6 @@
 				"translations": [
 					"Jane is fat and rude, and smokes too much. However, Ken thinks she's lovely and charming. That's why they say love is blind."
 				]
-			},
-			{
-				"phrase": "ジェーンは太ってるし、態度も悪いし、煙草もぷかぷか吸うし。でも、ケンは彼女のことを可愛くてチャーミングだと思ってるんだな。『あばたもえくぼ』っていうけど、まさにそれだな。",
-				"translations": [
-					"Jane is fat and rude, and smokes too much. However, Ken thinks she's lovely and charming. That's why they say love is blind."
-				]
 			}
 		],
 		"tags": [
@@ -120923,12 +119170,6 @@
 				"phrase": "テニスにチャレンジすれば？",
 				"translations": [
 					"Why don't you give tennis a try?"
-				]
-			},
-			{
-				"phrase": "今度の新人は、チャレンジ精神旺盛でいいね。",
-				"translations": [
-					"I like the new guy. He's not afraid to take on challenging work."
 				]
 			},
 			{
@@ -121568,12 +119809,6 @@
 				"phrase": "我々は絶体絶命のピンチに追い込まれた。",
 				"translations": [
 					"We were driven to the wall."
-				]
-			},
-			{
-				"phrase": "ボスでもラスボスでも『にげる』は必ず成功しますのでピンチになったらにげましょう♪",
-				"translations": [
-					"'Run away' will always work even with bosses and the last boss, so when you're in trouble let's run away."
 				]
 			},
 			{
@@ -122305,12 +120540,6 @@
 				"translations": [
 					"It must have been something really big for him to strike a triumphant pose like that."
 				]
-			},
-			{
-				"phrase": "あいつがガッツポーズするなんて、よっぽど嬉しかったんだろうな。",
-				"translations": [
-					"It must have been something really big for him to strike a triumphant pose like that."
-				]
 			}
 		],
 		"tags": [
@@ -122350,12 +120579,6 @@
 				"translations": [
 					"Ms. Mizuta likes that \"Buska\" character so much that last time she happened by a store that had Buska goods, she homed in on them and bought one on the spot."
 				]
-			},
-			{
-				"phrase": "ブースカ大好きの水田さんは、偶然入った店でめざとくブースカグッズを見つけて早速買うことにした。",
-				"translations": [
-					"Ms. Mizuta likes that \"Buska\" character so much that last time she happened by a store that had Buska goods, she homed in on them and bought one on the spot."
-				]
 			}
 		],
 		"tags": [
@@ -122384,12 +120607,6 @@
 				"translations": [
 					"I prefer grapefruits to oranges.",
 					"I prefer grapefruit to oranges."
-				]
-			},
-			{
-				"phrase": "彼らはオレンジ、グレープフルーツ、レモンなどたくさんの果物を輸出する。",
-				"translations": [
-					"They export a lot of fruit, such as oranges, grapefruits and lemons."
 				]
 			},
 			{
@@ -122546,13 +120763,6 @@
 					"Many of Europe's metropolises are plagued by the doughnut phenomenon.",
 					"Many of Europe's metropolises are plagued by the donut phenomenon."
 				]
-			},
-			{
-				"phrase": "ヨーロッパの主要都市の多くはドーナツ化現象に悩まされている。",
-				"translations": [
-					"Many of Europe's metropolises are plagued by the doughnut phenomenon.",
-					"Many of Europe's metropolises are plagued by the donut phenomenon."
-				]
 			}
 		],
 		"tags": [
@@ -122579,12 +120789,6 @@
 				"phrase": "弊社は機械パーツの輸入を行っています。",
 				"translations": [
 					"We specialize in the import of machinery parts."
-				]
-			},
-			{
-				"phrase": "台座に心棒を立てて、各パーツをずらしながら重ねていきます。",
-				"translations": [
-					"You stand the axis on the base and then proceed to stack up each part, staggering their position."
 				]
 			},
 			{
@@ -122666,12 +120870,6 @@
 				"phrase": "我々は綿の代わりにピーナッツを植えた。",
 				"translations": [
 					"We planted peanuts instead of cotton."
-				]
-			},
-			{
-				"phrase": "少年は一握りのピーナッツを集め、それを小さな箱に入れた。",
-				"translations": [
-					"The boy gathered a handful of peanuts and put them in a small box."
 				]
 			},
 			{
@@ -123526,12 +121724,6 @@
 				"translations": [
 					"The act known as terrorism, that rips away from us in an instant our peaceful days of happiness, is certainly worthy of being called an enemy to all mankind."
 				]
-			},
-			{
-				"phrase": "私達の平和で幸せに満ちた日々を、一瞬で奪い去るこのテロリズムという行為は、まさに全人類にとっての敵と言えるでしょう。",
-				"translations": [
-					"The act known as terrorism, that rips away from us in an instant our peaceful days of happiness, is certainly worthy of being called an enemy to all mankind."
-				]
 			}
 		],
 		"tags": [
@@ -123639,12 +121831,6 @@
 				"phrase": "リズムは軽快でテンポは速く、その曲は若者に好まれている。",
 				"translations": [
 					"The rhythm is light, and the tempo fast - that song is liked by young people."
-				]
-			},
-			{
-				"phrase": "その試合はテンポが遅くおまけに退屈だった。",
-				"translations": [
-					"The game was slow, and it was also boring."
 				]
 			},
 			{
@@ -124631,12 +122817,6 @@
 				"translations": [
 					"Debate is an academic game between the affirmative and the negative."
 				]
-			},
-			{
-				"phrase": "ディベートとは肯定側と否定側で交わされる知的ゲームである。",
-				"translations": [
-					"Debate is an academic game between the affirmative and the negative."
-				]
 			}
 		],
 		"tags": [
@@ -124843,12 +123023,6 @@
 				"phrase": "デメリットが多すぎます。",
 				"translations": [
 					"It has too many disadvantages."
-				]
-			},
-			{
-				"phrase": "二、三デメリットがありますね。",
-				"translations": [
-					"There are a few disadvantages to it."
 				]
 			},
 			{
@@ -125519,12 +123693,6 @@
 				"phrase": "ジョンソンがトレードされるという噂がある。",
 				"translations": [
 					"There's a rumor Johnson is going to be traded."
-				]
-			},
-			{
-				"phrase": "彼は競争相手の会社にいわばトレードされたのです。",
-				"translations": [
-					"He was traded, so to speak, to the rival firm."
 				]
 			},
 			{
@@ -126422,12 +124590,6 @@
 				"translations": [
 					"Hi, Fred, how about badminton on Thursday?"
 				]
-			},
-			{
-				"phrase": "やあ、フレッド。木曜日にバドミントンはどう。",
-				"translations": [
-					"Hi, Fred, how about badminton on Thursday?"
-				]
 			}
 		],
 		"tags": [
@@ -126707,12 +124869,6 @@
 				"translations": [
 					"The police were patrolling the street."
 				]
-			},
-			{
-				"phrase": "警官達は通りをパトロールしていた。",
-				"translations": [
-					"The police were patrolling the street."
-				]
 			}
 		],
 		"tags": [
@@ -126770,18 +124926,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "カラー・キー・プログラム・システムでは全ての色が「クールパレット」と「ウォームパレット」の２つに分けられる。",
-				"translations": [
-					"With the colour key program system, all colours are divided into two palettes, the \"cool palette\" and the \"warm palette\"."
-				]
-			},
-			{
-				"phrase": "カラー・キー・プログラム・システムでは全ての色が「クールパレット」と「ウォームパレット」の２つに分けられる。",
-				"translations": [
-					"With the colour key program system, all colours are divided into two palettes, the \"cool palette\" and the \"warm palette\"."
-				]
-			},
 			{
 				"phrase": "カラー・キー・プログラム・システムでは全ての色が「クールパレット」と「ウォームパレット」の２つに分けられる。",
 				"translations": [
@@ -127579,12 +125723,6 @@
 				"translations": [
 					"They are now leveling the road with a bulldozer."
 				]
-			},
-			{
-				"phrase": "彼らはブルドーザーで道ならしをしている。",
-				"translations": [
-					"They are now leveling the road with a bulldozer."
-				]
 			}
 		],
 		"tags": [
@@ -127813,12 +125951,6 @@
 				"phrase": "この板状の固い岩石の層をプレートと呼ぶ。",
 				"translations": [
 					"We call these slabs of the solid-rock layer 'plates'."
-				]
-			},
-			{
-				"phrase": "近年では、クエーサーの観測を応用したVLBIと呼ばれる方法やGPSによって、プレートの絶対運動も理解され始めている。",
-				"translations": [
-					"In recent years, with a method called VLBI that uses quasar observations, and by GPS we have begun to understand the absolute movement of tectonic plates."
 				]
 			},
 			{
@@ -128210,12 +126342,6 @@
 				"translations": [
 					"I bought a pendant to wear to the party."
 				]
-			},
-			{
-				"phrase": "私はパーティーにしていくペンダントを買った。",
-				"translations": [
-					"I bought a pendant to wear to the party."
-				]
 			}
 		],
 		"tags": [
@@ -128474,12 +126600,6 @@
 				"translations": [
 					"Open the hood."
 				]
-			},
-			{
-				"phrase": "ボンネットをあけて下さい。",
-				"translations": [
-					"Open the hood."
-				]
 			}
 		],
 		"tags": [
@@ -128705,12 +126825,6 @@
 				"phrase": "彼のマネジメント能力は高く評価されている。",
 				"translations": [
 					"He's well respected for his management skills."
-				]
-			},
-			{
-				"phrase": "でも、仲間たちは志はあっても、資金調達やマネジメントには無知でした。",
-				"translations": [
-					"However, although our companions were willing, they knew nothing about management or getting money."
 				]
 			},
 			{
@@ -129356,12 +127470,6 @@
 				"translations": [
 					"This jar can hold two liters of hot water."
 				]
-			},
-			{
-				"phrase": "この瓶には２リットルのお湯が入る。",
-				"translations": [
-					"This jar can hold two liters of hot water."
-				]
 			}
 		],
 		"tags": [
@@ -129726,12 +127834,6 @@
 				"phrase": "料理のレパートリーは限られてるの。",
 				"translations": [
 					"I don't know how to cook too many things."
-				]
-			},
-			{
-				"phrase": "いくつかの種は基本の歌に対する何十、いや何百もの変化形をもつ洗練されたレパートリーを次第に発展させていく。",
-				"translations": [
-					"Some species gradually develop elaborate repertoires of dozens or even hundreds of variants of a basic song."
 				]
 			},
 			{
@@ -130133,12 +128235,6 @@
 				"translations": [
 					"What is political science? From the \"political,\" people will probably first associate it with the political incidents that enliven journalism."
 				]
-			},
-			{
-				"phrase": "政治学とは何か。「セイジ」から、人々は、まず、ジャーナリズムを賑わす政治的事件を連想するでしょう。",
-				"translations": [
-					"What is political science? From the \"political,\" people will probably first associate it with the political incidents that enliven journalism."
-				]
 			}
 		],
 		"tags": [
@@ -130302,12 +128398,6 @@
 				"phrase": "その会社は日本ではナンバーワンです。",
 				"translations": [
 					"That company ranks No. 1 in Japan."
-				]
-			},
-			{
-				"phrase": "ピッチャーが誰であろうと、うちのナンバーワンバッターを三振させることはできないだろう。",
-				"translations": [
-					"Whoever the pitcher may be, he will not be able to strike out our best hitter."
 				]
 			},
 			{
@@ -130832,12 +128922,6 @@
 				"phrase": "スティービー・ワンダーのニューアルバムはありますか。",
 				"translations": [
 					"Do you have Stevie Wonder's new album?"
-				]
-			},
-			{
-				"phrase": "ニュービジネスアイディアの開発は誰もが望む理想的なことだろう。",
-				"translations": [
-					"The development of a new business idea is no doubt the ideal that everybody wishes for."
 				]
 			},
 			{
@@ -131794,12 +129878,6 @@
 				"translations": [
 					"The output power of a one square meter solar panel is about one watt, so it is difficult to use solar power on a large scale at present."
 				]
-			},
-			{
-				"phrase": "１平方メートルの太陽光発電パネルの出力は約１ワットであり、今のところ大規模に太陽電力を利用するのは困難である。",
-				"translations": [
-					"The output power of a one square meter solar panel is about one watt, so it is difficult to use solar power on a large scale at present."
-				]
 			}
 		],
 		"tags": [
@@ -131989,12 +130067,6 @@
 				"phrase": "この番組はマンネリになっている。",
 				"translations": [
 					"This program has become stereotyped."
-				]
-			},
-			{
-				"phrase": "私たちのオフィスにはマンネリの仕事はほとんどない。",
-				"translations": [
-					"There are few routines in our office."
 				]
 			},
 			{
@@ -132519,12 +130591,6 @@
 				"translations": [
 					"How can I meet this quota?"
 				]
-			},
-			{
-				"phrase": "どうやってこのノルマを達成すればいいんだ？",
-				"translations": [
-					"How can I meet this quota?"
-				]
 			}
 		],
 		"tags": [
@@ -132733,12 +130799,6 @@
 				"phrase": "ハーブの専門店を聞いたことがありませんか。",
 				"translations": [
 					"Do you know a good specialty store dealing in herbs?"
-				]
-			},
-			{
-				"phrase": "私はハーブの栽培に熱中しており、あなたのホームページはとても参考になります。",
-				"translations": [
-					"I am absorbed in growing herbs and your Web pages are a great help to me."
 				]
 			},
 			{
@@ -133145,12 +131205,6 @@
 				"translations": [
 					"He is good at handball."
 				]
-			},
-			{
-				"phrase": "彼はハンドボールが上手だ。",
-				"translations": [
-					"He is good at handball."
-				]
 			}
 		],
 		"tags": [
@@ -133273,12 +131327,6 @@
 				"phrase": "彼女はハンバーグの肉をたたいて平たくした。",
 				"translations": [
 					"She patted the hamburger meat into a flat shape."
-				]
-			},
-			{
-				"phrase": "ハンバーグを２個注文した。",
-				"translations": [
-					"I ordered two hamburgers."
 				]
 			},
 			{
@@ -133776,12 +131824,6 @@
 				"phrase": "ヒンズー教徒は寺院で礼拝をします。",
 				"translations": [
 					"The Hindus worship in temples."
-				]
-			},
-			{
-				"phrase": "牛はヒンズー教徒には神聖なものである。",
-				"translations": [
-					"Cows are sacred to Hindus."
 				]
 			},
 			{
@@ -134685,12 +132727,6 @@
 				"translations": [
 					"Do we dress formal?"
 				]
-			},
-			{
-				"phrase": "フォーマルですか。",
-				"translations": [
-					"Do we dress formal?"
-				]
 			}
 		],
 		"tags": [
@@ -135195,12 +133231,6 @@
 				"translations": [
 					"Our factories are working at full capacity."
 				]
-			},
-			{
-				"phrase": "我々の工場はフル操業している。",
-				"translations": [
-					"Our factories are working at full capacity."
-				]
 			}
 		],
 		"tags": [
@@ -135436,12 +133466,6 @@
 				"translations": [
 					"Floppy floppies are already sold out."
 				]
-			},
-			{
-				"phrase": "フロッピーなフロッピーはもう売り切れ。",
-				"translations": [
-					"Floppy floppies are already sold out."
-				]
 			}
 		],
 		"tags": [
@@ -135558,12 +133582,6 @@
 				"translations": [
 					"I saw your name and posts in an English forum and took the liberty of reading your profile."
 				]
-			},
-			{
-				"phrase": "英語のコミュニティでお名前とコメントを拝見し、プロフィールを拝読しました。",
-				"translations": [
-					"I saw your name and posts in an English forum and took the liberty of reading your profile."
-				]
 			}
 		],
 		"tags": [
@@ -135673,12 +133691,6 @@
 				"phrase": "五次元のマフラーはよい音がする。",
 				"translations": [
 					"The 5ZIGEN's exhaust gives a nice sound."
-				]
-			},
-			{
-				"phrase": "私は初心者なので「ガーター編みのマフラー」か「一目ゴム編みのマフラー」から始めようと思います。",
-				"translations": [
-					"I'm a beginner, so I think I'll start from a 'garter stitch' muffler or a 'knit-one-purl-one stitch' one."
 				]
 			},
 			{
@@ -135852,12 +133864,6 @@
 				"phrase": "規則にうるさいレフェリーは試合を台無しにしかねない。",
 				"translations": [
 					"A fussy referee can ruin a bout."
-				]
-			},
-			{
-				"phrase": "キャプテンはその判定に対してレフリーに抗議した。",
-				"translations": [
-					"The captain appealed to the referee against the decision."
 				]
 			},
 			{
@@ -136495,12 +134501,6 @@
 				"translations": [
 					"We have a homeroom meeting for ten minutes every morning."
 				]
-			},
-			{
-				"phrase": "毎朝私たちは１０分間ホームルームがあります。",
-				"translations": [
-					"We have a homeroom meeting for ten minutes every morning."
-				]
 			}
 		],
 		"tags": [
@@ -136659,12 +134659,6 @@
 				"translations": [
 					"And if I were gay, would that be a crime?"
 				]
-			},
-			{
-				"phrase": "それと俺がホモだとしたら、罪になるわけ？",
-				"translations": [
-					"And if I were gay, would that be a crime?"
-				]
 			}
 		],
 		"tags": [
@@ -136694,12 +134688,6 @@
 				"phrase": "近年では人間心理の謎を扱うサイコホラーも人気である。",
 				"translations": [
 					"Psycho-horror films dealing with the mysteries of human psychology are popular these days."
-				]
-			},
-			{
-				"phrase": "彼って意地悪だと思わない？私がホラー物の映画が嫌いなのを知ってるくせにいつも見るんだよ。もう、いやんなっちゃう。",
-				"translations": [
-					"Isn't my boyfriend terrible? He always takes me to see horror movies, even though he knows I don't like them. I hate it."
 				]
 			},
 			{
@@ -137134,12 +135122,6 @@
 				"phrase": "トップのリーダーは犬の行動学では「アルファ」と呼ばれ、以下「ベータ」「ガンマ」と続きます。",
 				"translations": [
 					"In dog ethology the leader is called 'alpha'; after that it continues with 'beta' and 'gamma'."
-				]
-			},
-			{
-				"phrase": "ガンマの販売組織が強くありません。",
-				"translations": [
-					"Our sales organization for Gamma is not strong."
 				]
 			},
 			{
@@ -138844,12 +136826,6 @@
 				"translations": [
 					"What's the number for the Tokyo Dome?"
 				]
-			},
-			{
-				"phrase": "東京ドームの電話番号は何番ですか。",
-				"translations": [
-					"What's the number for the Tokyo Dome?"
-				]
 			}
 		],
 		"tags": [
@@ -139227,12 +137203,6 @@
 				"phrase": "街はクリスマスムード一色・・・もうじきイブだ。",
 				"translations": [
 					"The streets are in full Christmas mood - it's almost Christmas Eve."
-				]
-			},
-			{
-				"phrase": "レストランにその音楽が流れてきたのでロマンチックなムードになった。",
-				"translations": [
-					"Music started playing in the restaurant so there was a real romantic mood."
 				]
 			},
 			{
@@ -139741,12 +137711,6 @@
 				"translations": [
 					"You hit for 120 points!"
 				]
-			},
-			{
-				"phrase": "敵に１２０ダメージを与えた！",
-				"translations": [
-					"You hit for 120 points!"
-				]
 			}
 		],
 		"tags": [
@@ -139782,12 +137746,6 @@
 				"phrase": "ブーメランは音を立てて空中を飛んだ。",
 				"translations": [
 					"The boomerang hurtled whistling through the air."
-				]
-			},
-			{
-				"phrase": "２．ペンで厚紙にブーメランの形を描く。描いたブーメランを切り取る。",
-				"translations": [
-					"2. Draw a boomerang shape on the card with a pen. Cut out the boomerang you've drawn."
 				]
 			},
 			{
@@ -140018,12 +137976,6 @@
 				"phrase": "メモリ増設しようかな。",
 				"translations": [
 					"Maybe I ought to expand the memory."
-				]
-			},
-			{
-				"phrase": "メモリが足りないのかなぁ。",
-				"translations": [
-					"I don't have enough RAM."
 				]
 			},
 			{
@@ -140647,12 +138599,6 @@
 				"translations": [
 					"In present day Japan, \"alchemy\" is only used metaphorically; to refer to improper means of making money by politicians or religious hucksters with no morals or shame."
 				]
-			},
-			{
-				"phrase": "現代の日本で錬金術といえば、比喩的にしか使われない。モラルや羞恥心と無縁の政治屋や宗教家が、不正な手段でカネもうけをするときに。",
-				"translations": [
-					"In present day Japan, \"alchemy\" is only used metaphorically; to refer to improper means of making money by politicians or religious hucksters with no morals or shame."
-				]
 			}
 		],
 		"tags": [
@@ -140869,12 +138815,6 @@
 				"translations": [
 					"Bill Gates announces intent to return advertising revenue to the users."
 				]
-			},
-			{
-				"phrase": "ゲイツ会長、広告収入をユーザーに還元する意向表明。",
-				"translations": [
-					"Bill Gates announces intent to return advertising revenue to the users."
-				]
 			}
 		],
 		"tags": [
@@ -140902,15 +138842,6 @@
 				"translations": [
 					"This will cost €30.",
 					"That'll cost thirty euros."
-				]
-			},
-			{
-				"phrase": "私は一日に100ユーロ稼ぎます。",
-				"translations": [
-					"I make €100 a day.",
-					"I earn 100 Euros a day.",
-					"I make 100 euros per day.",
-					"I make 100 euros a day."
 				]
 			},
 			{
@@ -140998,13 +138929,6 @@
 					"ラビ、視よ、汝とともにヨルダンの彼方にありし者、なんぢが證せし者、バプテスマを施し、人みなその許に往くなり。",
 					"Rabbi, that man who was with you on the other side of the Jordan - the one you testified about - well, he is baptizing, and everyone is going to him."
 				]
-			},
-			{
-				"phrase": "先生、ごらん下さい。ヨルダンの向こうであなたと一緒にいたことがあり、そして、あなたがあかしをしておられたあのかたが、バプテスマを授けており、皆の者が、そのかたのところへ出かけています。",
-				"translations": [
-					"ラビ、視よ、汝とともにヨルダンの彼方にありし者、なんぢが證せし者、バプテスマを施し、人みなその許に往くなり。",
-					"Rabbi, that man who was with you on the other side of the Jordan - the one you testified about - well, he is baptizing, and everyone is going to him."
-				]
 			}
 		],
 		"tags": [
@@ -141081,12 +139005,6 @@
 				"translations": [
 					"The New York Times reviews her gallery all the time."
 				]
-			},
-			{
-				"phrase": "ニューヨークタイムズは彼女のギャラリーにいつも取材にくるんだから。",
-				"translations": [
-					"The New York Times reviews her gallery all the time."
-				]
 			}
 		],
 		"tags": [
@@ -141113,12 +139031,6 @@
 				"phrase": "あいつはギャンブラーとして名が通っている。",
 				"translations": [
 					"That man is notorious as a gambler."
-				]
-			},
-			{
-				"phrase": "多くのギャンブラーは競馬でお金を儲けもし、失いもする。",
-				"translations": [
-					"Many gamblers win and lose money at the horse-race track."
 				]
 			},
 			{
@@ -141626,12 +139538,6 @@
 				"phrase": "好きなブランドはなんですか。",
 				"translations": [
 					"Which brand do you prefer?"
-				]
-			},
-			{
-				"phrase": "有名なブランドですね。",
-				"translations": [
-					"That's an item from a famous company."
 				]
 			},
 			{
@@ -142388,12 +140294,6 @@
 				"phrase": "ランドリーには洗剤がありますか。",
 				"translations": [
 					"Are there any detergents in the laundry?"
-				]
-			},
-			{
-				"phrase": "ランドリーはどこですか。",
-				"translations": [
-					"Where is the laundry?"
 				]
 			},
 			{
@@ -143843,12 +141743,6 @@
 				"translations": [
 					"She wears rings on her ears."
 				]
-			},
-			{
-				"phrase": "彼女は耳にリングをつけている。",
-				"translations": [
-					"She wears rings on her ears."
-				]
 			}
 		],
 		"tags": [
@@ -144553,12 +142447,6 @@
 				"translations": [
 					"Inhaling diesel exhaust is bad for our health."
 				]
-			},
-			{
-				"phrase": "ディーゼルの排気ガスは体に悪い。",
-				"translations": [
-					"Inhaling diesel exhaust is bad for our health."
-				]
 			}
 		],
 		"tags": [
@@ -145086,12 +142974,6 @@
 				"translations": [
 					"I said, \"Five months worth of the Pill, please,\" and was told \"Certainly.\""
 				]
-			},
-			{
-				"phrase": "５ヶ月分のピル下さいと言って、分かりましたといわれた。",
-				"translations": [
-					"I said, \"Five months worth of the Pill, please,\" and was told \"Certainly.\""
-				]
 			}
 		],
 		"tags": [
@@ -145464,12 +143346,6 @@
 				"phrase": "ブレーキペダルを押して、ブレーキライトをつけてみてください。",
 				"translations": [
 					"Press the brake pedal to turn on your brake lights."
-				]
-			},
-			{
-				"phrase": "ペダルを踏むたびごとに、車輪が一回転する。",
-				"translations": [
-					"Each time you step on the pedal, the wheel turns once."
 				]
 			},
 			{
@@ -146392,12 +144268,6 @@
 				"translations": [
 					"I like this blend of coffee."
 				]
-			},
-			{
-				"phrase": "私はこのブレンドのコーヒーが好きだ。",
-				"translations": [
-					"I like this blend of coffee."
-				]
 			}
 		],
 		"tags": [
@@ -146683,13 +144553,6 @@
 					"I'm amused by his idea of leisure.",
 					"I find his ideas about leisure interesting."
 				]
-			},
-			{
-				"phrase": "私には彼のレジャー観が面白い。",
-				"translations": [
-					"I'm amused by his idea of leisure.",
-					"I find his ideas about leisure interesting."
-				]
 			}
 		],
 		"tags": [
@@ -146771,12 +144634,6 @@
 				"phrase": "レバーを押しあげて下さい。",
 				"translations": [
 					"Please push up the lever."
-				]
-			},
-			{
-				"phrase": "調節レバーを上に上げると座面の高さを調節できます。",
-				"translations": [
-					"You can adjust the seat height by moving the adjustment lever up."
 				]
 			},
 			{
@@ -146872,12 +144729,6 @@
 				"translations": [
 					"Can I buy only the lenses?"
 				]
-			},
-			{
-				"phrase": "レンズだけ交換できますか。",
-				"translations": [
-					"Can I buy only the lenses?"
-				]
 			}
 		],
 		"tags": [
@@ -146910,12 +144761,6 @@
 				"phrase": "レバーを押しあげて下さい。",
 				"translations": [
 					"Please push up the lever."
-				]
-			},
-			{
-				"phrase": "調節レバーを上に上げると座面の高さを調節できます。",
-				"translations": [
-					"You can adjust the seat height by moving the adjustment lever up."
 				]
 			},
 			{
@@ -148133,12 +145978,6 @@
 				"translations": [
 					"I need his power."
 				]
-			},
-			{
-				"phrase": "私には彼のパワーが必要です。",
-				"translations": [
-					"I need his power."
-				]
 			}
 		],
 		"tags": [
@@ -148937,12 +146776,6 @@
 				"translations": [
 					"When will Yuko come to Denver?"
 				]
-			},
-			{
-				"phrase": "優子さんはいつデンバーに来るのかなあ。",
-				"translations": [
-					"When will Yuko come to Denver?"
-				]
 			}
 		],
 		"tags": [
@@ -149115,12 +146948,6 @@
 				"translations": [
 					"Bourbon is made from corn."
 				]
-			},
-			{
-				"phrase": "バーボンはトウモロコシから作られる。",
-				"translations": [
-					"Bourbon is made from corn."
-				]
 			}
 		],
 		"tags": [
@@ -149258,12 +147085,6 @@
 				"translations": [
 					"\"Take a look at this.\" \"Eh?\" \"There's an impact mark on the right-hand side of the bumper.\""
 				]
-			},
-			{
-				"phrase": "「これを見て」「え？」「バンパーの右側に衝突痕があるわ」",
-				"translations": [
-					"\"Take a look at this.\" \"Eh?\" \"There's an impact mark on the right-hand side of the bumper.\""
-				]
 			}
 		],
 		"tags": [
@@ -149336,12 +147157,6 @@
 				"phrase": "彼女はパンジーを何株か花壇に植えた。",
 				"translations": [
 					"She planted some pansies in the flower bed."
-				]
-			},
-			{
-				"phrase": "彼女はチューリップ、パンジーやひな菊のような花を育てている。",
-				"translations": [
-					"She grows flowers such as tulips, pansies and daisies."
 				]
 			},
 			{
@@ -149726,12 +147541,6 @@
 				"translations": [
 					"They will set sail for Bombay next Monday."
 				]
-			},
-			{
-				"phrase": "彼らは来週の月曜日にボンベに向けて船出する。",
-				"translations": [
-					"They will set sail for Bombay next Monday."
-				]
 			}
 		],
 		"tags": [
@@ -149759,12 +147568,6 @@
 				"translations": [
 					"The pump did not act as it should have.",
 					"The pump didn't work properly."
-				]
-			},
-			{
-				"phrase": "心臓とポンプは似かよっている。",
-				"translations": [
-					"The human heart is analogous to a pump."
 				]
 			},
 			{
@@ -150162,12 +147965,6 @@
 				"translations": [
 					"Rock breaks scissors. Scissors cut paper. Paper smothers rock."
 				]
-			},
-			{
-				"phrase": "グーがチョキに、チョキがパーに、パーはグーに勝つ。",
-				"translations": [
-					"Rock breaks scissors. Scissors cut paper. Paper smothers rock."
-				]
 			}
 		],
 		"tags": [
@@ -150216,12 +148013,6 @@
 				"phrase": "道は急斜面をジグザグにのぼっていた。",
 				"translations": [
 					"The path zigzagged up the steep slope."
-				]
-			},
-			{
-				"phrase": "ＵＦＯは飛行機とは到底思えないジグザグの動きで、東の山に飛んでいった。",
-				"translations": [
-					"The UFO, with a zigzag movement you couldn't think of as being a plane, flew off into the mountains in the east."
 				]
 			},
 			{
@@ -150374,12 +148165,6 @@
 				"phrase": "彼は地雷の上を運転して、彼のジープは爆裂した。",
 				"translations": [
 					"He drove over a land mine and his jeep blew up."
-				]
-			},
-			{
-				"phrase": "彼は新しいメルセデスを買うのに彼のジープを出した。",
-				"translations": [
-					"He recently traded in his jeep for a new Mercedes."
 				]
 			},
 			{
@@ -150989,12 +148774,6 @@
 				"phrase": "ウサギはビーバーやリスと同族です。",
 				"translations": [
 					"Rabbits are related to beavers and squirrels."
-				]
-			},
-			{
-				"phrase": "ビーバーは人に危害を加えることはめったにない。",
-				"translations": [
-					"Beavers rarely inflict damage on people."
 				]
 			},
 			{
