@@ -69,5 +69,9 @@ By using audio generated through the VOICEVOX API included in this project, you 
 
 This deck is not officially endorsed by Kazuyuki Hiroshiba or the VOICEVOX project. Use of the VOICEVOX API is subject to the API provider's guidelines: https://voicevox.su-shiki.com/su-shikiapis/.
 
-## Note
-Due to the limitations of [WEB版VOICEVOX API](https://voicevox.su-shiki.com/su-shikiapis/), not every word in the JLPT subdeck will have audio available or (and this applies to kana as well) an audio that reads the entry correctly!
+## Notes
+- **VOICEVOX limitations:**
+   Due to the limitations of [WEB版VOICEVOX API](https://voicevox.su-shiki.com/su-shikiapis/), not every word in the JLPT subdeck will have audio available or (and this applies to kana as well) an audio that reads the entry correctly!
+
+- **Audio playing automatically/repetitively:**
+  If the same audio of a word is being played multiple times in a row or you want to play the audio manually, you can turn on the `Don't play audio automatically` setting from the deck's options.
