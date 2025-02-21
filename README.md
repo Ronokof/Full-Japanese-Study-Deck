@@ -67,7 +67,7 @@ This deck is not officially endorsed by Kazuyuki Hiroshiba or the VOICEVOX proje
 ## **Additional Notes**  
 
 - **Audio Playback Settings:**  
-  - If audio plays repetitively or automatically, turn on the **"Don't play audio automatically"** setting in the deck's options.
+  - If audio plays repetitively or automatically, turn on the **"Don't play audio automatically"** setting from the deck's options.
 - **VOICEVOX API Limitations:**
   - Not all words, particularly in the JLPT subdeck, have accurate or available audio due to API constraints.
 
