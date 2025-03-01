@@ -73,7 +73,8 @@
 			"has::words",
 			"strokes::1",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_fb31d905-9a9d-410b-887c-365c0f45e4b4"
 	},
 	{
 		"kanji": "丁",
@@ -167,7 +168,8 @@
 			"has::words",
 			"strokes::2",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_1f3f8f65-1b0c-42ca-9789-ecea795ec99a"
 	},
 	{
 		"kanji": "丂",
@@ -198,7 +200,8 @@
 			"strokes::2",
 			"components::2"
 		],
-		"id": "33574402"
+		"id": "33574402",
+		"noteID": "kanji_9f74c36b-2f5f-4b40-b6a8-c322b06ba56d"
 	},
 	{
 		"kanji": "七",
@@ -273,7 +276,8 @@
 			"has::words",
 			"strokes::2",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_080463fb-f44a-4cfe-9a30-63483603ac48"
 	},
 	{
 		"kanji": "丄",
@@ -311,7 +315,8 @@
 			"strokes::2",
 			"components::2"
 		],
-		"id": "33574404"
+		"id": "33574404",
+		"noteID": "kanji_f664b633-ca6c-4b8e-9a04-9ad5205d4917"
 	},
 	{
 		"kanji": "丅",
@@ -354,11 +359,13 @@
 			"strokes::2",
 			"components::2"
 		],
-		"id": "33574405"
+		"id": "33574405",
+		"noteID": "kanji_34e4591e-5060-40b9-b150-5d1a1e61ba79"
 	},
 	{
 		"kanji": "丆",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_de6b1819-c462-42bd-92ad-ea28c76f0a54"
 	},
 	{
 		"kanji": "万",
@@ -447,7 +454,8 @@
 			"has::words",
 			"strokes::3",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_614edec3-0d49-4322-ba7d-ab5bbe19ba95"
 	},
 	{
 		"kanji": "丈",
@@ -541,7 +549,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_02c3d7d4-5b8d-470b-a313-1f1b17d0fa11"
 	},
 	{
 		"kanji": "三",
@@ -627,7 +636,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_56eeffff-3e64-4090-b263-b8ec8345224f"
 	},
 	{
 		"kanji": "上",
@@ -727,7 +737,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_76cf657c-0995-41d3-9785-084981878b73"
 	},
 	{
 		"kanji": "下",
@@ -827,7 +838,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_f32ef5d1-59ac-4698-bded-29bbc61fd2d7"
 	},
 	{
 		"kanji": "丌",
@@ -862,7 +874,8 @@
 			"strokes::3",
 			"components::3"
 		],
-		"id": "33574412"
+		"id": "33574412",
+		"noteID": "kanji_50f9079b-f675-41bc-9e84-9b680369ffa7"
 	},
 	{
 		"kanji": "不",
@@ -938,7 +951,8 @@
 			"has::words",
 			"strokes::4",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_eb513f8f-0efb-4af2-a525-5604204e24be"
 	},
 	{
 		"kanji": "与",
@@ -1034,7 +1048,8 @@
 			"has::words",
 			"strokes::3",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_8e2d28ab-7a5f-4669-8afb-02d9b553ef15"
 	},
 	{
 		"kanji": "丏",
@@ -1054,7 +1069,8 @@
 			"strokes::4",
 			"components::0"
 		],
-		"id": "33574415"
+		"id": "33574415",
+		"noteID": "kanji_dc59038b-09d1-4f3e-ba85-678718e23206"
 	},
 	{
 		"kanji": "丐",
@@ -1094,7 +1110,8 @@
 			"strokes::4",
 			"components::0"
 		],
-		"id": "33574416"
+		"id": "33574416",
+		"noteID": "kanji_89ebb667-f678-405e-a03c-fc0c9599b50c"
 	},
 	{
 		"kanji": "丑",
@@ -1167,7 +1184,8 @@
 			"has::words",
 			"strokes::4",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_56620757-f0b4-4a3d-9a4e-c66b47f8ec35"
 	},
 	{
 		"kanji": "丒",
@@ -1196,11 +1214,13 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574418"
+		"id": "33574418",
+		"noteID": "kanji_12ea0516-ff01-41aa-916d-ff0e2d588557"
 	},
 	{
 		"kanji": "专",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_3b57bb28-3360-4a3a-a6be-df1bc6158616"
 	},
 	{
 		"kanji": "且",
@@ -1287,7 +1307,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_7832d02f-2747-40ff-a157-2ec9cd88a392"
 	},
 	{
 		"kanji": "丕",
@@ -1373,7 +1394,8 @@
 			"strokes::5",
 			"components::2"
 		],
-		"id": "33574421"
+		"id": "33574421",
+		"noteID": "kanji_3b0666bd-c1e5-495a-ae35-61313ef83c57"
 	},
 	{
 		"kanji": "世",
@@ -1461,7 +1483,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_e3646d35-317f-4076-9564-8f7276a4bd68"
 	},
 	{
 		"kanji": "丗",
@@ -1511,7 +1534,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_9e3a3d67-ef2e-4e51-aa71-a75d1cf72374"
 	},
 	{
 		"kanji": "丘",
@@ -1595,7 +1619,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_92686f4c-aa43-4599-817d-bb40bdb9d177"
 	},
 	{
 		"kanji": "丙",
@@ -1680,23 +1705,28 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_7d6d9f09-a60b-4c29-9bc0-ca804e7321a9"
 	},
 	{
 		"kanji": "业",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_cca89da2-277a-4983-befb-dfc3a280e212"
 	},
 	{
 		"kanji": "丛",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4e3648b0-0f8c-4ec8-b553-a30c2c1be403"
 	},
 	{
 		"kanji": "东",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1df90638-4ce5-4cf3-8141-3ebe85bf024a"
 	},
 	{
 		"kanji": "丝",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2571acc9-d574-4919-87aa-dd16b70417e1"
 	},
 	{
 		"kanji": "丞",
@@ -1750,7 +1780,8 @@
 			"strokes::6",
 			"components::3"
 		],
-		"id": "33574430"
+		"id": "33574430",
+		"noteID": "kanji_d4de9efc-c544-424b-995a-c3a26dc4664c"
 	},
 	{
 		"kanji": "丟",
@@ -1772,11 +1803,13 @@
 			"strokes::6",
 			"components::0"
 		],
-		"id": "33574431"
+		"id": "33574431",
+		"noteID": "kanji_848f2906-2b7e-4687-a910-07666e785408"
 	},
 	{
 		"kanji": "丠",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_83b4224a-b359-4a80-a0cb-033f65186e2f"
 	},
 	{
 		"kanji": "両",
@@ -1868,11 +1901,13 @@
 			"has::words",
 			"strokes::6",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_6166c63f-4d14-4de5-b0f4-e2fc46265ae6"
 	},
 	{
 		"kanji": "丢",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e177f5dd-9e55-4533-b08b-217724c3a205"
 	},
 	{
 		"kanji": "丣",
@@ -1890,7 +1925,8 @@
 			"strokes::7",
 			"components::0"
 		],
-		"id": "33574435"
+		"id": "33574435",
+		"noteID": "kanji_15939ff2-841b-4f26-86c4-1f2fdd284fdf"
 	},
 	{
 		"kanji": "两",
@@ -1927,11 +1963,13 @@
 			"strokes::7",
 			"components::3"
 		],
-		"id": "33574436"
+		"id": "33574436",
+		"noteID": "kanji_8919d328-4718-48e3-969e-cc1c93fef45b"
 	},
 	{
 		"kanji": "严",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e8e968fa-83d0-4b3e-b5fe-0dd437cf092c"
 	},
 	{
 		"kanji": "並",
@@ -2026,11 +2064,13 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_c4f3b079-c904-4aa3-9dcf-ed6039c2c191"
 	},
 	{
 		"kanji": "丧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6abcd7b1-ce6a-4c7b-a802-b38ade905ae0"
 	},
 	{
 		"kanji": "丨",
@@ -2056,7 +2096,8 @@
 			"strokes::1",
 			"components::0"
 		],
-		"id": "33574440"
+		"id": "33574440",
+		"noteID": "kanji_4a534fa5-7327-4fd1-a6b6-31c95c1d832e"
 	},
 	{
 		"kanji": "丩",
@@ -2074,7 +2115,8 @@
 			"strokes::2",
 			"components::0"
 		],
-		"id": "33574441"
+		"id": "33574441",
+		"noteID": "kanji_a63c7872-cb40-4cd5-be71-a77ef916c2a3"
 	},
 	{
 		"kanji": "个",
@@ -2122,7 +2164,8 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574442"
+		"id": "33574442",
+		"noteID": "kanji_9b1c9d70-3624-4b2e-94a9-7be3c52e4c54"
 	},
 	{
 		"kanji": "丫",
@@ -2153,11 +2196,13 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574443"
+		"id": "33574443",
+		"noteID": "kanji_bd6726ea-fa6c-4bcf-b940-8fd1098efefa"
 	},
 	{
 		"kanji": "丬",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_10dd8828-5896-4661-b7d4-cda2975063b7"
 	},
 	{
 		"kanji": "中",
@@ -2246,7 +2291,8 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_d9b2f448-a638-4ddc-9a18-d7a2a7010e69"
 	},
 	{
 		"kanji": "丮",
@@ -2280,7 +2326,8 @@
 			"strokes::4",
 			"components::3"
 		],
-		"id": "33574446"
+		"id": "33574446",
+		"noteID": "kanji_c537892b-9f3b-49df-9b0d-95de5dc47f81"
 	},
 	{
 		"kanji": "丯",
@@ -2308,7 +2355,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574447"
+		"id": "33574447",
+		"noteID": "kanji_945383e9-42ee-4ce9-8e55-04ba97990292"
 	},
 	{
 		"kanji": "丰",
@@ -2344,7 +2392,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574448"
+		"id": "33574448",
+		"noteID": "kanji_e4bf3f97-ac2f-4c58-a01b-157b66bdcb83"
 	},
 	{
 		"kanji": "丱",
@@ -2384,7 +2433,8 @@
 			"strokes::5",
 			"components::0"
 		],
-		"id": "33574449"
+		"id": "33574449",
+		"noteID": "kanji_3eefd438-a9ec-48ea-979b-8f618b9ccc93"
 	},
 	{
 		"kanji": "串",
@@ -2473,15 +2523,18 @@
 			"has::words",
 			"strokes::7",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_1f1072f8-288e-46e7-8963-dc33a9af20a7"
 	},
 	{
 		"kanji": "丳",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_17828f2c-a253-4ec0-a62b-4854e002e574"
 	},
 	{
 		"kanji": "临",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4253da7e-e053-4e71-a86f-f75758291686"
 	},
 	{
 		"kanji": "丵",
@@ -2513,7 +2566,8 @@
 			"strokes::10",
 			"components::3"
 		],
-		"id": "33574453"
+		"id": "33574453",
+		"noteID": "kanji_85a8f166-099f-418f-8bc1-cf6ab8d355ea"
 	},
 	{
 		"kanji": "丶",
@@ -2532,11 +2586,13 @@
 			"strokes::1",
 			"components::0"
 		],
-		"id": "33574454"
+		"id": "33574454",
+		"noteID": "kanji_177bf98a-f162-4426-aaf8-04f5c8f829f8"
 	},
 	{
 		"kanji": "丷",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f712d089-b591-4148-80f0-2a98cb23a8dd"
 	},
 	{
 		"kanji": "丸",
@@ -2630,7 +2686,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_587348c9-610d-40e2-9a75-889764ddb49f"
 	},
 	{
 		"kanji": "丹",
@@ -2705,11 +2762,13 @@
 			"has::words",
 			"strokes::4",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_f03bdeb0-9899-4ff3-b9e8-21279ec4d9d6"
 	},
 	{
 		"kanji": "为",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_64525865-4fdd-4808-a9ca-0129f6a642db"
 	},
 	{
 		"kanji": "主",
@@ -2800,7 +2859,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_7a7cc408-d6ff-42cb-ab24-93f392f9b054"
 	},
 	{
 		"kanji": "丼",
@@ -2887,15 +2947,18 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_8fcabb51-9b89-43c5-8237-e2aa7e5c72f5"
 	},
 	{
 		"kanji": "丽",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c52d435e-f7f7-4c92-8433-767e0df44d8d"
 	},
 	{
 		"kanji": "举",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c41abd72-7945-453e-9a29-5132d0615e33"
 	},
 	{
 		"kanji": "丿",
@@ -2936,7 +2999,8 @@
 			"strokes::1",
 			"components::0"
 		],
-		"id": "33574463"
+		"id": "33574463",
+		"noteID": "kanji_6ae2d608-f04a-4236-b641-2bce9127a3d6"
 	},
 	{
 		"kanji": "乀",
@@ -2977,11 +3041,13 @@
 			"strokes::1",
 			"components::0"
 		],
-		"id": "33574464"
+		"id": "33574464",
+		"noteID": "kanji_33fbf646-9b95-4135-8b81-2be5b9676ec5"
 	},
 	{
 		"kanji": "乁",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b670e35b-1f10-413a-a9ff-13f66b7bb898"
 	},
 	{
 		"kanji": "乂",
@@ -3016,7 +3082,8 @@
 			"strokes::2",
 			"components::2"
 		],
-		"id": "33574466"
+		"id": "33574466",
+		"noteID": "kanji_3d4f36aa-5887-4ab0-a32f-bd2ee61acd2b"
 	},
 	{
 		"kanji": "乃",
@@ -3095,7 +3162,8 @@
 			"has::words",
 			"strokes::2",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_11b3fca8-7976-4bf3-93c2-dc41b1c447c9"
 	},
 	{
 		"kanji": "乄",
@@ -3173,7 +3241,8 @@
 			"strokes::2",
 			"components::0"
 		],
-		"id": "33574468"
+		"id": "33574468",
+		"noteID": "kanji_c44027da-136a-420a-8038-a0e4eb9eed43"
 	},
 	{
 		"kanji": "久",
@@ -3246,11 +3315,13 @@
 			"has::words",
 			"strokes::3",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_2a687716-a224-47c5-bd26-a74e97d69489"
 	},
 	{
 		"kanji": "乆",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_02319a7d-5bd8-41af-8502-a32cdb0df656"
 	},
 	{
 		"kanji": "乇",
@@ -3278,7 +3349,8 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574471"
+		"id": "33574471",
+		"noteID": "kanji_08d5e693-6569-4f78-ad89-2cd809f8676b"
 	},
 	{
 		"kanji": "么",
@@ -3360,15 +3432,18 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574472"
+		"id": "33574472",
+		"noteID": "kanji_c17527fe-3474-49d0-af25-69644a507ec5"
 	},
 	{
 		"kanji": "义",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c1582604-7d2a-47e4-8f7b-c2b6a12dfa38"
 	},
 	{
 		"kanji": "乊",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ed940390-6620-4c7a-93bf-879783555ccd"
 	},
 	{
 		"kanji": "之",
@@ -3443,11 +3518,13 @@
 			"has::words",
 			"strokes::3",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_6899019d-91aa-406f-8b22-32781e667c62"
 	},
 	{
 		"kanji": "乌",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_876c2570-65d6-40d8-b3ad-d317bb49426e"
 	},
 	{
 		"kanji": "乍",
@@ -3527,7 +3604,8 @@
 			"has::words",
 			"strokes::5",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_673a3b6e-e2a1-4a68-afc3-f3f233151fc5"
 	},
 	{
 		"kanji": "乎",
@@ -3623,7 +3701,8 @@
 			"has::words",
 			"strokes::5",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_99f94e4f-f2db-428f-99a2-557355b1f8e3"
 	},
 	{
 		"kanji": "乏",
@@ -3707,11 +3786,13 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_956377dd-2839-4a1d-bda7-468a619e7116"
 	},
 	{
 		"kanji": "乐",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b5bd87ad-e9b0-41e2-845d-7d9af389d993"
 	},
 	{
 		"kanji": "乑",
@@ -3732,19 +3813,23 @@
 			"strokes::6",
 			"components::0"
 		],
-		"id": "33574481"
+		"id": "33574481",
+		"noteID": "kanji_ab803e53-0720-4627-b454-e105c3b90ee6"
 	},
 	{
 		"kanji": "乒",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_5f533476-6a9d-4a67-8b8b-8bcf8da71219"
 	},
 	{
 		"kanji": "乓",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a3a33326-2648-4050-b068-3b0fc541546b"
 	},
 	{
 		"kanji": "乔",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4fecba5b-de50-4d90-bd6c-6581665cebe6"
 	},
 	{
 		"kanji": "乕",
@@ -3783,7 +3868,8 @@
 			"strokes::7",
 			"components::4"
 		],
-		"id": "33574485"
+		"id": "33574485",
+		"noteID": "kanji_22248c8c-6bd2-4973-b5f9-bea98abe1a69"
 	},
 	{
 		"kanji": "乖",
@@ -3833,7 +3919,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574486"
+		"id": "33574486",
+		"noteID": "kanji_a063272c-5c40-4288-9574-6f1448be1a1c"
 	},
 	{
 		"kanji": "乗",
@@ -3926,7 +4013,8 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_0d758dc8-bf48-48f2-bd49-bd262c015298"
 	},
 	{
 		"kanji": "乘",
@@ -3978,7 +4066,8 @@
 			"strokes::10",
 			"components::2"
 		],
-		"id": "33574488"
+		"id": "33574488",
+		"noteID": "kanji_97509f5d-98c5-47fd-b669-ddde637fbbed"
 	},
 	{
 		"kanji": "乙",
@@ -4055,7 +4144,8 @@
 			"has::words",
 			"strokes::1",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_8ea77157-1b25-4cd2-9895-e2f4cfaff540"
 	},
 	{
 		"kanji": "乚",
@@ -4085,11 +4175,13 @@
 			"strokes::1",
 			"components::0"
 		],
-		"id": "33574490"
+		"id": "33574490",
+		"noteID": "kanji_f91344d5-36d6-4d6d-b531-b69056ff7319"
 	},
 	{
 		"kanji": "乛",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_775797ef-8534-4e66-9cc3-a147968ccb7c"
 	},
 	{
 		"kanji": "乜",
@@ -4109,7 +4201,8 @@
 			"strokes::2",
 			"components::0"
 		],
-		"id": "33574492"
+		"id": "33574492",
+		"noteID": "kanji_9c1d8f24-81ef-4d25-b937-de1f240887c5"
 	},
 	{
 		"kanji": "九",
@@ -4182,7 +4275,8 @@
 			"has::words",
 			"strokes::2",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_150dc5b5-b77b-4ff2-83dd-c16e2765a8bb"
 	},
 	{
 		"kanji": "乞",
@@ -4269,7 +4363,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_e7fb09f7-86f1-43fd-88c0-bdb0bdd6357b"
 	},
 	{
 		"kanji": "也",
@@ -4345,15 +4440,18 @@
 			"has::words",
 			"strokes::3",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_7055679f-6074-4d13-aadc-49114d0293f5"
 	},
 	{
 		"kanji": "习",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a03dca13-4872-447f-9383-122809389946"
 	},
 	{
 		"kanji": "乡",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_5fd0b491-e18c-4cde-b250-22bd9dd42784"
 	},
 	{
 		"kanji": "乢",
@@ -4382,27 +4480,33 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574498"
+		"id": "33574498",
+		"noteID": "kanji_8f9a2f8a-3971-4186-9639-da0d6fcbc2ce"
 	},
 	{
 		"kanji": "乣",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_3bde689c-9b2c-4eb3-809d-8a835f1b6065"
 	},
 	{
 		"kanji": "乤",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_58962cda-77af-4297-a35d-51d356aaefcb"
 	},
 	{
 		"kanji": "乥",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d81969a0-24e9-4e43-818f-9d3778ce4781"
 	},
 	{
 		"kanji": "书",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_cdaaa6ec-2126-497f-8881-87573c99851d"
 	},
 	{
 		"kanji": "乧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_635e8e24-10db-4e63-9b1c-288fb41967fd"
 	},
 	{
 		"kanji": "乨",
@@ -4434,7 +4538,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574504"
+		"id": "33574504",
+		"noteID": "kanji_25be03e3-2219-43ba-9901-c729154912a3"
 	},
 	{
 		"kanji": "乩",
@@ -4462,35 +4567,43 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574505"
+		"id": "33574505",
+		"noteID": "kanji_6721e2d3-be49-4f46-a2a0-f2823e935e34"
 	},
 	{
 		"kanji": "乪",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7ef2eef7-f10f-4a69-a7fc-f60743ee9c2f"
 	},
 	{
 		"kanji": "乫",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_544c1ff6-fd88-4d82-a754-e10608f1eae7"
 	},
 	{
 		"kanji": "乬",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1c9254cc-9ccf-4026-bc21-8cac439de611"
 	},
 	{
 		"kanji": "乭",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b1d5adc5-cb34-405d-a069-203d16c7a56f"
 	},
 	{
 		"kanji": "乮",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ad3e2cde-3a9e-4a3a-a522-7b0d834c8f91"
 	},
 	{
 		"kanji": "乯",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_813a1c41-8bdd-45b9-82fc-a81b75ed73ea"
 	},
 	{
 		"kanji": "买",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_3080a625-b79b-4fa1-b903-617642c6a40e"
 	},
 	{
 		"kanji": "乱",
@@ -4580,11 +4693,13 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_56501cda-caa1-4f83-bb82-807922531368"
 	},
 	{
 		"kanji": "乲",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d2b75bb5-852a-49da-ad5a-bad188208291"
 	},
 	{
 		"kanji": "乳",
@@ -4671,11 +4786,13 @@
 			"has::words",
 			"strokes::8",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_754e610c-7fbf-4a98-95e1-2b0f90a671ab"
 	},
 	{
 		"kanji": "乴",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_03759006-9dbf-42a1-81ce-0e994cb40e1f"
 	},
 	{
 		"kanji": "乵",
@@ -4706,19 +4823,23 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574517"
+		"id": "33574517",
+		"noteID": "kanji_b3ca36c1-44a7-4354-929f-320c305d1511"
 	},
 	{
 		"kanji": "乶",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_512d045f-f50b-4647-8963-0377a03e6a90"
 	},
 	{
 		"kanji": "乷",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_67e181d9-7548-4d0a-9e0d-a19ff530a442"
 	},
 	{
 		"kanji": "乸",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c3feb90e-945a-4b64-a4e4-e76a590e2596"
 	},
 	{
 		"kanji": "乹",
@@ -4760,23 +4881,28 @@
 			"strokes::9",
 			"components::3"
 		],
-		"id": "33574521"
+		"id": "33574521",
+		"noteID": "kanji_c648806f-8031-450e-aa5b-458e9f79cc7b"
 	},
 	{
 		"kanji": "乺",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_19a14609-4999-4742-a3fd-26cac9f74900"
 	},
 	{
 		"kanji": "乻",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a0c2b311-67b2-4d67-8c1e-b42d0469a59e"
 	},
 	{
 		"kanji": "乼",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_716b30e1-ef6c-430e-8bb7-097a1c82765b"
 	},
 	{
 		"kanji": "乽",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_54dda3d5-0297-412b-bd3e-ed1c1528fdfc"
 	},
 	{
 		"kanji": "乾",
@@ -4873,7 +4999,8 @@
 			"has::words",
 			"strokes::11",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_0d2d4ec5-e31c-4d71-babf-24b8c76f6bdc"
 	},
 	{
 		"kanji": "乿",
@@ -4907,7 +5034,8 @@
 			"strokes::11",
 			"components::3"
 		],
-		"id": "33574527"
+		"id": "33574527",
+		"noteID": "kanji_2b4da7f9-dfaf-44a8-9b8b-b054902cdb3f"
 	},
 	{
 		"kanji": "亀",
@@ -4999,11 +5127,13 @@
 			"has::words",
 			"strokes::11",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_0ec626dd-bedd-41e3-83bd-25f24b87da55"
 	},
 	{
 		"kanji": "亁",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6d8ceca8-a486-4374-8682-9f7bf3e4b973"
 	},
 	{
 		"kanji": "亂",
@@ -5076,15 +5206,18 @@
 			"strokes::13",
 			"components::6"
 		],
-		"id": "33574530"
+		"id": "33574530",
+		"noteID": "kanji_39e1dfe4-6f67-4909-87d5-22651cfc52e4"
 	},
 	{
 		"kanji": "亃",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_5ea95c3a-d632-48e3-9426-43f2385b1a44"
 	},
 	{
 		"kanji": "亄",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_36fb994b-cff3-487b-bc16-561763c7aa2e"
 	},
 	{
 		"kanji": "亅",
@@ -5105,7 +5238,8 @@
 			"strokes::1",
 			"components::0"
 		],
-		"id": "33574533"
+		"id": "33574533",
+		"noteID": "kanji_5f7a9fd1-4719-43a7-a3c9-0c2439b58cb6"
 	},
 	{
 		"kanji": "了",
@@ -5187,11 +5321,13 @@
 			"has::words",
 			"strokes::2",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_a3b0d554-2a3c-432d-a143-a0d0e35dfd2c"
 	},
 	{
 		"kanji": "亇",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f7dc1193-ca6e-40be-a30f-c65b33e8860a"
 	},
 	{
 		"kanji": "予",
@@ -5282,7 +5418,8 @@
 			"has::words",
 			"strokes::4",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_0dfdb058-41c7-4abe-899f-77bb6b621486"
 	},
 	{
 		"kanji": "争",
@@ -5370,7 +5507,8 @@
 			"has::words",
 			"strokes::6",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_34cda04f-07ce-4e78-a922-db16261ff9c3"
 	},
 	{
 		"kanji": "亊",
@@ -5397,7 +5535,8 @@
 			"strokes::7",
 			"components::0"
 		],
-		"id": "33574538"
+		"id": "33574538",
+		"noteID": "kanji_aa800328-0bc0-40a8-a746-021a4693756b"
 	},
 	{
 		"kanji": "事",
@@ -5496,7 +5635,8 @@
 			"has::words",
 			"strokes::8",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_293403ed-5db7-4e7b-a977-6a3e7a001ba1"
 	},
 	{
 		"kanji": "二",
@@ -5583,7 +5723,8 @@
 			"has::words",
 			"strokes::2",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_6e101dd6-e8aa-4c63-9cc0-a3b414963b4e"
 	},
 	{
 		"kanji": "亍",
@@ -5634,7 +5775,8 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574541"
+		"id": "33574541",
+		"noteID": "kanji_b4a4bcd1-93d6-4eed-b105-4ef68c0c3e40"
 	},
 	{
 		"kanji": "于",
@@ -5723,15 +5865,18 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574542"
+		"id": "33574542",
+		"noteID": "kanji_58fc0090-38e1-4039-8f40-070d206c4502"
 	},
 	{
 		"kanji": "亏",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_73cd3848-eeab-49c2-b239-2562736c87fb"
 	},
 	{
 		"kanji": "亐",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b0ecd6a0-3781-497c-b236-8c92c0fee72a"
 	},
 	{
 		"kanji": "云",
@@ -5815,7 +5960,8 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_5db08875-ccda-4739-b09c-1c070285aa53"
 	},
 	{
 		"kanji": "互",
@@ -5899,11 +6045,13 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_1d506df1-1bed-488c-aa12-74d9e9ca4e56"
 	},
 	{
 		"kanji": "亓",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1198467d-0788-402c-96f9-ce85b23243df"
 	},
 	{
 		"kanji": "五",
@@ -5977,7 +6125,8 @@
 			"has::words",
 			"strokes::4",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_e229ecb3-5de1-493a-a797-e5d8029c20dc"
 	},
 	{
 		"kanji": "井",
@@ -6054,7 +6203,8 @@
 			"has::words",
 			"strokes::4",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_7bdd3bba-9099-4ad2-b061-374a021093a6"
 	},
 	{
 		"kanji": "亖",
@@ -6085,7 +6235,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574550"
+		"id": "33574550",
+		"noteID": "kanji_e335397b-a013-46a8-8473-cd4e82660648"
 	},
 	{
 		"kanji": "亗",
@@ -6118,7 +6269,8 @@
 			"strokes::5",
 			"components::2"
 		],
-		"id": "33574551"
+		"id": "33574551",
+		"noteID": "kanji_6bc5699e-48b9-41ac-bfd2-8c585953d728"
 	},
 	{
 		"kanji": "亘",
@@ -6204,7 +6356,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_8a6bd58c-e8b6-4b80-81f6-3d521e9e9a72"
 	},
 	{
 		"kanji": "亙",
@@ -6281,11 +6434,13 @@
 			"strokes::6",
 			"components::0"
 		],
-		"id": "33574553"
+		"id": "33574553",
+		"noteID": "kanji_d58a7bfa-628b-4d10-81a7-027f1ea253da"
 	},
 	{
 		"kanji": "亚",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f081efc9-24b7-43c7-94c0-54c909c58e97"
 	},
 	{
 		"kanji": "些",
@@ -6370,7 +6525,8 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_fa0ab32d-69f1-4ffb-a929-5096e9058d0c"
 	},
 	{
 		"kanji": "亜",
@@ -6444,7 +6600,8 @@
 			"has::words",
 			"strokes::7",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_4c306971-3678-44d7-aa2d-91dcf6352520"
 	},
 	{
 		"kanji": "亝",
@@ -6488,7 +6645,8 @@
 			"strokes::8",
 			"components::4"
 		],
-		"id": "33574557"
+		"id": "33574557",
+		"noteID": "kanji_b8d29cf2-d640-4fcd-b477-062396cb60ba"
 	},
 	{
 		"kanji": "亞",
@@ -6543,7 +6701,8 @@
 			"has::words",
 			"strokes::8",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_81808d69-2a79-4981-b4b9-6590cc3a775d"
 	},
 	{
 		"kanji": "亟",
@@ -6584,7 +6743,8 @@
 			"strokes::8",
 			"components::4"
 		],
-		"id": "33574559"
+		"id": "33574559",
+		"noteID": "kanji_da191af4-2dae-47d5-93e2-b94ef9d20dc8"
 	},
 	{
 		"kanji": "亠",
@@ -6602,7 +6762,8 @@
 			"strokes::2",
 			"components::0"
 		],
-		"id": "33574560"
+		"id": "33574560",
+		"noteID": "kanji_dbae9521-a9c6-474b-bc99-c651fb796e86"
 	},
 	{
 		"kanji": "亡",
@@ -6693,7 +6854,8 @@
 			"has::words",
 			"strokes::3",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_f12af0e3-e3d3-4cd5-8302-1f7271ccad05"
 	},
 	{
 		"kanji": "亢",
@@ -6774,11 +6936,13 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_6f75a2bc-f9d2-42d6-a84e-98faaa0752f3"
 	},
 	{
 		"kanji": "亣",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8b7058ae-655b-4fe8-afaf-36cca7b0c1a4"
 	},
 	{
 		"kanji": "交",
@@ -6873,7 +7037,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_478f9fde-dd50-4641-a82c-ca7773e3226e"
 	},
 	{
 		"kanji": "亥",
@@ -6965,7 +7130,8 @@
 			"has::words",
 			"strokes::6",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_71742ec6-65dc-4717-acee-6e0247a068ea"
 	},
 	{
 		"kanji": "亦",
@@ -7054,11 +7220,13 @@
 			"has::words",
 			"strokes::6",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_29493e9c-2b66-405e-827c-dcc17e78cb49"
 	},
 	{
 		"kanji": "产",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_abfb20cf-e4a4-4e76-be72-2af5eae2b7de"
 	},
 	{
 		"kanji": "亨",
@@ -7147,15 +7315,18 @@
 			"strokes::7",
 			"components::3"
 		],
-		"id": "33574568"
+		"id": "33574568",
+		"noteID": "kanji_fe31ef3d-6287-4f9d-82eb-c104efe49fea"
 	},
 	{
 		"kanji": "亩",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_0c539519-1bc5-4da1-a7f6-e40f617db400"
 	},
 	{
 		"kanji": "亪",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_efc6f8f1-d83d-43bc-9c82-d954602169a0"
 	},
 	{
 		"kanji": "享",
@@ -7247,7 +7418,8 @@
 			"has::words",
 			"strokes::8",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_f1f513eb-8438-47f8-8091-396800d39bad"
 	},
 	{
 		"kanji": "京",
@@ -7335,7 +7507,8 @@
 			"has::words",
 			"strokes::8",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_30d2615b-932b-4d90-9025-8ccad671f0a0"
 	},
 	{
 		"kanji": "亭",
@@ -7430,7 +7603,8 @@
 			"has::words",
 			"strokes::9",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_2f948bbf-18d2-42f4-8f4f-6c78ca871d3b"
 	},
 	{
 		"kanji": "亮",
@@ -7520,7 +7694,8 @@
 			"has::words",
 			"strokes::9",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_2563960b-fcc3-4cc2-8720-f8ccebb5d3b2"
 	},
 	{
 		"kanji": "亯",
@@ -7554,7 +7729,8 @@
 			"strokes::9",
 			"components::3"
 		],
-		"id": "33574575"
+		"id": "33574575",
+		"noteID": "kanji_9dfed0d6-d094-4346-9c8d-443c0a68f9f0"
 	},
 	{
 		"kanji": "亰",
@@ -7607,15 +7783,18 @@
 			"has::words",
 			"strokes::9",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_a338b0cb-a08a-4975-82d6-ea503ac1e591"
 	},
 	{
 		"kanji": "亱",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ed3241d4-b2d5-455e-9c54-054b680e379d"
 	},
 	{
 		"kanji": "亲",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f7a50209-3df5-4d9e-beca-7b0d233ea29b"
 	},
 	{
 		"kanji": "亳",
@@ -7673,15 +7852,18 @@
 			"strokes::10",
 			"components::5"
 		],
-		"id": "33574579"
+		"id": "33574579",
+		"noteID": "kanji_0b3e515d-a796-482f-b7db-f956fa8f6c01"
 	},
 	{
 		"kanji": "亴",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_15582790-9960-4e7f-978c-2b91cc11ecc5"
 	},
 	{
 		"kanji": "亵",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7256022a-613f-462d-a745-7a9035286c50"
 	},
 	{
 		"kanji": "亶",
@@ -7717,15 +7899,18 @@
 			"strokes::13",
 			"components::3"
 		],
-		"id": "33574582"
+		"id": "33574582",
+		"noteID": "kanji_7ab212a4-6b60-4cb9-93ac-0fa943d1375b"
 	},
 	{
 		"kanji": "亷",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a9b8d337-f03c-4dbc-81ad-e2d5ac87af0b"
 	},
 	{
 		"kanji": "亸",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_fe4233e3-13ef-47f1-a183-6f6693ee8002"
 	},
 	{
 		"kanji": "亹",
@@ -7760,7 +7945,8 @@
 			"strokes::21",
 			"components::2"
 		],
-		"id": "33574585"
+		"id": "33574585",
+		"noteID": "kanji_039123a2-87ed-4d1f-ad8d-61b0a946cbe8"
 	},
 	{
 		"kanji": "人",
@@ -7836,11 +8022,13 @@
 			"has::words",
 			"strokes::2",
 			"components::0"
-		]
+		],
+		"noteID": "kanji_d2d46b4d-f039-40b7-8c2e-977c1a6e13b7"
 	},
 	{
 		"kanji": "亻",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f9445bb0-3347-4b52-81a8-d00118a9dc23"
 	},
 	{
 		"kanji": "亼",
@@ -7871,19 +8059,23 @@
 			"strokes::3",
 			"components::2"
 		],
-		"id": "33574588"
+		"id": "33574588",
+		"noteID": "kanji_ba3100fa-0a71-4ef7-9120-722512abe853"
 	},
 	{
 		"kanji": "亽",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_da313b5e-a87f-4646-a2d9-f4bb66d3f61f"
 	},
 	{
 		"kanji": "亾",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d138a3b6-e332-42b5-a0e1-071c09ca07cc"
 	},
 	{
 		"kanji": "亿",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_5add98b0-5bf0-4a28-a7dc-8cba4fa7030a"
 	},
 	{
 		"kanji": "什",
@@ -7965,7 +8157,8 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_bfef665c-c950-4851-9dba-c92a0736db2e"
 	},
 	{
 		"kanji": "仁",
@@ -8051,7 +8244,8 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_cab13a42-a84d-485c-be25-84545ee8e1af"
 	},
 	{
 		"kanji": "仂",
@@ -8084,7 +8278,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574594"
+		"id": "33574594",
+		"noteID": "kanji_3009963d-4777-4902-ae97-3ccbae1ff0ae"
 	},
 	{
 		"kanji": "仃",
@@ -8111,7 +8306,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574595"
+		"id": "33574595",
+		"noteID": "kanji_aaa7bb91-46c1-4652-9fec-36e05a708881"
 	},
 	{
 		"kanji": "仄",
@@ -8201,11 +8397,13 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_d23b4d08-614f-45ae-8d64-ae7325d96f15"
 	},
 	{
 		"kanji": "仅",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8439d6bc-5938-439e-b076-f0cace595338"
 	},
 	{
 		"kanji": "仆",
@@ -8288,7 +8486,8 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_73761bfe-55c4-4cbc-9dfb-9a3b3a57fd24"
 	},
 	{
 		"kanji": "仇",
@@ -8377,15 +8576,18 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_86254b8d-1601-40f9-9f46-8fcd13fa4e90"
 	},
 	{
 		"kanji": "仈",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4cbb4ead-2b0b-4531-be21-87dc839ada45"
 	},
 	{
 		"kanji": "仉",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8eeb5af8-162f-4317-acbc-880935c96c12"
 	},
 	{
 		"kanji": "今",
@@ -8469,7 +8671,8 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_aaee017f-0729-4336-9ab8-60c5cf25be49"
 	},
 	{
 		"kanji": "介",
@@ -8557,11 +8760,13 @@
 			"has::words",
 			"strokes::4",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_0dbcf448-6e71-4781-873f-361b5b2cb0f0"
 	},
 	{
 		"kanji": "仌",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e3e4fb40-f93d-4058-890b-f77a71ed7f83"
 	},
 	{
 		"kanji": "仍",
@@ -8648,7 +8853,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574605"
+		"id": "33574605",
+		"noteID": "kanji_7217492c-6ad5-4281-910f-200a68777674"
 	},
 	{
 		"kanji": "从",
@@ -8682,7 +8888,8 @@
 			"strokes::4",
 			"components::2"
 		],
-		"id": "33574606"
+		"id": "33574606",
+		"noteID": "kanji_adcd0268-a8c7-4979-875a-8fcda39b62f7"
 	},
 	{
 		"kanji": "仏",
@@ -8766,23 +8973,28 @@
 			"has::words",
 			"strokes::4",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_fd092a98-4624-4481-b6b7-ea2048e9cd1c"
 	},
 	{
 		"kanji": "仐",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e184364e-4bbd-4982-8302-8efaadda5c0d"
 	},
 	{
 		"kanji": "仑",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_319283d2-d1b0-4454-b473-4314bde7f6bc"
 	},
 	{
 		"kanji": "仒",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1f1a0cbe-f253-4d28-a9e6-8c5570dabb2e"
 	},
 	{
 		"kanji": "仓",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_331c4a16-c3c6-4ebc-915f-f63a00b41dd9"
 	},
 	{
 		"kanji": "仔",
@@ -8866,7 +9078,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_309d8904-32f1-4a0f-b967-48c8943b8b42"
 	},
 	{
 		"kanji": "仕",
@@ -8953,7 +9166,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_48762b25-6935-4e75-a3d2-70d2e20068c9"
 	},
 	{
 		"kanji": "他",
@@ -9038,7 +9252,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_12ce24a2-f85a-4dc4-9937-64e936841b07"
 	},
 	{
 		"kanji": "仗",
@@ -9125,7 +9340,8 @@
 			"strokes::5",
 			"components::2"
 		],
-		"id": "33574615"
+		"id": "33574615",
+		"noteID": "kanji_c5e8e460-a6d6-4111-80ce-2a42406106c9"
 	},
 	{
 		"kanji": "付",
@@ -9225,7 +9441,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_5dfc923b-a27f-4236-9666-696839789c58"
 	},
 	{
 		"kanji": "仙",
@@ -9307,7 +9524,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_16ba5558-cb68-4fb9-a2ca-d331729f48ea"
 	},
 	{
 		"kanji": "仚",
@@ -9335,7 +9553,8 @@
 			"strokes::5",
 			"components::2"
 		],
-		"id": "33574618"
+		"id": "33574618",
+		"noteID": "kanji_29d5a5a4-29de-4c11-820d-a9d2f16867fb"
 	},
 	{
 		"kanji": "仛",
@@ -9371,19 +9590,23 @@
 			"strokes::5",
 			"components::3"
 		],
-		"id": "33574619"
+		"id": "33574619",
+		"noteID": "kanji_91d47359-41af-450e-9833-6d52e38671a6"
 	},
 	{
 		"kanji": "仜",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c69fbd44-f68b-430c-911b-6378c7e1d0c1"
 	},
 	{
 		"kanji": "仝",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f7afd5b2-b4f0-478a-9a0d-61861cff7ddd"
 	},
 	{
 		"kanji": "仞",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ed69e128-c53a-4f8b-9594-1702cf85df39"
 	},
 	{
 		"kanji": "仟",
@@ -9431,11 +9654,13 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_7bc32537-8224-4f72-b92d-c7d840185b69"
 	},
 	{
 		"kanji": "仠",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ae85a184-9234-4f8c-9d11-5b50f2f9dbd5"
 	},
 	{
 		"kanji": "仡",
@@ -9465,11 +9690,13 @@
 			"strokes::5",
 			"components::2"
 		],
-		"id": "33574625"
+		"id": "33574625",
+		"noteID": "kanji_a5913699-cbdb-4403-aaf1-03cd70ae9718"
 	},
 	{
 		"kanji": "仢",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_9dfe8855-e651-4b02-b2c1-a5940fbca663"
 	},
 	{
 		"kanji": "代",
@@ -9573,7 +9800,8 @@
 			"has::words",
 			"strokes::5",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_956ed62d-3123-404d-a1ce-f5a93363e3a5"
 	},
 	{
 		"kanji": "令",
@@ -9660,7 +9888,8 @@
 			"has::words",
 			"strokes::5",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_72632e31-76fc-4cb0-8a8c-a52686aef389"
 	},
 	{
 		"kanji": "以",
@@ -9750,35 +9979,43 @@
 			"has::words",
 			"strokes::5",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_4e43b490-7f28-4c2a-bbc6-84e0c9112f98"
 	},
 	{
 		"kanji": "仦",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_00c18983-8acf-42b8-ade6-634d64cd1d6e"
 	},
 	{
 		"kanji": "仧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_69d82630-ed51-4a0e-a246-72719e9af4d0"
 	},
 	{
 		"kanji": "仨",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_9a0bc125-c5ff-41ea-a89c-b7b20c50fa58"
 	},
 	{
 		"kanji": "仩",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8eecd910-ee32-4754-824e-518b8453ffd1"
 	},
 	{
 		"kanji": "仪",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a5b03827-cc2c-4278-9fda-cd02db66f115"
 	},
 	{
 		"kanji": "仫",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_9b730b0f-10a8-4b13-8f2d-bc407f707c99"
 	},
 	{
 		"kanji": "们",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1171eed9-3ffc-4f41-8053-996cdfd3c5cd"
 	},
 	{
 		"kanji": "仭",
@@ -9847,7 +10084,8 @@
 			"strokes::5",
 			"components::3"
 		],
-		"id": "33574637"
+		"id": "33574637",
+		"noteID": "kanji_6ab372c1-a11c-4ed0-89cf-4a2aeccd27f4"
 	},
 	{
 		"kanji": "仮",
@@ -9934,11 +10172,13 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_b5ddbf0a-2315-4e70-b5a6-df75e8b87525"
 	},
 	{
 		"kanji": "仯",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1b4c9168-64e7-45f1-92ee-49e2d76037e7"
 	},
 	{
 		"kanji": "仰",
@@ -10034,11 +10274,13 @@
 			"has::words",
 			"strokes::6",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_0c7506d6-bb6e-48c0-8b05-37a085cc26b2"
 	},
 	{
 		"kanji": "仱",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_18401468-fc2f-4790-aa60-5657196ade9c"
 	},
 	{
 		"kanji": "仲",
@@ -10122,7 +10364,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_350c8d2d-cff7-4da5-80e7-e13961e05dcd"
 	},
 	{
 		"kanji": "仳",
@@ -10151,11 +10394,13 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574643"
+		"id": "33574643",
+		"noteID": "kanji_88713093-9ef7-4220-a8ed-523fff388bb3"
 	},
 	{
 		"kanji": "仴",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_9c35de04-eb1b-4e2b-a793-0d3611850bf1"
 	},
 	{
 		"kanji": "仵",
@@ -10186,7 +10431,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574645"
+		"id": "33574645",
+		"noteID": "kanji_e633460c-c754-4de0-950f-dbb79206191e"
 	},
 	{
 		"kanji": "件",
@@ -10272,7 +10518,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_228280c6-5ba3-4678-b894-7dc00f92f43a"
 	},
 	{
 		"kanji": "价",
@@ -10298,19 +10545,23 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574647"
+		"id": "33574647",
+		"noteID": "kanji_c12b60b2-a34e-4b23-b14f-99e949e4dbc1"
 	},
 	{
 		"kanji": "仸",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_fd77d1e0-5a55-46f4-b971-744e9ef572d5"
 	},
 	{
 		"kanji": "仹",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_62081cef-227f-4cff-ab54-dd80fec72411"
 	},
 	{
 		"kanji": "仺",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d150da8e-872a-4319-80ce-d0f8cd02e612"
 	},
 	{
 		"kanji": "任",
@@ -10396,11 +10647,13 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_64c3d81e-d62f-4140-8f79-9fadff50e75f"
 	},
 	{
 		"kanji": "仼",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f5e4b743-aa6c-4a19-ac77-b346403a4565"
 	},
 	{
 		"kanji": "份",
@@ -10432,7 +10685,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574653"
+		"id": "33574653",
+		"noteID": "kanji_d463d261-ace7-4750-b0b3-4c8e1fb1b921"
 	},
 	{
 		"kanji": "仾",
@@ -10467,7 +10721,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574654"
+		"id": "33574654",
+		"noteID": "kanji_f8a21ed6-afcc-481d-b0de-23fad8fe41ca"
 	},
 	{
 		"kanji": "仿",
@@ -10501,7 +10756,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574655"
+		"id": "33574655",
+		"noteID": "kanji_d0c321e8-50e2-421d-95c8-1e3bddf74bab"
 	},
 	{
 		"kanji": "伀",
@@ -10531,7 +10787,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574656"
+		"id": "33574656",
+		"noteID": "kanji_07711d04-d88a-4622-9eb6-c9a87e186cbc"
 	},
 	{
 		"kanji": "企",
@@ -10617,11 +10874,13 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_b824e4af-e88b-4c6d-be23-f7ca913665e9"
 	},
 	{
 		"kanji": "伂",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6de5f67f-517a-4dc9-9813-fe4b2d2a506b"
 	},
 	{
 		"kanji": "伃",
@@ -10649,23 +10908,28 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574659"
+		"id": "33574659",
+		"noteID": "kanji_e802c4e2-06e1-40dd-864b-bd79c5d085a3"
 	},
 	{
 		"kanji": "伄",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_cb114d47-fb8e-40ba-8a40-f485b58221fb"
 	},
 	{
 		"kanji": "伅",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_3081f77f-6e96-414f-9df3-4fa7f258c46c"
 	},
 	{
 		"kanji": "伆",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a77c12e3-5513-4083-8856-8e481b8151fe"
 	},
 	{
 		"kanji": "伇",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_697adef9-bea1-42f8-9715-1d46c8894af1"
 	},
 	{
 		"kanji": "伈",
@@ -10694,7 +10958,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574664"
+		"id": "33574664",
+		"noteID": "kanji_acafa380-fbb3-4b8d-a321-55dc49930966"
 	},
 	{
 		"kanji": "伉",
@@ -10761,7 +11026,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574665"
+		"id": "33574665",
+		"noteID": "kanji_612d8ed5-9cec-42ad-a5a3-577eb2d0b48b"
 	},
 	{
 		"kanji": "伊",
@@ -10843,7 +11109,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_1fe4c7e9-99c7-4375-b7a5-0f3b1d789434"
 	},
 	{
 		"kanji": "伋",
@@ -10872,11 +11139,13 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574667"
+		"id": "33574667",
+		"noteID": "kanji_f69b0d50-d226-4fea-adf8-de2193d50894"
 	},
 	{
 		"kanji": "伌",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_13f024c8-b20f-4819-814c-965d4bee19b5"
 	},
 	{
 		"kanji": "伍",
@@ -10960,7 +11229,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_837730c4-cebc-445b-9fb2-3fa9a996d1ec"
 	},
 	{
 		"kanji": "伎",
@@ -11044,7 +11314,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_0445c47d-56ec-4311-a43e-6ac039f31925"
 	},
 	{
 		"kanji": "伏",
@@ -11130,7 +11401,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_6e1de572-9f68-4b76-a9c7-6d5a006dafcd"
 	},
 	{
 		"kanji": "伐",
@@ -11219,7 +11491,8 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_3a240450-9911-4a93-9335-3154c9863fa6"
 	},
 	{
 		"kanji": "休",
@@ -11307,19 +11580,23 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_223e754c-7339-4bdf-9279-cbe44eef7c2c"
 	},
 	{
 		"kanji": "伒",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_41a771b1-a299-4b77-b39d-6ccf62ed7f12"
 	},
 	{
 		"kanji": "伓",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_170ab8b3-0d7b-4fca-9283-596038432ab0"
 	},
 	{
 		"kanji": "伔",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b2250400-0e3b-4c4b-9028-50369bafbe0d"
 	},
 	{
 		"kanji": "伕",
@@ -11347,11 +11624,13 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574677"
+		"id": "33574677",
+		"noteID": "kanji_7bea7142-575b-422d-b337-773db86de134"
 	},
 	{
 		"kanji": "伖",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a851d0fa-50e4-4f55-bdb5-c39b40330946"
 	},
 	{
 		"kanji": "众",
@@ -11383,11 +11662,13 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574679"
+		"id": "33574679",
+		"noteID": "kanji_dadce353-8edf-42de-9b86-65ca1abd0097"
 	},
 	{
 		"kanji": "优",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b2b5f845-84a6-4db7-a8fa-0306a758c93d"
 	},
 	{
 		"kanji": "伙",
@@ -11418,7 +11699,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574681"
+		"id": "33574681",
+		"noteID": "kanji_5c13ccca-2074-4a7d-a9f4-45fe74e80d49"
 	},
 	{
 		"kanji": "会",
@@ -11509,11 +11791,13 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_13ec112c-232c-49f2-9516-129722c20d81"
 	},
 	{
 		"kanji": "伛",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_234e01fe-9f86-4a63-97bf-0c295e2b8e79"
 	},
 	{
 		"kanji": "伜",
@@ -11564,7 +11848,8 @@
 			"strokes::6",
 			"components::2"
 		],
-		"id": "33574684"
+		"id": "33574684",
+		"noteID": "kanji_a2367970-47cd-4d4e-9cfa-1e2709b17de7"
 	},
 	{
 		"kanji": "伝",
@@ -11660,71 +11945,88 @@
 			"has::words",
 			"strokes::6",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_88bd0819-8e85-4a36-9bab-48744ace7e5f"
 	},
 	{
 		"kanji": "伞",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_93973d3c-e69d-4293-a3f0-969bb347206a"
 	},
 	{
 		"kanji": "伟",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2cfda36b-2c11-4acd-a717-4b9b1fcd3b01"
 	},
 	{
 		"kanji": "传",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_feac5a2f-b356-400e-8dd2-cc11e1a65536"
 	},
 	{
 		"kanji": "伡",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_cc833868-dc2a-403b-89aa-cf7d23268a57"
 	},
 	{
 		"kanji": "伢",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b873c564-cf67-4ea9-b418-bc150e30cc27"
 	},
 	{
 		"kanji": "伣",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_91e70526-78f7-4432-8f5d-d3eb466e24cf"
 	},
 	{
 		"kanji": "伤",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_dda7449a-38ac-445d-a48e-657ced29f87e"
 	},
 	{
 		"kanji": "伥",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7345a60d-17a9-4070-8499-8ff7c6389ef5"
 	},
 	{
 		"kanji": "伦",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e342307e-ebc4-4661-9692-a0dab86b48e1"
 	},
 	{
 		"kanji": "伧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7776e975-6897-42f6-996f-55704f2b2961"
 	},
 	{
 		"kanji": "伨",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d28b5166-85f5-4f12-9118-c58dd8c8c1b2"
 	},
 	{
 		"kanji": "伩",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_749d4f00-f550-44cd-aec2-974dd4f266da"
 	},
 	{
 		"kanji": "伪",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_85496775-d5f2-4116-9451-358bda28da8e"
 	},
 	{
 		"kanji": "伫",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_34796074-7873-493d-906e-a6c65b6a9823"
 	},
 	{
 		"kanji": "伬",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2fb73243-f8cc-448a-917e-7dcf2de265a9"
 	},
 	{
 		"kanji": "伭",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_eaf7499f-4bbb-48c6-bf73-da350f4a6ccd"
 	},
 	{
 		"kanji": "伮",
@@ -11752,7 +12054,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574702"
+		"id": "33574702",
+		"noteID": "kanji_583e46dd-57ad-444c-88eb-ab0e45a8ebb4"
 	},
 	{
 		"kanji": "伯",
@@ -11835,7 +12138,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_21d6c141-8ff4-4838-87bf-aa8ebb8d0f2d"
 	},
 	{
 		"kanji": "估",
@@ -11920,7 +12224,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574704"
+		"id": "33574704",
+		"noteID": "kanji_fc6b1c81-82f5-4025-b13b-dbe9c1ad9085"
 	},
 	{
 		"kanji": "伱",
@@ -11953,15 +12258,18 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574705"
+		"id": "33574705",
+		"noteID": "kanji_75934b1c-9a50-4e7b-a0ab-10b2b3f6fb0e"
 	},
 	{
 		"kanji": "伲",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_dff0ade0-e87d-48c0-bb0c-45682304a6ff"
 	},
 	{
 		"kanji": "伳",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_0cce9f8e-42f2-453e-903b-9f0a8e7fb872"
 	},
 	{
 		"kanji": "伴",
@@ -12046,11 +12354,13 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_25dd45b5-98a1-44fb-8088-ab643582197f"
 	},
 	{
 		"kanji": "伵",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_fe330c27-b994-4ef0-a1bd-ed20e0cec0c2"
 	},
 	{
 		"kanji": "伶",
@@ -12133,7 +12443,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574710"
+		"id": "33574710",
+		"noteID": "kanji_24d4ff17-ed47-4e9e-9799-0cdf4e74d49b"
 	},
 	{
 		"kanji": "伷",
@@ -12162,7 +12473,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574711"
+		"id": "33574711",
+		"noteID": "kanji_6b33607b-1005-461b-a1c5-92d4b64a2ef4"
 	},
 	{
 		"kanji": "伸",
@@ -12250,7 +12562,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_15195ff7-2a62-40c8-927b-48af7f177eed"
 	},
 	{
 		"kanji": "伹",
@@ -12280,7 +12593,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574713"
+		"id": "33574713",
+		"noteID": "kanji_c5330bf2-7399-4403-8013-81ba843a3b55"
 	},
 	{
 		"kanji": "伺",
@@ -12366,7 +12680,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_f04cfdd2-0a0a-4c90-9da8-bbcf41146334"
 	},
 	{
 		"kanji": "伻",
@@ -12397,7 +12712,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574715"
+		"id": "33574715",
+		"noteID": "kanji_9fda649c-841f-444b-b462-920897a0748a"
 	},
 	{
 		"kanji": "似",
@@ -12483,11 +12799,13 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_991b21ee-2edb-4195-b2d7-d0451dd209d3"
 	},
 	{
 		"kanji": "伽",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e3ef400d-5f63-4fd3-ab6c-c0a539431ed2"
 	},
 	{
 		"kanji": "伾",
@@ -12521,11 +12839,13 @@
 			"strokes::7",
 			"components::3"
 		],
-		"id": "33574718"
+		"id": "33574718",
+		"noteID": "kanji_6415e205-a6cb-4371-8580-27ed1a524209"
 	},
 	{
 		"kanji": "伿",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_aa575460-86ae-4b7c-a096-533a345776ee"
 	},
 	{
 		"kanji": "佀",
@@ -12554,15 +12874,18 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574720"
+		"id": "33574720",
+		"noteID": "kanji_65113119-e73c-4ae0-b477-0ea222439216"
 	},
 	{
 		"kanji": "佁",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_bab39d05-dad2-47b6-84ff-cfd03beb2028"
 	},
 	{
 		"kanji": "佂",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c2af16f8-fe9d-43bd-adc9-aee205235e5a"
 	},
 	{
 		"kanji": "佃",
@@ -12627,15 +12950,18 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_469cf117-a8e2-4bfb-9ea1-eacb46823531"
 	},
 	{
 		"kanji": "佄",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_64600904-4a3a-475c-b776-5376bfa7b094"
 	},
 	{
 		"kanji": "佅",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_709ff2d9-5b69-40af-81c1-7f92ff0cd616"
 	},
 	{
 		"kanji": "但",
@@ -12717,7 +13043,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_1fccf7d4-7b06-419b-93b7-c0523275fc3b"
 	},
 	{
 		"kanji": "佇",
@@ -12806,7 +13133,8 @@
 			"has::words",
 			"strokes::7",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_350c1419-1a2d-44cb-bc4f-fb74a3d192f4"
 	},
 	{
 		"kanji": "佈",
@@ -12837,7 +13165,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574728"
+		"id": "33574728",
+		"noteID": "kanji_28c487c1-b81b-4d02-907e-c9226951f01e"
 	},
 	{
 		"kanji": "佉",
@@ -12868,11 +13197,13 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574729"
+		"id": "33574729",
+		"noteID": "kanji_46a466b5-a1af-4a2a-a001-42db63544997"
 	},
 	{
 		"kanji": "佊",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_acab44ac-929f-4a26-97cb-8f8dc03ebeda"
 	},
 	{
 		"kanji": "佋",
@@ -12903,7 +13234,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574731"
+		"id": "33574731",
+		"noteID": "kanji_30156e54-537e-4347-afb2-43d03a36e7ab"
 	},
 	{
 		"kanji": "佌",
@@ -12931,7 +13263,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574732"
+		"id": "33574732",
+		"noteID": "kanji_36b34356-2ab8-48e3-b57c-403ea7f9398c"
 	},
 	{
 		"kanji": "位",
@@ -13018,7 +13351,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_c62517cb-18e9-4cca-bda9-a4e68639c127"
 	},
 	{
 		"kanji": "低",
@@ -13103,7 +13437,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_a535ddaa-2f29-41d4-97a2-03414843488a"
 	},
 	{
 		"kanji": "住",
@@ -13191,7 +13526,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_82396177-0175-4882-88c8-5ddbc24c1ff1"
 	},
 	{
 		"kanji": "佐",
@@ -13271,7 +13607,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_4e7b3451-0ba6-4ec3-b3ad-5ba62c7a3c81"
 	},
 	{
 		"kanji": "佑",
@@ -13354,11 +13691,13 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_bd927804-8a4e-4089-9927-1bb71d67ea94"
 	},
 	{
 		"kanji": "佒",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_12999f3d-c664-4bd2-8490-60e6ecba4644"
 	},
 	{
 		"kanji": "体",
@@ -13447,7 +13786,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_b2d16794-98e2-4c4f-9c8a-e94bc0915f1f"
 	},
 	{
 		"kanji": "佔",
@@ -13481,7 +13821,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574740"
+		"id": "33574740",
+		"noteID": "kanji_fb8d4d87-6371-4452-95bd-c4f0c71d0443"
 	},
 	{
 		"kanji": "何",
@@ -13567,11 +13908,13 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_5c562b78-25f8-4821-bafb-febfc51ad7a5"
 	},
 	{
 		"kanji": "佖",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8b50daa1-a254-447d-a74d-ef6ca1ceeeef"
 	},
 	{
 		"kanji": "佗",
@@ -13658,7 +14001,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574743"
+		"id": "33574743",
+		"noteID": "kanji_eeba38ff-ac71-481d-8211-28b283d968cd"
 	},
 	{
 		"kanji": "佘",
@@ -13684,7 +14028,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574744"
+		"id": "33574744",
+		"noteID": "kanji_b7a8690d-4a82-428d-8e28-47ec25e9473d"
 	},
 	{
 		"kanji": "余",
@@ -13776,11 +14121,13 @@
 			"has::words",
 			"strokes::7",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_173b6dda-53d2-4713-bd08-c7e523639cb7"
 	},
 	{
 		"kanji": "佚",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7b5a4d20-a87e-4bd5-9884-c76d7c7b0a97"
 	},
 	{
 		"kanji": "佛",
@@ -13862,7 +14209,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_8c39f3d1-6a76-4251-bf4e-45446b1c1e54"
 	},
 	{
 		"kanji": "作",
@@ -13951,7 +14299,8 @@
 			"has::words",
 			"strokes::7",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_23aff0c1-f836-44d9-8709-ade3875871cc"
 	},
 	{
 		"kanji": "佝",
@@ -14018,11 +14367,13 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574749"
+		"id": "33574749",
+		"noteID": "kanji_b0514b5f-87d5-493c-ba5a-e616d84b101e"
 	},
 	{
 		"kanji": "佞",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_322dd70f-54ac-408f-a77c-e3fb3db0b63e"
 	},
 	{
 		"kanji": "佟",
@@ -14049,7 +14400,8 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574751"
+		"id": "33574751",
+		"noteID": "kanji_3cf5c4ec-3906-444c-94ce-a95146d6da79"
 	},
 	{
 		"kanji": "你",
@@ -14106,15 +14458,18 @@
 			"strokes::7",
 			"components::3"
 		],
-		"id": "33574752"
+		"id": "33574752",
+		"noteID": "kanji_492fc77b-b0fa-4d15-b580-016f299b0548"
 	},
 	{
 		"kanji": "佡",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7b32958c-325f-437e-b73a-54ef7199504b"
 	},
 	{
 		"kanji": "佢",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_02abc02c-5111-48a2-a8d5-6e13cb4cdf55"
 	},
 	{
 		"kanji": "佣",
@@ -14140,27 +14495,33 @@
 			"strokes::7",
 			"components::2"
 		],
-		"id": "33574755"
+		"id": "33574755",
+		"noteID": "kanji_43f70695-b36f-4e18-a613-e672eb3f40d5"
 	},
 	{
 		"kanji": "佤",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7ee781b5-ede1-4901-9c06-256239e19845"
 	},
 	{
 		"kanji": "佥",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_78c773d8-01ce-48cf-978e-aa4b9bde8693"
 	},
 	{
 		"kanji": "佦",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_37af485c-856b-4c81-b53c-9b71722d6b1e"
 	},
 	{
 		"kanji": "佧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_150f1181-9f57-4ee7-8680-5991f28ffb29"
 	},
 	{
 		"kanji": "佨",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a71c190e-5334-443f-b140-d3245270448b"
 	},
 	{
 		"kanji": "佩",
@@ -14252,7 +14613,8 @@
 			"has::words",
 			"strokes::8",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_b1a5269f-d45d-4635-9cd6-4aa0d4dcd3e8"
 	},
 	{
 		"kanji": "佪",
@@ -14282,11 +14644,13 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574762"
+		"id": "33574762",
+		"noteID": "kanji_f08fe867-e207-4bf6-a9fc-04608d6c5472"
 	},
 	{
 		"kanji": "佫",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_85bf50af-6824-42d3-9314-7e755d30dbe4"
 	},
 	{
 		"kanji": "佬",
@@ -14318,15 +14682,18 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574764"
+		"id": "33574764",
+		"noteID": "kanji_79027be6-3b72-455f-a0c5-af657fd7f8f4"
 	},
 	{
 		"kanji": "佭",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_635db75d-d4d0-4da5-94f7-f565a5e10736"
 	},
 	{
 		"kanji": "佮",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2fa49d56-cd3d-46d6-9142-67c0fcfcdc3c"
 	},
 	{
 		"kanji": "佯",
@@ -14411,7 +14778,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574767"
+		"id": "33574767",
+		"noteID": "kanji_7a4c3c81-5c1f-4c6d-8818-4b639f2470b4"
 	},
 	{
 		"kanji": "佰",
@@ -14461,15 +14829,18 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_ab16b6ec-960a-4c39-9969-5b22b640e609"
 	},
 	{
 		"kanji": "佱",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_0cae92a5-b9ea-4bcb-bb88-c832a69678f9"
 	},
 	{
 		"kanji": "佲",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ef7e3e74-a570-492b-9cf2-beec8332b510"
 	},
 	{
 		"kanji": "佳",
@@ -14552,11 +14923,13 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_d40aafc4-bb00-46f6-a54b-27bc6eecf820"
 	},
 	{
 		"kanji": "佴",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7f61fc38-7e0e-42c9-9d34-b6dcb875a331"
 	},
 	{
 		"kanji": "併",
@@ -14644,7 +15017,8 @@
 			"has::words",
 			"strokes::8",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_198353e0-4fdd-495e-b6ee-27edd7f7d11c"
 	},
 	{
 		"kanji": "佶",
@@ -14672,7 +15046,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574774"
+		"id": "33574774",
+		"noteID": "kanji_f837b38e-f9a9-4844-b74e-52928b326c5b"
 	},
 	{
 		"kanji": "佷",
@@ -14722,7 +15097,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574775"
+		"id": "33574775",
+		"noteID": "kanji_8b5b137e-5686-482a-9c81-c0546a68bfa3"
 	},
 	{
 		"kanji": "佸",
@@ -14754,7 +15130,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574776"
+		"id": "33574776",
+		"noteID": "kanji_7b9805e1-b080-401a-aa98-c04bad94185f"
 	},
 	{
 		"kanji": "佹",
@@ -14788,7 +15165,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574777"
+		"id": "33574777",
+		"noteID": "kanji_a83e3630-088a-4de1-9e2a-a56cbfb759e8"
 	},
 	{
 		"kanji": "佺",
@@ -14814,7 +15192,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574778"
+		"id": "33574778",
+		"noteID": "kanji_155bafa5-83e8-41a4-9937-11f7a7f58680"
 	},
 	{
 		"kanji": "佻",
@@ -14898,7 +15277,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574779"
+		"id": "33574779",
+		"noteID": "kanji_69935cf2-6aa9-4ac1-92dd-417f9e2a717f"
 	},
 	{
 		"kanji": "佼",
@@ -14951,7 +15331,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574780"
+		"id": "33574780",
+		"noteID": "kanji_ecdd3080-1d5b-44db-85a5-aa21ba72abb1"
 	},
 	{
 		"kanji": "佽",
@@ -14984,7 +15365,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574781"
+		"id": "33574781",
+		"noteID": "kanji_ce696855-7c39-41ea-9621-361aa0afdcdd"
 	},
 	{
 		"kanji": "佾",
@@ -15014,7 +15396,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574782"
+		"id": "33574782",
+		"noteID": "kanji_61eff832-81b4-4277-9c4b-7010a84b3e5a"
 	},
 	{
 		"kanji": "使",
@@ -15104,11 +15487,13 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_16dcd4de-5226-47ae-808d-a6dad4305a46"
 	},
 	{
 		"kanji": "侀",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b68d8dd7-25e8-4224-a176-2539bde5a3aa"
 	},
 	{
 		"kanji": "侁",
@@ -15137,7 +15522,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574785"
+		"id": "33574785",
+		"noteID": "kanji_cddd2d0f-d827-4d0d-ad50-c6a002ea36a4"
 	},
 	{
 		"kanji": "侂",
@@ -15170,7 +15556,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574786"
+		"id": "33574786",
+		"noteID": "kanji_ea97b9b0-e1aa-4d76-8d1e-e1ad2f72b9ef"
 	},
 	{
 		"kanji": "侃",
@@ -15263,7 +15650,8 @@
 			"strokes::8",
 			"components::4"
 		],
-		"id": "33574787"
+		"id": "33574787",
+		"noteID": "kanji_e15cf1c4-2f2f-467a-adbb-86b40baf9bd2"
 	},
 	{
 		"kanji": "侄",
@@ -15295,7 +15683,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574788"
+		"id": "33574788",
+		"noteID": "kanji_ab16c215-b7d0-49dc-88f6-ed0a84d284a1"
 	},
 	{
 		"kanji": "侅",
@@ -15325,7 +15714,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574789"
+		"id": "33574789",
+		"noteID": "kanji_b35dc189-7b9a-420d-b4dd-9cbaca147fd8"
 	},
 	{
 		"kanji": "來",
@@ -15415,11 +15805,13 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_0bba3a16-8eaf-4b43-82c0-5bec18ad0abf"
 	},
 	{
 		"kanji": "侇",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_adbfd976-beb9-43da-8738-133a76c1f777"
 	},
 	{
 		"kanji": "侈",
@@ -15468,11 +15860,13 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574792"
+		"id": "33574792",
+		"noteID": "kanji_a0eeb7b1-9493-4b23-b3d6-22edf8f075d5"
 	},
 	{
 		"kanji": "侉",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2c6c0422-0b58-47eb-9da5-292099412728"
 	},
 	{
 		"kanji": "侊",
@@ -15500,7 +15894,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574794"
+		"id": "33574794",
+		"noteID": "kanji_b1e9968f-8529-4340-b2ae-0331472f9031"
 	},
 	{
 		"kanji": "例",
@@ -15584,11 +15979,13 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_830f0856-fbc0-46da-b720-4391f181e503"
 	},
 	{
 		"kanji": "侌",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_54e5006d-64d6-40cb-9208-f93ba2976ab0"
 	},
 	{
 		"kanji": "侍",
@@ -15674,7 +16071,8 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_d8f4fded-fe32-43f5-af8a-a68e31b3dff1"
 	},
 	{
 		"kanji": "侎",
@@ -15706,7 +16104,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574798"
+		"id": "33574798",
+		"noteID": "kanji_7981dda0-ccc1-422e-8ec9-27aaeb12ee8e"
 	},
 	{
 		"kanji": "侏",
@@ -15753,7 +16152,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574799"
+		"id": "33574799",
+		"noteID": "kanji_2522d3c8-a3b3-4885-baef-14404cff6f2a"
 	},
 	{
 		"kanji": "侐",
@@ -15784,7 +16184,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574800"
+		"id": "33574800",
+		"noteID": "kanji_2058558d-36bd-45ce-9f90-e8f450fdfdd5"
 	},
 	{
 		"kanji": "侑",
@@ -15851,15 +16252,18 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574801"
+		"id": "33574801",
+		"noteID": "kanji_31406f2f-066f-48d1-9950-73b30aa5b999"
 	},
 	{
 		"kanji": "侒",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_18096027-b255-4497-a80a-a752e86013b6"
 	},
 	{
 		"kanji": "侓",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4bad300c-4367-4532-89e7-4e58d0ea30c1"
 	},
 	{
 		"kanji": "侔",
@@ -15893,11 +16297,13 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574804"
+		"id": "33574804",
+		"noteID": "kanji_045d2e4e-c621-4e4c-97f2-57592cc630ea"
 	},
 	{
 		"kanji": "侕",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_00ba40a9-88b0-42c5-aef6-cbae5743b1cb"
 	},
 	{
 		"kanji": "侖",
@@ -15927,7 +16333,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574806"
+		"id": "33574806",
+		"noteID": "kanji_e6da5505-b50d-4bd3-a3f4-5d6fb02bfa56"
 	},
 	{
 		"kanji": "侗",
@@ -15965,15 +16372,18 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574807"
+		"id": "33574807",
+		"noteID": "kanji_4c3b2ecf-1e01-4cef-accf-39fb02b8ca99"
 	},
 	{
 		"kanji": "侘",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_923e8103-9af7-4e95-802e-3cab0771e8aa"
 	},
 	{
 		"kanji": "侙",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2ca9cf2d-4098-47b5-b9d5-6830a25956b1"
 	},
 	{
 		"kanji": "侚",
@@ -16005,7 +16415,8 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574810"
+		"id": "33574810",
+		"noteID": "kanji_a9a6012b-baf0-4e53-bd2a-d13837c36d69"
 	},
 	{
 		"kanji": "供",
@@ -16095,11 +16506,13 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_0e7c4ab5-43f2-47c3-b03b-3a672b864f34"
 	},
 	{
 		"kanji": "侜",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_748d0f13-e8c4-4ecc-aa8c-a4d925144706"
 	},
 	{
 		"kanji": "依",
@@ -16185,19 +16598,23 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_07e63176-c66b-4ed6-9119-a74cc2227788"
 	},
 	{
 		"kanji": "侞",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_438f8593-5003-4b27-b291-cc585cdd066d"
 	},
 	{
 		"kanji": "侟",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f7a99e08-66f3-469b-86bd-fcd8ef392c48"
 	},
 	{
 		"kanji": "侠",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6d22eaf7-f753-4a94-a94f-98f7c7119868"
 	},
 	{
 		"kanji": "価",
@@ -16280,43 +16697,53 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_fbfc8451-b033-438c-9674-9b55e10a4ebf"
 	},
 	{
 		"kanji": "侢",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_753e7881-1f6f-4ba7-a9b8-bd8cfe9eac68"
 	},
 	{
 		"kanji": "侣",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_feda52b6-3726-46cb-a980-b620812cde63"
 	},
 	{
 		"kanji": "侤",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1e3c7da2-6d38-4383-857a-024b628c1476"
 	},
 	{
 		"kanji": "侥",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c0b454af-efaa-4282-8daa-743c88d6e45a"
 	},
 	{
 		"kanji": "侦",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c8ecabf9-4142-4237-a03a-cdc618d493d9"
 	},
 	{
 		"kanji": "侧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_5c182260-f204-48b3-918b-096924281f5c"
 	},
 	{
 		"kanji": "侨",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a231dd91-22d2-454f-80f3-eadea20250e0"
 	},
 	{
 		"kanji": "侩",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ab1f987c-937e-4a2c-bdf9-a7244edb9a00"
 	},
 	{
 		"kanji": "侪",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_fca40e1a-abfb-4fa8-9acc-26cb9aaf1b92"
 	},
 	{
 		"kanji": "侫",
@@ -16366,11 +16793,13 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574827"
+		"id": "33574827",
+		"noteID": "kanji_1c8e6740-487a-48d3-b250-5037e8286a12"
 	},
 	{
 		"kanji": "侬",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_106c2ee5-93a0-4264-bd52-5b532a378fd8"
 	},
 	{
 		"kanji": "侭",
@@ -16453,7 +16882,8 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_822e04b1-dffa-464a-b8ff-b958b25e91a0"
 	},
 	{
 		"kanji": "侮",
@@ -16538,7 +16968,8 @@
 			"has::words",
 			"strokes::8",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_bd669245-cdd3-497e-94b7-b855159098cf"
 	},
 	{
 		"kanji": "侯",
@@ -16623,27 +17054,33 @@
 			"has::words",
 			"strokes::9",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_eaf593f3-d20c-4839-bb7d-d45399df1e37"
 	},
 	{
 		"kanji": "侰",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e75bf013-766e-4a75-af86-2f082cce95e7"
 	},
 	{
 		"kanji": "侱",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_dd4ccf93-4879-49fe-b060-5903b1e37ab3"
 	},
 	{
 		"kanji": "侲",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d1eada22-a715-41b6-8d6c-6adca2919ea7"
 	},
 	{
 		"kanji": "侳",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ad30c2ca-baae-4bc8-980c-964ca7a978f7"
 	},
 	{
 		"kanji": "侴",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f7828ab8-286e-4aa0-95ed-bbeaf262f010"
 	},
 	{
 		"kanji": "侵",
@@ -16736,7 +17173,8 @@
 			"has::words",
 			"strokes::9",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_15f5a0f5-e737-497f-901c-bd5f113b915e"
 	},
 	{
 		"kanji": "侶",
@@ -16819,7 +17257,8 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_c40cf8bc-dd61-4dfd-b56c-b7f555528692"
 	},
 	{
 		"kanji": "侷",
@@ -16851,35 +17290,43 @@
 			"strokes::8",
 			"components::2"
 		],
-		"id": "33574839"
+		"id": "33574839",
+		"noteID": "kanji_3dcaecab-b9c5-465b-8539-0db3f7e3ea1c"
 	},
 	{
 		"kanji": "侸",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6bcd61f7-ef65-4492-9111-2fffdf3ffc8e"
 	},
 	{
 		"kanji": "侹",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c60f636f-a9a7-415f-abb5-2b0756f2e940"
 	},
 	{
 		"kanji": "侺",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f785b162-30b1-4ec2-af64-d7caa0126b59"
 	},
 	{
 		"kanji": "侻",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_afb99a94-6d5f-4d02-b88d-805309f046a3"
 	},
 	{
 		"kanji": "侼",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_848a6f63-6ca9-455e-b5ec-a6651182d639"
 	},
 	{
 		"kanji": "侽",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_e57fdb65-40fe-4901-9be7-cc6cd628726b"
 	},
 	{
 		"kanji": "侾",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_fa12b749-7087-4540-89f6-adc1ad0892d8"
 	},
 	{
 		"kanji": "便",
@@ -16966,11 +17413,13 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_19933940-af33-48b3-935b-29f562af2c6c"
 	},
 	{
 		"kanji": "俀",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a817a75f-bfa0-45ed-9f1b-2c4d9bc86668"
 	},
 	{
 		"kanji": "俁",
@@ -17006,7 +17455,8 @@
 			"strokes::9",
 			"components::4"
 		],
-		"id": "33574849"
+		"id": "33574849",
+		"noteID": "kanji_605ae04e-c17d-4352-a1d0-ab6fd9fb6cd6"
 	},
 	{
 		"kanji": "係",
@@ -17095,7 +17545,8 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_bf645147-c259-473f-afdd-66606bf546c6"
 	},
 	{
 		"kanji": "促",
@@ -17180,7 +17631,8 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_58db8e63-b492-40c4-a41d-1eda1f9cbe9c"
 	},
 	{
 		"kanji": "俄",
@@ -17263,7 +17715,8 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_0cf5d608-de65-4889-8c6c-3b496e612f87"
 	},
 	{
 		"kanji": "俅",
@@ -17292,15 +17745,18 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574853"
+		"id": "33574853",
+		"noteID": "kanji_e185fbc4-986f-4735-b75c-bfd28c082408"
 	},
 	{
 		"kanji": "俆",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6b393be1-7537-4fda-8cd7-e9ef51fecfd4"
 	},
 	{
 		"kanji": "俇",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_559f5da8-c89a-4af5-891e-744133027de9"
 	},
 	{
 		"kanji": "俈",
@@ -17331,11 +17787,13 @@
 			"strokes::9",
 			"components::3"
 		],
-		"id": "33574856"
+		"id": "33574856",
+		"noteID": "kanji_5e9d9caf-1b1c-4ace-ba1b-ce7726755fc3"
 	},
 	{
 		"kanji": "俉",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a289185e-6a19-45ee-81f0-5a9166589ebe"
 	},
 	{
 		"kanji": "俊",
@@ -17416,19 +17874,23 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_c54e4faf-27bc-40fb-a7f8-5e0cd5bcb367"
 	},
 	{
 		"kanji": "俋",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_3fe8aa64-f6b1-4698-b150-550adc7df6a2"
 	},
 	{
 		"kanji": "俌",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_809a763e-1d31-4d32-8fa5-42376f626954"
 	},
 	{
 		"kanji": "俍",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a3a515eb-b032-41f6-bad9-336b1a8bbb9e"
 	},
 	{
 		"kanji": "俎",
@@ -17516,7 +17978,8 @@
 			"has::words",
 			"strokes::9",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_50727c9a-29e1-439c-99ac-923c7d43f261"
 	},
 	{
 		"kanji": "俏",
@@ -17573,7 +18036,8 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574863"
+		"id": "33574863",
+		"noteID": "kanji_975aff50-1c5f-423b-8d4a-964e99778f81"
 	},
 	{
 		"kanji": "俐",
@@ -17655,19 +18119,23 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574864"
+		"id": "33574864",
+		"noteID": "kanji_ead359a6-d8fd-446a-aeec-c400d3630b51"
 	},
 	{
 		"kanji": "俑",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a1029a38-15d9-4357-a362-ed57915e155e"
 	},
 	{
 		"kanji": "俒",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_607c5cdd-dab2-4c91-bb7d-75dafe039e19"
 	},
 	{
 		"kanji": "俓",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7d9bc0bf-2453-4135-908d-fd3fda668f6c"
 	},
 	{
 		"kanji": "俔",
@@ -17697,15 +18165,18 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574868"
+		"id": "33574868",
+		"noteID": "kanji_2ef2d5f0-bdea-4e8c-81ba-9723c917d310"
 	},
 	{
 		"kanji": "俕",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_68fe72bb-ab71-4694-824b-4684764a6dff"
 	},
 	{
 		"kanji": "俖",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4348a963-2a69-45ee-8af1-710666d6b30a"
 	},
 	{
 		"kanji": "俗",
@@ -17788,7 +18259,8 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_d1ada938-69e0-490d-8cba-4a4d703a33d9"
 	},
 	{
 		"kanji": "俘",
@@ -17874,11 +18346,13 @@
 			"strokes::9",
 			"components::3"
 		],
-		"id": "33574872"
+		"id": "33574872",
+		"noteID": "kanji_e160d440-6ffb-4b8a-86a9-93a4200ebe5e"
 	},
 	{
 		"kanji": "俙",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ea983986-03b5-439d-9a08-744d125fccb9"
 	},
 	{
 		"kanji": "俚",
@@ -17961,7 +18435,8 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574874"
+		"id": "33574874",
+		"noteID": "kanji_0dfc334b-2e11-4859-bba4-0909ba998d96"
 	},
 	{
 		"kanji": "俛",
@@ -17992,7 +18467,8 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574875"
+		"id": "33574875",
+		"noteID": "kanji_a22343d1-0795-47be-b957-58bdb9e2a6a4"
 	},
 	{
 		"kanji": "俜",
@@ -18027,7 +18503,8 @@
 			"strokes::9",
 			"components::3"
 		],
-		"id": "33574876"
+		"id": "33574876",
+		"noteID": "kanji_96593b8c-9955-4055-88fd-211722e7cbee"
 	},
 	{
 		"kanji": "保",
@@ -18116,11 +18593,13 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_b235fbb6-5cf9-48b5-b393-a34d8b79bc97"
 	},
 	{
 		"kanji": "俞",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_11a71bc9-69d9-4c48-b09b-59aaf5850248"
 	},
 	{
 		"kanji": "俟",
@@ -18206,7 +18685,8 @@
 			"has::words",
 			"strokes::9",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_983e6a4b-19db-4344-9a03-a7a35d684513"
 	},
 	{
 		"kanji": "俠",
@@ -18292,7 +18772,8 @@
 			"strokes::9",
 			"components::2"
 		],
-		"id": "33574880"
+		"id": "33574880",
+		"noteID": "kanji_901d23a8-b49c-4f4f-b2b3-2d9dd465e074"
 	},
 	{
 		"kanji": "信",
@@ -18376,11 +18857,13 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_5dc3d6ab-0586-433f-ae2f-0959dbac0652"
 	},
 	{
 		"kanji": "俢",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_0c9e4094-3273-4520-876f-9df209c08e62"
 	},
 	{
 		"kanji": "俣",
@@ -18468,7 +18951,8 @@
 			"has::words",
 			"strokes::9",
 			"components::3"
-		]
+		],
+		"noteID": "kanji_dfce12da-122c-465f-8164-c2d8cac0a5b9"
 	},
 	{
 		"kanji": "俤",
@@ -18518,43 +19002,53 @@
 			"has::words",
 			"strokes::9",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_589daf72-ef41-4d23-96a5-807a961b1af3"
 	},
 	{
 		"kanji": "俥",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_f20908ca-ae21-493b-804a-31c443d993e1"
 	},
 	{
 		"kanji": "俦",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_36c9a4c8-d607-453b-a66c-1b0c3ac5f2a2"
 	},
 	{
 		"kanji": "俧",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_ac858e13-01e7-47fb-b793-17a360efff53"
 	},
 	{
 		"kanji": "俨",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_4fc2aa41-949d-44a8-bf75-c876c2334647"
 	},
 	{
 		"kanji": "俩",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_b7116217-04ea-4943-bba6-1c84a866606a"
 	},
 	{
 		"kanji": "俪",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_1d6d42d2-85a9-42aa-991a-b40b927f91b3"
 	},
 	{
 		"kanji": "俫",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_137bf1fd-ba56-4398-af6f-0601381e4a52"
 	},
 	{
 		"kanji": "俬",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_6586ff4b-b99a-460a-8e8f-8ebdade56e3d"
 	},
 	{
 		"kanji": "俭",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_d7a5d73d-cd46-4fbf-9fbc-80258e9cd292"
 	},
 	{
 		"kanji": "修",
@@ -18648,7 +19142,8 @@
 			"has::words",
 			"strokes::10",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_1ffb0157-9f3f-494e-9402-ce306b2f6f36"
 	},
 	{
 		"kanji": "俯",
@@ -18732,11 +19227,13 @@
 			"has::words",
 			"strokes::10",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_85743f7c-82da-4a0b-a2da-d19ff92b78f5"
 	},
 	{
 		"kanji": "俰",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8d25835b-5bd3-4aaa-8e54-a23fd0884a4b"
 	},
 	{
 		"kanji": "俱",
@@ -18820,11 +19317,13 @@
 			"strokes::10",
 			"components::2"
 		],
-		"id": "33574897"
+		"id": "33574897",
+		"noteID": "kanji_b2fc6a85-0068-4625-8f44-60b4ebd9981b"
 	},
 	{
 		"kanji": "俲",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_8c9378f1-3212-4095-9bcf-81f52a9f744c"
 	},
 	{
 		"kanji": "俳",
@@ -18904,11 +19403,13 @@
 			"has::words",
 			"strokes::10",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_6a7c5e48-f9a7-4bd2-8209-f4677a48b07b"
 	},
 	{
 		"kanji": "俴",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7762c297-e708-485e-8e0d-55efd6e3b265"
 	},
 	{
 		"kanji": "俵",
@@ -18992,7 +19493,8 @@
 			"has::words",
 			"strokes::10",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_c29f3ef4-81ab-4344-b0ea-d2b1720bc8ab"
 	},
 	{
 		"kanji": "俶",
@@ -19024,11 +19526,13 @@
 			"strokes::10",
 			"components::2"
 		],
-		"id": "33574902"
+		"id": "33574902",
+		"noteID": "kanji_82dc9486-9dde-4e17-84b4-5da0d293a361"
 	},
 	{
 		"kanji": "俷",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_7763e300-994b-4d6a-8969-45287ab09bd2"
 	},
 	{
 		"kanji": "俸",
@@ -19108,11 +19612,13 @@
 			"has::words",
 			"strokes::10",
 			"components::2"
-		]
+		],
+		"noteID": "kanji_e2b9f756-f684-446e-b36a-a31c5470004d"
 	},
 	{
 		"kanji": "俹",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_05472268-11dd-4c2c-8f74-02f4dce6c8d1"
 	},
 	{
 		"kanji": "俺",
@@ -19205,19 +19711,23 @@
 			"has::words",
 			"strokes::10",
 			"components::4"
-		]
+		],
+		"noteID": "kanji_e63adde8-5fe9-4f62-b570-e6e8b4d0490e"
 	},
 	{
 		"kanji": "俻",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_67f1312b-2b4c-4e32-a352-1ba513ba14f6"
 	},
 	{
 		"kanji": "俼",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_2bf3b841-1a6e-462b-ac4a-dd56a0fda7ce"
 	},
 	{
 		"kanji": "俽",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_a9702e1c-9b51-4ba5-aee7-b051ef9e3b01"
 	},
 	{
 		"kanji": "俾",
@@ -19248,10 +19758,12 @@
 			"strokes::10",
 			"components::2"
 		],
-		"id": "33574910"
+		"id": "33574910",
+		"noteID": "kanji_1bf71b2a-36a3-4ed4-a66a-22a6703cdf91"
 	},
 	{
 		"kanji": "俿",
-		"doNotCreateNote": true
+		"doNotCreateNote": true,
+		"noteID": "kanji_c625da90-6354-46b0-85fe-d9414779b36d"
 	}
 ]

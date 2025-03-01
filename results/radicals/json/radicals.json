@@ -40,7 +40,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721088",
-		"svg": "04e00.svg"
+		"svg": "04e00.svg",
+		"noteID": "radical_55e68e10-132d-46ea-80ff-e82b3c323648"
 	},
 	{
 		"radical": "丨",
@@ -83,7 +84,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721089",
-		"svg": "04e28.svg"
+		"svg": "04e28.svg",
+		"noteID": "radical_bb61d767-b5ce-4890-ad0f-154081f8dedf"
 	},
 	{
 		"radical": "丶",
@@ -126,7 +128,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721090",
-		"svg": "04e36.svg"
+		"svg": "04e36.svg",
+		"noteID": "radical_56b68b94-5c35-40cc-ae41-53e2f621a920"
 	},
 	{
 		"radical": "丿",
@@ -169,7 +172,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721091",
-		"svg": "04e3f.svg"
+		"svg": "04e3f.svg",
+		"noteID": "radical_bbeb781e-6bf4-4743-adc6-b2d4fbdda1ce"
 	},
 	{
 		"radical": "乙",
@@ -192,7 +196,8 @@
 			"used_in_kanji::1"
 		],
 		"id": "85721092",
-		"svg": "04e59.svg"
+		"svg": "04e59.svg",
+		"noteID": "radical_923a06ec-6957-4cf1-b4fd-ca8f26593ec3"
 	},
 	{
 		"radical": "乚",
@@ -234,7 +239,8 @@
 			"strokes::1",
 			"used_in_kanji::4"
 		],
-		"id": "85721093"
+		"id": "85721093",
+		"noteID": "radical_8c61f5fc-16b8-4906-aa56-02146fd53cdb"
 	},
 	{
 		"radical": "亅",
@@ -277,7 +283,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721094",
-		"svg": "04e85.svg"
+		"svg": "04e85.svg",
+		"noteID": "radical_a2a0376d-5514-43a7-8420-32d69dd231dc"
 	},
 	{
 		"radical": "二",
@@ -319,7 +326,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721095",
-		"svg": "04e8c.svg"
+		"svg": "04e8c.svg",
+		"noteID": "radical_c51b4141-1331-4751-833f-45f4727ad705"
 	},
 	{
 		"radical": "亠",
@@ -362,7 +370,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721096",
-		"svg": "04ea0.svg"
+		"svg": "04ea0.svg",
+		"noteID": "radical_ce2456e2-beba-454c-bea3-f6a36a5d75f3"
 	},
 	{
 		"radical": "人",
@@ -404,7 +413,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721097",
-		"svg": "04eba.svg"
+		"svg": "04eba.svg",
+		"noteID": "radical_5b0012e3-e610-4b9a-b179-974af0c819ac"
 	},
 	{
 		"radical": "亻",
@@ -447,7 +457,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721098",
-		"svg": "04ebb.svg"
+		"svg": "04ebb.svg",
+		"noteID": "radical_dc7da901-9c38-49dc-aa37-fee0c0236e63"
 	},
 	{
 		"radical": "𠆢",
@@ -461,7 +472,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721099",
-		"svg": "201a2.svg"
+		"svg": "201a2.svg",
+		"noteID": "radical_9b5e2051-b277-4150-bec4-27063ae7d99b"
 	},
 	{
 		"radical": "儿",
@@ -504,7 +516,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721100",
-		"svg": "0513f.svg"
+		"svg": "0513f.svg",
+		"noteID": "radical_f2c458e2-9c31-4b66-8649-a08dd87f9f50"
 	},
 	{
 		"radical": "入",
@@ -547,7 +560,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721101",
-		"svg": "05165.svg"
+		"svg": "05165.svg",
+		"noteID": "radical_47b455d7-3f59-45f6-bd69-1205f3944671"
 	},
 	{
 		"radical": "八",
@@ -584,7 +598,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721102",
-		"svg": "0516b.svg"
+		"svg": "0516b.svg",
+		"noteID": "radical_2bf2e125-d058-4719-a7c7-ac17bc59fe5d"
 	},
 	{
 		"radical": "冂",
@@ -627,7 +642,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721103",
-		"svg": "05182.svg"
+		"svg": "05182.svg",
+		"noteID": "radical_df648d98-6372-49eb-b00f-ca8788e8ce24"
 	},
 	{
 		"radical": "冖",
@@ -671,7 +687,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721104",
-		"svg": "05196.svg"
+		"svg": "05196.svg",
+		"noteID": "radical_bc9d8d90-c371-482d-a867-6eb12dbd19a9"
 	},
 	{
 		"radical": "冫",
@@ -714,7 +731,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721105",
-		"svg": "051ab.svg"
+		"svg": "051ab.svg",
+		"noteID": "radical_c3378d65-bfa9-42ad-a774-29eec285d911"
 	},
 	{
 		"radical": "几",
@@ -757,7 +775,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721106",
-		"svg": "051e0.svg"
+		"svg": "051e0.svg",
+		"noteID": "radical_e1374580-6d04-4e5f-86dc-10952d2ef2e2"
 	},
 	{
 		"radical": "𠘨",
@@ -770,7 +789,8 @@
 			"strokes::2",
 			"used_in_kanji::0"
 		],
-		"id": "85721107"
+		"id": "85721107",
+		"noteID": "radical_dfe42deb-ad6b-469b-89a7-0b7686bb6c46"
 	},
 	{
 		"radical": "凵",
@@ -813,7 +833,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721108",
-		"svg": "051f5.svg"
+		"svg": "051f5.svg",
+		"noteID": "radical_2a8315c1-00de-4e83-b29b-de57cbda1c03"
 	},
 	{
 		"radical": "刀",
@@ -857,7 +878,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721109",
-		"svg": "05200.svg"
+		"svg": "05200.svg",
+		"noteID": "radical_b72e30a8-0178-450a-a06b-fe1888d1778e"
 	},
 	{
 		"radical": "刂",
@@ -900,7 +922,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721110",
-		"svg": "05202.svg"
+		"svg": "05202.svg",
+		"noteID": "radical_95f9f2aa-864b-498e-8f22-a8fc06d22684"
 	},
 	{
 		"radical": "力",
@@ -942,7 +965,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721111",
-		"svg": "0529b.svg"
+		"svg": "0529b.svg",
+		"noteID": "radical_50a1f84f-813e-4bae-a7b3-4abb2ade8039"
 	},
 	{
 		"radical": "勹",
@@ -985,7 +1009,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721112",
-		"svg": "052f9.svg"
+		"svg": "052f9.svg",
+		"noteID": "radical_fbcef6c9-ab17-43ed-954d-372a7316d966"
 	},
 	{
 		"radical": "匕",
@@ -1027,7 +1052,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721113",
-		"svg": "05315.svg"
+		"svg": "05315.svg",
+		"noteID": "radical_ea2f4b38-853f-4d1b-acf2-6c348fa35db5"
 	},
 	{
 		"radical": "匚",
@@ -1068,7 +1094,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721114",
-		"svg": "0531a.svg"
+		"svg": "0531a.svg",
+		"noteID": "radical_44a49c6b-914c-48e3-a644-00335a010064"
 	},
 	{
 		"radical": "匸",
@@ -1084,7 +1111,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721115",
-		"svg": "05338.svg"
+		"svg": "05338.svg",
+		"noteID": "radical_3f2a3bb1-55b0-4c4c-8dee-cb9fdb5afc9f"
 	},
 	{
 		"radical": "十",
@@ -1126,7 +1154,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721116",
-		"svg": "05341.svg"
+		"svg": "05341.svg",
+		"noteID": "radical_249ee7d1-d497-43b2-ae2c-e205224acb82"
 	},
 	{
 		"radical": "卜",
@@ -1169,7 +1198,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721117",
-		"svg": "0535c.svg"
+		"svg": "0535c.svg",
+		"noteID": "radical_9644ead2-0d18-4679-bfaf-3643f3edd585"
 	},
 	{
 		"radical": "卩",
@@ -1211,7 +1241,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721118",
-		"svg": "05369.svg"
+		"svg": "05369.svg",
+		"noteID": "radical_e914e8f9-c1e5-477f-9fa9-e84f95eaba60"
 	},
 	{
 		"radical": "厂",
@@ -1253,7 +1284,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721119",
-		"svg": "05382.svg"
+		"svg": "05382.svg",
+		"noteID": "radical_d276c33a-5760-4ae1-a141-8e6cdb053c8a"
 	},
 	{
 		"radical": "厶",
@@ -1297,7 +1329,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721120",
-		"svg": "053b6.svg"
+		"svg": "053b6.svg",
+		"noteID": "radical_452d3b69-4521-46c3-ab80-dc4906995120"
 	},
 	{
 		"radical": "又",
@@ -1341,7 +1374,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721121",
-		"svg": "053c8.svg"
+		"svg": "053c8.svg",
+		"noteID": "radical_d21c5b4e-0f89-44b6-86b6-c3ecd6cb740b"
 	},
 	{
 		"radical": "口",
@@ -1383,7 +1417,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721122",
-		"svg": "053e3.svg"
+		"svg": "053e3.svg",
+		"noteID": "radical_78eee4bb-c6b2-4cc3-b96c-56224bc7a67d"
 	},
 	{
 		"radical": "囗",
@@ -1427,7 +1462,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721123",
-		"svg": "056d7.svg"
+		"svg": "056d7.svg",
+		"noteID": "radical_91071014-727a-4c15-8724-795c4ac48148"
 	},
 	{
 		"radical": "土",
@@ -1469,7 +1505,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721124",
-		"svg": "0571f.svg"
+		"svg": "0571f.svg",
+		"noteID": "radical_3e92d8f9-b323-447a-903f-900ce9d74180"
 	},
 	{
 		"radical": "士",
@@ -1514,7 +1551,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721125",
-		"svg": "058eb.svg"
+		"svg": "058eb.svg",
+		"noteID": "radical_074d16c4-697f-488a-a807-02c94a431a46"
 	},
 	{
 		"radical": "夂",
@@ -1557,7 +1595,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721126",
-		"svg": "05902.svg"
+		"svg": "05902.svg",
+		"noteID": "radical_abb2e8cf-52c0-4015-b835-fa4d32454325"
 	},
 	{
 		"radical": "夊",
@@ -1592,7 +1631,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721127",
-		"svg": "0590a.svg"
+		"svg": "0590a.svg",
+		"noteID": "radical_ff3ceeb2-ba28-422c-b041-449446510db0"
 	},
 	{
 		"radical": "夕",
@@ -1635,7 +1675,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721128",
-		"svg": "05915.svg"
+		"svg": "05915.svg",
+		"noteID": "radical_3cbcbf47-a016-4673-8238-fc58a3367840"
 	},
 	{
 		"radical": "大",
@@ -1678,7 +1719,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721129",
-		"svg": "05927.svg"
+		"svg": "05927.svg",
+		"noteID": "radical_d688f49c-11d8-4cf3-976e-498d8dad4452"
 	},
 	{
 		"radical": "女",
@@ -1720,7 +1762,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721130",
-		"svg": "05973.svg"
+		"svg": "05973.svg",
+		"noteID": "radical_1edb33f8-4890-40dc-9a53-2bd08fdee3c8"
 	},
 	{
 		"radical": "子",
@@ -1763,7 +1806,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721131",
-		"svg": "05b50.svg"
+		"svg": "05b50.svg",
+		"noteID": "radical_923bb43b-1653-42a7-940b-83cc25052dd2"
 	},
 	{
 		"radical": "宀",
@@ -1807,7 +1851,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721132",
-		"svg": "05b80.svg"
+		"svg": "05b80.svg",
+		"noteID": "radical_f277ae93-6876-47ed-a330-5caab50ab2da"
 	},
 	{
 		"radical": "寸",
@@ -1851,7 +1896,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721133",
-		"svg": "05bf8.svg"
+		"svg": "05bf8.svg",
+		"noteID": "radical_05fe35b2-7217-48b7-b116-a10ae9fea28f"
 	},
 	{
 		"radical": "小",
@@ -1893,7 +1939,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721134",
-		"svg": "05c0f.svg"
+		"svg": "05c0f.svg",
+		"noteID": "radical_76638f49-cd71-42f9-84a0-42b3c54f0949"
 	},
 	{
 		"radical": "⺌",
@@ -1936,7 +1983,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721135",
-		"svg": "02e8c.svg"
+		"svg": "02e8c.svg",
+		"noteID": "radical_7e5a39e4-4ade-4372-bdf4-0b41e614175b"
 	},
 	{
 		"radical": "尢",
@@ -1965,7 +2013,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721136",
-		"svg": "05c22.svg"
+		"svg": "05c22.svg",
+		"noteID": "radical_4df21007-b89f-42b1-a189-dc3ec5b20881"
 	},
 	{
 		"radical": "尸",
@@ -2009,7 +2058,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721137",
-		"svg": "05c38.svg"
+		"svg": "05c38.svg",
+		"noteID": "radical_5f495285-fb2e-47e4-861f-0ad73e146f94"
 	},
 	{
 		"radical": "屮",
@@ -2052,7 +2102,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721138",
-		"svg": "05c6e.svg"
+		"svg": "05c6e.svg",
+		"noteID": "radical_47d61741-fde0-4d60-ba6a-c4bb3a08d4a2"
 	},
 	{
 		"radical": "山",
@@ -2094,7 +2145,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721139",
-		"svg": "05c71.svg"
+		"svg": "05c71.svg",
+		"noteID": "radical_fee7cbab-f4a4-4d8e-9a6b-6a8992c2b786"
 	},
 	{
 		"radical": "巛",
@@ -2135,7 +2187,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721140",
-		"svg": "05ddb.svg"
+		"svg": "05ddb.svg",
+		"noteID": "radical_52a741cf-f044-4f96-a259-6be64ab168a1"
 	},
 	{
 		"radical": "川",
@@ -2177,7 +2230,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721141",
-		"svg": "05ddd.svg"
+		"svg": "05ddd.svg",
+		"noteID": "radical_b63f85c9-31ef-4ab4-a1b2-baa0756a5b78"
 	},
 	{
 		"radical": "工",
@@ -2222,7 +2276,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721142",
-		"svg": "05de5.svg"
+		"svg": "05de5.svg",
+		"noteID": "radical_9001bdb4-b3ea-46a9-9cd8-f882c5aa1e47"
 	},
 	{
 		"radical": "己",
@@ -2265,7 +2320,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721143",
-		"svg": "05df1.svg"
+		"svg": "05df1.svg",
+		"noteID": "radical_9f1846ee-9317-411c-8c40-f04bd5a8f082"
 	},
 	{
 		"radical": "巾",
@@ -2308,7 +2364,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721144",
-		"svg": "05dfe.svg"
+		"svg": "05dfe.svg",
+		"noteID": "radical_e7e58822-c156-49d4-a302-64ca9609d96f"
 	},
 	{
 		"radical": "干",
@@ -2352,7 +2409,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721145",
-		"svg": "05e72.svg"
+		"svg": "05e72.svg",
+		"noteID": "radical_fa266517-caac-45e2-91da-50204a902208"
 	},
 	{
 		"radical": "幺",
@@ -2396,7 +2454,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721146",
-		"svg": "05e7a.svg"
+		"svg": "05e7a.svg",
+		"noteID": "radical_123abb6b-0667-48d0-9f3a-a56378f2bae3"
 	},
 	{
 		"radical": "广",
@@ -2439,7 +2498,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721147",
-		"svg": "05e7f.svg"
+		"svg": "05e7f.svg",
+		"noteID": "radical_441d8828-33c5-476e-a9d7-bbd6b09f2ac9"
 	},
 	{
 		"radical": "廴",
@@ -2481,7 +2541,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721148",
-		"svg": "05ef4.svg"
+		"svg": "05ef4.svg",
+		"noteID": "radical_123d9dae-5d84-495f-8811-4348f75a2787"
 	},
 	{
 		"radical": "廾",
@@ -2524,7 +2585,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721149",
-		"svg": "05efe.svg"
+		"svg": "05efe.svg",
+		"noteID": "radical_0f41571f-7bb2-43c8-83a2-0e8257675efb"
 	},
 	{
 		"radical": "弋",
@@ -2567,7 +2629,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721150",
-		"svg": "05f0b.svg"
+		"svg": "05f0b.svg",
+		"noteID": "radical_7f28f07c-0d04-4814-917d-4b588bd6cc5d"
 	},
 	{
 		"radical": "弓",
@@ -2610,7 +2673,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721151",
-		"svg": "05f13.svg"
+		"svg": "05f13.svg",
+		"noteID": "radical_63df3bd4-d9d4-4fad-95c1-66b98b407514"
 	},
 	{
 		"radical": "彐",
@@ -2653,7 +2717,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721152",
-		"svg": "05f50.svg"
+		"svg": "05f50.svg",
+		"noteID": "radical_eed641ad-6ae2-4e43-a732-f78f96a84d2c"
 	},
 	{
 		"radical": "⺕",
@@ -2696,7 +2761,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721153",
-		"svg": "02e95.svg"
+		"svg": "02e95.svg",
+		"noteID": "radical_b9ca9ef8-1c48-4971-83f7-843c6a803238"
 	},
 	{
 		"radical": "彑",
@@ -2736,7 +2802,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721154",
-		"svg": "05f51.svg"
+		"svg": "05f51.svg",
+		"noteID": "radical_30f91984-bf20-4b85-a961-7e79204b9e72"
 	},
 	{
 		"radical": "彡",
@@ -2780,7 +2847,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721155",
-		"svg": "05f61.svg"
+		"svg": "05f61.svg",
+		"noteID": "radical_c25f233d-6f60-4918-abad-d633b6fc5781"
 	},
 	{
 		"radical": "彳",
@@ -2826,7 +2894,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721156",
-		"svg": "05f73.svg"
+		"svg": "05f73.svg",
+		"noteID": "radical_585f41fa-ca51-407e-a7c5-3b8c1644c714"
 	},
 	{
 		"radical": "艹",
@@ -2869,7 +2938,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721157",
-		"svg": "08279.svg"
+		"svg": "08279.svg",
+		"noteID": "radical_5533eff0-b903-4edb-b190-1e361ce5f9f2"
 	},
 	{
 		"radical": "辶",
@@ -2912,7 +2982,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721158",
-		"svg": "08fb6.svg"
+		"svg": "08fb6.svg",
+		"noteID": "radical_8ab244c9-7d9b-4e8c-aca4-080415665907"
 	},
 	{
 		"radical": "阝",
@@ -2957,7 +3028,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721159",
-		"svg": "0961d.svg"
+		"svg": "0961d.svg",
+		"noteID": "radical_cfbe0f16-015a-48ad-81dd-5fcb046f0b93"
 	},
 	{
 		"radical": "阝",
@@ -3001,7 +3073,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721160",
-		"svg": "0961d.svg"
+		"svg": "0961d.svg",
+		"noteID": "radical_db8936b7-54d6-4b1f-8797-b4a2ec743f62"
 	},
 	{
 		"radical": "𭕄",
@@ -3043,7 +3116,8 @@
 			"strokes::3",
 			"used_in_kanji::4"
 		],
-		"id": "85721161"
+		"id": "85721161",
+		"noteID": "radical_09cf4611-7bf4-4907-be3c-3b05caae32ab"
 	},
 	{
 		"radical": "忄",
@@ -3088,7 +3162,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721162",
-		"svg": "05fc4.svg"
+		"svg": "05fc4.svg",
+		"noteID": "radical_dda57e25-60ce-4e95-9762-5e4a6fefd703"
 	},
 	{
 		"radical": "扌",
@@ -3131,7 +3206,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721163",
-		"svg": "0624c.svg"
+		"svg": "0624c.svg",
+		"noteID": "radical_39f28c19-1076-4567-b571-ff0f8fabd3be"
 	},
 	{
 		"radical": "氵",
@@ -3174,7 +3250,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721164",
-		"svg": "06c35.svg"
+		"svg": "06c35.svg",
+		"noteID": "radical_1e27d89e-3992-458d-9f44-dc0398d66158"
 	},
 	{
 		"radical": "犭",
@@ -3215,7 +3292,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721165",
-		"svg": "072ad.svg"
+		"svg": "072ad.svg",
+		"noteID": "radical_2422696a-745f-4f70-9cbb-7fdb5a840340"
 	},
 	{
 		"radical": "心",
@@ -3259,7 +3337,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721166",
-		"svg": "05fc3.svg"
+		"svg": "05fc3.svg",
+		"noteID": "radical_21c5ecea-2b2f-4b0c-a8fc-36c50107bb6a"
 	},
 	{
 		"radical": "㣺",
@@ -3274,7 +3353,8 @@
 			"strokes::4",
 			"used_in_kanji::0"
 		],
-		"id": "85721167"
+		"id": "85721167",
+		"noteID": "radical_341cf81b-5795-4a92-8255-6e72e2332c08"
 	},
 	{
 		"radical": "戈",
@@ -3318,7 +3398,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721168",
-		"svg": "06208.svg"
+		"svg": "06208.svg",
+		"noteID": "radical_ea5e9893-415e-4951-85fe-590d2c26d183"
 	},
 	{
 		"radical": "戶",
@@ -3331,7 +3412,8 @@
 			"strokes::4",
 			"used_in_kanji::0"
 		],
-		"id": "85721169"
+		"id": "85721169",
+		"noteID": "radical_8aaead9f-d13b-4063-8e43-59ecd19ac9dc"
 	},
 	{
 		"radical": "手",
@@ -3373,7 +3455,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721170",
-		"svg": "0624b.svg"
+		"svg": "0624b.svg",
+		"noteID": "radical_c385f747-2254-4abe-b94a-da9d74b19aa9"
 	},
 	{
 		"radical": "支",
@@ -3416,7 +3499,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721171",
-		"svg": "0652f.svg"
+		"svg": "0652f.svg",
+		"noteID": "radical_b527b858-7c11-4df1-9e92-013d780a5a3d"
 	},
 	{
 		"radical": "攴",
@@ -3450,7 +3534,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721172",
-		"svg": "06534.svg"
+		"svg": "06534.svg",
+		"noteID": "radical_5705f5a6-22cb-4c93-a14d-bfaabc6b3654"
 	},
 	{
 		"radical": "攵",
@@ -3495,7 +3580,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721173",
-		"svg": "06535.svg"
+		"svg": "06535.svg",
+		"noteID": "radical_7dc571b0-287a-40f6-b6f4-063ace03f41a"
 	},
 	{
 		"radical": "文",
@@ -3539,7 +3625,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721174",
-		"svg": "06587.svg"
+		"svg": "06587.svg",
+		"noteID": "radical_672931db-032a-4b18-8b4b-6554b901159b"
 	},
 	{
 		"radical": "斗",
@@ -3584,7 +3671,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721175",
-		"svg": "06597.svg"
+		"svg": "06597.svg",
+		"noteID": "radical_85aeb50f-ba7b-48c4-9de7-5440edc2d0b2"
 	},
 	{
 		"radical": "斤",
@@ -3626,7 +3714,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721176",
-		"svg": "065a4.svg"
+		"svg": "065a4.svg",
+		"noteID": "radical_3fa0d7f3-72da-46cc-ab1c-00078c0e8e86"
 	},
 	{
 		"radical": "方",
@@ -3670,7 +3759,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721177",
-		"svg": "065b9.svg"
+		"svg": "065b9.svg",
+		"noteID": "radical_1d47fdfb-c820-4ebb-a1d2-2ca8df295490"
 	},
 	{
 		"radical": "无",
@@ -3685,7 +3775,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721178",
-		"svg": "065e0.svg"
+		"svg": "065e0.svg",
+		"noteID": "radical_3d689a76-6c66-48f8-a9a3-a44263a104da"
 	},
 	{
 		"radical": "日",
@@ -3729,7 +3820,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721179",
-		"svg": "065e5.svg"
+		"svg": "065e5.svg",
+		"noteID": "radical_51518e11-44dc-4ef5-a24b-f1c66804b8b7"
 	},
 	{
 		"radical": "曰",
@@ -3744,7 +3836,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721180",
-		"svg": "066f0.svg"
+		"svg": "066f0.svg",
+		"noteID": "radical_73cd2b35-4152-49ef-a7a2-7c78b483679d"
 	},
 	{
 		"radical": "月",
@@ -3788,7 +3881,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721181",
-		"svg": "06708.svg"
+		"svg": "06708.svg",
+		"noteID": "radical_8479b20b-1007-43f0-aef0-07f8c1d874ed"
 	},
 	{
 		"radical": "月",
@@ -3832,7 +3926,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721182",
-		"svg": "06708.svg"
+		"svg": "06708.svg",
+		"noteID": "radical_4dda66b4-6086-4cbc-9a90-f3b679aaae4b"
 	},
 	{
 		"radical": "木",
@@ -3875,7 +3970,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721183",
-		"svg": "06728.svg"
+		"svg": "06728.svg",
+		"noteID": "radical_35d5bc77-b48e-433c-a854-1c63a22db1b4"
 	},
 	{
 		"radical": "欠",
@@ -3919,7 +4015,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721184",
-		"svg": "06b20.svg"
+		"svg": "06b20.svg",
+		"noteID": "radical_e1266ee9-0a72-4e15-b153-0195de8a269e"
 	},
 	{
 		"radical": "止",
@@ -3962,7 +4059,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721185",
-		"svg": "06b62.svg"
+		"svg": "06b62.svg",
+		"noteID": "radical_51168838-4785-4630-bbb8-bdc989d419f2"
 	},
 	{
 		"radical": "歹",
@@ -4006,7 +4104,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721186",
-		"svg": "06b79.svg"
+		"svg": "06b79.svg",
+		"noteID": "radical_65c4658f-0f71-435a-9414-26d9dbbb298f"
 	},
 	{
 		"radical": "殳",
@@ -4050,7 +4149,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721187",
-		"svg": "06bb3.svg"
+		"svg": "06bb3.svg",
+		"noteID": "radical_7d4ce77c-da4b-4a49-972e-457b34f7a0d9"
 	},
 	{
 		"radical": "毋",
@@ -4080,7 +4180,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721188",
-		"svg": "06bcb.svg"
+		"svg": "06bcb.svg",
+		"noteID": "radical_6850a775-561b-45b3-ac84-1e1216ec46bf"
 	},
 	{
 		"radical": "比",
@@ -4123,7 +4224,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721189",
-		"svg": "06bd4.svg"
+		"svg": "06bd4.svg",
+		"noteID": "radical_fafc719b-e4ad-4297-b1f5-5c428187d5e5"
 	},
 	{
 		"radical": "毛",
@@ -4161,7 +4263,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721190",
-		"svg": "06bdb.svg"
+		"svg": "06bdb.svg",
+		"noteID": "radical_993aebca-59cb-4bf1-bfc4-d30fc5ba2b87"
 	},
 	{
 		"radical": "氏",
@@ -4205,7 +4308,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721191",
-		"svg": "06c0f.svg"
+		"svg": "06c0f.svg",
+		"noteID": "radical_cf7ad07c-fdb6-4d33-a91c-f65c236de99d"
 	},
 	{
 		"radical": "气",
@@ -4249,7 +4353,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721192",
-		"svg": "06c14.svg"
+		"svg": "06c14.svg",
+		"noteID": "radical_3a5bd459-69a9-44a2-8a58-6962841a92ba"
 	},
 	{
 		"radical": "水",
@@ -4291,7 +4396,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721193",
-		"svg": "06c34.svg"
+		"svg": "06c34.svg",
+		"noteID": "radical_3bc7e043-0c09-4a84-a4f5-cdb4ca9e58af"
 	},
 	{
 		"radical": "火",
@@ -4333,7 +4439,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721194",
-		"svg": "0706b.svg"
+		"svg": "0706b.svg",
+		"noteID": "radical_6591fdb3-21ed-49ed-8dc2-2199e0fd4454"
 	},
 	{
 		"radical": "灬",
@@ -4376,7 +4483,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721195",
-		"svg": "0706c.svg"
+		"svg": "0706c.svg",
+		"noteID": "radical_183e0cf9-f3d3-48e0-8981-a6a8f3c9a2a7"
 	},
 	{
 		"radical": "爪",
@@ -4411,7 +4519,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721196",
-		"svg": "0722a.svg"
+		"svg": "0722a.svg",
+		"noteID": "radical_113aff42-b2fb-46ab-8b51-8f54933ee980"
 	},
 	{
 		"radical": "爫",
@@ -4454,7 +4563,8 @@
 			"strokes::4",
 			"used_in_kanji::4"
 		],
-		"id": "85721197"
+		"id": "85721197",
+		"noteID": "radical_dc7080a5-cd5b-4de0-b96d-40c283f6bcd5"
 	},
 	{
 		"radical": "爫",
@@ -4497,7 +4607,8 @@
 			"strokes::4",
 			"used_in_kanji::4"
 		],
-		"id": "85721198"
+		"id": "85721198",
+		"noteID": "radical_b209cfaf-e1fa-4e2a-b00f-a490bc0b3dae"
 	},
 	{
 		"radical": "父",
@@ -4539,7 +4650,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721199",
-		"svg": "07236.svg"
+		"svg": "07236.svg",
+		"noteID": "radical_a51741c2-e448-499a-af99-ec90ba71ec22"
 	},
 	{
 		"radical": "爻",
@@ -4580,7 +4692,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721200",
-		"svg": "0723b.svg"
+		"svg": "0723b.svg",
+		"noteID": "radical_2d62f487-f55b-42cc-9970-1ccf51ec24eb"
 	},
 	{
 		"radical": "爿",
@@ -4614,7 +4727,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721201",
-		"svg": "0723f.svg"
+		"svg": "0723f.svg",
+		"noteID": "radical_56abc08b-6f77-437d-a3a9-69a3ea4ab828"
 	},
 	{
 		"radical": "片",
@@ -4657,7 +4771,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721202",
-		"svg": "07247.svg"
+		"svg": "07247.svg",
+		"noteID": "radical_18712fdf-492f-4c11-99c0-a2c92b97373b"
 	},
 	{
 		"radical": "牛",
@@ -4699,7 +4814,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721203",
-		"svg": "0725b.svg"
+		"svg": "0725b.svg",
+		"noteID": "radical_85da6f56-043b-486d-a687-2bfb0f4cb281"
 	},
 	{
 		"radical": "犬",
@@ -4741,7 +4857,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721204",
-		"svg": "072ac.svg"
+		"svg": "072ac.svg",
+		"noteID": "radical_03cdc456-a017-4c13-b5a9-f8c796f7e64f"
 	},
 	{
 		"radical": "礻",
@@ -4785,7 +4902,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721205",
-		"svg": "0793b.svg"
+		"svg": "0793b.svg",
+		"noteID": "radical_bfabdc39-30fb-4ddf-b214-029b4eb67da7"
 	},
 	{
 		"radical": "㓁",
@@ -4799,7 +4917,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721206",
-		"svg": "034c1.svg"
+		"svg": "034c1.svg",
+		"noteID": "radical_16cd6c7e-81bf-4172-a38e-89d62f4d087c"
 	},
 	{
 		"radical": "耂",
@@ -4843,7 +4962,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721207",
-		"svg": "08002.svg"
+		"svg": "08002.svg",
+		"noteID": "radical_c33a77ad-7cdf-42f2-b880-ae83469eef90"
 	},
 	{
 		"radical": "玄",
@@ -4886,7 +5006,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721208",
-		"svg": "07384.svg"
+		"svg": "07384.svg",
+		"noteID": "radical_b6d3fc05-9397-4144-b34f-ecb4cc9082c1"
 	},
 	{
 		"radical": "玉",
@@ -4929,7 +5050,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721209",
-		"svg": "07389.svg"
+		"svg": "07389.svg",
+		"noteID": "radical_2a497cff-1182-4f2b-9c08-58540d9a6465"
 	},
 	{
 		"radical": "瓦",
@@ -4969,7 +5091,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721210",
-		"svg": "074e6.svg"
+		"svg": "074e6.svg",
+		"noteID": "radical_b8fc624c-6f14-47c2-8d1b-2ccd2d78663c"
 	},
 	{
 		"radical": "甘",
@@ -5009,7 +5132,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721211",
-		"svg": "07518.svg"
+		"svg": "07518.svg",
+		"noteID": "radical_a3516821-9382-49bb-b0b7-b09ad0b11b98"
 	},
 	{
 		"radical": "生",
@@ -5054,7 +5178,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721212",
-		"svg": "0751f.svg"
+		"svg": "0751f.svg",
+		"noteID": "radical_a48b38cd-b2bd-438d-a412-1951c0b36f2e"
 	},
 	{
 		"radical": "用",
@@ -5094,7 +5219,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721213",
-		"svg": "07528.svg"
+		"svg": "07528.svg",
+		"noteID": "radical_d70e2246-3806-441d-ad6b-8e32fa136530"
 	},
 	{
 		"radical": "田",
@@ -5137,7 +5263,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721214",
-		"svg": "07530.svg"
+		"svg": "07530.svg",
+		"noteID": "radical_12fc798f-59d7-4c50-883a-7bdce5336bb1"
 	},
 	{
 		"radical": "疋",
@@ -5180,7 +5307,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721215",
-		"svg": "0758b.svg"
+		"svg": "0758b.svg",
+		"noteID": "radical_aca200e1-b587-4c43-b6ca-abdc2c2a735b"
 	},
 	{
 		"radical": "𤴔",
@@ -5193,7 +5321,8 @@
 			"strokes::5",
 			"used_in_kanji::0"
 		],
-		"id": "85721216"
+		"id": "85721216",
+		"noteID": "radical_c5f8ba75-0399-4664-8328-57b864578ab4"
 	},
 	{
 		"radical": "疒",
@@ -5235,7 +5364,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721217",
-		"svg": "07592.svg"
+		"svg": "07592.svg",
+		"noteID": "radical_82b9010a-2d4c-4a12-8ae6-9b5fc8d549f1"
 	},
 	{
 		"radical": "癶",
@@ -5277,7 +5407,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721218",
-		"svg": "07676.svg"
+		"svg": "07676.svg",
+		"noteID": "radical_b8a3c99e-db08-4720-bcb3-e88ffdff433e"
 	},
 	{
 		"radical": "白",
@@ -5319,7 +5450,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721219",
-		"svg": "0767d.svg"
+		"svg": "0767d.svg",
+		"noteID": "radical_3a377617-89d2-4a16-aacc-ca3787a9b55b"
 	},
 	{
 		"radical": "皮",
@@ -5363,7 +5495,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721220",
-		"svg": "076ae.svg"
+		"svg": "076ae.svg",
+		"noteID": "radical_48247563-551a-4cec-96f8-9455f15be3e8"
 	},
 	{
 		"radical": "皿",
@@ -5407,7 +5540,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721221",
-		"svg": "076bf.svg"
+		"svg": "076bf.svg",
+		"noteID": "radical_09bf795a-0ad8-4537-a19f-6b8d2359b0ef"
 	},
 	{
 		"radical": "目",
@@ -5449,7 +5583,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721222",
-		"svg": "076ee.svg"
+		"svg": "076ee.svg",
+		"noteID": "radical_c9cb34d5-426f-4a4e-913a-ac02bbe46e02"
 	},
 	{
 		"radical": "矛",
@@ -5488,7 +5623,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721223",
-		"svg": "077db.svg"
+		"svg": "077db.svg",
+		"noteID": "radical_9cf0f9dc-8b57-4d93-9ca1-5230cfae03f6"
 	},
 	{
 		"radical": "矢",
@@ -5530,7 +5666,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721224",
-		"svg": "077e2.svg"
+		"svg": "077e2.svg",
+		"noteID": "radical_433ef6f6-09f9-4df0-aca2-5c83467ac464"
 	},
 	{
 		"radical": "石",
@@ -5572,7 +5709,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721225",
-		"svg": "077f3.svg"
+		"svg": "077f3.svg",
+		"noteID": "radical_027e7e64-4100-43f8-a223-5082dfc968e7"
 	},
 	{
 		"radical": "示",
@@ -5617,7 +5755,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721226",
-		"svg": "0793a.svg"
+		"svg": "0793a.svg",
+		"noteID": "radical_dc99b13b-4630-4361-8e65-49501e8d4b45"
 	},
 	{
 		"radical": "禸",
@@ -5632,7 +5771,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721227",
-		"svg": "079b8.svg"
+		"svg": "079b8.svg",
+		"noteID": "radical_4054c1be-5da2-475b-8515-b7972b409d3a"
 	},
 	{
 		"radical": "禾",
@@ -5675,7 +5815,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721228",
-		"svg": "079be.svg"
+		"svg": "079be.svg",
+		"noteID": "radical_3a5e8138-7ca0-4f98-9ab3-79203a20b778"
 	},
 	{
 		"radical": "穴",
@@ -5718,7 +5859,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721229",
-		"svg": "07a74.svg"
+		"svg": "07a74.svg",
+		"noteID": "radical_67c5efdf-1531-436d-b26b-09b19c388647"
 	},
 	{
 		"radical": "立",
@@ -5761,7 +5903,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721230",
-		"svg": "07acb.svg"
+		"svg": "07acb.svg",
+		"noteID": "radical_cdef6f08-253d-4401-9545-0df2bdf50fd4"
 	},
 	{
 		"radical": "氺",
@@ -5804,7 +5947,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721231",
-		"svg": "06c3a.svg"
+		"svg": "06c3a.svg",
+		"noteID": "radical_1ea1a951-2556-4ced-b930-ad7df7615d2b"
 	},
 	{
 		"radical": "罒",
@@ -5847,7 +5991,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721232",
-		"svg": "07f52.svg"
+		"svg": "07f52.svg",
+		"noteID": "radical_410c4ca9-b7af-4f67-920e-da67260d5b0e"
 	},
 	{
 		"radical": "𦉰",
@@ -5860,7 +6005,8 @@
 			"strokes::5",
 			"used_in_kanji::0"
 		],
-		"id": "85721233"
+		"id": "85721233",
+		"noteID": "radical_936a8f73-1233-45be-8278-2c6c339495d9"
 	},
 	{
 		"radical": "衤",
@@ -5903,7 +6049,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721234",
-		"svg": "08864.svg"
+		"svg": "08864.svg",
+		"noteID": "radical_f370ec1b-1e32-4ae3-8f1a-7306d4433b1d"
 	},
 	{
 		"radical": "旡",
@@ -5935,7 +6082,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721235",
-		"svg": "065e1.svg"
+		"svg": "065e1.svg",
+		"noteID": "radical_4966102d-78dc-4e5e-8d41-69843a14a798"
 	},
 	{
 		"radical": "竹",
@@ -5977,7 +6125,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721236",
-		"svg": "07af9.svg"
+		"svg": "07af9.svg",
+		"noteID": "radical_d522b9ca-ee3f-46e7-9733-128adcc0384e"
 	},
 	{
 		"radical": "𥫗",
@@ -5990,7 +6139,8 @@
 			"strokes::6",
 			"used_in_kanji::0"
 		],
-		"id": "85721237"
+		"id": "85721237",
+		"noteID": "radical_7cef3025-fab6-4382-a66c-fc957607dede"
 	},
 	{
 		"radical": "米",
@@ -6032,7 +6182,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721238",
-		"svg": "07c73.svg"
+		"svg": "07c73.svg",
+		"noteID": "radical_8e432836-13e7-40ee-9c4f-0526b1752240"
 	},
 	{
 		"radical": "糸",
@@ -6074,7 +6225,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721239",
-		"svg": "07cf8.svg"
+		"svg": "07cf8.svg",
+		"noteID": "radical_545d299f-1e02-4ce9-8e7d-79bf1f84d299"
 	},
 	{
 		"radical": "缶",
@@ -6115,7 +6267,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721240",
-		"svg": "07f36.svg"
+		"svg": "07f36.svg",
+		"noteID": "radical_5b282c33-8132-4037-b7fc-bc287d8692a9"
 	},
 	{
 		"radical": "网",
@@ -6146,7 +6299,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721241",
-		"svg": "07f51.svg"
+		"svg": "07f51.svg",
+		"noteID": "radical_3b2829e0-bf6b-48b0-9f3d-5300e8539baa"
 	},
 	{
 		"radical": "羊",
@@ -6188,7 +6342,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721242",
-		"svg": "07f8a.svg"
+		"svg": "07f8a.svg",
+		"noteID": "radical_15fe9448-20c0-4faa-83b3-021a74d5ee02"
 	},
 	{
 		"radical": "𦍌",
@@ -6230,7 +6385,8 @@
 			"strokes::6",
 			"used_in_kanji::4"
 		],
-		"id": "85721243"
+		"id": "85721243",
+		"noteID": "radical_f0c97cc2-fdfc-4b27-8c80-a01bfca9ad91"
 	},
 	{
 		"radical": "羽",
@@ -6274,7 +6430,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721244",
-		"svg": "07fbd.svg"
+		"svg": "07fbd.svg",
+		"noteID": "radical_b5589ce3-bf89-401a-b9c3-49f8f3a9f106"
 	},
 	{
 		"radical": "羽",
@@ -6318,7 +6475,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721245",
-		"svg": "07fbd.svg"
+		"svg": "07fbd.svg",
+		"noteID": "radical_4b8f2ee7-c2d7-4d25-812d-0bf967e4a0b6"
 	},
 	{
 		"radical": "老",
@@ -6354,7 +6512,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721246",
-		"svg": "08001.svg"
+		"svg": "08001.svg",
+		"noteID": "radical_b8865be9-107c-4cf6-aeee-02887b297947"
 	},
 	{
 		"radical": "而",
@@ -6389,7 +6548,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721247",
-		"svg": "0800c.svg"
+		"svg": "0800c.svg",
+		"noteID": "radical_0be6a04e-03ea-4487-b49b-d3a789651b99"
 	},
 	{
 		"radical": "耒",
@@ -6430,7 +6590,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721248",
-		"svg": "08012.svg"
+		"svg": "08012.svg",
+		"noteID": "radical_72e322a3-d9bf-4818-b90b-d5a10de44ae9"
 	},
 	{
 		"radical": "耳",
@@ -6472,7 +6633,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721249",
-		"svg": "08033.svg"
+		"svg": "08033.svg",
+		"noteID": "radical_8cd37a51-8145-4b98-8401-a7814ccb6340"
 	},
 	{
 		"radical": "聿",
@@ -6513,7 +6675,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721250",
-		"svg": "0807f.svg"
+		"svg": "0807f.svg",
+		"noteID": "radical_893a8fa3-08e4-433e-954d-bb10ebb345e9"
 	},
 	{
 		"radical": "肉",
@@ -6544,7 +6707,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721251",
-		"svg": "08089.svg"
+		"svg": "08089.svg",
+		"noteID": "radical_3d6a39bd-190e-4a4f-90b6-02e755760997"
 	},
 	{
 		"radical": "臣",
@@ -6586,7 +6750,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721252",
-		"svg": "081e3.svg"
+		"svg": "081e3.svg",
+		"noteID": "radical_753c5f27-316d-459a-b485-edf8dcbd4178"
 	},
 	{
 		"radical": "自",
@@ -6628,7 +6793,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721253",
-		"svg": "081ea.svg"
+		"svg": "081ea.svg",
+		"noteID": "radical_075d524e-638b-4f05-93f5-7d90fb46085e"
 	},
 	{
 		"radical": "至",
@@ -6672,7 +6838,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721254",
-		"svg": "081f3.svg"
+		"svg": "081f3.svg",
+		"noteID": "radical_106e8f1b-4eb6-4df6-9e75-f41518322ff5"
 	},
 	{
 		"radical": "臼",
@@ -6714,7 +6881,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721255",
-		"svg": "081fc.svg"
+		"svg": "081fc.svg",
+		"noteID": "radical_3ee9d4ac-8581-4395-a6a5-09e2f61c931e"
 	},
 	{
 		"radical": "舌",
@@ -6756,7 +6924,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721256",
-		"svg": "0820c.svg"
+		"svg": "0820c.svg",
+		"noteID": "radical_81c25c5c-bb95-4f22-a558-225379708db1"
 	},
 	{
 		"radical": "舛",
@@ -6800,7 +6969,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721257",
-		"svg": "0821b.svg"
+		"svg": "0821b.svg",
+		"noteID": "radical_18ec0df5-d630-4815-873f-c9ec061cb88d"
 	},
 	{
 		"radical": "舟",
@@ -6841,7 +7011,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721258",
-		"svg": "0821f.svg"
+		"svg": "0821f.svg",
+		"noteID": "radical_1c820151-9219-42af-8097-7e7a7c1ae10a"
 	},
 	{
 		"radical": "艮",
@@ -6884,7 +7055,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721259",
-		"svg": "0826e.svg"
+		"svg": "0826e.svg",
+		"noteID": "radical_e8b59e40-13df-4596-8b4e-2af3950536e4"
 	},
 	{
 		"radical": "色",
@@ -6920,7 +7092,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721260",
-		"svg": "08272.svg"
+		"svg": "08272.svg",
+		"noteID": "radical_f4fdfe6b-0933-4553-bfed-6a3abe56a2ff"
 	},
 	{
 		"radical": "艸",
@@ -6936,7 +7109,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721261",
-		"svg": "08278.svg"
+		"svg": "08278.svg",
+		"noteID": "radical_1bb14116-2df8-4c22-9a1f-9ffcdde9494f"
 	},
 	{
 		"radical": "虍",
@@ -6977,7 +7151,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721262",
-		"svg": "0864d.svg"
+		"svg": "0864d.svg",
+		"noteID": "radical_b26679ae-eb68-4a6c-8d3c-1f3535605109"
 	},
 	{
 		"radical": "虫",
@@ -7021,7 +7196,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721263",
-		"svg": "0866b.svg"
+		"svg": "0866b.svg",
+		"noteID": "radical_5e9a8cb4-2a6e-4b43-9f19-ed36160133ff"
 	},
 	{
 		"radical": "血",
@@ -7063,7 +7239,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721264",
-		"svg": "08840.svg"
+		"svg": "08840.svg",
+		"noteID": "radical_997616fd-7d4d-49de-ac0d-9a4c4c2e5891"
 	},
 	{
 		"radical": "行",
@@ -7094,7 +7271,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721265",
-		"svg": "0884c.svg"
+		"svg": "0884c.svg",
+		"noteID": "radical_595e84b1-c028-4183-af59-e5e61ec95004"
 	},
 	{
 		"radical": "衣",
@@ -7135,7 +7313,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721266",
-		"svg": "08863.svg"
+		"svg": "08863.svg",
+		"noteID": "radical_32f1acc0-8caf-4b2b-a9e3-4b6031c20938"
 	},
 	{
 		"radical": "襾",
@@ -7177,7 +7356,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721267",
-		"svg": "0897e.svg"
+		"svg": "0897e.svg",
+		"noteID": "radical_bd36d484-9595-4205-ab02-f3d830b733a3"
 	},
 	{
 		"radical": "覀",
@@ -7220,7 +7400,8 @@
 			"strokes::6",
 			"used_in_kanji::4"
 		],
-		"id": "85721268"
+		"id": "85721268",
+		"noteID": "radical_62c64bd6-3223-46fd-99c4-ac946c2c81cc"
 	},
 	{
 		"radical": "瓜",
@@ -7260,7 +7441,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721269",
-		"svg": "074dc.svg"
+		"svg": "074dc.svg",
+		"noteID": "radical_eec6a6be-df63-420a-bf39-a18d8869fc2e"
 	},
 	{
 		"radical": "見",
@@ -7303,7 +7485,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721270",
-		"svg": "0898b.svg"
+		"svg": "0898b.svg",
+		"noteID": "radical_70c3f7a7-614e-473a-9b8e-1f48ed04aafd"
 	},
 	{
 		"radical": "角",
@@ -7344,7 +7527,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721271",
-		"svg": "089d2.svg"
+		"svg": "089d2.svg",
+		"noteID": "radical_e9e16836-664c-488c-b879-a2e60649a489"
 	},
 	{
 		"radical": "言",
@@ -7388,7 +7572,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721272",
-		"svg": "08a00.svg"
+		"svg": "08a00.svg",
+		"noteID": "radical_afbb28ed-88ce-489f-9f6c-fdd82b049f54"
 	},
 	{
 		"radical": "谷",
@@ -7430,7 +7615,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721273",
-		"svg": "08c37.svg"
+		"svg": "08c37.svg",
+		"noteID": "radical_63fe7ce8-f55e-43ae-b8c8-de85b4167f85"
 	},
 	{
 		"radical": "豆",
@@ -7470,7 +7656,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721274",
-		"svg": "08c46.svg"
+		"svg": "08c46.svg",
+		"noteID": "radical_6f0d5553-7678-40e6-8d21-fa83b0685454"
 	},
 	{
 		"radical": "豕",
@@ -7513,7 +7700,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721275",
-		"svg": "08c55.svg"
+		"svg": "08c55.svg",
+		"noteID": "radical_3489a071-21f7-40d2-bac0-debe8e07d3b9"
 	},
 	{
 		"radical": "豸",
@@ -7553,7 +7741,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721276",
-		"svg": "08c78.svg"
+		"svg": "08c78.svg",
+		"noteID": "radical_713712a5-5d95-4557-90ec-48cd58932eef"
 	},
 	{
 		"radical": "貝",
@@ -7598,7 +7787,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721277",
-		"svg": "08c9d.svg"
+		"svg": "08c9d.svg",
+		"noteID": "radical_61ed7a91-5718-431f-8b74-0b928ac7c0da"
 	},
 	{
 		"radical": "赤",
@@ -7637,7 +7827,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721278",
-		"svg": "08d64.svg"
+		"svg": "08d64.svg",
+		"noteID": "radical_6d57d544-dd3b-49d0-9687-b71e17482fd7"
 	},
 	{
 		"radical": "走",
@@ -7680,7 +7871,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721279",
-		"svg": "08d70.svg"
+		"svg": "08d70.svg",
+		"noteID": "radical_66d90bd0-55e8-4c64-8ef7-cfb4f5f11afc"
 	},
 	{
 		"radical": "足",
@@ -7723,7 +7915,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721280",
-		"svg": "08db3.svg"
+		"svg": "08db3.svg",
+		"noteID": "radical_2d69ab13-4f7a-4f40-adc4-d6711c8931da"
 	},
 	{
 		"radical": "𧾷",
@@ -7764,7 +7957,8 @@
 			"strokes::7",
 			"used_in_kanji::4"
 		],
-		"id": "85721281"
+		"id": "85721281",
+		"noteID": "radical_227e899f-ec91-4297-9c49-ac4667de4564"
 	},
 	{
 		"radical": "身",
@@ -7807,7 +8001,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721282",
-		"svg": "08eab.svg"
+		"svg": "08eab.svg",
+		"noteID": "radical_30a1f8be-73c5-4258-91c2-4310fd5f5a9d"
 	},
 	{
 		"radical": "車",
@@ -7851,7 +8046,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721283",
-		"svg": "08eca.svg"
+		"svg": "08eca.svg",
+		"noteID": "radical_c10822b9-ff01-448c-8cde-b4219f21433f"
 	},
 	{
 		"radical": "辛",
@@ -7894,7 +8090,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721284",
-		"svg": "08f9b.svg"
+		"svg": "08f9b.svg",
+		"noteID": "radical_a635f767-b5ec-42d0-8762-d3be144ceb84"
 	},
 	{
 		"radical": "辰",
@@ -7938,7 +8135,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721285",
-		"svg": "08fb0.svg"
+		"svg": "08fb0.svg",
+		"noteID": "radical_b12bdb1a-d9f2-4cc7-9247-13f8d37a81c5"
 	},
 	{
 		"radical": "辵",
@@ -7953,7 +8151,8 @@
 			"strokes::7",
 			"used_in_kanji::0"
 		],
-		"id": "85721286"
+		"id": "85721286",
+		"noteID": "radical_8593bfc5-a767-4f09-a16e-4abaabe14c3f"
 	},
 	{
 		"radical": "邑",
@@ -7988,7 +8187,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721287",
-		"svg": "09091.svg"
+		"svg": "09091.svg",
+		"noteID": "radical_dcefdd16-4d28-466d-bdf6-f7e89e60a509"
 	},
 	{
 		"radical": "酉",
@@ -8030,7 +8230,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721288",
-		"svg": "09149.svg"
+		"svg": "09149.svg",
+		"noteID": "radical_5f5e85e6-9ce6-440b-b38e-8b190b84b148"
 	},
 	{
 		"radical": "釆",
@@ -8073,7 +8274,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721289",
-		"svg": "091c6.svg"
+		"svg": "091c6.svg",
+		"noteID": "radical_7a4f5e61-2c1e-4e3e-8740-5038d3372f58"
 	},
 	{
 		"radical": "里",
@@ -8117,7 +8319,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721290",
-		"svg": "091cc.svg"
+		"svg": "091cc.svg",
+		"noteID": "radical_798aafcf-4a7b-4d1e-b82c-e8dfba0dc66c"
 	},
 	{
 		"radical": "臣",
@@ -8159,7 +8362,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721291",
-		"svg": "081e3.svg"
+		"svg": "081e3.svg",
+		"noteID": "radical_9dcd89f0-2d8d-4798-9aa3-70d418ce4a2e"
 	},
 	{
 		"radical": "麦",
@@ -8193,7 +8397,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721292",
-		"svg": "09ea6.svg"
+		"svg": "09ea6.svg",
+		"noteID": "radical_8b607143-edff-4936-8398-c89e8cc4a7c1"
 	},
 	{
 		"radical": "金",
@@ -8237,7 +8442,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721293",
-		"svg": "091d1.svg"
+		"svg": "091d1.svg",
+		"noteID": "radical_ae753734-88b1-4c9e-a4ea-af985b71e969"
 	},
 	{
 		"radical": "長",
@@ -8276,7 +8482,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721294",
-		"svg": "09577.svg"
+		"svg": "09577.svg",
+		"noteID": "radical_ac2a64d8-3147-4c51-b9d9-c08a70b92039"
 	},
 	{
 		"radical": "門",
@@ -8319,7 +8526,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721295",
-		"svg": "09580.svg"
+		"svg": "09580.svg",
+		"noteID": "radical_4555fe40-bcc5-4f44-8a1e-670545a5c115"
 	},
 	{
 		"radical": "阜",
@@ -8342,7 +8550,8 @@
 			"used_in_kanji::1"
 		],
 		"id": "85721296",
-		"svg": "0961c.svg"
+		"svg": "0961c.svg",
+		"noteID": "radical_faf96f05-9e46-481c-96cf-e995e67a0ef7"
 	},
 	{
 		"radical": "隶",
@@ -8357,7 +8566,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721297",
-		"svg": "096b6.svg"
+		"svg": "096b6.svg",
+		"noteID": "radical_a7067624-2cda-4e0c-9099-d4d76016ecf2"
 	},
 	{
 		"radical": "隹",
@@ -8400,7 +8610,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721298",
-		"svg": "096b9.svg"
+		"svg": "096b9.svg",
+		"noteID": "radical_a49564bc-d591-4853-818b-c4d89a1d6594"
 	},
 	{
 		"radical": "雨",
@@ -8442,7 +8653,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721299",
-		"svg": "096e8.svg"
+		"svg": "096e8.svg",
+		"noteID": "radical_af62c9e5-7325-4597-adc4-fdeff200d57e"
 	},
 	{
 		"radical": "雨",
@@ -8484,7 +8696,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721300",
-		"svg": "096e8.svg"
+		"svg": "096e8.svg",
+		"noteID": "radical_59cfcbe4-bd6a-44d0-9b67-44202d7e5807"
 	},
 	{
 		"radical": "靑",
@@ -8498,7 +8711,8 @@
 			"strokes::8",
 			"used_in_kanji::0"
 		],
-		"id": "85721301"
+		"id": "85721301",
+		"noteID": "radical_965cf65e-be95-481e-87e4-adf63e3482d6"
 	},
 	{
 		"radical": "青",
@@ -8541,7 +8755,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721302",
-		"svg": "09752.svg"
+		"svg": "09752.svg",
+		"noteID": "radical_813e3b18-9fa2-42ca-b3fd-795fc4415bd4"
 	},
 	{
 		"radical": "非",
@@ -8585,7 +8800,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721303",
-		"svg": "0975e.svg"
+		"svg": "0975e.svg",
+		"noteID": "radical_2def34b8-1f38-40bb-bd84-696641d7173a"
 	},
 	{
 		"radical": "飠",
@@ -8627,7 +8843,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721304",
-		"svg": "098e0.svg"
+		"svg": "098e0.svg",
+		"noteID": "radical_c5c3066b-5f34-4c00-a4cd-126abc7bb889"
 	},
 	{
 		"radical": "斉",
@@ -8658,7 +8875,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721305",
-		"svg": "06589.svg"
+		"svg": "06589.svg",
+		"noteID": "radical_7f611801-1508-4729-b755-b8d308e32570"
 	},
 	{
 		"radical": "面",
@@ -8701,7 +8919,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721306",
-		"svg": "09762.svg"
+		"svg": "09762.svg",
+		"noteID": "radical_7b9cfceb-6190-4c85-863b-5b7e4d6cce45"
 	},
 	{
 		"radical": "革",
@@ -8741,7 +8960,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721307",
-		"svg": "09769.svg"
+		"svg": "09769.svg",
+		"noteID": "radical_d5db084c-ecdc-4bc6-80bb-d0848773b9af"
 	},
 	{
 		"radical": "韭",
@@ -8782,7 +9002,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721308",
-		"svg": "097ed.svg"
+		"svg": "097ed.svg",
+		"noteID": "radical_e40def01-bea9-45bf-8b70-39b697735008"
 	},
 	{
 		"radical": "音",
@@ -8825,7 +9046,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721309",
-		"svg": "097f3.svg"
+		"svg": "097f3.svg",
+		"noteID": "radical_02097b5f-4587-4ebd-a897-87435aee2491"
 	},
 	{
 		"radical": "頁",
@@ -8868,7 +9090,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721310",
-		"svg": "09801.svg"
+		"svg": "09801.svg",
+		"noteID": "radical_9f6f9988-48cf-4975-b54b-6f5aa8d2ae89"
 	},
 	{
 		"radical": "風",
@@ -8910,7 +9133,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721311",
-		"svg": "098a8.svg"
+		"svg": "098a8.svg",
+		"noteID": "radical_f1714415-6d38-458b-b56e-220fe349f169"
 	},
 	{
 		"radical": "飛",
@@ -8933,7 +9157,8 @@
 			"used_in_kanji::1"
 		],
 		"id": "85721312",
-		"svg": "098db.svg"
+		"svg": "098db.svg",
+		"noteID": "radical_8b6a1266-8ea4-4ca4-b7f5-6b43f358d39d"
 	},
 	{
 		"radical": "食",
@@ -8977,7 +9202,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721313",
-		"svg": "098df.svg"
+		"svg": "098df.svg",
+		"noteID": "radical_d316c052-0487-4b1f-90d2-350292aa1645"
 	},
 	{
 		"radical": "首",
@@ -9009,7 +9235,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721314",
-		"svg": "09996.svg"
+		"svg": "09996.svg",
+		"noteID": "radical_837f12bf-1f4b-4c66-b11c-4b29a1667d1d"
 	},
 	{
 		"radical": "香",
@@ -9035,7 +9262,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721315",
-		"svg": "09999.svg"
+		"svg": "09999.svg",
+		"noteID": "radical_0e6fde09-b9b3-48db-9328-ec7a392b0b39"
 	},
 	{
 		"radical": "馬",
@@ -9075,7 +9303,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721316",
-		"svg": "099ac.svg"
+		"svg": "099ac.svg",
+		"noteID": "radical_f4fd522f-0f96-46e9-b94e-6ecea4095a59"
 	},
 	{
 		"radical": "骨",
@@ -9115,7 +9344,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721317",
-		"svg": "09aa8.svg"
+		"svg": "09aa8.svg",
+		"noteID": "radical_906c4742-f2c8-419b-9616-02b99b913e1b"
 	},
 	{
 		"radical": "高",
@@ -9157,7 +9387,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721318",
-		"svg": "09ad8.svg"
+		"svg": "09ad8.svg",
+		"noteID": "radical_1a4ac66d-7231-404c-a42a-5a8323a79c81"
 	},
 	{
 		"radical": "髟",
@@ -9197,7 +9428,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721319",
-		"svg": "09adf.svg"
+		"svg": "09adf.svg",
+		"noteID": "radical_d244b8ed-c717-42bc-adba-88c777fa954d"
 	},
 	{
 		"radical": "鬥",
@@ -9235,7 +9467,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721320",
-		"svg": "09b25.svg"
+		"svg": "09b25.svg",
+		"noteID": "radical_e4a5a9f8-53b7-431e-8bad-eabb3ef66891"
 	},
 	{
 		"radical": "鬯",
@@ -9250,7 +9483,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721321",
-		"svg": "09b2f.svg"
+		"svg": "09b2f.svg",
+		"noteID": "radical_78496c7c-27ac-4346-862f-a5854c64f947"
 	},
 	{
 		"radical": "鬲",
@@ -9291,7 +9525,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721322",
-		"svg": "09b32.svg"
+		"svg": "09b32.svg",
+		"noteID": "radical_5b04a3b4-b9a2-4ea6-ae7e-f7518c2b03ac"
 	},
 	{
 		"radical": "鬼",
@@ -9334,7 +9569,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721323",
-		"svg": "09b3c.svg"
+		"svg": "09b3c.svg",
+		"noteID": "radical_4aa9ce35-b4df-4f15-bd4a-024026abcccb"
 	},
 	{
 		"radical": "韋",
@@ -9375,7 +9611,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721324",
-		"svg": "097cb.svg"
+		"svg": "097cb.svg",
+		"noteID": "radical_730d4f19-0ee1-40dd-9176-088997bdfc0b"
 	},
 	{
 		"radical": "魚",
@@ -9417,7 +9654,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721325",
-		"svg": "09b5a.svg"
+		"svg": "09b5a.svg",
+		"noteID": "radical_b762d8b3-7618-4c32-831d-11863311c0c8"
 	},
 	{
 		"radical": "鳥",
@@ -9457,7 +9695,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721326",
-		"svg": "09ce5.svg"
+		"svg": "09ce5.svg",
+		"noteID": "radical_8e21d70b-3b7d-4a7d-9f02-4339476f486b"
 	},
 	{
 		"radical": "鹵",
@@ -9492,7 +9731,8 @@
 			"used_in_kanji::3"
 		],
 		"id": "85721327",
-		"svg": "09e75.svg"
+		"svg": "09e75.svg",
+		"noteID": "radical_7ce546c4-2247-41eb-9b11-fdf85c7d0fc6"
 	},
 	{
 		"radical": "鹿",
@@ -9534,7 +9774,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721328",
-		"svg": "09e7f.svg"
+		"svg": "09e7f.svg",
+		"noteID": "radical_844ae615-78a7-4552-aa31-f2dd63fda49b"
 	},
 	{
 		"radical": "麥",
@@ -9575,7 +9816,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721329",
-		"svg": "09ea5.svg"
+		"svg": "09ea5.svg",
+		"noteID": "radical_cde1e3f7-af75-46a7-8453-d5c3e0c2d5b2"
 	},
 	{
 		"radical": "麻",
@@ -9617,7 +9859,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721330",
-		"svg": "09ebb.svg"
+		"svg": "09ebb.svg",
+		"noteID": "radical_fdc8339c-1cc8-4378-b25b-b5770e38b260"
 	},
 	{
 		"radical": "黄",
@@ -9639,7 +9882,8 @@
 			"used_in_kanji::1"
 		],
 		"id": "85721331",
-		"svg": "09ec4.svg"
+		"svg": "09ec4.svg",
+		"noteID": "radical_2eacda70-b4fc-4d11-ba19-a0e35dbae2f9"
 	},
 	{
 		"radical": "黒",
@@ -9669,7 +9913,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721332",
-		"svg": "09ed2.svg"
+		"svg": "09ed2.svg",
+		"noteID": "radical_795aa89b-28e4-4693-8a09-7c8d516a7ea3"
 	},
 	{
 		"radical": "亀",
@@ -9683,7 +9928,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721333",
-		"svg": "04e80.svg"
+		"svg": "04e80.svg",
+		"noteID": "radical_290a672d-e869-45fd-af5f-9d93d154a7ff"
 	},
 	{
 		"radical": "黃",
@@ -9698,7 +9944,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721334",
-		"svg": "09ec3.svg"
+		"svg": "09ec3.svg",
+		"noteID": "radical_3b9b6425-d09b-4c80-97cd-614564e9bcf8"
 	},
 	{
 		"radical": "黍",
@@ -9720,7 +9967,8 @@
 			"used_in_kanji::1"
 		],
 		"id": "85721335",
-		"svg": "09ecd.svg"
+		"svg": "09ecd.svg",
+		"noteID": "radical_cecd88ea-08e2-47f9-a10c-6f45e32817c8"
 	},
 	{
 		"radical": "黑",
@@ -9755,7 +10003,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721336",
-		"svg": "09ed1.svg"
+		"svg": "09ed1.svg",
+		"noteID": "radical_9f0d55b0-4228-4c7a-b72c-c52e2c8da9ea"
 	},
 	{
 		"radical": "黹",
@@ -9786,7 +10035,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721337",
-		"svg": "09ef9.svg"
+		"svg": "09ef9.svg",
+		"noteID": "radical_21b00c3f-4703-4d51-a5dc-c5b725b7415c"
 	},
 	{
 		"radical": "歯",
@@ -9814,7 +10064,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721338",
-		"svg": "06b6f.svg"
+		"svg": "06b6f.svg",
+		"noteID": "radical_dabe3b31-e1c8-4739-872c-0567034b9c48"
 	},
 	{
 		"radical": "黽",
@@ -9852,7 +10103,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721339",
-		"svg": "09efd.svg"
+		"svg": "09efd.svg",
+		"noteID": "radical_d5c346b5-da6d-41d3-a66b-cbd241dd11ed"
 	},
 	{
 		"radical": "鼎",
@@ -9866,7 +10118,8 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721340",
-		"svg": "09f0e.svg"
+		"svg": "09f0e.svg",
+		"noteID": "radical_7e1ea51a-2de2-449c-b13f-e77cd04a1c5f"
 	},
 	{
 		"radical": "鼓",
@@ -9894,7 +10147,8 @@
 			"used_in_kanji::2"
 		],
 		"id": "85721341",
-		"svg": "09f13.svg"
+		"svg": "09f13.svg",
+		"noteID": "radical_c763fd56-e28b-4a4d-8f22-3ba9c1f4cbe1"
 	},
 	{
 		"radical": "鼠",
@@ -9937,7 +10191,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721342",
-		"svg": "09f20.svg"
+		"svg": "09f20.svg",
+		"noteID": "radical_e96ee8ec-9414-47b8-9a9a-fa9ce3f122cc"
 	},
 	{
 		"radical": "鼻",
@@ -9977,7 +10232,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721343",
-		"svg": "09f3b.svg"
+		"svg": "09f3b.svg",
+		"noteID": "radical_6ee65b55-3724-44b4-8f2d-1a233f7cb62f"
 	},
 	{
 		"radical": "齊",
@@ -10015,7 +10271,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721344",
-		"svg": "09f4a.svg"
+		"svg": "09f4a.svg",
+		"noteID": "radical_bfd3f23b-6017-4e9e-b977-7e3e60b52e5a"
 	},
 	{
 		"radical": "齒",
@@ -10056,7 +10313,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721345",
-		"svg": "09f52.svg"
+		"svg": "09f52.svg",
+		"noteID": "radical_1a7fd6d5-6de4-4ffb-80ce-fc4d6ec3363f"
 	},
 	{
 		"radical": "龍",
@@ -10099,7 +10357,8 @@
 			"used_in_kanji::4"
 		],
 		"id": "85721346",
-		"svg": "09f8d.svg"
+		"svg": "09f8d.svg",
+		"noteID": "radical_5fe666cd-93bd-4251-95fe-a62bc3262781"
 	},
 	{
 		"radical": "龜",
@@ -10122,7 +10381,8 @@
 			"used_in_kanji::1"
 		],
 		"id": "85721347",
-		"svg": "09f9c.svg"
+		"svg": "09f9c.svg",
+		"noteID": "radical_38e3f68a-592a-4ed1-ab66-86d33b176e2f"
 	},
 	{
 		"radical": "龠",
@@ -10136,6 +10396,7 @@
 			"used_in_kanji::0"
 		],
 		"id": "85721348",
-		"svg": "09fa0.svg"
+		"svg": "09fa0.svg",
+		"noteID": "radical_3e765703-7725-4058-bd5f-6bbf8fc54116"
 	}
 ]

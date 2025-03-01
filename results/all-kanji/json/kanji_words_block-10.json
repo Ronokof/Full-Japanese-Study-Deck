@@ -223,7 +223,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1411430"
+		"id": "1411430",
+		"noteID": "word_cf5ea8b7-0cbc-44f9-926a-70fb657da65c"
 	},
 	{
 		"kanjiForms": [
@@ -454,7 +455,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1411300"
+		"id": "1411300",
+		"noteID": "word_c03e2e63-836b-47f2-8eca-011579873ee9"
 	},
 	{
 		"kanjiForms": [
@@ -713,7 +715,8 @@
 			"after::te_form",
 			"common_vocab"
 		],
-		"id": "1411270"
+		"id": "1411270",
+		"noteID": "word_e0b39487-9c9e-4cbf-9759-96d71a42fd79"
 	},
 	{
 		"kanjiForms": [
@@ -870,7 +873,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1595080"
+		"id": "1595080",
+		"noteID": "word_a0761d08-f4f3-44c2-8166-1317a42db164"
 	},
 	{
 		"kanjiForms": [
@@ -1102,7 +1106,8 @@
 			"takes::suru",
 			"common_vocab"
 		],
-		"id": "1366110"
+		"id": "1366110",
+		"noteID": "word_a98f720c-b1b5-42a4-b2cf-238e95f4acaa"
 	},
 	{
 		"kanjiForms": [
@@ -1326,7 +1331,8 @@
 			"computer_terminology",
 			"common_vocab"
 		],
-		"id": "1411450"
+		"id": "1411450",
+		"noteID": "word_8e359976-1455-4758-a62f-a9ed96f4d646"
 	},
 	{
 		"kanjiForms": [
@@ -1633,7 +1639,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1411250"
+		"id": "1411250",
+		"noteID": "word_91dd9334-d18d-409f-abca-3226a2b30c0e"
 	},
 	{
 		"kanjiForms": [
@@ -1805,7 +1812,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1402730"
+		"id": "1402730",
+		"noteID": "word_0cc5421e-3e97-4443-ab51-e35ccc94c444"
 	},
 	{
 		"kanjiForms": [
@@ -2023,7 +2031,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1542380"
+		"id": "1542380",
+		"noteID": "word_73e2fb8c-bf92-47a1-80b3-7577d82abf83"
 	},
 	{
 		"kanjiForms": [
@@ -2149,7 +2158,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1402630"
+		"id": "1402630",
+		"noteID": "word_2eade17d-bbe5-4641-a0de-8eb1012e5c05"
 	},
 	{
 		"kanjiForms": [
@@ -2370,7 +2380,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1402750"
+		"id": "1402750",
+		"noteID": "word_b8e71e6e-62d2-43d5-bc3c-2ac9307df0c3"
 	},
 	{
 		"kanjiForms": [
@@ -2578,7 +2589,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1588620"
+		"id": "1588620",
+		"noteID": "word_22af5e4b-a6de-438d-847f-767c2cdb2a8b"
 	},
 	{
 		"kanjiForms": [
@@ -2794,7 +2806,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1402740"
+		"id": "1402740",
+		"noteID": "word_c1c5f008-023c-48d3-bb7e-8e6f4c631737"
 	},
 	{
 		"kanjiForms": [
@@ -3016,7 +3029,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1473120"
+		"id": "1473120",
+		"noteID": "word_ec5a55a8-eadd-4946-85c7-48556a4a909c"
 	},
 	{
 		"kanjiForms": [
@@ -3221,7 +3235,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1402830"
+		"id": "1402830",
+		"noteID": "word_4b8dd75f-2d9e-49db-9f2b-6f3608e8cd51"
 	},
 	{
 		"kanjiForms": [
@@ -3454,7 +3469,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1450440"
+		"id": "1450440",
+		"noteID": "word_f9b5e340-c816-4272-8d49-40a77e8eb486"
 	},
 	{
 		"kanjiForms": [
@@ -3707,7 +3723,8 @@
 			"after::masu_stem",
 			"common_vocab"
 		],
-		"id": "1450430"
+		"id": "1450430",
+		"noteID": "word_de6655a8-21a7-4cb7-99be-422e243cab73"
 	},
 	{
 		"kanjiForms": [
@@ -3849,7 +3866,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1450320"
+		"id": "1450320",
+		"noteID": "word_fd367ac2-b33a-4b5f-a8a2-4038d1683453"
 	},
 	{
 		"kanjiForms": [
@@ -3967,7 +3985,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1633800"
+		"id": "1633800",
+		"noteID": "word_75e3bddc-21ca-4814-8724-11da58fb59d6"
 	},
 	{
 		"kanjiForms": [
@@ -4190,7 +4209,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1450460"
+		"id": "1450460",
+		"noteID": "word_1f021907-7f47-4f26-b84b-7c857dc3f681"
 	},
 	{
 		"kanjiForms": [
@@ -4501,7 +4521,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1612480"
+		"id": "1612480",
+		"noteID": "word_d447fb89-5ccd-43fb-86d0-4a885222bde6"
 	},
 	{
 		"kanjiForms": [
@@ -4708,7 +4729,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1611050"
+		"id": "1611050",
+		"noteID": "word_80a35525-5966-49d1-b6d8-75aa7ba75114"
 	},
 	{
 		"kanjiForms": [
@@ -4868,7 +4890,8 @@
 			"mathematics",
 			"common_vocab"
 		],
-		"id": "1226960"
+		"id": "1226960",
+		"noteID": "word_4211a2be-3b0c-4886-90e7-482cffa57b9e"
 	},
 	{
 		"kanjiForms": [
@@ -5011,7 +5034,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1226990"
+		"id": "1226990",
+		"noteID": "word_34cdabe9-5f95-46cc-b323-9bbc48438907"
 	},
 	{
 		"kanjiForms": [
@@ -5224,7 +5248,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1227190"
+		"id": "1227190",
+		"noteID": "word_44823db6-9916-4339-86e5-6961600d962f"
 	},
 	{
 		"kanjiForms": [
@@ -5479,7 +5504,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1253780"
+		"id": "1253780",
+		"noteID": "word_baceaaf3-302b-4cc5-a0c6-34fccbc81907"
 	},
 	{
 		"kanjiForms": [
@@ -5825,7 +5851,8 @@
 			"dated",
 			"common_vocab"
 		],
-		"id": "1253790"
+		"id": "1253790",
+		"noteID": "word_55e6c7fe-7eac-4517-959c-110a24eba7f1"
 	},
 	{
 		"kanjiForms": [
@@ -6042,7 +6069,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1244870"
+		"id": "1244870",
+		"noteID": "word_b1a1e85f-0618-4c8a-a511-71b42450667a"
 	},
 	{
 		"kanjiForms": [
@@ -6160,7 +6188,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1956720"
+		"id": "1956720",
+		"noteID": "word_19c56445-0c58-468d-82cb-07f802469dd1"
 	},
 	{
 		"kanjiForms": [
@@ -6457,7 +6486,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1728130"
+		"id": "1728130",
+		"noteID": "word_0cb5fe6b-feb5-4139-94aa-5437379d95a9"
 	},
 	{
 		"kanjiForms": [
@@ -6631,7 +6661,8 @@
 			"counter",
 			"common_vocab"
 		],
-		"id": "1432840"
+		"id": "1432840",
+		"noteID": "word_0b999e63-86b4-42ea-887f-e5f6edbfd55d"
 	},
 	{
 		"kanjiForms": [
@@ -6826,7 +6857,8 @@
 			"counter",
 			"common_vocab"
 		],
-		"id": "1432920"
+		"id": "1432920",
+		"noteID": "word_a735c0e9-4785-4b43-93b7-f62098bd1322"
 	},
 	{
 		"kanjiForms": [
@@ -6992,7 +7024,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1432930"
+		"id": "1432930",
+		"noteID": "word_28b622ef-4d57-46fd-b5fb-a5e4dbd76918"
 	},
 	{
 		"kanjiForms": [
@@ -7189,7 +7222,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1432880"
+		"id": "1432880",
+		"noteID": "word_fa9043e6-c72b-45e1-8e6a-7b9a676af105"
 	},
 	{
 		"kanjiForms": [
@@ -7360,7 +7394,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1432850"
+		"id": "1432850",
+		"noteID": "word_c1665818-3e4a-40e1-be3f-a2fc6739d58a"
 	},
 	{
 		"kanjiForms": [
@@ -7617,7 +7652,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1433070"
+		"id": "1433070",
+		"noteID": "word_19c19524-4c3b-49c3-b074-f379893d517f"
 	},
 	{
 		"kanjiForms": [
@@ -7753,7 +7789,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "2069030"
+		"id": "2069030",
+		"noteID": "word_68d919a0-f91f-4a7f-b6e1-98389121f2e4"
 	},
 	{
 		"kanjiForms": [
@@ -7986,7 +8023,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1433460"
+		"id": "1433460",
+		"noteID": "word_9024395c-5861-4e3d-9ca2-3e0e45dd180b"
 	},
 	{
 		"kanjiForms": [
@@ -8229,7 +8267,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1432980"
+		"id": "1432980",
+		"noteID": "word_60c4f0af-9ed6-45fa-9b74-a6c06c4cc0df"
 	},
 	{
 		"kanjiForms": [
@@ -8370,7 +8409,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1854760"
+		"id": "1854760",
+		"noteID": "word_b4679c60-b8f4-4c07-8a73-fbcd3dd53c2c"
 	},
 	{
 		"kanjiForms": [
@@ -8612,7 +8652,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1202850"
+		"id": "1202850",
+		"noteID": "word_9f4eea01-158b-4cff-85a0-226abd5430d7"
 	},
 	{
 		"kanjiForms": [
@@ -8769,7 +8810,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1896920"
+		"id": "1896920",
+		"noteID": "word_0a19f5d0-0fef-480a-a7b1-71667fc14224"
 	},
 	{
 		"kanjiForms": [
@@ -8895,7 +8937,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1636730"
+		"id": "1636730",
+		"noteID": "word_813754cf-ca0e-4cb7-94f2-67b8cf98acca"
 	},
 	{
 		"kanjiForms": [
@@ -9118,7 +9161,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1433040"
+		"id": "1433040",
+		"noteID": "word_cdd30aa0-5cf3-4a3b-a94f-34ca7b9fdf94"
 	},
 	{
 		"kanjiForms": [
@@ -9354,7 +9398,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1414570"
+		"id": "1414570",
+		"noteID": "word_89a14afb-146d-45fc-a508-d4759d0bac35"
 	},
 	{
 		"kanjiForms": [
@@ -9579,7 +9624,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1433100"
+		"id": "1433100",
+		"noteID": "word_f16e2143-c263-4b20-814b-e24e0e2d0ca1"
 	},
 	{
 		"kanjiForms": [
@@ -9821,7 +9867,8 @@
 			"mahjong",
 			"common_vocab"
 		],
-		"id": "1164900"
+		"id": "1164900",
+		"noteID": "word_6fe89faa-46db-4016-b6cc-b6ff1bdf8fb2"
 	},
 	{
 		"kanjiForms": [
@@ -10072,7 +10119,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1500010"
+		"id": "1500010",
+		"noteID": "word_4d3661d6-1cea-4c66-9afa-61875bb168b0"
 	},
 	{
 		"kanjiForms": [
@@ -10294,7 +10342,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1368820"
+		"id": "1368820",
+		"noteID": "word_cf64dcfa-fe0e-42b8-8e46-9606884a596f"
 	},
 	{
 		"kanjiForms": [
@@ -10519,7 +10568,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1164910"
+		"id": "1164910",
+		"noteID": "word_92e5f77b-2a32-4f2e-b0dc-8e9a59539067"
 	},
 	{
 		"kanjiForms": [
@@ -10668,7 +10718,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1573650"
+		"id": "1573650",
+		"noteID": "word_d632f1c8-239e-4a1c-9ed6-b7720294d4fa"
 	},
 	{
 		"kanjiForms": [
@@ -10911,7 +10962,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1283700"
+		"id": "1283700",
+		"noteID": "word_e27c3e2e-ed68-4857-88de-337c9a11facb"
 	},
 	{
 		"kanjiForms": [
@@ -11044,7 +11096,8 @@
 			"na-adjective/adjectival_noun",
 			"common_vocab"
 		],
-		"id": "1405000"
+		"id": "1405000",
+		"noteID": "word_9a72559a-4e96-4037-bb24-96a216a202b2"
 	},
 	{
 		"kanjiForms": [
@@ -11257,7 +11310,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1499950"
+		"id": "1499950",
+		"noteID": "word_009dc0c4-8b63-4016-a1e9-a1c9cfb9656d"
 	},
 	{
 		"kanjiForms": [
@@ -11483,7 +11537,8 @@
 			"takes::suru",
 			"common_vocab"
 		],
-		"id": "1405030"
+		"id": "1405030",
+		"noteID": "word_59df6643-668e-40f4-9987-29f5c05b7f07"
 	},
 	{
 		"kanjiForms": [
@@ -11686,7 +11741,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1405080"
+		"id": "1405080",
+		"noteID": "word_1cfa75ba-30a9-4941-82a0-26c8c9499d8d"
 	},
 	{
 		"kanjiForms": [
@@ -11891,7 +11947,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1329140"
+		"id": "1329140",
+		"noteID": "word_9ff88512-c75d-491d-ba78-ec62d9453373"
 	},
 	{
 		"kanjiForms": [
@@ -12107,7 +12164,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1357090"
+		"id": "1357090",
+		"noteID": "word_c09b3139-61a0-41c1-a91f-9d628165d7a0"
 	},
 	{
 		"kanjiForms": [
@@ -12324,7 +12382,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1426860"
+		"id": "1426860",
+		"noteID": "word_05009d03-80a1-4263-9266-db81e8c41dca"
 	},
 	{
 		"kanjiForms": [
@@ -12530,7 +12589,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1368580"
+		"id": "1368580",
+		"noteID": "word_491b5cb0-0aef-4f50-919e-8e4a3128e151"
 	},
 	{
 		"kanjiForms": [
@@ -12652,7 +12712,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1559290"
+		"id": "1559290",
+		"noteID": "word_bd9782fe-2406-4e31-92b5-a5f1ea46709e"
 	},
 	{
 		"kanjiForms": [
@@ -12801,7 +12862,8 @@
 			"noh",
 			"common_vocab"
 		],
-		"id": "1559260"
+		"id": "1559260",
+		"noteID": "word_20411a90-24de-4e50-9c5c-b2b6645602c6"
 	},
 	{
 		"kanjiForms": [
@@ -13035,7 +13097,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1559240"
+		"id": "1559240",
+		"noteID": "word_c3bcd074-883a-4f2a-be25-431f76403664"
 	},
 	{
 		"kanjiForms": [
@@ -13265,7 +13328,8 @@
 			"genetics",
 			"common_vocab"
 		],
-		"id": "1559490"
+		"id": "1559490",
+		"noteID": "word_39e6b563-29d7-42f8-99b6-3988f1af66d1"
 	},
 	{
 		"kanjiForms": [
@@ -13395,7 +13459,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1333450"
+		"id": "1333450",
+		"noteID": "word_f6addb6b-6f4f-4421-aced-e8a955840526"
 	},
 	{
 		"kanjiForms": [
@@ -13609,7 +13674,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1333500"
+		"id": "1333500",
+		"noteID": "word_dd2f36e9-bbcf-40d0-8fdd-5516727fe7d8"
 	},
 	{
 		"kanjiForms": [
@@ -13902,7 +13968,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1163270"
+		"id": "1163270",
+		"noteID": "word_d3db5bdc-6527-47b5-b6ac-5c96d141fe76"
 	},
 	{
 		"kanjiForms": [
@@ -14097,7 +14164,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1607110"
+		"id": "1607110",
+		"noteID": "word_0dd3566d-9b57-4b50-9160-3744f0d7867c"
 	},
 	{
 		"kanjiForms": [
@@ -14271,7 +14339,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1365980"
+		"id": "1365980",
+		"noteID": "word_c916578e-e7eb-4e75-b1db-60cceb43d264"
 	},
 	{
 		"kanjiForms": [
@@ -14422,7 +14491,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1365990"
+		"id": "1365990",
+		"noteID": "word_1e22e6af-d37e-40ea-94c9-4ca9970d4cb2"
 	},
 	{
 		"kanjiForms": [
@@ -14622,7 +14692,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1366130"
+		"id": "1366130",
+		"noteID": "word_98ecd73a-92be-4bce-95ed-db96f1efac01"
 	},
 	{
 		"kanjiForms": [
@@ -14751,7 +14822,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1365960"
+		"id": "1365960",
+		"noteID": "word_6cdfda1a-fbdc-4bf9-947a-06e8c1073087"
 	},
 	{
 		"kanjiForms": [
@@ -14890,7 +14962,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1167650"
+		"id": "1167650",
+		"noteID": "word_17a7825e-afd2-4b34-90b6-6108db096485"
 	},
 	{
 		"kanjiForms": [
@@ -15020,7 +15093,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1576360"
+		"id": "1576360",
+		"noteID": "word_20a311d3-a056-4910-b7ed-5aa1cce3c9f2"
 	},
 	{
 		"kanjiForms": [
@@ -15160,7 +15234,8 @@
 			"auxiliary_verb",
 			"common_vocab"
 		],
-		"id": "2801130"
+		"id": "2801130",
+		"noteID": "word_cb6729cb-52de-4c9a-a718-19a6a55d8749"
 	},
 	{
 		"kanjiForms": [
@@ -15300,7 +15375,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1372620"
+		"id": "1372620",
+		"noteID": "word_26f7ad27-8385-4165-909f-c4fff5d46fce"
 	},
 	{
 		"kanjiForms": [
@@ -15536,7 +15612,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1422020"
+		"id": "1422020",
+		"noteID": "word_b04365cd-8aa7-4696-8c02-13a8afb704cc"
 	},
 	{
 		"kanjiForms": [
@@ -15750,7 +15827,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1339650"
+		"id": "1339650",
+		"noteID": "word_c07f00ec-76f9-4526-96ae-3daf05610be0"
 	},
 	{
 		"kanjiForms": [
@@ -15887,7 +15965,8 @@
 			"takes::to",
 			"common_vocab"
 		],
-		"id": "1597430"
+		"id": "1597430",
+		"noteID": "word_0d0c5286-d119-43ec-81b8-27294f51378a"
 	},
 	{
 		"kanjiForms": [
@@ -16207,7 +16286,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1328120"
+		"id": "1328120",
+		"noteID": "word_01dde74b-8ab3-4ebe-aac9-2fc7fb35cd50"
 	},
 	{
 		"kanjiForms": [
@@ -16415,7 +16495,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1422100"
+		"id": "1422100",
+		"noteID": "word_b07a85a0-4c3c-48fe-b19b-362cff4360a2"
 	},
 	{
 		"kanjiForms": [
@@ -16639,7 +16720,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1422000"
+		"id": "1422000",
+		"noteID": "word_4ed5824e-f9a9-48ac-bbc5-813eaf68aa8a"
 	},
 	{
 		"kanjiForms": [
@@ -16855,7 +16937,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1402890"
+		"id": "1402890",
+		"noteID": "word_e6fa905a-f5fd-447e-b425-8ff252ceaf70"
 	},
 	{
 		"kanjiForms": [
@@ -17058,7 +17141,8 @@
 			"baseball",
 			"common_vocab"
 		],
-		"id": "1542160"
+		"id": "1542160",
+		"noteID": "word_39b5f3f7-e866-4b57-911f-af83d442da15"
 	},
 	{
 		"kanjiForms": [
@@ -17226,7 +17310,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1542070"
+		"id": "1542070",
+		"noteID": "word_ae71c26a-7372-4499-8f06-1c2a3a3bb98a"
 	},
 	{
 		"kanjiForms": [
@@ -17365,7 +17450,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1172610"
+		"id": "1172610",
+		"noteID": "word_1b0fe4cb-ea47-437b-b6f2-627824f31922"
 	},
 	{
 		"kanjiForms": [
@@ -17537,7 +17623,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1172660"
+		"id": "1172660",
+		"noteID": "word_cb5b6c15-fcfb-44ab-b929-458b3cacd527"
 	},
 	{
 		"kanjiForms": [
@@ -17657,7 +17744,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1625860"
+		"id": "1625860",
+		"noteID": "word_5f949e4d-e918-4ca0-96ef-9e530f843aeb"
 	},
 	{
 		"kanjiForms": [
@@ -17854,7 +17942,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1609240"
+		"id": "1609240",
+		"noteID": "word_3eb83fe8-bd0c-466a-8661-3734e5e0ab1f"
 	},
 	{
 		"kanjiForms": [
@@ -18067,7 +18156,8 @@
 			"after::noun",
 			"common_vocab"
 		],
-		"id": "1166450"
+		"id": "1166450",
+		"noteID": "word_9e036fe6-98e7-48cf-b104-02706e4cc238"
 	},
 	{
 		"kanjiForms": [
@@ -18250,7 +18340,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1195970"
+		"id": "1195970",
+		"noteID": "word_667a6ed6-8eb0-4328-8e39-9f446f84111e"
 	},
 	{
 		"kanjiForms": [
@@ -18421,7 +18512,8 @@
 			"after::masu_stem",
 			"common_vocab"
 		],
-		"id": "1196000"
+		"id": "1196000",
+		"noteID": "word_1f4a7508-2b14-446d-a7f5-581fa9ad1c3f"
 	},
 	{
 		"kanjiForms": [
@@ -18577,7 +18669,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1195960"
+		"id": "1195960",
+		"noteID": "word_c1c1336c-f40e-4616-bb59-712a545efb90"
 	},
 	{
 		"kanjiForms": [
@@ -18810,7 +18903,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1358300"
+		"id": "1358300",
+		"noteID": "word_b2cca133-de63-4aaa-b562-3934e19cd1f1"
 	},
 	{
 		"kanjiForms": [
@@ -19017,7 +19111,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1161270"
+		"id": "1161270",
+		"noteID": "word_144c65aa-8390-46ba-aaf4-060b150ef9fa"
 	},
 	{
 		"kanjiForms": [
@@ -19237,7 +19332,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1437960"
+		"id": "1437960",
+		"noteID": "word_42e14385-3f4c-418a-ada7-c433090f0a87"
 	},
 	{
 		"kanjiForms": [
@@ -19449,7 +19545,8 @@
 			"buddhism",
 			"common_vocab"
 		],
-		"id": "1368890"
+		"id": "1368890",
+		"noteID": "word_682d81e1-11dc-4beb-8cda-62f2fe25456d"
 	},
 	{
 		"kanjiForms": [
@@ -19664,7 +19761,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1786800"
+		"id": "1786800",
+		"noteID": "word_e448c996-b606-4c09-bb67-34f6213999ac"
 	},
 	{
 		"kanjiForms": [
@@ -19871,7 +19969,8 @@
 			"anatomical",
 			"common_vocab"
 		],
-		"id": "1358570"
+		"id": "1358570",
+		"noteID": "word_cba73447-5be7-4566-ab96-47d9e4273da9"
 	},
 	{
 		"kanjiForms": [
@@ -20092,7 +20191,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1611770"
+		"id": "1611770",
+		"noteID": "word_e77c6713-452b-4719-b63d-e27c84a6e354"
 	},
 	{
 		"kanjiForms": [
@@ -20298,7 +20398,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1323490"
+		"id": "1323490",
+		"noteID": "word_976d7945-f261-4448-b018-a6f5928b5537"
 	},
 	{
 		"kanjiForms": [
@@ -20439,7 +20540,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1416220"
+		"id": "1416220",
+		"noteID": "word_e4f0bc43-4602-4d45-8823-bd5f7f198fae"
 	},
 	{
 		"kanjiForms": [
@@ -20578,7 +20680,8 @@
 			"suru_verb",
 			"common_vocab"
 		],
-		"id": "1416230"
+		"id": "1416230",
+		"noteID": "word_e1982dfb-8e05-4f66-8b79-4230ef50daf6"
 	},
 	{
 		"kanjiForms": [
@@ -20812,7 +20915,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1473140"
+		"id": "1473140",
+		"noteID": "word_b9d78c05-48b8-4ca7-b52f-958f90a332dd"
 	},
 	{
 		"kanjiForms": [
@@ -20978,7 +21082,8 @@
 			"kansai-ben",
 			"common_vocab"
 		],
-		"id": "1158880"
+		"id": "1158880",
+		"noteID": "word_4251dba3-1c28-4bf3-8f7a-c511e39de15f"
 	},
 	{
 		"kanjiForms": [
@@ -21121,7 +21226,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1158870"
+		"id": "1158870",
+		"noteID": "word_e048c0d0-9575-416d-8c1b-99fc6e2e8a3f"
 	},
 	{
 		"kanjiForms": [
@@ -21364,7 +21470,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1611610"
+		"id": "1611610",
+		"noteID": "word_466a74a8-2a66-45a8-b17f-bd5f0033b366"
 	},
 	{
 		"kanjiForms": [
@@ -21601,7 +21708,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1215320"
+		"id": "1215320",
+		"noteID": "word_7d8548ed-6446-4c15-96e3-290d1b8e532f"
 	},
 	{
 		"kanjiForms": [
@@ -21835,7 +21943,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1215330"
+		"id": "1215330",
+		"noteID": "word_09002f20-cccb-403b-9d65-348901b20606"
 	},
 	{
 		"kanjiForms": [
@@ -22061,7 +22170,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1358110"
+		"id": "1358110",
+		"noteID": "word_0d50fdf5-875f-4456-b2c5-44e87feb5552"
 	},
 	{
 		"kanjiForms": [
@@ -22280,7 +22390,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1358100"
+		"id": "1358100",
+		"noteID": "word_128e7efa-f1b0-4ad8-ab94-ad7e850262b6"
 	},
 	{
 		"kanjiForms": [
@@ -22521,7 +22632,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1610740"
+		"id": "1610740",
+		"noteID": "word_80bc2728-4aeb-44b0-b6c6-47fa04c5d661"
 	},
 	{
 		"kanjiForms": [
@@ -22749,7 +22861,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1578800"
+		"id": "1578800",
+		"noteID": "word_c0d9a021-3df4-4c8c-9175-53d7ab721927"
 	},
 	{
 		"kanjiForms": [
@@ -22954,7 +23067,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1366540"
+		"id": "1366540",
+		"noteID": "word_d19bdfa3-4ce9-4715-bfda-a9e8cc4b28be"
 	},
 	{
 		"kanjiForms": [
@@ -23207,7 +23321,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1546930"
+		"id": "1546930",
+		"noteID": "word_566d31b0-0c42-4dbd-b3ef-1667eff7086a"
 	},
 	{
 		"kanjiForms": [
@@ -23334,7 +23449,8 @@
 			"archaism",
 			"common_vocab"
 		],
-		"id": "1177790"
+		"id": "1177790",
+		"noteID": "word_7c52474f-9f02-43e3-9d5b-3f6c20edf0d7"
 	},
 	{
 		"kanjiForms": [
@@ -23511,7 +23627,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1177800"
+		"id": "1177800",
+		"noteID": "word_6cd61589-4890-4995-9e69-cfc1e8e2e43d"
 	},
 	{
 		"kanjiForms": [
@@ -23673,7 +23790,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1177820"
+		"id": "1177820",
+		"noteID": "word_43ecaa97-adf2-4365-a92e-748636ef4ad7"
 	},
 	{
 		"kanjiForms": [
@@ -23815,7 +23933,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1177830"
+		"id": "1177830",
+		"noteID": "word_e068b2c4-b19e-4b77-b86e-98892f51e31a"
 	},
 	{
 		"kanjiForms": [
@@ -24028,7 +24147,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1177950"
+		"id": "1177950",
+		"noteID": "word_21d8b673-2956-449d-9d76-80565b65b3bf"
 	},
 	{
 		"kanjiForms": [
@@ -24254,7 +24374,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1222140"
+		"id": "1222140",
+		"noteID": "word_f4bd32fd-8359-4193-9740-663f509471c7"
 	},
 	{
 		"kanjiForms": [
@@ -24488,7 +24609,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1612960"
+		"id": "1612960",
+		"noteID": "word_8f2f7926-fbaf-4da2-9c42-81179a254fcd"
 	},
 	{
 		"kanjiForms": [
@@ -24722,7 +24844,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1612730"
+		"id": "1612730",
+		"noteID": "word_98bfd743-0958-4993-ba92-0a9495c6e1f1"
 	},
 	{
 		"kanjiForms": [
@@ -24837,7 +24960,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1437340"
+		"id": "1437340",
+		"noteID": "word_8fbca4b2-8c0d-4022-b9d9-6297c0bfd9f4"
 	},
 	{
 		"kanjiForms": [
@@ -25032,7 +25156,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1735060"
+		"id": "1735060",
+		"noteID": "word_d2fce6ad-1f06-4b34-bb25-0d57b5b15b9d"
 	},
 	{
 		"kanjiForms": [
@@ -25247,7 +25372,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1437530"
+		"id": "1437530",
+		"noteID": "word_8a0cf63b-8fa2-4452-82e2-b7d1cca3b2b2"
 	},
 	{
 		"kanjiForms": [
@@ -25474,7 +25600,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1402900"
+		"id": "1402900",
+		"noteID": "word_d50ab3d0-34ad-427f-8a82-6af301e05f1f"
 	},
 	{
 		"kanjiForms": [
@@ -25595,7 +25722,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1323290"
+		"id": "1323290",
+		"noteID": "word_f0651205-c06a-48bb-a120-1f2ad38179c3"
 	},
 	{
 		"kanjiForms": [
@@ -25807,7 +25935,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1646230"
+		"id": "1646230",
+		"noteID": "word_75105656-a022-4bd1-8e88-c51f08500a4e"
 	},
 	{
 		"kanjiForms": [
@@ -25925,7 +26054,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1956560"
+		"id": "1956560",
+		"noteID": "word_dc48d304-1160-498e-8c03-9077187534a8"
 	},
 	{
 		"kanjiForms": [
@@ -26123,7 +26253,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1368470"
+		"id": "1368470",
+		"noteID": "word_498375c5-9f90-4765-a840-d71413e9111e"
 	},
 	{
 		"kanjiForms": [
@@ -26333,7 +26464,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1159220"
+		"id": "1159220",
+		"noteID": "word_c895cf64-ee93-4d4a-8ebc-4ed024e3c510"
 	},
 	{
 		"kanjiForms": [
@@ -26594,7 +26726,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1583260"
+		"id": "1583260",
+		"noteID": "word_f555bdbf-180b-4f4b-89c1-caceb5134185"
 	},
 	{
 		"kanjiForms": [
@@ -26833,7 +26966,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1484660"
+		"id": "1484660",
+		"noteID": "word_54cdd630-3ca7-4751-b936-0b64e2ed2c88"
 	},
 	{
 		"kanjiForms": [
@@ -27090,7 +27224,8 @@
 			"baseball",
 			"common_vocab"
 		],
-		"id": "1618870"
+		"id": "1618870",
+		"noteID": "word_cabb47ad-8d5c-48e5-ba67-2c5fdddff081"
 	},
 	{
 		"kanjiForms": [
@@ -27320,7 +27455,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1583720"
+		"id": "1583720",
+		"noteID": "word_1fcd9bbe-e719-4697-b9cf-1c5b91ac6283"
 	},
 	{
 		"kanjiForms": [
@@ -27562,7 +27698,8 @@
 			"original_meaning",
 			"common_vocab"
 		],
-		"id": "1323500"
+		"id": "1323500",
+		"noteID": "word_97267e3b-d8f4-4448-bc62-f5913a5a66ed"
 	},
 	{
 		"kanjiForms": [
@@ -27761,7 +27898,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1436830"
+		"id": "1436830",
+		"noteID": "word_9c457d09-f8fd-411d-acf4-4a9cea045ca9"
 	},
 	{
 		"kanjiForms": [
@@ -27998,7 +28136,8 @@
 			"slang",
 			"common_vocab"
 		],
-		"id": "1537700"
+		"id": "1537700",
+		"noteID": "word_e97c8931-830d-4a55-a964-c3884f8aca71"
 	},
 	{
 		"kanjiForms": [
@@ -28142,7 +28281,8 @@
 			"historical",
 			"common_vocab"
 		],
-		"id": "1249230"
+		"id": "1249230",
+		"noteID": "word_f93b7179-dfbf-4c96-8ba9-30a9d9a3c710"
 	},
 	{
 		"kanjiForms": [
@@ -28342,7 +28482,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1249250"
+		"id": "1249250",
+		"noteID": "word_1d2658ad-9fd8-454a-be3f-427b5b98a860"
 	},
 	{
 		"kanjiForms": [
@@ -28511,7 +28652,8 @@
 			"counter",
 			"common_vocab"
 		],
-		"id": "1499290"
+		"id": "1499290",
+		"noteID": "word_9d1c8b6c-ff9a-4423-8703-05a5622bee78"
 	},
 	{
 		"kanjiForms": [
@@ -28736,7 +28878,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1166180"
+		"id": "1166180",
+		"noteID": "word_5432cc1e-a08d-467b-a872-2b5600aaf626"
 	},
 	{
 		"kanjiForms": [
@@ -28968,7 +29111,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1499460"
+		"id": "1499460",
+		"noteID": "word_ac331aa9-e07c-4406-8b96-4fb3d42397d3"
 	},
 	{
 		"kanjiForms": [
@@ -29183,7 +29327,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1499540"
+		"id": "1499540",
+		"noteID": "word_6f6d8e64-ff1f-4bec-96bf-fd44213c76eb"
 	},
 	{
 		"kanjiForms": [
@@ -29409,7 +29554,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1499430"
+		"id": "1499430",
+		"noteID": "word_387e7b9e-627e-462f-a792-e1383089327c"
 	},
 	{
 		"kanjiForms": [
@@ -29630,7 +29776,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1207080"
+		"id": "1207080",
+		"noteID": "word_556d3997-fc38-4ea0-9180-e27a3eacc285"
 	},
 	{
 		"kanjiForms": [
@@ -29849,7 +29996,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1450930"
+		"id": "1450930",
+		"noteID": "word_f6d0a872-b945-45c5-a316-83003c72787f"
 	},
 	{
 		"kanjiForms": [
@@ -30078,7 +30226,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1238540"
+		"id": "1238540",
+		"noteID": "word_5e624677-db19-42c5-ba95-4839841f30ad"
 	},
 	{
 		"kanjiForms": [
@@ -30297,7 +30446,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1329340"
+		"id": "1329340",
+		"noteID": "word_c9a93f18-158b-41ef-9b30-98fb30dfac5c"
 	},
 	{
 		"kanjiForms": [
@@ -30507,7 +30657,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1555830"
+		"id": "1555830",
+		"noteID": "word_57336520-8a10-45ff-b625-50da5d541e24"
 	},
 	{
 		"kanjiForms": [
@@ -30644,7 +30795,8 @@
 			"obsolete",
 			"common_vocab"
 		],
-		"id": "1457290"
+		"id": "1457290",
+		"noteID": "word_0c581b9b-0a30-47e1-8e75-2a18a673d163"
 	},
 	{
 		"kanjiForms": [
@@ -30875,7 +31027,8 @@
 			"finance",
 			"common_vocab"
 		],
-		"id": "1222510"
+		"id": "1222510",
+		"noteID": "word_f2aa6755-4041-4c2e-8f17-52b331a45c4f"
 	},
 	{
 		"kanjiForms": [
@@ -31106,7 +31259,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1328260"
+		"id": "1328260",
+		"noteID": "word_f010f215-3f8d-41a2-a2f4-125c243a4f23"
 	},
 	{
 		"kanjiForms": [
@@ -31318,7 +31472,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1614540"
+		"id": "1614540",
+		"noteID": "word_d4d2282e-9ecb-4b9c-9315-96c471c6d758"
 	},
 	{
 		"kanjiForms": [
@@ -31521,7 +31676,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1473160"
+		"id": "1473160",
+		"noteID": "word_a0247896-8273-4498-9a69-6bf557970fa9"
 	},
 	{
 		"kanjiForms": [
@@ -31642,7 +31798,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1426830"
+		"id": "1426830",
+		"noteID": "word_da386c6c-c757-426d-8197-5943a6a6eb6d"
 	},
 	{
 		"kanjiForms": [
@@ -31773,7 +31930,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1329010"
+		"id": "1329010",
+		"noteID": "word_db13c842-4204-4196-9aae-a3640070a871"
 	},
 	{
 		"kanjiForms": [
@@ -31993,7 +32151,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1169900"
+		"id": "1169900",
+		"noteID": "word_2a080b54-f688-4fe5-9c37-fccdb7120a6e"
 	},
 	{
 		"kanjiForms": [
@@ -32215,7 +32374,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1329190"
+		"id": "1329190",
+		"noteID": "word_86828155-ce52-4ff4-b5f1-ba614e93a0eb"
 	},
 	{
 		"kanjiForms": [
@@ -32529,7 +32689,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1061910"
+		"id": "1061910",
+		"noteID": "word_2798721d-d438-4805-898a-374adfd27489"
 	},
 	{
 		"kanjiForms": [
@@ -32688,7 +32849,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1372650"
+		"id": "1372650",
+		"noteID": "word_e841a67f-68e9-4f58-ad23-13b0cd411af7"
 	},
 	{
 		"kanjiForms": [
@@ -32838,7 +33000,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1952930"
+		"id": "1952930",
+		"noteID": "word_4a183939-0f59-4348-a48c-f51192369f2a"
 	},
 	{
 		"kanjiForms": [
@@ -33047,7 +33210,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1450680"
+		"id": "1450680",
+		"noteID": "word_20bf1f8f-d65e-4b36-b845-086e2eaf4bf0"
 	},
 	{
 		"kanjiForms": [
@@ -33345,7 +33509,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1370270"
+		"id": "1370270",
+		"noteID": "word_d1f4e253-7948-446f-aa0d-44eab1b26545"
 	},
 	{
 		"kanjiForms": [
@@ -33627,7 +33792,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1370290"
+		"id": "1370290",
+		"noteID": "word_3fc4a7a2-9dab-4b98-b219-646e88586604"
 	},
 	{
 		"kanjiForms": [
@@ -33830,7 +33996,8 @@
 			"food",
 			"common_vocab"
 		],
-		"id": "1370280"
+		"id": "1370280",
+		"noteID": "word_1cb851cb-b2e6-4bf8-a27d-60c5570eb874"
 	},
 	{
 		"kanjiForms": [
@@ -33944,7 +34111,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1615840"
+		"id": "1615840",
+		"noteID": "word_7dbd8dd1-3107-4858-a064-836f59463476"
 	},
 	{
 		"kanjiForms": [
@@ -34232,7 +34400,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "2708040"
+		"id": "2708040",
+		"noteID": "word_827e04b9-6cfa-49e3-ad98-9bf2b6cf224d"
 	},
 	{
 		"kanjiForms": [
@@ -34562,7 +34731,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1602060"
+		"id": "1602060",
+		"noteID": "word_d9118e5b-23ad-411e-bf29-301a34aa4c13"
 	},
 	{
 		"kanjiForms": [
@@ -34700,7 +34870,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1304260"
+		"id": "1304260",
+		"noteID": "word_18cc1db3-00b7-4fe5-a5d4-6a3d8b81fdea"
 	},
 	{
 		"kanjiForms": [
@@ -34833,7 +35004,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1304280"
+		"id": "1304280",
+		"noteID": "word_861bed1a-e73e-4acc-801b-bbfa422df86e"
 	},
 	{
 		"kanjiForms": [
@@ -34945,7 +35117,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1018610"
+		"id": "1018610",
+		"noteID": "word_77349bc3-802d-451e-a14a-d33f9b61c479"
 	},
 	{
 		"kanjiForms": [
@@ -35145,7 +35318,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1381520"
+		"id": "1381520",
+		"noteID": "word_3bc0f267-ae63-4f77-b289-a2bdad1bf147"
 	},
 	{
 		"kanjiForms": [
@@ -35354,7 +35528,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1579830"
+		"id": "1579830",
+		"noteID": "word_7052cff4-4c33-4ec3-9d3d-0c30df7322b6"
 	},
 	{
 		"kanjiForms": [
@@ -35586,7 +35761,8 @@
 			"takes::suru",
 			"common_vocab"
 		],
-		"id": "1198600"
+		"id": "1198600",
+		"noteID": "word_15d19937-0358-4eca-917e-1a816af5a2d8"
 	},
 	{
 		"kanjiForms": [
@@ -35723,7 +35899,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1550770"
+		"id": "1550770",
+		"noteID": "word_7efec5b9-a79b-4f13-8787-88dfdced2f22"
 	},
 	{
 		"kanjiForms": [
@@ -35899,7 +36076,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1335750"
+		"id": "1335750",
+		"noteID": "word_cedbd60d-4542-401a-8ab7-4570d172f343"
 	},
 	{
 		"kanjiForms": [
@@ -36033,7 +36211,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1335830"
+		"id": "1335830",
+		"noteID": "word_784271c3-c97e-4916-9540-a2c136ff16f4"
 	},
 	{
 		"kanjiForms": [
@@ -36188,7 +36367,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1335800"
+		"id": "1335800",
+		"noteID": "word_182d55af-9352-45e8-bb97-3b765dae39b6"
 	},
 	{
 		"kanjiForms": [
@@ -36314,7 +36494,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1335760"
+		"id": "1335760",
+		"noteID": "word_a5a0f417-7f65-4739-9d6a-a544312588b6"
 	},
 	{
 		"kanjiForms": [
@@ -36546,7 +36727,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1336900"
+		"id": "1336900",
+		"noteID": "word_2a986dea-8f7d-491b-8714-405287df5d12"
 	},
 	{
 		"kanjiForms": [
@@ -36797,7 +36979,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1589410"
+		"id": "1589410",
+		"noteID": "word_ab3f29c2-d115-4385-9962-6c255ea85791"
 	},
 	{
 		"kanjiForms": [
@@ -36944,7 +37127,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1335940"
+		"id": "1335940",
+		"noteID": "word_ec8fff4a-1c97-4cb6-affd-cdc1eb9e46da"
 	},
 	{
 		"kanjiForms": [
@@ -37072,7 +37256,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1335950"
+		"id": "1335950",
+		"noteID": "word_0739e7b8-3a19-4f0b-980a-eb33a84c6af7"
 	},
 	{
 		"kanjiForms": [
@@ -37206,7 +37391,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1335930"
+		"id": "1335930",
+		"noteID": "word_ec558392-73af-4cf8-b172-0d298f7b3c6d"
 	},
 	{
 		"kanjiForms": [
@@ -37441,7 +37627,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1952390"
+		"id": "1952390",
+		"noteID": "word_3805efef-3da5-4829-985e-bff23d2d6f12"
 	},
 	{
 		"kanjiForms": [
@@ -37580,7 +37767,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1335780"
+		"id": "1335780",
+		"noteID": "word_cabd3e43-985f-4116-8af8-24ba03dc3562"
 	},
 	{
 		"kanjiForms": [
@@ -37789,7 +37977,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1336560"
+		"id": "1336560",
+		"noteID": "word_42a9a13d-dc96-4255-bc5a-9883cc29bdcf"
 	},
 	{
 		"kanjiForms": [
@@ -37922,7 +38111,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1659300"
+		"id": "1659300",
+		"noteID": "word_c25168b1-ef0e-40b2-93c3-7b1f75b4281a"
 	},
 	{
 		"kanjiForms": [
@@ -38133,7 +38323,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1786530"
+		"id": "1786530",
+		"noteID": "word_11953969-a7e8-4f03-96d1-ff8fb9f00813"
 	},
 	{
 		"kanjiForms": [
@@ -38361,7 +38552,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1537570"
+		"id": "1537570",
+		"noteID": "word_c0ad3aff-555f-4012-837f-625701644b9d"
 	},
 	{
 		"kanjiForms": [
@@ -38511,7 +38703,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1554640"
+		"id": "1554640",
+		"noteID": "word_4fe17385-227e-44e7-b200-72f73cc98cca"
 	},
 	{
 		"kanjiForms": [
@@ -38737,7 +38930,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1415190"
+		"id": "1415190",
+		"noteID": "word_08255b90-1081-4e3f-ae7c-d13394d28e9e"
 	},
 	{
 		"kanjiForms": [
@@ -38927,7 +39121,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1172140"
+		"id": "1172140",
+		"noteID": "word_95f2a7ca-6a1d-456b-9300-a15c12e61d99"
 	},
 	{
 		"kanjiForms": [
@@ -39150,7 +39345,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1184120"
+		"id": "1184120",
+		"noteID": "word_53eed8d2-c328-47fa-bb22-d57a166cc276"
 	},
 	{
 		"kanjiForms": [
@@ -39301,7 +39497,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1242590"
+		"id": "1242590",
+		"noteID": "word_22340e23-c665-4718-bbc0-dd3fe7f069be"
 	},
 	{
 		"kanjiForms": [
@@ -39524,7 +39721,8 @@
 			"colloquialism",
 			"common_vocab"
 		],
-		"id": "1242600"
+		"id": "1242600",
+		"noteID": "word_5cf9377f-0b9b-4e4b-9c4a-95dbad8bf3bd"
 	},
 	{
 		"kanjiForms": [
@@ -39751,7 +39949,8 @@
 			"teineigo",
 			"common_vocab"
 		],
-		"id": "1001820"
+		"id": "1001820",
+		"noteID": "word_e9765393-4f4a-4d19-ab99-bfb054b1d60b"
 	},
 	{
 		"kanjiForms": [
@@ -39979,7 +40178,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1545020"
+		"id": "1545020",
+		"noteID": "word_967e358f-c518-47e3-90eb-85fd3b90408d"
 	},
 	{
 		"kanjiForms": [
@@ -40202,7 +40402,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1242700"
+		"id": "1242700",
+		"noteID": "word_779acb75-19d6-47dd-9042-7195e6f87a8c"
 	},
 	{
 		"kanjiForms": [
@@ -40424,7 +40625,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1243020"
+		"id": "1243020",
+		"noteID": "word_55c47ab6-5656-4011-8e26-fbe979757d3d"
 	},
 	{
 		"kanjiForms": [
@@ -40639,7 +40841,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1338650"
+		"id": "1338650",
+		"noteID": "word_87b3f1d7-7c0a-4098-b0fe-29629632c544"
 	},
 	{
 		"kanjiForms": [
@@ -40866,7 +41069,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1413500"
+		"id": "1413500",
+		"noteID": "word_27dc417e-f28b-4f91-abac-8124ef5df64f"
 	},
 	{
 		"kanjiForms": [
@@ -41103,7 +41307,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1181860"
+		"id": "1181860",
+		"noteID": "word_c846c040-d943-41a0-9c52-98bef0d2f4f2"
 	},
 	{
 		"kanjiForms": [
@@ -41326,7 +41531,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1243150"
+		"id": "1243150",
+		"noteID": "word_b4842177-708e-4eee-9968-e7e208677847"
 	},
 	{
 		"kanjiForms": [
@@ -41552,7 +41758,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1284730"
+		"id": "1284730",
+		"noteID": "word_c82e6731-5b39-4e30-86d6-726fd121f048"
 	},
 	{
 		"kanjiForms": [
@@ -41762,7 +41969,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1333620"
+		"id": "1333620",
+		"noteID": "word_1acf6483-a184-4f5a-b464-92c8152eb822"
 	},
 	{
 		"kanjiForms": [
@@ -41977,7 +42185,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1242750"
+		"id": "1242750",
+		"noteID": "word_eb8547b0-93b9-40ec-b150-df013f4f5177"
 	},
 	{
 		"kanjiForms": [
@@ -42196,7 +42405,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1366250"
+		"id": "1366250",
+		"noteID": "word_4cfb6d22-c9e9-410c-8db4-396dfde7d288"
 	},
 	{
 		"kanjiForms": [
@@ -42412,7 +42622,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1450840"
+		"id": "1450840",
+		"noteID": "word_d79aa16a-871d-4109-9221-0ac919971c55"
 	},
 	{
 		"kanjiForms": [
@@ -42548,7 +42759,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1436840"
+		"id": "1436840",
+		"noteID": "word_98bc301e-877d-457b-a7b7-d18f738822bf"
 	},
 	{
 		"kanjiForms": [
@@ -42663,7 +42875,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1209080"
+		"id": "1209080",
+		"noteID": "word_0f8e2656-33d4-42c9-a8fe-c70f1f3ac040"
 	},
 	{
 		"kanjiForms": [
@@ -43031,7 +43244,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1366210"
+		"id": "1366210",
+		"noteID": "word_f681f5ed-7dea-4534-879c-9a0b3c656d81"
 	},
 	{
 		"kanjiForms": [
@@ -43389,7 +43603,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1593860"
+		"id": "1593860",
+		"noteID": "word_12e7f4eb-2f58-44a9-ae0d-bd87d53d5d3c"
 	},
 	{
 		"kanjiForms": [
@@ -43703,7 +43918,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1598190"
+		"id": "1598190",
+		"noteID": "word_eab976e4-f685-42be-b13b-aaf4ed29f84c"
 	},
 	{
 		"kanjiForms": [
@@ -43869,7 +44085,8 @@
 			"internet_slang",
 			"common_vocab"
 		],
-		"id": "1434040"
+		"id": "1434040",
+		"noteID": "word_d691d6d5-f7e6-463b-b01e-9013dedc5cd6"
 	},
 	{
 		"kanjiForms": [
@@ -44002,7 +44219,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1434120"
+		"id": "1434120",
+		"noteID": "word_25d0d996-4b31-467a-b0cf-8afe7a300743"
 	},
 	{
 		"kanjiForms": [
@@ -44246,7 +44464,8 @@
 			"jocular_humorous",
 			"common_vocab"
 		],
-		"id": "1270550"
+		"id": "1270550",
+		"noteID": "word_4c0431b7-63c0-4e9d-b3b6-7f73e4b1f59f"
 	},
 	{
 		"kanjiForms": [
@@ -44466,7 +44685,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1598160"
+		"id": "1598160",
+		"noteID": "word_a41971fa-417b-4a42-ba75-d71733dd06e9"
 	},
 	{
 		"kanjiForms": [
@@ -44667,7 +44887,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1123880"
+		"id": "1123880",
+		"noteID": "word_6070b3d9-4cd7-4c06-a0d1-2c7579f27648"
 	},
 	{
 		"kanjiForms": [
@@ -44827,7 +45048,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1582430"
+		"id": "1582430",
+		"noteID": "word_974f4e74-2695-4d04-beae-6eb98adf5b0d"
 	},
 	{
 		"kanjiForms": [
@@ -44969,7 +45191,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1582440"
+		"id": "1582440",
+		"noteID": "word_7d9d8a26-4172-4af8-83f1-69858f047fd0"
 	},
 	{
 		"kanjiForms": [
@@ -45111,7 +45334,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1557580"
+		"id": "1557580",
+		"noteID": "word_a13c5dec-33ac-4bb1-97f8-286ce2c883f3"
 	},
 	{
 		"kanjiForms": [
@@ -45314,7 +45538,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1500090"
+		"id": "1500090",
+		"noteID": "word_4bc654d1-b4e8-4f7e-8e56-de81327e44d9"
 	},
 	{
 		"kanjiForms": [
@@ -45556,7 +45781,8 @@
 			"colloquialism",
 			"common_vocab"
 		],
-		"id": "1437780"
+		"id": "1437780",
+		"noteID": "word_f746efc1-fafb-4cac-acb4-e636e787269b"
 	},
 	{
 		"kanjiForms": [
@@ -45768,7 +45994,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1437880"
+		"id": "1437880",
+		"noteID": "word_359289e3-44d4-4df7-81fa-4cdebd671fdf"
 	},
 	{
 		"kanjiForms": [
@@ -45964,7 +46191,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1443650"
+		"id": "1443650",
+		"noteID": "word_90efa09c-ad18-4990-9293-2e3ab7a619ca"
 	},
 	{
 		"kanjiForms": [
@@ -46159,7 +46387,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1437890"
+		"id": "1437890",
+		"noteID": "word_4dd9caf8-a51c-4c8b-8e8f-1ace12be07fb"
 	},
 	{
 		"kanjiForms": [
@@ -46365,7 +46594,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1282740"
+		"id": "1282740",
+		"noteID": "word_0607993b-6ddb-4552-bf75-ae1444a51a3a"
 	},
 	{
 		"kanjiForms": [
@@ -46566,7 +46796,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1437860"
+		"id": "1437860",
+		"noteID": "word_0265b451-2eb4-4864-b227-2cfc2f11c361"
 	},
 	{
 		"kanjiForms": [
@@ -46759,7 +46990,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1392450"
+		"id": "1392450",
+		"noteID": "word_008c6b14-5190-48bd-8876-5af68aae9efc"
 	},
 	{
 		"kanjiForms": [
@@ -46894,7 +47126,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1178500"
+		"id": "1178500",
+		"noteID": "word_23320c0d-1023-40ea-991d-a09e73d59c80"
 	},
 	{
 		"kanjiForms": [
@@ -47094,7 +47327,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1287560"
+		"id": "1287560",
+		"noteID": "word_e8acacf6-172b-4b1d-834a-8f967e626a30"
 	},
 	{
 		"kanjiForms": [
@@ -47237,7 +47471,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1477090"
+		"id": "1477090",
+		"noteID": "word_545a6faf-d334-4cf3-b51c-52da9d83d770"
 	},
 	{
 		"kanjiForms": [
@@ -47419,7 +47654,8 @@
 			"archaism",
 			"common_vocab"
 		],
-		"id": "1595090"
+		"id": "1595090",
+		"noteID": "word_09b7e2c1-1f12-4a94-9862-ce967d6a7ad0"
 	},
 	{
 		"kanjiForms": [
@@ -47620,7 +47856,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1243550"
+		"id": "1243550",
+		"noteID": "word_d634b2e8-8d2d-4d28-96ae-aba2c663083a"
 	},
 	{
 		"kanjiForms": [
@@ -47830,7 +48067,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1381710"
+		"id": "1381710",
+		"noteID": "word_845ce8fa-0918-4d0c-b4c7-fbf31c66ddf7"
 	},
 	{
 		"kanjiForms": [
@@ -47967,7 +48205,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1532810"
+		"id": "1532810",
+		"noteID": "word_58f82a9b-d60f-46b5-b18e-7da67986f02b"
 	},
 	{
 		"kanjiForms": [
@@ -48196,7 +48435,8 @@
 			"archaism",
 			"common_vocab"
 		],
-		"id": "1392410"
+		"id": "1392410",
+		"noteID": "word_61d1f82f-b72b-4588-815e-ae1ce074af24"
 	},
 	{
 		"kanjiForms": [
@@ -48455,7 +48695,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1593820"
+		"id": "1593820",
+		"noteID": "word_42638c0a-b922-4b18-8f21-29d064a45f47"
 	},
 	{
 		"kanjiForms": [
@@ -48663,7 +48904,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1614530"
+		"id": "1614530",
+		"noteID": "word_9e243ec8-8ec8-499c-b8ab-a8179391aa9e"
 	},
 	{
 		"kanjiForms": [
@@ -48835,7 +49077,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1587780"
+		"id": "1587780",
+		"noteID": "word_da59e16f-13e4-4e45-b657-7afa56671430"
 	},
 	{
 		"kanjiForms": [
@@ -48978,7 +49221,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1232930"
+		"id": "1232930",
+		"noteID": "word_a4f42c82-c54e-49d9-871c-d7dd898db802"
 	},
 	{
 		"kanjiForms": [
@@ -49205,7 +49449,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1561590"
+		"id": "1561590",
+		"noteID": "word_7a090b51-a237-48e3-9a3a-7807e40e03c1"
 	},
 	{
 		"kanjiForms": [
@@ -49333,7 +49578,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1299640"
+		"id": "1299640",
+		"noteID": "word_d9c9b220-d566-434d-933a-c46fa62e9fb2"
 	},
 	{
 		"kanjiForms": [
@@ -49602,7 +49848,8 @@
 			"counter",
 			"common_vocab"
 		],
-		"id": "1633480"
+		"id": "1633480",
+		"noteID": "word_31b0f7bc-f150-4487-a243-df762c258972"
 	},
 	{
 		"kanjiForms": [
@@ -49924,7 +50171,8 @@
 			"historical",
 			"common_vocab"
 		],
-		"id": "1327900"
+		"id": "1327900",
+		"noteID": "word_7236b662-a70b-4412-a49e-c19204a3bf7e"
 	},
 	{
 		"kanjiForms": [
@@ -50049,7 +50297,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1241340"
+		"id": "1241340",
+		"noteID": "word_f857d32d-b989-4f46-91b1-d1c40c4bbd51"
 	},
 	{
 		"kanjiForms": [
@@ -50186,7 +50435,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1324280"
+		"id": "1324280",
+		"noteID": "word_4382aa0b-cede-456c-a197-5f8917993ed7"
 	},
 	{
 		"kanjiForms": [
@@ -50387,7 +50637,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1561600"
+		"id": "1561600",
+		"noteID": "word_1e11a54f-3b7f-439f-9b6a-5e142b13a3bf"
 	},
 	{
 		"kanjiForms": [
@@ -50613,7 +50864,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1037560"
+		"id": "1037560",
+		"noteID": "word_c554d11c-92a0-447b-8690-87678787ecd7"
 	},
 	{
 		"kanjiForms": [
@@ -51012,7 +51264,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1629420"
+		"id": "1629420",
+		"noteID": "word_1db6d6d7-9c98-41f4-b6c8-77961e37060f"
 	},
 	{
 		"kanjiForms": [
@@ -51156,7 +51409,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1459720"
+		"id": "1459720",
+		"noteID": "word_853d372b-6911-44f1-bf35-9ceb207a8984"
 	},
 	{
 		"kanjiForms": [
@@ -51282,7 +51536,8 @@
 			"food",
 			"common_vocab"
 		],
-		"id": "2194120"
+		"id": "2194120",
+		"noteID": "word_c900508e-1a46-4619-b9a6-31ff4612bf51"
 	},
 	{
 		"kanjiForms": [
@@ -51410,7 +51665,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1419120"
+		"id": "1419120",
+		"noteID": "word_a5b4f4ff-93b0-492d-ad35-ef07e155a7c6"
 	},
 	{
 		"kanjiForms": [
@@ -51663,7 +51919,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1260490"
+		"id": "1260490",
+		"noteID": "word_e6ef77b2-178a-4dab-bf4a-4b56bab374d1"
 	},
 	{
 		"kanjiForms": [
@@ -51834,7 +52091,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1632980"
+		"id": "1632980",
+		"noteID": "word_b82effc7-5157-47c3-bdcf-90acde932711"
 	},
 	{
 		"kanjiForms": [
@@ -52061,7 +52319,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1291730"
+		"id": "1291730",
+		"noteID": "word_b0ebb79c-f49a-4776-b9a5-b334d2dc338d"
 	},
 	{
 		"kanjiForms": [
@@ -52297,7 +52556,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1508670"
+		"id": "1508670",
+		"noteID": "word_18017fb9-1dcc-469b-9fa6-75ee00402554"
 	},
 	{
 		"kanjiForms": [
@@ -52533,7 +52793,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1508540"
+		"id": "1508540",
+		"noteID": "word_6bd78c13-6de4-469c-9236-900e043b2411"
 	},
 	{
 		"kanjiForms": [
@@ -52742,7 +53003,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1432060"
+		"id": "1432060",
+		"noteID": "word_9419d631-acb5-40ba-b945-5a93e530be92"
 	},
 	{
 		"kanjiForms": [
@@ -52995,7 +53257,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1594280"
+		"id": "1594280",
+		"noteID": "word_dd80076a-e1f6-4cb4-97e6-5304be755468"
 	},
 	{
 		"kanjiForms": [
@@ -53214,7 +53477,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1594270"
+		"id": "1594270",
+		"noteID": "word_c8411bde-0ab6-4b60-be34-6bc38c2896a6"
 	},
 	{
 		"kanjiForms": [
@@ -53370,7 +53634,8 @@
 			"abbreviation",
 			"common_vocab"
 		],
-		"id": "1238550"
+		"id": "1238550",
+		"noteID": "word_045119a9-ed6d-42b7-9b03-79f49f7262f3"
 	},
 	{
 		"kanjiForms": [
@@ -53502,7 +53767,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1352030"
+		"id": "1352030",
+		"noteID": "word_23560ec8-fd29-45ea-9e3c-0a6e18b2e1f8"
 	},
 	{
 		"kanjiForms": [
@@ -53659,7 +53925,8 @@
 			"music",
 			"common_vocab"
 		],
-		"id": "1429740"
+		"id": "1429740",
+		"noteID": "word_8ebb093b-c0a4-47f6-906d-b1728ef6092d"
 	},
 	{
 		"kanjiForms": [
@@ -53885,7 +54152,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1198770"
+		"id": "1198770",
+		"noteID": "word_23cbe372-eca7-4b0b-84c6-57d5253bfa76"
 	},
 	{
 		"kanjiForms": [
@@ -54021,7 +54289,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1429770"
+		"id": "1429770",
+		"noteID": "word_b3e9f790-df88-44cb-9bf2-41ee412aac53"
 	},
 	{
 		"kanjiForms": [
@@ -54221,7 +54490,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1170210"
+		"id": "1170210",
+		"noteID": "word_a969f98b-641d-4c77-9de6-609cee0d01a6"
 	},
 	{
 		"kanjiForms": [
@@ -54454,7 +54724,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1429760"
+		"id": "1429760",
+		"noteID": "word_3fa852bf-eb8c-440e-ba7d-d45de0e37d45"
 	},
 	{
 		"kanjiForms": [
@@ -54678,7 +54949,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1206990"
+		"id": "1206990",
+		"noteID": "word_7caaf526-9fba-4e3e-897c-77ee04cfebd1"
 	},
 	{
 		"kanjiForms": [
@@ -54881,7 +55153,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1329320"
+		"id": "1329320",
+		"noteID": "word_bca54078-604d-4255-80d9-3221d3846a3e"
 	},
 	{
 		"kanjiForms": [
@@ -55104,7 +55377,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1411530"
+		"id": "1411530",
+		"noteID": "word_84e15034-8a3e-4062-b919-1ebe00ffea50"
 	},
 	{
 		"kanjiForms": [
@@ -55304,7 +55578,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1216240"
+		"id": "1216240",
+		"noteID": "word_300af453-030e-4022-a545-e5ed6b86fe4a"
 	},
 	{
 		"kanjiForms": [
@@ -55534,7 +55809,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1379370"
+		"id": "1379370",
+		"noteID": "word_30618cbc-8f8d-414e-aa38-d23ce744f9d1"
 	},
 	{
 		"kanjiForms": [
@@ -55826,7 +56102,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1797640"
+		"id": "1797640",
+		"noteID": "word_264ad433-03e2-4918-9070-c34e43c86952"
 	},
 	{
 		"kanjiForms": [
@@ -56022,7 +56299,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1175190"
+		"id": "1175190",
+		"noteID": "word_9286c4e9-82f1-47c7-8c2b-b653d4482f30"
 	},
 	{
 		"kanjiForms": [
@@ -56249,7 +56527,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1429840"
+		"id": "1429840",
+		"noteID": "word_de944b8f-a184-400c-bb5b-f751bdfb64aa"
 	},
 	{
 		"kanjiForms": [
@@ -56403,7 +56682,8 @@
 			"counter",
 			"common_vocab"
 		],
-		"id": "1584800"
+		"id": "1584800",
+		"noteID": "word_2d80dda3-91af-4a06-b08f-85f40c324507"
 	},
 	{
 		"kanjiForms": [
@@ -56615,7 +56895,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1216040"
+		"id": "1216040",
+		"noteID": "word_54d95d49-5f53-4a52-8948-6a29d5a5ae99"
 	},
 	{
 		"kanjiForms": [
@@ -56808,7 +57089,8 @@
 			"sumo",
 			"common_vocab"
 		],
-		"id": "1167020"
+		"id": "1167020",
+		"noteID": "word_515002fd-ecfd-4e86-9ffd-17ed04f776e1"
 	},
 	{
 		"kanjiForms": [
@@ -56947,7 +57229,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1392480"
+		"id": "1392480",
+		"noteID": "word_feb54bdf-a5cc-4849-95e4-9f6ec9f4d0b7"
 	},
 	{
 		"kanjiForms": [
@@ -57085,7 +57368,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1508590"
+		"id": "1508590",
+		"noteID": "word_ba94f8f2-0b1b-49e9-b300-a18b631838e6"
 	},
 	{
 		"kanjiForms": [
@@ -57225,7 +57509,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1508550"
+		"id": "1508550",
+		"noteID": "word_f5c7be7b-8a3c-4429-85d9-d4712a8b5bdc"
 	},
 	{
 		"kanjiForms": [
@@ -57437,7 +57722,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1202940"
+		"id": "1202940",
+		"noteID": "word_67eb6c42-6a6f-4600-87cf-76382abfaa6b"
 	},
 	{
 		"kanjiForms": [
@@ -57692,7 +57978,8 @@
 			"sports",
 			"common_vocab"
 		],
-		"id": "1202440"
+		"id": "1202440",
+		"noteID": "word_a0695fa3-b062-42ed-9722-802f8ff4d712"
 	},
 	{
 		"kanjiForms": [
@@ -58094,7 +58381,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1586270"
+		"id": "1586270",
+		"noteID": "word_30f2beaa-33ff-4370-b102-620b5b8d0c2a"
 	},
 	{
 		"kanjiForms": [
@@ -58502,7 +58790,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1202450"
+		"id": "1202450",
+		"noteID": "word_12d5a5af-03f0-46f6-91ea-b6982bc9bc99"
 	},
 	{
 		"kanjiForms": [
@@ -58677,7 +58966,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1202460"
+		"id": "1202460",
+		"noteID": "word_c078c275-338d-42a4-9999-81677ce267ff"
 	},
 	{
 		"kanjiForms": [
@@ -58802,7 +59092,8 @@
 			"suffix",
 			"common_vocab"
 		],
-		"id": "1989500"
+		"id": "1989500",
+		"noteID": "word_43d42428-6ba6-429d-bd15-b1fb9ef387b4"
 	},
 	{
 		"kanjiForms": [
@@ -59040,7 +59331,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1202580"
+		"id": "1202580",
+		"noteID": "word_4a410a8d-0dbb-47ca-8d13-779d1f35c88f"
 	},
 	{
 		"kanjiForms": [
@@ -59242,7 +59534,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1215730"
+		"id": "1215730",
+		"noteID": "word_06fc2592-628b-488e-9b04-70bf40de837d"
 	},
 	{
 		"kanjiForms": [
@@ -59473,7 +59766,8 @@
 			"na-adjective/adjectival_noun",
 			"common_vocab"
 		],
-		"id": "1381820"
+		"id": "1381820",
+		"noteID": "word_307282f4-a4da-4d41-baf5-b6a7fe8010c6"
 	},
 	{
 		"kanjiForms": [
@@ -59657,7 +59951,8 @@
 			"archaism",
 			"common_vocab"
 		],
-		"id": "1215230"
+		"id": "1215230",
+		"noteID": "word_ef5d112d-c4a3-45b4-be66-d87be71bfa0b"
 	},
 	{
 		"kanjiForms": [
@@ -59804,7 +60099,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1215240"
+		"id": "1215240",
+		"noteID": "word_9bd5131d-4bb7-4551-866d-a5b6c3b5efff"
 	},
 	{
 		"kanjiForms": [
@@ -59969,7 +60265,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "2067900"
+		"id": "2067900",
+		"noteID": "word_32ced0d4-b2aa-4dc8-b173-190386056159"
 	},
 	{
 		"kanjiForms": [
@@ -60189,7 +60486,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1366770"
+		"id": "1366770",
+		"noteID": "word_0d6d5243-3502-4ea1-9ed9-fcf8ed351c1a"
 	},
 	{
 		"kanjiForms": [
@@ -60411,7 +60709,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1327410"
+		"id": "1327410",
+		"noteID": "word_bd75fbe7-e08f-4f19-8a08-8d0b44e18ba9"
 	},
 	{
 		"kanjiForms": [
@@ -60627,7 +60926,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1000390"
+		"id": "1000390",
+		"noteID": "word_d7925267-94c7-48bd-8776-a3df0f53028d"
 	},
 	{
 		"kanjiForms": [
@@ -60856,7 +61156,8 @@
 			"computer_terminology",
 			"common_vocab"
 		],
-		"id": "1215380"
+		"id": "1215380",
+		"noteID": "word_3cb25f63-3469-4bf5-aa59-bb21a776939e"
 	},
 	{
 		"kanjiForms": [
@@ -61097,7 +61398,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1284670"
+		"id": "1284670",
+		"noteID": "word_30d7ff1b-6b68-4abe-b6d0-e2baa08ee9bd"
 	},
 	{
 		"kanjiForms": [
@@ -61406,7 +61708,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1188850"
+		"id": "1188850",
+		"noteID": "word_1617f7e3-dd0c-42f1-8b2a-60693dff6c9a"
 	},
 	{
 		"kanjiForms": [
@@ -61734,7 +62037,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1215450"
+		"id": "1215450",
+		"noteID": "word_5c714126-0391-4fbd-831d-4f903017be08"
 	},
 	{
 		"kanjiForms": [
@@ -61961,7 +62265,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1215500"
+		"id": "1215500",
+		"noteID": "word_43cb4fc1-f978-433e-8ab0-af81812e07aa"
 	},
 	{
 		"kanjiForms": [
@@ -62254,7 +62559,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1215340"
+		"id": "1215340",
+		"noteID": "word_3fc79861-6f09-4f1c-bc74-9ded34e91688"
 	},
 	{
 		"kanjiForms": [
@@ -62445,7 +62751,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1638750"
+		"id": "1638750",
+		"noteID": "word_321c4bff-de39-4e03-ab9b-133885a6bef3"
 	},
 	{
 		"kanjiForms": [
@@ -62583,7 +62890,8 @@
 			"go",
 			"common_vocab"
 		],
-		"id": "1215770"
+		"id": "1215770",
+		"noteID": "word_f6cd816e-8976-4ef0-9f91-4220b3f68220"
 	},
 	{
 		"kanjiForms": [
@@ -62726,7 +63034,8 @@
 			"expression",
 			"common_vocab"
 		],
-		"id": "1009740"
+		"id": "1009740",
+		"noteID": "word_aae8be80-5913-4eb0-8fc8-a67418e47fb9"
 	},
 	{
 		"kanjiForms": [
@@ -62870,7 +63179,8 @@
 			"suru_verb",
 			"common_vocab"
 		],
-		"id": "1215790"
+		"id": "1215790",
+		"noteID": "word_a86a3038-38c1-497d-8ed2-9587f0e8a507"
 	},
 	{
 		"kanjiForms": [
@@ -63082,7 +63392,8 @@
 			"sumo",
 			"common_vocab"
 		],
-		"id": "1643790"
+		"id": "1643790",
+		"noteID": "word_67b45292-6ca1-4c3a-998a-7d68120ff14a"
 	},
 	{
 		"kanjiForms": [
@@ -63325,7 +63636,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1460900"
+		"id": "1460900",
+		"noteID": "word_88bb884e-ef08-4948-9d70-f9bc0e9c2dc9"
 	},
 	{
 		"kanjiForms": [
@@ -63438,7 +63750,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1478310"
+		"id": "1478310",
+		"noteID": "word_4d07d20c-fea8-409d-88e7-6eed7a66313f"
 	},
 	{
 		"kanjiForms": [
@@ -63594,7 +63907,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1154910"
+		"id": "1154910",
+		"noteID": "word_f019590d-bc6b-47ad-a1c8-baeea4cf5e4f"
 	},
 	{
 		"kanjiForms": [
@@ -63799,7 +64113,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1520240"
+		"id": "1520240",
+		"noteID": "word_b435143f-ba8d-4182-ac51-613cdce18a77"
 	},
 	{
 		"kanjiForms": [
@@ -63964,7 +64279,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1282790"
+		"id": "1282790",
+		"noteID": "word_c61212c8-b08d-45d7-abe1-a74ddf95f2d4"
 	},
 	{
 		"kanjiForms": [
@@ -64254,7 +64570,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1589500"
+		"id": "1589500",
+		"noteID": "word_4944e7f6-489a-48f7-8235-8e03b355bfdf"
 	},
 	{
 		"kanjiForms": [
@@ -64472,7 +64789,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1586690"
+		"id": "1586690",
+		"noteID": "word_246d6ee1-44a2-4a44-9a28-5f5fc5782b0d"
 	},
 	{
 		"kanjiForms": [
@@ -64677,7 +64995,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1282810"
+		"id": "1282810",
+		"noteID": "word_5214295d-a50e-4330-be96-76075c1bb0be"
 	},
 	{
 		"kanjiForms": [
@@ -64904,7 +65223,8 @@
 			"takes::suru",
 			"common_vocab"
 		],
-		"id": "1282910"
+		"id": "1282910",
+		"noteID": "word_5f10dbe6-20eb-432e-8c81-72a397cce383"
 	},
 	{
 		"kanjiForms": [
@@ -65144,7 +65464,8 @@
 			"original_meaning",
 			"common_vocab"
 		],
-		"id": "1402970"
+		"id": "1402970",
+		"noteID": "word_090037c0-2420-443a-b8e7-44fbdb1cf0b3"
 	},
 	{
 		"kanjiForms": [
@@ -65352,7 +65673,8 @@
 			"archaism",
 			"common_vocab"
 		],
-		"id": "1264610"
+		"id": "1264610",
+		"noteID": "word_27a82b6c-bb2b-47cf-946d-93fc7cb17574"
 	},
 	{
 		"kanjiForms": [
@@ -65506,7 +65828,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1264640"
+		"id": "1264640",
+		"noteID": "word_f685ac30-9e7e-4ea2-9d9f-6067199ce0e6"
 	},
 	{
 		"kanjiForms": [
@@ -65643,7 +65966,8 @@
 			"expression",
 			"common_vocab"
 		],
-		"id": "2153930"
+		"id": "2153930",
+		"noteID": "word_91f246db-5dbe-42e6-8a7d-1cefc202d6b9"
 	},
 	{
 		"kanjiForms": [
@@ -65868,7 +66192,8 @@
 			"mathematics",
 			"common_vocab"
 		],
-		"id": "1353080"
+		"id": "1353080",
+		"noteID": "word_9872c4c8-a3d3-4611-9c0d-17183ef41bb8"
 	},
 	{
 		"kanjiForms": [
@@ -66083,7 +66408,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1264620"
+		"id": "1264620",
+		"noteID": "word_26bca4b9-a664-4059-a91e-0004fa0b2313"
 	},
 	{
 		"kanjiForms": [
@@ -66231,7 +66557,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1003660"
+		"id": "1003660",
+		"noteID": "word_96158456-a05e-4882-8282-fd4286feba17"
 	},
 	{
 		"kanjiForms": [
@@ -66458,7 +66785,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1296340"
+		"id": "1296340",
+		"noteID": "word_0c05c600-a3b6-43a9-978d-a69e4f0d8d69"
 	},
 	{
 		"kanjiForms": [
@@ -66692,7 +67020,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1580350"
+		"id": "1580350",
+		"noteID": "word_3a20fbf4-50ea-4722-9c8e-a439bc03cce5"
 	},
 	{
 		"kanjiForms": [
@@ -67001,7 +67330,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1413250"
+		"id": "1413250",
+		"noteID": "word_2df4c61f-3a4b-415e-b646-2877db8a26db"
 	},
 	{
 		"kanjiForms": [
@@ -67227,7 +67557,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1339330"
+		"id": "1339330",
+		"noteID": "word_c69308ca-3033-4fbe-b99b-536e3c18f638"
 	},
 	{
 		"kanjiForms": [
@@ -67426,7 +67757,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1635120"
+		"id": "1635120",
+		"noteID": "word_8e208f5c-108a-4732-a63d-9986f8ef8d96"
 	},
 	{
 		"kanjiForms": [
@@ -67572,7 +67904,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1345640"
+		"id": "1345640",
+		"noteID": "word_afeec28e-d9aa-4952-bae0-476fbbe84bd3"
 	},
 	{
 		"kanjiForms": [
@@ -67710,7 +68043,8 @@
 			"expression",
 			"common_vocab"
 		],
-		"id": "1345630"
+		"id": "1345630",
+		"noteID": "word_87ec6d4a-8af0-44df-bfbe-77f9f4062e1f"
 	},
 	{
 		"kanjiForms": [
@@ -67932,7 +68266,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1244860"
+		"id": "1244860",
+		"noteID": "word_1dd48187-825a-48d2-b60d-021b76e9b31a"
 	},
 	{
 		"kanjiForms": [
@@ -68254,7 +68589,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1216120"
+		"id": "1216120",
+		"noteID": "word_e0b53349-455a-4796-a553-65b561633e98"
 	},
 	{
 		"kanjiForms": [
@@ -68465,7 +68801,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1576380"
+		"id": "1576380",
+		"noteID": "word_3accaeee-3199-4632-81c7-0da20d79dab9"
 	},
 	{
 		"kanjiForms": [
@@ -68678,7 +69015,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1170720"
+		"id": "1170720",
+		"noteID": "word_c97aa563-41e7-468b-a195-3b89750253ae"
 	},
 	{
 		"kanjiForms": [
@@ -68812,7 +69150,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1554710"
+		"id": "1554710",
+		"noteID": "word_432a4d30-798f-4436-b204-ec16a56ec629"
 	},
 	{
 		"kanjiForms": [
@@ -69091,7 +69430,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1568430"
+		"id": "1568430",
+		"noteID": "word_1d66b0c6-5410-4bee-8937-a9441c1607f2"
 	},
 	{
 		"kanjiForms": [
@@ -69233,7 +69573,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1550980"
+		"id": "1550980",
+		"noteID": "word_466e3bfb-db07-4ec8-822b-fefc28410f83"
 	},
 	{
 		"kanjiForms": [
@@ -69473,7 +69814,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1415150"
+		"id": "1415150",
+		"noteID": "word_5f3c6a1f-b386-4633-973a-14d88ed82caf"
 	},
 	{
 		"kanjiForms": [
@@ -69701,7 +70043,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1550970"
+		"id": "1550970",
+		"noteID": "word_5b2ea8b9-b5f4-4a9c-b3aa-a9b2d7aef7b2"
 	},
 	{
 		"kanjiForms": [
@@ -69953,7 +70296,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1354480"
+		"id": "1354480",
+		"noteID": "word_28aabb03-e2fc-4854-9ecd-42e1f73de6a9"
 	},
 	{
 		"kanjiForms": [
@@ -70086,7 +70430,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1592280"
+		"id": "1592280",
+		"noteID": "word_22c87844-49b2-4424-a91a-03e3ef7edcda"
 	},
 	{
 		"kanjiForms": [
@@ -70275,7 +70620,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1575980"
+		"id": "1575980",
+		"noteID": "word_c36e2a2a-cf8f-41dc-a9dd-3f08f9f13b03"
 	},
 	{
 		"kanjiForms": [
@@ -70508,7 +70854,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1003920"
+		"id": "1003920",
+		"noteID": "word_b8976c3d-5d3e-43ee-8122-81d6ae6d3943"
 	},
 	{
 		"kanjiForms": [
@@ -70711,7 +71058,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1414480"
+		"id": "1414480",
+		"noteID": "word_8ac606b7-12d1-4a6d-938b-69c57875572d"
 	},
 	{
 		"kanjiForms": [
@@ -70835,7 +71183,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1613100"
+		"id": "1613100",
+		"noteID": "word_0ca64e30-ef7a-49f4-a662-59ae99d12235"
 	},
 	{
 		"kanjiForms": [
@@ -70991,7 +71340,8 @@
 			"counter",
 			"common_vocab"
 		],
-		"id": "1203020"
+		"id": "1203020",
+		"noteID": "word_82c4236e-59e3-42af-9f8b-d90706835273"
 	},
 	{
 		"kanjiForms": [
@@ -71213,7 +71563,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1161380"
+		"id": "1161380",
+		"noteID": "word_f90a79dc-fddb-4886-b386-8758aaf836e4"
 	},
 	{
 		"kanjiForms": [
@@ -71421,7 +71772,8 @@
 			"music",
 			"common_vocab"
 		],
-		"id": "1183710"
+		"id": "1183710",
+		"noteID": "word_3c88b132-da4b-4def-ac1d-a08db7d8d726"
 	},
 	{
 		"kanjiForms": [
@@ -71648,7 +72000,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1206440"
+		"id": "1206440",
+		"noteID": "word_c22cca91-f810-43ae-8650-6027fa5bc4ac"
 	},
 	{
 		"kanjiForms": [
@@ -71782,7 +72135,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1206330"
+		"id": "1206330",
+		"noteID": "word_776ab75e-04d4-4158-98b2-26069ae76df8"
 	},
 	{
 		"kanjiForms": [
@@ -71896,7 +72250,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1206350"
+		"id": "1206350",
+		"noteID": "word_b8859088-9d47-4832-bd28-b30d1afce1c6"
 	},
 	{
 		"kanjiForms": [
@@ -72036,7 +72391,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1296300"
+		"id": "1296300",
+		"noteID": "word_a0bd3636-4de1-49da-bf97-9a7b0546c3fd"
 	},
 	{
 		"kanjiForms": [
@@ -72156,7 +72512,8 @@
 			"expression",
 			"common_vocab"
 		],
-		"id": "2136040"
+		"id": "2136040",
+		"noteID": "word_34b75676-1872-4550-9a48-3188b5cd2c27"
 	},
 	{
 		"kanjiForms": [
@@ -72372,7 +72729,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1327690"
+		"id": "1327690",
+		"noteID": "word_a7fe7a38-819d-425d-a4f1-886123da6aa3"
 	},
 	{
 		"kanjiForms": [
@@ -72583,7 +72941,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1614010"
+		"id": "1614010",
+		"noteID": "word_aaa154c1-c758-4ae2-9706-2c78ca30dc1d"
 	},
 	{
 		"kanjiForms": [
@@ -72893,7 +73252,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1610470"
+		"id": "1610470",
+		"noteID": "word_00a34a7e-9cd9-4583-ad6d-f47c25e56f83"
 	},
 	{
 		"kanjiForms": [
@@ -73026,7 +73386,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1352050"
+		"id": "1352050",
+		"noteID": "word_86be6888-f3b4-4cda-86e5-cf9d540d9aea"
 	},
 	{
 		"kanjiForms": [
@@ -73251,7 +73612,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1222310"
+		"id": "1222310",
+		"noteID": "word_05ae3afc-211a-4a79-b9be-c2bd195a3aec"
 	},
 	{
 		"kanjiForms": [
@@ -73642,7 +74004,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1513830"
+		"id": "1513830",
+		"noteID": "word_f53c6d74-327a-48bd-9fbd-be7d07203219"
 	},
 	{
 		"kanjiForms": [
@@ -73757,7 +74120,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1478360"
+		"id": "1478360",
+		"noteID": "word_fb9ab5ac-58b1-467c-a5e3-2494ce791700"
 	},
 	{
 		"kanjiForms": [
@@ -73898,7 +74262,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1373560"
+		"id": "1373560",
+		"noteID": "word_67918405-481b-45c2-b707-b88e72f9662a"
 	},
 	{
 		"kanjiForms": [
@@ -74099,7 +74464,8 @@
 			"colloquialism",
 			"common_vocab"
 		],
-		"id": "1577700"
+		"id": "1577700",
+		"noteID": "word_89dfa935-3ad0-428e-ad2e-89998818adbe"
 	},
 	{
 		"kanjiForms": [
@@ -74309,7 +74675,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1312940"
+		"id": "1312940",
+		"noteID": "word_d47166e8-5242-48d4-8356-da04e1785359"
 	},
 	{
 		"kanjiForms": [
@@ -74434,7 +74801,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1956400"
+		"id": "1956400",
+		"noteID": "word_f9cb7ced-b971-4ae1-8f25-04311c6237e6"
 	},
 	{
 		"kanjiForms": [
@@ -74573,7 +74941,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1333560"
+		"id": "1333560",
+		"noteID": "word_591fcdb9-7e28-41e4-aa79-abcf11116a28"
 	},
 	{
 		"kanjiForms": [
@@ -74719,7 +75088,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1333550"
+		"id": "1333550",
+		"noteID": "word_a1ced105-4a34-4b1a-90e6-031ee91ba467"
 	},
 	{
 		"kanjiForms": [
@@ -74863,7 +75233,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1609050"
+		"id": "1609050",
+		"noteID": "word_ac8e9077-0227-4535-abda-f1339e382900"
 	},
 	{
 		"kanjiForms": [
@@ -74988,7 +75359,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1333530"
+		"id": "1333530",
+		"noteID": "word_029bb9ee-e519-4252-afbe-6584fcc34e46"
 	},
 	{
 		"kanjiForms": [
@@ -75107,7 +75479,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1333540"
+		"id": "1333540",
+		"noteID": "word_5a1a60a3-773a-4955-a211-1a0adb0c8305"
 	},
 	{
 		"kanjiForms": [
@@ -75258,7 +75631,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1333570"
+		"id": "1333570",
+		"noteID": "word_76fdc857-aba1-4c77-8e01-bcf780018069"
 	},
 	{
 		"kanjiForms": [
@@ -75404,7 +75778,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1299240"
+		"id": "1299240",
+		"noteID": "word_481605eb-199c-4245-82ab-53175f11f5a3"
 	},
 	{
 		"kanjiForms": [
@@ -75638,7 +76013,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1299280"
+		"id": "1299280",
+		"noteID": "word_7f101d5c-c048-420e-942c-c8e6ca8c393f"
 	},
 	{
 		"kanjiForms": [
@@ -75790,7 +76166,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1373400"
+		"id": "1373400",
+		"noteID": "word_b4b8db22-0a4c-456d-a3d2-8209a290dee5"
 	},
 	{
 		"kanjiForms": [
@@ -75952,7 +76329,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1252990"
+		"id": "1252990",
+		"noteID": "word_c7ff6942-41ba-4d7e-917c-58f31560faa6"
 	},
 	{
 		"kanjiForms": [
@@ -76108,7 +76486,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1550840"
+		"id": "1550840",
+		"noteID": "word_a8483cb5-4139-4d77-beaf-c9213b07ff7d"
 	},
 	{
 		"kanjiForms": [
@@ -76237,7 +76616,8 @@
 			"transitive_verb",
 			"common_vocab"
 		],
-		"id": "1550830"
+		"id": "1550830",
+		"noteID": "word_b0771abd-ded0-4cf3-9493-cf738a500700"
 	},
 	{
 		"kanjiForms": [
@@ -76385,7 +76765,8 @@
 			"suffix_noun",
 			"common_vocab"
 		],
-		"id": "1460830"
+		"id": "1460830",
+		"noteID": "word_17ca84ed-7244-4be8-b091-080c404440a0"
 	},
 	{
 		"kanjiForms": [
@@ -76534,7 +76915,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1582640"
+		"id": "1582640",
+		"noteID": "word_65c628c6-40f3-44e8-910e-66a702ca39b2"
 	},
 	{
 		"kanjiForms": [
@@ -76762,7 +77144,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1461020"
+		"id": "1461020",
+		"noteID": "word_f5172775-eb3e-4d4c-8b65-7b2d892831ff"
 	},
 	{
 		"kanjiForms": [
@@ -77007,7 +77390,8 @@
 			"adjective::i",
 			"common_vocab"
 		],
-		"id": "1577750"
+		"id": "1577750",
+		"noteID": "word_030ce78a-b67f-42ba-a339-e282e70d9d26"
 	},
 	{
 		"kanjiForms": [
@@ -77255,7 +77639,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1612470"
+		"id": "1612470",
+		"noteID": "word_156deb10-7ebf-4606-8272-5ceb845677a2"
 	},
 	{
 		"kanjiForms": [
@@ -77498,7 +77883,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1541560"
+		"id": "1541560",
+		"noteID": "word_d67db029-fc48-4bc0-aee7-a77281a6b9f0"
 	},
 	{
 		"kanjiForms": [
@@ -77745,7 +78131,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1586820"
+		"id": "1586820",
+		"noteID": "word_2c07bc7d-a82b-4a57-a4bd-0428006a404d"
 	},
 	{
 		"kanjiForms": [
@@ -77883,7 +78270,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1171900"
+		"id": "1171900",
+		"noteID": "word_9e5648e9-5b9d-439e-b86f-f0edc9b63af2"
 	},
 	{
 		"kanjiForms": [
@@ -78096,7 +78484,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1413070"
+		"id": "1413070",
+		"noteID": "word_8b1963ed-66ed-4ad0-9373-6bbaba53d530"
 	},
 	{
 		"kanjiForms": [
@@ -78303,7 +78692,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1548420"
+		"id": "1548420",
+		"noteID": "word_99e3d3bd-9829-4bff-9636-8594016f9254"
 	},
 	{
 		"kanjiForms": [
@@ -78519,7 +78909,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1499740"
+		"id": "1499740",
+		"noteID": "word_dba0d9c5-8733-4efa-bb7c-e8139f2b1373"
 	},
 	{
 		"kanjiForms": [
@@ -78704,7 +79095,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1171910"
+		"id": "1171910",
+		"noteID": "word_58d7aebe-17a9-42ed-9f62-a4b1606f9587"
 	},
 	{
 		"kanjiForms": [
@@ -78891,7 +79283,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1531120"
+		"id": "1531120",
+		"noteID": "word_58d6fc21-acea-40a4-a43c-9718be78723a"
 	},
 	{
 		"kanjiForms": [
@@ -79025,7 +79418,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1386500"
+		"id": "1386500",
+		"noteID": "word_c6cd35f7-100b-4b6b-8556-9f1fa68a2088"
 	},
 	{
 		"kanjiForms": [
@@ -79252,7 +79646,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1414350"
+		"id": "1414350",
+		"noteID": "word_f9117670-a862-4c9a-aeca-e2d8313b8564"
 	},
 	{
 		"kanjiForms": [
@@ -79384,7 +79779,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1173100"
+		"id": "1173100",
+		"noteID": "word_50724b77-3d86-4250-9ea8-2fd45d04c97b"
 	},
 	{
 		"kanjiForms": [
@@ -79587,7 +79983,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1750300"
+		"id": "1750300",
+		"noteID": "word_0188aba3-0280-4511-9d09-8ff16fe3fdd3"
 	},
 	{
 		"kanjiForms": [
@@ -79795,7 +80192,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1499750"
+		"id": "1499750",
+		"noteID": "word_8c06b123-f4d6-46ab-b1ab-5f096e45064e"
 	},
 	{
 		"kanjiForms": [
@@ -79926,7 +80324,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1557630"
+		"id": "1557630",
+		"noteID": "word_543bfd30-efd6-427b-9703-ce115fea3cca"
 	},
 	{
 		"kanjiForms": [
@@ -80086,7 +80485,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1585060"
+		"id": "1585060",
+		"noteID": "word_fe2c1412-ad87-4b08-8a34-a2922cf24bf8"
 	},
 	{
 		"kanjiForms": [
@@ -80307,7 +80707,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1548470"
+		"id": "1548470",
+		"noteID": "word_a9e83679-8822-4762-a44b-16e3130e95ed"
 	},
 	{
 		"kanjiForms": [
@@ -80516,7 +80917,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1233200"
+		"id": "1233200",
+		"noteID": "word_f76e8857-ffb4-4433-af61-ae5514a9fed3"
 	},
 	{
 		"kanjiForms": [
@@ -80654,7 +81056,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1366310"
+		"id": "1366310",
+		"noteID": "word_74405765-4ede-4b36-ba72-8f41332cf4eb"
 	},
 	{
 		"kanjiForms": [
@@ -80789,7 +81192,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1557730"
+		"id": "1557730",
+		"noteID": "word_4af1838d-9ea6-4dab-b1fe-ec676c51fc47"
 	},
 	{
 		"kanjiForms": [
@@ -81110,7 +81514,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1579170"
+		"id": "1579170",
+		"noteID": "word_84b9feae-4636-4282-921b-34db675a60a7"
 	},
 	{
 		"kanjiForms": [
@@ -81247,7 +81652,8 @@
 			"poetical",
 			"common_vocab"
 		],
-		"id": "1402930"
+		"id": "1402930",
+		"noteID": "word_6fe5cf9b-5cfe-4801-aba3-b22167410e54"
 	},
 	{
 		"kanjiForms": [
@@ -81387,7 +81793,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1531110"
+		"id": "1531110",
+		"noteID": "word_94e334be-eb28-4ab8-bb4f-9d0cffa24fc5"
 	},
 	{
 		"kanjiForms": [
@@ -81586,7 +81993,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1287430"
+		"id": "1287430",
+		"noteID": "word_f0b164e0-ec26-4ca5-9ac7-93bd65322d0e"
 	},
 	{
 		"kanjiForms": [
@@ -81734,7 +82142,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1560070"
+		"id": "1560070",
+		"noteID": "word_0d7368db-3bbd-45ea-95fa-2131e070d086"
 	},
 	{
 		"kanjiForms": [
@@ -81954,7 +82363,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1560120"
+		"id": "1560120",
+		"noteID": "word_e4c98bd5-0d83-48d2-9519-508daf0ca6dc"
 	},
 	{
 		"kanjiForms": [
@@ -82171,7 +82581,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1750950"
+		"id": "1750950",
+		"noteID": "word_9f623328-a3b8-4e02-b985-e8fdfd25dec4"
 	},
 	{
 		"kanjiForms": [
@@ -82304,7 +82715,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1381830"
+		"id": "1381830",
+		"noteID": "word_ba4fe7e3-c021-4b96-9c0f-5ec718498ce9"
 	},
 	{
 		"kanjiForms": [
@@ -82442,7 +82854,8 @@
 			"prefix",
 			"common_vocab"
 		],
-		"id": "1484710"
+		"id": "1484710",
+		"noteID": "word_803bb128-9d37-4b98-bde0-a4db01126d4e"
 	},
 	{
 		"kanjiForms": [
@@ -82571,7 +82984,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1575320"
+		"id": "1575320",
+		"noteID": "word_749163f7-6f7f-448e-a183-5db4564b6101"
 	},
 	{
 		"kanjiForms": [
@@ -82743,7 +83157,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1584680"
+		"id": "1584680",
+		"noteID": "word_68e174f9-e62f-401b-9347-40262315a840"
 	},
 	{
 		"kanjiForms": [
@@ -83002,7 +83417,8 @@
 			"archaism",
 			"common_vocab"
 		],
-		"id": "1584690"
+		"id": "1584690",
+		"noteID": "word_b9eb9fbb-5fa6-4e75-aa77-a5665c97dc64"
 	},
 	{
 		"kanjiForms": [
@@ -83254,7 +83670,8 @@
 			"adverb",
 			"common_vocab"
 		],
-		"id": "1166870"
+		"id": "1166870",
+		"noteID": "word_4eba834e-3639-4ca2-8e75-086a7dd9fe5c"
 	},
 	{
 		"kanjiForms": [
@@ -83470,7 +83887,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1207540"
+		"id": "1207540",
+		"noteID": "word_bd82eef0-0365-42c8-a7ec-a4952a421c11"
 	},
 	{
 		"kanjiForms": [
@@ -83599,7 +84017,8 @@
 			"suru_verb",
 			"common_vocab"
 		],
-		"id": "1533400"
+		"id": "1533400",
+		"noteID": "word_7b19a0fc-6698-42c6-8078-0df00cb1ea8e"
 	},
 	{
 		"kanjiForms": [
@@ -83814,7 +84233,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1217860"
+		"id": "1217860",
+		"noteID": "word_7246bb1d-ed6a-4cde-b9cc-f3c4984e1da3"
 	},
 	{
 		"kanjiForms": [
@@ -83938,7 +84358,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1605050"
+		"id": "1605050",
+		"noteID": "word_ea326bb3-f5bd-48cc-8cfc-9f8eb12405f8"
 	},
 	{
 		"kanjiForms": [
@@ -84069,7 +84490,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "2005620"
+		"id": "2005620",
+		"noteID": "word_2a4d12e3-76e2-4151-9a76-603706eba1fe"
 	},
 	{
 		"kanjiForms": [
@@ -84225,7 +84647,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1574220"
+		"id": "1574220",
+		"noteID": "word_95fd4354-bbde-4c24-a4e7-aa279d430788"
 	},
 	{
 		"kanjiForms": [
@@ -84420,7 +84843,8 @@
 			"takes::no",
 			"common_vocab"
 		],
-		"id": "1611060"
+		"id": "1611060",
+		"noteID": "word_a4ea0052-49e7-4a09-99d1-62fac67d895d"
 	},
 	{
 		"kanjiForms": [
@@ -84569,7 +84993,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1576900"
+		"id": "1576900",
+		"noteID": "word_1d6ec1a4-de41-479e-a06d-439db29a72d6"
 	},
 	{
 		"kanjiForms": [
@@ -84795,7 +85220,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1403060"
+		"id": "1403060",
+		"noteID": "word_e58be4f5-7018-4c1a-91f4-72f45624b11f"
 	},
 	{
 		"kanjiForms": [
@@ -85017,7 +85443,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1502420"
+		"id": "1502420",
+		"noteID": "word_17441d6c-c7b0-4b64-ad27-874c7bd2cd29"
 	},
 	{
 		"kanjiForms": [
@@ -85240,7 +85667,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1183780"
+		"id": "1183780",
+		"noteID": "word_950e1f4f-25c1-4f50-8efb-2102842abc27"
 	},
 	{
 		"kanjiForms": [
@@ -85456,7 +85884,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1183980"
+		"id": "1183980",
+		"noteID": "word_7d6e3490-4465-4606-b774-283bc03e8750"
 	},
 	{
 		"kanjiForms": [
@@ -85671,7 +86100,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1283290"
+		"id": "1283290",
+		"noteID": "word_290b7bc8-996d-464e-81e5-075e1ac86e6c"
 	},
 	{
 		"kanjiForms": [
@@ -85789,7 +86219,8 @@
 			"linguistics",
 			"common_vocab"
 		],
-		"id": "1170930"
+		"id": "1170930",
+		"noteID": "word_a5cb90d8-84f5-469d-b2f4-06b40cb5ebec"
 	},
 	{
 		"kanjiForms": [
@@ -85943,7 +86374,8 @@
 			"noun",
 			"common_vocab"
 		],
-		"id": "1602130"
+		"id": "1602130",
+		"noteID": "word_e60efdad-04f7-4537-9194-c13000b7bc14"
 	},
 	{
 		"kanjiForms": [
@@ -86095,7 +86527,8 @@
 			"intransitive_verb",
 			"common_vocab"
 		],
-		"id": "1238610"
+		"id": "1238610",
+		"noteID": "word_dfbe6fef-5e46-4531-b9d3-f86a43bf7aa0"
 	},
 	{
 		"kanjiForms": [
@@ -86341,7 +86774,8 @@
 			"usually_in_kana",
 			"common_vocab"
 		],
-		"id": "1612890"
+		"id": "1612890",
+		"noteID": "word_baf7378c-5d6c-49d0-b327-4733a4aa09c4"
 	},
 	{
 		"kanjiForms": [
@@ -86501,7 +86935,8 @@
 			"godan::ku::verb",
 			"intransitive_verb"
 		],
-		"id": "1595086"
+		"id": "1595086",
+		"noteID": "word_5c9dd621-d3bb-40b5-962f-11378c81b5ae"
 	},
 	{
 		"kanjiForms": [
@@ -86624,7 +87059,8 @@
 			"ichidan_verb",
 			"transitive_verb"
 		],
-		"id": "2850084"
+		"id": "2850084",
+		"noteID": "word_307cd2e7-6fad-438d-b04b-4ae5ff50f452"
 	},
 	{
 		"kanjiForms": [
@@ -86825,7 +87261,8 @@
 			"takes::suru",
 			"transitive_verb"
 		],
-		"id": "1443590"
+		"id": "1443590",
+		"noteID": "word_a93795df-e47d-452a-aca2-20aa63b1953d"
 	},
 	{
 		"kanjiForms": [
@@ -87033,7 +87470,8 @@
 			"takes::suru",
 			"intransitive_verb"
 		],
-		"id": "1709730"
+		"id": "1709730",
+		"noteID": "word_5e3b540f-cd71-41e8-9639-021d102ba317"
 	},
 	{
 		"kanjiForms": [
@@ -87236,7 +87674,8 @@
 			"irregular::okurigana",
 			"noun"
 		],
-		"id": "1736610"
+		"id": "1736610",
+		"noteID": "word_30c061e9-4721-4670-9237-9c5deda90178"
 	},
 	{
 		"kanjiForms": [
@@ -87443,7 +87882,8 @@
 			"takes::suru",
 			"transitive_verb"
 		],
-		"id": "1823940"
+		"id": "1823940",
+		"noteID": "word_5bc35551-b3a7-4df3-8e74-9bc83534a1cd"
 	},
 	{
 		"kanjiForms": [
@@ -87661,7 +88101,8 @@
 			"takes::suru",
 			"intransitive_verb"
 		],
-		"id": "1358240"
+		"id": "1358240",
+		"noteID": "word_790e6177-3604-4ef3-bd14-fe0f82416866"
 	},
 	{
 		"kanjiForms": [
@@ -87964,7 +88405,8 @@
 			"takes::suru",
 			"intransitive_verb"
 		],
-		"id": "1573630"
+		"id": "1573630",
+		"noteID": "word_be35fdc9-75ed-4c51-b8a5-17acaca712bd"
 	},
 	{
 		"kanjiForms": [
@@ -88084,7 +88526,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1450490"
+		"id": "1450490",
+		"noteID": "word_1045a92b-52a4-4cc5-bccd-85c09ba35c17"
 	},
 	{
 		"kanjiForms": [
@@ -88295,7 +88738,8 @@
 			"takes::suru",
 			"intransitive_verb"
 		],
-		"id": "1450540"
+		"id": "1450540",
+		"noteID": "word_f234dfa8-e248-4cce-ab66-9a6f9cf07f0e"
 	},
 	{
 		"kanjiForms": [
@@ -88435,7 +88879,8 @@
 			"adverb",
 			"usually_in_kana"
 		],
-		"id": "1854190"
+		"id": "1854190",
+		"noteID": "word_cff56e7a-872a-486d-a977-3dce16347472"
 	},
 	{
 		"kanjiForms": [
@@ -88653,7 +89098,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1358540"
+		"id": "1358540",
+		"noteID": "word_d3d0b2cc-ce8e-4100-8ffe-cd1c2697d3aa"
 	},
 	{
 		"kanjiForms": [
@@ -88799,7 +89245,8 @@
 			"noun",
 			"takes::no"
 		],
-		"id": "1432950"
+		"id": "1432950",
+		"noteID": "word_e1217483-a832-4eec-8d57-39543ccb3542"
 	},
 	{
 		"kanjiForms": [
@@ -89014,7 +89461,8 @@
 			"noun",
 			"original_meaning"
 		],
-		"id": "1433020"
+		"id": "1433020",
+		"noteID": "word_0fbfa41c-a169-4c05-87d5-8fdc4baa7f6e"
 	},
 	{
 		"kanjiForms": [
@@ -89236,7 +89684,8 @@
 			"intransitive_verb",
 			"takes::no"
 		],
-		"id": "1433510"
+		"id": "1433510",
+		"noteID": "word_0f81e131-d8fc-4683-8d0e-d934fef1aeaa"
 	},
 	{
 		"kanjiForms": [
@@ -89448,7 +89897,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1183950"
+		"id": "1183950",
+		"noteID": "word_61905a3a-de38-49db-9f17-7f78f721c384"
 	},
 	{
 		"kanjiForms": [
@@ -89656,7 +90106,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "2840573"
+		"id": "2840573",
+		"noteID": "word_019f9536-6ef7-4c23-bd89-a9eecf860998"
 	},
 	{
 		"kanjiForms": [
@@ -89851,7 +90302,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1878760"
+		"id": "1878760",
+		"noteID": "word_f2279be4-6543-49eb-b43e-82693ad30f1e"
 	},
 	{
 		"kanjiForms": [
@@ -90092,7 +90544,8 @@
 			"irregular::kana",
 			"noun"
 		],
-		"id": "1454280"
+		"id": "1454280",
+		"noteID": "word_3a689552-50c3-460a-b3ac-a25dcfeb9b85"
 	},
 	{
 		"kanjiForms": [
@@ -90238,7 +90691,8 @@
 			"suffix",
 			"derogatory"
 		],
-		"id": "2842257"
+		"id": "2842257",
+		"noteID": "word_378a27ee-35ef-4009-8950-335c6fed31db"
 	},
 	{
 		"kanjiForms": [
@@ -90456,7 +90910,8 @@
 			"intransitive_verb",
 			"chemistry"
 		],
-		"id": "1542340"
+		"id": "1542340",
+		"noteID": "word_50d29906-f3a0-48f4-b3f4-87ae518bdb65"
 	},
 	{
 		"kanjiForms": [
@@ -90593,7 +91048,8 @@
 			"transitive_verb",
 			"sonkeigo"
 		],
-		"id": "1639220"
+		"id": "1639220",
+		"noteID": "word_7860a95f-d09c-4a36-8240-25abb017bd70"
 	},
 	{
 		"kanjiForms": [
@@ -90799,7 +91255,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1202510"
+		"id": "1202510",
+		"noteID": "word_e16f8756-a76a-456e-b818-d8b4757ce37a"
 	},
 	{
 		"kanjiForms": [
@@ -91006,7 +91463,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1551000"
+		"id": "1551000",
+		"noteID": "word_8e303d49-e0cb-472f-83d2-e441c8f7f3a8"
 	},
 	{
 		"kanjiForms": [
@@ -91222,7 +91680,8 @@
 			"na-adjective/adjectival_noun",
 			"noun"
 		],
-		"id": "1196130"
+		"id": "1196130",
+		"noteID": "word_ce3b7887-c4bb-4876-babf-08308cc40aae"
 	},
 	{
 		"kanjiForms": [
@@ -91429,7 +91888,8 @@
 			"noun",
 			"takes::suru"
 		],
-		"id": "1196190"
+		"id": "1196190",
+		"noteID": "word_e9429dca-340a-4f2c-8bd7-d03c4f237c26"
 	},
 	{
 		"kanjiForms": [
@@ -91658,7 +92118,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1358290"
+		"id": "1358290",
+		"noteID": "word_5c75021e-d75b-4daf-96ed-fecddd5bc19a"
 	},
 	{
 		"kanjiForms": [
@@ -91866,7 +92327,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1901110"
+		"id": "1901110",
+		"noteID": "word_54921816-18c2-40b2-a596-deaafd1f051a"
 	},
 	{
 		"kanjiForms": [
@@ -92062,7 +92524,8 @@
 			"takes::no",
 			"noun"
 		],
-		"id": "1688840"
+		"id": "1688840",
+		"noteID": "word_9d1864ee-4634-46bb-bf00-c58a3a63f075"
 	},
 	{
 		"kanjiForms": [
@@ -92265,7 +92728,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1712050"
+		"id": "1712050",
+		"noteID": "word_73b2e12e-8bc2-4c1e-a863-d01df25cf3c2"
 	},
 	{
 		"kanjiForms": [
@@ -92408,7 +92872,8 @@
 		"tags": [
 			"adverb"
 		],
-		"id": "1177810"
+		"id": "1177810",
+		"noteID": "word_c740f8e6-4ebe-444d-b076-12a8f1843732"
 	},
 	{
 		"kanjiForms": [
@@ -92541,7 +93006,8 @@
 			"ichidan_verb",
 			"transitive_verb"
 		],
-		"id": "1177840"
+		"id": "1177840",
+		"noteID": "word_13320443-1773-451e-b62c-a3ef9e959233"
 	},
 	{
 		"kanjiForms": [
@@ -92660,7 +93126,8 @@
 			"noun",
 			"takes::no"
 		],
-		"id": "2837855"
+		"id": "2837855",
+		"noteID": "word_9bbfae99-c31b-448f-999d-b8a32def6e13"
 	},
 	{
 		"kanjiForms": [
@@ -92849,7 +93316,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1518260"
+		"id": "1518260",
+		"noteID": "word_9bcde89d-ba80-44c7-aecc-cc24e5de3015"
 	},
 	{
 		"kanjiForms": [
@@ -93047,7 +93515,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1499400"
+		"id": "1499400",
+		"noteID": "word_7eb83ff4-4a6b-461d-82e4-9de4b25d50ba"
 	},
 	{
 		"kanjiForms": [
@@ -93252,7 +93721,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1499570"
+		"id": "1499570",
+		"noteID": "word_10e6adad-f5ce-4ab7-8b3f-13951f9914c6"
 	},
 	{
 		"kanjiForms": [
@@ -93372,7 +93842,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1626830"
+		"id": "1626830",
+		"noteID": "word_e77e1fa0-c90c-4c30-9e80-3320b4a39546"
 	},
 	{
 		"kanjiForms": [
@@ -93555,7 +94026,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1853880"
+		"id": "1853880",
+		"noteID": "word_780dcb5b-4540-48fe-9c34-224c6017bea4"
 	},
 	{
 		"kanjiForms": [
@@ -93771,7 +94243,8 @@
 			"noun",
 			"sonkeigo"
 		],
-		"id": "1283900"
+		"id": "1283900",
+		"noteID": "word_4e14868e-4de8-45c3-91e5-8d4b357a361d"
 	},
 	{
 		"kanjiForms": [
@@ -93974,7 +94447,8 @@
 			"takes::suru",
 			"transitive_verb"
 		],
-		"id": "1333770"
+		"id": "1333770",
+		"noteID": "word_5d66abd3-ad34-4fa5-9ee2-c18d3edea741"
 	},
 	{
 		"kanjiForms": [
@@ -94178,7 +94652,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1734650"
+		"id": "1734650",
+		"noteID": "word_a209431e-9d54-44aa-8263-0f9ac7aeb31e"
 	},
 	{
 		"kanjiForms": [
@@ -94290,7 +94765,8 @@
 			"noun",
 			"teineigo"
 		],
-		"id": "2855385"
+		"id": "2855385",
+		"noteID": "word_70a3ac58-4765-41b0-9eb7-5629f6fe609e"
 	},
 	{
 		"kanjiForms": [
@@ -94490,7 +94966,8 @@
 			"noun",
 			"abbreviation"
 		],
-		"id": "1996940"
+		"id": "1996940",
+		"noteID": "word_216e5804-011e-41c8-9655-63823e841dd2"
 	},
 	{
 		"kanjiForms": [
@@ -94681,7 +95158,8 @@
 			"noun",
 			"buddhism"
 		],
-		"id": "1734810"
+		"id": "1734810",
+		"noteID": "word_3f1d8ec2-e03d-4264-adc5-b96e2df4725b"
 	},
 	{
 		"kanjiForms": [
@@ -94900,7 +95378,8 @@
 			"noun",
 			"fishing"
 		],
-		"id": "1335920"
+		"id": "1335920",
+		"noteID": "word_0bd52ae6-6499-4e5a-86cc-8c4c77feb23d"
 	},
 	{
 		"kanjiForms": [
@@ -95026,7 +95505,8 @@
 		"tags": [
 			"adjective::i"
 		],
-		"id": "1589360"
+		"id": "1589360",
+		"noteID": "word_5518f2e4-4e29-44dd-a840-36108f9ac7d3"
 	},
 	{
 		"kanjiForms": [
@@ -95149,7 +95629,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1636480"
+		"id": "1636480",
+		"noteID": "word_c0ed1e5b-28b7-41dd-8e3b-5730d5861d77"
 	},
 	{
 		"kanjiForms": [
@@ -95351,7 +95832,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1242780"
+		"id": "1242780",
+		"noteID": "word_9ed427fe-4b06-4165-b27f-984f0cb1884b"
 	},
 	{
 		"kanjiForms": [
@@ -95552,7 +96034,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "2827870"
+		"id": "2827870",
+		"noteID": "word_94b2a53c-93c7-425c-9ee3-ed86644b0e73"
 	},
 	{
 		"kanjiForms": [
@@ -95802,7 +96285,8 @@
 			"out-dated_or_obsolete_kana",
 			"noun"
 		],
-		"id": "2839304"
+		"id": "2839304",
+		"noteID": "word_92c8dfe3-4aab-4ac1-b196-bc49d26611d6"
 	},
 	{
 		"kanjiForms": [
@@ -96042,7 +96526,8 @@
 			"out-dated_or_obsolete_kana",
 			"noun"
 		],
-		"id": "1233180"
+		"id": "1233180",
+		"noteID": "word_a3cdec5f-ef87-4d6d-8259-d3c9bd42d627"
 	},
 	{
 		"kanjiForms": [
@@ -96162,7 +96647,8 @@
 			"na-adjective/adjectival_noun",
 			"noun"
 		],
-		"id": "1615250"
+		"id": "1615250",
+		"noteID": "word_fdf55e38-51c2-4d87-899a-8d43c7ba4bd8"
 	},
 	{
 		"kanjiForms": [
@@ -96286,7 +96772,8 @@
 			"godan::su::verb",
 			"transitive_verb"
 		],
-		"id": "1900190"
+		"id": "1900190",
+		"noteID": "word_4166b825-b669-4fcb-9f44-f9a20b83c38a"
 	},
 	{
 		"kanjiForms": [
@@ -96438,7 +96925,8 @@
 			"adjective::i",
 			"usually_in_kana"
 		],
-		"id": "2838553"
+		"id": "2838553",
+		"noteID": "word_9b7e407f-fa6c-48c3-99e8-2e371307d98a"
 	},
 	{
 		"kanjiForms": [
@@ -96559,7 +97047,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1633470"
+		"id": "1633470",
+		"noteID": "word_a7abebb5-b80d-487d-a2cb-9d8dcb891f76"
 	},
 	{
 		"kanjiForms": [
@@ -96749,7 +97238,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1624170"
+		"id": "1624170",
+		"noteID": "word_6c21857d-182a-4adc-a45f-be30eef853d7"
 	},
 	{
 		"kanjiForms": [
@@ -96858,7 +97348,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1247180"
+		"id": "1247180",
+		"noteID": "word_87cb3e14-bde5-421c-b277-38bcaa27d6d3"
 	},
 	{
 		"kanjiForms": [
@@ -97056,7 +97547,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1291750"
+		"id": "1291750",
+		"noteID": "word_627d3cfc-ff9f-4f6e-a479-d3773c6d7d5b"
 	},
 	{
 		"kanjiForms": [
@@ -97280,7 +97772,8 @@
 			"transitive_verb",
 			"intransitive_verb"
 		],
-		"id": "1432120"
+		"id": "1432120",
+		"noteID": "word_e59e2c14-fd30-4f15-861e-b4065d8f37d2"
 	},
 	{
 		"kanjiForms": [
@@ -97484,7 +97977,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1238590"
+		"id": "1238590",
+		"noteID": "word_88024fd5-09d9-4ed1-8524-e463c5207340"
 	},
 	{
 		"kanjiForms": [
@@ -97692,7 +98186,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1557820"
+		"id": "1557820",
+		"noteID": "word_87550f22-5ace-46af-9343-318651c1f1f1"
 	},
 	{
 		"kanjiForms": [
@@ -97905,7 +98400,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1797820"
+		"id": "1797820",
+		"noteID": "word_c2fd1eb2-dea4-4fca-8ceb-8b458dcd6082"
 	},
 	{
 		"kanjiForms": [
@@ -98121,7 +98617,8 @@
 			"noun",
 			"takes::no"
 		],
-		"id": "1797850"
+		"id": "1797850",
+		"noteID": "word_2ffa8e70-9d73-4a50-802a-e61ec5f69f16"
 	},
 	{
 		"kanjiForms": [
@@ -98316,7 +98813,8 @@
 			"takes::suru",
 			"intransitive_verb"
 		],
-		"id": "1202980"
+		"id": "1202980",
+		"noteID": "word_ada5e83b-fb08-4b14-8fa0-b2ad1e179f96"
 	},
 	{
 		"kanjiForms": [
@@ -98518,7 +99016,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1536170"
+		"id": "1536170",
+		"noteID": "word_372af771-72c0-4f6d-b490-0c733e3694c7"
 	},
 	{
 		"kanjiForms": [
@@ -98718,7 +99217,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1668340"
+		"id": "1668340",
+		"noteID": "word_5804c3f8-839c-489c-bf7c-d5ef5c668b8e"
 	},
 	{
 		"kanjiForms": [
@@ -98932,7 +99432,8 @@
 			"transitive_verb",
 			"intransitive_verb"
 		],
-		"id": "1508620"
+		"id": "1508620",
+		"noteID": "word_9ab7289c-0aa3-4786-84ba-492ecf7c1cd5"
 	},
 	{
 		"kanjiForms": [
@@ -99047,7 +99548,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "2862681"
+		"id": "2862681",
+		"noteID": "word_2e15fd3a-eaa4-4539-8ecc-5709846183a9"
 	},
 	{
 		"kanjiForms": [
@@ -99257,7 +99759,8 @@
 			"takes::suru",
 			"transitive_verb"
 		],
-		"id": "1520440"
+		"id": "1520440",
+		"noteID": "word_f6c2d177-4fae-4228-b6ce-011c4f4001b9"
 	},
 	{
 		"kanjiForms": [
@@ -99468,7 +99971,8 @@
 			"godan::ru::verb",
 			"intransitive_verb"
 		],
-		"id": "1282750"
+		"id": "1282750",
+		"noteID": "word_af06275a-f61b-49e0-b4b4-521a35a184eb"
 	},
 	{
 		"kanjiForms": [
@@ -99590,7 +100094,8 @@
 			"godan::su::verb",
 			"transitive_verb"
 		],
-		"id": "1624960"
+		"id": "1624960",
+		"noteID": "word_01b1492c-e136-49df-9991-ef316d81843e"
 	},
 	{
 		"kanjiForms": [
@@ -99731,7 +100236,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1631470"
+		"id": "1631470",
+		"noteID": "word_0e52bf62-edf5-4c01-906d-924e89e3e263"
 	},
 	{
 		"kanjiForms": [
@@ -99928,7 +100434,8 @@
 			"expression",
 			"godan::ru::verb"
 		],
-		"id": "2851949"
+		"id": "2851949",
+		"noteID": "word_f3693c36-751e-4029-860b-9c7eb8864d71"
 	},
 	{
 		"kanjiForms": [
@@ -100065,7 +100572,8 @@
 		"tags": [
 			"expression"
 		],
-		"id": "2070730"
+		"id": "2070730",
+		"noteID": "word_557b1753-fd0b-4677-ab9d-f510554b42f1"
 	},
 	{
 		"kanjiForms": [
@@ -100199,7 +100707,8 @@
 			"noun",
 			"suffix_noun"
 		],
-		"id": "1956490"
+		"id": "1956490",
+		"noteID": "word_baa45ef1-57fd-402a-8310-d226f2d94658"
 	},
 	{
 		"kanjiForms": [
@@ -100420,7 +100929,8 @@
 			"transitive_verb",
 			"intransitive_verb"
 		],
-		"id": "1345710"
+		"id": "1345710",
+		"noteID": "word_889e7dab-81c2-48eb-acbd-fc1bf5199bd6"
 	},
 	{
 		"kanjiForms": [
@@ -100626,7 +101136,8 @@
 			"takes::suru",
 			"intransitive_verb"
 		],
-		"id": "1345750"
+		"id": "1345750",
+		"noteID": "word_4dc6f40b-c0cf-4448-ac5c-6ffed1e2f5a1"
 	},
 	{
 		"kanjiForms": [
@@ -100746,7 +101257,8 @@
 			"noun",
 			"chemistry"
 		],
-		"id": "1972290"
+		"id": "1972290",
+		"noteID": "word_f4105111-1f7b-4475-8109-a1ee4aa1d748"
 	},
 	{
 		"kanjiForms": [
@@ -100874,7 +101386,8 @@
 			"noun",
 			"takes::no"
 		],
-		"id": "1605845"
+		"id": "1605845",
+		"noteID": "word_b32dbb0f-937d-440d-8559-1b703776b7f0"
 	},
 	{
 		"kanjiForms": [
@@ -100994,7 +101507,8 @@
 			"suru_verb",
 			"intransitive_verb"
 		],
-		"id": "1296310"
+		"id": "1296310",
+		"noteID": "word_4a6b8e31-598c-4e09-a6d9-d1bc60958f13"
 	},
 	{
 		"kanjiForms": [
@@ -101122,7 +101636,8 @@
 		"tags": [
 			"expression"
 		],
-		"id": "1657790"
+		"id": "1657790",
+		"noteID": "word_5f639839-f536-44e5-8f85-1240ae2c14ae"
 	},
 	{
 		"kanjiForms": [
@@ -101331,7 +101846,8 @@
 			"transitive_verb",
 			"intransitive_verb"
 		],
-		"id": "1813770"
+		"id": "1813770",
+		"noteID": "word_6b1a3b6f-0e56-4c22-9d65-9b28f59f5906"
 	},
 	{
 		"kanjiForms": [
@@ -101477,7 +101993,8 @@
 			"noun",
 			"usually_in_kana"
 		],
-		"id": "2847628"
+		"id": "2847628",
+		"noteID": "word_523208b8-7535-41ba-839b-1852b10dc282"
 	},
 	{
 		"kanjiForms": [
@@ -101690,7 +102207,8 @@
 			"physics",
 			"chemistry"
 		],
-		"id": "1443770"
+		"id": "1443770",
+		"noteID": "word_94ae9b80-ddca-4117-a019-2b8bb5699f7a"
 	},
 	{
 		"kanjiForms": [
@@ -101823,7 +102341,8 @@
 			"takes::no",
 			"noun"
 		],
-		"id": "1821720"
+		"id": "1821720",
+		"noteID": "word_86392330-09ff-481e-8095-84dd4553329f"
 	},
 	{
 		"kanjiForms": [
@@ -102028,7 +102547,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1499930"
+		"id": "1499930",
+		"noteID": "word_04259fbb-e8d0-4655-be69-4722bff05c77"
 	},
 	{
 		"kanjiForms": [
@@ -102238,7 +102758,8 @@
 			"out-dated_or_obsolete_kana",
 			"noun"
 		],
-		"id": "1643820"
+		"id": "1643820",
+		"noteID": "word_985ed20d-297d-4549-80a0-02dc8658e4dd"
 	},
 	{
 		"kanjiForms": [
@@ -102389,7 +102910,8 @@
 			"noun",
 			"usually_in_kana"
 		],
-		"id": "2839962"
+		"id": "2839962",
+		"noteID": "word_f89cd229-d761-4aa3-8f06-12656327ec1d"
 	},
 	{
 		"kanjiForms": [
@@ -102605,7 +103127,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1557790"
+		"id": "1557790",
+		"noteID": "word_b792c47f-90b5-441b-b035-1211565e1985"
 	},
 	{
 		"kanjiForms": [
@@ -102808,7 +103331,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1643990"
+		"id": "1643990",
+		"noteID": "word_a1dced0f-4b2f-473f-b564-e711d58b4ffb"
 	},
 	{
 		"kanjiForms": [
@@ -103022,7 +103546,8 @@
 			"takes::suru",
 			"transitive_verb"
 		],
-		"id": "1500160"
+		"id": "1500160",
+		"noteID": "word_94fc7726-fc73-4357-954c-cbd35f752828"
 	},
 	{
 		"kanjiForms": [
@@ -103210,7 +103735,8 @@
 			"suffix",
 			"counter"
 		],
-		"id": "1584695"
+		"id": "1584695",
+		"noteID": "word_7f0ccbb0-b3dd-4887-8479-86784993b197"
 	},
 	{
 		"kanjiForms": [
@@ -103344,7 +103870,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1483805"
+		"id": "1483805",
+		"noteID": "word_c4dac8ca-0848-49a0-bb66-cb93625e3b87"
 	},
 	{
 		"kanjiForms": [
@@ -103556,7 +104083,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1757380"
+		"id": "1757380",
+		"noteID": "word_49b318f9-ca06-4730-8256-868f9f338f1a"
 	},
 	{
 		"kanjiForms": [
@@ -103671,7 +104199,8 @@
 		"tags": [
 			"noun"
 		],
-		"id": "1955780"
+		"id": "1955780",
+		"noteID": "word_73c12134-322f-4435-a36a-22e324ab8aa8"
 	},
 	{
 		"kanjiForms": [
@@ -103818,7 +104347,8 @@
 			"usually_in_kana",
 			"business"
 		],
-		"id": "1352120"
+		"id": "1352120",
+		"noteID": "word_50fe3b49-ffb2-4450-aab0-f43b3418fc44"
 	},
 	{
 		"kanjiForms": [
@@ -103967,6 +104497,7 @@
 			"noun",
 			"suffix_noun"
 		],
-		"id": "2859161"
+		"id": "2859161",
+		"noteID": "word_1227c809-0a73-4994-baab-15fac59fb9e7"
 	}
 ]

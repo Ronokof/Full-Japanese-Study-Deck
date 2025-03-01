@@ -41,7 +41,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1304"
+		"id": "1304",
+		"noteID": "grammar_4e983fd3-5877-444e-82a2-fa6158cadc16"
 	},
 	{
 		"point": "からといって",
@@ -94,7 +95,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "348"
+		"id": "348",
+		"noteID": "grammar_4cd0d113-83b5-4591-bbd5-761c663a09e3"
 	},
 	{
 		"point": "の余り",
@@ -148,7 +150,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1369"
+		"id": "1369",
+		"noteID": "grammar_d08be14a-9526-4c74-8b7f-ae4abb7a9785"
 	},
 	{
 		"point": "に当たって; に当たり",
@@ -202,7 +205,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "506"
+		"id": "506",
+		"noteID": "grammar_7d98493e-a3bd-4d79-8e30-34f91be9c1fc"
 	},
 	{
 		"point": "必ずしも・・・でない",
@@ -251,7 +255,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "618"
+		"id": "618",
+		"noteID": "grammar_6888a9fa-446a-44c9-b972-4f5b7463ba7d"
 	},
 	{
 		"point": "に加えて",
@@ -304,7 +309,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "225"
+		"id": "225",
+		"noteID": "grammar_f2a6e145-b95e-4c43-bfa3-37b300d3dc01"
 	},
 	{
 		"point": "〜はさておき",
@@ -352,7 +358,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "880"
+		"id": "880",
+		"noteID": "grammar_762d8735-ab76-4db2-97dd-82c413ae60c7"
 	},
 	{
 		"point": "に応えて",
@@ -399,7 +406,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1188"
+		"id": "1188",
+		"noteID": "grammar_8cee8792-1813-470a-818d-ec7cfd5758e7"
 	},
 	{
 		"point": "限り",
@@ -454,7 +462,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "838"
+		"id": "838",
+		"noteID": "grammar_5b9a5863-8dd7-4464-a41d-b02413366694"
 	},
 	{
 		"point": "どころか",
@@ -505,7 +514,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1348"
+		"id": "1348",
+		"noteID": "grammar_79e459cc-a7b6-490d-99e2-b859c660edc0"
 	},
 	{
 		"point": "くらい",
@@ -553,7 +563,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "57"
+		"id": "57",
+		"noteID": "grammar_e531e1f7-f21b-42d6-97e4-8f2124bb073b"
 	},
 	{
 		"point": "にもかかわらず",
@@ -604,7 +615,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "113"
+		"id": "113",
+		"noteID": "grammar_c8d80dcb-a07d-46f0-9c0b-781203d5e96a"
 	},
 	{
 		"point": "かかわらず",
@@ -648,7 +660,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "996"
+		"id": "996",
+		"noteID": "grammar_9af0cac0-854c-4e19-9940-2db3f665308e"
 	},
 	{
 		"point": "ながら",
@@ -699,7 +712,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "707"
+		"id": "707",
+		"noteID": "grammar_a82d8dc7-07eb-4af6-a81f-5c605d1add4c"
 	},
 	{
 		"point": "条件形〜ほど",
@@ -748,7 +762,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "977"
+		"id": "977",
+		"noteID": "grammar_5755f2df-5e6f-4455-8017-e80a5b4f734c"
 	},
 	{
 		"point": "みせる",
@@ -792,7 +807,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "536"
+		"id": "536",
+		"noteID": "grammar_5bcb9bb3-91dc-4619-a4cf-b4906d55a163"
 	},
 	{
 		"point": "やっぱり（やはり）",
@@ -836,7 +852,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1107"
+		"id": "1107",
+		"noteID": "grammar_b1e8d5bb-90ed-4db8-94c9-69af127ac6ee"
 	},
 	{
 		"point": "余り",
@@ -885,7 +902,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1660"
+		"id": "1660",
+		"noteID": "grammar_41baeeb1-dca1-4fd2-b741-e97f7fb2d20c"
 	},
 	{
 		"point": "くせに",
@@ -929,7 +947,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "112"
+		"id": "112",
+		"noteID": "grammar_e8a92eb0-6645-4d0f-9c4b-e7099f107ee0"
 	},
 	{
 		"point": "はもちろん",
@@ -973,7 +992,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1261"
+		"id": "1261",
+		"noteID": "grammar_c3ec09f4-c49a-4956-8796-15d6b6a5cd36"
 	},
 	{
 		"point": "〜ものなら",
@@ -1017,7 +1037,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "310"
+		"id": "310",
+		"noteID": "grammar_abe554cb-8523-4e90-930e-36480e36329f"
 	},
 	{
 		"point": "べきだ",
@@ -1061,7 +1082,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "679"
+		"id": "679",
+		"noteID": "grammar_c6b4c033-565c-4dc3-bb88-69b040f62e63"
 	},
 	{
 		"point": "つつ",
@@ -1109,7 +1131,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "703"
+		"id": "703",
+		"noteID": "grammar_f28407b3-32a8-454c-a880-00d3e8f70f08"
 	},
 	{
 		"point": "〜程",
@@ -1158,7 +1181,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "307"
+		"id": "307",
+		"noteID": "grammar_66a7aef9-121c-4fb0-9e9b-a89740fe9472"
 	},
 	{
 		"point": "得る",
@@ -1207,7 +1231,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "478"
+		"id": "478",
+		"noteID": "grammar_c3f7af6b-aea8-4a0d-a378-e488b0fe5cbd"
 	},
 	{
 		"point": "ざるをえない",
@@ -1256,7 +1281,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "823"
+		"id": "823",
+		"noteID": "grammar_c75ac094-bf21-4b4f-80f6-49fe46f176df"
 	},
 	{
 		"point": "〜に沿って",
@@ -1305,7 +1331,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1347"
+		"id": "1347",
+		"noteID": "grammar_f0a66fe0-4c6e-4fd7-b09f-1980f8e3de47"
 	},
 	{
 		"point": "に過ぎない",
@@ -1354,7 +1381,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "144"
+		"id": "144",
+		"noteID": "grammar_4ec4fb7a-cd38-4ea3-89fa-e2b31d024a7a"
 	},
 	{
 		"point": "一方",
@@ -1403,7 +1431,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "418"
+		"id": "418",
+		"noteID": "grammar_67608ea6-affb-45bc-a3a3-6f3e4a4d76be"
 	},
 	{
 		"point": "かわりに",
@@ -1447,7 +1476,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1275"
+		"id": "1275",
+		"noteID": "grammar_ea115bfd-654b-4d27-91be-772476aa08f6"
 	},
 	{
 		"point": "〜こなす",
@@ -1495,7 +1525,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1548"
+		"id": "1548",
+		"noteID": "grammar_4cb78885-778a-4c17-a902-dc991fba5a96"
 	},
 	{
 		"point": "に関して",
@@ -1544,7 +1575,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1584"
+		"id": "1584",
+		"noteID": "grammar_022e7389-4c57-4540-80c6-33eaf03dbfe0"
 	},
 	{
 		"point": "かえって",
@@ -1588,7 +1620,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "399"
+		"id": "399",
+		"noteID": "grammar_5aca9966-365f-49e1-bbe8-552acf91714e"
 	},
 	{
 		"point": "〜っけ",
@@ -1632,7 +1665,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1276"
+		"id": "1276",
+		"noteID": "grammar_cac34b8e-a4b1-41d7-bb7b-d5b5f2ab3c06"
 	},
 	{
 		"point": "次第",
@@ -1681,7 +1715,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1309"
+		"id": "1309",
+		"noteID": "grammar_6e8fcab4-9822-4b3c-a1c8-03dba6315449"
 	},
 	{
 		"point": "に等しい",
@@ -1730,7 +1765,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1474"
+		"id": "1474",
+		"noteID": "grammar_eca6b74e-9dbd-4451-b747-d809a0f8f673"
 	},
 	{
 		"point": "ばかりか",
@@ -1774,7 +1810,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "303"
+		"id": "303",
+		"noteID": "grammar_6d142766-7ba3-48e4-8f47-53c1102a18dd"
 	},
 	{
 		"point": "〜だけの",
@@ -1825,7 +1862,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1244"
+		"id": "1244",
+		"noteID": "grammar_f53b6c5e-57c5-4bec-a647-d361052f1741"
 	},
 	{
 		"point": "おく",
@@ -1869,7 +1907,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1350"
+		"id": "1350",
+		"noteID": "grammar_7107936a-039a-42d8-a206-65e4b90e1e60"
 	},
 	{
 		"point": "のみ",
@@ -1913,7 +1952,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1381"
+		"id": "1381",
+		"noteID": "grammar_8b2bf55d-9982-40db-8b2c-04f9426ffd16"
 	},
 	{
 		"point": "と言えば",
@@ -1962,7 +2002,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1712"
+		"id": "1712",
+		"noteID": "grammar_760daf91-d06f-481d-883a-382dc5987f0c"
 	},
 	{
 		"point": "きり",
@@ -2006,7 +2047,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "343"
+		"id": "343",
+		"noteID": "grammar_203fec3a-6868-4f13-9a1b-5d221bd1dc36"
 	},
 	{
 		"point": "有り得る",
@@ -2055,7 +2097,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "479"
+		"id": "479",
+		"noteID": "grammar_05652533-4f6b-41de-8c1f-913fdc44f8c6"
 	},
 	{
 		"point": "がたい",
@@ -2099,7 +2142,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "668"
+		"id": "668",
+		"noteID": "grammar_9c230223-cb31-45de-97d0-89a1abe39123"
 	},
 	{
 		"point": "たとえ",
@@ -2148,7 +2192,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "715"
+		"id": "715",
+		"noteID": "grammar_d3b94ccc-0014-4d98-8a46-7bbc3765f08a"
 	},
 	{
 		"point": "通り",
@@ -2203,7 +2248,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1272"
+		"id": "1272",
+		"noteID": "grammar_388f6b51-eddd-44d8-b45e-baa41aabf68b"
 	},
 	{
 		"point": "をめぐって",
@@ -2250,7 +2296,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1306"
+		"id": "1306",
+		"noteID": "grammar_1e7ad514-762d-4eb3-ba95-cfa99bafae59"
 	},
 	{
 		"point": "〜ようがない",
@@ -2298,7 +2345,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "312"
+		"id": "312",
+		"noteID": "grammar_605a773e-ed93-4824-9769-24e0b3f7edd7"
 	},
 	{
 		"point": "ものですから",
@@ -2342,7 +2390,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "631"
+		"id": "631",
+		"noteID": "grammar_a1aca239-d416-4949-b259-4390043b7513"
 	},
 	{
 		"point": "くらいなら〜〜ほうがいい",
@@ -2390,7 +2439,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1211"
+		"id": "1211",
+		"noteID": "grammar_f7c18b74-39c8-4726-b5d0-106bd72832cb"
 	},
 	{
 		"point": "ことだ",
@@ -2434,7 +2484,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1273"
+		"id": "1273",
+		"noteID": "grammar_b22cb9eb-f2a2-4f22-91e8-dca604982f58"
 	},
 	{
 		"point": "に先立って; に先立つ",
@@ -2483,7 +2534,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1352"
+		"id": "1352",
+		"noteID": "grammar_0bfa5904-9383-4ebb-a4b3-1e8962f31748"
 	},
 	{
 		"point": "きり",
@@ -2532,7 +2584,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "223"
+		"id": "223",
+		"noteID": "grammar_0408f764-92a1-4135-9ed9-eb0a1deb50b5"
 	},
 	{
 		"point": "〜ことか",
@@ -2582,7 +2635,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "244"
+		"id": "244",
+		"noteID": "grammar_77498e47-1948-4391-867a-77f3dda4ccf3"
 	},
 	{
 		"point": "てしょうがない; てたまらない",
@@ -2626,7 +2680,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "540"
+		"id": "540",
+		"noteID": "grammar_99975e02-304a-4ee6-8787-c671760ef9a9"
 	},
 	{
 		"point": "に伴って",
@@ -2675,7 +2730,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "645"
+		"id": "645",
+		"noteID": "grammar_1bb22ccb-e3ad-4a2c-8d09-adf36d76b947"
 	},
 	{
 		"point": "を込めて",
@@ -2724,7 +2780,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "771"
+		"id": "771",
+		"noteID": "grammar_012648f5-f7fd-4d02-be6d-441d09752806"
 	},
 	{
 		"point": "に基づいて",
@@ -2773,7 +2830,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "813"
+		"id": "813",
+		"noteID": "grammar_a1047eeb-575d-42fe-aea5-d534e24a7a22"
 	},
 	{
 		"point": "きっかけに",
@@ -2817,7 +2875,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "901"
+		"id": "901",
+		"noteID": "grammar_7748b6e4-b2ae-4f35-9f3d-28f2032f914a"
 	},
 	{
 		"point": "だけあって",
@@ -2861,7 +2920,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "965"
+		"id": "965",
+		"noteID": "grammar_c0476527-3cb9-4330-91d5-ff858f756308"
 	},
 	{
 		"point": "に依存",
@@ -2910,7 +2970,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1371"
+		"id": "1371",
+		"noteID": "grammar_570c57d5-fd56-4471-be6a-54d281ef04da"
 	},
 	{
 		"point": "ことがある",
@@ -2959,7 +3020,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1625"
+		"id": "1625",
+		"noteID": "grammar_c18f4c1e-a358-4a43-b97c-8d7837668bfc"
 	},
 	{
 		"point": "ほかない",
@@ -3003,7 +3065,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "346"
+		"id": "346",
+		"noteID": "grammar_d30bf164-22d9-4d08-810c-6b0f3b0c7ce0"
 	},
 	{
 		"point": "〜につき",
@@ -3051,7 +3114,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "373"
+		"id": "373",
+		"noteID": "grammar_b44f895a-3204-483c-a303-f6d6db55f2ae"
 	},
 	{
 		"point": "に相違ない",
@@ -3100,7 +3164,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "420"
+		"id": "420",
+		"noteID": "grammar_61bda563-13d5-47ef-8e11-a03c58eedb3d"
 	},
 	{
 		"point": "げ",
@@ -3144,7 +3209,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "669"
+		"id": "669",
+		"noteID": "grammar_187771b2-c9d1-4728-83b9-d0953b32d073"
 	},
 	{
 		"point": "だけに",
@@ -3188,7 +3254,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "966"
+		"id": "966",
+		"noteID": "grammar_c53a2cd7-ab70-4161-ac7f-8519f3812344"
 	},
 	{
 		"point": "から見ると",
@@ -3237,7 +3304,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1271"
+		"id": "1271",
+		"noteID": "grammar_59ddc1cb-4e90-4235-9267-ae9000d858f7"
 	},
 	{
 		"point": "ものか",
@@ -3281,7 +3349,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1321"
+		"id": "1321",
+		"noteID": "grammar_b2e9177c-a671-4213-9b2a-7902f5ed3f89"
 	},
 	{
 		"point": "といったら",
@@ -3329,7 +3398,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1610"
+		"id": "1610",
+		"noteID": "grammar_f0f0b5bf-4983-4f04-a0b3-99208a7f61a9"
 	},
 	{
 		"point": "て以来",
@@ -3378,7 +3448,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "69"
+		"id": "69",
+		"noteID": "grammar_ea49a603-497f-47f2-8b97-bdb1bdb009a6"
 	},
 	{
 		"point": "ぬく",
@@ -3422,7 +3493,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "309"
+		"id": "309",
+		"noteID": "grammar_ca6cfde1-165b-4323-9678-06fc4690b269"
 	},
 	{
 		"point": "て初めて",
@@ -3471,7 +3543,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "538"
+		"id": "538",
+		"noteID": "grammar_0bda9b96-6c3f-448a-884a-3b00b0989ee2"
 	},
 	{
 		"point": "以上",
@@ -3527,7 +3600,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "671"
+		"id": "671",
+		"noteID": "grammar_42ecdbb3-579a-4249-95df-6e7143abfc86"
 	},
 	{
 		"point": "っこない",
@@ -3571,7 +3645,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "681"
+		"id": "681",
+		"noteID": "grammar_2fc00141-d901-4be6-bc96-15b9a5f1a34a"
 	},
 	{
 		"point": "という風に",
@@ -3620,7 +3695,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "830"
+		"id": "830",
+		"noteID": "grammar_0cf7b18c-fb95-4ffe-b4a7-8578c0b5bc49"
 	},
 	{
 		"point": "というより",
@@ -3671,7 +3747,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "960"
+		"id": "960",
+		"noteID": "grammar_8e71bead-b864-4236-8e77-13ab6e086a94"
 	},
 	{
 		"point": "か〜ないかのうちに",
@@ -3719,7 +3796,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "985"
+		"id": "985",
+		"noteID": "grammar_003b4ff9-1013-4d4c-8fe8-78ff5f5158b3"
 	},
 	{
 		"point": "を問わず",
@@ -3768,7 +3846,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1257"
+		"id": "1257",
+		"noteID": "grammar_04fc22b3-4186-402d-847a-b2feba3a62e7"
 	},
 	{
 		"point": "到底",
@@ -3817,7 +3896,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1506"
+		"id": "1506",
+		"noteID": "grammar_de63e58f-d2c6-497b-a198-b19c759bb2b8"
 	},
 	{
 		"point": "わけがない、わけはない",
@@ -3861,7 +3941,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1556"
+		"id": "1556",
+		"noteID": "grammar_bdfdfb89-c769-4e6e-ad08-97448a06d9d9"
 	},
 	{
 		"point": "のみならず",
@@ -3905,7 +3986,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "209"
+		"id": "209",
+		"noteID": "grammar_b8ea54d0-cd8d-4745-9862-75bed20e29ca"
 	},
 	{
 		"point": "ことだから",
@@ -3949,7 +4031,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "246"
+		"id": "246",
+		"noteID": "grammar_e09f3899-06d6-4dd7-8edd-e824ccfb6430"
 	},
 	{
 		"point": "〜次第で",
@@ -3998,7 +4081,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "260"
+		"id": "260",
+		"noteID": "grammar_717b6900-cf4a-4b51-8b00-24a31f07785a"
 	},
 	{
 		"point": "としたら、とすれば、とすると",
@@ -4049,7 +4133,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "297"
+		"id": "297",
+		"noteID": "grammar_153acc75-3cd1-475a-8f60-b71aa1f2a393"
 	},
 	{
 		"point": "に限らず",
@@ -4098,7 +4183,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "380"
+		"id": "380",
+		"noteID": "grammar_5a989ef1-480d-480d-80da-80a68f19ede4"
 	},
 	{
 		"point": "〜につけ",
@@ -4142,7 +4228,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "480"
+		"id": "480",
+		"noteID": "grammar_7a6ea0ec-5a77-4aa8-88ea-040bcd282481"
 	},
 	{
 		"point": "たび、たびに",
@@ -4191,7 +4278,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "644"
+		"id": "644",
+		"noteID": "grammar_2b8606d3-b9ca-48d3-b300-5370446d6313"
 	},
 	{
 		"point": "ことになる",
@@ -4235,7 +4323,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "913"
+		"id": "913",
+		"noteID": "grammar_3fef4342-08e6-4cca-864c-5df157f76172"
 	},
 	{
 		"point": "における・おいて",
@@ -4279,7 +4368,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "970"
+		"id": "970",
+		"noteID": "grammar_cf634b8b-6da9-4018-9e21-9fbe86fb68ce"
 	},
 	{
 		"point": "かけだ・かけの・かける",
@@ -4327,7 +4417,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1210"
+		"id": "1210",
+		"noteID": "grammar_a7def1fe-a207-496b-a8ec-62e63adcf11b"
 	},
 	{
 		"point": "得る",
@@ -4376,7 +4467,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1220"
+		"id": "1220",
+		"noteID": "grammar_98cb2bbb-fac9-4407-a429-55ec4b57fa98"
 	},
 	{
 		"point": "〜極まる",
@@ -4425,7 +4517,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1291"
+		"id": "1291",
+		"noteID": "grammar_4bf0683d-9edf-415e-bba1-aabe0714cac2"
 	},
 	{
 		"point": "ような気がする",
@@ -4474,7 +4567,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1540"
+		"id": "1540",
+		"noteID": "grammar_6d4dda4d-f161-4f0e-b946-3d10b32abede"
 	},
 	{
 		"point": "たまらない",
@@ -4518,7 +4612,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1590"
+		"id": "1590",
+		"noteID": "grammar_52fb0d6f-7b8d-4f08-8b4a-abaf1527583f"
 	},
 	{
 		"point": "一息",
@@ -4567,7 +4662,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1644"
+		"id": "1644",
+		"noteID": "grammar_782803fb-9621-48e2-a77e-c19deeebe33b"
 	},
 	{
 		"point": "〜をめぐって",
@@ -4615,7 +4711,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1676"
+		"id": "1676",
+		"noteID": "grammar_742d559f-7cc5-4343-9ae0-1334179f36a5"
 	},
 	{
 		"point": "最中に",
@@ -4670,7 +4767,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "59"
+		"id": "59",
+		"noteID": "grammar_1811dacc-bcee-455e-b318-c76799a77bc8"
 	},
 	{
 		"point": "はもとより",
@@ -4714,7 +4812,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "152"
+		"id": "152",
+		"noteID": "grammar_874c4d48-3b13-47d8-824f-ba0f3a2fbb65"
 	},
 	{
 		"point": "一方だ",
@@ -4767,7 +4866,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "220"
+		"id": "220",
+		"noteID": "grammar_e496ef52-7898-4929-883f-f37ed0d29e9f"
 	},
 	{
 		"point": "だけのことはある",
@@ -4811,7 +4911,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "237"
+		"id": "237",
+		"noteID": "grammar_b5b92303-90cf-487b-87b5-483319704d48"
 	},
 	{
 		"point": "まいか",
@@ -4855,7 +4956,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "264"
+		"id": "264",
+		"noteID": "grammar_8ac63f40-d372-4d86-930f-19ca28332d51"
 	},
 	{
 		"point": "にきまっている",
@@ -4899,7 +5001,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "275"
+		"id": "275",
+		"noteID": "grammar_a8bdb352-c911-4401-8ff7-c0809186a05a"
 	},
 	{
 		"point": "一方では",
@@ -4948,7 +5051,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "419"
+		"id": "419",
+		"noteID": "grammar_c58bdca1-e8b5-45b6-af6a-2c886a532b83"
 	},
 	{
 		"point": "むしろ",
@@ -4992,7 +5096,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "842"
+		"id": "842",
+		"noteID": "grammar_eef2cc64-0827-4281-9826-13bc8cf6c5eb"
 	},
 	{
 		"point": "はともかく",
@@ -5036,7 +5141,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "971"
+		"id": "971",
+		"noteID": "grammar_7f70f308-ae59-42b0-a90b-ddad063996e7"
 	},
 	{
 		"point": "も〜ば〜も",
@@ -5080,7 +5186,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1112"
+		"id": "1112",
+		"noteID": "grammar_488b2aa5-bf93-4e84-8c5c-c5440acc4826"
 	},
 	{
 		"point": "〜に足る",
@@ -5129,7 +5236,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1332"
+		"id": "1332",
+		"noteID": "grammar_450908dd-e119-4b0a-b858-50c8973638c5"
 	},
 	{
 		"point": "邪魔する",
@@ -5178,7 +5286,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1386"
+		"id": "1386",
+		"noteID": "grammar_c9a3800f-a04d-4f5e-939b-c776f892a19d"
 	},
 	{
 		"point": "〜でたまらない・〜てたまらない",
@@ -5222,7 +5331,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1588"
+		"id": "1588",
+		"noteID": "grammar_af1c9860-f342-451d-9b91-c6969c579dea"
 	},
 	{
 		"point": "ことはない",
@@ -5270,7 +5380,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "366"
+		"id": "366",
+		"noteID": "grammar_2ffe6944-76c1-4621-bb53-fb67e47bfaab"
 	},
 	{
 		"point": "〜にしたら",
@@ -5314,7 +5425,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "375"
+		"id": "375",
+		"noteID": "grammar_294e3283-2379-4186-b8cc-344cea6696fd"
 	},
 	{
 		"point": "〜まい",
@@ -5362,7 +5474,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "424"
+		"id": "424",
+		"noteID": "grammar_bc449fa6-e1bc-4203-b2c2-3eaf9b12e858"
 	},
 	{
 		"point": "に際して",
@@ -5411,7 +5524,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "508"
+		"id": "508",
+		"noteID": "grammar_0766d320-c6e0-4cee-95a4-3b7670783cdb"
 	},
 	{
 		"point": "途端（に）",
@@ -5465,7 +5579,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "543"
+		"id": "543",
+		"noteID": "grammar_a44155b2-84d0-40c9-a616-c39a2e198b7a"
 	},
 	{
 		"point": "のに",
@@ -5509,7 +5624,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "552"
+		"id": "552",
+		"noteID": "grammar_438312a1-43c4-44f5-a347-28c18ebce8a7"
 	},
 	{
 		"point": "代わりに",
@@ -5558,7 +5674,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "933"
+		"id": "933",
+		"noteID": "grammar_9ed86b1c-b6ea-4d3a-911c-9ece4bf51840"
 	},
 	{
 		"point": "ように",
@@ -5602,7 +5719,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1001"
+		"id": "1001",
+		"noteID": "grammar_9545dd39-2f11-4132-896d-c21c86dfc35f"
 	},
 	{
 		"point": "致します",
@@ -5651,7 +5769,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1139"
+		"id": "1139",
+		"noteID": "grammar_c7b122f6-9499-4018-abef-0156e70e1dff"
 	},
 	{
 		"point": "としては",
@@ -5695,7 +5814,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1213"
+		"id": "1213",
+		"noteID": "grammar_d4dad6eb-069b-4d91-a219-4919db793bc1"
 	},
 	{
 		"point": "というものではない; というものでもない",
@@ -5739,7 +5859,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1602"
+		"id": "1602",
+		"noteID": "grammar_a870a8fd-66f3-44c2-8773-8bef608520a5"
 	},
 	{
 		"point": "たとたん",
@@ -5787,7 +5908,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1642"
+		"id": "1642",
+		"noteID": "grammar_877bf3bd-e223-4a0e-876c-3bd62637a5f5"
 	},
 	{
 		"point": "掛かる",
@@ -5840,7 +5962,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1664"
+		"id": "1664",
+		"noteID": "grammar_5ebf863c-a664-4642-b667-08735ecaeb13"
 	},
 	{
 		"point": "〜わけだ",
@@ -5892,7 +6015,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1727"
+		"id": "1727",
+		"noteID": "grammar_dda85675-69b0-42a5-af7a-80d4ed4b69d6"
 	},
 	{
 		"point": "〜んです",
@@ -5930,7 +6054,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "397"
+		"id": "397",
+		"noteID": "grammar_cd54be1a-64e5-4d17-be0f-9c84ee634a6e"
 	},
 	{
 		"point": "かと思うと",
@@ -5973,7 +6098,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "619"
+		"id": "619",
+		"noteID": "grammar_f8ff4a90-5282-4819-bd38-f541b6f23c06"
 	},
 	{
 		"point": "を契機に",
@@ -6016,7 +6142,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "918"
+		"id": "918",
+		"noteID": "grammar_1da5857f-42fc-48d9-8a16-119c37362b16"
 	},
 	{
 		"point": "をもとにして",
@@ -6054,7 +6181,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1258"
+		"id": "1258",
+		"noteID": "grammar_72fa1cd2-4b20-4f60-b0e6-99cf981b6ef1"
 	},
 	{
 		"point": "ようではないか",
@@ -6092,7 +6220,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1267"
+		"id": "1267",
+		"noteID": "grammar_ce3bdd0d-9f71-49aa-830b-a345bd6dfa98"
 	},
 	{
 		"point": "〜からこそ",
@@ -6130,7 +6259,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1541"
+		"id": "1541",
+		"noteID": "grammar_950d7393-675f-4e60-916f-10202c4e5bc2"
 	},
 	{
 		"point": "たものだ",
@@ -6168,7 +6298,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1550"
+		"id": "1550",
+		"noteID": "grammar_00db8120-4d13-41c3-9bde-a37c78ea58b8"
 	},
 	{
 		"point": "〜もの",
@@ -6206,7 +6337,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1562"
+		"id": "1562",
+		"noteID": "grammar_53cd9319-5207-49bb-bddc-e030a320d90d"
 	},
 	{
 		"point": "せいにする",
@@ -6243,7 +6375,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1563"
+		"id": "1563",
+		"noteID": "grammar_74c287ff-d395-4e24-8e56-f8bfa0c0d279"
 	},
 	{
 		"point": "てやがる",
@@ -6281,7 +6414,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1689"
+		"id": "1689",
+		"noteID": "grammar_23f74c17-0ef4-4f3c-a31b-5bce60a0fbbb"
 	},
 	{
 		"point": "かなわない",
@@ -6319,7 +6453,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1763"
+		"id": "1763",
+		"noteID": "grammar_18b38e23-06b1-4c42-9c11-fb2fcd664569"
 	},
 	{
 		"point": "に限り",
@@ -6367,7 +6502,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1791"
+		"id": "1791",
+		"noteID": "grammar_5db59d3e-4da1-4128-9a18-29e99f8827ca"
 	},
 	{
 		"point": "もので",
@@ -6399,7 +6535,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "416"
+		"id": "416",
+		"noteID": "grammar_7dcf7f88-a060-4ac1-aa9f-b0cd12a72a82"
 	},
 	{
 		"point": "〜まい",
@@ -6431,7 +6568,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "475"
+		"id": "475",
+		"noteID": "grammar_b6c54f36-6bcd-42fb-a5cd-47c1d295e61c"
 	},
 	{
 		"point": "上で",
@@ -6468,7 +6606,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "675"
+		"id": "675",
+		"noteID": "grammar_d789fd1d-fd5a-4589-8ea0-502e74dde6e7"
 	},
 	{
 		"point": "がり",
@@ -6500,7 +6639,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "696"
+		"id": "696",
+		"noteID": "grammar_19c5c117-d783-4a74-b067-ce752e971025"
 	},
 	{
 		"point": "〜ては",
@@ -6537,7 +6677,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "721"
+		"id": "721",
+		"noteID": "grammar_5cca0238-50ec-4cbe-a15d-57b4de5cc809"
 	},
 	{
 		"point": "よもや",
@@ -6569,7 +6710,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1114"
+		"id": "1114",
+		"noteID": "grammar_1793b528-ea9e-4439-96f3-a1acb83ad5d1"
 	},
 	{
 		"point": "〜もかまわず",
@@ -6607,7 +6749,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1164"
+		"id": "1164",
+		"noteID": "grammar_19ad8665-a774-4c41-93a4-82a6e93e2683"
 	},
 	{
 		"point": "なくちゃ",
@@ -6639,7 +6782,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1589"
+		"id": "1589",
+		"noteID": "grammar_9f5230ff-fbed-4bac-a446-d988c444346a"
 	},
 	{
 		"point": "あまりの〜に",
@@ -6675,7 +6819,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1630"
+		"id": "1630",
+		"noteID": "grammar_28f2dea4-e427-4e6f-a869-96dcceb35796"
 	},
 	{
 		"point": "ないばかりか",
@@ -6707,7 +6852,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1638"
+		"id": "1638",
+		"noteID": "grammar_a455eb4e-4f01-4fd8-97a6-9fc19d296105"
 	},
 	{
 		"point": "つれて、につれ",
@@ -6739,7 +6885,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1640"
+		"id": "1640",
+		"noteID": "grammar_730a0705-0071-494c-94e8-26de9ea6a395"
 	},
 	{
 		"point": "ぼんやり",
@@ -6771,7 +6918,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1666"
+		"id": "1666",
+		"noteID": "grammar_cdff25e1-9e99-4b7d-adbf-1965437af67a"
 	},
 	{
 		"point": "〜てこそ",
@@ -6803,7 +6951,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1680"
+		"id": "1680",
+		"noteID": "grammar_a4f3f09d-f82f-4be2-a45a-791618d79e32"
 	},
 	{
 		"point": "にかけては",
@@ -6835,7 +6984,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1683"
+		"id": "1683",
+		"noteID": "grammar_6d1738d6-4710-4015-87ce-c82115de7881"
 	},
 	{
 		"point": "問わず",
@@ -6872,7 +7022,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1696"
+		"id": "1696",
+		"noteID": "grammar_f1a50d86-73c8-425d-aba8-017d6f626e9a"
 	},
 	{
 		"point": "込む",
@@ -6909,7 +7060,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1729"
+		"id": "1729",
+		"noteID": "grammar_4969606d-5398-4523-b921-0d3498e3e071"
 	},
 	{
 		"point": "とも限らない",
@@ -6946,7 +7098,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1735"
+		"id": "1735",
+		"noteID": "grammar_470a8a83-8a2b-42d7-a1cc-6d8ff82ae214"
 	},
 	{
 		"point": "にわたる,にわたって",
@@ -6977,7 +7130,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1759"
+		"id": "1759",
+		"noteID": "grammar_142f03dd-259b-49b8-bcbc-e52504df6f39"
 	},
 	{
 		"point": "見た目はともかく",
@@ -7008,7 +7162,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1762"
+		"id": "1762",
+		"noteID": "grammar_84f5641c-b09e-4765-994e-b212fad44aa3"
 	},
 	{
 		"point": "割りに(は)",
@@ -7045,7 +7200,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1764"
+		"id": "1764",
+		"noteID": "grammar_0dc47cca-b6ff-4176-8b59-7a5a7087e140"
 	},
 	{
 		"point": "にかけては, にかけても",
@@ -7071,7 +7227,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "414"
+		"id": "414",
+		"noteID": "grammar_f586fd29-0b7b-44ec-9081-2214c50c4d58"
 	},
 	{
 		"point": "も〜ば",
@@ -7097,7 +7254,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "430"
+		"id": "430",
+		"noteID": "grammar_e92621ae-c863-4098-8421-8d98da73e028"
 	},
 	{
 		"point": "〜な",
@@ -7123,7 +7281,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "792"
+		"id": "792",
+		"noteID": "grammar_11533205-5d5b-4884-88f8-9d9c8ca2399d"
 	},
 	{
 		"point": "かどうかのうちに",
@@ -7149,7 +7308,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "816"
+		"id": "816",
+		"noteID": "grammar_338f981c-ea52-42f4-bcad-cb23c44909f1"
 	},
 	{
 		"point": "のことだから",
@@ -7175,7 +7335,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1489"
+		"id": "1489",
+		"noteID": "grammar_672344c0-920d-46b8-b91f-0dd6bbe6694f"
 	},
 	{
 		"point": "によれば",
@@ -7201,7 +7362,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1643"
+		"id": "1643",
+		"noteID": "grammar_ab124216-8627-4fc5-861d-3af0aba74b57"
 	},
 	{
 		"point": "向けに",
@@ -7236,7 +7398,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1701"
+		"id": "1701",
+		"noteID": "grammar_348a6304-04ac-42e4-886d-52749bd04f68"
 	},
 	{
 		"point": "まいか",
@@ -7256,7 +7419,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "474"
+		"id": "474",
+		"noteID": "grammar_c135dafc-fa5f-4b31-8ac8-6a7dde8198f3"
 	},
 	{
 		"point": "其れが",
@@ -7281,7 +7445,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1488"
+		"id": "1488",
+		"noteID": "grammar_a154eca0-d3af-496a-a40c-8d890600cf6a"
 	},
 	{
 		"point": "〜からして",
@@ -7301,7 +7466,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1566"
+		"id": "1566",
+		"noteID": "grammar_f3d755d0-ca22-4e05-992d-50129ad3c6b9"
 	},
 	{
 		"point": "よりもさらに",
@@ -7321,7 +7487,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1592"
+		"id": "1592",
+		"noteID": "grammar_58fb2352-0ed7-4215-9e51-61b03b5a3d7c"
 	},
 	{
 		"point": "掛かる　２",
@@ -7346,7 +7513,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1665"
+		"id": "1665",
+		"noteID": "grammar_36d935da-8995-446a-9c35-f8656e9b70ea"
 	},
 	{
 		"point": "だからといって",
@@ -7366,7 +7534,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1674"
+		"id": "1674",
+		"noteID": "grammar_7edca091-66e7-4b9d-8e9d-a3ed84028ebb"
 	},
 	{
 		"point": "に先立って",
@@ -7395,7 +7564,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1684"
+		"id": "1684",
+		"noteID": "grammar_3ec9723d-4f6f-4fed-a078-5e8c8a8caae1"
 	},
 	{
 		"point": "限りだ",
@@ -7420,7 +7590,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1699"
+		"id": "1699",
+		"noteID": "grammar_25046a41-5d26-401d-a661-e5b762c87b1d"
 	},
 	{
 		"point": "かけだ",
@@ -7440,7 +7611,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1736"
+		"id": "1736",
+		"noteID": "grammar_43565ece-6bc5-42ec-8801-a415e459502d"
 	},
 	{
 		"point": "たび、たびに",
@@ -7465,7 +7637,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1777"
+		"id": "1777",
+		"noteID": "grammar_77f4b099-4330-47c2-b1d8-105a878d3a1d"
 	},
 	{
 		"point": "かけると",
@@ -7485,7 +7658,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1796"
+		"id": "1796",
+		"noteID": "grammar_01e96b41-51ff-4527-8aff-361f06275559"
 	},
 	{
 		"point": "あまり〜（動詞）〜ない",
@@ -7502,7 +7676,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1656"
+		"id": "1656",
+		"noteID": "grammar_df71be4a-6b00-45eb-86fa-c6ab54a43a29"
 	},
 	{
 		"point": "掛ける　２",
@@ -7519,7 +7694,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1663"
+		"id": "1663",
+		"noteID": "grammar_5a4fb2b8-c259-4ba4-bc0b-5aac39a53b24"
 	},
 	{
 		"point": "丸で",
@@ -7568,7 +7744,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "500"
+		"id": "500",
+		"noteID": "grammar_4679b6ec-0151-4b50-8134-f7e20174fbd8"
 	},
 	{
 		"point": "に違いない",
@@ -7617,7 +7794,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1552"
+		"id": "1552",
+		"noteID": "grammar_1ae6ad03-1884-449d-ab63-f30335148a81"
 	},
 	{
 		"point": "つつある",
@@ -7665,7 +7843,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "777"
+		"id": "777",
+		"noteID": "grammar_f3c67a0a-da6f-4a5e-87cc-4a237489044a"
 	},
 	{
 		"point": "きっかけ",
@@ -7709,7 +7888,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1509"
+		"id": "1509",
+		"noteID": "grammar_d8cc7112-822f-4100-a754-db8cc566763e"
 	},
 	{
 		"point": "〜まい",
@@ -7753,7 +7933,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "425"
+		"id": "425",
+		"noteID": "grammar_586c5600-8501-4da2-b436-5094a0e01d84"
 	},
 	{
 		"point": "に於いて",
@@ -7802,7 +7983,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "527"
+		"id": "527",
+		"noteID": "grammar_6fd4c7ea-1457-4782-bc24-e5c58c4f9900"
 	},
 	{
 		"point": "かねない",
@@ -7850,7 +8032,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "672"
+		"id": "672",
+		"noteID": "grammar_5fd2308e-f95d-4578-b70c-0ef6f06b99a2"
 	},
 	{
 		"point": "ことになっている",
@@ -7894,7 +8077,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "793"
+		"id": "793",
+		"noteID": "grammar_5b143cd6-ab2b-44b3-931d-8329c8876a97"
 	},
 	{
 		"point": "どころではない、どころではなく",
@@ -7938,7 +8122,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "902"
+		"id": "902",
+		"noteID": "grammar_9be1b368-6e01-429c-a366-5ad00787eac0"
 	},
 	{
 		"point": "てたまらない",
@@ -7982,7 +8167,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "832"
+		"id": "832",
+		"noteID": "grammar_fdd1462f-66ab-4af8-9f7b-1e14484c2795"
 	},
 	{
 		"point": "〜際",
@@ -8031,7 +8217,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "256"
+		"id": "256",
+		"noteID": "grammar_80a2ce44-5431-44ed-a44d-f78443e39900"
 	},
 	{
 		"point": "だらけ",
@@ -8079,7 +8266,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "711"
+		"id": "711",
+		"noteID": "grammar_b4695fa2-1c12-41fd-995c-baf1f7aecb4e"
 	},
 	{
 		"point": "につれて",
@@ -8123,7 +8311,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1360"
+		"id": "1360",
+		"noteID": "grammar_e7c8121d-4e73-4991-8e88-46be76fc7579"
 	},
 	{
 		"point": "〜しかない",
@@ -8172,7 +8361,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "259"
+		"id": "259",
+		"noteID": "grammar_db7bc463-0174-4a6b-a0c4-256ef49434c8"
 	},
 	{
 		"point": "というもの",
@@ -8216,7 +8406,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "403"
+		"id": "403",
+		"noteID": "grammar_4ca85225-a0dc-49ac-9f4c-d85354b8f9cc"
 	},
 	{
 		"point": "ものだ",
@@ -8260,7 +8451,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "482"
+		"id": "482",
+		"noteID": "grammar_8377896c-965c-4fd1-9536-04663a100c6e"
 	},
 	{
 		"point": "〜ずにはいられない",
@@ -8308,7 +8500,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1315"
+		"id": "1315",
+		"noteID": "grammar_50b4c1bb-19cc-4ce5-b311-4aac86f5f8d2"
 	},
 	{
 		"point": "ようもない",
@@ -8352,7 +8545,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1553"
+		"id": "1553",
+		"noteID": "grammar_1125d239-8a14-40b7-9b9b-7c6431ff4148"
 	},
 	{
 		"point": "事無く",
@@ -8405,7 +8599,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "247"
+		"id": "247",
+		"noteID": "grammar_e93f47dc-2fa8-4b67-aef5-6c846deaa2c0"
 	},
 	{
 		"point": "恐れがある",
@@ -8454,7 +8649,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "563"
+		"id": "563",
+		"noteID": "grammar_867749c2-cc09-4b92-ab5b-5f911546f6b9"
 	},
 	{
 		"point": "など; なんか; なんて",
@@ -8502,7 +8698,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1606"
+		"id": "1606",
+		"noteID": "grammar_c6a5dc6b-c372-43dc-bafc-ebdb56de2a83"
 	},
 	{
 		"point": "〜ものがある",
@@ -8546,7 +8743,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "372"
+		"id": "372",
+		"noteID": "grammar_f2d6878e-0f56-46f1-a292-7c9ee483ef9f"
 	},
 	{
 		"point": "通じて",
@@ -8595,7 +8793,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "386"
+		"id": "386",
+		"noteID": "grammar_8ecb8d15-67ff-42ec-b28b-bf6cb085f935"
 	},
 	{
 		"point": "といっても",
@@ -8639,7 +8838,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "411"
+		"id": "411",
+		"noteID": "grammar_8e4a9c32-06f4-4871-b9f8-c64a1c247a3e"
 	},
 	{
 		"point": "ようにする",
@@ -8683,7 +8883,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "761"
+		"id": "761",
+		"noteID": "grammar_e144d8d4-8fe0-443e-8af3-d7895649ad10"
 	},
 	{
 		"point": "兼ねる",
@@ -8732,7 +8933,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1266"
+		"id": "1266",
+		"noteID": "grammar_ec314627-1a84-46dd-90d3-40131f5a7fff"
 	},
 	{
 		"point": "かのようだ",
@@ -8776,7 +8978,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1316"
+		"id": "1316",
+		"noteID": "grammar_ce113d8c-3332-4635-b5eb-1ab6926719ff"
 	},
 	{
 		"point": "ないことには",
@@ -8820,7 +9023,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "239"
+		"id": "239",
+		"noteID": "grammar_b1457cc0-f543-4657-89e9-ffa2e412c86d"
 	},
 	{
 		"point": "た形ところ",
@@ -8869,7 +9073,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "413"
+		"id": "413",
+		"noteID": "grammar_ebe79235-4c1a-4f56-b4bc-80438ab8a19b"
 	},
 	{
 		"point": "からすると",
@@ -8913,7 +9118,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "614"
+		"id": "614",
+		"noteID": "grammar_1b78e4ba-b094-4a0e-8b47-767487f90bed"
 	},
 	{
 		"point": "上に",
@@ -8969,7 +9175,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1298"
+		"id": "1298",
+		"noteID": "grammar_324f0147-aa72-4272-a4cf-657f64f5f674"
 	},
 	{
 		"point": "上で",
@@ -9018,7 +9225,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "124"
+		"id": "124",
+		"noteID": "grammar_35a82726-d372-4477-bf91-029dc5f63884"
 	},
 	{
 		"point": "にわたって",
@@ -9062,7 +9270,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "518"
+		"id": "518",
+		"noteID": "grammar_da664bc1-277e-4322-8669-225c1ca45e87"
 	},
 	{
 		"point": "につき",
@@ -9110,7 +9319,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "138"
+		"id": "138",
+		"noteID": "grammar_30c9946a-910e-4a89-9c88-60a64c3d8b01"
 	},
 	{
 		"point": "抜き",
@@ -9159,7 +9369,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "352"
+		"id": "352",
+		"noteID": "grammar_1f6b54a2-5247-4c2c-82d9-51ac008a85b8"
 	},
 	{
 		"point": "については",
@@ -9202,7 +9413,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "562"
+		"id": "562",
+		"noteID": "grammar_fd593e11-6df4-4430-864e-cd68e468d58e"
 	},
 	{
 		"point": "〜末に",
@@ -9256,7 +9468,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "824"
+		"id": "824",
+		"noteID": "grammar_9d37df46-808d-4415-a724-64b4f690e5d2"
 	},
 	{
 		"point": "と同時に",
@@ -9305,7 +9518,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1617"
+		"id": "1617",
+		"noteID": "grammar_e0cd1a8d-c80c-48ea-9458-d4c2dbd54e4a"
 	},
 	{
 		"point": "ないではいられない",
@@ -9349,7 +9563,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "535"
+		"id": "535",
+		"noteID": "grammar_b7f3cc16-73dd-4af1-b26b-bb83121f8cfd"
 	},
 	{
 		"point": "気味",
@@ -9403,7 +9618,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "670"
+		"id": "670",
+		"noteID": "grammar_7c54eb1f-c6ea-4cb5-af5d-3bda27d59b65"
 	},
 	{
 		"point": "上",
@@ -9452,7 +9668,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "674"
+		"id": "674",
+		"noteID": "grammar_3fffcf85-cd93-41c2-a07d-836358c6d548"
 	},
 	{
 		"point": "わけには　いかない",
@@ -9496,7 +9713,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1555"
+		"id": "1555",
+		"noteID": "grammar_fca77fca-164d-4b34-89e7-af9b36ee5790"
 	},
 	{
 		"point": "にとっての",
@@ -9540,7 +9758,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "415"
+		"id": "415",
+		"noteID": "grammar_17938a26-238b-4aa0-94fd-e4282920fc40"
 	},
 	{
 		"point": "ように〜て",
@@ -9584,7 +9803,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "760"
+		"id": "760",
+		"noteID": "grammar_df9c703a-9480-4c59-9eae-34f94ba5e912"
 	},
 	{
 		"point": "〜ず",
@@ -9632,7 +9852,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1172"
+		"id": "1172",
+		"noteID": "grammar_396fe89d-a7d2-4c83-836c-8ce0d025ca79"
 	},
 	{
 		"point": "〜べからず",
@@ -9676,7 +9897,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1342"
+		"id": "1342",
+		"noteID": "grammar_a92df537-460f-4fd4-9ebb-ac2e208a97c6"
 	},
 	{
 		"point": "て形からでないと; て形からでなければ",
@@ -9725,7 +9947,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "317"
+		"id": "317",
+		"noteID": "grammar_f065b8da-c862-49e1-a643-c0d85183dd89"
 	},
 	{
 		"point": "にほかならない",
@@ -9773,7 +9996,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "546"
+		"id": "546",
+		"noteID": "grammar_6d5296f3-c9b8-42f4-9c7f-ec690f98fe04"
 	},
 	{
 		"point": "ということだ",
@@ -9816,7 +10040,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "616"
+		"id": "616",
+		"noteID": "grammar_679147d4-3a5e-4c4e-af91-cb80802f1fa2"
 	},
 	{
 		"point": "〜ものの",
@@ -9866,7 +10091,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1178"
+		"id": "1178",
+		"noteID": "grammar_c695c121-ce47-4b9d-b091-1abe43399f23"
 	},
 	{
 		"point": "まるで",
@@ -9910,7 +10136,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1527"
+		"id": "1527",
+		"noteID": "grammar_c4c843db-e71c-407e-a45a-2c1307e43035"
 	},
 	{
 		"point": "〜さえ〜ば",
@@ -9954,7 +10181,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "376"
+		"id": "376",
+		"noteID": "grammar_6fd677fc-b33e-43d4-b4bd-e91f2bace58d"
 	},
 	{
 		"point": "をもとに",
@@ -9997,7 +10225,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1259"
+		"id": "1259",
+		"noteID": "grammar_8442b28d-b386-43dc-b08a-c88cf4e23297"
 	},
 	{
 		"point": "た形ところで",
@@ -10046,7 +10275,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1528"
+		"id": "1528",
+		"noteID": "grammar_04c565b7-67bf-4e25-a0a6-84afbe673c76"
 	},
 	{
 		"point": "ほどだ; ほどの",
@@ -10090,7 +10320,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1620"
+		"id": "1620",
+		"noteID": "grammar_8770de9f-b399-4d29-95ff-0921acbf1e6b"
 	},
 	{
 		"point": "兎も角",
@@ -10139,7 +10370,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1697"
+		"id": "1697",
+		"noteID": "grammar_9a25163b-39fa-4aae-bdec-6714b315ffb3"
 	},
 	{
 		"point": "〜ことに　「は」",
@@ -10183,7 +10415,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "341"
+		"id": "341",
+		"noteID": "grammar_f87de1e3-d3d1-416e-971c-ece05744054c"
 	},
 	{
 		"point": "うちに",
@@ -10227,7 +10460,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "363"
+		"id": "363",
+		"noteID": "grammar_48f00caa-ac25-4758-b10c-f9e8e47fbb78"
 	},
 	{
 		"point": "に応じて、に応じた",
@@ -10276,7 +10510,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "975"
+		"id": "975",
+		"noteID": "grammar_d6cce696-21f0-4db4-ae42-d89f94d5f009"
 	},
 	{
 		"point": "ないことはない",
@@ -10325,7 +10560,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "740"
+		"id": "740",
+		"noteID": "grammar_0d7669c9-7e6a-427a-a769-1ad3c67f6ec3"
 	},
 	{
 		"point": "からいうと",
@@ -10373,7 +10609,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "1270"
+		"id": "1270",
+		"noteID": "grammar_b849aad2-ac3c-4b7e-a778-edbc22ac7d3b"
 	},
 	{
 		"point": "〜やら〜やら",
@@ -10417,7 +10654,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1594"
+		"id": "1594",
+		"noteID": "grammar_78401211-9fc5-47e1-bb37-817ba60d9bb7"
 	},
 	{
 		"point": "た形 積もりで",
@@ -10466,7 +10704,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1635"
+		"id": "1635",
+		"noteID": "grammar_c3228f7e-44f5-4f11-bfae-0fca84e4512c"
 	},
 	{
 		"point": "にしろ; にせ(も)よ; にしても",
@@ -10510,7 +10749,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1628"
+		"id": "1628",
+		"noteID": "grammar_90ca4709-b3d8-4bb8-b4b6-d5376b6e86a0"
 	},
 	{
 		"point": "のもとで",
@@ -10548,7 +10788,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "127"
+		"id": "127",
+		"noteID": "grammar_9bcc3bc7-f596-49b0-9446-f480ef368c8d"
 	},
 	{
 		"point": "かと思うと",
@@ -10591,7 +10832,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "293"
+		"id": "293",
+		"noteID": "grammar_7d8f9457-a9dc-4c23-b6ff-d766486aa748"
 	},
 	{
 		"point": "ありうる, ありえる (有り得る)",
@@ -10629,7 +10871,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "470"
+		"id": "470",
+		"noteID": "grammar_aa07bf35-2cb2-46af-ae48-63f2cb951d4b"
 	},
 	{
 		"point": "くらい〜はない",
@@ -10667,7 +10910,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1123"
+		"id": "1123",
+		"noteID": "grammar_68062d5b-f71e-43bb-acf2-4a008b5bd810"
 	},
 	{
 		"point": "〜をぬきにして・はぬきにして",
@@ -10705,7 +10949,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1591"
+		"id": "1591",
+		"noteID": "grammar_7dfaeacd-576a-42ed-a7ae-1ae633f18bdf"
 	},
 	{
 		"point": "とか",
@@ -10743,7 +10988,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1605"
+		"id": "1605",
+		"noteID": "grammar_a01da744-1340-4b55-853e-22557b0246d6"
 	},
 	{
 		"point": "うちに",
@@ -10769,7 +11015,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1761"
+		"id": "1761",
+		"noteID": "grammar_cbf9329b-eb4d-4df2-bbe7-865147d5e1aa"
 	},
 	{
 		"point": "にする",
@@ -10801,7 +11048,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "449"
+		"id": "449",
+		"noteID": "grammar_1c891127-21fb-4de2-9846-b7d70e247a3d"
 	},
 	{
 		"point": "上は",
@@ -10838,7 +11086,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1155"
+		"id": "1155",
+		"noteID": "grammar_bc213643-004b-4571-b49a-84d8304f1dec"
 	},
 	{
 		"point": "にしろ; にせ(も)よ; にしても",
@@ -10882,7 +11131,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "1235"
+		"id": "1235",
+		"noteID": "grammar_0c9a1eed-5738-4c01-b64d-47c276c331cf"
 	},
 	{
 		"point": "てならない",
@@ -10933,7 +11183,8 @@
 			"grammar::has_usages",
 			"grammar::N2"
 		],
-		"id": "319"
+		"id": "319",
+		"noteID": "grammar_5f2b2744-6464-4ce6-a6f1-4301639040fd"
 	},
 	{
 		"point": "〜にしても",
@@ -10977,7 +11228,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "990"
+		"id": "990",
+		"noteID": "grammar_6d966e95-99f5-4af6-aad1-98210ac73a6b"
 	},
 	{
 		"point": "をはじめ",
@@ -11021,7 +11273,8 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "890"
+		"id": "890",
+		"noteID": "grammar_533b3d49-8b64-42b1-9eb5-c6c3b58e4c03"
 	},
 	{
 		"point": "ものだ",
@@ -11064,6 +11317,7 @@
 		"tags": [
 			"grammar::N2"
 		],
-		"id": "699"
+		"id": "699",
+		"noteID": "grammar_bb3f3861-c543-46a6-9f0a-0df31f53b9da"
 	}
 ]

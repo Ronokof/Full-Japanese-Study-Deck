@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
+import { UUID } from 'crypto';
 
 export type URLPath = `/${string | `/${string}/${string}`}${'/' | ''}`;
 
@@ -53,6 +54,7 @@ export interface Kanji {
     words?: Word[] | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
+    noteID?: UUID | undefined;
     doNotCreateNote?: true | undefined;
 }
 
@@ -66,6 +68,7 @@ export interface Radical {
     kanji?: Kanji[] | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
+    noteID?: UUID | undefined;
 }
 
 export interface Phrase {
@@ -83,6 +86,7 @@ export interface Word {
     common?: true | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
+    noteID?: UUID | undefined;
 }
 
 export interface Kana {
@@ -92,6 +96,7 @@ export interface Kana {
     svg?: string | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
+    noteID?: UUID | undefined;
 }
 
 export interface GrammarMeaning {
@@ -109,6 +114,7 @@ export interface Grammar {
     audio?: string | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
+    noteID?: UUID | undefined;
 }
 
 export type Result = Word | Kanji | Radical | Kana | Grammar;
@@ -156,8 +162,6 @@ export function saveEntries(resultPath: string): void {
                 }
             }
         }
-
-
     }
 }
 
@@ -174,11 +178,13 @@ export function generateAnkiNote(entry: Result): Note {
         let translationsField: string = entry.translations.map((translationEntry: Translation) => createEntry(`<span class="word word-translation">${translationEntry.translation}</span>`, translationEntry.notes)).join('');
         let kanjiField: string = (entry.kanji) ? entry.kanji.map((kanjiEntry: Kanji) => createEntry(`<span class="word word-kanji">${kanjiEntry.kanji}${(kanjiEntry.meanings === undefined) ? ' (no meanings)' : ''}</span>`, kanjiEntry.meanings)).join('') : '<span class="word word-kanji">(no kanji)</span>';
         let phrasesField: string = (entry.phrases) ? entry.phrases.map((phraseEntry: Phrase) => createEntry(`<span class="word word-phrase">${phraseEntry.phrase}</span>`, phraseEntry.translations)).join('') : '<span class="word word-phrase">(no phrases) (Search on dictionaries!)</span>';
+        let noteIDField: string | undefined = (entry.noteID) ? `<span class="word word-noteid">${entry.noteID}</span>` : undefined;
+        if (noteIDField === undefined) throw new Error('Invalid note ID');
         let tagsField: string | undefined = (entry.tags && entry.tags.length > 0) ? entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ') : undefined;
 
         let usuallyInKana: boolean = entry.translations.every((translation) => translation.notes && translation.notes.includes('Usually written using kana alone'));
 
-        return { note: `${(kanjiFormsField !== noKanjiForms && !usuallyInKana) ? kanjiFormsField : readingsField}\t${(kanjiFormsField !== noKanjiForms && !usuallyInKana) ? readingsField : kanjiFormsField}\t${translationsField}\t${kanjiField}\t${phrasesField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 6 };
+        return { note: `${(kanjiFormsField !== noKanjiForms && !usuallyInKana) ? kanjiFormsField : readingsField}\t${(kanjiFormsField !== noKanjiForms && !usuallyInKana) ? readingsField : kanjiFormsField}\t${translationsField}\t${kanjiField}\t${phrasesField}\t${noteIDField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 7 };
     }
 
     if ((entry as Radical).radical !== undefined && (entry as Radical).reading !== undefined && (entry as Radical).meanings !== undefined) {
@@ -190,9 +196,11 @@ export function generateAnkiNote(entry: Result): Note {
         let mnemonicField: string = (entry.mnemonic) ? createEntry(`<span class="radical radical-mnemonic">${entry.mnemonic}</span>`) : '<span class="radical radical-mnemonic">(no mnemonic) (Come up with your own!)</span>';
         let kanjiField: string = (entry.kanji) ? entry.kanji.map((kanji: Kanji) => createEntry(`<span class="radical radical-kanji">${kanji.kanji}${(kanji.meanings && kanji.meanings.length === 1) ? ` - ${kanji.meanings[0]}` : ''}</span>`)).join('') : '<span class="radical radical-kanji">(no "used-in" kanji)</span>';
         let strokesField: string = (entry.strokes) ? createEntry(`<span class="radical radical-strokes">${entry.strokes}<br>${(entry.svg) ? `<img class="radical radical-stroke-order" src="${entry.svg}" alt="${entry.radical} stroke order SVG">` : '(no stroke order SVG available)'}</span>`) : '<span class="radical radical-strokes">(no stroke number)</span>';
+        let noteIDField: string | undefined = (entry.noteID) ? `<span class="radical radical-noteid">${entry.noteID}</span>` : undefined;
+        if (noteIDField === undefined) throw new Error('Invalid note ID');
         let tagsField: string | undefined = (entry.tags && entry.tags.length > 0) ? entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ') : undefined;
 
-        return { note: `${radicalField}\t${readingField}\t${meaningsField}\t${mnemonicField}\t${kanjiField}\t${strokesField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 7 };
+        return { note: `${radicalField}\t${readingField}\t${meaningsField}\t${mnemonicField}\t${kanjiField}\t${strokesField}\t${noteIDField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 8 };
     }
 
     if ((entry as Kanji).kanji !== undefined) {
@@ -206,9 +214,11 @@ export function generateAnkiNote(entry: Result): Note {
         let mnemonicField: string = (entry.mnemonic) ? createEntry(`<span class="kanji kanji-mnemonic">${entry.mnemonic}</span>`) : '<span class="kanji kanji-mnemonic">(no mnemonic) (Come up with your own!)</span>';
         let wordsField: string = (entry.words) ? entry.words.filter((word: Word) => (word.kanjiForms && word.kanjiForms.length === 1) && word.readings.length === 1 && word.translations.length === 1).map((word: Word) => createEntry(`<span class="kanji kanji-words">${word.kanjiForms![0]!.kanjiForm} / ${word.readings[0]!.reading} - ${word.translations[0]!.translation}</span>`)).join('') : '<span class="kanji kanji-words">(no words) (Search on dictionaries!)</span>';
         let strokesField: string = (entry.strokes) ? createEntry(`<span class="kanji kanji-strokes">${entry.strokes}<br>${(entry.svg) ? `<img class="kanji kanji-stroke-order" src="${entry.svg}" alt="${entry.kanji} stroke order SVG">` : '(no stroke order SVG available)'}</span>`) : '<span class="kanji kanji-strokes">(no stroke number)</span>';
+        let noteIDField: string | undefined = (entry.noteID) ? `<span class="kanji kanji-noteid">${entry.noteID}</span>` : undefined;
+        if (noteIDField === undefined) throw new Error('Invalid note ID');
         let tagsField: string | undefined = (entry.tags && entry.tags.length > 0) ? entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ') : undefined;
 
-        return { note: `${kanjiField}\t${meaningsField}\t${onyomiField}\t${kunyomiField}\t${componentsField}\t${mnemonicField}\t${wordsField}\t${strokesField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 9 };
+        return { note: `${kanjiField}\t${meaningsField}\t${onyomiField}\t${kunyomiField}\t${componentsField}\t${mnemonicField}\t${wordsField}\t${strokesField}\t${noteIDField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 10 };
     }
 
     if ((entry as Kana).kana !== undefined && (entry as Kana).reading !== undefined) {
@@ -216,9 +226,11 @@ export function generateAnkiNote(entry: Result): Note {
 
         let kanaField: string = createEntry(`<span class="kana kana-character">${entry.kana}</span>`);
         let readingField: string = createEntry(`<span class="kana kana-reading">${entry.reading}${(entry.audio !== undefined) ? `<br>[sound:${entry.audio}]` : ''}<br>${(entry.svg) ? `<img class="kana kana-stroke-order" src="${entry.svg}" alt="${entry.kana} stroke order SVG">` : '(no stroke order SVG available)'}</span>`);
+        let noteIDField: string | undefined = (entry.noteID) ? `<span class="kana kana-noteid">${entry.noteID}</span>` : undefined;
+        if (noteIDField === undefined) throw new Error('Invalid note ID');
         let tagsField: string | undefined = (entry.tags && entry.tags.length > 0) ? entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ') : undefined;
 
-        return { note: `${kanaField}\t${readingField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 3 };
+        return { note: `${kanaField}\t${readingField}\t${noteIDField}${(tagsField) ? `\t${tagsField}` : ''}`.replaceAll('\n', '<br>'), fieldNumber: 4 };
     }
 
     if ((entry as Grammar).point !== undefined && (entry as Grammar).meaning !== undefined) {
@@ -229,10 +241,11 @@ export function generateAnkiNote(entry: Result): Note {
         let meaningField: string = createEntry(`<span class="grammar grammar-meaning">${entry.meaning.meaning}${(entry.meaning.example && entry.meaning.example.length > 0) ? `<br><span class="grammar grammar-meaning-example">${entry.meaning.example}</span>` : ''}</span>`);
         let usageField: string = (entry.usages) ? entry.usages.map((usage) => createEntry(`<span class="grammar grammar-usage">${usage}</span>`)).join('') : '<span class="grammar grammar-usage">(no usages)</span>';
         let phrasesField: string = (entry.phrases) ? entry.phrases.map((phraseEntry: Phrase) => createEntry(`<span class="grammar grammar-phrase">${phraseEntry.phrase}</span>`, phraseEntry.translations)).join('') : '<span class="grammar grammar-phrase">(no phrases) (Search on dictionaries!)</span>';
+        let noteIDField: string | undefined = (entry.noteID) ? `<span class="grammar grammar-noteid">${entry.noteID}</span>` : undefined;
+        if (noteIDField === undefined) throw new Error('Invalid note ID');
         let tagsField: string | undefined = (entry.tags && entry.tags.length > 0) ? entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ') : undefined;
 
-        return { note: `${pointField}\t${readingField}\t${meaningField}\t${usageField}\t${phrasesField}${(tagsField) ? `\t${tagsField}` : ''}`, fieldNumber: 6 };
-
+        return { note: `${pointField}\t${readingField}\t${meaningField}\t${usageField}\t${phrasesField}\t${noteIDField}${(tagsField) ? `\t${tagsField}` : ''}`, fieldNumber: 7 };
     }
 
     throw new Error('Invalid entry');
