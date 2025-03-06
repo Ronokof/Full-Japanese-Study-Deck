@@ -68,6 +68,8 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
 BTC: bc1qfza6geu2ud8e0z8cec5cnzyqzffktaw7t9pksp
 ETH: 0x54715BD4d31535573959E57e7387bC018094e798
 
+---
+
 This deck is an independent project and **is not affiliated with Amazon Web Services (AWS) or any contributing databases.**
 
 Please read the [license](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/LICENSE.md) for more details.
