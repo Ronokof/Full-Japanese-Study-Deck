@@ -5029,41 +5029,45 @@
 				"kanjiForm": "彼処",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "彼処.mp3"
+				]
 			},
 			{
 				"kanjiForm": "彼所",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "彼所.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "あそこ"
+				"reading": "あそこ",
+				"audio": "あそこ.mp3"
 			},
 			{
-				"reading": "あすこ"
+				"reading": "あすこ",
+				"audio": "あすこ.mp3"
 			},
 			{
-				"reading": "かしこ"
+				"reading": "かしこ",
+				"audio": "かしこ.mp3"
 			},
 			{
-				"reading": "アソコ"
+				"reading": "アソコ",
+				"audio": "アソコ.mp3"
 			},
 			{
 				"reading": "あしこ",
 				"notes": [
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "あしこ.mp3"
 			},
 			{
 				"reading": "あこ",
 				"notes": [
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "あこ.mp3"
 			}
 		],
 		"translations": [
@@ -6223,22 +6227,24 @@
 				"kanjiForm": "彼方",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "彼方.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "あちら"
+				"reading": "あちら",
+				"audio": "あちら.mp3"
 			},
 			{
-				"reading": "あっち"
+				"reading": "あっち",
+				"audio": "あっち.mp3"
 			},
 			{
 				"reading": "あち",
 				"notes": [
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "あち.mp3"
 			}
 		],
 		"translations": [
@@ -9574,8 +9580,7 @@
 				"kanjiForm": "如何",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "如何.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -9583,7 +9588,8 @@
 				"reading": "どう",
 				"notes": [
 					"Gikun (meaning as reading) or jukujikun (special kanji reading)"
-				]
+				],
+				"audio": "どう.mp3"
 			}
 		],
 		"translations": [
@@ -10158,13 +10164,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "幾つ",
-				"audio": "幾つ.mp3"
+				"kanjiForm": "幾つ"
 			}
 		],
 		"readings": [
 			{
-				"reading": "いくつ"
+				"reading": "いくつ",
+				"audio": "いくつ.mp3"
 			}
 		],
 		"translations": [
@@ -10315,13 +10321,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "幾ら",
-				"audio": "幾ら.mp3"
+				"kanjiForm": "幾ら"
 			}
 		],
 		"readings": [
 			{
-				"reading": "いくら"
+				"reading": "いくら",
+				"audio": "いくら.mp3"
 			}
 		],
 		"translations": [
@@ -10849,7 +10855,8 @@
 				"kanjiForm": "倚子",
 				"notes": [
 					"rarely-used kanji form"
-				]
+				],
+				"audio": "倚子.mp3"
 			}
 		],
 		"readings": [
@@ -11582,13 +11589,15 @@
 				"audio": "壱.mp3"
 			},
 			{
-				"kanjiForm": "弌"
+				"kanjiForm": "弌",
+				"audio": "弌.mp3"
 			},
 			{
 				"kanjiForm": "壹",
 				"notes": [
 					"Out-dated kanji"
-				]
+				],
+				"audio": "壹.mp3"
 			}
 		],
 		"readings": [
@@ -13112,13 +13121,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "何時も",
-				"audio": "何時も.mp3"
+				"kanjiForm": "何時も"
 			}
 		],
 		"readings": [
 			{
-				"reading": "いつも"
+				"reading": "いつも",
+				"audio": "いつも.mp3"
 			}
 		],
 		"translations": [
@@ -14714,13 +14723,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "居る",
-				"audio": "居る.mp3"
+				"kanjiForm": "居る"
 			}
 		],
 		"readings": [
 			{
-				"reading": "いる"
+				"reading": "いる",
+				"audio": "いる.mp3"
 			}
 		],
 		"translations": [
@@ -14880,13 +14889,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "要る",
-				"audio": "要る.mp3"
+				"kanjiForm": "要る"
 			}
 		],
 		"readings": [
 			{
-				"reading": "いる"
+				"reading": "いる",
+				"audio": "いる.mp3"
 			}
 		],
 		"translations": [
@@ -15588,17 +15597,16 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "色々",
-				"audio": "色々.mp3"
+				"kanjiForm": "色々"
 			},
 			{
-				"kanjiForm": "色色",
-				"audio": "色色.mp3"
+				"kanjiForm": "色色"
 			}
 		],
 		"readings": [
 			{
-				"reading": "いろいろ"
+				"reading": "いろいろ",
+				"audio": "いろいろ.mp3"
 			}
 		],
 		"translations": [
@@ -17660,28 +17668,26 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "煩い",
-				"audio": "煩い.mp3"
+				"kanjiForm": "煩い"
 			},
 			{
 				"kanjiForm": "五月蝿い",
 				"notes": [
 					"Ateji (phonetic) reading"
-				],
-				"audio": "五月蝿い.mp3"
+				]
 			},
 			{
 				"kanjiForm": "五月蠅い",
 				"notes": [
 					"Ateji (phonetic) reading",
 					"rarely-used kanji form"
-				],
-				"audio": "五月蠅い.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "うるさい"
+				"reading": "うるさい",
+				"audio": "うるさい.mp3"
 			}
 		],
 		"translations": [
@@ -20200,8 +20206,7 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "美味しい",
-				"audio": "美味しい.mp3"
+				"kanjiForm": "美味しい"
 			}
 		],
 		"readings": [
@@ -20209,7 +20214,8 @@
 				"reading": "おいしい",
 				"notes": [
 					"Gikun (meaning as reading) or jukujikun (special kanji reading)"
-				]
+				],
+				"audio": "おいしい.mp3"
 			}
 		],
 		"translations": [
@@ -25863,17 +25869,16 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "お祖母さん",
-				"audio": "お祖母さん.mp3"
+				"kanjiForm": "お祖母さん"
 			},
 			{
-				"kanjiForm": "お婆さん",
-				"audio": "お婆さん.mp3"
+				"kanjiForm": "お婆さん"
 			}
 		],
 		"readings": [
 			{
-				"reading": "おばあさん"
+				"reading": "おばあさん",
+				"audio": "おばあさん.mp3"
 			}
 		],
 		"translations": [
@@ -26895,13 +26900,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "お巡りさん",
-				"audio": "お巡りさん.mp3"
+				"kanjiForm": "お巡りさん"
 			}
 		],
 		"readings": [
 			{
-				"reading": "おまわりさん"
+				"reading": "おまわりさん",
+				"audio": "おまわりさん.mp3"
 			}
 		],
 		"translations": [
@@ -34986,13 +34991,15 @@
 		],
 		"readings": [
 			{
-				"reading": "カレー"
+				"reading": "カレー",
+				"audio": "カレー.mp3"
 			},
 			{
 				"reading": "カリー",
 				"notes": [
 					"rarely used kana form"
-				]
+				],
+				"audio": "カリー.mp3"
 			}
 		],
 		"translations": [
@@ -35220,16 +35227,17 @@
 				"kanjiForm": "可愛い",
 				"notes": [
 					"Ateji (phonetic) reading"
-				],
-				"audio": "可愛い.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "かわいい"
+				"reading": "かわいい",
+				"audio": "かわいい.mp3"
 			},
 			{
-				"reading": "かわゆい"
+				"reading": "かわゆい",
+				"audio": "かわゆい.mp3"
 			}
 		],
 		"translations": [
@@ -41559,13 +41567,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "下さい",
-				"audio": "下さい.mp3"
+				"kanjiForm": "下さい"
 			}
 		],
 		"readings": [
 			{
-				"reading": "ください"
+				"reading": "ください",
+				"audio": "ください.mp3"
 			}
 		],
 		"translations": [
@@ -44112,13 +44120,13 @@
 				"kanjiForm": "瓦",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "瓦.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "グラム"
+				"reading": "グラム",
+				"audio": "グラム.mp3"
 			}
 		],
 		"translations": [
@@ -48216,7 +48224,8 @@
 				"kanjiForm": "聲",
 				"notes": [
 					"Out-dated kanji"
-				]
+				],
+				"audio": "聲.mp3"
 			}
 		],
 		"readings": [
@@ -48503,13 +48512,13 @@
 				"kanjiForm": "珈琲",
 				"notes": [
 					"Ateji (phonetic) reading"
-				],
-				"audio": "珈琲.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "コーヒー"
+				"reading": "コーヒー",
+				"audio": "コーヒー.mp3"
 			}
 		],
 		"translations": [
@@ -49773,22 +49782,24 @@
 				"kanjiForm": "此方",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "此方.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "こちら"
+				"reading": "こちら",
+				"audio": "こちら.mp3"
 			},
 			{
-				"reading": "こっち"
+				"reading": "こっち",
+				"audio": "こっち.mp3"
 			},
 			{
 				"reading": "こち",
 				"notes": [
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "こち.mp3"
 			}
 		],
 		"translations": [
@@ -50050,28 +50061,26 @@
 				"kanjiForm": "洋杯",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "洋杯.mp3"
+				]
 			},
 			{
 				"kanjiForm": "洋盃",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "洋盃.mp3"
+				]
 			},
 			{
 				"kanjiForm": "骨杯",
 				"notes": [
 					"Ateji (phonetic) reading",
 					"rarely-used kanji form"
-				],
-				"audio": "骨杯.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "コップ"
+				"reading": "コップ",
+				"audio": "コップ.mp3"
 			}
 		],
 		"translations": [
@@ -62399,13 +62408,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "直ぐに",
-				"audio": "直ぐに.mp3"
+				"kanjiForm": "直ぐに"
 			}
 		],
 		"readings": [
 			{
-				"reading": "すぐに"
+				"reading": "すぐに",
+				"audio": "すぐに.mp3"
 			}
 		],
 		"translations": [
@@ -63271,20 +63280,19 @@
 				"kanjiForm": "洋袴",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "洋袴.mp3"
+				]
 			},
 			{
 				"kanjiForm": "段袋",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "段袋.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "ズボン"
+				"reading": "ズボン",
+				"audio": "ズボン.mp3"
 			}
 		],
 		"translations": [
@@ -65254,7 +65262,8 @@
 				"audio": "０.mp3"
 			},
 			{
-				"kanjiForm": "〇"
+				"kanjiForm": "〇",
+				"audio": "〇.mp3"
 			}
 		],
 		"readings": [
@@ -65384,10 +65393,12 @@
 				"audio": "千.mp3"
 			},
 			{
-				"kanjiForm": "阡"
+				"kanjiForm": "阡",
+				"audio": "阡.mp3"
 			},
 			{
-				"kanjiForm": "仟"
+				"kanjiForm": "仟",
+				"audio": "仟.mp3"
 			}
 		],
 		"readings": [
@@ -66814,22 +66825,25 @@
 				"kanjiForm": "其方",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "其方.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "そちら"
+				"reading": "そちら",
+				"audio": "そちら.mp3"
 			},
 			{
-				"reading": "そっち"
+				"reading": "そっち",
+				"audio": "そっち.mp3"
 			},
 			{
-				"reading": "そなた"
+				"reading": "そなた",
+				"audio": "そなた.mp3"
 			},
 			{
-				"reading": "そち"
+				"reading": "そち",
+				"audio": "そち.mp3"
 			}
 		],
 		"translations": [
@@ -67537,13 +67551,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "其れから",
-				"audio": "其れから.mp3"
+				"kanjiForm": "其れから"
 			}
 		],
 		"readings": [
 			{
-				"reading": "それから"
+				"reading": "それから",
+				"audio": "それから.mp3"
 			}
 		],
 		"translations": [
@@ -69621,13 +69635,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "沢山",
-				"audio": "沢山.mp3"
+				"kanjiForm": "沢山"
 			}
 		],
 		"readings": [
 			{
-				"reading": "たくさん"
+				"reading": "たくさん",
+				"audio": "たくさん.mp3"
 			}
 		],
 		"translations": [
@@ -71211,33 +71225,32 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "煙草",
-				"audio": "煙草.mp3"
+				"kanjiForm": "煙草"
 			},
 			{
 				"kanjiForm": "莨",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "莨.mp3"
+				]
 			},
 			{
 				"kanjiForm": "烟草",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "烟草.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "タバコ"
+				"reading": "タバコ",
+				"audio": "タバコ.mp3"
 			},
 			{
 				"reading": "たばこ",
 				"notes": [
 					"Gikun (meaning as reading) or jukujikun (special kanji reading)"
-				]
+				],
+				"audio": "たばこ.mp3"
 			}
 		],
 		"translations": [
@@ -74570,32 +74583,35 @@
 				"kanjiForm": "一寸",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "一寸.mp3"
+				]
 			},
 			{
 				"kanjiForm": "鳥渡",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "鳥渡.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "ちょっと"
+				"reading": "ちょっと",
+				"audio": "ちょっと.mp3"
 			},
 			{
-				"reading": "ちょと"
+				"reading": "ちょと",
+				"audio": "ちょと.mp3"
 			},
 			{
-				"reading": "チョット"
+				"reading": "チョット",
+				"audio": "チョット.mp3"
 			},
 			{
-				"reading": "ちょいと"
+				"reading": "ちょいと",
+				"audio": "ちょいと.mp3"
 			},
 			{
-				"reading": "チョッと"
+				"reading": "チョッと",
+				"audio": "チョッと.mp3"
 			}
 		],
 		"translations": [
@@ -76979,17 +76995,16 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "詰らない",
-				"audio": "詰らない.mp3"
+				"kanjiForm": "詰らない"
 			},
 			{
-				"kanjiForm": "詰まらない",
-				"audio": "詰まらない.mp3"
+				"kanjiForm": "詰まらない"
 			}
 		],
 		"readings": [
 			{
-				"reading": "つまらない"
+				"reading": "つまらない",
+				"audio": "つまらない.mp3"
 			}
 		],
 		"translations": [
@@ -80310,13 +80325,13 @@
 				"kanjiForm": "如何して",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "如何して.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "どうして"
+				"reading": "どうして",
+				"audio": "どうして.mp3"
 			}
 		],
 		"translations": [
@@ -81963,50 +81978,52 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "何処",
-				"audio": "何処.mp3"
+				"kanjiForm": "何処"
 			},
 			{
-				"kanjiForm": "何所",
-				"audio": "何所.mp3"
+				"kanjiForm": "何所"
 			},
 			{
 				"kanjiForm": "何處",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "何處.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "どこ"
+				"reading": "どこ",
+				"audio": "どこ.mp3"
 			},
 			{
 				"reading": "いずこ",
 				"notes": [
 					"Reading restricted to 何処"
-				]
+				],
+				"audio": "いずこ.mp3"
 			},
 			{
 				"reading": "いずく",
 				"notes": [
 					"Reading restricted to 何処",
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "いずく.mp3"
 			},
 			{
 				"reading": "いづこ",
 				"notes": [
 					"Reading restricted to 何処",
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "いづこ.mp3"
 			},
 			{
 				"reading": "いどこ",
 				"notes": [
 					"Out-dated or obsolete kana usage"
-				]
+				],
+				"audio": "いどこ.mp3"
 			}
 		],
 		"translations": [
@@ -83321,16 +83338,17 @@
 				"kanjiForm": "何方",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "何方.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "どちら"
+				"reading": "どちら",
+				"audio": "どちら.mp3"
 			},
 			{
-				"reading": "どっち"
+				"reading": "どっち",
+				"audio": "どっち.mp3"
 			}
 		],
 		"translations": [
@@ -83573,16 +83591,17 @@
 				"kanjiForm": "迚も",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "迚も.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "とても"
+				"reading": "とても",
+				"audio": "とても.mp3"
 			},
 			{
-				"reading": "とっても"
+				"reading": "とっても",
+				"audio": "とっても.mp3"
 			}
 		],
 		"translations": [
@@ -83720,13 +83739,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "何方",
-				"audio": "何方.mp3"
+				"kanjiForm": "何方"
 			}
 		],
 		"readings": [
 			{
-				"reading": "どなた"
+				"reading": "どなた",
+				"audio": "どなた.mp3"
 			}
 		],
 		"translations": [
@@ -86351,13 +86370,13 @@
 				"kanjiForm": "何れ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "何れ.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "どれ"
+				"reading": "どれ",
+				"audio": "どれ.mp3"
 			}
 		],
 		"translations": [
@@ -87218,20 +87237,19 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "無くす",
-				"audio": "無くす.mp3"
+				"kanjiForm": "無くす"
 			},
 			{
 				"kanjiForm": "失くす",
 				"notes": [
 					"Irregular kanji"
-				],
-				"audio": "失くす.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "なくす"
+				"reading": "なくす",
+				"audio": "なくす.mp3"
 			}
 		],
 		"translations": [
@@ -87473,8 +87491,7 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "何故",
-				"audio": "何故.mp3"
+				"kanjiForm": "何故"
 			}
 		],
 		"readings": [
@@ -87482,7 +87499,8 @@
 				"reading": "なぜ",
 				"notes": [
 					"Gikun (meaning as reading) or jukujikun (special kanji reading)"
-				]
+				],
+				"audio": "なぜ.mp3"
 			}
 		],
 		"translations": [
@@ -88080,8 +88098,7 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "等",
-				"audio": "等.mp3"
+				"kanjiForm": "等"
 			},
 			{
 				"kanjiForm": "抔"
@@ -88089,7 +88106,8 @@
 		],
 		"readings": [
 			{
-				"reading": "など"
+				"reading": "など",
+				"audio": "など.mp3"
 			}
 		],
 		"translations": [
@@ -89636,7 +89654,8 @@
 				"audio": "弐.mp3"
 			},
 			{
-				"kanjiForm": "弍"
+				"kanjiForm": "弍",
+				"audio": "弍.mp3"
 			},
 			{
 				"kanjiForm": "貳",
@@ -89649,7 +89668,8 @@
 				"kanjiForm": "貮",
 				"notes": [
 					"Out-dated kanji"
-				]
+				],
+				"audio": "貮.mp3"
 			}
 		],
 		"readings": [
@@ -91279,27 +91299,26 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "温い",
-				"audio": "温い.mp3"
+				"kanjiForm": "温い"
 			},
 			{
-				"kanjiForm": "緩い",
-				"audio": "緩い.mp3"
+				"kanjiForm": "緩い"
 			},
 			{
-				"kanjiForm": "微温い",
-				"audio": "微温い.mp3"
+				"kanjiForm": "微温い"
 			}
 		],
 		"readings": [
 			{
-				"reading": "ぬるい"
+				"reading": "ぬるい",
+				"audio": "ぬるい.mp3"
 			},
 			{
 				"reading": "ぬくい",
 				"notes": [
 					"Reading restricted to 温い"
-				]
+				],
+				"audio": "ぬくい.mp3"
 			}
 		],
 		"translations": [
@@ -93306,7 +93325,8 @@
 				"kanjiForm": "齒",
 				"notes": [
 					"Out-dated kanji"
-				]
+				],
+				"audio": "齒.mp3"
 			}
 		],
 		"readings": [
@@ -94106,41 +94126,38 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "葉書",
-				"audio": "葉書.mp3"
+				"kanjiForm": "葉書"
 			},
 			{
-				"kanjiForm": "葉書き",
-				"audio": "葉書き.mp3"
+				"kanjiForm": "葉書き"
 			},
 			{
 				"kanjiForm": "端書",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "端書.mp3"
+				]
 			},
 			{
 				"kanjiForm": "端書き",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "端書き.mp3"
+				]
 			},
 			{
 				"kanjiForm": "羽書",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "羽書.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "はがき"
+				"reading": "はがき",
+				"audio": "はがき.mp3"
 			},
 			{
-				"reading": "ハガキ"
+				"reading": "ハガキ",
+				"audio": "ハガキ.mp3"
 			}
 		],
 		"translations": [
@@ -94594,7 +94611,8 @@
 				"kanjiForm": "凾",
 				"notes": [
 					"rarely-used kanji form"
-				]
+				],
+				"audio": "凾.mp3"
 			}
 		],
 		"readings": [
@@ -103883,10 +103901,12 @@
 				"audio": "１００.mp3"
 			},
 			{
-				"kanjiForm": "陌"
+				"kanjiForm": "陌",
+				"audio": "陌.mp3"
 			},
 			{
-				"kanjiForm": "佰"
+				"kanjiForm": "佰",
+				"audio": "佰.mp3"
 			},
 			{
 				"kanjiForm": "一〇〇",
@@ -108311,13 +108331,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "頁",
-				"audio": "頁.mp3"
+				"kanjiForm": "頁"
 			}
 		],
 		"readings": [
 			{
-				"reading": "ページ"
+				"reading": "ページ",
+				"audio": "ページ.mp3"
 			}
 		],
 		"translations": [
@@ -112051,16 +112071,17 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "未だ",
-				"audio": "未だ.mp3"
+				"kanjiForm": "未だ"
 			}
 		],
 		"readings": [
 			{
-				"reading": "まだ"
+				"reading": "まだ",
+				"audio": "まだ.mp3"
 			},
 			{
-				"reading": "いまだ"
+				"reading": "いまだ",
+				"audio": "いまだ.mp3"
 			}
 		],
 		"translations": [
@@ -112724,35 +112745,31 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "真っ直ぐ",
-				"audio": "真っ直ぐ.mp3"
+				"kanjiForm": "真っ直ぐ"
 			},
 			{
-				"kanjiForm": "真っすぐ",
-				"audio": "真っすぐ.mp3"
+				"kanjiForm": "真っすぐ"
 			},
 			{
-				"kanjiForm": "真っ直",
-				"audio": "真っ直.mp3"
+				"kanjiForm": "真っ直"
 			},
 			{
 				"kanjiForm": "真直ぐ",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "真直ぐ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "真すぐ",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "真すぐ.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "まっすぐ"
+				"reading": "まっすぐ",
+				"audio": "まっすぐ.mp3"
 			}
 		],
 		"translations": [
@@ -113011,8 +113028,7 @@
 				"kanjiForm": "牖",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "牖.mp3"
+				]
 			},
 			{
 				"kanjiForm": "牕",
@@ -116742,26 +116758,26 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "皆",
-				"audio": "皆.mp3"
+				"kanjiForm": "皆"
 			},
 			{
 				"kanjiForm": "皆んな",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "皆んな.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "みんな"
+				"reading": "みんな",
+				"audio": "みんな.mp3"
 			},
 			{
 				"reading": "みな",
 				"notes": [
 					"Reading restricted to 皆"
-				]
+				],
+				"audio": "みな.mp3"
 			}
 		],
 		"translations": [
@@ -118153,21 +118169,20 @@
 				"notes": [
 					"Ateji (phonetic) reading",
 					"rarely-used kanji form"
-				],
-				"audio": "米.mp3"
+				]
 			},
 			{
 				"kanjiForm": "米突",
 				"notes": [
 					"Ateji (phonetic) reading",
 					"rarely-used kanji form"
-				],
-				"audio": "米突.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "メートル"
+				"reading": "メートル",
+				"audio": "メートル.mp3"
 			}
 		],
 		"translations": [
@@ -118394,19 +118409,20 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "眼鏡",
-				"audio": "眼鏡.mp3"
+				"kanjiForm": "眼鏡"
 			}
 		],
 		"readings": [
 			{
-				"reading": "メガネ"
+				"reading": "メガネ",
+				"audio": "メガネ.mp3"
 			},
 			{
 				"reading": "めがね",
 				"notes": [
 					"Gikun (meaning as reading) or jukujikun (special kanji reading)"
-				]
+				],
+				"audio": "めがね.mp3"
 			}
 		],
 		"translations": [
@@ -120525,13 +120541,13 @@
 	{
 		"kanjiForms": [
 			{
-				"kanjiForm": "易しい",
-				"audio": "易しい.mp3"
+				"kanjiForm": "易しい"
 			}
 		],
 		"readings": [
 			{
-				"reading": "やさしい"
+				"reading": "やさしい",
+				"audio": "やさしい.mp3"
 			}
 		],
 		"translations": [
@@ -127505,13 +127521,13 @@
 				"kanjiForm": "Ｙシャツ",
 				"notes": [
 					"Ateji (phonetic) reading"
-				],
-				"audio": "Ｙシャツ.mp3"
+				]
 			}
 		],
 		"readings": [
 			{
-				"reading": "ワイシャツ"
+				"reading": "ワイシャツ",
+				"audio": "ワイシャツ.mp3"
 			}
 		],
 		"translations": [
