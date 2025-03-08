@@ -65,8 +65,8 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
   - Not all entries, particularly in the JLPT vocab subdeck, have accurate or available audio due to AWS constraints.
 
 ## Donate
-- BTC: bc1qfza6geu2ud8e0z8cec5cnzyqzffktaw7t9pksp
-- ETH: 0x54715BD4d31535573959E57e7387bC018094e798
+- BTC: bc1q0n600md4qctphy0eql3x5k2m3t68kkftzggt56
+- ETH: 0x5b2C42Ef9D512822D78Ba44035ABec86780f0aB6
 
 ---
 
