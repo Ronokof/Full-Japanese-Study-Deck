@@ -512,12 +512,10 @@
 				"audio": "上がる.mp3"
 			},
 			{
-				"kanjiForm": "揚がる",
-				"audio": "揚がる.mp3"
+				"kanjiForm": "揚がる"
 			},
 			{
-				"kanjiForm": "挙がる",
-				"audio": "挙がる.mp3"
+				"kanjiForm": "挙がる"
 			},
 			{
 				"kanjiForm": "上る",
@@ -1047,12 +1045,10 @@
 				"audio": "赤ん坊.mp3"
 			},
 			{
-				"kanjiForm": "赤んぼ",
-				"audio": "赤んぼ.mp3"
+				"kanjiForm": "赤んぼ"
 			},
 			{
-				"kanjiForm": "赤んぼう",
-				"audio": "赤んぼう.mp3"
+				"kanjiForm": "赤んぼう"
 			}
 		],
 		"readings": [
@@ -2045,8 +2041,7 @@
 				"kanjiForm": "集る",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "集る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -3571,8 +3566,7 @@
 				"kanjiForm": "安神",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "安神.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -4136,8 +4130,7 @@
 				"kanjiForm": "已下",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "已下.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -4957,8 +4950,7 @@
 				"kanjiForm": "活きる",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "活きる.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -5877,8 +5869,7 @@
 				"kanjiForm": "已上",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "已上.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -6777,23 +6768,19 @@
 				"audio": "一度.mp3"
 			},
 			{
-				"kanjiForm": "１度",
-				"audio": "１度.mp3"
+				"kanjiForm": "１度"
 			},
 			{
-				"kanjiForm": "一たび",
-				"audio": "一たび.mp3"
+				"kanjiForm": "一たび"
 			},
 			{
-				"kanjiForm": "ひと度",
-				"audio": "ひと度.mp3"
+				"kanjiForm": "ひと度"
 			},
 			{
 				"kanjiForm": "一とたび",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "一とたび.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -8051,15 +8038,13 @@
 				"kanjiForm": "祷る",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "祷る.mp3"
+				]
 			},
 			{
 				"kanjiForm": "禱る",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "禱る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -8591,8 +8576,7 @@
 				"audio": "受付.mp3"
 			},
 			{
-				"kanjiForm": "受け付け",
-				"audio": "受け付け.mp3"
+				"kanjiForm": "受け付け"
 			}
 		],
 		"readings": [
@@ -8853,16 +8837,13 @@
 				"audio": "受ける.mp3"
 			},
 			{
-				"kanjiForm": "請ける",
-				"audio": "請ける.mp3"
+				"kanjiForm": "請ける"
 			},
 			{
-				"kanjiForm": "承ける",
-				"audio": "承ける.mp3"
+				"kanjiForm": "承ける"
 			},
 			{
-				"kanjiForm": "享ける",
-				"audio": "享ける.mp3"
+				"kanjiForm": "享ける"
 			}
 		],
 		"readings": [
@@ -9542,29 +9523,25 @@
 				"kanjiForm": "拍つ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "拍つ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "搏つ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "搏つ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "撲つ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "撲つ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "擣つ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "擣つ.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -10108,8 +10085,7 @@
 				"kanjiForm": "愛しい",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "愛しい.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -10503,8 +10479,7 @@
 				"kanjiForm": "遷る",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "遷る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -11829,8 +11804,7 @@
 				"audio": "売り場.mp3"
 			},
 			{
-				"kanjiForm": "売場",
-				"audio": "売場.mp3"
+				"kanjiForm": "売場"
 			}
 		],
 		"readings": [
@@ -12714,15 +12688,13 @@
 				"kanjiForm": "撰ぶ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "撰ぶ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "択ぶ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "択ぶ.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -13206,8 +13178,7 @@
 				"audio": "お祝い.mp3"
 			},
 			{
-				"kanjiForm": "お祝",
-				"audio": "お祝.mp3"
+				"kanjiForm": "お祝"
 			}
 		],
 		"readings": [
@@ -14348,8 +14319,7 @@
 				"audio": "贈り物.mp3"
 			},
 			{
-				"kanjiForm": "贈物",
-				"audio": "贈物.mp3"
+				"kanjiForm": "贈物"
 			}
 		],
 		"readings": [
@@ -14752,8 +14722,7 @@
 				"audio": "遅れる.mp3"
 			},
 			{
-				"kanjiForm": "後れる",
-				"audio": "後れる.mp3"
+				"kanjiForm": "後れる"
 			}
 		],
 		"readings": [
@@ -15016,8 +14985,7 @@
 				"audio": "起こす.mp3"
 			},
 			{
-				"kanjiForm": "起す",
-				"audio": "起す.mp3"
+				"kanjiForm": "起す"
 			}
 		],
 		"readings": [
@@ -15212,8 +15180,7 @@
 				"audio": "行う.mp3"
 			},
 			{
-				"kanjiForm": "行なう",
-				"audio": "行なう.mp3"
+				"kanjiForm": "行なう"
 			}
 		],
 		"readings": [
@@ -15517,12 +15484,10 @@
 				"audio": "押入れ.mp3"
 			},
 			{
-				"kanjiForm": "押し入れ",
-				"audio": "押し入れ.mp3"
+				"kanjiForm": "押し入れ"
 			},
 			{
-				"kanjiForm": "押入",
-				"audio": "押入.mp3"
+				"kanjiForm": "押入"
 			}
 		],
 		"readings": [
@@ -16066,15 +16031,13 @@
 				"audio": "落ちる.mp3"
 			},
 			{
-				"kanjiForm": "墜ちる",
-				"audio": "墜ちる.mp3"
+				"kanjiForm": "墜ちる"
 			},
 			{
 				"kanjiForm": "落る",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "落る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -16749,8 +16712,7 @@
 				"audio": "夫.mp3"
 			},
 			{
-				"kanjiForm": "良人",
-				"audio": "良人.mp3"
+				"kanjiForm": "良人"
 			}
 		],
 		"readings": [
@@ -17057,16 +17019,13 @@
 				"audio": "お釣り.mp3"
 			},
 			{
-				"kanjiForm": "お釣",
-				"audio": "お釣.mp3"
+				"kanjiForm": "お釣"
 			},
 			{
-				"kanjiForm": "御釣り",
-				"audio": "御釣り.mp3"
+				"kanjiForm": "御釣り"
 			},
 			{
-				"kanjiForm": "御釣",
-				"audio": "御釣.mp3"
+				"kanjiForm": "御釣"
 			}
 		],
 		"readings": [
@@ -17458,8 +17417,7 @@
 				"audio": "落とす.mp3"
 			},
 			{
-				"kanjiForm": "落す",
-				"audio": "落す.mp3"
+				"kanjiForm": "落す"
 			}
 		],
 		"readings": [
@@ -17969,15 +17927,13 @@
 				"kanjiForm": "愕く",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "愕く.mp3"
+				]
 			},
 			{
 				"kanjiForm": "駭く",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "駭く.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -18294,22 +18250,19 @@
 				"audio": "お祭り.mp3"
 			},
 			{
-				"kanjiForm": "お祭",
-				"audio": "お祭.mp3"
+				"kanjiForm": "お祭"
 			},
 			{
 				"kanjiForm": "お祀り",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "お祀り.mp3"
+				]
 			},
 			{
 				"kanjiForm": "お祀",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "お祀.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -18522,8 +18475,7 @@
 				"audio": "お見舞い.mp3"
 			},
 			{
-				"kanjiForm": "お見舞",
-				"audio": "お見舞.mp3"
+				"kanjiForm": "お見舞"
 			}
 		],
 		"readings": [
@@ -19236,22 +19188,19 @@
 				"audio": "思う.mp3"
 			},
 			{
-				"kanjiForm": "想う",
-				"audio": "想う.mp3"
+				"kanjiForm": "想う"
 			},
 			{
 				"kanjiForm": "憶う",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "憶う.mp3"
+				]
 			},
 			{
 				"kanjiForm": "念う",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "念う.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -20147,8 +20096,7 @@
 				"audio": "親.mp3"
 			},
 			{
-				"kanjiForm": "祖",
-				"audio": "祖.mp3"
+				"kanjiForm": "祖"
 			}
 		],
 		"readings": [
@@ -20587,8 +20535,7 @@
 				"audio": "お礼.mp3"
 			},
 			{
-				"kanjiForm": "御礼",
-				"audio": "御礼.mp3"
+				"kanjiForm": "御礼"
 			}
 		],
 		"readings": [
@@ -21019,15 +20966,13 @@
 				"audio": "終わり.mp3"
 			},
 			{
-				"kanjiForm": "終り",
-				"audio": "終り.mp3"
+				"kanjiForm": "終り"
 			},
 			{
 				"kanjiForm": "終",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "終.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -22439,8 +22384,7 @@
 				"audio": "帰り.mp3"
 			},
 			{
-				"kanjiForm": "還り",
-				"audio": "還り.mp3"
+				"kanjiForm": "還り"
 			}
 		],
 		"readings": [
@@ -23682,22 +23626,19 @@
 				"kanjiForm": "餝る",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "餝る.mp3"
+				]
 			},
 			{
 				"kanjiForm": "錺る",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "錺る.mp3"
+				]
 			},
 			{
 				"kanjiForm": "荘る",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "荘る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -24711,12 +24652,10 @@
 				"audio": "形.mp3"
 			},
 			{
-				"kanjiForm": "容",
-				"audio": "容.mp3"
+				"kanjiForm": "容"
 			},
 			{
-				"kanjiForm": "貌",
-				"audio": "貌.mp3"
+				"kanjiForm": "貌"
 			}
 		],
 		"readings": [
@@ -25043,8 +24982,7 @@
 				"audio": "片付ける.mp3"
 			},
 			{
-				"kanjiForm": "片づける",
-				"audio": "片づける.mp3"
+				"kanjiForm": "片づける"
 			}
 		],
 		"readings": [
@@ -25531,15 +25469,13 @@
 				"kanjiForm": "克つ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "克つ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "贏つ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "贏つ.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -26115,15 +26051,13 @@
 				"audio": "悲しい.mp3"
 			},
 			{
-				"kanjiForm": "哀しい",
-				"audio": "哀しい.mp3"
+				"kanjiForm": "哀しい"
 			},
 			{
 				"kanjiForm": "愛しい",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "愛しい.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -27285,22 +27219,19 @@
 				"audio": "噛む.mp3"
 			},
 			{
-				"kanjiForm": "咬む",
-				"audio": "咬む.mp3"
+				"kanjiForm": "咬む"
 			},
 			{
 				"kanjiForm": "嚙む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "嚙む.mp3"
+				]
 			},
 			{
 				"kanjiForm": "嚼む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "嚼む.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -28271,8 +28202,7 @@
 				"audio": "彼ら.mp3"
 			},
 			{
-				"kanjiForm": "彼等",
-				"audio": "彼等.mp3"
+				"kanjiForm": "彼等"
 			}
 		],
 		"readings": [
@@ -28651,16 +28581,13 @@
 				"audio": "代わり.mp3"
 			},
 			{
-				"kanjiForm": "替わり",
-				"audio": "替わり.mp3"
+				"kanjiForm": "替わり"
 			},
 			{
-				"kanjiForm": "代り",
-				"audio": "代り.mp3"
+				"kanjiForm": "代り"
 			},
 			{
-				"kanjiForm": "替り",
-				"audio": "替り.mp3"
+				"kanjiForm": "替り"
 			}
 		],
 		"readings": [
@@ -28943,8 +28870,7 @@
 				"audio": "変わる.mp3"
 			},
 			{
-				"kanjiForm": "変る",
-				"audio": "変る.mp3"
+				"kanjiForm": "変る"
 			}
 		],
 		"readings": [
@@ -29103,12 +29029,10 @@
 				"audio": "考える.mp3"
 			},
 			{
-				"kanjiForm": "勘える",
-				"audio": "勘える.mp3"
+				"kanjiForm": "勘える"
 			},
 			{
-				"kanjiForm": "稽える",
-				"audio": "稽える.mp3"
+				"kanjiForm": "稽える"
 			}
 		],
 		"readings": [
@@ -30043,15 +29967,13 @@
 				"kanjiForm": "簡短",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "簡短.mp3"
+				]
 			},
 			{
 				"kanjiForm": "簡端",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "簡端.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -30476,8 +30398,7 @@
 				"kanjiForm": "氣",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "氣.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -31244,22 +31165,19 @@
 				"audio": "聞こえる.mp3"
 			},
 			{
-				"kanjiForm": "聞える",
-				"audio": "聞える.mp3"
+				"kanjiForm": "聞える"
 			},
 			{
 				"kanjiForm": "聴こえる",
 				"notes": [
 					"Irregular kanji"
-				],
-				"audio": "聴こえる.mp3"
+				]
 			},
 			{
 				"kanjiForm": "聴える",
 				"notes": [
 					"Irregular kanji"
-				],
-				"audio": "聴える.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -32934,8 +32852,7 @@
 				"kanjiForm": "酷しい",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "酷しい.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -33421,12 +33338,10 @@
 				"kanjiForm": "決る",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "決る.mp3"
+				]
 			},
 			{
-				"kanjiForm": "極る",
-				"audio": "極る.mp3"
+				"kanjiForm": "極る"
 			}
 		],
 		"readings": [
@@ -33979,8 +33894,7 @@
 				"audio": "決める.mp3"
 			},
 			{
-				"kanjiForm": "極める",
-				"audio": "極める.mp3"
+				"kanjiForm": "極める"
 			}
 		],
 		"readings": [
@@ -34298,8 +34212,7 @@
 				"audio": "気持ち.mp3"
 			},
 			{
-				"kanjiForm": "気持",
-				"audio": "気持.mp3"
+				"kanjiForm": "気持"
 			}
 		],
 		"readings": [
@@ -36551,8 +36464,7 @@
 				"kanjiForm": "工合",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "工合.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -37381,8 +37293,7 @@
 				"kanjiForm": "艸",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "艸.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -37809,22 +37720,19 @@
 				"kanjiForm": "頸",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "頸.mp3"
+				]
 			},
 			{
 				"kanjiForm": "頚",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "頚.mp3"
+				]
 			},
 			{
 				"kanjiForm": "馘",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "馘.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -38367,12 +38275,10 @@
 				"audio": "比べる.mp3"
 			},
 			{
-				"kanjiForm": "較べる",
-				"audio": "較べる.mp3"
+				"kanjiForm": "較べる"
 			},
 			{
-				"kanjiForm": "競べる",
-				"audio": "競べる.mp3"
+				"kanjiForm": "競べる"
 			}
 		],
 		"readings": [
@@ -38695,16 +38601,13 @@
 				"audio": "暮れる.mp3"
 			},
 			{
-				"kanjiForm": "眩れる",
-				"audio": "眩れる.mp3"
+				"kanjiForm": "眩れる"
 			},
 			{
-				"kanjiForm": "暗れる",
-				"audio": "暗れる.mp3"
+				"kanjiForm": "暗れる"
 			},
 			{
-				"kanjiForm": "昏れる",
-				"audio": "昏れる.mp3"
+				"kanjiForm": "昏れる"
 			}
 		],
 		"readings": [
@@ -40194,8 +40097,7 @@
 				"kanjiForm": "消ゴム",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "消ゴム.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -41756,8 +41658,7 @@
 				"audio": "子.mp3"
 			},
 			{
-				"kanjiForm": "児",
-				"audio": "児.mp3"
+				"kanjiForm": "児"
 			}
 		],
 		"readings": [
@@ -45313,8 +45214,7 @@
 				"audio": "ご主人.mp3"
 			},
 			{
-				"kanjiForm": "御主人",
-				"audio": "御主人.mp3"
+				"kanjiForm": "御主人"
 			}
 		],
 		"readings": [
@@ -45614,19 +45514,16 @@
 				"audio": "ご存知.mp3"
 			},
 			{
-				"kanjiForm": "ご存じ",
-				"audio": "ご存じ.mp3"
+				"kanjiForm": "ご存じ"
 			},
 			{
 				"kanjiForm": "御存知",
 				"notes": [
 					"Ateji (phonetic) reading"
-				],
-				"audio": "御存知.mp3"
+				]
 			},
 			{
-				"kanjiForm": "御存じ",
-				"audio": "御存じ.mp3"
+				"kanjiForm": "御存じ"
 			}
 		],
 		"readings": [
@@ -45948,16 +45845,13 @@
 				"audio": "答え.mp3"
 			},
 			{
-				"kanjiForm": "答",
-				"audio": "答.mp3"
+				"kanjiForm": "答"
 			},
 			{
-				"kanjiForm": "応え",
-				"audio": "応え.mp3"
+				"kanjiForm": "応え"
 			},
 			{
-				"kanjiForm": "報え",
-				"audio": "報え.mp3"
+				"kanjiForm": "報え"
 			}
 		],
 		"readings": [
@@ -46277,8 +46171,7 @@
 				"audio": "ご馳走.mp3"
 			},
 			{
-				"kanjiForm": "御馳走",
-				"audio": "御馳走.mp3"
+				"kanjiForm": "御馳走"
 			}
 		],
 		"readings": [
@@ -46833,8 +46726,7 @@
 				"kanjiForm": "此の間",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "此の間.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -47079,8 +46971,7 @@
 				"kanjiForm": "此の頃",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "此の頃.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -48189,8 +48080,7 @@
 				"audio": "怖い.mp3"
 			},
 			{
-				"kanjiForm": "恐い",
-				"audio": "恐い.mp3"
+				"kanjiForm": "恐い"
 			}
 		],
 		"readings": [
@@ -48428,8 +48318,7 @@
 				"audio": "壊す.mp3"
 			},
 			{
-				"kanjiForm": "毀す",
-				"audio": "毀す.mp3"
+				"kanjiForm": "毀す"
 			}
 		],
 		"readings": [
@@ -48691,8 +48580,7 @@
 				"kanjiForm": "毀れる",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "毀れる.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -50196,8 +50084,7 @@
 				"audio": "坂.mp3"
 			},
 			{
-				"kanjiForm": "阪",
-				"audio": "阪.mp3"
+				"kanjiForm": "阪"
 			}
 		],
 		"readings": [
@@ -50422,8 +50309,7 @@
 				"audio": "探す.mp3"
 			},
 			{
-				"kanjiForm": "捜す",
-				"audio": "捜す.mp3"
+				"kanjiForm": "捜す"
 			}
 		],
 		"readings": [
@@ -50872,15 +50758,13 @@
 				"kanjiForm": "旺ん",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "旺ん.mp3"
+				]
 			},
 			{
 				"kanjiForm": "壮ん",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "壮ん.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -51392,8 +51276,7 @@
 				"audio": "差し上げる.mp3"
 			},
 			{
-				"kanjiForm": "差上げる",
-				"audio": "差上げる.mp3"
+				"kanjiForm": "差上げる"
 			}
 		],
 		"readings": [
@@ -51640,8 +51523,7 @@
 				"audio": "寂しい.mp3"
 			},
 			{
-				"kanjiForm": "淋しい",
-				"audio": "淋しい.mp3"
+				"kanjiForm": "淋しい"
 			}
 		],
 		"readings": [
@@ -51872,8 +51754,7 @@
 				"audio": "再来月.mp3"
 			},
 			{
-				"kanjiForm": "さ来月",
-				"audio": "さ来月.mp3"
+				"kanjiForm": "さ来月"
 			}
 		],
 		"readings": [
@@ -53723,8 +53604,7 @@
 				"notes": [
 					"Ateji (phonetic) reading",
 					"rarely-used kanji form"
-				],
-				"audio": "仕合.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -56847,8 +56727,7 @@
 				"kanjiForm": "嶋",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "嶋.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -58813,8 +58692,7 @@
 				"kanjiForm": "住処",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "住処.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -59367,8 +59245,7 @@
 				"kanjiForm": "充分",
 				"notes": [
 					"Ateji (phonetic) reading"
-				],
-				"audio": "充分.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -61500,8 +61377,7 @@
 				"audio": "知らせる.mp3"
 			},
 			{
-				"kanjiForm": "報せる",
-				"audio": "報せる.mp3"
+				"kanjiForm": "報せる"
 			}
 		],
 		"readings": [
@@ -62316,8 +62192,7 @@
 				"kanjiForm": "深切",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "深切.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -64873,8 +64748,7 @@
 				"kanjiForm": "棄てる",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "棄てる.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -65182,12 +65056,10 @@
 				"audio": "砂.mp3"
 			},
 			{
-				"kanjiForm": "沙",
-				"audio": "沙.mp3"
+				"kanjiForm": "沙"
 			},
 			{
-				"kanjiForm": "砂子",
-				"audio": "砂子.mp3"
+				"kanjiForm": "砂子"
 			}
 		],
 		"readings": [
@@ -65734,8 +65606,7 @@
 				"kanjiForm": "辷る",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "辷る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -71481,8 +71352,7 @@
 				"audio": "台風.mp3"
 			},
 			{
-				"kanjiForm": "颱風",
-				"audio": "颱風.mp3"
+				"kanjiForm": "颱風"
 			}
 		],
 		"readings": [
@@ -72005,15 +71875,13 @@
 				"kanjiForm": "確",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "確.mp3"
+				]
 			},
 			{
 				"kanjiForm": "慥か",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "慥か.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -72555,8 +72423,7 @@
 				"audio": "尋ねる.mp3"
 			},
 			{
-				"kanjiForm": "訊ねる",
-				"audio": "訊ねる.mp3"
+				"kanjiForm": "訊ねる"
 			}
 		],
 		"readings": [
@@ -72955,8 +72822,7 @@
 				"kanjiForm": "疊",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "疊.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -73804,8 +73670,7 @@
 				"kanjiForm": "愉しみ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "愉しみ.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -74059,8 +73924,7 @@
 				"kanjiForm": "愉しむ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "愉しむ.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -75434,8 +75298,7 @@
 				"audio": "暖房.mp3"
 			},
 			{
-				"kanjiForm": "煖房",
-				"audio": "煖房.mp3"
+				"kanjiForm": "煖房"
 			}
 		],
 		"readings": [
@@ -77548,15 +77411,13 @@
 				"audio": "捕まえる.mp3"
 			},
 			{
-				"kanjiForm": "掴まえる",
-				"audio": "掴まえる.mp3"
+				"kanjiForm": "掴まえる"
 			},
 			{
 				"kanjiForm": "捉まえる",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "捉まえる.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -77899,8 +77760,7 @@
 				"kanjiForm": "附く",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "附く.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -78239,8 +78099,7 @@
 				"audio": "漬ける.mp3"
 			},
 			{
-				"kanjiForm": "浸ける",
-				"audio": "浸ける.mp3"
+				"kanjiForm": "浸ける"
 			}
 		],
 		"readings": [
@@ -79200,8 +79059,7 @@
 				"kanjiForm": "裹む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "裹む.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -79447,8 +79305,7 @@
 				"kanjiForm": "具",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "具.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -80126,8 +79983,7 @@
 				"kanjiForm": "叮嚀",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "叮嚀.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -81103,8 +80959,7 @@
 				"audio": "手伝う.mp3"
 			},
 			{
-				"kanjiForm": "手つだう",
-				"audio": "手つだう.mp3"
+				"kanjiForm": "手つだう"
 			}
 		],
 		"readings": [
@@ -81393,8 +81248,7 @@
 				"audio": "手袋.mp3"
 			},
 			{
-				"kanjiForm": "手ぶくろ",
-				"audio": "手ぶくろ.mp3"
+				"kanjiForm": "手ぶくろ"
 			}
 		],
 		"readings": [
@@ -82568,8 +82422,7 @@
 				"kanjiForm": "電燈",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "電燈.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -84315,12 +84168,10 @@
 				"audio": "通る.mp3"
 			},
 			{
-				"kanjiForm": "徹る",
-				"audio": "徹る.mp3"
+				"kanjiForm": "徹る"
 			},
 			{
-				"kanjiForm": "透る",
-				"audio": "透る.mp3"
+				"kanjiForm": "透る"
 			}
 		],
 		"readings": [
@@ -85820,8 +85671,7 @@
 				"kanjiForm": "屆ける",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "屆ける.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -86034,8 +85884,7 @@
 				"audio": "泊まる.mp3"
 			},
 			{
-				"kanjiForm": "泊る",
-				"audio": "泊る.mp3"
+				"kanjiForm": "泊る"
 			}
 		],
 		"readings": [
@@ -86187,8 +86036,7 @@
 				"audio": "留める.mp3"
 			},
 			{
-				"kanjiForm": "停める",
-				"audio": "停める.mp3"
+				"kanjiForm": "停める"
 			}
 		],
 		"readings": [
@@ -86572,27 +86420,22 @@
 				"audio": "取り替える.mp3"
 			},
 			{
-				"kanjiForm": "取り換える",
-				"audio": "取り換える.mp3"
+				"kanjiForm": "取り換える"
 			},
 			{
-				"kanjiForm": "取りかえる",
-				"audio": "取りかえる.mp3"
+				"kanjiForm": "取りかえる"
 			},
 			{
-				"kanjiForm": "取替える",
-				"audio": "取替える.mp3"
+				"kanjiForm": "取替える"
 			},
 			{
-				"kanjiForm": "取換える",
-				"audio": "取換える.mp3"
+				"kanjiForm": "取換える"
 			},
 			{
 				"kanjiForm": "取換る",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "取換る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -86933,8 +86776,7 @@
 				"kanjiForm": "泥坊",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "泥坊.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -87664,36 +87506,31 @@
 				"audio": "中々.mp3"
 			},
 			{
-				"kanjiForm": "中中",
-				"audio": "中中.mp3"
+				"kanjiForm": "中中"
 			},
 			{
 				"kanjiForm": "仲々",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "仲々.mp3"
+				]
 			},
 			{
 				"kanjiForm": "仲仲",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "仲仲.mp3"
+				]
 			},
 			{
 				"kanjiForm": "却々",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "却々.mp3"
+				]
 			},
 			{
 				"kanjiForm": "却却",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "却却.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -89496,8 +89333,7 @@
 				"audio": "慣れる.mp3"
 			},
 			{
-				"kanjiForm": "馴れる",
-				"audio": "馴れる.mp3"
+				"kanjiForm": "馴れる"
 			}
 		],
 		"readings": [
@@ -90149,16 +89985,13 @@
 				"audio": "二階建て.mp3"
 			},
 			{
-				"kanjiForm": "二階建",
-				"audio": "二階建.mp3"
+				"kanjiForm": "二階建"
 			},
 			{
-				"kanjiForm": "２階建て",
-				"audio": "２階建て.mp3"
+				"kanjiForm": "２階建て"
 			},
 			{
-				"kanjiForm": "２階建",
-				"audio": "２階建.mp3"
+				"kanjiForm": "２階建"
 			}
 		],
 		"readings": [
@@ -91179,8 +91012,7 @@
 				"audio": "盗む.mp3"
 			},
 			{
-				"kanjiForm": "偸む",
-				"audio": "偸む.mp3"
+				"kanjiForm": "偸む"
 			}
 		],
 		"readings": [
@@ -91583,8 +91415,7 @@
 				"kanjiForm": "濡る",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "濡る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -91734,8 +91565,7 @@
 				"audio": "値段.mp3"
 			},
 			{
-				"kanjiForm": "直段",
-				"audio": "直段.mp3"
+				"kanjiForm": "直段"
 			}
 		],
 		"readings": [
@@ -92698,8 +92528,7 @@
 				"audio": "眠い.mp3"
 			},
 			{
-				"kanjiForm": "睡い",
-				"audio": "睡い.mp3"
+				"kanjiForm": "睡い"
 			}
 		],
 		"readings": [
@@ -92924,8 +92753,7 @@
 				"audio": "眠る.mp3"
 			},
 			{
-				"kanjiForm": "睡る",
-				"audio": "睡る.mp3"
+				"kanjiForm": "睡る"
 			}
 		],
 		"readings": [
@@ -93182,8 +93010,7 @@
 				"audio": "残る.mp3"
 			},
 			{
-				"kanjiForm": "遺る",
-				"audio": "遺る.mp3"
+				"kanjiForm": "遺る"
 			}
 		],
 		"readings": [
@@ -93411,20 +93238,16 @@
 				"audio": "乗り換える.mp3"
 			},
 			{
-				"kanjiForm": "乗りかえる",
-				"audio": "乗りかえる.mp3"
+				"kanjiForm": "乗りかえる"
 			},
 			{
-				"kanjiForm": "乗換える",
-				"audio": "乗換える.mp3"
+				"kanjiForm": "乗換える"
 			},
 			{
-				"kanjiForm": "乗り替える",
-				"audio": "乗り替える.mp3"
+				"kanjiForm": "乗り替える"
 			},
 			{
-				"kanjiForm": "乗替える",
-				"audio": "乗替える.mp3"
+				"kanjiForm": "乗替える"
 			}
 		],
 		"readings": [
@@ -93769,8 +93592,7 @@
 				"audio": "乗り物.mp3"
 			},
 			{
-				"kanjiForm": "乗物",
-				"audio": "乗物.mp3"
+				"kanjiForm": "乗物"
 			}
 		],
 		"readings": [
@@ -95082,8 +94904,7 @@
 				"kanjiForm": "創める",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "創める.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -96429,8 +96250,7 @@
 				"kanjiForm": "掃う",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "掃う.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -98058,27 +97878,22 @@
 				"audio": "引き出し.mp3"
 			},
 			{
-				"kanjiForm": "引出し",
-				"audio": "引出し.mp3"
+				"kanjiForm": "引出し"
 			},
 			{
-				"kanjiForm": "抽き出し",
-				"audio": "抽き出し.mp3"
+				"kanjiForm": "抽き出し"
 			},
 			{
-				"kanjiForm": "抽出し",
-				"audio": "抽出し.mp3"
+				"kanjiForm": "抽出し"
 			},
 			{
 				"kanjiForm": "抽斗",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "抽斗.mp3"
+				]
 			},
 			{
-				"kanjiForm": "抽匣",
-				"audio": "抽匣.mp3"
+				"kanjiForm": "抽匣"
 			}
 		],
 		"readings": [
@@ -98570,12 +98385,10 @@
 				"audio": "引き出す.mp3"
 			},
 			{
-				"kanjiForm": "引出す",
-				"audio": "引出す.mp3"
+				"kanjiForm": "引出す"
 			},
 			{
-				"kanjiForm": "引きだす",
-				"audio": "引きだす.mp3"
+				"kanjiForm": "引きだす"
 			}
 		],
 		"readings": [
@@ -99152,8 +98965,7 @@
 				"audio": "久しぶり.mp3"
 			},
 			{
-				"kanjiForm": "久し振り",
-				"audio": "久し振り.mp3"
+				"kanjiForm": "久し振り"
 			}
 		],
 		"readings": [
@@ -100152,8 +99964,7 @@
 				"audio": "必要.mp3"
 			},
 			{
-				"kanjiForm": "必用",
-				"audio": "必用.mp3"
+				"kanjiForm": "必用"
 			}
 		],
 		"readings": [
@@ -101810,8 +101621,7 @@
 				"audio": "増える.mp3"
 			},
 			{
-				"kanjiForm": "殖える",
-				"audio": "殖える.mp3"
+				"kanjiForm": "殖える"
 			}
 		],
 		"readings": [
@@ -103155,8 +102965,7 @@
 				"kanjiForm": "肥る",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "肥る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -103380,8 +103189,7 @@
 				"kanjiForm": "蒲団",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "蒲団.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -103711,12 +103519,10 @@
 				"audio": "船.mp3"
 			},
 			{
-				"kanjiForm": "舟",
-				"audio": "舟.mp3"
+				"kanjiForm": "舟"
 			},
 			{
-				"kanjiForm": "槽",
-				"audio": "槽.mp3"
+				"kanjiForm": "槽"
 			}
 		],
 		"readings": [
@@ -104255,12 +104061,10 @@
 				"audio": "踏む.mp3"
 			},
 			{
-				"kanjiForm": "履む",
-				"audio": "履む.mp3"
+				"kanjiForm": "履む"
 			},
 			{
-				"kanjiForm": "践む",
-				"audio": "践む.mp3"
+				"kanjiForm": "践む"
 			}
 		],
 		"readings": [
@@ -106010,8 +105814,7 @@
 				"audio": "返事.mp3"
 			},
 			{
-				"kanjiForm": "返辞",
-				"audio": "返辞.mp3"
+				"kanjiForm": "返辞"
 			}
 		],
 		"readings": [
@@ -107438,29 +107241,25 @@
 				"audio": "褒める.mp3"
 			},
 			{
-				"kanjiForm": "誉める",
-				"audio": "誉める.mp3"
+				"kanjiForm": "誉める"
 			},
 			{
 				"kanjiForm": "賞める",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "賞める.mp3"
+				]
 			},
 			{
 				"kanjiForm": "称める",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "称める.mp3"
+				]
 			},
 			{
 				"kanjiForm": "讃める",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "讃める.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -107969,8 +107768,7 @@
 				"kanjiForm": "飜訳",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "飜訳.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -108293,8 +108091,7 @@
 				"audio": "参る.mp3"
 			},
 			{
-				"kanjiForm": "詣る",
-				"audio": "詣る.mp3"
+				"kanjiForm": "詣る"
 			}
 		],
 		"readings": [
@@ -108558,15 +108355,13 @@
 				"audio": "負ける.mp3"
 			},
 			{
-				"kanjiForm": "敗ける",
-				"audio": "敗ける.mp3"
+				"kanjiForm": "敗ける"
 			},
 			{
 				"kanjiForm": "敗北る",
 				"notes": [
 					"Irregular kanji"
-				],
-				"audio": "敗北る.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -109609,8 +109404,7 @@
 				"audio": "間に合う.mp3"
 			},
 			{
-				"kanjiForm": "間にあう",
-				"audio": "間にあう.mp3"
+				"kanjiForm": "間にあう"
 			}
 		],
 		"readings": [
@@ -110008,8 +109802,7 @@
 				"audio": "回る.mp3"
 			},
 			{
-				"kanjiForm": "廻る",
-				"audio": "廻る.mp3"
+				"kanjiForm": "廻る"
 			}
 		],
 		"readings": [
@@ -111324,8 +111117,7 @@
 				"audio": "見つかる.mp3"
 			},
 			{
-				"kanjiForm": "見付かる",
-				"audio": "見付かる.mp3"
+				"kanjiForm": "見付かる"
 			}
 		],
 		"readings": [
@@ -111572,8 +111364,7 @@
 				"audio": "見つける.mp3"
 			},
 			{
-				"kanjiForm": "見付ける",
-				"audio": "見付ける.mp3"
+				"kanjiForm": "見付ける"
 			}
 		],
 		"readings": [
@@ -111829,8 +111620,7 @@
 				"kanjiForm": "湊",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "湊.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -112048,15 +111838,13 @@
 				"audio": "向かう.mp3"
 			},
 			{
-				"kanjiForm": "向う",
-				"audio": "向う.mp3"
+				"kanjiForm": "向う"
 			},
 			{
 				"kanjiForm": "対う",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "対う.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -112322,8 +112110,7 @@
 				"kanjiForm": "邀える",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "邀える.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -112731,8 +112518,7 @@
 				"kanjiForm": "蟲",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "蟲.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -114077,12 +113863,10 @@
 				"audio": "申し上げる.mp3"
 			},
 			{
-				"kanjiForm": "申上げる",
-				"audio": "申上げる.mp3"
+				"kanjiForm": "申上げる"
 			},
 			{
-				"kanjiForm": "申しあげる",
-				"audio": "申しあげる.mp3"
+				"kanjiForm": "申しあげる"
 			}
 		],
 		"readings": [
@@ -115029,8 +114813,7 @@
 				"kanjiForm": "木棉",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "木棉.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -115504,8 +115287,7 @@
 				"audio": "森.mp3"
 			},
 			{
-				"kanjiForm": "杜",
-				"audio": "杜.mp3"
+				"kanjiForm": "杜"
 			}
 		],
 		"readings": [
@@ -115740,8 +115522,7 @@
 				"kanjiForm": "燬く",
 				"notes": [
 					"Out-dated kanji"
-				],
-				"audio": "燬く.mp3"
+				]
 			},
 			{
 				"kanjiForm": "焚く",
@@ -116329,8 +116110,7 @@
 				"audio": "役に立つ.mp3"
 			},
 			{
-				"kanjiForm": "役にたつ",
-				"audio": "役にたつ.mp3"
+				"kanjiForm": "役にたつ"
 			}
 		],
 		"readings": [
@@ -116574,19 +116354,16 @@
 				"audio": "焼ける.mp3"
 			},
 			{
-				"kanjiForm": "灼ける",
-				"audio": "灼ける.mp3"
+				"kanjiForm": "灼ける"
 			},
 			{
-				"kanjiForm": "妬ける",
-				"audio": "妬ける.mp3"
+				"kanjiForm": "妬ける"
 			},
 			{
 				"kanjiForm": "嫉ける",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "嫉ける.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -117179,8 +116956,7 @@
 				"kanjiForm": "瘠せる",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "瘠せる.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -117572,29 +117348,25 @@
 				"kanjiForm": "已む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "已む.mp3"
+				]
 			},
 			{
 				"kanjiForm": "罷む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "罷む.mp3"
+				]
 			},
 			{
 				"kanjiForm": "熄む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "熄む.mp3"
+				]
 			},
 			{
 				"kanjiForm": "歇む",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "歇む.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -118375,8 +118147,7 @@
 				"audio": "柔らかい.mp3"
 			},
 			{
-				"kanjiForm": "軟らかい",
-				"audio": "軟らかい.mp3"
+				"kanjiForm": "軟らかい"
 			}
 		],
 		"readings": [
@@ -118922,8 +118693,7 @@
 				"audio": "指輪.mp3"
 			},
 			{
-				"kanjiForm": "指環",
-				"audio": "指環.mp3"
+				"kanjiForm": "指環"
 			}
 		],
 		"readings": [
@@ -121276,22 +121046,19 @@
 				"kanjiForm": "悦ぶ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "悦ぶ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "歓ぶ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "歓ぶ.mp3"
+				]
 			},
 			{
 				"kanjiForm": "慶ぶ",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "慶ぶ.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -122783,8 +122550,7 @@
 				"audio": "留守.mp3"
 			},
 			{
-				"kanjiForm": "留主",
-				"audio": "留主.mp3"
+				"kanjiForm": "留主"
 			}
 		],
 		"readings": [
@@ -123641,8 +123407,7 @@
 				"kanjiForm": "聯絡",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "聯絡.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -124870,15 +124635,13 @@
 				"kanjiForm": "嗤う",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "嗤う.mp3"
+				]
 			},
 			{
 				"kanjiForm": "咲う",
 				"notes": [
 					"rarely-used kanji form"
-				],
-				"audio": "咲う.mp3"
+				]
 			}
 		],
 		"readings": [
@@ -125210,8 +124973,7 @@
 				"kanjiForm": "割り合い",
 				"notes": [
 					"Irregular okurigana usage"
-				],
-				"audio": "割り合い.mp3"
+				]
 			}
 		],
 		"readings": [
