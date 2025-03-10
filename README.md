@@ -47,6 +47,10 @@ This deck is compiled from and inspired by multiple projects:
 ## **Audio Generation**  
 This deck contains **audio files generated using [Amazon Polly](https://aws.amazon.com/polly/)**, a Text-to-Speech (TTS) service provided by Amazon Web Services (AWS).
 
+### Voice Configuration
+- Voice: Tomoko
+- Engine: Neural
+
 ### Usage Terms for Amazon Polly
 - The generated speech is subject to **Amazon Polly’s Service Terms**:
   [https://aws.amazon.com/service-terms/](https://aws.amazon.com/service-terms/)
