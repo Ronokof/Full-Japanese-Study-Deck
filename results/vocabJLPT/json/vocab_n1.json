@@ -25487,7 +25487,7 @@
 		],
 		"common": true,
 		"tags": [
-			"adjective:taru",
+			"adjective::taru",
 			"takes::to",
 			"adverb",
 			"common_vocab"
@@ -184551,7 +184551,7 @@
 		"common": true,
 		"tags": [
 			"takes::no",
-			"adjective:taru",
+			"adjective::taru",
 			"takes::to",
 			"common_vocab"
 		],
@@ -313156,7 +313156,7 @@
 			}
 		],
 		"tags": [
-			"adjective:taru",
+			"adjective::taru",
 			"takes::to"
 		],
 		"id": "1376200",
@@ -367392,7 +367392,7 @@
 		"common": true,
 		"tags": [
 			"adverb",
-			"adjective:taru",
+			"adjective::taru",
 			"common_vocab"
 		],
 		"id": "1419690",
@@ -423187,7 +423187,7 @@
 		"tags": [
 			"adverb",
 			"takes::to",
-			"adjective:taru",
+			"adjective::taru",
 			"common_vocab"
 		],
 		"id": "1457090",
@@ -434718,7 +434718,7 @@
 		],
 		"common": true,
 		"tags": [
-			"adjective:taru",
+			"adjective::taru",
 			"takes::to",
 			"common_vocab"
 		],
@@ -487287,7 +487287,7 @@
 		],
 		"common": true,
 		"tags": [
-			"adjective:taru",
+			"adjective::taru",
 			"takes::to",
 			"common_vocab"
 		],
@@ -547430,7 +547430,7 @@
 			}
 		],
 		"tags": [
-			"adjective:taru",
+			"adjective::taru",
 			"takes::to"
 		],
 		"id": "1515610",
