@@ -77,3 +77,7 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
 This deck is an independent project and **is not affiliated with Amazon Web Services (AWS) or any contributing databases.**
 
 Please read the [license](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/LICENSE.md) for more details.
+
+---
+
+## [X](https://x.com/ronokof) | [Discord Server](https://discord.gg/WEqZcfmj9k)
