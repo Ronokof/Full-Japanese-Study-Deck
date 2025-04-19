@@ -30,6 +30,12 @@ h3 {
     display: inline-block;
 }
 
+.kanji-meanings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .kanji-meaning {
     background-color: #e8f5e9;
     color: #1b5e20;

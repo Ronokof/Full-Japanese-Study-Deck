@@ -41,6 +41,12 @@ h3 {
     font-style: italic;
 }
 
+.radical-meanings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .radical-meaning {
     background-color: #e8f5e9;
     color: #1b5e20;
