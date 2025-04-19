@@ -6,22 +6,27 @@
 
 ## **Guide**
 
+### **Prerequisites**
+- [Install Anki](https://docs.ankiweb.net/getting-started.html#installing--upgrading)
+- [Download the deck](https://docs.ankiweb.net/getting-started.html#shared-decks)
+- Consult the [Anki Manual](https://docs.ankiweb.net/) if you have other issues or questions regarding Anki
+
 ### Start with the **Kana** subdeck (if you have not learned kana yet)
-- Learn the normal *Hiragana* and *Katakana*
-- Get the gist of the extended kana. There is no need to memorize them, just get used to how kana sounds combined with other kana
+- Learn the normal *Hiragana* and *Katakana*.
+- Get the gist of the extended kana. There is no need to memorize them, just get used to how kana sounds combined with other kana.
 
 ### Move on to the **JLPT** subdeck
-- Go through each JLPT N5-N1 subdeck (vocab and kanji) one by one
+- Go through each JLPT N5-N1 subdeck (vocab and kanji) one by one.
 
 ### Learn **Grammar**
-- As with the JLPT subdeck, go over each subdeck one at a time
-- Pair JLPT vocab with grammar for efficiency
+- As with the JLPT subdeck, go over each subdeck one at a time.
+- Pair JLPT vocab with grammar for efficiency.
 
 ### The other subdecks
 - Use all the *"reference material"* subdecks for a quick search when you need to look up radicals, kana, kanji etc.
 - As for the *"ready-made mined material"* subdecks, all cards are suspended by default. Over time, unsuspend and learn the ones you find useful.
 
-## **Deck Contents**  
+## **Deck Contents**
 
 ### **Kana** (reference material)
 - **Basic kana** (Hiragana & Katakana) – 142 characters with readings and audio.
@@ -41,12 +46,12 @@
 - **41,872 common words** written entirely in kana.
 
 ### **Complete Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **10,106 kanji**, sourced from the **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**
+- **10,106 kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
 - **199,232 vocabulary words**, each linked to relevant kanji.
 
 ---
 
-## **Sources**  
+## **Sources**
 
 This deck is compiled from and inspired by multiple projects:
 
@@ -62,7 +67,7 @@ This deck is compiled from and inspired by multiple projects:
 ## **jpdb.io notice**
 This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jpdb.io/). If my usage of your content violates your policies or you want your content removed from this deck, please feel free to contact me.
 
-## **Audio Generation**  
+## **Audio Generation**
 This deck contains **audio files generated using [Amazon Polly](https://aws.amazon.com/polly/)**, a Text-to-Speech (TTS) service provided by Amazon Web Services (AWS).
 
 ### Voice Configuration
@@ -79,7 +84,7 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
 
 ---
 
-## **Additional Notes**  
+## **Additional Notes**
 
 - **Audio Playback Settings:**
   - If audio plays repetitively or automatically, turn on the **"Don't play audio automatically"** setting from the deck's options.
