@@ -1,0 +1,8902 @@
+[
+	{
+		"kanji": "悲",
+		"strokes": "12",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"かな.しい",
+			"かな.しむ"
+		],
+		"meanings": [
+			"grieve",
+			"sad",
+			"deplore",
+			"regret"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "厭世悲観者"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えんせいひかんしゃ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pessimist",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "慈悲"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mercy, compassion, clemency, pity, charity, benevolence",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_a889f2d4-ae2f-4fb6-b432-fc4d8a0c9ac6",
+		"mnemonic": "If you go against what your heart feels is right you'll become sad.",
+		"components": [
+			{
+				"component": "非",
+				"meaning": "go against"
+			},
+			{
+				"component": "心",
+				"meaning": "heart"
+			}
+		],
+		"source": "https://jpdb.io/kanji/悲#a"
+	},
+	{
+		"kanji": "扉",
+		"strokes": "12",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"とびら"
+		],
+		"meanings": [
+			"front door",
+			"title page",
+			"front page"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "開扉"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かいひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "opening a door",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb",
+							"Intransitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "扉"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とびら"
+					}
+				],
+				"translations": [
+					{
+						"translation": "door, gate, opening",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_5a0a2381-4a8d-4afc-a144-455735442646",
+		"components": [
+			{
+				"component": "戸",
+				"meaning": "door"
+			},
+			{
+				"component": "非",
+				"meaning": "go against"
+			}
+		],
+		"source": "https://jpdb.io/kanji/扉#a"
+	},
+	{
+		"kanji": "批",
+		"strokes": "7",
+		"onyomi": [
+			"ヒ"
+		],
+		"meanings": [
+			"criticism",
+			"strike"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "批准"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひじゅん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "ratification",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "批点"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひてん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "correction marks",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::7"
+		],
+		"noteID": "kanji_42d3aa82-b6b0-4eee-b3b7-f48b51bceb8e",
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "比",
+				"meaning": "compare (things of the same type)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/批#a"
+	},
+	{
+		"kanji": "披",
+		"strokes": "8",
+		"onyomi": [
+			"ヒ"
+		],
+		"meanings": [
+			"expose",
+			"open"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "結婚披露宴"
+					}
+				],
+				"readings": [
+					{
+						"reading": "けっこんひろうえん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wedding reception banquet",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "嫡披"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちゃくひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "confidential letter",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_70bcc60c-1cf0-4528-ad41-ab8c28076394",
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "皮",
+				"meaning": "skin (of an animal or a plant)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/披#a"
+	},
+	{
+		"kanji": "斐",
+		"strokes": "12",
+		"nanori": [
+			"あや"
+		],
+		"onyomi": [
+			"ヒ",
+			"イ"
+		],
+		"meanings": [
+			"beautiful",
+			"patterned"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "甲斐",
+						"notes": [
+							"Ateji (phonetic) reading"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "かい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "result (that makes an act worthwhile), worth (in doing something), value, effect, use, benefit, avail",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "甲斐甲斐しい"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かいがいしい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "brisk and efficient, diligent, devoted, spirited",
+						"notes": [
+							"Adjective (keiyoushi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_12eeffc4-3494-4253-9799-d43976bf1448",
+		"components": [
+			{
+				"component": "非",
+				"meaning": "go against"
+			},
+			{
+				"component": "文",
+				"meaning": "written sentence"
+			}
+		],
+		"source": "https://jpdb.io/kanji/斐#a"
+	},
+	{
+		"kanji": "比",
+		"strokes": "4",
+		"nanori": [
+			"い",
+			"ぴっ"
+		],
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"くら.べる"
+		],
+		"meanings": [
+			"compare",
+			"race",
+			"ratio",
+			"Philippines"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "比べ"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くらべ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "contest, comparison, competition",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun, used as a suffix",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "と比べて"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とくらべて"
+					}
+				],
+				"translations": [
+					{
+						"translation": "compared with",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::4"
+		],
+		"noteID": "kanji_1992a584-0049-450a-91a1-235dc5551a85",
+		"mnemonic": "You look at the two spoons to compare them. The left one is a bit different but they are generally of the same type.",
+		"source": "https://jpdb.io/kanji/比#a"
+	},
+	{
+		"kanji": "泌",
+		"strokes": "8",
+		"onyomi": [
+			"ヒツ",
+			"ヒ"
+		],
+		"meanings": [
+			"ooze",
+			"flow",
+			"soak in",
+			"penetrate",
+			"secrete"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "内分泌腺"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ないぶんぴつせん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "endocrine gland",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "泌尿器科"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひにょうきか"
+					}
+				],
+				"translations": [
+					{
+						"translation": "urology",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_e9b62845-26a1-4b52-97c4-592238b7cfc4",
+		"components": [
+			{
+				"component": "氵",
+				"meaning": "water drops"
+			},
+			{
+				"component": "必",
+				"meaning": "certainly"
+			}
+		],
+		"source": "https://jpdb.io/kanji/泌#a"
+	},
+	{
+		"kanji": "疲",
+		"strokes": "10",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"つか.れる",
+			"-づか.れ",
+			"つか.らす"
+		],
+		"meanings": [
+			"exhausted",
+			"tire",
+			"weary"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お疲れ様"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おつかれさま"
+					}
+				],
+				"translations": [
+					{
+						"translation": "thank you (for your hard work), good work",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "看護疲れ"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんごつかれ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "nursing fatigue",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_f59acd02-050b-4d99-9977-e60b10b159d2",
+		"mnemonic": "That animal looks so tired... wait, no, it's not simply tired, it's sick! Its sickness has spread all over its skin. Poor little thing...",
+		"components": [
+			{
+				"component": "疒",
+				"meaning": "sickness"
+			},
+			{
+				"component": "皮",
+				"meaning": "skin (of an animal or a plant)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/疲#a"
+	},
+	{
+		"kanji": "皮",
+		"strokes": "5",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"かわ"
+		],
+		"meanings": [
+			"pelt",
+			"skin",
+			"hide",
+			"leather",
+			"skin radical (no. 107)"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "バナナの皮"
+					}
+				],
+				"readings": [
+					{
+						"reading": "バナナのかわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "banana peel, banana skin",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一皮"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひとかわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "unmasking",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::5"
+		],
+		"noteID": "kanji_95f6b9b2-ed9c-4312-a349-8493c375a3c8",
+		"mnemonic": "The skin is an organ which supports an animal. As long as the skin is intact the animal will live, but once it's slashed the animal won't be able to survive anymore.",
+		"components": [
+			{
+				"component": "丿",
+				"meaning": "slash left"
+			},
+			{
+				"component": "支",
+				"meaning": "support"
+			}
+		],
+		"source": "https://jpdb.io/kanji/皮#a"
+	},
+	{
+		"kanji": "碑",
+		"strokes": "14",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"いしぶみ"
+		],
+		"meanings": [
+			"tombstone",
+			"monument"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "歌碑"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "monument (stele, gravestone, etc.) engraved with a waka",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"和歌"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "記念碑"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きねんひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "commemorative plaque (usu. on a stone), stone monument (bearing an inscription)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_12e12443-ddf1-4d7b-97e4-f5bb4afcf9da",
+		"components": [
+			{
+				"component": "石",
+				"meaning": "stone"
+			},
+			{
+				"component": "卑",
+				"meaning": "vulgar"
+			}
+		],
+		"source": "https://jpdb.io/kanji/碑#a"
+	},
+	{
+		"kanji": "秘",
+		"strokes": "10",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"ひ.める",
+			"ひそ.か",
+			"かく.す"
+		],
+		"meanings": [
+			"secret",
+			"conceal"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "秘露",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ペルー"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Peru",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "極秘"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごくひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "absolute secrecy",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Nouns which may take the genitive case particle 'no'",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_95c25abd-7f21-4fb7-b29e-9a67e3d2c225",
+		"components": [
+			{
+				"component": "禾",
+				"meaning": "grain plant"
+			},
+			{
+				"component": "必",
+				"meaning": "certainly"
+			}
+		],
+		"source": "https://jpdb.io/kanji/秘#a"
+	},
+	{
+		"kanji": "緋",
+		"strokes": "14",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"あけ",
+			"あか"
+		],
+		"meanings": [
+			"scarlet",
+			"cardinal"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "緋衣草"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひごろもそう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "scarlet sage (Salvia splendens), red salvia",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"サルビア"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "緋鯉"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひごい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "red carp, golden carp",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_b81df679-adb0-46ed-b44f-63a128907ef7",
+		"components": [
+			{
+				"component": "糸",
+				"meaning": "thread"
+			},
+			{
+				"component": "非",
+				"meaning": "go against"
+			}
+		],
+		"source": "https://jpdb.io/kanji/緋#a"
+	},
+	{
+		"kanji": "罷",
+		"strokes": "15",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"まか.り-",
+			"や.める"
+		],
+		"meanings": [
+			"quit",
+			"stop",
+			"leave",
+			"withdraw",
+			"go"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "同盟罷業"
+					}
+				],
+				"readings": [
+					{
+						"reading": "どうめいひぎょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "strike",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "罷り"
+					}
+				],
+				"readings": [
+					{
+						"reading": "まかり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "emphatic verbal prefix",
+						"notes": [
+							"Prefix"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_38d1f4ba-457e-45f0-95a8-d32691067240",
+		"components": [
+			{
+				"component": "罒",
+				"meaning": "small net"
+			},
+			{
+				"component": "能",
+				"meaning": "ability"
+			}
+		],
+		"source": "https://jpdb.io/kanji/罷#a"
+	},
+	{
+		"kanji": "肥",
+		"strokes": "8",
+		"nanori": [
+			"い",
+			"こい",
+			"ひえ"
+		],
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"こ.える",
+			"こえ",
+			"こ.やす",
+			"こ.やし",
+			"ふと.る"
+		],
+		"meanings": [
+			"fertilizer",
+			"get fat",
+			"fertile",
+			"manure",
+			"pamper"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "下肥"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しもごえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "manure, night soil",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "化学肥料"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かがくひりょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "chemical fertilizer, chemical fertiliser",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_60aaa580-8dcb-4c93-ae2a-f6f908fbadc2",
+		"components": [
+			{
+				"component": "月",
+				"meaning": "moon"
+			},
+			{
+				"component": "巴",
+				"meaning": "swirly pattern"
+			}
+		],
+		"source": "https://jpdb.io/kanji/肥#a"
+	},
+	{
+		"kanji": "被",
+		"strokes": "10",
+		"nanori": [
+			"ぎぬ"
+		],
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"こうむ.る",
+			"おお.う",
+			"かぶ.る",
+			"かぶ.せる"
+		],
+		"meanings": [
+			"incur",
+			"cover",
+			"veil",
+			"brood over",
+			"shelter",
+			"wear",
+			"put on",
+			"be exposed (film)",
+			"receiving"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "花被"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "perianth, floral envelope",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "刑事被告"
+					}
+				],
+				"readings": [
+					{
+						"reading": "けいじひこく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the accused",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_586946df-20d9-4791-855f-d3f9cced2545",
+		"components": [
+			{
+				"component": "衤",
+				"meaning": "altar clothes"
+			},
+			{
+				"component": "皮",
+				"meaning": "skin (of an animal or a plant)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/被#a"
+	},
+	{
+		"kanji": "誹",
+		"strokes": "15",
+		"onyomi": [
+			"ヒ",
+			"ハイ"
+		],
+		"kunyomi": [
+			"そし.る"
+		],
+		"meanings": [
+			"ridicule",
+			"slander"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "誹謗"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひぼう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "slander, abuse",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "誹議"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひぎ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "criticism, censure",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_ceeb47fc-7749-4e85-9625-eb25f657ed67",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "非",
+				"meaning": "go against"
+			}
+		],
+		"source": "https://jpdb.io/kanji/誹#a"
+	},
+	{
+		"kanji": "費",
+		"strokes": "12",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"つい.やす",
+			"つい.える"
+		],
+		"meanings": [
+			"expense",
+			"cost",
+			"spend",
+			"consume",
+			"waste"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "維持費"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いじひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "maintenance costs",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "運動費"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うんどうひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "campaign fund",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_4ef6a1fb-574f-46a8-8a4a-628093605d7c",
+		"components": [
+			{
+				"component": "弗",
+				"meaning": "dollar"
+			},
+			{
+				"component": "貝",
+				"meaning": "shellfish"
+			}
+		],
+		"source": "https://jpdb.io/kanji/費#a"
+	},
+	{
+		"kanji": "避",
+		"strokes": "16",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"さ.ける",
+			"よ.ける"
+		],
+		"meanings": [
+			"evade",
+			"avoid",
+			"avert",
+			"ward off",
+			"shirk",
+			"shun"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "回避"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かいひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "evasion, avoidance",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Intransitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "関税回避"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんぜいかいひ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "tariff avoidance",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::16"
+		],
+		"noteID": "kanji_2f48aedb-8aaf-4bfe-a1e6-8dfd7a58d40c",
+		"components": [
+			{
+				"component": "辟",
+				"meaning": "punishment"
+			},
+			{
+				"component": "⻌",
+				"meaning": "road"
+			}
+		],
+		"source": "https://jpdb.io/kanji/避#a"
+	},
+	{
+		"kanji": "非",
+		"strokes": "8",
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"あら.ず"
+		],
+		"meanings": [
+			"un-",
+			"mistake",
+			"negative",
+			"injustice",
+			"non-"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "似て非なる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "にてひなる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "similar but different, alike only in appearance, falsely similar, spurious, sham, pseudo-",
+						"notes": [
+							"Pre-noun adjectival (rentaishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "似非"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えせ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "false, pseudo-, quasi-, would-be, sham, pretended, mock",
+						"notes": [
+							"Prefix",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_c0217a41-816d-4656-86b3-19f480f7384d",
+		"mnemonic": "Pictograph of an ugly centipede, such a creation definitely goes against the will of God and was created by the devil himself. Even its lower left leg is crooked!",
+		"source": "https://jpdb.io/kanji/非#a"
+	},
+	{
+		"kanji": "飛",
+		"strokes": "9",
+		"nanori": [
+			"あす",
+			"とび"
+		],
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"と.ぶ",
+			"と.ばす",
+			"-と.ばす"
+		],
+		"meanings": [
+			"fly",
+			"skip (pages)",
+			"scatter"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "飛んだ",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "とんだ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "unexpected, unlikely, strange",
+						"notes": [
+							"Pre-noun adjectival (rentaishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "飛竜",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ペーロン"
+					}
+				],
+				"translations": [
+					{
+						"translation": "dragon boat (long 22-person canoe used for racing)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_ef326d22-88d3-4a3e-82d3-46201b432c7c"
+	},
+	{
+		"kanji": "樋",
+		"strokes": "14",
+		"nanori": [
+			"て",
+			"と",
+			"とよ",
+			"とわ"
+		],
+		"onyomi": [
+			"トウ"
+		],
+		"kunyomi": [
+			"ひ",
+			"とい"
+		],
+		"meanings": [
+			"water pipe",
+			"gutter",
+			"downspout",
+			"conduit"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "鎖樋"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くさりとい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rain chain (hanging from a gutter and functioning as downspout, often made of ornamental cups)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "樋"
+					}
+				],
+				"readings": [
+					{
+						"reading": "とい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "trough, gutter, water pipe, flume, chute",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_9f8e474f-2e79-492f-ac59-328f4d050aaf"
+	},
+	{
+		"kanji": "簸",
+		"strokes": "19",
+		"onyomi": [
+			"ハ"
+		],
+		"kunyomi": [
+			"ひ.る"
+		],
+		"meanings": [
+			"winnow",
+			"fan"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "簸る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to winnow (grain)",
+						"notes": [
+							"Godan verb with 'ru' ending",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "簸る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to winnow (grain)",
+						"notes": [
+							"Godan verb with 'ru' ending",
+							"Transitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::19"
+		],
+		"noteID": "kanji_464ba420-506c-4d40-843a-026a36f2c128",
+		"components": [
+			{
+				"component": "竹",
+				"meaning": "bamboo"
+			},
+			{
+				"component": "其",
+				"meaning": "that thing near you"
+			},
+			{
+				"component": "皮",
+				"meaning": "skin (of an animal or a plant)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/簸#a"
+	},
+	{
+		"kanji": "備",
+		"strokes": "12",
+		"nanori": [
+			"びっ",
+			"びん"
+		],
+		"onyomi": [
+			"ビ"
+		],
+		"kunyomi": [
+			"そな.える",
+			"そな.わる",
+			"つぶさ.に"
+		],
+		"meanings": [
+			"equip",
+			"provision",
+			"preparation"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "スプリンクラー設備"
+					}
+				],
+				"readings": [
+					{
+						"reading": "スプリンクラーせつび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sprinkler system",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "下準備"
+					}
+				],
+				"readings": [
+					{
+						"reading": "したじゅんび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "preparations, preliminary arrangements, spade work, mise en place, groundwork",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_a3510d97-e2c7-4724-b5b3-e3b328b9a256",
+		"mnemonic": "A pictograph of a thin person climbing up the side of a cliff. He didn't equip his climbing gear, so he's desperately gripping the blades of grass on top of the cliff so that he doesn't fall. Grass is usually not used for something like this, but what choice does he have?",
+		"components": [
+			{
+				"component": "亻",
+				"meaning": "thin person"
+			},
+			{
+				"component": "艹",
+				"meaning": "blades of grass"
+			},
+			{
+				"component": "厂",
+				"meaning": "cliff"
+			},
+			{
+				"component": "用",
+				"meaning": "used for"
+			}
+		],
+		"source": "https://jpdb.io/kanji/備#a"
+	},
+	{
+		"kanji": "尾",
+		"strokes": "7",
+		"onyomi": [
+			"ビ"
+		],
+		"kunyomi": [
+			"お"
+		],
+		"meanings": [
+			"tail",
+			"end",
+			"counter for fish",
+			"lower slope of mountain"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "巻尾"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "end of a book",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "語尾"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(inflectional) ending of a word",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Grammar"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::7"
+		],
+		"noteID": "kanji_d7924f1f-9190-4cc1-8163-b25d541b3edf",
+		"mnemonic": "A corpse with a bit of fur sticking out... it's a tail!",
+		"components": [
+			{
+				"component": "尸",
+				"meaning": "corpse with a flag"
+			},
+			{
+				"component": "毛",
+				"meaning": "fur"
+			}
+		],
+		"source": "https://jpdb.io/kanji/尾#a"
+	},
+	{
+		"kanji": "微",
+		"strokes": "13",
+		"nanori": [
+			"み"
+		],
+		"onyomi": [
+			"ビ"
+		],
+		"kunyomi": [
+			"かす.か"
+		],
+		"meanings": [
+			"delicate",
+			"minuteness",
+			"insignificance"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "隠微"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いんび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "obscurity, mystery, abstruseness",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "機微"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "subtleties, niceties, fine points, inner workings, secrets",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::13"
+		],
+		"noteID": "kanji_7c7e9475-0376-4d24-b5c2-9fdf16803d67",
+		"mnemonic": "You're standing still next to a micro mountain which is as high and steep as a folding chair.",
+		"components": [
+			{
+				"component": "彳",
+				"meaning": "stand still"
+			},
+			{
+				"component": "山",
+				"meaning": "mountain"
+			},
+			{
+				"component": "兀",
+				"meaning": "high and steep"
+			},
+			{
+				"component": "攵",
+				"meaning": "folding chair"
+			}
+		],
+		"source": "https://jpdb.io/kanji/微#a"
+	},
+	{
+		"kanji": "枇",
+		"strokes": "8",
+		"onyomi": [
+			"ビ",
+			"ヒ"
+		],
+		"meanings": [
+			"loquat",
+			"spoon"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "枇杷",
+						"notes": [
+							"Ateji (phonetic) reading"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "びわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "loquat (Eriobotrya japonica), Japanese medlar",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Shaped like a biwa",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "犬枇杷"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いぬびわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Ficus erecta (species of ficus)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_9979a480-e811-4fd4-bacb-e0c370a4aa3e",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "比",
+				"meaning": "compare (things of the same type)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/枇#a"
+	},
+	{
+		"kanji": "毘",
+		"strokes": "9",
+		"onyomi": [
+			"ヒ",
+			"ビ"
+		],
+		"kunyomi": [
+			"たす.ける"
+		],
+		"meanings": [
+			"help",
+			"assist"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "金毘羅"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こんぴら"
+					}
+				],
+				"translations": [
+					{
+						"translation": "guardian deity of seafaring, Kumbhira",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "毘盧遮那仏"
+					}
+				],
+				"readings": [
+					{
+						"reading": "びるしゃなぶつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Vairocana-Buddha",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Buddhism"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_23f4bd5f-557a-4f85-9ac1-c4c42ed8cd4d",
+		"components": [
+			{
+				"component": "田",
+				"meaning": "rice field"
+			},
+			{
+				"component": "比",
+				"meaning": "compare (things of the same type)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/毘#a"
+	},
+	{
+		"kanji": "琵",
+		"strokes": "12",
+		"onyomi": [
+			"ビ",
+			"ヒ"
+		],
+		"meanings": [
+			"glissando on strings",
+			"lute"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "琵琶"
+					}
+				],
+				"readings": [
+					{
+						"reading": "びわ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "biwa (Japanese lute)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "琵琶行"
+					}
+				],
+				"readings": [
+					{
+						"reading": "びわこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "biwa song",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_95367489-bd0f-43b5-abdf-efa944d6423f",
+		"components": [
+			{
+				"component": "王",
+				"meaning": "king"
+			},
+			{
+				"component": "王",
+				"meaning": "king"
+			},
+			{
+				"component": "比",
+				"meaning": "compare (things of the same type)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/琵#a"
+	},
+	{
+		"kanji": "眉",
+		"strokes": "9",
+		"onyomi": [
+			"ビ",
+			"ミ"
+		],
+		"kunyomi": [
+			"まゆ"
+		],
+		"meanings": [
+			"eyebrow"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "引き眉"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひきまゆ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "painted eyebrows",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "作り眉"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つくりまゆ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "painted eyebrows",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_d384150e-2853-472d-9648-d217178383c4",
+		"components": [
+			{
+				"component": "尸",
+				"meaning": "corpse with a flag"
+			},
+			{
+				"component": "丨",
+				"meaning": "stick"
+			},
+			{
+				"component": "目",
+				"meaning": "eye"
+			}
+		],
+		"source": "https://jpdb.io/kanji/眉#a"
+	},
+	{
+		"kanji": "美",
+		"strokes": "9",
+		"nanori": [
+			"はる",
+			"よし",
+			"よしみ",
+			"り"
+		],
+		"onyomi": [
+			"ビ",
+			"ミ"
+		],
+		"kunyomi": [
+			"うつく.しい"
+		],
+		"meanings": [
+			"beauty",
+			"beautiful"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "華美"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "splendor, splendour, gorgeousness, pomp, magnificence",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "甘美"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sweet (taste), luscious",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_7375bd0a-e61a-4622-bc48-b5f3205328aa",
+		"mnemonic": "When a force of nature manifests itself in a truly large form, say, when a star goes supernova and explodes into trillions of different colors, now that's real beauty.",
+		"components": [
+			{
+				"component": "𦍌",
+				"meaning": "force of nature"
+			},
+			{
+				"component": "大",
+				"meaning": "large"
+			}
+		],
+		"source": "https://jpdb.io/kanji/美#a"
+	},
+	{
+		"kanji": "鼻",
+		"strokes": "14",
+		"onyomi": [
+			"ビ"
+		],
+		"kunyomi": [
+			"はな"
+		],
+		"meanings": [
+			"nose",
+			"snout"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "阿鼻叫喚"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あびきょうかん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "agonizing cries, pandemonium, two of Buddhism's hells",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "耳鼻"
+					}
+				],
+				"readings": [
+					{
+						"reading": "じび"
+					}
+				],
+				"translations": [
+					{
+						"translation": "nose and ears",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_fe291b0f-9432-401e-9e9d-8506fd5a409b",
+		"components": [
+			{
+				"component": "自",
+				"meaning": "self"
+			},
+			{
+				"component": "田",
+				"meaning": "rice field"
+			},
+			{
+				"component": "廾",
+				"meaning": "both hands"
+			}
+		],
+		"source": "https://jpdb.io/kanji/鼻#a"
+	},
+	{
+		"kanji": "柊",
+		"strokes": "9",
+		"onyomi": [
+			"シュ",
+			"シュウ"
+		],
+		"kunyomi": [
+			"ひいらぎ"
+		],
+		"meanings": [
+			"holly"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "柊"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひらぎ",
+						"notes": [
+							"Reading restricted to 柊"
+						]
+					}
+				],
+				"translations": [
+					{
+						"translation": "holly olive (Osmanthus heterophyllus), false holly",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "西洋柊"
+					}
+				],
+				"readings": [
+					{
+						"reading": "せいようひいらぎ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "English holly (Ilex aquifolium)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_799e0a16-aac1-46db-9a57-c0e587384a32",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "冬",
+				"meaning": "winter"
+			}
+		],
+		"source": "https://jpdb.io/kanji/柊#a"
+	},
+	{
+		"kanji": "稗",
+		"strokes": "14",
+		"onyomi": [
+			"ハイ",
+			"ヒ"
+		],
+		"kunyomi": [
+			"ひえ"
+		],
+		"meanings": [
+			"humble",
+			"deccan grass"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "稗"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "barnyard millet (Echinochloa esculenta), Japanese millet, sanwa millet",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "四国稗"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しこくびえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "finger millet (Eleusine coracana)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_617fdee9-93f3-4e85-a1cd-3944cc18aa1a"
+	},
+	{
+		"kanji": "匹",
+		"strokes": "4",
+		"onyomi": [
+			"ヒツ"
+		],
+		"kunyomi": [
+			"ひき"
+		],
+		"meanings": [
+			"equal",
+			"head",
+			"counter for small animals",
+			"roll of cloth"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一匹"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっぴき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one (small animal)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"匹・1"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "数匹"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すうひき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "several animals",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::4"
+		],
+		"noteID": "kanji_fabf33e5-2302-4829-b731-b1e0b085b464",
+		"mnemonic": "A box on its side with a bunch of dismembered legs of small animals inside. Someone must have been a little psychopath.\nDo not confuse with 疋, which is the archaic counter for small animals.",
+		"components": [
+			{
+				"component": "匚",
+				"meaning": "box on its side"
+			},
+			{
+				"component": "儿",
+				"meaning": "legs"
+			}
+		],
+		"source": "https://jpdb.io/kanji/匹#a"
+	},
+	{
+		"kanji": "疋",
+		"strokes": "5",
+		"onyomi": [
+			"ヒキ",
+			"ショ",
+			"ソ",
+			"ヒツ"
+		],
+		"kunyomi": [
+			"あし"
+		],
+		"meanings": [
+			"head",
+			"counter for animals"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一疋",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっぴき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one (small animal)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"匹・1"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "疋"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "counter for small animals",
+						"notes": [
+							"Meaning restricted to ひき",
+							"Counter"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::5"
+		],
+		"noteID": "kanji_a6bc8677-615d-41f2-9905-bd1033c0f723",
+		"mnemonic": "If you only see a Mario cap lying on top of a pair of running shoes then perhaps something has turned Mario into a prehistoric small animal, and he's still in there under the cap?\nDo not confuse with 匹, which is the modern counter for small animals.",
+		"components": [
+			{
+				"component": "乛",
+				"meaning": "Mario cap"
+			},
+			{
+				"component": "龰",
+				"meaning": "running shoes"
+			}
+		],
+		"source": "https://jpdb.io/kanji/疋#a"
+	},
+	{
+		"kanji": "髭",
+		"strokes": "16",
+		"onyomi": [
+			"シ"
+		],
+		"kunyomi": [
+			"ひげ",
+			"くちひげ"
+		],
+		"meanings": [
+			"beard",
+			"mustache"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "ちょび髭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちょびひげ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "small mustache, short mustache",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"ちょびっと"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "天神髭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "てんじんひげ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "drooping moustache, goatee",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Rare term"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::16"
+		],
+		"noteID": "kanji_fe589a1c-05e7-4fc0-a978-0dcece8beb9b",
+		"components": [
+			{
+				"component": "髟",
+				"meaning": "comb a patch of hair"
+			},
+			{
+				"component": "此",
+				"meaning": "this here"
+			}
+		],
+		"source": "https://jpdb.io/kanji/髭#a"
+	},
+	{
+		"kanji": "彦",
+		"strokes": "9",
+		"nanori": [
+			"よし",
+			"こ",
+			"ひろ",
+			"やす"
+		],
+		"onyomi": [
+			"ゲン"
+		],
+		"kunyomi": [
+			"ひこ"
+		],
+		"meanings": [
+			"lad",
+			"boy (ancient)"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "山彦"
+					}
+				],
+				"readings": [
+					{
+						"reading": "やまびこ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "echo (esp. one reverberating in the mountains)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "彦星"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひこぼし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Altair (star in the constellation Aquila), Alpha Aquilae",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Astronomy",
+							"アルタイル"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_50dd543c-e117-45dd-ac54-bdd15c33d400",
+		"mnemonic": "A young lad is standing at the edge of a cliff. He already balding at such a young age, with only a single patch of hair left on his head. He's depressed. No girl wants him anymore. As he's looking down the cliff he's thinking of... jumping down.",
+		"components": [
+			{
+				"component": "立",
+				"meaning": "standing up"
+			},
+			{
+				"component": "厂",
+				"meaning": "cliff"
+			},
+			{
+				"component": "彡",
+				"meaning": "a patch of hair"
+			}
+		],
+		"source": "https://jpdb.io/kanji/彦#a"
+	},
+	{
+		"kanji": "膝",
+		"strokes": "15",
+		"onyomi": [
+			"シツ"
+		],
+		"kunyomi": [
+			"ひざ"
+		],
+		"meanings": [
+			"knee",
+			"lap"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "膝"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひざ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "knee",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "膝蓋骨"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しつがいこつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "kneecap, patella",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_db36c1d9-ba50-40d8-ac88-c3020b963895",
+		"components": [
+			{
+				"component": "月",
+				"meaning": "moon"
+			},
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "人",
+				"meaning": "person"
+			},
+			{
+				"component": "氺",
+				"meaning": "water splash"
+			}
+		],
+		"source": "https://jpdb.io/kanji/膝#a"
+	},
+	{
+		"kanji": "菱",
+		"strokes": "11",
+		"onyomi": [
+			"リョウ"
+		],
+		"kunyomi": [
+			"ひし"
+		],
+		"meanings": [
+			"diamond (shape)",
+			"water chestnut",
+			"rhombus"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "菱形"
+					}
+				],
+				"readings": [
+					{
+						"reading": "りょうけい",
+						"notes": [
+							"Reading restricted to 菱形"
+						]
+					}
+				],
+				"translations": [
+					{
+						"translation": "rhombus, rhomb, lozenge, diamond (shape)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "菱餅"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひしもち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rhombus-shaped mochi",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_6c15ab82-522e-4c77-a70c-d563119a2bde"
+	},
+	{
+		"kanji": "肘",
+		"strokes": "7",
+		"onyomi": [
+			"チュウ"
+		],
+		"kunyomi": [
+			"ひじ"
+		],
+		"meanings": [
+			"elbow",
+			"arm"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "肘掛け椅子"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひじかけいす"
+					}
+				],
+				"translations": [
+					{
+						"translation": "armchair, chair with arm rests",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "肘"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "elbow",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::7"
+		],
+		"noteID": "kanji_9a9de33c-95bd-40a0-a1d8-7379538b36e5",
+		"components": [
+			{
+				"component": "月",
+				"meaning": "moon"
+			},
+			{
+				"component": "寸",
+				"meaning": "a few centimeters"
+			}
+		],
+		"source": "https://jpdb.io/kanji/肘#a"
+	},
+	{
+		"kanji": "弼",
+		"strokes": "12",
+		"nanori": [
+			"すけ",
+			"たすく"
+		],
+		"onyomi": [
+			"ヒツ"
+		],
+		"kunyomi": [
+			"たす.ける",
+			"ゆだめ"
+		],
+		"meanings": [
+			"help"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "輔弼"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ほひつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "giving the Emperor advice on affairs of state, assistance, counsel",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "弼馬温"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひつばおん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Protector of the Stables (title given to the Monkey King in the novel \"Journey to the West\" when he is given a job in Heaven)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Character"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_7bd13a98-cea3-415f-bab7-27ae255f8e47",
+		"components": [
+			{
+				"component": "弓",
+				"meaning": "bow (weapon)"
+			},
+			{
+				"component": "百",
+				"meaning": "hundred"
+			},
+			{
+				"component": "弓",
+				"meaning": "bow (weapon)"
+			}
+		],
+		"source": "https://jpdb.io/kanji/弼#a"
+	},
+	{
+		"kanji": "必",
+		"strokes": "5",
+		"onyomi": [
+			"ヒツ"
+		],
+		"kunyomi": [
+			"かなら.ず"
+		],
+		"meanings": [
+			"invariably",
+			"certain",
+			"inevitable"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "生者必滅"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょうじゃひつめつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "all living things must die",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Buddhism",
+							"Yojijukugo"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "絶対必要"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぜったいひつよう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "absolutely necessary",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::5"
+		],
+		"noteID": "kanji_fdeeca3b-6efb-49e9-97bf-07822ecb4d6e",
+		"mnemonic": "If your heart gets slashed you will certainly die.",
+		"components": [
+			{
+				"component": "心",
+				"meaning": "heart"
+			},
+			{
+				"component": "丿",
+				"meaning": "slash left"
+			}
+		],
+		"source": "https://jpdb.io/kanji/必#a"
+	},
+	{
+		"kanji": "畢",
+		"strokes": "11",
+		"onyomi": [
+			"ヒツ"
+		],
+		"kunyomi": [
+			"おわ.る",
+			"あみ",
+			"おわ.り",
+			"ことごとく"
+		],
+		"meanings": [
+			"the end",
+			"finish"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "畢竟"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひっきょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "after all, in the end, in short",
+						"notes": [
+							"Adverb (fukushi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "畢生"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひっせい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "lifetime",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Adverb (fukushi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_325b3492-1638-4868-bd1b-e0bd9ce712eb"
+	},
+	{
+		"kanji": "筆",
+		"strokes": "12",
+		"nanori": [
+			"はじめ"
+		],
+		"onyomi": [
+			"ヒツ"
+		],
+		"kunyomi": [
+			"ふで"
+		],
+		"meanings": [
+			"writing brush",
+			"writing",
+			"painting brush",
+			"handwriting"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "悪筆"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あくひつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "poor handwriting",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一筆書き"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひとふでがき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one-stroke sketch, unicursal",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_896c7661-691c-4242-b38c-1fc42ee87426",
+		"components": [
+			{
+				"component": "竹",
+				"meaning": "bamboo"
+			},
+			{
+				"component": "聿",
+				"meaning": "brush"
+			}
+		],
+		"source": "https://jpdb.io/kanji/筆#a"
+	},
+	{
+		"kanji": "逼",
+		"strokes": "12",
+		"onyomi": [
+			"フク",
+			"ヒツ",
+			"ヒョク",
+			"ヒキ"
+		],
+		"kunyomi": [
+			"せま.る",
+			"むかばき"
+		],
+		"meanings": [
+			"urge",
+			"force",
+			"imminent",
+			"spur on"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "逼迫"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひっぱく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "tightness (of money, financial conditions, etc.), pressure, stringency",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Intransitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "逼塞"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひっそく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "being trapped (and having no way out)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Intransitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_6b702910-70c5-4832-91a9-2a136ab283ca",
+		"components": [
+			{
+				"component": "畐",
+				"meaning": "satisfied"
+			},
+			{
+				"component": "辶",
+				"meaning": "walking on a road"
+			}
+		],
+		"source": "https://jpdb.io/kanji/逼#a"
+	},
+	{
+		"kanji": "桧",
+		"strokes": "10",
+		"onyomi": [
+			"カイ"
+		],
+		"kunyomi": [
+			"ひのき",
+			"ひ"
+		],
+		"meanings": [
+			"Japanese cypress"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "桧皮"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひわだ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "cypress bark",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "桧皮葺"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひわだぶき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "cypress bark roof, hinoki bark thatching",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_04b2bdc3-4e40-4313-92a2-43be2d210e2a",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "会",
+				"meaning": "meeting"
+			}
+		],
+		"source": "https://jpdb.io/kanji/桧#a"
+	},
+	{
+		"kanji": "姫",
+		"strokes": "10",
+		"onyomi": [
+			"キ"
+		],
+		"kunyomi": [
+			"ひめ",
+			"ひめ-"
+		],
+		"meanings": [
+			"princess"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一姫二太郎"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いちひめにたろう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "it's good to have a girl first and then a boy",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)",
+							"Proverb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "歌姫"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うたひめ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "songstress, diva",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_170a8435-3ab7-46ad-9298-daa125427dce",
+		"components": [
+			{
+				"component": "女",
+				"meaning": "woman"
+			},
+			{
+				"component": "臣",
+				"meaning": "government minister"
+			}
+		],
+		"source": "https://jpdb.io/kanji/姫#a"
+	},
+	{
+		"kanji": "媛",
+		"strokes": "12",
+		"onyomi": [
+			"エン"
+		],
+		"kunyomi": [
+			"ひめ"
+		],
+		"meanings": [
+			"beautiful woman",
+			"princess"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "愛媛県"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えひめけん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Ehime Prefecture (Shikoku)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "才媛"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さいえん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "literary woman, talented woman",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_4918b82e-6bb7-4c29-90e5-1cab47cb9f72",
+		"mnemonic": "\"The women who live here and now are all women of noble birth, so pick whichever you want for your wife\" said one aristocrat to another.",
+		"components": [
+			{
+				"component": "女",
+				"meaning": "woman"
+			},
+			{
+				"component": "爰",
+				"meaning": "here and now"
+			}
+		],
+		"source": "https://jpdb.io/kanji/媛#a"
+	},
+	{
+		"kanji": "紐",
+		"strokes": "10",
+		"onyomi": [
+			"チュウ",
+			"ジュウ"
+		],
+		"kunyomi": [
+			"ひも"
+		],
+		"meanings": [
+			"string",
+			"cord",
+			"braid",
+			"lace",
+			"tape",
+			"strap",
+			"ribbon"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "紐育",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ニューヨーク"
+					}
+				],
+				"translations": [
+					{
+						"translation": "New York",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "下紐"
+					}
+				],
+				"readings": [
+					{
+						"reading": "したひも"
+					}
+				],
+				"translations": [
+					{
+						"translation": "undersash, belt",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_a7a43290-969a-47a0-9235-1a2c43744cda",
+		"components": [
+			{
+				"component": "糸",
+				"meaning": "thread"
+			},
+			{
+				"component": "丑",
+				"meaning": "sign of the cow"
+			}
+		],
+		"source": "https://jpdb.io/kanji/紐#a"
+	},
+	{
+		"kanji": "百",
+		"strokes": "6",
+		"nanori": [
+			"お",
+			"ど",
+			"どう",
+			"なり",
+			"ひゃっ",
+			"ひゅく",
+			"も",
+			"もんど",
+			"ゆう"
+		],
+		"onyomi": [
+			"ヒャク",
+			"ビャク"
+		],
+		"kunyomi": [
+			"もも"
+		],
+		"meanings": [
+			"hundred"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "嘘っ八百"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うそっぱっぴゃく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "full of lies",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "嘘八百"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うそはっぴゃく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pack of lies, complete fabrication, all lies",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Idiomatic expression"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::6"
+		],
+		"noteID": "kanji_4899f87f-1679-4814-8f3b-e736963174a2",
+		"components": [
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "白",
+				"meaning": "white"
+			}
+		],
+		"source": "https://jpdb.io/kanji/百#a"
+	},
+	{
+		"kanji": "謬",
+		"strokes": "18",
+		"onyomi": [
+			"ビュウ",
+			"ビョウ",
+			"ミュウ"
+		],
+		"kunyomi": [
+			"あやま.る"
+		],
+		"meanings": [
+			"mistake"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "誤謬"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ごびゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mistake, error",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "謬見"
+					}
+				],
+				"readings": [
+					{
+						"reading": "びゅうけん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fallacy",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::18"
+		],
+		"noteID": "kanji_21310d45-ea6f-44b0-b449-4b56982c5a3c",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "翏",
+				"meaning": "the sound of the wind"
+			}
+		],
+		"source": "https://jpdb.io/kanji/謬#a"
+	},
+	{
+		"kanji": "俵",
+		"strokes": "10",
+		"onyomi": [
+			"ヒョウ"
+		],
+		"kunyomi": [
+			"たわら"
+		],
+		"meanings": [
+			"bag",
+			"bale",
+			"sack",
+			"counter for bags"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一俵"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっぴょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one (straw) bagful",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "炭俵"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すみだわら"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sack for charcoal",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_4cbc2051-c5c7-4ce8-8ebf-2fcb93da6fb2",
+		"components": [
+			{
+				"component": "亻",
+				"meaning": "thin person"
+			},
+			{
+				"component": "表",
+				"meaning": "front side"
+			}
+		],
+		"source": "https://jpdb.io/kanji/俵#a"
+	},
+	{
+		"kanji": "彪",
+		"strokes": "11",
+		"nanori": [
+			"たけし",
+			"たけ",
+			"あきら",
+			"かおる",
+			"たけき",
+			"つよし",
+			"とら"
+		],
+		"onyomi": [
+			"ヒョウ",
+			"ヒュウ"
+		],
+		"kunyomi": [
+			"あや"
+		],
+		"meanings": [
+			"spotted",
+			"mottled",
+			"patterned",
+			"small tiger"
+		],
+		"tags": [
+			"has::nanori",
+			"strokes::11"
+		],
+		"noteID": "kanji_699a3614-15f4-4243-bed1-67a21e2344f1",
+		"components": [
+			{
+				"component": "彡",
+				"meaning": "a patch of hair"
+			},
+			{
+				"component": "虎",
+				"meaning": "tiger"
+			}
+		],
+		"source": "https://jpdb.io/kanji/彪#a"
+	},
+	{
+		"kanji": "標",
+		"strokes": "15",
+		"nanori": [
+			"しべ"
+		],
+		"onyomi": [
+			"ヒョウ"
+		],
+		"kunyomi": [
+			"しるべ",
+			"しるし"
+		],
+		"meanings": [
+			"signpost",
+			"seal",
+			"mark",
+			"stamp",
+			"imprint",
+			"symbol",
+			"emblem",
+			"trademark",
+			"evidence",
+			"souvenir",
+			"target"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "横座標"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おうざひょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "abscissa",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"縦座標"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "音標文字"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おんぴょうもじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "phonetic symbols",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_4498b76f-4e30-4f26-9131-3cc9bd2526c5",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "票",
+				"meaning": "vote"
+			}
+		],
+		"source": "https://jpdb.io/kanji/標#a"
+	},
+	{
+		"kanji": "氷",
+		"strokes": "5",
+		"nanori": [
+			"すい"
+		],
+		"onyomi": [
+			"ヒョウ"
+		],
+		"kunyomi": [
+			"こおり",
+			"ひ",
+			"こお.る"
+		],
+		"meanings": [
+			"icicle",
+			"ice",
+			"hail",
+			"freeze",
+			"congeal"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "碓氷峠"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うすいとうげ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Usui Pass",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "月下氷人"
+					}
+				],
+				"readings": [
+					{
+						"reading": "げっかひょうじん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "go-between, matchmaker, Cupid",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::5"
+		],
+		"noteID": "kanji_f9832ee0-8e1b-4144-b644-924ebd27348d",
+		"components": [
+			{
+				"component": "水",
+				"meaning": "water"
+			},
+			{
+				"component": "丶",
+				"meaning": "droplet"
+			}
+		],
+		"source": "https://jpdb.io/kanji/氷#a"
+	},
+	{
+		"kanji": "漂",
+		"strokes": "14",
+		"onyomi": [
+			"ヒョウ"
+		],
+		"kunyomi": [
+			"ただよ.う"
+		],
+		"meanings": [
+			"drift",
+			"float (on liquid)"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "漂う"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ただよう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to drift, to float",
+						"notes": [
+							"Godan verb with 'u' ending",
+							"Intransitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "漂着"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひょうちゃく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "drifting ashore",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Intransitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_4bd995e4-8999-4331-b71e-43f317ab2cc8",
+		"components": [
+			{
+				"component": "氵",
+				"meaning": "water drops"
+			},
+			{
+				"component": "票",
+				"meaning": "vote"
+			}
+		],
+		"source": "https://jpdb.io/kanji/漂#a"
+	},
+	{
+		"kanji": "瓢",
+		"strokes": "17",
+		"onyomi": [
+			"ヒョウ"
+		],
+		"kunyomi": [
+			"ひさご",
+			"ふくべ"
+		],
+		"meanings": [
+			"gourd"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "乾瓢"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんぴょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "strips of dried gourd",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "七星瓢虫",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ナナホシテントウ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "seven-spotted ladybug (Coccinella septempunctata), seven-spot ladybird",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::17"
+		],
+		"noteID": "kanji_32db357a-c333-4db1-b9c3-57e49fec1fea",
+		"components": [
+			{
+				"component": "票",
+				"meaning": "vote"
+			},
+			{
+				"component": "瓜",
+				"meaning": "melon"
+			}
+		],
+		"source": "https://jpdb.io/kanji/瓢#a"
+	},
+	{
+		"kanji": "票",
+		"strokes": "11",
+		"onyomi": [
+			"ヒョウ"
+		],
+		"meanings": [
+			"ballot",
+			"label",
+			"ticket",
+			"sign"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一国一票"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっこくいっぴょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one vote per nation",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一般投票"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっぱんとうひょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "referendum, popular vote, plebiscite",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_43aebea3-60e0-4ce1-8376-61a2ac68a651",
+		"components": [
+			{
+				"component": "覀",
+				"meaning": "helicopter"
+			},
+			{
+				"component": "示",
+				"meaning": "demonstrate"
+			}
+		],
+		"source": "https://jpdb.io/kanji/票#a"
+	},
+	{
+		"kanji": "表",
+		"strokes": "8",
+		"onyomi": [
+			"ヒョウ"
+		],
+		"kunyomi": [
+			"おもて",
+			"-おもて",
+			"あらわ.す",
+			"あらわ.れる",
+			"あら.わす"
+		],
+		"meanings": [
+			"surface",
+			"table",
+			"chart",
+			"diagram"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "意思表示"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いしひょうじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "expressing one's feelings, communicating one's intention",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Yojijukugo"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "意表"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いひょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "surprise, something unexpected",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_dd7a4270-fa23-44e5-aa6c-d85731c41fbc",
+		"components": [
+			{
+				"component": "龶",
+				"meaning": "king with a hat"
+			},
+			{
+				"component": "𧘇",
+				"meaning": "cape"
+			}
+		],
+		"source": "https://jpdb.io/kanji/表#a"
+	},
+	{
+		"kanji": "評",
+		"strokes": "12",
+		"onyomi": [
+			"ヒョウ"
+		],
+		"meanings": [
+			"evaluate",
+			"criticism",
+			"comment"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "悪評"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あくひょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "bad reputation, infamy, ill repute, unfavorable criticism, unfavourable criticism",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "映画評"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えいがひょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "film critique",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_190d8b73-d555-4bcc-b90f-18d0310c12d4",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "平",
+				"meaning": "flat"
+			}
+		],
+		"source": "https://jpdb.io/kanji/評#a"
+	},
+	{
+		"kanji": "豹",
+		"strokes": "10",
+		"onyomi": [
+			"ヒョウ",
+			"ホウ"
+		],
+		"meanings": [
+			"leopard",
+			"panther"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "アメリカ豹"
+					}
+				],
+				"readings": [
+					{
+						"reading": "アメリカひょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "jaguar",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "海豹",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "アザラシ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "earless seal (Phocidae), true seal, seal",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"アシカ",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_1ad1c9c3-b595-43e9-8b25-a8e919ee1c9c"
+	},
+	{
+		"kanji": "廟",
+		"strokes": "15",
+		"onyomi": [
+			"ビョウ",
+			"ミョウ"
+		],
+		"kunyomi": [
+			"たまや",
+			"みたまや",
+			"やしろ"
+		],
+		"meanings": [
+			"mausoleum",
+			"shrine",
+			"palace"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "伊勢大廟"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いせたいびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the Grand Shrines of Ise",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "古廟"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "old shrine",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_dd318da1-6418-431c-bbc6-170f4d50cc2e"
+	},
+	{
+		"kanji": "描",
+		"strokes": "11",
+		"onyomi": [
+			"ビョウ"
+		],
+		"kunyomi": [
+			"えが.く",
+			"か.く"
+		],
+		"meanings": [
+			"sketch",
+			"compose",
+			"write",
+			"draw",
+			"paint"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "絵に描いた餅"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えにかいたもち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pie in the sky, castles in the air, drawing of a rice cake",
+						"notes": [
+							"Literal meaning",
+							"Expressions (phrases, clauses, etc.)",
+							"Idiomatic expression"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "弧を描く"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こをえがく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to draw an arc (e.g. with a compass), to describe an arc (e.g. through the air), to form an arc",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)",
+							"Godan verb with 'ku' ending"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_cd7083da-c2d1-48b5-b0d3-6e2a1ca0b027",
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "苗",
+				"meaning": "seedling"
+			}
+		],
+		"source": "https://jpdb.io/kanji/描#a"
+	},
+	{
+		"kanji": "病",
+		"strokes": "10",
+		"onyomi": [
+			"ビョウ",
+			"ヘイ"
+		],
+		"kunyomi": [
+			"や.む",
+			"-や.み",
+			"やまい"
+		],
+		"meanings": [
+			"ill",
+			"sick"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "くる病"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くるびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rickets, rachitis",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Medicine"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "アルツハイマー病"
+					}
+				],
+				"readings": [
+					{
+						"reading": "アルツハイマーびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Alzheimer's disease",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Medicine"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_082021e2-96b9-49f8-a835-b34a7c9c0fa2",
+		"components": [
+			{
+				"component": "疒",
+				"meaning": "sickness"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "内",
+				"meaning": "inside"
+			}
+		],
+		"source": "https://jpdb.io/kanji/病#a"
+	},
+	{
+		"kanji": "秒",
+		"strokes": "9",
+		"onyomi": [
+			"ビョウ"
+		],
+		"meanings": [
+			"second (1/60 minute)"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一秒"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いちびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one second",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "数秒"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すうびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "a few seconds, several seconds",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_e72f9ea8-f6ed-4eb7-916b-1342e4a14ab0",
+		"mnemonic": "You know how in the ancient times they used hourglasses to measure time? Well, what do you think they put in there? Sand? What if you don't have any sand? Yes, just grab a few grain plants growing nearby, and use that to make an hourglass! Then you can watch as the grains fall through your new hourglass each second.",
+		"components": [
+			{
+				"component": "禾",
+				"meaning": "grain plant"
+			},
+			{
+				"component": "少",
+				"meaning": "few"
+			}
+		],
+		"source": "https://jpdb.io/kanji/秒#a"
+	},
+	{
+		"kanji": "苗",
+		"strokes": "8",
+		"nanori": [
+			"ねい",
+			"のら",
+			"みう",
+			"みつ"
+		],
+		"onyomi": [
+			"ビョウ",
+			"ミョウ"
+		],
+		"kunyomi": [
+			"なえ",
+			"なわ-"
+		],
+		"meanings": [
+			"seedling",
+			"sapling",
+			"shoot"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "育苗"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いくびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "raising seedlings",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "桑苗"
+					}
+				],
+				"readings": [
+					{
+						"reading": "そうびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mulberry seedling",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_95f428ec-ffb7-426d-ab7e-5401db6c372d",
+		"components": [
+			{
+				"component": "艹",
+				"meaning": "blades of grass"
+			},
+			{
+				"component": "田",
+				"meaning": "rice field"
+			}
+		],
+		"source": "https://jpdb.io/kanji/苗#a"
+	},
+	{
+		"kanji": "錨",
+		"strokes": "16",
+		"onyomi": [
+			"ビョウ",
+			"ミョウ"
+		],
+		"kunyomi": [
+			"いかり"
+		],
+		"meanings": [
+			"anchor",
+			"grapnel"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "予備錨"
+					}
+				],
+				"readings": [
+					{
+						"reading": "よびいかり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "spare anchor",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "錨"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いかり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "anchor",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::16"
+		],
+		"noteID": "kanji_eec4604e-e39e-4860-91d3-c37a587eced7"
+	},
+	{
+		"kanji": "鋲",
+		"strokes": "15",
+		"kunyomi": [
+			"びょう"
+		],
+		"meanings": [
+			"rivet",
+			"tack",
+			"thumbtack"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "画鋲"
+					}
+				],
+				"readings": [
+					{
+						"reading": "がびょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "drawing pin, thumb tack",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "鋲打ち銃"
+					}
+				],
+				"readings": [
+					{
+						"reading": "びょううちじゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "rivet gun",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"kokuji",
+			"no::onyomi",
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_5a138ccf-77aa-416e-8961-96590cabdf0e"
+	},
+	{
+		"kanji": "蒜",
+		"strokes": "13",
+		"onyomi": [
+			"サン"
+		],
+		"kunyomi": [
+			"にんにく",
+			"ひる",
+			"のびる"
+		],
+		"meanings": [
+			"garlic"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "大蒜",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "にんにく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "garlic (Allium sativum)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "野蒜"
+					}
+				],
+				"readings": [
+					{
+						"reading": "のびる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wild rocambole (Allium grayi)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::13"
+		],
+		"noteID": "kanji_df47b562-7477-41ab-8f53-4a0a18af5494",
+		"components": [
+			{
+				"component": "艹",
+				"meaning": "blades of grass"
+			},
+			{
+				"component": "示",
+				"meaning": "demonstrate"
+			},
+			{
+				"component": "示",
+				"meaning": "demonstrate"
+			}
+		],
+		"source": "https://jpdb.io/kanji/蒜#a"
+	},
+	{
+		"kanji": "蛭",
+		"strokes": "12",
+		"nanori": [
+			"えび"
+		],
+		"onyomi": [
+			"シツ",
+			"チツ"
+		],
+		"kunyomi": [
+			"ひる"
+		],
+		"meanings": [
+			"leech"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "蛭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "leech",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "肝蛭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんてつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sheep liver fluke (Fasciola hepatica)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_2bce096d-433e-4f90-b67b-523dd7b7ceef"
+	},
+	{
+		"kanji": "鰭",
+		"strokes": "21",
+		"onyomi": [
+			"キ",
+			"ギ"
+		],
+		"kunyomi": [
+			"ひれ"
+		],
+		"meanings": [
+			"fin"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "小鰭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こはだ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "mid-sized konoshiro gizzard shad (i.e. about 15 cm in size)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"鮗",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "鰭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひれ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fin (e.g. of a fish)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::21"
+		],
+		"noteID": "kanji_ad25a019-8a0f-4708-8bc7-eba8a7822093"
+	},
+	{
+		"kanji": "品",
+		"strokes": "9",
+		"onyomi": [
+			"ヒン",
+			"ホン"
+		],
+		"kunyomi": [
+			"しな"
+		],
+		"meanings": [
+			"goods",
+			"refinement",
+			"dignity",
+			"article",
+			"counter for meal courses"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "インスタント食品"
+					}
+				],
+				"readings": [
+					{
+						"reading": "インスタントしょくひん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "instant foods",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "コンシューマ向け製品"
+					}
+				],
+				"readings": [
+					{
+						"reading": "コンシューマむけせいひん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "consumer products",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_f83f19fe-16bc-4be2-8623-3c9bcf977c0f",
+		"components": [
+			{
+				"component": "口",
+				"meaning": "mouth"
+			},
+			{
+				"component": "吅",
+				"meaning": "two mouths"
+			}
+		],
+		"source": "https://jpdb.io/kanji/品#a"
+	},
+	{
+		"kanji": "彬",
+		"strokes": "11",
+		"nanori": [
+			"あきら",
+			"あき",
+			"よし"
+		],
+		"onyomi": [
+			"ヒン",
+			"フン"
+		],
+		"kunyomi": [
+			"うるわ.しい",
+			"あき.らか"
+		],
+		"meanings": [
+			"refined",
+			"gentle"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "文質彬彬"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぶんしつひんぴん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "harmony of beauty and substance, (perfect) balance of looks and character",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "彬蔚"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひんうつ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "erudite and refined, handsome",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Rare term",
+							"Archaic"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_3b566f1b-9c9b-4114-ae41-b505c2cd8f60",
+		"components": [
+			{
+				"component": "林",
+				"meaning": "a bunch of trees"
+			},
+			{
+				"component": "彡",
+				"meaning": "a patch of hair"
+			}
+		],
+		"source": "https://jpdb.io/kanji/彬#a"
+	},
+	{
+		"kanji": "斌",
+		"strokes": "12",
+		"nanori": [
+			"たけ"
+		],
+		"onyomi": [
+			"ヒン",
+			"フン"
+		],
+		"kunyomi": [
+			"うるわ.しい",
+			"あき.らか"
+		],
+		"meanings": [
+			"beautiful",
+			"harmony of appearance"
+		],
+		"tags": [
+			"has::nanori",
+			"strokes::12"
+		],
+		"noteID": "kanji_da4e2348-1a5d-41a9-bcc8-0d96512b5841",
+		"components": [
+			{
+				"component": "文",
+				"meaning": "written sentence"
+			},
+			{
+				"component": "武",
+				"meaning": "military"
+			}
+		],
+		"source": "https://jpdb.io/kanji/斌#a"
+	},
+	{
+		"kanji": "浜",
+		"strokes": "10",
+		"onyomi": [
+			"ヒン"
+		],
+		"kunyomi": [
+			"はま"
+		],
+		"meanings": [
+			"seacoast",
+			"beach",
+			"seashore"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "海浜"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かいひん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "seashore, seaside, beach",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "砂浜"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すなはま"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sandy beach",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_92a32cd4-e40e-42d3-869c-b076969dfd23",
+		"mnemonic": "This kanji depicts the famous battle at the Omaha Beach. On the left we have a bunch of water drops symbolizing the sea from which thousands of allied soldiers came onto the beach to fight the Nazis.",
+		"components": [
+			{
+				"component": "氵",
+				"meaning": "water drops"
+			},
+			{
+				"component": "兵",
+				"meaning": "soldier"
+			}
+		],
+		"source": "https://jpdb.io/kanji/浜#a"
+	},
+	{
+		"kanji": "瀕",
+		"strokes": "20",
+		"onyomi": [
+			"ヒン"
+		],
+		"kunyomi": [
+			"ほとり"
+		],
+		"meanings": [
+			"shore",
+			"brink",
+			"verge"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "瀕死"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひんし"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(on the) verge of death",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "瀕する"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひんする"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to be on the verge of, to be about to, to be on the point of",
+						"notes": [
+							"Suru verb - special class",
+							"Intransitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::20"
+		],
+		"noteID": "kanji_6650e5be-eaaf-4ff4-8cee-5430000e043f",
+		"components": [
+			{
+				"component": "氵",
+				"meaning": "water drops"
+			},
+			{
+				"component": "頻",
+				"meaning": "repeatedly"
+			}
+		],
+		"source": "https://jpdb.io/kanji/瀕#a"
+	},
+	{
+		"kanji": "貧",
+		"strokes": "11",
+		"onyomi": [
+			"ヒン",
+			"ビン"
+		],
+		"kunyomi": [
+			"まず.しい"
+		],
+		"meanings": [
+			"poverty",
+			"poor"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "器用貧乏"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きようびんぼう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "jack of all trades, master of none",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "救貧"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きゅうひん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "poor relief",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_e1d2b72c-db55-45d4-b426-b601b008f62a",
+		"components": [
+			{
+				"component": "分",
+				"meaning": "part"
+			},
+			{
+				"component": "貝",
+				"meaning": "shellfish"
+			}
+		],
+		"source": "https://jpdb.io/kanji/貧#a"
+	},
+	{
+		"kanji": "賓",
+		"strokes": "15",
+		"onyomi": [
+			"ヒン"
+		],
+		"kunyomi": [
+			"まろうど",
+			"したがう"
+		],
+		"meanings": [
+			"V.I.P.",
+			"guest"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "比律賓",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "フィリピン"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Philippines",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "佳賓"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かひん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "good guest, interesting guest",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_cf687d43-382d-4216-90e2-c9b44682022c",
+		"components": [
+			{
+				"component": "宀",
+				"meaning": "roof with a chimney"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "少",
+				"meaning": "few"
+			},
+			{
+				"component": "貝",
+				"meaning": "shellfish"
+			}
+		],
+		"source": "https://jpdb.io/kanji/賓#a"
+	},
+	{
+		"kanji": "頻",
+		"strokes": "17",
+		"onyomi": [
+			"ヒン"
+		],
+		"kunyomi": [
+			"しき.りに"
+		],
+		"meanings": [
+			"repeatedly",
+			"recur"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "頻りに"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しきりに"
+					}
+				],
+				"translations": [
+					{
+						"translation": "frequently, repeatedly, often, incessantly, constantly",
+						"notes": [
+							"Adverb (fukushi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一頻り"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひとしきり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "for a while, for some time, for a period",
+						"notes": [
+							"Adverb (fukushi)",
+							"Nouns which may take the genitive case particle 'no'",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::17"
+		],
+		"noteID": "kanji_81c35fee-0a80-4106-9485-19d2b39641e1",
+		"components": [
+			{
+				"component": "歩",
+				"meaning": "walk"
+			},
+			{
+				"component": "頁",
+				"meaning": "page"
+			}
+		],
+		"source": "https://jpdb.io/kanji/頻#a"
+	},
+	{
+		"kanji": "敏",
+		"strokes": "10",
+		"nanori": [
+			"さとし",
+			"ちょう",
+			"とし",
+			"び"
+		],
+		"onyomi": [
+			"ビン"
+		],
+		"kunyomi": [
+			"さとい"
+		],
+		"meanings": [
+			"cleverness",
+			"agile",
+			"alert"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "鋭敏"
+					}
+				],
+				"readings": [
+					{
+						"reading": "えいびん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sharp (eyes, ears, etc.), keen, acute, sensitive",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "過敏"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かびん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "nervousness, oversensitivity",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_de89b04c-9779-4ded-b34b-a21296a64983",
+		"mnemonic": "You need to be quick-witted to be able to count every folding chair in the room within only a few seconds.",
+		"components": [
+			{
+				"component": "毎",
+				"meaning": "every"
+			},
+			{
+				"component": "攵",
+				"meaning": "folding chair"
+			}
+		],
+		"source": "https://jpdb.io/kanji/敏#a"
+	},
+	{
+		"kanji": "瓶",
+		"strokes": "11",
+		"nanori": [
+			"べ",
+			"ぺ"
+		],
+		"onyomi": [
+			"ビン"
+		],
+		"kunyomi": [
+			"かめ",
+			"へい"
+		],
+		"meanings": [
+			"bottle",
+			"vial",
+			"jar",
+			"jug",
+			"vat",
+			"urn"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "ビール瓶"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ビールびん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "beer bottle",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一升瓶"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっしょうびん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "one-shō bottle (approx. 1.8 litres)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"升"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_2d1553a1-9fe3-4240-afee-db68db83c9b0",
+		"components": [
+			{
+				"component": "丷",
+				"meaning": "horns"
+			},
+			{
+				"component": "开",
+				"meaning": "oriental lantern"
+			},
+			{
+				"component": "瓦",
+				"meaning": "tile"
+			}
+		],
+		"source": "https://jpdb.io/kanji/瓶#a"
+	},
+	{
+		"kanji": "不",
+		"strokes": "4",
+		"onyomi": [
+			"フ",
+			"ブ"
+		],
+		"meanings": [
+			"negative",
+			"non-",
+			"bad",
+			"ugly",
+			"clumsy"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "意識不明"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いしきふめい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(state of) unconsciousness",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一心不乱"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっしんふらん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wholeheartedly, with heart and soul, intently, with undivided attention, with intense concentration, single-mindedly",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::4"
+		],
+		"noteID": "kanji_884ebf24-2238-4f16-aea1-0dc61a3bd85e",
+		"mnemonic": "You know how we use the height above the sea level to measure the elevation of a given piece of land, and everything below the sea level has a negative elevation? Here we have a pictograph of the sea level (the stroke at the top), and an arrow pointing to it from below.",
+		"source": "https://jpdb.io/kanji/不#a"
+	},
+	{
+		"kanji": "付",
+		"strokes": "5",
+		"nanori": [
+			"つけ"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"つ.ける",
+			"-つ.ける",
+			"-づ.ける",
+			"つ.け",
+			"つ.け-",
+			"-つ.け",
+			"-づ.け",
+			"-づけ",
+			"つ.く",
+			"-づ.く",
+			"つ.き",
+			"-つ.き",
+			"-つき",
+			"-づ.き",
+			"-づき"
+		],
+		"meanings": [
+			"adhere",
+			"attach",
+			"refer to",
+			"append"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お付き"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おつき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "retainer, attendant, escort",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お墨付き"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おすみつき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "certificate, certified document, authorization, authorisation",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"墨付き・1"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::5"
+		],
+		"noteID": "kanji_c1d35a2f-a75a-4366-9d20-dea59fc885d7",
+		"mnemonic": "A thin person who is also only a few centimeters tall (a mini dwarf!) surely can attach themselves to almost anything?",
+		"components": [
+			{
+				"component": "亻",
+				"meaning": "thin person"
+			},
+			{
+				"component": "寸",
+				"meaning": "a few centimeters"
+			}
+		],
+		"source": "https://jpdb.io/kanji/付#a"
+	},
+	{
+		"kanji": "埠",
+		"strokes": "11",
+		"onyomi": [
+			"フ",
+			"ホ"
+		],
+		"kunyomi": [
+			"つか",
+			"はとば"
+		],
+		"meanings": [
+			"wharf"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "埠頭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふとう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pier, wharf, quay, dock",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "コンテナ埠頭"
+					}
+				],
+				"readings": [
+					{
+						"reading": "コンテナふとう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "container terminal, container port",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_2d5fc941-e9c1-402b-b6a3-5d41572556eb",
+		"components": [
+			{
+				"component": "土",
+				"meaning": "earth"
+			},
+			{
+				"component": "阜",
+				"meaning": "Gifu hill"
+			}
+		],
+		"source": "https://jpdb.io/kanji/埠#a"
+	},
+	{
+		"kanji": "夫",
+		"strokes": "4",
+		"nanori": [
+			"お",
+			"と",
+			"ゆう",
+			"よ"
+		],
+		"onyomi": [
+			"フ",
+			"フウ",
+			"ブ"
+		],
+		"kunyomi": [
+			"おっと",
+			"それ"
+		],
+		"meanings": [
+			"husband",
+			"man"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "偉丈夫"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いじょうふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "great man, great god, hero, big man",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一妻多夫"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっさいたふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "polyandry",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::4"
+		],
+		"noteID": "kanji_93777a06-63c6-40c5-8d88-6f3fb0765e29",
+		"mnemonic": "A husband was traditionally regarded as the head of at least a two person family (the husband and his wife).",
+		"components": [
+			{
+				"component": "二",
+				"meaning": "two"
+			},
+			{
+				"component": "人",
+				"meaning": "person"
+			}
+		],
+		"source": "https://jpdb.io/kanji/夫#a"
+	},
+	{
+		"kanji": "婦",
+		"strokes": "11",
+		"nanori": [
+			"ね"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"よめ"
+		],
+		"meanings": [
+			"lady",
+			"woman",
+			"wife",
+			"bride"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "悪婦"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あくふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wicked woman",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "慰安婦"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いあんふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "comfort woman, prostitute who worked in military brothels, esp. one forced into sexual slavery by the Japanese military during WWII",
+						"notes": [
+							"Explanation",
+							"Noun (common) (futsuumeishi)",
+							"従軍慰安婦",
+							"Historical term",
+							"Euphemistic"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_fbd254fa-70f0-4d78-b231-445adb1bc949",
+		"mnemonic": "A housewife is a married woman that often uses a broom to clean her home.",
+		"components": [
+			{
+				"component": "女",
+				"meaning": "woman"
+			},
+			{
+				"component": "帚",
+				"meaning": "broom"
+			}
+		],
+		"source": "https://jpdb.io/kanji/婦#a"
+	},
+	{
+		"kanji": "富",
+		"strokes": "12",
+		"nanori": [
+			"と",
+			"とん",
+			"ふっ"
+		],
+		"onyomi": [
+			"フ",
+			"フウ"
+		],
+		"kunyomi": [
+			"と.む",
+			"とみ"
+		],
+		"meanings": [
+			"wealth",
+			"enrich",
+			"abundant"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "機知に富む"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きちにとむ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to be quick-witted, to be resourceful",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)",
+							"Godan verb with 'mu' ending"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "巨富"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きょふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "great riches",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_00596063-2693-48a0-b91e-f19f11d4c7f1",
+		"mnemonic": "If you have a nice roof with a chimney over your head and you are satisfied with life, well, that means you've attained more wealth than a lot of people living on this planet. In certain poor parts of the world you would be considered an extremely wealthy person due to this.",
+		"components": [
+			{
+				"component": "宀",
+				"meaning": "roof with a chimney"
+			},
+			{
+				"component": "畐",
+				"meaning": "satisfied"
+			}
+		],
+		"source": "https://jpdb.io/kanji/富#a"
+	},
+	{
+		"kanji": "冨",
+		"strokes": "11",
+		"nanori": [
+			"と"
+		],
+		"onyomi": [
+			"フ",
+			"フウ"
+		],
+		"kunyomi": [
+			"と.む",
+			"とみ"
+		],
+		"meanings": [
+			"enrich",
+			"wealthy",
+			"abundant"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "豆冨",
+						"notes": [
+							"Search-only kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "とうふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "tofu, bean curd, beancurd",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "冨有",
+						"notes": [
+							"Search-only kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふゆう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wealthy, rich, affluent",
+						"notes": [
+							"Adjectival nouns or quasi-adjectives (keiyodoshi)",
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_ede81609-a26a-45a5-a1e5-59b3eea5e66f",
+		"components": [
+			{
+				"component": "冖",
+				"meaning": "roof without a chimney"
+			},
+			{
+				"component": "畐",
+				"meaning": "satisfied"
+			}
+		],
+		"source": "https://jpdb.io/kanji/冨#a"
+	},
+	{
+		"kanji": "布",
+		"strokes": "5",
+		"nanori": [
+			"う",
+			"の",
+			"ほ"
+		],
+		"onyomi": [
+			"フ",
+			"ホ"
+		],
+		"kunyomi": [
+			"ぬの",
+			"し.く",
+			"きれ"
+		],
+		"meanings": [
+			"linen",
+			"cloth",
+			"spread",
+			"distribute"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "こたつ布団"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こたつぶとん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "quilt coverlet for a kotatsu, kotatsu quilt",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"こたつ"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "ボロ布"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぼろぬの",
+						"notes": [
+							"Reading restricted to ボロ布",
+							"Reading restricted to ぼろ布"
+						]
+					}
+				],
+				"translations": [
+					{
+						"translation": "old cloth, rag",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::5"
+		],
+		"noteID": "kanji_b4df0a19-c043-428e-8270-f4d367ca2b30",
+		"mnemonic": "The piece of fabric by your side is the cloth you're wearing.",
+		"components": [
+			{
+				"component": "𠂇",
+				"meaning": "by one's side"
+			},
+			{
+				"component": "巾",
+				"meaning": "piece of fabric"
+			}
+		],
+		"source": "https://jpdb.io/kanji/布#a"
+	},
+	{
+		"kanji": "府",
+		"strokes": "8",
+		"nanori": [
+			"い",
+			"う",
+			"お",
+			"はん"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"meanings": [
+			"borough",
+			"urban prefecture",
+			"govt office",
+			"representative body",
+			"storehouse"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "寿府",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ジュネーブ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Geneva",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "仮政府"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かりせいふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "provisional government",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::nanori",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_a049f249-e8e9-4ea8-be7c-fe490d4ebb7e",
+		"mnemonic": "Our central office is attached to that house on a cliff.",
+		"components": [
+			{
+				"component": "广",
+				"meaning": "house on a cliff"
+			},
+			{
+				"component": "付",
+				"meaning": "attach"
+			}
+		],
+		"source": "https://jpdb.io/kanji/府#a"
+	},
+	{
+		"kanji": "怖",
+		"strokes": "8",
+		"onyomi": [
+			"フ",
+			"ホ"
+		],
+		"kunyomi": [
+			"こわ.い",
+			"こわ.がる",
+			"お.じる",
+			"おそ.れる"
+		],
+		"meanings": [
+			"dreadful",
+			"be frightened",
+			"fearful"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "畏怖"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "awe, fear, dread, fright",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "恐怖"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きょうふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "fear, dread, dismay, terror, horror, scare, panic",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb",
+							"Intransitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_5f9e0da0-9453-4e7f-8a00-92ab7a8ba6d9",
+		"mnemonic": "Someone who has a weak heart (gets scared easily) will quickly hide under a piece of cloth when they see anything even remotely scary.",
+		"components": [
+			{
+				"component": "忄",
+				"meaning": "weak heart"
+			},
+			{
+				"component": "布",
+				"meaning": "cloth"
+			}
+		],
+		"source": "https://jpdb.io/kanji/怖#a"
+	},
+	{
+		"kanji": "扶",
+		"strokes": "7",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"たす.ける"
+		],
+		"meanings": [
+			"aid",
+			"help",
+			"assist"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "窒扶斯",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "チフス"
+					}
+				],
+				"translations": [
+					{
+						"translation": "typhoid, paratyphoid",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Medicine",
+							"腸チフス",
+							"パラチフス",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "家扶"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "steward",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::7"
+		],
+		"noteID": "kanji_bef06c3b-78ce-4bd7-b8ec-088cb66e3e83",
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "夫",
+				"meaning": "husband"
+			}
+		],
+		"source": "https://jpdb.io/kanji/扶#a"
+	},
+	{
+		"kanji": "敷",
+		"strokes": "15",
+		"nanori": [
+			"しき",
+			"にゅう"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"し.く",
+			"-し.き"
+		],
+		"meanings": [
+			"spread",
+			"pave",
+			"sit",
+			"promulgate"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お化け屋敷"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おばけやしき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "haunted house, spook house",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "奥座敷"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おくざしき"
+					}
+				],
+				"translations": [
+					{
+						"translation": "inner parlor, inner parlour, salon, living room",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"表座敷"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_2eb988d2-1f1b-4d1a-84b0-36a67d211f88",
+		"components": [
+			{
+				"component": "丶",
+				"meaning": "droplet"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "由",
+				"meaning": "reason"
+			},
+			{
+				"component": "方",
+				"meaning": "way"
+			},
+			{
+				"component": "攵",
+				"meaning": "folding chair"
+			}
+		],
+		"source": "https://jpdb.io/kanji/敷#a"
+	},
+	{
+		"kanji": "斧",
+		"strokes": "8",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"おの"
+		],
+		"meanings": [
+			"ax",
+			"hatchet"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "握斧"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あくふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(Paleolithic) hand axe",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Archeology"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "斧"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おの"
+					}
+				],
+				"translations": [
+					{
+						"translation": "axe, ax, hatchet",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_b212ac82-918f-4076-b3e9-f4d16bd87e98"
+	},
+	{
+		"kanji": "普",
+		"strokes": "12",
+		"nanori": [
+			"しん",
+			"ひろ"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"あまね.く",
+			"あまねし"
+		],
+		"meanings": [
+			"universal",
+			"wide(ly)",
+			"generally",
+			"Prussia"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "安普請"
+					}
+				],
+				"readings": [
+					{
+						"reading": "やすぶしん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "cheap structure (e.g. of houses)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "仮普請"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かりぶしん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "temporary building",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_a3582771-615b-46b7-a4f9-44c85240698e",
+		"mnemonic": "It's normal to have a sleeping schedule that lines up with the sun. Go to sleep when it sets, wake up when it rises!",
+		"components": [
+			{
+				"component": "並",
+				"meaning": "line up"
+			},
+			{
+				"component": "日",
+				"meaning": "sun"
+			}
+		],
+		"source": "https://jpdb.io/kanji/普#a"
+	},
+	{
+		"kanji": "浮",
+		"strokes": "10",
+		"nanori": [
+			"うき"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"う.く",
+			"う.かれる",
+			"う.かぶ",
+			"う.かべる"
+		],
+		"meanings": [
+			"floating",
+			"float",
+			"rise to surface"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "空中浮遊"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くうちゅうふゆう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "levitation, floating on air",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "空中浮揚"
+					}
+				],
+				"readings": [
+					{
+						"reading": "くうちゅうふよう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "levitation",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::10"
+		],
+		"noteID": "kanji_f01a50c2-cdb7-4fc4-baba-51b0e03ce728",
+		"mnemonic": "A child who fell into the water struggling to stay afloat while some beast is trying to claw at it from above.",
+		"components": [
+			{
+				"component": "氵",
+				"meaning": "water drops"
+			},
+			{
+				"component": "爫",
+				"meaning": "claw (radical)"
+			},
+			{
+				"component": "子",
+				"meaning": "child"
+			}
+		],
+		"source": "https://jpdb.io/kanji/浮#a"
+	},
+	{
+		"kanji": "父",
+		"strokes": "4",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"ちち"
+		],
+		"meanings": [
+			"father"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お祖父さん"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おじいさん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "grandfather",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Usu. お祖父さん when written with kanji",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お父さん"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おとうさん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "father, dad, papa, pa, pop, daddy, dada",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"父さん",
+							"Honorific or respectful (sonkeigo) language"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::4"
+		],
+		"noteID": "kanji_570dfd35-0387-4dd1-a69e-ee6c8b1eee9f",
+		"mnemonic": "Traditionally when it's time to punish a child it's usually the father who doles out the punishment. And how to better punish a child than to have him sit his short legs on bare folding chair legs? Folding chairs usually have a piece of cloth on the top on which you can sit, but if you remove that and only leave the metal legs... ouch!",
+		"components": [
+			{
+				"component": "ハ",
+				"meaning": "short legs"
+			},
+			{
+				"component": "乂",
+				"meaning": "folding chair legs"
+			}
+		],
+		"source": "https://jpdb.io/kanji/父#a"
+	},
+	{
+		"kanji": "符",
+		"strokes": "11",
+		"onyomi": [
+			"フ"
+		],
+		"meanings": [
+			"token",
+			"sign",
+			"mark",
+			"tally",
+			"charm"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "引用符"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いんようふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "quotation marks, quote marks",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "音符"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おんぷ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "musical note, note symbol",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_830e191d-ba69-435b-98ae-aae26a12b8e1",
+		"components": [
+			{
+				"component": "竹",
+				"meaning": "bamboo"
+			},
+			{
+				"component": "付",
+				"meaning": "attach"
+			}
+		],
+		"source": "https://jpdb.io/kanji/符#a"
+	},
+	{
+		"kanji": "腐",
+		"strokes": "14",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"くさ.る",
+			"-くさ.る",
+			"くさ.れる",
+			"くさ.れ",
+			"くさ.らす",
+			"くさ.す"
+		],
+		"meanings": [
+			"rot",
+			"decay",
+			"sour"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "乾燥腐朽"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんそうふきゅう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "dry rot",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "高野豆腐"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こうやどうふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "freeze-dried tofu",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::14"
+		],
+		"noteID": "kanji_7909e2d4-8186-4fd5-9fcd-124a89e36730",
+		"mnemonic": "You forgot your meat at the central office, but it's closed now so it's going to rot by the time the office opens up again.",
+		"components": [
+			{
+				"component": "府",
+				"meaning": "central office"
+			},
+			{
+				"component": "肉",
+				"meaning": "meat"
+			}
+		],
+		"source": "https://jpdb.io/kanji/腐#a"
+	},
+	{
+		"kanji": "膚",
+		"strokes": "15",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"はだ"
+		],
+		"meanings": [
+			"skin",
+			"body",
+			"grain",
+			"texture",
+			"disposition"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "完膚なきまで"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かんぷなきまで"
+					}
+				],
+				"translations": [
+					{
+						"translation": "completely, thoroughly, decisively, unsparingly, beyond recognition, until there's no untouched (undamaged) part",
+						"notes": [
+							"Expressions (phrases, clauses, etc.)",
+							"Usu. ～に"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "皮膚"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ひふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "skin",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_b6b9123d-9ec9-4b14-b296-d9c096dfc35f",
+		"components": [
+			{
+				"component": "虍",
+				"meaning": "tiger's head"
+			},
+			{
+				"component": "胃",
+				"meaning": "stomach"
+			}
+		],
+		"source": "https://jpdb.io/kanji/膚#a"
+	},
+	{
+		"kanji": "芙",
+		"strokes": "7",
+		"nanori": [
+			"はす"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"meanings": [
+			"lotus",
+			"Mt Fuji"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "芙蓉"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふよう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "cotton rose (Hibiscus mutabilis), Confederate rose, dixie rosemallow",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "芙蓉峰"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふようほう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Mount Fuji",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"富士山",
+							"Poetical term"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::nanori",
+			"has::words",
+			"strokes::7"
+		],
+		"noteID": "kanji_c165075f-2c3b-4f85-92b0-86517839b190",
+		"components": [
+			{
+				"component": "艹",
+				"meaning": "blades of grass"
+			},
+			{
+				"component": "夫",
+				"meaning": "husband"
+			}
+		],
+		"source": "https://jpdb.io/kanji/芙#a"
+	},
+	{
+		"kanji": "譜",
+		"strokes": "19",
+		"onyomi": [
+			"フ"
+		],
+		"meanings": [
+			"musical score",
+			"music",
+			"note",
+			"staff",
+			"table",
+			"genealogy"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "印譜"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いんぷ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "book of seals",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "音譜"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おんぷ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "music, notes, notation",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::19"
+		],
+		"noteID": "kanji_ea2f44c7-38a4-4016-9448-bb0431721c68",
+		"components": [
+			{
+				"component": "言",
+				"meaning": "say"
+			},
+			{
+				"component": "普",
+				"meaning": "normal"
+			}
+		],
+		"source": "https://jpdb.io/kanji/譜#a"
+	},
+	{
+		"kanji": "負",
+		"strokes": "9",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"ま.ける",
+			"ま.かす",
+			"お.う"
+		],
+		"meanings": [
+			"defeat",
+			"negative",
+			"-",
+			"minus",
+			"bear",
+			"owe",
+			"assume a responsibility"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お負けに",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "おまけに"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to make matters worse, besides, what's more, in addition, on top of that",
+						"notes": [
+							"Conjunction",
+							"Expressions (phrases, clauses, etc.)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一六勝負"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いちろくしょうぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "gambling on whether the throw of a die will produce a \"one\" or a \"six\", gambling with dice",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Yojijukugo"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_c940e7b6-6b3a-451b-a323-e21f549129df",
+		"mnemonic": "A shellfish's life is one of constant struggle. Once a fisherman hooks a shellfish with his giant hook claw, well, the shellfish has already lost.",
+		"components": [
+			{
+				"component": "𠂊",
+				"meaning": "hook claw"
+			},
+			{
+				"component": "貝",
+				"meaning": "shellfish"
+			}
+		],
+		"source": "https://jpdb.io/kanji/負#a"
+	},
+	{
+		"kanji": "賦",
+		"strokes": "15",
+		"nanori": [
+			"うた"
+		],
+		"onyomi": [
+			"フ",
+			"ブ"
+		],
+		"meanings": [
+			"levy",
+			"ode",
+			"prose",
+			"poem",
+			"tribute",
+			"installment"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "月賦"
+					}
+				],
+				"readings": [
+					{
+						"reading": "げっぷ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "monthly installment (instalment), monthly payment",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"月払い"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "天賦"
+					}
+				],
+				"readings": [
+					{
+						"reading": "てんぷ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "natural (e.g. talent), innate, inborn, inherent",
+						"notes": [
+							"Nouns which may take the genitive case particle 'no'"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::nanori",
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_80701eff-95d6-47eb-92d1-8534b16e38f3",
+		"components": [
+			{
+				"component": "貝",
+				"meaning": "shellfish"
+			},
+			{
+				"component": "武",
+				"meaning": "military"
+			}
+		],
+		"source": "https://jpdb.io/kanji/賦#a"
+	},
+	{
+		"kanji": "赴",
+		"strokes": "9",
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"おもむ.く"
+		],
+		"meanings": [
+			"proceed",
+			"get",
+			"become",
+			"tend"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "単身赴任"
+					}
+				],
+				"readings": [
+					{
+						"reading": "たんしんふにん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(intra-company) job transfer away from one's family, unaccompanied posting",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Intransitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "赴く"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おもむく"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to go in the direction of, to proceed toward, to proceed according to, to repair to, to betake oneself to",
+						"notes": [
+							"Godan verb with 'ku' ending",
+							"Intransitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_2d24575f-f8a2-4377-9162-08a42ff9c5c6",
+		"components": [
+			{
+				"component": "卜",
+				"meaning": "crooked divining rod"
+			},
+			{
+				"component": "走",
+				"meaning": "run"
+			}
+		],
+		"source": "https://jpdb.io/kanji/赴#a"
+	},
+	{
+		"kanji": "阜",
+		"strokes": "8",
+		"nanori": [
+			"おか"
+		],
+		"onyomi": [
+			"フ",
+			"フウ"
+		],
+		"meanings": [
+			"hill",
+			"mound",
+			"left village radical (no. 170)"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "岐阜県"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぎふけん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Gifu Prefecture (Chūbu area)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "岐阜"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぎふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Gifu (city, prefecture)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::nanori",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_dd619ec7-62ec-4fd9-8e4c-336882fe20e1"
+	},
+	{
+		"kanji": "附",
+		"strokes": "8",
+		"nanori": [
+			"ずき",
+			"づけ"
+		],
+		"onyomi": [
+			"フ"
+		],
+		"kunyomi": [
+			"つ.ける",
+			"つ.く"
+		],
+		"meanings": [
+			"affixed",
+			"attach",
+			"refer to",
+			"append"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "交附"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こうふ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "delivery, grant, handing (a ticket) to (a person)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "附属学校"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふぞくがっこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "affiliated school, school attached to a university",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_eba1d3ad-076d-4a03-9f82-6bc42da25259",
+		"components": [
+			{
+				"component": "阝",
+				"meaning": "small village"
+			},
+			{
+				"component": "付",
+				"meaning": "attach"
+			}
+		],
+		"source": "https://jpdb.io/kanji/附#a"
+	},
+	{
+		"kanji": "侮",
+		"strokes": "8",
+		"onyomi": [
+			"ブ"
+		],
+		"kunyomi": [
+			"あなど.る",
+			"あなず.る"
+		],
+		"meanings": [
+			"scorn",
+			"despise",
+			"make light of",
+			"contempt"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "軽侮"
+					}
+				],
+				"readings": [
+					{
+						"reading": "けいぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "contempt, scorn",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "侮"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "(something) despised, (something) made light of",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_1b376b45-4ead-4703-b0a2-7e1c6768a1cf",
+		"components": [
+			{
+				"component": "亻",
+				"meaning": "thin person"
+			},
+			{
+				"component": "毎",
+				"meaning": "every"
+			}
+		],
+		"source": "https://jpdb.io/kanji/侮#a"
+	},
+	{
+		"kanji": "撫",
+		"strokes": "15",
+		"nanori": [
+			"なで",
+			"なでし",
+			"む"
+		],
+		"onyomi": [
+			"ブ",
+			"フ"
+		],
+		"kunyomi": [
+			"な.でる"
+		],
+		"meanings": [
+			"stroke",
+			"pat",
+			"smooth down"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "愛撫"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あいぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "caressing, fondling, (sexual) petting",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "慰撫"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pacification, soothing",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_a635e952-33af-402f-bd03-7fce535077d7",
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "無",
+				"meaning": "nothing"
+			}
+		],
+		"source": "https://jpdb.io/kanji/撫#a"
+	},
+	{
+		"kanji": "武",
+		"strokes": "8",
+		"nanori": [
+			"う",
+			"お",
+			"たけし",
+			"たけん",
+			"ん"
+		],
+		"onyomi": [
+			"ブ",
+			"ム"
+		],
+		"kunyomi": [
+			"たけ",
+			"たけ.し"
+		],
+		"meanings": [
+			"warrior",
+			"military",
+			"chivalry",
+			"arms"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "寒武利亜",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "カンブリア"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Cambria (old name for Wales)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone",
+							"Historical term"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "威武"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "authority and force",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::8"
+		],
+		"noteID": "kanji_1c980716-e130-4d5c-ac12-8effec5510b4",
+		"mnemonic": "How do you know someone's a military person? They won't hesitate to shoot you with a bow to put one arrow in your knee to stop you.",
+		"components": [
+			{
+				"component": "弋",
+				"meaning": "shoot with a bow"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "止",
+				"meaning": "stop"
+			}
+		],
+		"source": "https://jpdb.io/kanji/武#a"
+	},
+	{
+		"kanji": "舞",
+		"strokes": "15",
+		"onyomi": [
+			"ブ"
+		],
+		"kunyomi": [
+			"ま.う",
+			"-ま.う",
+			"まい"
+		],
+		"meanings": [
+			"dance",
+			"flit",
+			"circle",
+			"wheel"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お見舞い"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おみまい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "calling on someone who is ill, enquiry, inquiry",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"見舞い"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "お仕舞い",
+						"notes": [
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "おしまい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "the end, closing, being done for",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"仕舞い・1",
+							"Word usually written using kana alone",
+							"Polite (teineigo) language"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_3fbcf0ba-e6d9-4bfa-b814-8fba5f3cb7bf",
+		"components": [
+			{
+				"component": "𠂉",
+				"meaning": "cow head"
+			},
+			{
+				"component": "卌",
+				"meaning": "fourty"
+			},
+			{
+				"component": "一",
+				"meaning": "one"
+			},
+			{
+				"component": "舛",
+				"meaning": "dancing legs"
+			}
+		],
+		"source": "https://jpdb.io/kanji/舞#a"
+	},
+	{
+		"kanji": "葡",
+		"strokes": "12",
+		"onyomi": [
+			"ブ",
+			"ホ"
+		],
+		"meanings": [
+			"wild grape",
+			"Portugal"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "葡萄牙",
+						"notes": [
+							"Ateji (phonetic) reading",
+							"Rarely used kanji form"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "ポルトガル"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Portugal",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "葡萄"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぶどう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "grape, grapevine",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::12"
+		],
+		"noteID": "kanji_cf95c017-9dd9-4e22-ba24-7cf4ecaf4af9",
+		"components": [
+			{
+				"component": "艹",
+				"meaning": "blades of grass"
+			},
+			{
+				"component": "匍",
+				"meaning": "creep"
+			}
+		],
+		"source": "https://jpdb.io/kanji/葡#a"
+	},
+	{
+		"kanji": "蕪",
+		"strokes": "15",
+		"onyomi": [
+			"ブ",
+			"ム"
+		],
+		"kunyomi": [
+			"かぶ",
+			"かぶら",
+			"あれる"
+		],
+		"meanings": [
+			"turnip"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "蕪"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "turnip (Brassica rapa)",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "荒蕪地"
+					}
+				],
+				"readings": [
+					{
+						"reading": "こうぶち"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wild land, wasteland, wilderness",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::15"
+		],
+		"noteID": "kanji_ecaee69b-621b-4f9d-9c2d-dc916eea7066"
+	},
+	{
+		"kanji": "部",
+		"strokes": "11",
+		"nanori": [
+			"とり",
+			"ふ",
+			"ぺ",
+			"ま"
+		],
+		"onyomi": [
+			"ブ"
+		],
+		"kunyomi": [
+			"-べ"
+		],
+		"meanings": [
+			"section",
+			"bureau",
+			"dept",
+			"class",
+			"copy",
+			"part",
+			"portion",
+			"counter for copies of a newspaper or magazine"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "カントリー倶楽部",
+						"notes": [
+							"Ateji (phonetic) reading"
+						]
+					}
+				],
+				"readings": [
+					{
+						"reading": "カントリークラブ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "country club",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "ゴルフ倶楽部"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ゴルフクラブ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "golf club (used to hit the ball)",
+						"notes": [
+							"Meaning restricted to ゴルフクラブ",
+							"Noun (common) (futsuumeishi)",
+							"Sports",
+							"Word usually written using kana alone"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::nanori",
+			"has::words",
+			"strokes::11"
+		],
+		"noteID": "kanji_9840ed9b-6a17-413c-bd09-6a5368b506ce",
+		"mnemonic": "Every time there is something controversial happening, say, a construction of a new nuclear plant, or a garbage dump, or anything like that, you'll always find that a certain section of the community at least as big as a small village will spit in refusal right into the face of whoever is in charge of that project. Go away! We don't want your stinky garbage dump here!",
+		"components": [
+			{
+				"component": "咅",
+				"meaning": "spit in refusal"
+			},
+			{
+				"component": "阝",
+				"meaning": "small village"
+			}
+		],
+		"source": "https://jpdb.io/kanji/部#a"
+	},
+	{
+		"kanji": "封",
+		"strokes": "9",
+		"onyomi": [
+			"フウ",
+			"ホウ"
+		],
+		"meanings": [
+			"seal",
+			"closing"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "一封"
+					}
+				],
+				"readings": [
+					{
+						"reading": "いっぷう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sealed letter, sealed document, enclosure",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "開封"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かいふう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "opening (a letter, parcel, etc.), breaking the seal",
+						"notes": [
+							"Noun (common) (futsuumeishi)",
+							"Noun or participle which takes the aux. verb suru",
+							"Transitive verb"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"no::kunyomi",
+			"has::words",
+			"strokes::9"
+		],
+		"noteID": "kanji_295931ee-08a7-457e-9589-c2bb4ab6824b",
+		"components": [
+			{
+				"component": "圭",
+				"meaning": "square jewel"
+			},
+			{
+				"component": "寸",
+				"meaning": "a few centimeters"
+			}
+		],
+		"source": "https://jpdb.io/kanji/封#a"
+	},
+	{
+		"kanji": "楓",
+		"strokes": "13",
+		"onyomi": [
+			"フウ"
+		],
+		"kunyomi": [
+			"かえで"
+		],
+		"meanings": [
+			"maple"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "松楓"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しょうふう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "maple",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "楓子香"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふうしこう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "galbanum (gum resin from fennel)",
+						"notes": [
+							"Noun (common) (futsuumeishi)"
+						]
+					}
+				]
+			}
+		],
+		"tags": [
+			"has::words",
+			"strokes::13"
+		],
+		"noteID": "kanji_18332d48-4c11-4937-b7b1-5bb827d9e40e",
+		"components": [
+			{
+				"component": "木",
+				"meaning": "tree"
+			},
+			{
+				"component": "風",
+				"meaning": "wind"
+			}
+		],
+		"source": "https://jpdb.io/kanji/楓#a"
+	}
+]

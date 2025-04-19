@@ -40,6 +40,12 @@ h3 {
     font-size: 1.1em;
 }
 
+.kanji-readings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .kanji-onyomi {
     background-color: #fff8e1;
     color: #bf360c;
@@ -53,6 +59,16 @@ h3 {
 .kanji-kunyomi {
     background-color: #ede7f6;
     color: #4a148c;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+    display: inline-block;
+    font-size: 1.3em;
+}
+
+.kanji-nanori {
+    background-color: #fff3e0;
+    color: #e65100;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px;
@@ -115,19 +131,27 @@ h3 {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.kanji-noteid {
-    display: inline-block;
-    font-size: 0.85em;
+.kanji-source {
+    display: block;
+    background-color: #e0f7fa;
+    color: #006064;
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-size: 0.9em;
+    line-height: 1.4;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.kanji-source a {
+    color: inherit;
+    text-decoration: none;
     font-weight: bold;
-    color: #616161;
-    background-color: #f5f5f5;
-    padding: 3px 8px;
-    border-radius: 4px;
-    border: 1px solid #d1d1d1;
-    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
-    margin-top: 10px;
-    text-align: center;
-    user-select: all;
+}
+
+.kanji-source a:hover {
+    text-decoration: underline;
+    color: #004d40;
 }
 
 .entry {

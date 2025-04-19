@@ -14,6 +14,14 @@ The generated speech is subject to **Amazon Polly’s Service Terms**: [https://
 
 By using the audio from this project, you agree to comply with the above terms.
 
+## Usage of jpdb.io content
+This project includes data inspired by or sourced from jpdb.io. All such content remains the intellectual property of jpdb.io.
+
+### No content from jpdb.io is redistributed for commercial purposes.
+This project is non-commercial and intended solely for educational and personal learning purposes.
+
+If you are a representative of jpdb.io and have any concerns or requests regarding content usage, please contact me and I will respond promptly and make any necessary changes.
+
 ---
 
 ## Summary of Usage Rights
@@ -22,5 +30,6 @@ By using the audio from this project, you agree to comply with the above terms.
    - Use the same license (CC BY-SA 4.0) for derivative works
 2. For Noto Sans Japanese font, you must keep and abide by the same license (SIL Open Font License Version 1.1)
 3. For Amazon Polly-generated audio, you must adhere to the AWS terms.
+4. For jpdb.io content, you must adhere to the jpdb.io ToS.
 
 This project is **not affiliated with or endorsed by Amazon Web Services (AWS)**.

@@ -4,6 +4,23 @@
 
 ---
 
+## **Guide**
+
+### Start with the **Kana** subdeck (if you have not learned kana yet)
+- Learn the normal *Hiragana* and *Katakana*
+- Get the gist of the extended kana. There is no need to memorize them, just get used to how kana sounds combined with other kana
+
+### Move on to the **JLPT** subdeck
+- Go through each JLPT N5-N1 subdeck (vocab and kanji) one by one
+
+### Learn **Grammar**
+- As with the JLPT subdeck, go over each subdeck one at a time
+- Pair JLPT vocab with grammar for efficiency
+
+### The other subdecks
+- Use all the *"reference material"* subdecks for a quick search when you need to look up radicals, kana, kanji etc.
+- As for the *"ready-made mined material"* subdecks, all cards are suspended by default. Over time, unsuspend and learn the ones you find useful.
+
 ## **Deck Contents**  
 
 ### **Kana** (reference material)
@@ -20,12 +37,12 @@
 ### **Kanji Radicals** (reference material)
 - **261 common radicals**, foundational for kanji recognition.
 
-### **Complete CJK Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **9,359 kanji** used in Japanese, sourced from the **[CJK Unified Ideographs](https://en.wikipedia.org/wiki/CJK_Unified_Ideographs)** and its extensions.
-- **26,300 vocabulary words**, each linked to relevant kanji.
-
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **4,671 common words** written entirely in kana, without kanji.
+- **41,872 common words** written entirely in kana.
+
+### **Complete Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
+- **10,106 kanji**, sourced from the **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**
+- **199,232 vocabulary words**, each linked to relevant kanji.
 
 ---
 
@@ -35,14 +52,15 @@ This deck is compiled from and inspired by multiple projects:
 
 - **[Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)** *([SIL Open Font License Version 1.1](https://openfontlicense.org/open-font-license-official-text/))*
 - **[JMDICT](https://www.edrdg.org/jmdict/j_jmdict.html)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))*
-- **[EDICT](https://www.edrdg.org/jmdict/edict.html)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))*
 - **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))*
-- **[Tatoeba](https://tatoeba.org/en/)** *([CC-BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/))* 
 - **[Tanaka Corpus](https://www.edrdg.org/wiki/index.php/Tanaka_Corpus)** *([CC-BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/))*
 - **[JGram](https://jgram.org)** *([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))*
 - **[KanjiVG](https://kanjivg.tagaini.net/)** *([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))*
 - **[jpdb](https://jpdb.io/)** *([ToS](https://jpdb.io/terms-of-use))*
 - **[Takoboto](https://takoboto.jp/)**
+
+## **jpdb.io notice**
+This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jpdb.io/). If my usage of your content violates your policies or you want your content removed from this deck, please feel free to contact me.
 
 ## **Audio Generation**  
 This deck contains **audio files generated using [Amazon Polly](https://aws.amazon.com/polly/)**, a Text-to-Speech (TTS) service provided by Amazon Web Services (AWS).
@@ -77,7 +95,3 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
 This deck is an independent project and **is not affiliated with Amazon Web Services (AWS) or any contributing databases.**
 
 Please read the [license](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/LICENSE.md) for more details.
-
----
-
-## [X](https://x.com/ronokof) | [Discord Server](https://discord.gg/WEqZcfmj9k)

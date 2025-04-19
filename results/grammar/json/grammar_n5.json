@@ -11,42 +11,33 @@
 		"phrases": [
 			{
 				"phrase": "突然ですがボードゲーム告知をてっきり忘れてました。",
-				"translations": [
-					"This is out of nowhere [a sudden change of subject] but I completely forgot about the BoardGame notice."
-				]
+				"translation": "This is out of nowhere [a sudden change of subject] but I completely forgot about the BoardGame notice."
 			},
 			{
 				"phrase": "悪いですがちょっと静かにしてください。",
-				"translations": [
-					"Sorry [Bad of me] but could you keep it a little quieter?"
-				]
+				"translation": "Sorry [Bad of me] but could you keep it a little quieter?"
 			},
 			{
 				"phrase": "冷静になろうとしたのだが、ついかっとなった。",
-				"translations": [
-					"I tried to be calm but finally I lost my temper."
-				]
+				"translation": "I tried to be calm but finally I lost my temper."
 			},
 			{
 				"phrase": "料理はあまりおいしくなかったが、その他の点では、そのパーティーは成功だった。",
-				"translations": [
-					"The dishes were not so delicious, but otherwise the party was a success."
-				]
+				"translation": "The dishes were not so delicious, but otherwise the party was a success."
 			},
 			{
 				"phrase": "立ち聞きする気はなかったが、あなたの話しが聞こえた。",
-				"translations": [
-					"I didn't mean to eavesdrop, but I did overhear you."
-				]
+				"translation": "I didn't mean to eavesdrop, but I did overhear you."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/725",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "725",
-		"noteID": "grammar_8280370b-91d7-4f6f-a9bb-53d822502ce4"
+		"noteID": "grammar_b2e5ce5e-fcb7-46a6-915b-81e37190354f"
 	},
 	{
 		"point": "〜に",
@@ -60,42 +51,33 @@
 		"phrases": [
 			{
 				"phrase": "その車のなかに犬 が います 。",
-				"translations": [
-					"There is a dog in  that car."
-				]
+				"translation": "There is a dog in  that car."
 			},
 			{
 				"phrase": "１０時に約束があります。",
-				"translations": [
-					"I have an appointment at ten."
-				]
+				"translation": "I have an appointment at ten."
 			},
 			{
 				"phrase": "きっかり９時に来なさい。",
-				"translations": [
-					"Come at nine o'clock sharp."
-				]
+				"translation": "Come at nine o'clock sharp."
 			},
 			{
 				"phrase": "１０人の学生が同時に立ち上がった。",
-				"translations": [
-					"Ten students stood up all at  once."
-				]
+				"translation": "Ten students stood up all at  once."
 			},
 			{
 				"phrase": "２時に空港に見送りに行きます。",
-				"translations": [
-					"I'm going to  see her off at  the airport at  2:00."
-				]
+				"translation": "I'm going to  see her off at  the airport at  2:00."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/626",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "626",
-		"noteID": "grammar_15b0d6cc-6d8f-4ac7-933f-6fe6b40eb6e5"
+		"noteID": "grammar_1a5808f8-0540-419d-9086-7e8390f5c081"
 	},
 	{
 		"point": "いくら (幾等)",
@@ -106,41 +88,32 @@
 		"phrases": [
 			{
 				"phrase": "葉書は幾らですか。",
-				"translations": [
-					"How much for a postcard?"
-				]
+				"translation": "How much for a postcard?"
 			},
 			{
-				"phrase": "「それはいくらかかりましたか。」「1,000円かかりました。」",
-				"translations": [
-					"\"How much did it cost?\" \"It cost me a thousand yen.\""
-				]
+				"phrase": "「それはいくらかかりましたか。」「１０００円かかりました。」",
+				"translation": "\"How much  did it cost?\" \"It cost me a thousand yen.\""
 			},
 			{
 				"phrase": "いくらお金をもってますか。",
-				"translations": [
-					"How much money do you have with you?"
-				]
+				"translation": "How much money do you have with you?"
 			},
 			{
 				"phrase": "それがいくらするのか前もって彼に聞いたほうがよい。",
-				"translations": [
-					"You had better ask him in advance how much it will cost."
-				]
+				"translation": "You had better ask him in advance how much it will cost."
 			},
 			{
 				"phrase": "このＴシャツの値段はいくらですか。",
-				"translations": [
-					"How much is this T-shirt?"
-				]
+				"translation": "How much is this T-shirt?"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/623",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "623",
-		"noteID": "grammar_c3e16c21-b97c-4677-ae9a-70520ed555e6"
+		"noteID": "grammar_a0758964-ef3b-45df-b989-dbf64f1b9138"
 	},
 	{
 		"point": "〜で",
@@ -151,41 +124,32 @@
 		"phrases": [
 			{
 				"phrase": "車で来ました。",
-				"translations": [
-					"(I) came by car."
-				]
+				"translation": "(I) came by car."
 			},
 			{
 				"phrase": "ひとりで行きますか。",
-				"translations": [
-					"Are you going by youself?"
-				]
+				"translation": "Are you going by youself?"
 			},
 			{
 				"phrase": "ペンで書く。",
-				"translations": [
-					"I write with a pen."
-				]
+				"translation": "I write with a pen."
 			},
 			{
 				"phrase": "町角で",
-				"translations": [
-					"At the corner of the street"
-				]
+				"translation": "At the corner of the street"
 			},
 			{
 				"phrase": "食料品店でそれを買いました。",
-				"translations": [
-					"I bought it at the grocer's shop."
-				]
+				"translation": "I bought it at the grocer's shop."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/624",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "624",
-		"noteID": "grammar_bbbee7bb-9649-41b7-b1be-3bd6fc0de128"
+		"noteID": "grammar_edd73ddc-5376-4878-bc63-b447228cc81d"
 	},
 	{
 		"point": "〜が",
@@ -199,42 +163,33 @@
 		"phrases": [
 			{
 				"phrase": "バスが来るよ。",
-				"translations": [
-					"The bus + is coming!"
-				]
+				"translation": "The bus + is coming!"
 			},
 			{
 				"phrase": "台所にテレビがあります 。",
-				"translations": [
-					"There is a television + in the kitchen."
-				]
+				"translation": "There is a television + in the kitchen."
 			},
 			{
 				"phrase": "ここだと２万円前後のテレビが買える。",
-				"translations": [
-					"If it's here then you can buy a television for 20,000 yen - more or less."
-				]
+				"translation": "If it's here then you can buy a television for 20,000 yen - more or less."
 			},
 			{
 				"phrase": "この店ではほかでは売っていない特別仕様のＣＧ機能を持つＰＣを買うことができる。",
-				"translations": [
-					"At this shop, you can buy PCs with special CG functionality that is not offered by others."
-				]
+				"translation": "At this shop, you can buy PCs with special CG functionality that is not offered by others."
 			},
 			{
 				"phrase": "日本語ができます。",
-				"translations": [
-					"(I) can speak japanese Literal: Japanese is doable (to me is implied)"
-				]
+				"translation": "(I) can speak japanese Literal: Japanese is doable (to me is implied)"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/754",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "754",
-		"noteID": "grammar_8cf60b40-2d7d-4b49-a3bf-9a42779b112d"
+		"noteID": "grammar_46c52303-19f6-461a-8546-37b1e065861d"
 	},
 	{
 		"point": "何",
@@ -250,41 +205,32 @@
 		"phrases": [
 			{
 				"phrase": "何にしますか。",
-				"translations": [
-					"What will you have?"
-				]
+				"translation": "What will you have?"
 			},
 			{
 				"phrase": "何の用ですか。",
-				"translations": [
-					"What is your business (here / with me) ?"
-				]
+				"translation": "What is your business (here / with me) ?"
 			},
 			{
 				"phrase": "この花は英語で何（なん）と言いますか。",
-				"translations": [
-					"What do you call this flower in English?"
-				]
+				"translation": "What do you call this flower in English?"
 			},
 			{
 				"phrase": "この箱の中に何がありますか。",
-				"translations": [
-					"What  is in this box?"
-				]
+				"translation": "What  is in this box?"
 			},
 			{
 				"phrase": "あなたの好きな食べ物は何ですか。",
-				"translations": [
-					"What is your favourite food?"
-				]
+				"translation": "What is your favourite food?"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/629",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "629",
-		"noteID": "grammar_e5cc9f8b-e980-49d5-817d-f5f7de5e8850"
+		"noteID": "grammar_fb8affc6-ee93-4064-a801-7e1e2c70703d"
 	},
 	{
 		"point": "まで",
@@ -295,41 +241,32 @@
 		"phrases": [
 			{
 				"phrase": "人間は食べ物がなくても４０日まで生きられるが、水がないと７日間しか生きられない。",
-				"translations": [
-					"Human beings can live up to 40 days without food, but no more than 7 without water."
-				]
+				"translation": "Human beings can live up to 40 days without food, but no more than 7 without water."
 			},
 			{
-				"phrase": "私は東京から九州まで飛行機で行った。",
-				"translations": [
-					"I took an airplane from Tokyo to Kyushu."
-				]
+				"phrase": "私は東京から九州まで飛行機で行きました。",
+				"translation": "I took an airplane from Tokyo to  Kyushu."
 			},
 			{
 				"phrase": "おまけに雨まで降っていた。",
-				"translations": [
-					"To top things off it was even raining."
-				]
+				"translation": "To top things off it was even raining."
 			},
 			{
 				"phrase": "私は昼までに手紙を書き終えた。",
-				"translations": [
-					"I finished writing the letter by noon."
-				]
+				"translation": "I finished writing the letter by noon."
 			},
 			{
 				"phrase": "１０時まで起きてた。",
-				"translations": [
-					"I stayed up till 10pm."
-				]
+				"translation": "I stayed up till 10pm."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/719",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "719",
-		"noteID": "grammar_ac81a6db-9cc6-4a19-af18-c492f5146806"
+		"noteID": "grammar_32a7ba8c-6c51-46df-bac9-e410288b658c"
 	},
 	{
 		"point": "〜を",
@@ -343,42 +280,33 @@
 		"phrases": [
 			{
 				"phrase": "新しいカメラを買った。「あたらしいカメラをかった」",
-				"translations": [
-					"I bought + a new camera."
-				]
+				"translation": "I bought + a new camera."
 			},
 			{
 				"phrase": "それをください。",
-				"translations": [
-					"That + please."
-				]
+				"translation": "That + please."
 			},
 			{
 				"phrase": "私はチキンをもらいます。",
-				"translations": [
-					"I'll have + chicken."
-				]
+				"translation": "I'll have + chicken."
 			},
 			{
 				"phrase": "彼は「イマジン」を歌いました。",
-				"translations": [
-					"He sang + \"Imagine\"."
-				]
+				"translation": "He sang + \"Imagine\"."
 			},
 			{
 				"phrase": "仕事を探している。",
-				"translations": [
-					"I'm looking for + a job."
-				]
+				"translation": "I'm looking for + a job."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/765",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "765",
-		"noteID": "grammar_300d8134-ac1a-4358-8d54-28d8270b238d"
+		"noteID": "grammar_82549fd0-ab79-487b-86b8-b7294b2060d8"
 	},
 	{
 		"point": "〜も",
@@ -389,41 +317,32 @@
 		"phrases": [
 			{
 				"phrase": "これも私のです。",
-				"translations": [
-					"This is also mine."
-				]
+				"translation": "This is also mine."
 			},
 			{
 				"phrase": "あなたもジャズが好きですか？",
-				"translations": [
-					"Do you also like jazz?"
-				]
+				"translation": "Do you also like jazz?"
 			},
 			{
 				"phrase": "あなたも私たちと一緒にいらっしゃいませんか。",
-				"translations": [
-					"Wouldn't you like to come with us, too?"
-				]
+				"translation": "Wouldn't you like to come with us, too?"
 			},
 			{
 				"phrase": "お客様もオレンジジュースになさいますか。",
-				"translations": [
-					"What about you? Will you have orange juice, too?"
-				]
+				"translation": "What about you? Will you have orange juice, too?"
 			},
 			{
 				"phrase": "あの小さいのもわたしのです。",
-				"translations": [
-					"That small one is also mine."
-				]
+				"translation": "That small one is also mine."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/576",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "576",
-		"noteID": "grammar_bc4cc7be-63e5-4b15-bb60-290df43fa743"
+		"noteID": "grammar_540c6478-9e39-44c7-96ee-6da7f130e374"
 	},
 	{
 		"point": "てから",
@@ -440,42 +359,69 @@
 		"phrases": [
 			{
 				"phrase": "以下のプルダウンメニューから、言語およびプラットフォームご利用いただけるバージョンが表示されます。",
-				"translations": [
-					"From the pull down menu below language and the platform it is to be used on are displayed."
-				]
+				"translation": "From the pull down menu below language and the platform it is to be used on are displayed."
 			},
 			{
 				"phrase": "先週の木曜日からずっと雨が降っている。",
-				"translations": [
-					"It has been raining since last Thursday."
-				]
+				"translation": "It has been raining since last Thursday."
 			},
 			{
 				"phrase": "それをここから持って行け！",
-				"translations": [
-					"Get them out of here!"
-				]
+				"translation": "Get them out of here!"
 			},
 			{
 				"phrase": "「オーストラリアからですか」とフィリピン人はたずねました。",
-				"translations": [
-					"\"Are you from Australia?\" asked the Filipino."
-				]
+				"translation": "\"Are you from Australia?\" asked the Filipino."
 			},
 			{
 				"phrase": "「結婚してからも私働いて高?ﾈいわよ」と彼女は言った。",
-				"translations": [
-					"\"I don't mind if I keep working after we're married\", she said."
-				]
+				"translation": "\"I don't mind if I keep working after we're married\", she said."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/1269",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "1269",
-		"noteID": "grammar_c61bbb0f-2fae-4d2f-860a-675a8e307c8b"
+		"noteID": "grammar_9b03f774-cb95-4664-9ccf-10e360d92703"
+	},
+	{
+		"point": "〜に",
+		"meaning": {
+			"meaning": "to, from (indirect object marker)",
+			"example": "I was given this by my mother."
+		},
+		"phrases": [
+			{
+				"phrase": "これは母に貰いました。",
+				"translation": "I got this from my mother."
+			},
+			{
+				"phrase": "そこに着いたら私に教えてください。",
+				"translation": "Please let me know  when we get there."
+			},
+			{
+				"phrase": "私はともだちに電話をします。",
+				"translation": "I will call a friend."
+			},
+			{
+				"phrase": "私はあなたにりんごをあげる。",
+				"translation": "I will give an apple to you."
+			},
+			{
+				"phrase": "彼は先生にしかられた。",
+				"translation": "He got scolded by the teacher."
+			}
+		],
+		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/659",
+		"tags": [
+			"grammar::N5"
+		],
+		"id": "659",
+		"noteID": "grammar_c9a3d102-4d44-4759-9b01-0b6809278af7"
 	},
 	{
 		"point": "〜の",
@@ -489,42 +435,33 @@
 		"phrases": [
 			{
 				"phrase": "フレッド君の車はどこにありますか。",
-				"translations": [
-					"Where is Fred 's car?"
-				]
+				"translation": "Where is Fred 's car?"
 			},
 			{
 				"phrase": "フレッド君のですか。",
-				"translations": [
-					"(Is this) Fred 's ?"
-				]
+				"translation": "(Is this) Fred 's ?"
 			},
 			{
 				"phrase": "「これは誰のペン？」「私の。」「kore wa dare no pen?」「watashi no。」",
-				"translations": [
-					"\"Whose  pen is this?\" \"Mine.\""
-				]
+				"translation": "\"Whose  pen is this?\" \"Mine.\""
 			},
 			{
 				"phrase": "リリーの靴はどこにあるか知りません。",
-				"translations": [
-					"I don't know where Lilly's shoes are."
-				]
+				"translation": "I don't know where Lilly's shoes are."
 			},
 			{
 				"phrase": "お前のせいだぞ！",
-				"translations": [
-					"It's your  freaking fault!"
-				]
+				"translation": "It's your  freaking fault!"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/574",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "574",
-		"noteID": "grammar_0ec8e01e-3c47-46e1-a2b4-dc4cbb12f1d3"
+		"noteID": "grammar_d2cec798-f1f7-42fd-8c38-1d87b7d27a15"
 	},
 	{
 		"point": "から",
@@ -537,42 +474,33 @@
 		"phrases": [
 			{
 				"phrase": "面接に行くからはげましてください",
-				"translations": [
-					"I'm going to an interview so please encourage me."
-				]
+				"translation": "I'm going to an interview so please encourage me."
 			},
 			{
 				"phrase": "必要から発明が生まれる。",
-				"translations": [
-					"Inventions are made as dictated by necessity."
-				]
+				"translation": "Inventions are made as dictated by necessity."
 			},
 			{
 				"phrase": "あの日帰ったのは体調が悪かったからです。",
-				"translations": [
-					"It is because the physical condition was bad that I returned that day."
-				]
+				"translation": "It is because the physical condition was bad that I returned that day."
 			},
 			{
 				"phrase": "ああ、ゆっくりやって下さい。急ぎませんから。",
-				"translations": [
-					"Oh, take your time. (Because) I'm in no hurry."
-				]
+				"translation": "Oh, take your time. (Because) I'm in no hurry."
 			},
 			{
 				"phrase": "昨夜病気だから、眠れなかった。",
-				"translations": [
-					"Because I was sick, I couldn't sleep last night."
-				]
+				"translation": "Because I was sick, I couldn't sleep last night."
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/1216",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "1216",
-		"noteID": "grammar_d579a557-6be0-43f2-9832-fc2d5b75026d"
+		"noteID": "grammar_0a794974-13d4-4dea-82df-aa1f18c653c0"
 	},
 	{
 		"point": "〜たい",
@@ -586,42 +514,33 @@
 		"phrases": [
 			{
 				"phrase": "日本に行きたいです。",
-				"translations": [
-					"(I) want to go to Japan."
-				]
+				"translation": "(I) want to go to Japan."
 			},
 			{
 				"phrase": "君のところへ行きたいよ。",
-				"translations": [
-					"(I) want to go to where you are."
-				]
+				"translation": "(I) want to go to where you are."
 			},
 			{
 				"phrase": "日本で英語をおしえたいです。",
-				"translations": [
-					"I want to teach English in Japan."
-				]
+				"translation": "I want to teach English in Japan."
 			},
 			{
 				"phrase": "どこに行きたいですか?",
-				"translations": [
-					"where do you want to go?"
-				]
+				"translation": "where do you want to go?"
 			},
 			{
 				"phrase": "日本語を学びたいです",
-				"translations": [
-					"I want to learn Japanese"
-				]
+				"translation": "I want to learn Japanese"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/1538",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N5"
 		],
 		"id": "1538",
-		"noteID": "grammar_0cb1dea9-4811-4630-9fbd-7bfc96668358"
+		"noteID": "grammar_bc6a0ec4-85b0-4f50-973d-566a573eae8b"
 	},
 	{
 		"point": "これ(此・是・之・惟)、それ(其), あれ(彼)",
@@ -637,35 +556,28 @@
 		"phrases": [
 			{
 				"phrase": "それはりんごケーキです。",
-				"translations": [
-					"That is apple cake."
-				]
+				"translation": "That is apple cake."
 			},
 			{
 				"phrase": "あれは何のケーキでしょうか。",
-				"translations": [
-					"I wonder what that cake is [over there] ?"
-				]
+				"translation": "I wonder what that cake is [over there] ?"
 			},
 			{
 				"phrase": "これはイチゴケーキです。",
-				"translations": [
-					"This is strawberry cake."
-				]
+				"translation": "This is strawberry cake."
 			},
 			{
 				"phrase": "すみません！これはいくらですか？",
-				"translations": [
-					"Excuse me! How much is this ?"
-				]
+				"translation": "Excuse me! How much is this ?"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/580",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "580",
-		"noteID": "grammar_d6bf2643-cce5-4e01-97ee-0181995838fa"
+		"noteID": "grammar_f92264bd-3735-4845-a5cd-a3317f7385fe"
 	},
 	{
 		"point": "だけ",
@@ -676,40 +588,31 @@
 		"phrases": [
 			{
 				"phrase": "最近は職場だけでなく家庭においてもパソコンが使われている.",
-				"translations": [
-					"The personal computer is used not only at the office but also at home recently."
-				]
+				"translation": "The personal computer is used not only at the office but also at home recently."
 			},
 			{
 				"phrase": "彼女はよく働くだけでなく、魅力的だ。",
-				"translations": [
-					"She is not only diligent she is also charming."
-				]
+				"translation": "She is not only diligent she is also charming."
 			},
 			{
 				"phrase": "お土産に十分なものを買うだけの十分な時間がありますか。",
-				"translations": [
-					"Do you have enough time to buy enough things for souvenirs?"
-				]
+				"translation": "Do you have enough time to buy enough things for souvenirs?"
 			},
 			{
 				"phrase": "ローマ字だけ書けます。",
-				"translations": [
-					"I can only write romaji [Roman letters]."
-				]
+				"translation": "I can only write romaji [Roman letters]."
 			},
 			{
 				"phrase": "日本語がこれだけ書ければとてもすばらしいと思います。",
-				"translations": [
-					"I think it's great that you can write Japanese like this. ( or: this much, to this extent )"
-				]
+				"translation": "I think it's great that you can write Japanese like this. ( or: this much, to this extent )"
 			}
 		],
 		"jlpt": "N5",
+		"source": "https://takoboto.jp/bunpo/249",
 		"tags": [
 			"grammar::N5"
 		],
 		"id": "249",
-		"noteID": "grammar_6623e615-fefc-4a25-b90f-b7dafb0d2a73"
+		"noteID": "grammar_219f0e23-0649-4721-8d8c-1b43bd0a4e90"
 	}
 ]

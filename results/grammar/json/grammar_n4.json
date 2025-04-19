@@ -17,30 +17,65 @@
 		"phrases": [
 			{
 				"phrase": "あなたが去る前には火を確実に消しなさい。",
-				"translations": [
-					"Be sure to put out the fire before you leave."
-				]
+				"translation": "Be sure to put out the fire before you leave."
 			},
 			{
 				"phrase": "試験を答える前に、指示を読んでください。",
-				"translations": [
-					"Before you answer the test please read the instructions first."
-				]
+				"translation": "Before you answer the test please read the instructions first."
 			},
 			{
 				"phrase": "朝ご飯を食べる前に手を洗って",
-				"translations": [
-					"Wash your hands before eating your breakfast"
-				]
+				"translation": "Wash your hands before eating your breakfast"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/523",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "523",
-		"noteID": "grammar_dd921bed-70ae-4bf3-94c7-24860889d2ad"
+		"noteID": "grammar_641f45e5-f7de-4137-8eea-3d5e1b900132"
+	},
+	{
+		"point": "くらい",
+		"meaning": {
+			"meaning": "about, as",
+			"example": "(about) as normal as any other guy on the street."
+		},
+		"usages": [
+			"Noun+くらい/ぐらい"
+		],
+		"phrases": [
+			{
+				"phrase": "人に会ったら、あいさつぐらいして欲しい",
+				"translation": "When I meet people I'd like at least a hello."
+			},
+			{
+				"phrase": "子どもでもそれくらいのことはできる",
+				"translation": "Even a child could do about that much。"
+			},
+			{
+				"phrase": "駄目だったら！こっちが手伝ってもらいたいくらい。",
+				"translation": "I told you it's no good! If anything, I need YOUR help."
+			},
+			{
+				"phrase": "どのくらいやったら認めてくれるの。",
+				"translation": "How much do I have to do to get your approval?"
+			},
+			{
+				"phrase": "あなたが駅に着くのにどのくらいかかりますか。",
+				"translation": "How long does it take to get to the station?"
+			}
+		],
+		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/57",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N4"
+		],
+		"id": "57",
+		"noteID": "grammar_bfc1325b-3cc3-4ca2-8bf2-85f26f542541"
 	},
 	{
 		"point": "下さい",
@@ -53,44 +88,40 @@
 				"reading": "ください"
 			}
 		],
+		"usages": [
+			"て-form+ください",
+			"を+ください"
+		],
 		"phrases": [
 			{
 				"phrase": "それをください。",
-				"translations": [
-					"That, please ."
-				]
+				"translation": "That, please ."
 			},
 			{
 				"phrase": "みせてください。",
-				"translations": [
-					"Please show me."
-				]
+				"translation": "Please show me."
 			},
 			{
 				"phrase": "あの方が言われる事を、何でもしてあげてください。",
-				"translations": [
-					"Do whatever he tells you."
-				]
+				"translation": "Do whatever he tells you."
 			},
 			{
 				"phrase": "みなさま、ようこそご搭乗くださいました。",
-				"translations": [
-					"Ladies and gentlemen, welcome aboard."
-				]
+				"translation": "Ladies and gentlemen, welcome aboard."
 			},
 			{
 				"phrase": "「塩をとってください。」「はい、どうぞ。」",
-				"translations": [
-					"\"Pass me the salt, please\". \"Here you are\"."
-				]
+				"translation": "\"Pass me the salt, please\". \"Here you are\"."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/577",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "577",
-		"noteID": "grammar_db122f06-7fef-4c6a-9654-88a2aa08a1cc"
+		"noteID": "grammar_052bb7df-a2fb-4fb9-b143-cf937c8eaf73"
 	},
 	{
 		"point": "ばかり",
@@ -107,42 +138,33 @@
 		"phrases": [
 			{
 				"phrase": "その本を買ったばかりだ。",
-				"translations": [
-					"I just bought that book"
-				]
+				"translation": "I just bought that book"
 			},
 			{
 				"phrase": "昨日アメリカから帰ってきたばかりなんです。",
-				"translations": [
-					"I just  got back from America yesterday."
-				]
+				"translation": "I just  got back from America yesterday."
 			},
 			{
 				"phrase": "５０００円ばかりもっている。",
-				"translations": [
-					"I have just 5,000 yen."
-				]
+				"translation": "I have just 5,000 yen."
 			},
 			{
 				"phrase": "あなたはいつも私のあら捜しばかりしている。",
-				"translations": [
-					"You do nothing but find fault with me."
-				]
+				"translation": "You do nothing but find fault with me."
 			},
 			{
 				"phrase": "あなたは何度も同じ誤りばかりしている。",
-				"translations": [
-					"You're just making the same mistake time after time."
-				]
+				"translation": "You're just making the same mistake time after time."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1485",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1485",
-		"noteID": "grammar_b835110d-8bb2-449e-8e19-9e23e58f6672"
+		"noteID": "grammar_a818bdec-35dc-4579-8fcb-e543867a7623"
 	},
 	{
 		"point": "たら",
@@ -156,42 +178,33 @@
 		"phrases": [
 			{
 				"phrase": "その夜半に目覚めたら呼吸が酷く不規則で苦しくなっていました。",
-				"translations": [
-					"When (I) woke up late that night (my) breathing had become horribly irregular and difficult."
-				]
+				"translation": "When (I) woke up late that night (my) breathing had become horribly irregular and difficult."
 			},
 			{
 				"phrase": "私ももし、イギリスに行ったらそうなるのか。",
-				"translations": [
-					"If I go to England will it be like that for me as well?"
-				]
+				"translation": "If I go to England will it be like that for me as well?"
 			},
 			{
 				"phrase": "まず説明書を読んだらＩＫＥＡの家具のパックが作れる。",
-				"translations": [
-					"If you read the instructions first then you can make an IKEA flat furniture pack."
-				]
+				"translation": "If you read the instructions first then you can make an IKEA flat furniture pack."
 			},
 			{
 				"phrase": "「あなたに何かあげられたらなぁ…」",
-				"translations": [
-					"\"I wish that I could give you something... \""
-				]
+				"translation": "\"I wish that I could give you something... \""
 			},
 			{
 				"phrase": "１００万円獲得したら、どうしますか。",
-				"translations": [
-					"If you won a million yen, what would you do?"
-				]
+				"translation": "If you won a million yen, what would you do?"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/729",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "729",
-		"noteID": "grammar_335c8b51-9ab0-4c4a-b57f-4a9eaabb1be3"
+		"noteID": "grammar_759de910-6a76-4177-92bf-e560ffbd378e"
 	},
 	{
 		"point": "〜ね",
@@ -205,42 +218,33 @@
 		"phrases": [
 			{
 				"phrase": "これはいいですね。",
-				"translations": [
-					"Isn't this nice !"
-				]
+				"translation": "Isn't this nice !"
 			},
 			{
 				"phrase": "ええと、映画館は駅の近くにありますね。",
-				"translations": [
-					"Er, the cinema is near the station, right?"
-				]
+				"translation": "Er, the cinema is near the station, right?"
 			},
 			{
 				"phrase": "突然寒くなったね。",
-				"translations": [
-					"It has suddenly got cold, hasn't it?"
-				]
+				"translation": "It has suddenly got cold, hasn't it?"
 			},
 			{
 				"phrase": "「彼女は音楽が好きだね。」「そうだね。」",
-				"translations": [
-					"\"She likes music, doesn't she?\"  \"Yep,she does.\""
-				]
+				"translation": "\"She likes music, doesn't she?\"  \"Yep,she does.\""
 			},
 			{
 				"phrase": "９時でよろしいですね。",
-				"translations": [
-					"Would 9 o'clock be all right?"
-				]
+				"translation": "Would 9 o'clock be all right?"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/628",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "628",
-		"noteID": "grammar_1d9f267a-a071-4705-afe2-3f73bcaba499"
+		"noteID": "grammar_be12d9a0-d7be-4c39-8193-761e1cae90aa"
 	},
 	{
 		"point": "ないように",
@@ -251,41 +255,32 @@
 		"phrases": [
 			{
 				"phrase": "指を切らないようにして下さい。",
-				"translations": [
-					"Please make sure you do not cut your finger."
-				]
+				"translation": "Please make sure you do not cut your finger."
 			},
 			{
 				"phrase": "音を立てないように歩いてください。",
-				"translations": [
-					"Please walk so as not to make noise."
-				]
+				"translation": "Please walk so as not to make noise."
 			},
 			{
 				"phrase": "20MBを超えるファイルを送信できないように設定する",
-				"translations": [
-					"Specify files exceeding 20MB cannot be sent"
-				]
+				"translation": "Specify files exceeding 20MB cannot be sent"
 			},
 			{
 				"phrase": "ご近所に失礼のないように。",
-				"translations": [
-					"Don't be rude to the neighbors."
-				]
+				"translation": "Don't be rude to the neighbors."
 			},
 			{
 				"phrase": "私は彼が居眠りしないようにした。",
-				"translations": [
-					"I prevented him from having a doze."
-				]
+				"translation": "I prevented him from having a doze."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1725",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "1725",
-		"noteID": "grammar_f4b8fecc-d30e-469e-8674-c4f90f3bf00f"
+		"noteID": "grammar_749a3379-1c99-4f3d-83f8-7051e98403ed"
 	},
 	{
 		"point": "〜だ",
@@ -299,42 +294,33 @@
 		"phrases": [
 			{
 				"phrase": "犬だ！",
-				"translations": [
-					"It's a dog!"
-				]
+				"translation": "It's a dog!"
 			},
 			{
 				"phrase": "イギリス人です。",
-				"translations": [
-					"I am  English."
-				]
+				"translation": "I am  English."
 			},
 			{
 				"phrase": "それはなんですか",
-				"translations": [
-					"What is that?"
-				]
+				"translation": "What is that?"
 			},
 			{
 				"phrase": "あの人は誰でしたか。",
-				"translations": [
-					"Who was that person?"
-				]
+				"translation": "Who was that person?"
 			},
 			{
 				"phrase": "田中さんではありませんでした。",
-				"translations": [
-					"(That) wasn't Mr Tanaka."
-				]
+				"translation": "(That) wasn't Mr Tanaka."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/568",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "568",
-		"noteID": "grammar_6ff702ab-3daf-40be-ad28-0c0385905b56"
+		"noteID": "grammar_7a328031-0e6e-4713-bc0c-9b14164394b2"
 	},
 	{
 		"point": "少し",
@@ -350,41 +336,32 @@
 		"phrases": [
 			{
 				"phrase": "かれは少しおそいですね。",
-				"translations": [
-					"He's a bit late isn't he?"
-				]
+				"translation": "He's a bit late isn't he?"
 			},
 			{
 				"phrase": "もう少し居てもいいですか",
-				"translations": [
-					"Can I stay a bit longer?"
-				]
+				"translation": "Can I stay a bit longer?"
 			},
 			{
 				"phrase": "「水を少しください。」「いいですよ。」",
-				"translations": [
-					"\"Please give me some  water.\" \"All right.\""
-				]
+				"translation": "\"Please give me some  water.\" \"All right.\""
 			},
 			{
 				"phrase": "11時15分前を少し過ぎています。",
-				"translations": [
-					"It is a little after a quarter to eleven."
-				]
+				"translation": "It is a little after a quarter to eleven."
 			},
 			{
 				"phrase": "あそこは少し高すぎると思います。",
-				"translations": [
-					"I think that place is a little  too expensive."
-				]
+				"translation": "I think that place is a little  too expensive."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/723",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "723",
-		"noteID": "grammar_3f681a60-9438-46d9-8c98-34be1acc9927"
+		"noteID": "grammar_429940e7-b1b3-4170-a865-6706cf176a02"
 	},
 	{
 		"point": "すぎる",
@@ -400,42 +377,33 @@
 		"phrases": [
 			{
 				"phrase": "その人はちょっと食べすぎましたね。",
-				"translations": [
-					"That person ate a little too much ."
-				]
+				"translation": "That person ate a little too much ."
 			},
 			{
 				"phrase": "このりんごは甘すぎて、食べられない。",
-				"translations": [
-					"This apple is so  sweet that  I can't eat it."
-				]
+				"translation": "This apple is so  sweet that  I can't eat it."
 			},
 			{
 				"phrase": "あそこは少し高すぎると思います。",
-				"translations": [
-					"I think the place over there is a little too  expensive."
-				]
+				"translation": "I think the place over there is a little too  expensive."
 			},
 			{
 				"phrase": "あの男はおしゃべりすぎる。",
-				"translations": [
-					"He talks too much."
-				]
+				"translation": "He talks too much."
 			},
 			{
 				"phrase": "いまからでは遅すぎる。",
-				"translations": [
-					"It's too late now."
-				]
+				"translation": "It's too late now."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1537",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1537",
-		"noteID": "grammar_aa4954ee-88d8-45fb-9548-374d667cf603"
+		"noteID": "grammar_cce69ac8-d7da-4eda-b20e-aa9a40ce0a48"
 	},
 	{
 		"point": "たり する　form",
@@ -451,41 +419,32 @@
 		"phrases": [
 			{
 				"phrase": "飲んだり、食べたり、歌ったり、ダンスをしたり、大いに楽しみました。",
-				"translations": [
-					"We drank, ate, sung, danced - we generally had one big fun time!"
-				]
+				"translation": "We drank, ate, sung, danced - we generally had one big fun time!"
 			},
 			{
 				"phrase": "パーティーで飲んだり, 食べたり, 踊ったりした。",
-				"translations": [
-					"We did things like drinking, eating and dancing at the party."
-				]
+				"translation": "We did things like drinking, eating and dancing at the party."
 			},
 			{
 				"phrase": "私達は, 先生に誉められたり, 叱られたりします。",
-				"translations": [
-					"Sometimes we are praised and sometimes scolded by our teachers."
-				]
+				"translation": "Sometimes we are praised and sometimes scolded by our teachers."
 			},
 			{
 				"phrase": "夏には, 登山したりする。",
-				"translations": [
-					"In summer I do things like mountain climbing."
-				]
+				"translation": "In summer I do things like mountain climbing."
 			},
 			{
 				"phrase": "私は, 朝コーヒーを飲んだり, 飲まなかったりする。",
-				"translations": [
-					"Sometimes I drink coffee in the morning and sometimes I don't."
-				]
+				"translation": "Sometimes I drink coffee in the morning and sometimes I don't."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1100",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "1100",
-		"noteID": "grammar_1124c912-8b65-4071-aa0a-608880321c99"
+		"noteID": "grammar_a215b80b-2a03-4b9b-9f66-e1779273dee1"
 	},
 	{
 		"point": "そう",
@@ -502,42 +461,33 @@
 		"phrases": [
 			{
 				"phrase": "これは、食べられそうではありません。",
-				"translations": [
-					"This doesn't look like it's edible."
-				]
+				"translation": "This doesn't look like it's edible."
 			},
 			{
 				"phrase": "雪が降りそうですね。",
-				"translations": [
-					"Looks like it's going to snow doesn't it?"
-				]
+				"translation": "Looks like it's going to snow doesn't it?"
 			},
 			{
 				"phrase": "美味しそうなデザートですね。",
-				"translations": [
-					"That look  like a delicious dessert!"
-				]
+				"translation": "That look  like a delicious dessert!"
 			},
 			{
 				"phrase": "「起こしてくれればよかったのに」翌朝ロンが不機嫌そうにいった。",
-				"translations": [
-					"\"You could have woken me up ...\" Ron said the following morning in a grumpy [seeming] way."
-				]
+				"translation": "\"You could have woken me up ...\" Ron said the following morning in a grumpy [seeming] way."
 			},
 			{
 				"phrase": "この本は高そうです。",
-				"translations": [
-					"This book looks expensive"
-				]
+				"translation": "This book looks expensive"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/684",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "684",
-		"noteID": "grammar_9bdfb96b-9806-47fe-a2de-2b76bb8df423"
+		"noteID": "grammar_740779f4-1b44-4bb2-9e16-7a4151f9761d"
 	},
 	{
 		"point": "がる",
@@ -552,42 +502,33 @@
 		"phrases": [
 			{
 				"phrase": "小川さんはどうも新しい車を欲しがるんですね。",
-				"translations": [
-					"Mr. Ogawa really looks like he wants a new car, doesn't he?"
-				]
+				"translation": "Mr. Ogawa really looks like he wants a new car, doesn't he?"
 			},
 			{
 				"phrase": "バカ！放せよ！彼女は苦しがってるじゃない!",
-				"translations": [
-					"Idiot! Get off her! Can't you see you're choking her? (Lit: ~Doesn't she look like she's suffering.)"
-				]
+				"translation": "Idiot! Get off her! Can't you see you're choking her? (Lit: ~Doesn't she look like she's suffering.)"
 			},
 			{
 				"phrase": "お乳欲しがるあの子がかわい..",
-				"translations": [
-					"Feel such pity, the baby crying for mother's milk."
-				]
+				"translation": "Feel such pity, the baby crying for mother's milk."
 			},
 			{
 				"phrase": "そんなに強がるんじゃねえ！",
-				"translations": [
-					"Don't you act like a tough guy!"
-				]
+				"translation": "Don't you act like a tough guy!"
 			},
 			{
 				"phrase": "怖がっていないで、ジェトコースターに乗ってみて、おもしろいよ！",
-				"translations": [
-					"Don't be scared, try the roller　coaster, it's fun!"
-				]
+				"translation": "Don't be scared, try the roller　coaster, it's fun!"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1170",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1170",
-		"noteID": "grammar_e5eb7780-d605-4b6c-9d14-89fd1ad64d8e"
+		"noteID": "grammar_0a8825e2-abeb-48e2-a5f7-5d91539e355b"
 	},
 	{
 		"point": "〜始める",
@@ -606,42 +547,33 @@
 		"phrases": [
 			{
 				"phrase": "６時を過ぎると従業員は帰り始めた。",
-				"translations": [
-					"After 6 p.m. the employees began to  return home."
-				]
+				"translation": "After 6 p.m. the employees began to  return home."
 			},
 			{
 				"phrase": "本を読み始めた",
-				"translations": [
-					"I started reading the book."
-				]
+				"translation": "I started reading the book."
 			},
 			{
 				"phrase": "本格的に本を読み始めたのは大学生になってからである。",
-				"translations": [
-					"I really began reading books in earnest once I was a University Student."
-				]
+				"translation": "I really began reading books in earnest once I was a University Student."
 			},
 			{
 				"phrase": "あまりにも彼の手紙が優しかったので、彼女は感動して泣き始めた。",
-				"translations": [
-					"So friendly was his letter that she was deeply moved and began to cry."
-				]
+				"translation": "So friendly was his letter that she was deeply moved and began to cry."
 			},
 			{
 				"phrase": "お母さんはコーヒーカップの歴史について調べ始めた。",
-				"translations": [
-					"My mother looked up the history of coffee cups."
-				]
+				"translation": "My mother looked up the history of coffee cups."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1301",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1301",
-		"noteID": "grammar_191c3f05-2487-4eb1-a881-5c5f9584bed3"
+		"noteID": "grammar_bff675dd-6936-4c8c-921b-8a8c8d128fb5"
 	},
 	{
 		"point": "〜は",
@@ -652,41 +584,32 @@
 		"phrases": [
 			{
 				"phrase": "田中さんは大学生です。",
-				"translations": [
-					"Mr. Tanaka is a university student."
-				]
+				"translation": "Mr. Tanaka is a university student."
 			},
 			{
 				"phrase": "私はマイケルです。",
-				"translations": [
-					"I am Michael."
-				]
+				"translation": "I am Michael."
 			},
 			{
 				"phrase": "林檎は緑です。",
-				"translations": [
-					"The apple is green."
-				]
+				"translation": "The apple is green."
 			},
 			{
 				"phrase": "皆さんはどこですか？",
-				"translations": [
-					"Where is everyone?"
-				]
+				"translation": "Where is everyone?"
 			},
 			{
 				"phrase": "私はアメリカ人です。",
-				"translations": [
-					"I am American."
-				]
+				"translation": "I am American."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/753",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "753",
-		"noteID": "grammar_be920953-b397-454f-97f3-477641be2d81"
+		"noteID": "grammar_4befc505-8de8-49d3-a818-584c062b907b"
 	},
 	{
 		"point": "なので",
@@ -697,86 +620,68 @@
 		"phrases": [
 			{
 				"phrase": "この情報は内々に知らされたものなので、あなたに何も教えることはできない",
-				"translations": [
-					"This information was given to me in confidence, so I can't tell you anything."
-				]
+				"translation": "This information was given to me in confidence, so I can't tell you anything."
 			},
 			{
 				"phrase": "それは真実なのでいまさら四の五の言ってもはじまらない",
-				"translations": [
-					"Since it is quite true, grumbling about it now does not get you anywhere."
-				]
+				"translation": "Since it is quite true, grumbling about it now does not get you anywhere."
 			},
 			{
 				"phrase": "あんなに子供が好きなので、スーは先生になるべきだ。",
-				"translations": [
-					"Liking children the way she does Sue should become a teacher."
-				]
+				"translation": "Liking children the way she does Sue should become a teacher."
 			},
 			{
 				"phrase": "いすをどかしてください。邪魔なので。",
-				"translations": [
-					"Please put those chairs away. As they are in the way."
-				]
+				"translation": "Please put those chairs away. As they are in the way."
 			},
 			{
 				"phrase": "イヤホンを頼んだはずなのですが。",
-				"translations": [
-					"The thing is , I asked for earphones."
-				]
+				"translation": "The thing is , I asked for earphones."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1248",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "1248",
-		"noteID": "grammar_3d9b5935-9e8a-44c4-b495-77f82521061a"
+		"noteID": "grammar_c28352f9-1046-4258-ac50-fa9512a60fa6"
 	},
 	{
-		"point": "〜に",
+		"point": "〜など",
 		"meaning": {
-			"meaning": "to, from (indirect object marker)",
-			"example": "I was given this by my mother."
+			"meaning": "and etc.",
+			"example": "and so on"
 		},
 		"phrases": [
 			{
-				"phrase": "これは母に貰いました。",
-				"translations": [
-					"I got this from my mother."
-				]
+				"phrase": "彼は失敗などしないと言う。",
+				"translation": "He says he is above failure."
 			},
 			{
-				"phrase": "そこに着いたら私に教えてください。",
-				"translations": [
-					"Please let me know  when we get there."
-				]
+				"phrase": "私は野球や、テニスや、バレーボールなどをすることができます。",
+				"translation": "I can play baseball, tennis, volleyball, and so on"
 			},
 			{
-				"phrase": "私はともだちに電話をします。",
-				"translations": [
-					"I will call a friend."
-				]
+				"phrase": "お母さん、アップルジュース、コーラ、お茶等を買って欲しいんですけど。",
+				"translation": "Mum, I want you to buy apple juice, coca cola, tea and things like that."
 			},
 			{
-				"phrase": "私はあなたにりんごをあげる。",
-				"translations": [
-					"I will give an apple to you."
-				]
+				"phrase": "鉛筆やペンや消しゴムや本などを買いました。",
+				"translation": "I bought pencils, pens, erasers and books and etc."
 			},
 			{
-				"phrase": "彼は先生にしかられた。",
-				"translations": [
-					"He got scolded by the teacher."
-				]
+				"phrase": "彼らは私の年齢、姓名、国籍などを聞きました。",
+				"translation": "They ask about my age, my name, my nationality and so on."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1313",
 		"tags": [
 			"grammar::N4"
 		],
-		"id": "659",
-		"noteID": "grammar_2e14e0e0-2368-4c24-9716-3b2bc5b8015d"
+		"id": "1313",
+		"noteID": "grammar_2ae6e5d0-9847-4cca-affb-2a9190677469"
 	},
 	{
 		"point": "〜も",
@@ -787,41 +692,32 @@
 		"phrases": [
 			{
 				"phrase": "コーヒーも紅茶も飲みません。",
-				"translations": [
-					"I drink neither coffee nor tea."
-				]
+				"translation": "I drink neither coffee nor tea."
 			},
 			{
 				"phrase": "これも会社の車じゃありません。",
-				"translations": [
-					"This isn't a company car either."
-				]
+				"translation": "This isn't a company car either."
 			},
 			{
 				"phrase": "「ぼくの父は酒を飲みません。」「私の父もなんです。」",
-				"translations": [
-					"\"My father doesn't drink.\" \" Neither  does my father.\""
-				]
+				"translation": "\"My father doesn't drink.\" \" Neither  does my father.\""
 			},
 			{
 				"phrase": "あなたがスキーに行かないのなら、私も行きません。",
-				"translations": [
-					"If you don't go skiing, I won't, either."
-				]
+				"translation": "If you don't go skiing, I won't, either."
 			},
 			{
 				"phrase": "彼が死んだ理由を僕も知らない。",
-				"translations": [
-					"I don't know the reason of his death either ."
-				]
+				"translation": "I don't know the reason of his death either ."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/622",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "622",
-		"noteID": "grammar_cc38e55e-4cae-4bf6-91a1-a01c0c72da2e"
+		"noteID": "grammar_dfe5f3f3-0ff4-4091-93fb-d39c174f3840"
 	},
 	{
 		"point": "どうして",
@@ -832,41 +728,32 @@
 		"phrases": [
 			{
 				"phrase": "どうしてそんなことが起こったのか。",
-				"translations": [
-					"How did such a thing come about?"
-				]
+				"translation": "How did such a thing come about?"
 			},
 			{
 				"phrase": "どうして来なかったのですか。",
-				"translations": [
-					"Why didn't you come?"
-				]
+				"translation": "Why didn't you come?"
 			},
 			{
 				"phrase": "どうしてこんなに暑いのですか。",
-				"translations": [
-					"Why is it so hot?"
-				]
+				"translation": "Why is it so hot?"
 			},
 			{
 				"phrase": "どうしてそんなに怒っているの。",
-				"translations": [
-					"Why are you so angry?"
-				]
+				"translation": "Why are you so angry?"
 			},
 			{
 				"phrase": "どうして嘘をついたの？",
-				"translations": [
-					"Why did you lie?"
-				]
+				"translation": "Why did you lie?"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/694",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "694",
-		"noteID": "grammar_044d2bbe-d005-44bc-8618-526932d73af5"
+		"noteID": "grammar_1cb35fe5-6e08-4540-a7bb-175f2cb9f11c"
 	},
 	{
 		"point": "けれども",
@@ -877,41 +764,32 @@
 		"phrases": [
 			{
 				"phrase": "雨が降っていたけれども、みんなは楽しい時を過ごした。",
-				"translations": [
-					"Although it rained, everyone had a good time."
-				]
+				"translation": "Although it rained, everyone had a good time."
 			},
 			{
 				"phrase": "お引き受けしたいんですけれど・・・",
-				"translations": [
-					"I'd like to say yes, but ..."
-				]
+				"translation": "I'd like to say yes, but ..."
 			},
 			{
 				"phrase": "彼は１６歳だけれど、両親から独立しています。",
-				"translations": [
-					"Though only 16, he is independent of his parents."
-				]
+				"translation": "Though only 16, he is independent of his parents."
 			},
 			{
 				"phrase": "彼はあまり勉強しないけれども、成績がいい",
-				"translations": [
-					"Although he doesn't study hard, he gets good marks"
-				]
+				"translation": "Although he doesn't study hard, he gets good marks"
 			},
 			{
 				"phrase": "遅く起きたけれども、授業に間に合えた。",
-				"translations": [
-					"Even though I woke up late, I could make it to the class on time."
-				]
+				"translation": "Even though I woke up late, I could make it to the class on time."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/724",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "724",
-		"noteID": "grammar_073cd7ae-a3e3-45cf-9c70-8322fd1b6f5d"
+		"noteID": "grammar_559a3e21-44b3-43dc-9b6f-db21d422102a"
 	},
 	{
 		"point": "でも",
@@ -922,41 +800,32 @@
 		"phrases": [
 			{
 				"phrase": "品質はいい。でも、値段は高いです。",
-				"translations": [
-					"The quality is good but the price is high."
-				]
+				"translation": "The quality is good but the price is high."
 			},
 			{
 				"phrase": "でも、あなたにあげるりんごはありません。",
-				"translations": [
-					"But I have no apples left to give you."
-				]
+				"translation": "But I have no apples left to give you."
 			},
 			{
 				"phrase": "日本が好きです、でもときどき日本が好きではありません。",
-				"translations": [
-					"I like Japan, but sometimes I don't like Japan."
-				]
+				"translation": "I like Japan, but sometimes I don't like Japan."
 			},
 			{
 				"phrase": "彼はアニメが好きです。でもアニメが好きではありません。",
-				"translations": [
-					"He likes anime. But , I don't like anime."
-				]
+				"translation": "He likes anime. But , I don't like anime."
 			},
 			{
 				"phrase": "教室に来ました。でも、誰もいません。",
-				"translations": [
-					"I came to the class. But  no one is here."
-				]
+				"translation": "I came to the class. But  no one is here."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/726",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "726",
-		"noteID": "grammar_97cb9f20-6d31-45f0-b8a6-ce3ac15078d8"
+		"noteID": "grammar_e84ff4c4-cfdd-49cf-9d99-6a91d6c55d72"
 	},
 	{
 		"point": "〜か",
@@ -970,42 +839,33 @@
 		"phrases": [
 			{
 				"phrase": "これはあなたの本ですか。",
-				"translations": [
-					"Is this your book ?"
-				]
+				"translation": "Is this your book ?"
 			},
 			{
 				"phrase": "家に帰りましょうか。",
-				"translations": [
-					"Why don't we go home ?"
-				]
+				"translation": "Why don't we go home ?"
 			},
 			{
 				"phrase": "ひとつ質問をしてもいいですか。",
-				"translations": [
-					"May I ask you a question ?"
-				]
+				"translation": "May I ask you a question ?"
 			},
 			{
 				"phrase": "今日は鶏肉を買いましたか。",
-				"translations": [
-					"Did you buy chicken today ?"
-				]
+				"translation": "Did you buy chicken today ?"
 			},
 			{
 				"phrase": "関西弁が分かりますか",
-				"translations": [
-					"Do you understand Kansai dialect ?"
-				]
+				"translation": "Do you understand Kansai dialect ?"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/775",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "775",
-		"noteID": "grammar_dc13d946-3faa-4af1-a353-0924c98fdc46"
+		"noteID": "grammar_f08717cb-833b-46bc-af24-54ba6e048ecb"
 	},
 	{
 		"point": "〜へ",
@@ -1016,41 +876,32 @@
 		"phrases": [
 			{
 				"phrase": "私は来年外国へ行きます",
-				"translations": [
-					"I will go abroad next year."
-				]
+				"translation": "I will go abroad next year."
 			},
 			{
 				"phrase": "＜乗客への呼びかけ＞（バスの）中へお詰め願います。",
-				"translations": [
-					"Pass along the bus, please."
-				]
+				"translation": "Pass along the bus, please."
 			},
 			{
 				"phrase": "1000人もの人がそのパーティーへやってきた。",
-				"translations": [
-					"No less than 1,000 people came to the party."
-				]
+				"translation": "No less than 1,000 people came to the party."
 			},
 			{
 				"phrase": "７月のある日、私たちは海へ行った。",
-				"translations": [
-					"One day in July we went to the sea."
-				]
+				"translation": "One day in July we went to the sea."
 			},
 			{
 				"phrase": "海外へ行ったことが一回もない。",
-				"translations": [
-					"I have never been overseas."
-				]
+				"translation": "I have never been overseas."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/778",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "778",
-		"noteID": "grammar_dff973a4-06d1-445f-8f51-55ea9e39ba5c"
+		"noteID": "grammar_cb29cee9-07a3-45f9-8994-1f0b2c284fc1"
 	},
 	{
 		"point": "ので",
@@ -1066,87 +917,33 @@
 		"phrases": [
 			{
 				"phrase": "彼の話はあまりにも馬鹿げていたので誰も信じなかった。",
-				"translations": [
-					"His story was too ridiculous for anyone to believe."
-				]
+				"translation": "His story was too ridiculous for anyone to believe."
 			},
 			{
 				"phrase": "このように平易な英語で書かれているので、この本は初心者に役立つ。",
-				"translations": [
-					"Written as it is in plain English, this book is useful for beginners."
-				]
+				"translation": "Written as it is in plain English, this book is useful for beginners."
 			},
 			{
 				"phrase": "彼はお金に困っていたので、昨日スーパーマーケットで万引きを働いた。",
-				"translations": [
-					"He was in financial trouble, so  he shoplifted at the supermarket yesterday."
-				]
+				"translation": "He was in financial trouble, so  he shoplifted at the supermarket yesterday."
 			},
 			{
 				"phrase": "風邪をひいたので学校に行かない",
-				"translations": [
-					"I won't go to school because I cought a cold"
-				]
+				"translation": "I won't go to school because I cought a cold"
 			},
 			{
 				"phrase": "今から出発しますので、席にお座り下さい。",
-				"translations": [
-					"Please remain seated because  we are departing now."
-				]
+				"translation": "Please remain seated because  we are departing now."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1217",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1217",
-		"noteID": "grammar_dfbc92c3-6935-4355-80b4-ce98c7b425f1"
-	},
-	{
-		"point": "〜など",
-		"meaning": {
-			"meaning": "and etc.",
-			"example": "and so on"
-		},
-		"phrases": [
-			{
-				"phrase": "彼は失敗などしないと言う。",
-				"translations": [
-					"He says he is above failure."
-				]
-			},
-			{
-				"phrase": "私は野球、テニス、バレーボールなどをすることができます。",
-				"translations": [
-					"I can play baseball, tennis, volleyball, and so on"
-				]
-			},
-			{
-				"phrase": "お母さん、アップルジュース、コーラ、お茶等を買って欲しいんですけど。",
-				"translations": [
-					"Mum, I want you to buy apple juice, coca cola, tea and things like that."
-				]
-			},
-			{
-				"phrase": "鉛筆やペンや消しゴムや本などを買いました。",
-				"translations": [
-					"I bought pencils, pens, erasers and books and etc."
-				]
-			},
-			{
-				"phrase": "彼らは私の年齢、姓名、国籍などを聞きました。",
-				"translations": [
-					"They ask about my age, my name, my nationality and so on."
-				]
-			}
-		],
-		"jlpt": "N4",
-		"tags": [
-			"grammar::N4"
-		],
-		"id": "1313",
-		"noteID": "grammar_0846b716-b953-4c47-92da-38612b883d3f"
+		"noteID": "grammar_c59004ea-976c-424d-9b68-39f593318bd0"
 	},
 	{
 		"point": "ないで",
@@ -1160,36 +957,29 @@
 		"phrases": [
 			{
 				"phrase": "朝ご飯を食べないで学校へ行った。",
-				"translations": [
-					"I went to school without eating breakfast."
-				]
+				"translation": "I went to school without eating breakfast."
 			},
 			{
 				"phrase": "払わないで去る",
-				"translations": [
-					"leave without paying"
-				]
+				"translation": "leave without paying"
 			},
 			{
 				"phrase": "宿題をしないで、学校へ行った。",
-				"translations": [
-					"I went to school without doing my homework."
-				]
+				"translation": "I went to school without doing my homework."
 			},
 			{
 				"phrase": "彼は死なないで埋められた。",
-				"translations": [
-					"He was buried alive."
-				]
+				"translation": "He was buried alive."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1619",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1619",
-		"noteID": "grammar_f99c1ef4-b43b-4b90-97a3-15f3232ed46c"
+		"noteID": "grammar_b734fd97-7ebd-4bc4-958b-3c985859e7fb"
 	},
 	{
 		"point": "より",
@@ -1203,30 +993,25 @@
 		"phrases": [
 			{
 				"phrase": "よりいい方法知りませんか。",
-				"translations": [
-					"Don't you know a better method?"
-				]
+				"translation": "Don't you know a better method?"
 			},
 			{
 				"phrase": "あなたと会って、より一層あなたのことが好きになりました。",
-				"translations": [
-					"I liked you even more when I met you."
-				]
+				"translation": "I liked you even more when I met you."
 			},
 			{
 				"phrase": "より早く着く電車はないのですか？",
-				"translations": [
-					"Isn't there a train that gets there earlier?"
-				]
+				"translation": "Isn't there a train that gets there earlier?"
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/788",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "788",
-		"noteID": "grammar_732ed60a-4e2a-4531-8181-8eb566d628a3"
+		"noteID": "grammar_6bcc9560-f677-4c80-87cd-27285358c3f1"
 	},
 	{
 		"point": "つもり (積もり・積り)",
@@ -1243,42 +1028,33 @@
 		"phrases": [
 			{
 				"phrase": "私は医者になるつもりです。",
-				"translations": [
-					"I intend to become  a doctor."
-				]
+				"translation": "I intend to become  a doctor."
 			},
 			{
 				"phrase": "出かけないつもりです。",
-				"translations": [
-					"My plan is not to leave."
-				]
+				"translation": "My plan is not to leave."
 			},
 			{
 				"phrase": "会議には出ないつもりです",
-				"translations": [
-					"I do not intend to attend the meeting"
-				]
+				"translation": "I do not intend to attend the meeting"
 			},
 			{
 				"phrase": "そのつもりは全然ありません",
-				"translations": [
-					"I do not ever intend to do that."
-				]
+				"translation": "I do not ever intend to do that."
 			},
 			{
 				"phrase": "1時間後に出発するつもりだ。",
-				"translations": [
-					"We will leave in hour."
-				]
+				"translation": "We will leave in hour."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1483",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1483",
-		"noteID": "grammar_bfe613f5-2585-46e3-82c8-8fac984e6c08"
+		"noteID": "grammar_481fd942-d99a-4f0b-9001-31f2964301ba"
 	},
 	{
 		"point": "欲しい",
@@ -1298,42 +1074,33 @@
 		"phrases": [
 			{
 				"phrase": "靴がほしいのです。",
-				"translations": [
-					"I'd like some shoes."
-				]
+				"translation": "I'd like some shoes."
 			},
 			{
 				"phrase": "「わたしは、妻と子供が欲しいので、家が必要なんだよ。」",
-				"translations": [
-					"\"I want a wife and children, and so I need a house.\""
-				]
+				"translation": "\"I want a wife and children, and so I need a house.\""
 			},
 			{
 				"phrase": "だれか話し相手がほしい。",
-				"translations": [
-					"I want someone to talk to."
-				]
+				"translation": "I want someone to talk to."
 			},
 			{
 				"phrase": "もう一杯ビールがほしいな。",
-				"translations": [
-					"I feel like another beer."
-				]
+				"translation": "I feel like another beer."
 			},
 			{
 				"phrase": "デザートにアイスクリームがほしい。",
-				"translations": [
-					"I want ice cream for dessert."
-				]
+				"translation": "I want ice cream for dessert."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/756",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "756",
-		"noteID": "grammar_c1f5fdb7-ae0d-4552-8638-be41a589bb3c"
+		"noteID": "grammar_7e38e1f7-f8ae-4b94-92ed-83a88eed2e70"
 	},
 	{
 		"point": "頂きます",
@@ -1348,41 +1115,32 @@
 		"phrases": [
 			{
 				"phrase": "頂きます。",
-				"translations": [
-					"Thanks for the food (Before eating)"
-				]
+				"translation": "Thanks for the food (Before eating)"
 			},
 			{
 				"phrase": "お言葉に甘えてもう一杯頂きます。",
-				"translations": [
-					"If you insist I'll have another drink."
-				]
+				"translation": "If you insist I'll have another drink."
 			},
 			{
 				"phrase": "コーヒーをやめて紅茶を頂きます。",
-				"translations": [
-					"I'd like to have tea instead of coffee."
-				]
+				"translation": "I'd like to have tea instead of coffee."
 			},
 			{
 				"phrase": "今日は大統領から手紙を頂きました。",
-				"translations": [
-					"I have received  a letter from the president today."
-				]
+				"translation": "I have received  a letter from the president today."
 			},
 			{
 				"phrase": "先生に辞書をいただきました。",
-				"translations": [
-					"I received a dictionary from the teacher."
-				]
+				"translation": "I received a dictionary from the teacher."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1207",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "1207",
-		"noteID": "grammar_fe041581-288e-488f-90c1-4d83bf2f89fe"
+		"noteID": "grammar_2073d38a-e4f0-4051-b84e-a893125159bb"
 	},
 	{
 		"point": "から〜まで",
@@ -1393,41 +1151,32 @@
 		"phrases": [
 			{
 				"phrase": "今年の秋から来年まで3Gが主戦場になる",
-				"translations": [
-					"From this Autumn to next year 3G will be the central battlefield"
-				]
+				"translation": "From this Autumn to next year 3G will be the central battlefield"
 			},
 			{
 				"phrase": "秋から冬までは、秋味と呼ばれる鮭の旬です。",
-				"translations": [
-					"The period from autumn to winter is the season of the 'autumn flavour' salmon."
-				]
+				"translation": "The period from autumn to winter is the season of the 'autumn flavour' salmon."
 			},
 			{
 				"phrase": "我が国の商社は世界をまたまで商売をする。",
-				"translations": [
-					"Our trading companies do business all over the world. まで"
-				]
+				"translation": "Our trading companies do business all over the world. まで"
 			},
 			{
 				"phrase": "東京から大阪まで新幹線でどれくらいかかるかな？",
-				"translations": [
-					"How long does it take to get from  Tokyo to  Osaka by Shinkansen?"
-				]
+				"translation": "How long does it take to get from  Tokyo to  Osaka by Shinkansen?"
 			},
 			{
 				"phrase": "彼は腰からひざまでびしょぬれになった。",
-				"translations": [
-					"He got drenched from  the waist to  the knees."
-				]
+				"translation": "He got drenched from  the waist to  the knees."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/169",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "169",
-		"noteID": "grammar_2e5d5810-8c03-4354-952c-e25da2f23ced"
+		"noteID": "grammar_44c3d1b1-d07d-4e51-b3a5-ee4bebf608e6"
 	},
 	{
 		"point": "しかし (然し・併し)",
@@ -1438,41 +1187,32 @@
 		"phrases": [
 			{
 				"phrase": "しかし、私はあなたが大好きですよ。",
-				"translations": [
-					"However , I really like you."
-				]
+				"translation": "However , I really like you."
 			},
 			{
 				"phrase": "しかし今や事態は大きく変わった。",
-				"translations": [
-					"But now things have changed tremendously."
-				]
+				"translation": "But now things have changed tremendously."
 			},
 			{
 				"phrase": "アカスギを材料に巨大でグロテスクな、しかし美しい円柱を作った。",
-				"translations": [
-					"They made huge, grotesque, yet beautiful poles of red cedar."
-				]
+				"translation": "They made huge, grotesque, yet beautiful poles of red cedar."
 			},
 			{
 				"phrase": "この文書には契約法上の問題はほとんどない、しかし税法上の問題は多々ある。",
-				"translations": [
-					"This document is essentially free of contract law problems, but it has a number of tax law issues."
-				]
+				"translation": "This document is essentially free of contract law problems, but it has a number of tax law issues."
 			},
 			{
 				"phrase": "しかし、外国で友達を作るのはあまり簡単ではありません。",
-				"translations": [
-					"However, making friends in a foreign country is not too simple."
-				]
+				"translation": "However, making friends in a foreign country is not too simple."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/727",
 		"tags": [
 			"grammar::N4"
 		],
 		"id": "727",
-		"noteID": "grammar_8cf6718b-d0e7-4176-8f47-2452ffa9d443"
+		"noteID": "grammar_b5e5afeb-82a5-4a51-95af-5a0fa78d9afa"
 	},
 	{
 		"point": "以上",
@@ -1491,41 +1231,32 @@
 		"phrases": [
 			{
 				"phrase": "あなたは必要以上のカロリーを摂っている。",
-				"translations": [
-					"You take more calories than necessary."
-				]
+				"translation": "You take more calories than necessary."
 			},
 			{
 				"phrase": "私は二時間以上も待った。",
-				"translations": [
-					"I waited more than two hours."
-				]
+				"translation": "I waited more than two hours."
 			},
 			{
 				"phrase": "１０００銘柄以上の株が取引所に上場されている。",
-				"translations": [
-					"More than 1000 issues are listed on the stock exchange."
-				]
+				"translation": "More than 1000 issues are listed on the stock exchange."
 			},
 			{
 				"phrase": "１０ドル以上は使いたくありません。",
-				"translations": [
-					"I don't want to spend more than $10."
-				]
+				"translation": "I don't want to spend more than $10."
 			},
 			{
 				"phrase": "１５種類以上のパイをご用意しています。",
-				"translations": [
-					"There are over 15 different kinds of pies."
-				]
+				"translation": "There are over 15 different kinds of pies."
 			}
 		],
 		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/673",
 		"tags": [
 			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "673",
-		"noteID": "grammar_85c63701-f7a6-4375-9cc2-8df36c22a75f"
+		"noteID": "grammar_40b58ba2-4f40-4d80-81cf-54e761836d26"
 	}
 ]
