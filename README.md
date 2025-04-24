@@ -43,11 +43,11 @@
 - **261 common radicals**, foundational for kanji recognition.
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **41,872 common words** written entirely in kana.
+- **4,696 common words** written entirely in kana.
 
-### **Complete Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **10,106 kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
-- **199,232 vocabulary words**, each linked to relevant kanji.
+### **Complete Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
+- **2,609 common kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
+- **30,776 common words**, each linked to relevant kanji.
 
 ---
 
@@ -64,7 +64,7 @@ This deck is compiled from and inspired by multiple projects:
 - **[jpdb](https://jpdb.io/)** *([ToS](https://jpdb.io/terms-of-use))*
 - **[Takoboto](https://takoboto.jp/)**
 
-## **jpdb.io notice**
+## **jpdb.io Notice**
 This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jpdb.io/). If my usage of your content violates your policies or you want your content removed from this deck, please feel free to contact me.
 
 ## **Audio Generation**
