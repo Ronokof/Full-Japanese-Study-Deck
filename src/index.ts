@@ -5,5 +5,5 @@ saveEntries(resultPaths.kanjiJLPT);
 saveEntries(resultPaths.radicals);
 saveEntries(resultPaths.kana);
 saveEntries(resultPaths.grammar);
-saveEntries(resultPaths.allKanji);
+saveEntries(resultPaths.extraKanji);
 saveEntries(resultPaths.allKana);

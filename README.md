@@ -24,7 +24,7 @@
 
 ### The other subdecks
 - Use all the *"reference material"* subdecks for a quick search when you need to look up radicals, kana, kanji etc.
-- As for the *"ready-made mined material"* subdecks, all cards are suspended by default. Over time, unsuspend and learn the ones you find useful.
+- As for the *"ready-made mining material"* subdecks, all cards are suspended by default. Over time, unsuspend and learn the ones you find useful.
 
 ## **Deck Contents**
 
@@ -42,12 +42,12 @@
 ### **Kanji Radicals** (reference material)
 - **261 common radicals**, foundational for kanji recognition.
 
-### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **4,696 common words** written entirely in kana.
+### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
+- **4,087 common words** written entirely in kana.
 
-### **Complete Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mined material)
-- **2,609 common kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
-- **30,776 common words**, each linked to relevant kanji.
+### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
+- **470 extra common kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
+- **19,092 common words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 

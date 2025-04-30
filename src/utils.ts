@@ -122,7 +122,7 @@ export interface ResultPathsObject {
     radicals: string;
     kana: string;
     grammar: string;
-    allKanji: string;
+    extraKanji: string;
     allKana: string;
 }
 
@@ -132,7 +132,7 @@ export const resultPaths: ResultPathsObject = {
     radicals: path.resolve('./results/radicals'),
     kana: path.resolve('./results/kana'),
     grammar: path.resolve('./results/grammar'),
-    allKanji: path.resolve('./results/all-kanji'),
+    extraKanji: path.resolve('./results/extra-kanji'),
     allKana: path.resolve('./results/all-kana')
 };
 
@@ -283,14 +283,11 @@ export function generateAnkiNotesFile(list: Result[], urlPath: Path | string): s
                 else if (filenameParts[1]! === 'extended') deck += `0. Kana::${(filenameParts[0]! === 'hiragana') ? 'Hiragana' : (filenameParts[0]! === 'katakana') ? 'Katakana' : ''} extended`;
                 else if (filenameParts[0]! === 'kanji' && filenameParts[1]!.startsWith('n')) deck += `1. JLPT::Kanji::${filenameParts[1]!.toUpperCase()}`;
                 else if (filenameParts[0]! === 'vocab' && filenameParts[1]!.startsWith('n')) deck += `1. JLPT::Vocab::${filenameParts[1]!.toUpperCase()}`;
+                else if (filenameParts[0]! === 'extra' && filenameParts[1]! === 'kanji') deck += '5. Extra kanji (mining/reference)::Kanji';
 
                 break;
             case 3:
-                if (filenameParts[0]! === 'kanji' && filenameParts[1]! === 'block') deck += `5. All kanji (mining/reference)::Kanji::Block ${filenameParts[2]!.toUpperCase()}`;
-
-                break;
-            case 4:
-                if (filenameParts[0]! === 'kanji' && filenameParts[1]! === 'words' && filenameParts[2]! === 'block') deck += `5. All kanji (mining/reference)::Vocab::Block ${filenameParts[3]!.toUpperCase()}`;
+                if (filenameParts[0]! === 'extra' && filenameParts[1]! === 'kanji' && filenameParts[2]! === 'words') deck += '5. Extra kanji (mining/reference)::Vocab';
 
                 break;
             default:
