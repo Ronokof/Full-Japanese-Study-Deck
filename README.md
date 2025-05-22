@@ -90,6 +90,8 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
   - If audio plays repetitively or automatically, turn on the **"Don't play audio automatically"** setting from the deck's options.
 - **AWS Limitations:**
   - Not all entries, particularly in the JLPT vocab subdeck, have accurate or available audio due to AWS constraints.
+- **Card Errors**
+  - If you spot any errors in the cards, please consult the original sources (JMDict, KANJIDIC, JGram etc.) and either make corrections yourself or submit a correction request. I am not responsible for any mistakes in the data I have used. Every now and then I will update the deck with the latest data.
 
 ## Donate
 - BTC: bc1q0n600md4qctphy0eql3x5k2m3t68kkftzggt56
