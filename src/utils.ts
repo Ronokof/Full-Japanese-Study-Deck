@@ -70,6 +70,7 @@ export interface Radical {
 export interface Phrase {
     phrase: string;
     translation: string;
+    furigana?: string | undefined;
 }
 
 export interface Word {
@@ -203,7 +204,7 @@ export function generateAnkiNote(entry: Result): string[] {
                 ],
             entry.translations.map((translationEntry: Translation) => createEntry(`<span class="word word-translation">${translationEntry.translation}</span>`, translationEntry.notes)).join(''),
             (entry.kanji) ? entry.kanji.map((kanjiEntry: Kanji) => createEntry(`<span class="word word-kanji">${kanjiEntry.kanji}${(kanjiEntry.meanings === undefined) ? ' (no meanings)' : ''}</span>`, kanjiEntry.meanings)).join('') : '<span class="word word-kanji">(no kanji)</span>',
-            (entry.phrases) ? entry.phrases.map((phraseEntry: Phrase) => createEntry(`<span class="word word-phrase">${phraseEntry.phrase}</span>`, [phraseEntry.translation], undefined, true)).join('') : '<span class="word word-phrase">(no phrases) (Search on dictionaries!)</span>',
+            (entry.phrases) ? entry.phrases.map((phraseEntry: Phrase) => createEntry(`<span class="word word-phrase"><ruby><rb>${phraseEntry.phrase}</rb><rt>${phraseEntry.furigana!}</rt></ruby></span>`, [phraseEntry.translation], undefined, true)).join('') : '<span class="word word-phrase">(no phrases) (Search on dictionaries!)</span>',
             ...(entry.tags && entry.tags.length > 0) ? [entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ')] : []
         );
     }
@@ -244,7 +245,7 @@ export function generateAnkiNote(entry: Result): string[] {
         (entry.readings) ? entry.readings.map((readingEntry: Reading) => createEntry(`<span class="grammar grammar-reading">${readingEntry.reading}</span>`)).join('') : '<span class="grammar grammar-reading">(no additional readings)</span>',
         createEntry(`<span class="grammar grammar-meaning">${entry.meaning.meaning}${(entry.meaning.example && entry.meaning.example.length > 0) ? `<br><span class="grammar grammar-meaning-example">${entry.meaning.example}</span>` : ''}</span>`),
         (entry.usages) ? entry.usages.map((usage) => createEntry(`<span class="grammar grammar-usage">${usage}</span>`)).join('') : '<span class="grammar grammar-usage">(no usages)</span>',
-        (entry.phrases) ? entry.phrases.map((phraseEntry: Phrase) => createEntry(`<span class="grammar grammar-phrase">${phraseEntry.phrase}</span>`, [phraseEntry.translation])).join('') : '<span class="grammar grammar-phrase">(no phrases) (Search on dictionaries!)</span>',
+        (entry.phrases) ? entry.phrases.map((phraseEntry: Phrase) => createEntry(`<span class="grammar grammar-phrase"><ruby><rb>${phraseEntry.phrase}</rb><rt>${phraseEntry.furigana!}</rt></ruby></span>`, [phraseEntry.translation], undefined, true)).join('') : '<span class="grammar grammar-phrase">(no phrases) (Search on dictionaries!)</span>',
         (entry.source) ? `<span class="grammar grammar-source"><a href="${entry.source}" target="_blank">Source</a></span>` : '<span class="grammar grammar-source">(no source)</span>',
         ...(entry.tags && entry.tags.length > 0) ? [entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ')] : []
     );

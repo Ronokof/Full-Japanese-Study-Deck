@@ -13,23 +13,28 @@
 		"phrases": [
 			{
 				"phrase": "私の先生がそう言うのもごもっともだ。",
-				"translation": "My teacher is quite absolutely right in saying so."
+				"translation": "My teacher is quite absolutely right in saying so.",
+				"furigana": "わたし の せんせい が そう いう の も ご もっとも だ 。"
 			},
 			{
 				"phrase": "私の先生がそう言うのもごもっともだ。",
-				"translation": "My teacher is quite absolutely right in saying so."
+				"translation": "My teacher is quite absolutely right in saying so.",
+				"furigana": "わたし の せんせい が そう いう の も ご もっとも だ 。"
 			},
 			{
 				"phrase": "私の先生がそう言うのもごもっともだ。",
-				"translation": "My teacher is quite absolutely right in saying so."
+				"translation": "My teacher is quite absolutely right in saying so.",
+				"furigana": "わたし の せんせい が そう いう の も ご もっとも だ 。"
 			},
 			{
 				"phrase": "雨が降ってきました。その上悪いことに強い風が吹いてきました。",
-				"translation": "It began rain. To make matters worse, a strong wind was blowing."
+				"translation": "It began rain. To make matters worse, a strong wind was blowing.",
+				"furigana": "あめ が ふって き まし た 。 その うえ わるい こと に つよい かぜ が ふい て き まし た 。"
 			},
 			{
 				"phrase": "彼は英語を話せる。その上、フランス語も話せる。",
-				"translation": "He can speak English. In addition, he can speak French."
+				"translation": "He can speak English. In addition, he can speak French.",
+				"furigana": "かれ は えいご を はなせる 。 その うえ 、 フランスご も はなせる 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1711",
@@ -48,23 +53,28 @@
 		"phrases": [
 			{
 				"phrase": "もしかして、あなたは社長ですか？",
-				"translation": "Are you the president, by any chance?"
+				"translation": "Are you the president, by any chance?",
+				"furigana": "もしかして 、 あなた は しゃちょう です か ？"
 			},
 			{
 				"phrase": "もしかして名案じゃないかな。",
-				"translation": "Maybe it's a great idea."
+				"translation": "Maybe it's a great idea.",
+				"furigana": "もしかして めいあん じゃ ない か な 。"
 			},
 			{
 				"phrase": "もしかして財布を落としたかも。",
-				"translation": "Maybe I dropped down my wallet."
+				"translation": "Maybe I dropped down my wallet.",
+				"furigana": "もしかして さいふ を おとし た かも 。"
 			},
 			{
 				"phrase": "もしかして鍵を失くしたのですか？",
-				"translation": "Do you happen to lose your key?"
+				"translation": "Do you happen to lose your key?",
+				"furigana": "もしかして かぎ を しつ くし た の です か ？"
 			},
 			{
 				"phrase": "あなた、もしかして、俳優？",
-				"translation": "Are you, by any chance , an actor?"
+				"translation": "Are you, by any chance , an actor?",
+				"furigana": "あなた 、 もしかして 、 はいゆう ？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1722",
@@ -83,23 +93,28 @@
 		"phrases": [
 			{
 				"phrase": "私は宿題をしなければならない。",
-				"translation": "I must do my assignment."
+				"translation": "I must do my assignment.",
+				"furigana": "わたし は しゅくだい を し なけれ ば なら ない 。"
 			},
 			{
 				"phrase": "私は日本語を勉強しなければならない。",
-				"translation": "I have to study Japanese."
+				"translation": "I have to study Japanese.",
+				"furigana": "わたし は にほんご を べんきょう し なけれ ば なら ない 。"
 			},
 			{
 				"phrase": "私は今週、期末試験を受けなければならない。",
-				"translation": "I have to take my final exams this week."
+				"translation": "I have to take my final exams this week.",
+				"furigana": "わたし は こんしゅう 、 きまつ しけん を うけ なけれ ば なら ない 。"
 			},
 			{
 				"phrase": "私は朝食を食べなければならない。",
-				"translation": "I have to eat breakfast."
+				"translation": "I have to eat breakfast.",
+				"furigana": "わたし は ちょうしょく を たべ なけれ ば なら ない 。"
 			},
 			{
 				"phrase": "私は10時ごろに出発しなければならない。",
-				"translation": "I have to get going at about 10"
+				"translation": "I have to get going at about 10",
+				"furigana": "わたし は 10 じ ごろ に しゅっぱつ し なけれ ば なら ない 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1709",
@@ -118,23 +133,28 @@
 		"phrases": [
 			{
 				"phrase": "今夜は眠れそうもない。",
-				"translation": "I don't think I can sleep tonight."
+				"translation": "I don't think I can sleep tonight.",
+				"furigana": "こんや は ねむれ そう も ない 。"
 			},
 			{
 				"phrase": "明日は雪が降りそうもない。",
-				"translation": "There is no way it snows tomorrow."
+				"translation": "There is no way it snows tomorrow.",
+				"furigana": "あした は ゆき が おり そう も ない 。"
 			},
 			{
 				"phrase": "明日までにこの宿題を終われそうもない。",
-				"translation": "I don't think I can finish this homework by tomorrow."
+				"translation": "I don't think I can finish this homework by tomorrow.",
+				"furigana": "あした まで に この しゅくだい を おわれ そう も ない 。"
 			},
 			{
 				"phrase": "あまり期待できそうもない。",
-				"translation": "There is not much hope."
+				"translation": "There is not much hope.",
+				"furigana": "あまり きたい でき そう も ない 。"
 			},
 			{
 				"phrase": "あなたは一度その映画を見たら、忘れそうもないでしょう。",
-				"translation": "Once you see the movie, you will never forget it."
+				"translation": "Once you see the movie, you will never forget it.",
+				"furigana": "あなた は いちど その えいが を み たら 、 わすれ そう も ない でしょ う 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1721",
@@ -153,23 +173,28 @@
 		"phrases": [
 			{
 				"phrase": "謝りなさい。さもないと、怒りますよ。",
-				"translation": "Say you're sorry right now. Otherwise, I will be angry."
+				"translation": "Say you're sorry right now. Otherwise, I will be angry.",
+				"furigana": "あやまり なさい 。 さも ない と 、 おこり ます よ 。"
 			},
 			{
 				"phrase": "このバスに乗らなくてはいけない、さもないと学校に遅刻してしまう。",
-				"translation": "I have to get on this bus, otherwise I'll be late for school."
+				"translation": "I have to get on this bus, otherwise I'll be late for school.",
+				"furigana": "この バス に のら なく て は いけ ない 、 さも ない と がっこう に ちこく し て しまう 。"
 			},
 			{
 				"phrase": "私は急がなければなりません、さもないと、バスに遅れます。",
-				"translation": "I have to hurry up, otherwise I'll miss the bus."
+				"translation": "I have to hurry up, otherwise I'll miss the bus.",
+				"furigana": "わたし は いそが なけれ ば なり ませ ん 、 さも ない と 、 バス に おくれ ます 。"
 			},
 			{
 				"phrase": "ボタンを留めなさい。さもないと、風邪をひきますよ。",
-				"translation": "Button up your coat, otherwise you will catch cold."
+				"translation": "Button up your coat, otherwise you will catch cold.",
+				"furigana": "ボタン を とめ なさい 。 さも ない と 、 かぜ を ひき ます よ 。"
 			},
 			{
 				"phrase": "英語を勉強しなさい、さもないとテストに落ちますよ。",
-				"translation": "Study English, otherwise you will fail the test."
+				"translation": "Study English, otherwise you will fail the test.",
+				"furigana": "えいご を べんきょう し なさい 、 さも ない と テスト に おち ます よ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1706",
@@ -193,23 +218,28 @@
 		"phrases": [
 			{
 				"phrase": "コーラか何かおごるよ。",
-				"translation": "Let me buy you a coke or something."
+				"translation": "Let me buy you a coke or something.",
+				"furigana": "コーラ か なに か おごる よ 。"
 			},
 			{
 				"phrase": "私はアイスクリームかなにか食べたいです。",
-				"translation": "I want to eat ice creams or something."
+				"translation": "I want to eat ice creams or something.",
+				"furigana": "わたし は アイスクリーム か なにか たべ たい です 。"
 			},
 			{
 				"phrase": "そこには猿か何かいます。",
-				"translation": "There are monkeys or something there."
+				"translation": "There are monkeys or something there.",
+				"furigana": "そこ に は さる か なに かい ます 。"
 			},
 			{
 				"phrase": "冷たい飲み物か何かください。",
-				"translation": "Please give me a cool drink or something."
+				"translation": "Please give me a cool drink or something.",
+				"furigana": "つめたい のみもの か なに か ください 。"
 			},
 			{
 				"phrase": "野球か何かしたいです。",
-				"translation": "I want to play baseball or something."
+				"translation": "I want to play baseball or something.",
+				"furigana": "やきゅう か なに か し たい です 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1707",
@@ -228,23 +258,28 @@
 		"phrases": [
 			{
 				"phrase": "あれはそんなによかったっけ？",
-				"translation": "Was it that good?"
+				"translation": "Was it that good?",
+				"furigana": "あれ は そんなに よかった っけ ？"
 			},
 			{
 				"phrase": "いつ映画を見にいったっけ？",
-				"translation": "When did we go to a movie?"
+				"translation": "When did we go to a movie?",
+				"furigana": "いつ えいが を み に いった っけ ？"
 			},
 			{
 				"phrase": "どこまで話したっけ？",
-				"translation": "Where did I leave off?"
+				"translation": "Where did I leave off?",
+				"furigana": "どこ まで はなし た っけ ？"
 			},
 			{
 				"phrase": "ジョンの家はどこでしたっけ？",
-				"translation": "Where is John's house again?"
+				"translation": "Where is John's house again?",
+				"furigana": "ジョン の いえ は どこ でし た っけ ？"
 			},
 			{
 				"phrase": "お昼ご飯何食べたっけ？",
-				"translation": "What did I eat lunch today?"
+				"translation": "What did I eat lunch today?",
+				"furigana": "おひる ごはん なに たべ た っけ ？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1710",
@@ -268,23 +303,28 @@
 		"phrases": [
 			{
 				"phrase": "彼はとてもあなたの様に見える。",
-				"translation": "He looks just like you."
+				"translation": "He looks just like you.",
+				"furigana": "かれ は とても あなた の よう に みえる 。"
 			},
 			{
 				"phrase": "この店はとても盛況のようだね。",
-				"translation": "This shop looks like it is doing well."
+				"translation": "This shop looks like it is doing well.",
+				"furigana": "この みせ は とても せいきょう の よう だ ね 。"
 			},
 			{
 				"phrase": "彼はまるで王の様だった。",
-				"translation": "He looked like a　king."
+				"translation": "He looked like a　king.",
+				"furigana": "かれ は まるで おう の よう だっ た 。"
 			},
 			{
 				"phrase": "彼はお疲れの様だ。",
-				"translation": "He looks tired."
+				"translation": "He looks tired.",
+				"furigana": "かれ は お つかれ の よう だ 。"
 			},
 			{
 				"phrase": "鬼の様な先生だ。",
-				"translation": "A teacher look a devil."
+				"translation": "A teacher look a devil.",
+				"furigana": "おに の よう な せんせい だ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1713",
@@ -308,23 +348,28 @@
 		"phrases": [
 			{
 				"phrase": "わたしに飲み物を下さいませんか？",
-				"translation": "Please give me something to drink?"
+				"translation": "Please give me something to drink?",
+				"furigana": "わたし に のみもの を ください ませ ん か ？"
 			},
 			{
 				"phrase": "英語で自己紹介して下さいませんか？",
-				"translation": "Could you tell me about yourself in English?"
+				"translation": "Could you tell me about yourself in English?",
+				"furigana": "えいご で じこ しょうかい し て ください ませ ん か ？"
 			},
 			{
 				"phrase": "その本を貸して下さいませんか？",
-				"translation": "Could you lend me the book?"
+				"translation": "Could you lend me the book?",
+				"furigana": "その ほん を かし て ください ませ ん か ？"
 			},
 			{
 				"phrase": "お代わりを下さいませんか？",
-				"translation": "Could you give me another one?"
+				"translation": "Could you give me another one?",
+				"furigana": "お かわり を ください ませ ん か ？"
 			},
 			{
 				"phrase": "もっとはっきり説明して下さいませんか？",
-				"translation": "Would you explain that more clearly?"
+				"translation": "Would you explain that more clearly?",
+				"furigana": "もっと はっきり せつめい し て ください ませ ん か ？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1720",
@@ -343,23 +388,28 @@
 		"phrases": [
 			{
 				"phrase": "このペンをお借りしてもいいですか？",
-				"translation": "May I borrow this pen?"
+				"translation": "May I borrow this pen?",
+				"furigana": "この ペン を お かり し て も いい です か ？"
 			},
 			{
 				"phrase": "家に帰ってもいいですか？",
-				"translation": "May I go back home?"
+				"translation": "May I go back home?",
+				"furigana": "いえ に かえって も いい です か ？"
 			},
 			{
 				"phrase": "机の上のりんごを食べてもいいですか？",
-				"translation": "May I eat these apples on the table?"
+				"translation": "May I eat these apples on the table?",
+				"furigana": "つくえ の うえ の りんご を たべ て も いい です か ？"
 			},
 			{
 				"phrase": "ここに座ってもいいですか？",
-				"translation": "Do you mind if I sit here?"
+				"translation": "Do you mind if I sit here?",
+				"furigana": "ここ に すわって も いい です か ？"
 			},
 			{
 				"phrase": "先生に話してもいいですか？",
-				"translation": "Can I talk to my teacher?"
+				"translation": "Can I talk to my teacher?",
+				"furigana": "せんせい に はなし て も いい です か ？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1723",
@@ -378,23 +428,28 @@
 		"phrases": [
 			{
 				"phrase": "どうぞお座りください。",
-				"translation": "Please sit down."
+				"translation": "Please sit down.",
+				"furigana": "どうぞ お すわり ください 。"
 			},
 			{
 				"phrase": "スナック菓子をご自由にどうぞ。",
-				"translation": "Help yourself to a snack."
+				"translation": "Help yourself to a snack.",
+				"furigana": "スナックがし を ご じゆう に どうぞ 。"
 			},
 			{
 				"phrase": "どうぞ座ったままで結構です。",
-				"translation": "Please keep your seats."
+				"translation": "Please keep your seats.",
+				"furigana": "どうぞ すわった まま で けっこう です 。"
 			},
 			{
 				"phrase": "どうぞごゆっくりしていってください。",
-				"translation": "You can stay as long as you like."
+				"translation": "You can stay as long as you like.",
+				"furigana": "どうぞ ご ゆっくり し て いって ください 。"
 			},
 			{
 				"phrase": "どうぞ、おっしゃってください。",
-				"translation": "Go ahead and say it."
+				"translation": "Go ahead and say it.",
+				"furigana": "どうぞ 、 おっしゃって ください 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1717",
@@ -418,23 +473,28 @@
 		"phrases": [
 			{
 				"phrase": "時間がたつのも忘れちゃったよ",
-				"translation": "I lost track of time."
+				"translation": "I lost track of time.",
+				"furigana": "じかん が たつ の も わすれ ちゃった よ"
 			},
 			{
 				"phrase": "私は時間がたつのを待った。",
-				"translation": "I waited for time to pass ."
+				"translation": "I waited for time to pass .",
+				"furigana": "わたし は じかん が たつ の を まった 。"
 			},
 			{
 				"phrase": "忙しいときは時間がたつのが早い。",
-				"translation": "Time passes quickly when you're busy."
+				"translation": "Time passes quickly when you're busy.",
+				"furigana": "いそがしい とき は じかん が たつ の が はやい 。"
 			},
 			{
 				"phrase": "楽しいとき、時間がたつのは早い。",
-				"translation": "Time flies when you are having fun."
+				"translation": "Time flies when you are having fun.",
+				"furigana": "たのしい とき 、 じかん が たつ の は はやい 。"
 			},
 			{
 				"phrase": "コンデンサは時間がたつと電荷を失う。",
-				"translation": "Capacitors lose their charge over time."
+				"translation": "Capacitors lose their charge over time.",
+				"furigana": "コンデンサ は じかん が たつ と でんか を うしなう 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1719",
@@ -453,23 +513,28 @@
 		"phrases": [
 			{
 				"phrase": "彼女は一日中泣いてました。",
-				"translation": "She cried all day."
+				"translation": "She cried all day.",
+				"furigana": "かのじょ は いち にち ちゅう ない て まし た 。"
 			},
 			{
 				"phrase": "その犬は一晩中ほえ続けた。",
-				"translation": "The dog kept barking all night."
+				"translation": "The dog kept barking all night.",
+				"furigana": "その いぬ は いち ばん ちゅう ほえ つづけ た 。"
 			},
 			{
 				"phrase": "会議中（ちゅう）にお腹がグーグー鳴っていて困ったよ。",
-				"translation": "My stomach started growling right there in the meeting. It was embarrassing."
+				"translation": "My stomach started growling right there in the meeting. It was embarrassing.",
+				"furigana": "かいぎ ちゅう （ ち ゅう ） に おなか が グーグー なって い て こまった よ 。"
 			},
 			{
 				"phrase": "冬中暖房無しで過ごした。",
-				"translation": "I did without heating all through the winter."
+				"translation": "I did without heating all through the winter.",
+				"furigana": "ふゆ ちゅう だんぼう なし で すごし た 。"
 			},
 			{
 				"phrase": "家内は海外旅行中（ちゅう）よく電話をかけてきた。",
-				"translation": "My wife often rang me up during her travel abroad."
+				"translation": "My wife often rang me up during her travel abroad.",
+				"furigana": "かない は かいがい りょこう ちゅう （ ち ゅう ） よく でんわ を かけ て き た 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/739",
@@ -488,23 +553,28 @@
 		"phrases": [
 			{
 				"phrase": "上例のように使えば、いいと思います。",
-				"translation": "I think it is alright if you use it like the example above"
+				"translation": "I think it is alright if you use it like the example above",
+				"furigana": "うえ れい の よう に つかえ ば 、 いい と おもい ます 。"
 			},
 			{
 				"phrase": "忘れ物をしないようにご注意して下さい。",
-				"translation": "In order not to leave things, please take care (often heard on trains)"
+				"translation": "In order not to leave things, please take care (often heard on trains)",
+				"furigana": "わすれもの を し ない よう に ご ちゅうい し て ください 。"
 			},
 			{
 				"phrase": "この度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。",
-				"translation": "Please excuse us for the bother, but could those people who have acquired the data erroneously disseminated on this occasion please delete them."
+				"translation": "Please excuse us for the bother, but could those people who have acquired the data erroneously disseminated on this occasion please delete them.",
+				"furigana": "この たび の りゅうしゅつ し た データ を にゅうしゅ さ れ た ほう は おてかず です が さくじょ いただけ ます よう おねがい もうしあげ ます 。"
 			},
 			{
 				"phrase": "あなたが元気になりますように",
-				"translation": "I pray you get better soon."
+				"translation": "I pray you get better soon.",
+				"furigana": "あなた が げんき に なり ます よう に"
 			},
 			{
 				"phrase": "パソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。",
-				"translation": "The computer admin has become really tricky, so in order to make it easier to do, I'll be changing things bit by bit"
+				"translation": "The computer admin has become really tricky, so in order to make it easier to do, I'll be changing things bit by bit",
+				"furigana": "パソコン かんり が はんざつ に なって き まし た ので 、 かんり し やすい よう に じょじょに へんこう し て いき ます 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1268",
@@ -523,23 +593,28 @@
 		"phrases": [
 			{
 				"phrase": "できるだけ早く参ります。",
-				"translation": "I'll come as soon as I can."
+				"translation": "I'll come as soon as I can.",
+				"furigana": "できるだけ はやく まいり ます 。"
 			},
 			{
 				"phrase": "この本はできるだけ早く返してくれ。",
-				"translation": "Return this book as soon as you can."
+				"translation": "Return this book as soon as you can.",
+				"furigana": "この ほん は できるだけ はやく かえし て くれ 。"
 			},
 			{
 				"phrase": "できるだけ早く起きなさい。",
-				"translation": "Get up as early as you can."
+				"translation": "Get up as early as you can.",
+				"furigana": "できるだけ はやく おき なさい 。"
 			},
 			{
 				"phrase": "できるだけ速く走ったので、友人に追いつけた。",
-				"translation": "Running as fast as I could, I was able to catch up with my friend."
+				"translation": "Running as fast as I could, I was able to catch up with my friend.",
+				"furigana": "できるだけ はやく はしった ので 、 ゆうじん に おいつけ た 。"
 			},
 			{
 				"phrase": "彼はできるだけ長く生きたいと思っている。",
-				"translation": "He wants to live as long as he can."
+				"translation": "He wants to live as long as he can.",
+				"furigana": "かれ は できるだけ ながく いき たい と おもって いる 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1473",
@@ -558,23 +633,28 @@
 		"phrases": [
 			{
 				"phrase": "関係者は真実を明らかにせねばならない",
-				"translation": "Those involved must tell the truth"
+				"translation": "Those involved must tell the truth",
+				"furigana": "かんけい しゃ は しんじつ を あきらか に せ ね ば なら ない"
 			},
 			{
 				"phrase": "これらの製品の新たなる販路を開拓せねばならない。",
-				"translation": "We have to find a new market for these products."
+				"translation": "We have to find a new market for these products.",
+				"furigana": "これら の せいひん の あらた なる はんろ を かいたく せ ね ば なら ない 。"
 			},
 			{
 				"phrase": "是非とも目標を達成せねばならない。",
-				"translation": "I have to attain my purpose at all costs."
+				"translation": "I have to attain my purpose at all costs.",
+				"furigana": "ぜひ とも もくひょう を たっせい せ ね ば なら ない 。"
 			},
 			{
 				"phrase": "老人を尊敬せねばならない。",
-				"translation": "You have to respect the old."
+				"translation": "You have to respect the old.",
+				"furigana": "ろうじん を そんけい せ ね ば なら ない 。"
 			},
 			{
 				"phrase": "私は彼に遅れをとらないように一生懸命勉強せねばならない。",
-				"translation": "I must study hard in order to keep up of him."
+				"translation": "I must study hard in order to keep up of him.",
+				"furigana": "わたし は かれ に おくれ を とら ない よう に いっしょうけんめい べんきょう せ ね ば なら ない 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1519",
@@ -593,23 +673,28 @@
 		"phrases": [
 			{
 				"phrase": "それを自分に対して、ましてや他人に対して認めるのは、とても難しいことだ。",
-				"translation": "It's very hard to admit that to yourself let alone to other people."
+				"translation": "It's very hard to admit that to yourself let alone to other people.",
+				"furigana": "それ を じぶん にたいして 、 ましてや たにん にたいして みとめる の は 、 とても むずかしい こと だ 。"
 			},
 			{
 				"phrase": "私はギターを弾くことはできない。ましてやバイオリンは弾けない。",
-				"translation": "I can't play the guitar, much less the violin."
+				"translation": "I can't play the guitar, much less the violin.",
+				"furigana": "わたし は ギター を ひく こと は でき ない 。 ましてや バイオリン は ひけ ない 。"
 			},
 			{
 				"phrase": "私は誰にもこの時計を貸すつもりはありません。ましてや手放すつもりなど毛頭ありません。",
-				"translation": "I have no intention of lending this watch to anyone, much less parting with it."
+				"translation": "I have no intention of lending this watch to anyone, much less parting with it.",
+				"furigana": "わたし は だれ に も この とけい を かす つもり は あり ませ ん 。 ましてや てばなす つもり など もうとう あり ませ ん 。"
 			},
 			{
 				"phrase": "私は中古車を買う余裕などなく、ましてや新車などはもってのほかだ。",
-				"translation": "I can't afford to buy a used car, much less a new car."
+				"translation": "I can't afford to buy a used car, much less a new car.",
+				"furigana": "わたし は ちゅうこ しゃ を かう よゆう など なく 、 ましてや しんしゃ など は もってのほか だ 。"
 			},
 			{
 				"phrase": "彼は、フランス語を話せる、ましてや英語も話せる。",
-				"translation": "He can speak French, still more English."
+				"translation": "He can speak French, still more English.",
+				"furigana": "かれ は 、 フランスご を はなせる 、 ましてや えいご も はなせる 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1520",
@@ -636,23 +721,28 @@
 		"phrases": [
 			{
 				"phrase": "レンズを通して町を眺める。",
-				"translation": "View the town through a camera lens"
+				"translation": "View the town through a camera lens",
+				"furigana": "レンズ をとおして まち を ながめる 。"
 			},
 			{
 				"phrase": "この目を通して見た現実。",
-				"translation": "Reality as seen with one's own eyes [through one's own eyes]"
+				"translation": "Reality as seen with one's own eyes [through one's own eyes]",
+				"furigana": "この め をとおして み た げんじつ 。"
 			},
 			{
 				"phrase": "紹介者を通して発注する。",
-				"translation": "Place an order through an intermediary"
+				"translation": "Place an order through an intermediary",
+				"furigana": "しょうかい しゃ をとおして はっちゅう する 。"
 			},
 			{
 				"phrase": "通訳を通して会談する。",
-				"translation": "Hold discussions with the aid of [using the services of, through] an interpreter"
+				"translation": "Hold discussions with the aid of [using the services of, through] an interpreter",
+				"furigana": "つうやく をとおして かいだん する 。"
 			},
 			{
 				"phrase": "彼女の評判は田中さんを通して知っている。",
-				"translation": "I know of her reputation via [from] Mrs. Tanaka"
+				"translation": "I know of her reputation via [from] Mrs. Tanaka",
+				"furigana": "かのじょ の ひょうばん は たなか さん をとおして しって いる 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1679",
@@ -672,19 +762,23 @@
 		"phrases": [
 			{
 				"phrase": "あなたはたくさんお金をもっているが、私は少しも（お金を）持ってない。",
-				"translation": "You have a lot of money, and I have none."
+				"translation": "You have a lot of money, and I have none.",
+				"furigana": "あなた は たくさん おかね を もって いる が 、 わたし は すこし も （ おかね を ） もって ない 。"
 			},
 			{
 				"phrase": "あなたは少しも幸せではない。",
-				"translation": "You are not in the least happy."
+				"translation": "You are not in the least happy.",
+				"furigana": "あなた は すこし も しあわせ で は ない 。"
 			},
 			{
 				"phrase": "あなたは少しも眠れないことがある。",
-				"translation": "Sometimes you can't sleep at all."
+				"translation": "Sometimes you can't sleep at all.",
+				"furigana": "あなた は すこし も ねむれ ない こと が ある 。"
 			},
 			{
 				"phrase": "いいえ、少しも（ありません）。",
-				"translation": "Not at all."
+				"translation": "Not at all.",
+				"furigana": "いいえ 、 すこし も （ あり ませ ん ） 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1478",
@@ -703,19 +797,23 @@
 		"phrases": [
 			{
 				"phrase": "だからこそ気になるものだ",
-				"translation": "precisely what is so worrisome"
+				"translation": "precisely what is so worrisome",
+				"furigana": "だからこそ き に なる もの だ"
 			},
 			{
 				"phrase": "だからこそ私は本当に〜したい。",
-				"translation": "and that's exactly why I would really like to..."
+				"translation": "and that's exactly why I would really like to...",
+				"furigana": "だからこそ わたし は ほんとうに 〜 し たい 。"
 			},
 			{
 				"phrase": "だからこそ注意しないといけないんだよ。",
-				"translation": "All the more reason to be careful."
+				"translation": "All the more reason to be careful.",
+				"furigana": "だからこそ ちゅうい し ない と いけ ない ん だ よ 。"
 			},
 			{
 				"phrase": "あなたが来いと言ったからこそ私は来たんです。",
-				"translation": "I came especially because you said to."
+				"translation": "I came especially because you said to.",
+				"furigana": "あなた が こい と いった から こそ わたし は き た ん です 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1494",
@@ -734,19 +832,23 @@
 		"phrases": [
 			{
 				"phrase": "本当にいくの? 行くってば！",
-				"translation": "Will you really go there? I said I would go!"
+				"translation": "Will you really go there? I said I would go!",
+				"furigana": "ほんとうに いく の ?   いく って ば ！"
 			},
 			{
 				"phrase": "早く帰りなさいってば！",
-				"translation": "I told you go home at once!"
+				"translation": "I told you go home at once!",
+				"furigana": "はやく かえり なさい って ば ！"
 			},
 			{
 				"phrase": "何だってば！",
-				"translation": "I say what’s that!"
+				"translation": "I say what’s that!",
+				"furigana": "なに だって ば ！"
 			},
 			{
 				"phrase": "マールでいいってば！",
-				"translation": "I'm telling you , Marle's fine!"
+				"translation": "I'm telling you , Marle's fine!",
+				"furigana": "マール で いい って ば ！"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1516",
@@ -770,19 +872,23 @@
 		"phrases": [
 			{
 				"phrase": "昔は新婚旅行といえばハワイだったが、今ではトルコやエジプトも珍しくない。",
-				"translation": "Long ago, if mentioning honeymoon travel, you would think of Hawaii, but now Turkey and Egypt are also not unusual."
+				"translation": "Long ago, if mentioning honeymoon travel, you would think of Hawaii, but now Turkey and Egypt are also not unusual.",
+				"furigana": "むかし は しんこん りょこう と いえ ば ハワイ だっ た が 、 いま で は トルコ や エジプト も めずらしく ない 。"
 			},
 			{
 				"phrase": "おじは今では安楽に暮らしている。",
-				"translation": "My uncle now lives in comfort."
+				"translation": "My uncle now lives in comfort.",
+				"furigana": "おじ は いま で は あんらく に くらし て いる 。"
 			},
 			{
 				"phrase": "この型のカメラは今では流行遅れである。",
-				"translation": "This type of camera is now out of fashion."
+				"translation": "This type of camera is now out of fashion.",
+				"furigana": "この かた の カメラ は いま で は りゅうこう おくれ で ある 。"
 			},
 			{
 				"phrase": "この言葉は今では用いられない。",
-				"translation": "This word has gone out of use."
+				"translation": "This word has gone out of use.",
+				"furigana": "この ことば は いま で は もちい られ ない 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1585",
@@ -804,11 +910,13 @@
 		"phrases": [
 			{
 				"phrase": "久しぶりに田舎へ帰りました。",
-				"translation": "After a long time I returned back to my hometown."
+				"translation": "After a long time I returned back to my hometown.",
+				"furigana": "ひさしぶり に いなか へ かえり まし た 。"
 			},
 			{
 				"phrase": "３年ぶりに日本に帰ってきました！",
-				"translation": "I'm back to Japan after 3 years!"
+				"translation": "I'm back to Japan after 3 years!",
+				"furigana": "３ ねん ぶり に にっぽん に かえって き まし た ！"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1686",
@@ -828,15 +936,18 @@
 		"phrases": [
 			{
 				"phrase": "どちらかと言えば海に行きたい。",
-				"translation": "If I had my druthers, I would like to go to the sea."
+				"translation": "If I had my druthers, I would like to go to the sea.",
+				"furigana": "どちら か と いえ ば うみ に いき たい 。"
 			},
 			{
 				"phrase": "どちらかといえば泳ぎはうまい方でした。",
-				"translation": "He was, if anything, a good swimmer."
+				"translation": "He was, if anything, a good swimmer.",
+				"furigana": "どちら か と いえ ば およぎ は うまい ほう でし た 。"
 			},
 			{
 				"phrase": "どちらかといえば今日はあの人に会いたくない。",
-				"translation": "I would rather not see him(her) today."
+				"translation": "I would rather not see him(her) today.",
+				"furigana": "どちら か と いえ ば きょう は あの ひと に あい たく ない 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1477",
@@ -860,15 +971,18 @@
 		"phrases": [
 			{
 				"phrase": "したい放題にする",
-				"translation": "Do as you like."
+				"translation": "Do as you like.",
+				"furigana": "したい ほうだい に する"
 			},
 			{
 				"phrase": "飲み放題",
-				"translation": "all you can drink"
+				"translation": "all you can drink",
+				"furigana": "のみ ほうだい"
 			},
 			{
 				"phrase": "食べ放題",
-				"translation": "all you can eat"
+				"translation": "all you can eat",
+				"furigana": "たべ ほうだい"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1651",
@@ -892,15 +1006,18 @@
 		"phrases": [
 			{
 				"phrase": "第一回目試験を落第したから、受け直すつもりだよ。dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.",
-				"translation": "Since (I) failed the test the first time, (I'm) planning on re-taking it."
+				"translation": "Since (I) failed the test the first time, (I'm) planning on re-taking it.",
+				"furigana": "だい いち かい め しけん を らくだい し た から 、 うけ なおす つもり だ よ 。 dai   ikkai   me   shiken   wo   rakudai   shita   kara ,   uke - naosu   tsumori   da   yo ."
 			},
 			{
 				"phrase": "やりなおす。",
-				"translation": "(I) will redo it."
+				"translation": "(I) will redo it.",
+				"furigana": "やりなおす 。"
 			},
 			{
 				"phrase": "聞き直したがまだわからない。",
-				"translation": "(I) listened to it again but I still don't understand it."
+				"translation": "(I) listened to it again but I still don't understand it.",
+				"furigana": "きき なおし た が まだ わから ない 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1685",
@@ -919,11 +1036,13 @@
 		"phrases": [
 			{
 				"phrase": "９時に彼女らと会うのか？そうするとビールを飲む時間はないんだよ！ くそ！",
-				"translation": "We're meeting the girls at 9? That means there's no time to drink beer! Damnit!"
+				"translation": "We're meeting the girls at 9? That means there's no time to drink beer! Damnit!",
+				"furigana": "９ じ に かのじょら と あう の か ？ そうすると ビール を のむ じかん は ない ん だ よ ！   くそ ！"
 			},
 			{
 				"phrase": "そうするといやが上にも美しく見える。",
-				"translation": "That makes you much more attractive still."
+				"translation": "That makes you much more attractive still.",
+				"furigana": "そうすると いや が うえ に も うつくしく みえる 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1407",
@@ -942,11 +1061,13 @@
 		"phrases": [
 			{
 				"phrase": "あの人はなんとなく母を想いださせる。",
-				"translation": "She vaguely resembles my mother."
+				"translation": "She vaguely resembles my mother.",
+				"furigana": "あの ひと は なんとなく はは を おもい ださ せる 。"
 			},
 			{
 				"phrase": "なんとなく京都に行きたくなった。",
-				"translation": "Somehow I wanted to go to Kyoto."
+				"translation": "Somehow I wanted to go to Kyoto.",
+				"furigana": "なんとなく きょうと に いき たく なった 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1475",
@@ -965,11 +1086,13 @@
 		"phrases": [
 			{
 				"phrase": "日本のソフトクリームとは、ラベンダーひとつとっても様々な珍しい味が楽しめる商品だ。",
-				"translation": "Japanese soft-serve ice cream is a product you can enjoy in a variety of exotic flavors, such as Lavender."
+				"translation": "Japanese soft-serve ice cream is a product you can enjoy in a variety of exotic flavors, such as Lavender.",
+				"furigana": "にっぽん の ソフトクリーム と は 、 ラベンダー ひとつ とっても さまざま な めずらしい あじ が たのしめる しょうひん だ 。"
 			},
 			{
 				"phrase": "部屋探しひとつとっても外国人として日本に生活を始めるのが難しいと言われる。",
-				"translation": "It is said that it is hard to start living in Japan as a foreigner; take the search for an apartment as an example."
+				"translation": "It is said that it is hard to start living in Japan as a foreigner; take the search for an apartment as an example.",
+				"furigana": "へや さがし ひとつ とっても がいこく じん として にっぽん に せいかつ を はじめる の が むずかしい と いわ れる 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1497",
@@ -988,11 +1111,13 @@
 		"phrases": [
 			{
 				"phrase": "今日の天気が昨日のような天気だったら良かった。のに",
-				"translation": "I wish today's weather had been as nice as yesterday's. のに"
+				"translation": "I wish today's weather had been as nice as yesterday's. のに",
+				"furigana": "きょう の てんき が きのう の よう な てんき だっ たら よかった 。 のに"
 			},
 			{
 				"phrase": "雨さえやめばいいのになあ。",
-				"translation": "If only it would stop raining!"
+				"translation": "If only it would stop raining!",
+				"furigana": "あめ さえ やめ ば いい のに なあ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1593",
@@ -1016,11 +1141,13 @@
 		"phrases": [
 			{
 				"phrase": "あなたは未だとても若い。未だ",
-				"translation": "you are still very young still"
+				"translation": "you are still very young still",
+				"furigana": "あなた は いまだ とても わかい 。 いまだ"
 			},
 			{
 				"phrase": "宿題を未だ終わっていない。",
-				"translation": "I still haven`t finished my homework."
+				"translation": "I still haven`t finished my homework.",
+				"furigana": "しゅくだい を いまだ おわって い ない 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1624",
@@ -1039,11 +1166,13 @@
 		"phrases": [
 			{
 				"phrase": "とっさの機転で、災難を逃れることができた。",
-				"translation": "Due to my (instinctive) quick wits, I was able to escape the calamity."
+				"translation": "Due to my (instinctive) quick wits, I was able to escape the calamity.",
+				"furigana": "とっさ の きてん で 、 さいなん を のがれる こと が でき た 。"
 			},
 			{
 				"phrase": "彼の反応はとっさに出たものだ。",
-				"translation": "His response is automatic."
+				"translation": "His response is automatic.",
+				"furigana": "かれ の はんのう は とっさ に で た もの だ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1631",
@@ -1080,11 +1209,13 @@
 		"phrases": [
 			{
 				"phrase": "何よりも、満員電車に乗らなくてもすむのはうれしい。",
-				"translation": "Above anything, employees are happy for not having to ride on overcrowded trains."
+				"translation": "Above anything, employees are happy for not having to ride on overcrowded trains.",
+				"furigana": "なに より も 、 まんいん でんしゃ に のら なく て も すむ の は うれしい 。"
 			},
 			{
 				"phrase": "今度の試験は易しいから、あまり勉強しなくてもすむ。",
-				"translation": "The upcoming test should be easy, so I think I can get by without studying much."
+				"translation": "The upcoming test should be easy, so I think I can get by without studying much.",
+				"furigana": "こんど の しけん は やさしい から 、 あまり べんきょう し なく て も すむ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1673",
@@ -1103,11 +1234,13 @@
 		"phrases": [
 			{
 				"phrase": "うちの息子ときたら、全然勉強しないで、ゲームばっかりしてるのよ。",
-				"translation": "Speaking of my son, he is always playing games without studying."
+				"translation": "Speaking of my son, he is always playing games without studying.",
+				"furigana": "うち の むすこ とき たら 、 ぜんぜん べんきょう し ない で 、 ゲーム ばっかり し てる の よ 。"
 			},
 			{
 				"phrase": "私ときたら、料理はまったくだめなのよ。",
-				"translation": "I really can't cook at all."
+				"translation": "I really can't cook at all.",
+				"furigana": "わたし と き たら 、 りょうり は まったく だめ な の よ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1678",
@@ -1126,11 +1259,13 @@
 		"phrases": [
 			{
 				"phrase": "それは母体に良く、ひいてはお腹の赤ちゃんにも良い。",
-				"translation": "It is good for the mother's body, which in turn is good for her coming baby."
+				"translation": "It is good for the mother's body, which in turn is good for her coming baby.",
+				"furigana": "それ は ぼたい に よく 、 ひいては おなか の あかちゃん に も よい 。"
 			},
 			{
 				"phrase": "ひいては国際化に繋がるのだ ろうか?",
-				"translation": "ENG Will this in turn lead to internationalization?"
+				"translation": "ENG Will this in turn lead to internationalization?",
+				"furigana": "ひいては こくさい か に つながる の だ   ろう か ?"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1681",
@@ -1149,11 +1284,13 @@
 		"phrases": [
 			{
 				"phrase": "今年の収支は赤字であるからして、来年はなんとか黒字にしよう。",
-				"translation": "Our balance sheet is in the red this year; consequently ,let's try to somehow come out on top next year."
+				"translation": "Our balance sheet is in the red this year; consequently ,let's try to somehow come out on top next year.",
+				"furigana": "ことし の しゅうし は あかじ で ある から し て 、 らいねん は なんとか くろじ に しよう 。"
 			},
 			{
 				"phrase": "そういう噂からして、あの二人は近々結婚するだろう。",
-				"translation": "Since that sort of rumor is going around, consequently, it's likely that those two will get married soon."
+				"translation": "Since that sort of rumor is going around, consequently, it's likely that those two will get married soon.",
+				"furigana": "そういう うわさ から し て 、 あの に にん は ちかぢか けっこん する だろ う 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1778",
@@ -1172,11 +1309,13 @@
 		"phrases": [
 			{
 				"phrase": "iPadが欲しい。ミニだろうがエアーだろうが欲しい。",
-				"translation": "I want an iPad. Doesn't matter if Mini or Air, in any case I want it"
+				"translation": "I want an iPad. Doesn't matter if Mini or Air, in any case I want it",
+				"furigana": "iPad が ほしい 。 ミニ だろ う が エアー だろ う が ほしい 。"
 			},
 			{
 				"phrase": "住みやすかろうが住みにくかろうが、大事なのは家賃が低いことです",
-				"translation": "Doesn't matter if it's nice to live there or not (nice to live), the important thing is a cheap rent"
+				"translation": "Doesn't matter if it's nice to live there or not (nice to live), the important thing is a cheap rent",
+				"furigana": "すみ やすかろ う が すみ にくかろ う が 、 だいじ な の は やちん が ひくい こと です"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1781",
@@ -1195,7 +1334,8 @@
 		"phrases": [
 			{
 				"phrase": "２人っきりでデート・・もとい、ＯＦＦ会だと思ったけど、そこまで甘くもないよな。",
-				"translation": "So I thought my date er rather offline-meeting was going to be just me and her but I things aren't that easy."
+				"translation": "So I thought my date er rather offline-meeting was going to be just me and her but I things aren't that easy.",
+				"furigana": "２ にん っきり で デート ・ ・ もと い 、 ＯＦＦ かい だ と おもった けど 、 そこ まで あまく も ない よ な 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1587",
@@ -1219,7 +1359,8 @@
 		"phrases": [
 			{
 				"phrase": "彼におめでとうと伝えていただけませんか。",
-				"translation": "Please tell him congratulations from me."
+				"translation": "Please tell him congratulations from me.",
+				"furigana": "かれ に おめでとう と つたえ て い た だけ ませ ん か 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1598",
@@ -1238,7 +1379,8 @@
 		"phrases": [
 			{
 				"phrase": "The city that I live in is small,and moreover, it is very quiet.",
-				"translation": "住んでいる市は小さいし、それにとても静かな市です。"
+				"translation": "住んでいる市は小さいし、それにとても静かな市です。",
+				"furigana": "The   city   that   I   live   in   is   small , and   moreover ,   it   is   very   quiet ."
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1637",
@@ -1257,7 +1399,8 @@
 		"phrases": [
 			{
 				"phrase": "会社のメールに山田さんよりのレポートがあります。",
-				"translation": "There is a report from Mr. Yamada in the company's e-mail."
+				"translation": "There is a report from Mr. Yamada in the company's e-mail.",
+				"furigana": "かいしゃ の メール に やまだ さん より の レポート が あり ます 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1650",
@@ -1281,7 +1424,8 @@
 		"phrases": [
 			{
 				"phrase": "夜が次第に長くなる.",
-				"translation": "The nights are gaining on the day."
+				"translation": "The nights are gaining on the day.",
+				"furigana": "よる が しだいに ながく なる ."
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1667",
@@ -1305,7 +1449,8 @@
 		"phrases": [
 			{
 				"phrase": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。",
-				"translation": "The suspect believed in the prosecutor's words THAT the prosecution would be delayed if he confessed."
+				"translation": "The suspect believed in the prosecutor's words THAT the prosecution would be delayed if he confessed.",
+				"furigana": "ひぎ しゃ が けんさつかん の 、 じはく を すれ ば きそ ゆうよ する むね の ことば を しんじ た 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1669",
@@ -1329,7 +1474,8 @@
 		"phrases": [
 			{
 				"phrase": "Wikipediaはブリタニカ並みに正確だ。",
-				"translation": "Wikipedia is as accurate as Britannica"
+				"translation": "Wikipedia is as accurate as Britannica",
+				"furigana": "Wikipedia は ブリタニカ なみ に せいかく だ 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1682",
@@ -1348,7 +1494,8 @@
 		"phrases": [
 			{
 				"phrase": "A contract with that company is worth next to nothing.",
-				"translation": "あの会社との契約はあってなきに等しいものです。"
+				"translation": "あの会社との契約はあってなきに等しいものです。",
+				"furigana": "A   contract   with   that   company   is   worth   next   to   nothing ."
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1687",
@@ -1372,7 +1519,8 @@
 		"phrases": [
 			{
 				"phrase": "たばこを止めることにしました。",
-				"translation": "I have decided to quit smoking."
+				"translation": "I have decided to quit smoking.",
+				"furigana": "たばこ を とめる こと に し まし た 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1769",
@@ -1396,7 +1544,8 @@
 		"phrases": [
 			{
 				"phrase": "Q. ピクニックは どこが　いいですか？　A. どこでも いいです。",
-				"translation": "Q. Where is the best spot for a picnic? A. Anywhere will do. (Whenever will be okay)"
+				"translation": "Q. Where is the best spot for a picnic? A. Anywhere will do. (Whenever will be okay)",
+				"furigana": "Q .   ピクニック は   どこ が 　 いい です か ？ 　 A .   どこ でも   いい です 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1771",
@@ -1415,7 +1564,8 @@
 		"phrases": [
 			{
 				"phrase": "能力のなさ",
-				"translation": "lack of ability"
+				"translation": "lack of ability",
+				"furigana": "のうりょく の な さ"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1785",
@@ -1434,7 +1584,8 @@
 		"phrases": [
 			{
 				"phrase": "こんな大きなケーキをよくもひとりで食べられるものだ",
-				"translation": "How the hell could he eat a cake that big all by himself?"
+				"translation": "How the hell could he eat a cake that big all by himself?",
+				"furigana": "こんな おおきな ケーキ を よくも ひとり で たべ られる もの だ"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1787",
@@ -1562,23 +1713,28 @@
 		"phrases": [
 			{
 				"phrase": "両親に相談したあげくに、彼と離婚することにした。",
-				"translation": "After talking with both (his) parents the end result was that I decided to divorce him."
+				"translation": "After talking with both (his) parents the end result was that I decided to divorce him.",
+				"furigana": "りょうしん に そうだん し た あげく に 、 かれ と りこん する こと に し た 。"
 			},
 			{
 				"phrase": "挙げ句の果てに彼は刑務所行きになった。",
-				"translation": "In the end he landed up in jail."
+				"translation": "In the end he landed up in jail.",
+				"furigana": "あげく の はて に かれ は けいむしょ いき に なった 。"
 			},
 			{
 				"phrase": "4頭の象が酔っ払った挙句の果てに高圧線に襲い掛かって感電死。",
-				"translation": "Four elephants get drunk and in the end crashed into high-voltage power lines, electrocuted."
+				"translation": "Four elephants get drunk and in the end crashed into high-voltage power lines, electrocuted.",
+				"furigana": "4 とう の ぞう が よっぱらった あげく の はて に こうあつせん に おそい かかって かんでん し 。"
 			},
 			{
 				"phrase": "散々考えた挙げ句その計画を実行にうつした",
-				"translation": "After hard thinking , I carried out the plan"
+				"translation": "After hard thinking , I carried out the plan",
+				"furigana": "さんざん かんがえ た あげく その けいかく を じっこう に うつし た"
 			},
 			{
 				"phrase": "彼女はみんなにさんざん迷惑をかけたあげく、あいさつもしないで会社をやめていった。",
-				"translation": "After she gave people a great deal of trouble, she left the company without even saying good-bye."
+				"translation": "After she gave people a great deal of trouble, she left the company without even saying good-bye.",
+				"furigana": "かのじょ は みんな に さんざん めいわく を かけ た あげく 、 あいさつ も し ない で かいしゃ を やめ て いった 。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/978",

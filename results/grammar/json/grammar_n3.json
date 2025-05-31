@@ -8,23 +8,28 @@
 		"phrases": [
 			{
 				"phrase": "食べ過ぎて、イチゴさえ食べられない。",
-				"translation": "I am so full I could not even eat a strawberry."
+				"translation": "I am so full I could not even eat a strawberry.",
+				"furigana": "たべ すぎ て 、 イチゴ さえ たべ られ ない 。"
 			},
 			{
 				"phrase": "食べ物がなくなれば、人間はネズミさえ食べる。",
-				"translation": "If there is no food, humans would even eat a mouse."
+				"translation": "If there is no food, humans would even eat a mouse.",
+				"furigana": "たべもの が なくなれ ば 、 にんげん は ネズミ さえ たべる 。"
 			},
 			{
 				"phrase": "ほとんどの人がその存在さえ知らないようなこと",
-				"translation": "thing which most people don't even know exists"
+				"translation": "thing which most people don't even know exists",
+				"furigana": "ほとんど の ひと が その そんざい さえ しら ない よう な こと"
 			},
 			{
 				"phrase": "ソースコードを見つけられさえしないのに、開発するなんてもってのほかだ。",
-				"translation": "they can't even -find- the source code, let alone finish developing it!"
+				"translation": "they can't even -find- the source code, let alone finish developing it!",
+				"furigana": "ソース コード を みつけ られ さえ し ない のに 、 かいはつ する なんて もってのほか だ 。"
 			},
 			{
 				"phrase": "定規を使ってさえ、まっすぐに線が引けない。",
-				"translation": "Even using a ruler, he cannot draw a straight line."
+				"translation": "Even using a ruler, he cannot draw a straight line.",
+				"furigana": "じょうぎ を つかって さえ 、 まっすぐ に せん が ひけ ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -53,23 +58,28 @@
 		"phrases": [
 			{
 				"phrase": "今日の会議でこの議題を中心に議論をしましょう。",
-				"translation": "Let's make this matter the central topic of the discussion at today's meeting,"
+				"translation": "Let's make this matter the central topic of the discussion at today's meeting,",
+				"furigana": "きょう の かいぎ で この ぎだい を ちゅうしん に ぎろん を し ましょ う 。"
 			},
 			{
 				"phrase": "駅を中心にたくさんの商店が集まっている。",
-				"translation": "Centered around the station there are many stores."
+				"translation": "Centered around the station there are many stores.",
+				"furigana": "えき を ちゅうしん に たくさん の しょうてん が あつまって いる 。"
 			},
 			{
 				"phrase": "中国を海外展開計画の中心に議論しましょう",
-				"translation": "Let's make China the center of our overseas expansion plan discussion"
+				"translation": "Let's make China the center of our overseas expansion plan discussion",
+				"furigana": "ちゅうごく を かいがい てんかい けいかく の ちゅうしん に ぎろん し ましょ う"
 			},
 			{
 				"phrase": "この地方を中心として、山地は、本州の東北では三列に、同じく西南では二列に分かれて連なっています。",
-				"translation": "Centered around this region, three separate mountain ranges extend towards north-east of Honshu, and two separate mountain ranges extend to the south-western part of Honshu"
+				"translation": "Centered around this region, three separate mountain ranges extend towards north-east of Honshu, and two separate mountain ranges extend to the south-western part of Honshu",
+				"furigana": "この ちほう を ちゅうしん として 、 さんち は 、 ほんしゅう の とうほく で は さん れつ に 、 おなじく せいなん で は に れつ に わかれ て つらなって い ます 。"
 			},
 			{
 				"phrase": "その家のことはすべてメアリーおばさんを中心に動いていた。",
-				"translation": "Everything in that house revolved around Aunt Mary."
+				"translation": "Everything in that house revolved around Aunt Mary.",
+				"furigana": "その いえ の こと は すべて メアリー おばさん を ちゅうしん に うごい て い た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -101,23 +111,28 @@
 		"phrases": [
 			{
 				"phrase": "私は日本に行った時日本語を勉強した",
-				"translation": "When  I was in Japan, I studied Japanese."
+				"translation": "When  I was in Japan, I studied Japanese.",
+				"furigana": "わたし は にっぽん に いった とき にほんご を べんきょう し た"
 			},
 			{
 				"phrase": "いつでも都合のいい時にお金を返してください。",
-				"translation": "Pay me back when it's convenient."
+				"translation": "Pay me back when it's convenient.",
+				"furigana": "いつ でも つごう の いい とき に おかね を かえし て ください 。"
 			},
 			{
 				"phrase": "何というときに出てきたんだ！",
-				"translation": "How on earth could you make your appearance at a crucial time like this!"
+				"translation": "How on earth could you make your appearance at a crucial time like this!",
+				"furigana": "なに という とき に で て き た ん だ ！"
 			},
 			{
 				"phrase": "危険なとき",
-				"translation": "When in danger"
+				"translation": "When in danger",
+				"furigana": "きけん な とき"
 			},
 			{
 				"phrase": "会議のとき",
-				"translation": "During the meeting"
+				"translation": "During the meeting",
+				"furigana": "かいぎ の とき"
 			}
 		],
 		"jlpt": "N3",
@@ -141,23 +156,28 @@
 		"phrases": [
 			{
 				"phrase": "この部屋は物置として使っている。",
-				"translation": "I'm using this room as a storeroom."
+				"translation": "I'm using this room as a storeroom.",
+				"furigana": "この へや は ものおき として つかって いる 。"
 			},
 			{
 				"phrase": "李さんは自動車の会社でエンジニアとして働いている。",
-				"translation": "Mister Lee is working in a car maker firm as an engineer."
+				"translation": "Mister Lee is working in a car maker firm as an engineer.",
+				"furigana": "り さん は じどうしゃ の かいしゃ で エンジニア として はたらい て いる 。"
 			},
 			{
 				"phrase": "彼は単に冗談としてそれを言った。",
-				"translation": "He said it merely as a joke."
+				"translation": "He said it merely as a joke.",
+				"furigana": "かれ は たんに じょうだん として それ を いった 。"
 			},
 			{
 				"phrase": "先生として働いています。",
-				"translation": "I work as a teacher."
+				"translation": "I work as a teacher.",
+				"furigana": "せんせい として はたらい て い ます 。"
 			},
 			{
 				"phrase": "私は医者としてあなたに言います。",
-				"translation": "I'll tell you this as a doctor."
+				"translation": "I'll tell you this as a doctor.",
+				"furigana": "わたし は いしゃ として あなた に いい ます 。"
 			}
 		],
 		"jlpt": "N3",
@@ -186,23 +206,28 @@
 		"phrases": [
 			{
 				"phrase": "両親の期待に反して女の子が生まれた。",
-				"translation": "Contrary to the parents expectations, a girl was born."
+				"translation": "Contrary to the parents expectations, a girl was born.",
+				"furigana": "りょうしん の きたい に はんし て おんなのこ が うまれ た 。"
 			},
 			{
 				"phrase": "国民の期待に反して政府は年金制度改正法案の強行採決に踏み切った。",
-				"translation": "Contrary to the peoples expectations, the government bulldozed the pension system revision bill through the Diet."
+				"translation": "Contrary to the peoples expectations, the government bulldozed the pension system revision bill through the Diet.",
+				"furigana": "こくみん の きたい に はんし て せいふ は ねんきん せいど かいせい ほうあん の きょうこう さいけつ に ふみきった 。"
 			},
 			{
 				"phrase": "研究社員になる希望に反して大学を止めらなければなりませんでした。",
-				"translation": "I had to drop out of university against my aspirations of becoming a scientist."
+				"translation": "I had to drop out of university against my aspirations of becoming a scientist.",
+				"furigana": "けんきゅう しゃいん に なる きぼう に はんし て だいがく を とめ ら なけれ ば なり ませ ん でし た 。"
 			},
 			{
 				"phrase": "神の意向に反して人間は自然を破壊している。",
-				"translation": "Contrary to God's will, humans are destroying nature."
+				"translation": "Contrary to God's will, humans are destroying nature.",
+				"furigana": "かみ の いこう に はんし て にんげん は しぜん を はかい し て いる 。"
 			},
 			{
 				"phrase": "（僕の期待に反して）実のところ物価は毎週上昇している。",
-				"translation": "( Against my expectations) prices are going up every week.（M)"
+				"translation": "( Against my expectations) prices are going up every week.（M)",
+				"furigana": "（ ぼく の きたい に はんし て ） み の ところ ぶっか は まいしゅう じょうしょう し て いる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -223,23 +248,28 @@
 		"phrases": [
 			{
 				"phrase": "朝寝坊した。それで仕事に遅れたんだ。",
-				"translation": "I overslept. Due to that,  I was late for work."
+				"translation": "I overslept. Due to that,  I was late for work.",
+				"furigana": "あさねぼう し た 。 それで しごと に おくれ た ん だ 。"
 			},
 			{
 				"phrase": "３時のバスで行こうよ。それでいいかい？",
-				"translation": "I say we catch the 3 o'clock bus. Is that alright with you?"
+				"translation": "I say we catch the 3 o'clock bus. Is that alright with you?",
+				"furigana": "３ じ の バス で いこう よ 。 それで いい かい ？"
 			},
 			{
 				"phrase": "それでどうなりましたか？",
-				"translation": "And then  what happened?"
+				"translation": "And then  what happened?",
+				"furigana": "それで どう なり まし た か ？"
 			},
 			{
 				"phrase": "それでこのカードに記入してください。",
-				"translation": "Then you just have to fill out this card."
+				"translation": "Then you just have to fill out this card.",
+				"furigana": "それで この カード に きにゅう し て ください 。"
 			},
 			{
 				"phrase": "それでこれ以上の義務を負わなくてよくなる。",
-				"translation": "That absolves me from further responsibility."
+				"translation": "That absolves me from further responsibility.",
+				"furigana": "それで これ いじょう の ぎむ を おわ なく て よく なる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -264,23 +294,28 @@
 		"phrases": [
 			{
 				"phrase": "このコンピューター１年前に買ったばかりなのに、もうすっかり時代遅れだわ。",
-				"translation": "Even though  I bought this computer one year ago, it's already old fashioned."
+				"translation": "Even though  I bought this computer one year ago, it's already old fashioned.",
+				"furigana": "この コンピューター １ ねん まえ に かった ばかり な のに 、 もう すっかり じだいおくれ だ わ 。"
 			},
 			{
 				"phrase": "この情報は当然最新であるべきなのに、実際はそうでない。",
-				"translation": "This information is not as up-to-date as it should be."
+				"translation": "This information is not as up-to-date as it should be.",
+				"furigana": "この じょうほう は とうぜん さいしん で ある べき な のに 、 じっさい は そう で ない 。"
 			},
 			{
 				"phrase": "これは新しい靴なのにもう修理する必要がある。",
-				"translation": "These new shoes already want mending."
+				"translation": "These new shoes already want mending.",
+				"furigana": "これ は あたらしい くつ な のに もう しゅうり する ひつよう が ある 。"
 			},
 			{
 				"phrase": "ずっと歩いて来たとは、あなたは足が丈夫なのにちがいない。",
-				"translation": "You must have a strong leg to have walked all the way."
+				"translation": "You must have a strong leg to have walked all the way.",
+				"furigana": "ずっと あるい て き た と は 、 あなた は あし が じょうぶ な のに ちがい ない 。"
 			},
 			{
 				"phrase": "ジムは目覚めると、自分が部屋に１人なのに気がついた。",
-				"translation": "Jim awoke and found himself alone in the room."
+				"translation": "Jim awoke and found himself alone in the room.",
+				"furigana": "ジム は めざめる と 、 じぶん が へや に １ にん な のに き が つい た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -305,23 +340,28 @@
 		"phrases": [
 			{
 				"phrase": "私のボスは、短気で怒りがち。　　　（怒りっぽい is conventional.）",
-				"translation": "My boss is short-tempered and tends to get  angry easily  ."
+				"translation": "My boss is short-tempered and tends to get  angry easily  .",
+				"furigana": "わたし の ボス は 、 たんき で いかり がち 。 　 　 　 （ いかり っぽい   is   conventional .）"
 			},
 			{
 				"phrase": "担当者の好き嫌いによる誤解も場合によっては起こりがち。",
-				"translation": "In some cases, misunderstanding tends to  occur due to the likes and dislikes of the person in charge."
+				"translation": "In some cases, misunderstanding tends to  occur due to the likes and dislikes of the person in charge.",
+				"furigana": "たんとう しゃ の すききらい による ごかい も ばあい によって は おこり がち 。"
 			},
 			{
 				"phrase": "曇りがち",
-				"translation": "mainly  cloudy"
+				"translation": "mainly  cloudy",
+				"furigana": "くもり がち"
 			},
 			{
 				"phrase": "遠慮がち",
-				"translation": "Tends to be reserved/timid"
+				"translation": "Tends to be reserved/timid",
+				"furigana": "えんりょ がち"
 			},
 			{
 				"phrase": "お金持ちは貧乏人を見下しがちである。",
-				"translation": "The rich are apt to look down upon the poor."
+				"translation": "The rich are apt to look down upon the poor.",
+				"furigana": "お かねもち は びんぼうにん を みくだし がち で ある 。"
 			}
 		],
 		"jlpt": "N3",
@@ -352,23 +392,28 @@
 		"phrases": [
 			{
 				"phrase": "全然見込みがないわけではないが、あまり期待はしない方がいいでしょう",
-				"translation": "it does not mean that there is no hope, but you'd better not expect too much"
+				"translation": "it does not mean that there is no hope, but you'd better not expect too much",
+				"furigana": "ぜんぜん みこみ が ない わけ で は ない が 、 あまり きたい は し ない ほう が いい でしょ う"
 			},
 			{
 				"phrase": "あいつは馬鹿というわけではないがそれにしても、やってることはどうかなあ。",
-				"translation": "While I am not saying he is stupid, I have my doubts when I look at what he is actually doing."
+				"translation": "While I am not saying he is stupid, I have my doubts when I look at what he is actually doing.",
+				"furigana": "あいつ は ばか という わけ で は ない が それにしても 、 やってる こと は どう か なあ 。"
 			},
 			{
 				"phrase": "世界中の人が同じ言語を話すわけではないので、現在、翻訳に多くの努力が費やされている。",
-				"translation": "Because people in the world don't speak the same language, much effort is now devoted to translation."
+				"translation": "Because people in the world don't speak the same language, much effort is now devoted to translation.",
+				"furigana": "せかいじゅう の ひと が おなじ げんご を はなす わけ で は ない ので 、 げんざい 、 ほんやく に おおく の どりょく が ついやさ れ て いる 。"
 			},
 			{
 				"phrase": "あの男しかいないわけではないよ。",
-				"translation": "He is not the only pebble on the beach."
+				"translation": "He is not the only pebble on the beach.",
+				"furigana": "あの おとこ しか い ない わけ で は ない よ 。"
 			},
 			{
 				"phrase": "あれは全く誤りというわけではない。",
-				"translation": "That is not altogether false."
+				"translation": "That is not altogether false.",
+				"furigana": "あれ は まったく あやまり という わけ で は ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -389,23 +434,28 @@
 		"phrases": [
 			{
 				"phrase": "「かっこいいじゃん！」「でしょう、でしょう！！」",
-				"translation": "\"You look cool!\" \" Don't I? Don't I? \""
+				"translation": "\"You look cool!\" \" Don't I? Don't I? \"",
+				"furigana": "「 かっこいい じゃん ！ 」 「 でしょ う 、 でしょ う ！ ！ 」"
 			},
 			{
 				"phrase": "毒魚ってなんだろう？",
-				"translation": "\"Poison fish\"- whadd'ya suppose they are?"
+				"translation": "\"Poison fish\"- whadd'ya suppose they are?",
+				"furigana": "どくぎょ ってな ん だろ う ？"
 			},
 			{
 				"phrase": "「洞窟の中で何が起こっているんだろう？すごく知りたいな。」「見当もつかないよ。」",
-				"translation": "\"What's going on in the cave? I'm curious.\" \"I have no idea.\""
+				"translation": "\"What's going on in the cave? I'm curious.\" \"I have no idea.\"",
+				"furigana": "「 どうくつ の なか で なに が おこって いる ん だろ う ？ すごく しり たい な 。 」 「 けんとう も つか ない よ 。 」"
 			},
 			{
 				"phrase": "「何時だろうか」と彼は疑った。",
-				"translation": "\"What time is it?\" he wondered."
+				"translation": "\"What time is it?\" he wondered.",
+				"furigana": "「 なん じ だろ う か 」 と かれ は うたがった 。"
 			},
 			{
 				"phrase": "10年後には私たちの町も大いに変わるだろう。",
-				"translation": "In ten years our town will change a lot."
+				"translation": "In ten years our town will change a lot.",
+				"furigana": "10 ねん ご に は わたし たち の まち も おおいに かわる だろ う 。"
 			}
 		],
 		"jlpt": "N3",
@@ -433,23 +483,28 @@
 		"phrases": [
 			{
 				"phrase": "中野先生はたいてい研究室にいらっしゃるのに、今日に限っていらしゃらなかった。",
-				"translation": "Professor Nakano is usually in his office, but today, of all days, he wasn't there."
+				"translation": "Professor Nakano is usually in his office, but today, of all days, he wasn't there.",
+				"furigana": "なかの せんせい は たいてい けんきゅう しつ に いらっしゃる のに 、 きょう に かぎって い らし ゃらなかった 。"
 			},
 			{
 				"phrase": "嫌なことがある時に限って、嫌なことが重なる。",
-				"translation": "Only when something unpleasant happens, do other unpleasant things occur."
+				"translation": "Only when something unpleasant happens, do other unpleasant things occur.",
+				"furigana": "いや な こと が ある とき に かぎって 、 いや な こと が かさなる 。"
 			},
 			{
 				"phrase": "うちの子供に限ってそんなひどいことはしませんよ。",
-				"translation": "our child, out of all children, would not do such a terrible thing"
+				"translation": "our child, out of all children, would not do such a terrible thing",
+				"furigana": "うち の こども に かぎって そんな ひどい こと は し ませ ん よ 。"
 			},
 			{
 				"phrase": "傘を持っていない日に限って、雨が降る。",
-				"translation": "Just on a day when you don't have an umbrella with you, it will rain."
+				"translation": "Just on a day when you don't have an umbrella with you, it will rain.",
+				"furigana": "かさ を もって い ない ひ に かぎって 、 あめ が ふる 。"
 			},
 			{
 				"phrase": "参加者は女性に限る",
-				"translation": "Female participants only."
+				"translation": "Female participants only.",
+				"furigana": "さんか しゃ は じょせい に かぎる"
 			}
 		],
 		"jlpt": "N3",
@@ -470,23 +525,28 @@
 		"phrases": [
 			{
 				"phrase": "ローマ字しか書けません。",
-				"translation": "I can not write anything but romaji [Roman letters]. (western person)"
+				"translation": "I can not write anything but romaji [Roman letters]. (western person)",
+				"furigana": "ローマじ しか かけ ませ ん 。"
 			},
 			{
 				"phrase": "田中さんしか来ませんでした。",
-				"translation": "No one came except  Mr Tanaka."
+				"translation": "No one came except  Mr Tanaka.",
+				"furigana": "たなか さん しか き ませ ん でし た 。"
 			},
 			{
 				"phrase": "百円しかない。",
-				"translation": "I only have 100 yen"
+				"translation": "I only have 100 yen",
+				"furigana": "ひゃく えん しか ない 。"
 			},
 			{
 				"phrase": "赤いものしかない。",
-				"translation": "Nothing but red things."
+				"translation": "Nothing but red things.",
+				"furigana": "あかい もの しか ない 。"
 			},
 			{
 				"phrase": "そこは車でしか行けない。",
-				"translation": "you can only go there by car"
+				"translation": "you can only go there by car",
+				"furigana": "そこ は くるま で しか いけ ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -511,23 +571,28 @@
 		"phrases": [
 			{
 				"phrase": "駅前でお会いします",
-				"translation": "IN FRONT OF the station"
+				"translation": "IN FRONT OF the station",
+				"furigana": "えきまえ で お あい し ます"
 			},
 			{
 				"phrase": "カフェー内で",
-				"translation": "IN the cafe (= inside)"
+				"translation": "IN the cafe (= inside)",
+				"furigana": "カフェー ない で"
 			},
 			{
 				"phrase": "カフェで",
-				"translation": "AT the cafe (at that place, could be in or outside)"
+				"translation": "AT the cafe (at that place, could be in or outside)",
+				"furigana": "カフェ で"
 			},
 			{
 				"phrase": "駅で",
-				"translation": "AT the station"
+				"translation": "AT the station",
+				"furigana": "えき で"
 			},
 			{
 				"phrase": "駅長室で",
-				"translation": "IN the station masters office"
+				"translation": "IN the station masters office",
+				"furigana": "えきちょう しつ で"
 			}
 		],
 		"jlpt": "N3",
@@ -551,23 +616,28 @@
 		"phrases": [
 			{
 				"phrase": "ジョンは怒りっぽい。",
-				"translation": "John gets angry easily."
+				"translation": "John gets angry easily.",
+				"furigana": "ジョン は いかり っぽい 。"
 			},
 			{
 				"phrase": "子どもっぽい表現だという印象があります",
-				"translation": "The expression has a childish ring to it"
+				"translation": "The expression has a childish ring to it",
+				"furigana": "こども っぽい ひょうげん だ という いんしょう が あり ます"
 			},
 			{
 				"phrase": "かわいいっぽい上原さん。",
-				"translation": "Ms. Uehara, how cute-ish you look."
+				"translation": "Ms. Uehara, how cute-ish you look.",
+				"furigana": "かわいい っぽい うえはら さん 。"
 			},
 			{
 				"phrase": "なにっぽいって！",
-				"translation": "What do you mean, -ish!"
+				"translation": "What do you mean, -ish!",
+				"furigana": "なに っぽい って ！"
 			},
 			{
 				"phrase": "ローラちゃんは色っぽいよ。",
-				"translation": "Laura is sexy!"
+				"translation": "Laura is sexy!",
+				"furigana": "ローラ ちゃん は いろっぽい よ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -591,23 +661,28 @@
 		"phrases": [
 			{
 				"phrase": "「納得いかないんですよ」「何が？何がですの？」",
-				"translation": "\"I just can't accept that!\" \"What? What is it that you can't accept ? \""
+				"translation": "\"I just can't accept that!\" \"What? What is it that you can't accept ? \"",
+				"furigana": "「 なっとく いか ない ん です よ 」 「 なに が ？ なに が です の ？ 」"
 			},
 			{
 				"phrase": "男・女：もうお店やっていないの？！まだ4時だよ。",
-				"translation": "This shop is already closed, is it?  It's still 4."
+				"translation": "This shop is already closed, is it?  It's still 4.",
+				"furigana": "おとこ ・ おんな ： もう お みせ やって い ない の ？ ！ まだ 4 じ だ よ 。"
 			},
 			{
 				"phrase": "なんで彼女がいないの？",
-				"translation": "Why don't you have a girlfriend ? [M/F]"
+				"translation": "Why don't you have a girlfriend ? [M/F]",
+				"furigana": "なんで かのじょ が い ない の ？"
 			},
 			{
 				"phrase": "悪いけどほかに用事があるの。",
-				"translation": "I'm sorry, I have another engagement .[F]"
+				"translation": "I'm sorry, I have another engagement .[F]",
+				"furigana": "わるい けど ほか に ようじ が ある の 。"
 			},
 			{
 				"phrase": "「どうしたの。」「少しほうっておいて。あなたには関係ないことなの。」",
-				"translation": "\"What's wrong with you ?\"[F] \"Leave me alone for a while. It's none of your business.\"[F]"
+				"translation": "\"What's wrong with you ?\"[F] \"Leave me alone for a while. It's none of your business.\"[F]",
+				"furigana": "「 どう し た の 。 」 「 すこし ほうって おい て 。 あなた に は かんけい ない こと な の 。 」"
 			}
 		],
 		"jlpt": "N3",
@@ -628,23 +703,28 @@
 		"phrases": [
 			{
 				"phrase": "アメリカ大陸はコロンブスによって発見された。",
-				"translation": "The American continent was discovered by Columbus."
+				"translation": "The American continent was discovered by Columbus.",
+				"furigana": "アメリカたいりく は コロンブス によって はっけん さ れ た 。"
 			},
 			{
 				"phrase": "Dan Sman さんによって書かれた本",
-				"translation": "A book　written by Mr Dan Sman"
+				"translation": "A book　written by Mr Dan Sman",
+				"furigana": "Dan   Sman   さん によって かか れ た ほん"
 			},
 			{
 				"phrase": "列車の代わりに飛行機に乗ることによって失った時間を埋め合わすことができる。",
-				"translation": "You can make up for lost time by taking an airplane instead of a train."
+				"translation": "You can make up for lost time by taking an airplane instead of a train.",
+				"furigana": "れっしゃ の かわり に ひこうき に のる こと によって うしなった じかん を うめあわす こと が できる 。"
 			},
 			{
 				"phrase": "理想は言葉によって表現される。",
-				"translation": "Thoughts are expressed by means of words."
+				"translation": "Thoughts are expressed by means of words.",
+				"furigana": "りそう は ことば によって ひょうげん さ れる 。"
 			},
 			{
 				"phrase": "リンゴは彼女によってナイフで半分に切られた。",
-				"translation": "The apple was cut in two by her with a knife."
+				"translation": "The apple was cut in two by her with a knife.",
+				"furigana": "リンゴ は かのじょ によって ナイフ で はんぶん に きら れ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -669,23 +749,28 @@
 		"phrases": [
 			{
 				"phrase": "今年は去年に比べ、雨の量が多い。",
-				"translation": "This year, compared to last year, the quantity of rain is much more."
+				"translation": "This year, compared to last year, the quantity of rain is much more.",
+				"furigana": "ことし は きょねん に くらべ 、 あめ の りょう が おおい 。"
 			},
 			{
 				"phrase": "ノーパンクタイヤはエアタイヤに比べて寿命が長く、理想的です。",
-				"translation": "\"no puncture\" tires in comparison with air tires have a long useful life and are ideal"
+				"translation": "\"no puncture\" tires in comparison with air tires have a long useful life and are ideal",
+				"furigana": "ノーパンクタイヤ は エア タイヤ に くらべ て じゅみょう が ながく 、 りそう てき です 。"
 			},
 			{
 				"phrase": "この作品は君の前のに比べて進歩している。",
-				"translation": "This work is an improvement on your last."
+				"translation": "This work is an improvement on your last.",
+				"furigana": "この さくひん は きみ の ぜん の に くらべ て しんぽ し て いる 。"
 			},
 			{
 				"phrase": "この本はあの本に比べて、ためになるばかりでなくおもしろい。",
-				"translation": "This book is not only more instructive but more interesting than that book."
+				"translation": "This book is not only more instructive but more interesting than that book.",
+				"furigana": "この ほん は あの ほん に くらべ て 、 ため に なる ばかり で なく おもしろい 。"
 			},
 			{
 				"phrase": "それは以前に比べて格段に進歩した。",
-				"translation": "It has greatly improved compared with what it was."
+				"translation": "It has greatly improved compared with what it was.",
+				"furigana": "それ は いぜん に くらべ て かくだん に しんぽ し た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -704,23 +789,28 @@
 		"phrases": [
 			{
 				"phrase": "店の前にいつも人が並んでいることから、人気のある店だということがわかる。",
-				"translation": "Since there's always a line of people in front of the store, I understand the fact that it's a popular shop."
+				"translation": "Since there's always a line of people in front of the store, I understand the fact that it's a popular shop.",
+				"furigana": "みせ の まえ に いつも ひと が ならん で いる こと から 、 にんき の ある みせ だ という こと が わかる 。"
 			},
 			{
 				"phrase": "町並みが昔のままに保存され、古い寺も多いことから、その町は「小京都」と呼ばれている。",
-				"translation": "Since the streets are maintained to look how they did long ago, and since there are lots of old temples, that town is called \"Little Kyoto.\""
+				"translation": "Since the streets are maintained to look how they did long ago, and since there are lots of old temples, that town is called \"Little Kyoto.\"",
+				"furigana": "まちなみ が むかし の まま に ほぞん さ れ 、 ふるい てら も おおい こと から 、 その まち は 「 しょう きょうと 」 と よば れ て いる 。"
 			},
 			{
 				"phrase": "文字のことから看板のことまでご相談下さい。",
-				"translation": "Please feel free to contact us about anything from text to signboards."
+				"translation": "Please feel free to contact us about anything from text to signboards.",
+				"furigana": "もじ の こと から かんばん の こと まで ご そうだん ください 。"
 			},
 			{
 				"phrase": "皆さん、話がおしゃむ君のことから逸れてるんですけど｡",
-				"translation": "'Scuze me all, but the subject's about Oshamu-kun so you're getting off topic."
+				"translation": "'Scuze me all, but the subject's about Oshamu-kun so you're getting off topic.",
+				"furigana": "みなさん 、 はなし が おし ゃむ くん の こと から それ てる ん です けど ｡"
 			},
 			{
 				"phrase": "そういうことだから。",
-				"translation": "Because it's supposed to be like that."
+				"translation": "Because it's supposed to be like that.",
+				"furigana": "そういう こと だ から 。"
 			}
 		],
 		"jlpt": "N3",
@@ -743,23 +833,28 @@
 		"phrases": [
 			{
 				"phrase": "愛こそが人を強くする",
-				"translation": "It is love  that truly strengthens people."
+				"translation": "It is love  that truly strengthens people.",
+				"furigana": "あい こそ が ひと を つよく する"
 			},
 			{
 				"phrase": "今度こそやってやる。",
-				"translation": "I'm gonna do it this time"
+				"translation": "I'm gonna do it this time",
+				"furigana": "こんど こそ やって やる 。"
 			},
 			{
 				"phrase": "夢こそが希望の源だ",
-				"translation": "Dreams  are the source of hope."
+				"translation": "Dreams  are the source of hope.",
+				"furigana": "ゆめ こそ が きぼう の みなもと だ"
 			},
 			{
 				"phrase": "わたしこそお詫びしなければなりません。",
-				"translation": "It is I, and not you, who must apologize."
+				"translation": "It is I, and not you, who must apologize.",
+				"furigana": "わたし こそ おわび し なけれ ば なり ませ ん 。"
 			},
 			{
 				"phrase": "家族こそが人生で最も大切なものだ",
-				"translation": "It is indeed family  that is the most important thing in life."
+				"translation": "It is indeed family  that is the most important thing in life.",
+				"furigana": "かぞく こそ が じんせい で もっとも たいせつ な もの だ"
 			}
 		],
 		"jlpt": "N3",
@@ -791,23 +886,28 @@
 		"phrases": [
 			{
 				"phrase": "僕は決して農業が嫌いな訳じゃない。",
-				"translation": "By no means do I dislike farming. (Lit: The reason is not that I dislike farming)"
+				"translation": "By no means do I dislike farming. (Lit: The reason is not that I dislike farming)",
+				"furigana": "ぼく は けっして のうぎょう が きらい な わけ じゃ ない 。"
 			},
 			{
 				"phrase": "私は訳もなく悲しくなった。",
-				"translation": "I felt sad for no reason ."
+				"translation": "I felt sad for no reason .",
+				"furigana": "わたし は わけ も なく かなしく なった 。"
 			},
 			{
 				"phrase": "わけありの二人",
-				"translation": "A couple with some amorous circumstances"
+				"translation": "A couple with some amorous circumstances",
+				"furigana": "わけ あり の に にん"
 			},
 			{
 				"phrase": "それを纏めるのはわけはない",
-				"translation": "Not difficult to resolve that issue."
+				"translation": "Not difficult to resolve that issue.",
+				"furigana": "それ を まとめる の は わけ は ない"
 			},
 			{
 				"phrase": "それとこれとはわけが違う",
-				"translation": "You are trying to compare apples and oranges."
+				"translation": "You are trying to compare apples and oranges.",
+				"furigana": "それと これ と は わけ が ちがう"
 			}
 		],
 		"jlpt": "N3",
@@ -833,23 +933,28 @@
 		"phrases": [
 			{
 				"phrase": "契約に従い、雇用期間を三年とする。",
-				"translation": "In accordance with the contract, your tenure is three years."
+				"translation": "In accordance with the contract, your tenure is three years.",
+				"furigana": "けいやく にしたがい 、 こよう きかん を さん ねん と する 。"
 			},
 			{
 				"phrase": "収入が増えるに従って、支出も増える。",
-				"translation": "As our income increases, our expenditure increases accordingly."
+				"translation": "As our income increases, our expenditure increases accordingly.",
+				"furigana": "しゅうにゅう が ふえる にしたがって 、 ししゅつ も ふえる 。"
 			},
 			{
 				"phrase": "予算が不足している。したがってこの計画は実行できない。",
-				"translation": "The budget is insufficient. Accordingly, this plan cannot be implemented."
+				"translation": "The budget is insufficient. Accordingly, this plan cannot be implemented.",
+				"furigana": "よさん が ふそく し て いる 。 したがって この けいかく は じっこう でき ない 。"
 			},
 			{
 				"phrase": "南に行くにしたがって気温が高くなる。",
-				"translation": "As you go further south, the temperature gets warmer."
+				"translation": "As you go further south, the temperature gets warmer.",
+				"furigana": "みなみ に いく に したがって きおん が たかく なる 。"
 			},
 			{
 				"phrase": "私の指示にしたがって下さい。",
-				"translation": "Please follow my instructions"
+				"translation": "Please follow my instructions",
+				"furigana": "わたし の しじ に したがって ください 。"
 			}
 		],
 		"jlpt": "N3",
@@ -872,23 +977,28 @@
 		"phrases": [
 			{
 				"phrase": "彼女は、「これを　洗って　くれないか　い」と　いった。",
-				"translation": "She said, \"Please wash this for me.\""
+				"translation": "She said, \"Please wash this for me.\"",
+				"furigana": "かのじょ は 、 「 これ を 　 あらって 　 くれ ない か 　 い 」 と 　 いった 。"
 			},
 			{
 				"phrase": "先生は私に本をくれました。",
-				"translation": "My teacher gave me  a book."
+				"translation": "My teacher gave me  a book.",
+				"furigana": "せんせい は わたし に ほん を くれ まし た 。"
 			},
 			{
 				"phrase": "先生は私に教えてくださいました。",
-				"translation": "The teacher gave me some help (helped me):"
+				"translation": "The teacher gave me some help (helped me):",
+				"furigana": "せんせい は わたし に おしえ て ください まし た 。"
 			},
 			{
 				"phrase": "友達は私に本を買ってくれました。",
-				"translation": "My friend bought (and) gave me a book."
+				"translation": "My friend bought (and) gave me a book.",
+				"furigana": "ともだち は わたし に ほん を かって くれ まし た 。"
 			},
 			{
 				"phrase": "今日、来てくれてありがとうございます。",
-				"translation": "Thankyou for coming today. (more formal)"
+				"translation": "Thankyou for coming today. (more formal)",
+				"furigana": "きょう 、 き て くれ て ありがとう ござい ます 。"
 			}
 		],
 		"jlpt": "N3",
@@ -909,23 +1019,28 @@
 		"phrases": [
 			{
 				"phrase": "知り合いであるかどうかは関係ない",
-				"translation": "It doesn't matter if ( or whether ) we know each other (lit. \"or not\")"
+				"translation": "It doesn't matter if ( or whether ) we know each other (lit. \"or not\")",
+				"furigana": "しりあい で ある か どう か は かんけい ない"
 			},
 			{
 				"phrase": "あなたはルーシーが日本語を話すことができるかどうか知っていますか。",
-				"translation": "Do you know if Lucy can speak Japanese?"
+				"translation": "Do you know if Lucy can speak Japanese?",
+				"furigana": "あなた は ルーシー が にほんご を はなす こと が できる か どうか しって い ます か 。"
 			},
 			{
 				"phrase": "あの人に彼女がいるかどうか知ってる？",
-				"translation": "Do you know if he has a girlfriend?"
+				"translation": "Do you know if he has a girlfriend?",
+				"furigana": "あの ひと に かのじょ が いる か どうか しってる ？"
 			},
 			{
 				"phrase": "きのう彼はあなたがお元気かどうか尋ねていました。",
-				"translation": "He asked after you your health yesterday."
+				"translation": "He asked after you your health yesterday.",
+				"furigana": "きのう かれ は あなた が お げんき か どう か たずね て い まし た 。"
 			},
 			{
 				"phrase": "このくつを試しにはいて、合うかどうかみてみなさい。",
-				"translation": "Try these shoes on and see of they fit you."
+				"translation": "Try these shoes on and see of they fit you.",
+				"furigana": "この くつ を ためし に は い て 、 あう か どう かみ て み なさい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -950,23 +1065,28 @@
 		"phrases": [
 			{
 				"phrase": "実家に帰ったついでに昔の学校に行ってみた。",
-				"translation": "At the time I went back to my hometown, I also took the opportunity to go see my old school."
+				"translation": "At the time I went back to my hometown, I also took the opportunity to go see my old school.",
+				"furigana": "じっか に かえった ついで に むかし の がっこう に いって み た 。"
 			},
 			{
 				"phrase": "仕事へ行くついでに、郵便局で手紙を出した。",
-				"translation": "While on my way to work, I mailed a letter at the post office"
+				"translation": "While on my way to work, I mailed a letter at the post office",
+				"furigana": "しごと へ いく ついで に 、 ゆうびん きょく で てがみ を だし た 。"
 			},
 			{
 				"phrase": "出て行くついでに頼むのは悪いけど、ゴミを捨ててくれる？",
-				"translation": "I hate to ask you to do this, but since you are going out anyway, would you get rid of the garbage bag?"
+				"translation": "I hate to ask you to do this, but since you are going out anyway, would you get rid of the garbage bag?",
+				"furigana": "で て いく ついで に たのむ の は わるい けど 、 ゴミ を すて て くれる ？"
 			},
 			{
 				"phrase": "パリへ行くついでにロンドンに寄る",
-				"translation": "Since I am going to go to Paris, anyway, I will also drop by London"
+				"translation": "Since I am going to go to Paris, anyway, I will also drop by London",
+				"furigana": "パリ へ いく ついで に ロンドン に よる"
 			},
 			{
 				"phrase": "デパートへ行ったついでに、そこで開かれていた展覧会を見た。",
-				"translation": "While out at the department store, I also took the opportunity to see the exhibition being held there."
+				"translation": "While out at the department store, I also took the opportunity to see the exhibition being held there.",
+				"furigana": "デパート へ いった ついで に 、 そこで ひらか れ て い た てんらん かい を み た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -987,23 +1107,28 @@
 		"phrases": [
 			{
 				"phrase": "彼は自分の成功を、良い教育を受けたことによると考えた。",
-				"translation": "He attributed his success to the good teaching he had received."
+				"translation": "He attributed his success to the good teaching he had received.",
+				"furigana": "かれ は じぶん の せいこう を 、 よい きょういく を うけ た こと に よる と かんがえ た 。"
 			},
 			{
 				"phrase": "友達の話しによればあの映画はとても面白いということです。",
-				"translation": "According to what my friend said, that movie is very interesting."
+				"translation": "According to what my friend said, that movie is very interesting.",
+				"furigana": "ともだち の はなし に よれ ば あの えいが は とても おもしろい という こと です 。"
 			},
 			{
 				"phrase": "米国NBC News、ロイターなどの報道によると、ブッシュ米大統領が、新しい宇宙探査計画の発表を準備しているとのことだ。",
-				"translation": "According to America's NBC News, Reuters and such news agencies US President Bush is in the process of preparing an anouncement of a new plan for space exploration"
+				"translation": "According to America's NBC News, Reuters and such news agencies US President Bush is in the process of preparing an anouncement of a new plan for space exploration",
+				"furigana": "べいこく NBC   News 、 ロイター など の ほうどう に よる と 、 ブッシュ べい だいとうりょう が 、 あたらしい うちゅう たんさ けいかく の はっぴょう を じゅんび し て いる と の こと だ 。"
 			},
 			{
 				"phrase": "電灯の発明はエジソンによるとされている。によるとされている。",
-				"translation": "The invention of electric light is accredited to Edison."
+				"translation": "The invention of electric light is accredited to Edison.",
+				"furigana": "でんとう の はつめい は エジソン に よる と さ れ て いる 。 に よる と さ れ て いる 。"
 			},
 			{
 				"phrase": "彼の概算によると家の新築費用は３０００万円です。",
-				"translation": "He estimates that the new house will cost roughly thirty million yen."
+				"translation": "He estimates that the new house will cost roughly thirty million yen.",
+				"furigana": "かれ の がいさん に よる と いえ の しんちく ひよう は ３ ０ ０ ０ まん えん です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1028,23 +1153,28 @@
 		"phrases": [
 			{
 				"phrase": "あなたがフランスに行きたいということをトムから聞いた",
-				"translation": "[LIT] You want to go to France (that fact) i heard the thing from Tom, I heard"
+				"translation": "[LIT] You want to go to France (that fact) i heard the thing from Tom, I heard",
+				"furigana": "あなた が フランス に いき たい という こと を トム から きい た"
 			},
 			{
 				"phrase": "あなたは酒嫌いだと聞いた",
-				"translation": "I heard you don't like alcohol"
+				"translation": "I heard you don't like alcohol",
+				"furigana": "あなた は さけ ぎらい だ と きい た"
 			},
 			{
 				"phrase": "トムが金持ちの女性と結婚したことを聞いた。",
-				"translation": "I've heard of Tom's marriage to a rich woman."
+				"translation": "I've heard of Tom's marriage to a rich woman.",
+				"furigana": "トム が かねもち の じょせい と けっこん し た こと を きい た 。"
 			},
 			{
 				"phrase": "後ろから私の名前が呼ばれるのを聞いた。",
-				"translation": "I heard my name called from behind."
+				"translation": "I heard my name called from behind.",
+				"furigana": "うしろ から わたし の なまえ が よば れる の を きい た 。"
 			},
 			{
 				"phrase": "昨日になって初めて、その事故のことを聞いた。",
-				"translation": "It was until yesterday that I heard about the accident."
+				"translation": "It was until yesterday that I heard about the accident.",
+				"furigana": "きのう に なって はじめて 、 その じこ の こと を きい た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1077,23 +1207,28 @@
 		"phrases": [
 			{
 				"phrase": "これまで日本は外交に対して、閉鎖的な政策を取ってきた。",
-				"translation": "Up until now, Japanese has taken a closed policy toward foreign countries."
+				"translation": "Up until now, Japanese has taken a closed policy toward foreign countries.",
+				"furigana": "これ まで にっぽん は がいこう にたいして 、 へいさ てき な せいさく を とって き た 。"
 			},
 			{
 				"phrase": "日本の大学に入学するのが難しいのに対して、アメリカの大学は卒業するのが難しい。",
-				"translation": "Whereas entering university is difficult in Japan, graduating from university is difficult in America."
+				"translation": "Whereas entering university is difficult in Japan, graduating from university is difficult in America.",
+				"furigana": "にっぽん の だいがく に にゅうがく する の が むずかしい の にたいして 、 アメリカ の だいがく は そつぎょう する の が むずかしい 。"
 			},
 			{
 				"phrase": "市民は増税に対して強く反対してる。",
-				"translation": "The citizens are strongly opposed to the tax hike."
+				"translation": "The citizens are strongly opposed to the tax hike.",
+				"furigana": "しみん は ぞうぜい にたいして つよく はんたい し てる 。"
 			},
 			{
 				"phrase": "私は政治に対して強い関心がある。",
-				"translation": "I have a strong interest in politics."
+				"translation": "I have a strong interest in politics.",
+				"furigana": "わたし は せいじ にたいして つよい かんしん が ある 。"
 			},
 			{
 				"phrase": "手数料は一万円に対して、五百円です。",
-				"translation": "The commission charge will be 500 yen per 10,000 yen."
+				"translation": "The commission charge will be 500 yen per 10,000 yen.",
+				"furigana": "てすうりょう は いち まん えん にたいして 、 ご ひゃく えん です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1114,23 +1249,28 @@
 		"phrases": [
 			{
 				"phrase": "茶碗を口のところまで持ってきて、箸でごはんをかきこむのは行儀が悪い。",
-				"translation": "Bringing  the bowl up to your mouth and shoveling rice in with chopsticks is bad manners."
+				"translation": "Bringing  the bowl up to your mouth and shoveling rice in with chopsticks is bad manners.",
+				"furigana": "ちゃわん を くち の ところ まで もって き て 、 はし で ごはん を かきこむ の は ぎょうぎ が わるい 。"
 			},
 			{
 				"phrase": "この赤くて大きい車は田中さんのです。",
-				"translation": "This large and red car is Mr Tanaka's."
+				"translation": "This large and red car is Mr Tanaka's.",
+				"furigana": "この あかく て おおきい くるま は たなか さん の です 。"
 			},
 			{
 				"phrase": "本屋に行って買います。",
-				"translation": "I'm going to the book shop and buying it."
+				"translation": "I'm going to the book shop and buying it.",
+				"furigana": "ほんや に いって かい ます 。"
 			},
 			{
 				"phrase": "メロンを食べて、コーヒーを飲みました。",
-				"translation": "He ate some melon and drank some coffee."
+				"translation": "He ate some melon and drank some coffee.",
+				"furigana": "メロン を たべ て 、 コーヒー を のみ まし た 。"
 			},
 			{
 				"phrase": "歩いて来ます。",
-				"translation": "I come on foot (walking)."
+				"translation": "I come on foot (walking).",
+				"furigana": "あるい て き ます 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1155,23 +1295,28 @@
 		"phrases": [
 			{
 				"phrase": "行けばわかる。",
-				"translation": "If you go, you'll understand."
+				"translation": "If you go, you'll understand.",
+				"furigana": "いけ ば わかる 。"
 			},
 			{
 				"phrase": "この本をもう一度読めば、5回読んだことになります。",
-				"translation": "If I read this book again, I will have read it five times."
+				"translation": "If I read this book again, I will have read it five times.",
+				"furigana": "この ほん を もういちど よめ ば 、 5 かい よん だ こと に なり ます 。"
 			},
 			{
 				"phrase": "走れば、すぐに彼に追いつくだろう。",
-				"translation": "You will soon come up with him if you run."
+				"translation": "You will soon come up with him if you run.",
+				"furigana": "はしれ ば 、 すぐ に かれ に おいつく だろ う 。"
 			},
 			{
 				"phrase": "しばらく眠れば、ずっと気分がよくなりますよ。",
-				"translation": "If you sleep for a while, you will feel much better."
+				"translation": "If you sleep for a while, you will feel much better.",
+				"furigana": "しばらく ねむれ ば 、 ずっと きぶん が よく なり ます よ 。"
 			},
 			{
 				"phrase": "このクラブに入会すれば、その施設の全てを使用する権利が与えられる。",
-				"translation": "If you join this club, you will be entitled to use all of its facilities."
+				"translation": "If you join this club, you will be entitled to use all of its facilities.",
+				"furigana": "この クラブ に にゅうかい すれ ば 、 その しせつ の すべて を しよう する けんり が あたえ られる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1198,23 +1343,28 @@
 		"phrases": [
 			{
 				"phrase": "外からなら撮ってもいいよ と言われたので，外に出て撮影しました。",
-				"translation": "I was told that if you're taking it from outside I don't mind so I went out and took the shot."
+				"translation": "I was told that if you're taking it from outside I don't mind so I went out and took the shot.",
+				"furigana": "そと から なら とって も いい よ   と いわ れ た ので ， そと に で て さつえい し まし た 。"
 			},
 			{
 				"phrase": "乗るなら飲むな。",
-				"translation": "If you drive, don't drink."
+				"translation": "If you drive, don't drink.",
+				"furigana": "のる なら のむ な 。"
 			},
 			{
 				"phrase": "自分の信念を隠すくらいなら死んだほうがましだ。",
-				"translation": "I would rather die than conceal my belief."
+				"translation": "I would rather die than conceal my belief.",
+				"furigana": "じぶん の しんねん を かくす くらい なら しん だ ほう が まし だ 。"
 			},
 			{
 				"phrase": "よんどころない理由で参加されないのなら前払い金はお返しします。",
-				"translation": "If you cannot attend for unavoidable reasons, we will refund your advance payment."
+				"translation": "If you cannot attend for unavoidable reasons, we will refund your advance payment.",
+				"furigana": "よんどころない りゆう で さんか さ れ ない の なら まえばらい きん は おかえし し ます 。"
 			},
 			{
 				"phrase": "ご都合により参加されないのなら前払い金はお返ししません。",
-				"translation": "If you cannot attend for reasons of your own, the advance payment will not be refunded."
+				"translation": "If you cannot attend for reasons of your own, the advance payment will not be refunded.",
+				"furigana": "ご つごう により さんか さ れ ない の なら まえばらい きん は おかえし し ませ ん 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1235,23 +1385,28 @@
 		"phrases": [
 			{
 				"phrase": "田中さんは娘を大学へ行かせた",
-				"translation": "Tanaka san made/let his daughter go to college"
+				"translation": "Tanaka san made/let his daughter go to college",
+				"furigana": "たなか さん は むすめ を だいがく へ いか せ た"
 			},
 			{
 				"phrase": "そんなことさせるなんて、あんたも強情だね。",
-				"translation": "You must be pretty hardheaded to make him do that."
+				"translation": "You must be pretty hardheaded to make him do that.",
+				"furigana": "そんな こと さ せる なんて 、 あんた も ごうじょう だ ね 。"
 			},
 			{
 				"phrase": "あなたの息子さんを親離れさせるべきです。",
-				"translation": "You should make your son independent from you."
+				"translation": "You should make your son independent from you.",
+				"furigana": "あなた の むすこ さん を おや はなれ させる べき です 。"
 			},
 			{
 				"phrase": "あなたに心配させるつもりがない。",
-				"translation": "I don't mean to make  you worry."
+				"translation": "I don't mean to make  you worry.",
+				"furigana": "あなた に しんぱい さ せる つもり が ない 。"
 			},
 			{
 				"phrase": "どうしても私の言葉を彼に信じさせる事ができなかった。",
-				"translation": "I could never make him believe what I said."
+				"translation": "I could never make him believe what I said.",
+				"furigana": "どうしても わたし の ことば を かれ に しんじ させる こと が でき なかっ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1275,23 +1430,28 @@
 		"phrases": [
 			{
 				"phrase": "「ロミオとジュリエット」を見ると必ず涙ぐむ。",
-				"translation": "After you see 'Romeo and Juliet' you will definitely cry"
+				"translation": "After you see 'Romeo and Juliet' you will definitely cry",
+				"furigana": "「 ロミオ と ジュリエット 」 を みる と かならず なみだぐむ 。"
 			},
 			{
 				"phrase": "家を出るとすぐに雨が降り始めた。",
-				"translation": "As soon as I left home, it began to rain."
+				"translation": "As soon as I left home, it began to rain.",
+				"furigana": "いえ を でる と すぐ に あめ が ふり はじめ た 。"
 			},
 			{
 				"phrase": "ここだと２万円前後の テレビ が 買うことができる。",
-				"translation": "If it's here then you can buy a television for 20,000 yen - give or take."
+				"translation": "If it's here then you can buy a television for 20,000 yen - give or take.",
+				"furigana": "ここ だ と ２ まん えん ぜんご の   テレビ   が   かう こと が できる 。"
 			},
 			{
 				"phrase": "冬になると雨が降っています。",
-				"translation": "When it becomes winter (when winter comes)-it rains."
+				"translation": "When it becomes winter (when winter comes)-it rains.",
+				"furigana": "ふゆ に なる と あめ が ふって い ます 。"
 			},
 			{
 				"phrase": "立川駅に着くと電話をしなくてはいけない",
-				"translation": "When ( I ) get to Tachikawa station, I have to make a call."
+				"translation": "When ( I ) get to Tachikawa station, I have to make a call.",
+				"furigana": "たつかわ えき に つく と でんわ を し なく て は いけ ない"
 			}
 		],
 		"jlpt": "N3",
@@ -1320,23 +1480,28 @@
 		"phrases": [
 			{
 				"phrase": "赤ちゃんに絵本を読んであげる",
-				"translation": "I will read a picture book for the baby"
+				"translation": "I will read a picture book for the baby",
+				"furigana": "あかちゃん に えほん を よん で あげる"
 			},
 			{
 				"phrase": "あなたがたの近所の人たちをできるだけ助けてあげるようにしましょう。",
-				"translation": "You should do all you can to help your neighbours."
+				"translation": "You should do all you can to help your neighbours.",
+				"furigana": "あなた がた の きんじょ の ひと たち を できるだけ たすけ て あげる よう に し ましょ う 。"
 			},
 			{
 				"phrase": "あなたにしてあげる事は、これだけです。",
-				"translation": "This is all I can do for you."
+				"translation": "This is all I can do for you.",
+				"furigana": "あなた に し て あげる こと は 、 これ だけ です 。"
 			},
 			{
 				"phrase": "あなたに代わって買い物をして家を掃除して夕食を作ってあげる。",
-				"translation": "I'll do your shopping, clean up the house, and cook your dinner for you."
+				"translation": "I'll do your shopping, clean up the house, and cook your dinner for you.",
+				"furigana": "あなた に かわって かいもの を し て いえ を そうじ し て ゆうしょく を つくって あげる 。"
 			},
 			{
 				"phrase": "いつかそのうちに動物園に連れてってあげるよ。",
-				"translation": "I will take you to the zoo one of these days."
+				"translation": "I will take you to the zoo one of these days.",
+				"furigana": "いつか その うち に どうぶつ えん に つれ て っ て あげる よ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1363,23 +1528,28 @@
 		"phrases": [
 			{
 				"phrase": "そんな中、ホストファミリーが陽気に話しかけ、あちらこちらへ連れ出してくれたお蔭で、徐々に英語にも慣れ理解できるようになっていきました。",
-				"translation": "Among which, thanks to the host family cheerfully chatting with me, taking me hither and thither I gradually accustomed to and able to understand English."
+				"translation": "Among which, thanks to the host family cheerfully chatting with me, taking me hither and thither I gradually accustomed to and able to understand English.",
+				"furigana": "そんな なか 、 ホストファミリー が ようき に はなしかけ 、 あちら こちら へ つれだし て くれ た おかげ で 、 じょじょに えいご に も なれ りかい できる よう に なって いき まし た 。"
 			},
 			{
 				"phrase": "あいつのお陰で事故に巻き込まれた。",
-				"translation": "Thanks to him, I ended up getting involved in this accident."
+				"translation": "Thanks to him, I ended up getting involved in this accident.",
+				"furigana": "あいつ の おかげ で じこ に まきこま れ た 。"
 			},
 			{
 				"phrase": "両親のお陰で、私はアルバイトをしないで勉強することができる。",
-				"translation": "Thanks to my parents, I can study without working."
+				"translation": "Thanks to my parents, I can study without working.",
+				"furigana": "りょうしん の おかげ で 、 わたし は アルバイト を し ない で べんきょう する こと が できる 。"
 			},
 			{
 				"phrase": "私がアルバイトせずに勉強できるのは、両親のお陰だ。",
-				"translation": "I can study without working thanks to my parents."
+				"translation": "I can study without working thanks to my parents.",
+				"furigana": "わたし が アルバイト せ ず に べんきょう できる の は 、 りょうしん の おかげ だ 。"
 			},
 			{
 				"phrase": "君のおかげで、お金を全部使ってしまい歩いて帰宅せねばならなかった。",
-				"translation": "Thanks to you, I spent all my money and had to walk home."
+				"translation": "Thanks to you, I spent all my money and had to walk home.",
+				"furigana": "きみ の おかげ で 、 おかね を ぜんぶ つかって しまい あるい て きたく せ ね ば なら なかっ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1400,23 +1570,28 @@
 		"phrases": [
 			{
 				"phrase": "ひらがなからして読めない。もちろん漢字も読めない。",
-				"translation": "Cannot even read hiragana, and also of course cannot read kanji"
+				"translation": "Cannot even read hiragana, and also of course cannot read kanji",
+				"furigana": "ひ ら が なから し て よめ ない 。 もちろん かんじ も よめ ない 。"
 			},
 			{
 				"phrase": "A国は食料からして、不足している。（暗示：だからガソリンなど、ほとんどないだろう）",
-				"translation": "That country doesn't have enough food for a start (implies: so they definitely don't have enough gasoline etc.)"
+				"translation": "That country doesn't have enough food for a start (implies: so they definitely don't have enough gasoline etc.)",
+				"furigana": "A こく は しょくりょう から し て 、 ふそく し て いる 。 （ あんじ ： だから ガソリン など 、 ほとんど ない だろ う ）"
 			},
 			{
 				"phrase": "彼の健康状態からしてスポーツは無理でしょう。",
-				"translation": "Judging from his physical condition　doing sports would be unwise"
+				"translation": "Judging from his physical condition　doing sports would be unwise",
+				"furigana": "かれ の けんこう じょうたい から し て スポーツ は むり でしょ う 。"
 			},
 			{
 				"phrase": "態度からしてけしからん",
-				"translation": "Even his attitude is nasty."
+				"translation": "Even his attitude is nasty.",
+				"furigana": "たいど から し て けしからん"
 			},
 			{
 				"phrase": "値段からして、Xの機種はYとは比べものにならないと思っていた。",
-				"translation": "Given its price, I didn't expect the X machine to be in the same league as the Y machine."
+				"translation": "Given its price, I didn't expect the X machine to be in the same league as the Y machine.",
+				"furigana": "ねだん から し て 、 X の きしゅ は Y と は くらべもの に なら ない と おもって い た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1442,23 +1617,28 @@
 		"phrases": [
 			{
 				"phrase": "彼は風邪をひいたみたいです。",
-				"translation": "Seems like he's caught a cold."
+				"translation": "Seems like he's caught a cold.",
+				"furigana": "かれ は かぜ を ひい た みたい です 。"
 			},
 			{
 				"phrase": "まるで夢みたい",
-				"translation": "It's like a dream"
+				"translation": "It's like a dream",
+				"furigana": "まるで ゆめみ たい"
 			},
 			{
 				"phrase": "お前みたいな奴は見たことがない",
-				"translation": "I've never met the likes of you!"
+				"translation": "I've never met the likes of you!",
+				"furigana": "おまえ みたい な やつ は み た こと が ない"
 			},
 			{
 				"phrase": "京都みたいな所に行くのが好きです",
-				"translation": "I like to visit places like Kyoto"
+				"translation": "I like to visit places like Kyoto",
+				"furigana": "きょうと みたい な ところ に いく の が すき です"
 			},
 			{
 				"phrase": "外国に行くみたいなことを言っていました",
-				"translation": "He was talking like he was going abroad"
+				"translation": "He was talking like he was going abroad",
+				"furigana": "がいこく に いく みたい な こと を いって い まし た"
 			}
 		],
 		"jlpt": "N3",
@@ -1479,23 +1659,28 @@
 		"phrases": [
 			{
 				"phrase": "私は列車に乗り遅れた。もっと早く来るべきだった。",
-				"translation": "I missed the train. I should have come earlier."
+				"translation": "I missed the train. I should have come earlier.",
+				"furigana": "わたし は れっしゃ に のりおくれ た 。 もっと はやく きたる べき だっ た 。"
 			},
 			{
 				"phrase": "われわれはなるべくたくさん本を読むべきである。",
-				"translation": "We should read as many books as possible."
+				"translation": "We should read as many books as possible.",
+				"furigana": "われわれ は なるべく たくさん ほん を よむ べき で ある 。"
 			},
 			{
 				"phrase": "あなたは他の人たちの援助を当てにすべきでない。",
-				"translation": "You shouldn't rely on other people's help."
+				"translation": "You shouldn't rely on other people's help.",
+				"furigana": "あなた は た の ひと たち の えんじょ を あて に す べき で ない 。"
 			},
 			{
 				"phrase": "いかに生きるべきかは、青年にとって重要な問題である。",
-				"translation": "How to live is an important question to young people."
+				"translation": "How to live is an important question to young people.",
+				"furigana": "いかに いきる べき か は 、 せいねん にとって じゅうよう な もんだい で ある 。"
 			},
 			{
 				"phrase": "いつ出発するべきか私に教えてください。",
-				"translation": "Please tell me when I should leave."
+				"translation": "Please tell me when I should leave.",
+				"furigana": "いつ しゅっぱつ する べき か わたし に おしえ て ください 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1520,23 +1705,28 @@
 		"phrases": [
 			{
 				"phrase": "彼らはお互いに助けあった。",
-				"translation": "They helped one another  ."
+				"translation": "They helped one another  .",
+				"furigana": "かれら は おたがい に たすけ あった 。"
 			},
 			{
 				"phrase": "話しあうことでこの問題は解決できます。",
-				"translation": "Through mutual discussion, this issue can be resolved."
+				"translation": "Through mutual discussion, this issue can be resolved.",
+				"furigana": "はなし あう こと で この もんだい は かいけつ でき ます 。"
 			},
 			{
 				"phrase": "あなたは、スミス氏と連絡を取り合うべきです。",
-				"translation": "You should keep in touch with Mr. Smith."
+				"translation": "You should keep in touch with Mr. Smith.",
+				"furigana": "あなた は 、 スミス し と れんらく を とりあう べき です 。"
 			},
 			{
 				"phrase": "お互いを理解し合うようにしようではありませんか。",
-				"translation": "Let's try to understand one another."
+				"translation": "Let's try to understand one another.",
+				"furigana": "おたがい を りかいしあう よう に しよう で は あり ませ ん か 。"
 			},
 			{
 				"phrase": "お母さんは私に彼と付き合うなと言いました。",
-				"translation": "My mother told me not to keep company with him."
+				"translation": "My mother told me not to keep company with him.",
+				"furigana": "おかあさん は わたし に かれ と つきあう な と いい まし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1559,23 +1749,28 @@
 		"phrases": [
 			{
 				"phrase": "秘密でしたか？ついうっかり喋ちゃいました。",
-				"translation": "It was a secret? Oops! I spoke about it without thinking..."
+				"translation": "It was a secret? Oops! I spoke about it without thinking...",
+				"furigana": "ひみつ でし た か ？ つい うっかり ちょう ちゃい まし た 。"
 			},
 			{
 				"phrase": "つい買っちゃった！",
-				"translation": "Damn! I went and bought it (and I shouldn't have)."
+				"translation": "Damn! I went and bought it (and I shouldn't have).",
+				"furigana": "つい かっちゃった ！"
 			},
 			{
 				"phrase": "つい「コンピュータがおかしい」と思ってしまいます．でも，コンピュータ側がおかしいことはまずありません．",
-				"translation": "I carelessly thought \"There's something up with the computer\". But actually there was nothing up with the _computer_ side."
+				"translation": "I carelessly thought \"There's something up with the computer\". But actually there was nothing up with the _computer_ side.",
+				"furigana": "つい 「 コンピュータ が おかしい 」 と おもって しまい ます ． でも ， コンピュータ がわ が おかしい こと は まず あり ませ ん ．"
 			},
 			{
 				"phrase": "つい先ほど時雨れた",
-				"translation": "We had a light shower a while ago."
+				"translation": "We had a light shower a while ago.",
+				"furigana": "つい さき ほど しぐれ た"
 			},
 			{
 				"phrase": "つい必要なワードフィルを削除してしまった。",
-				"translation": "I just (unintentional) deleted an important word file."
+				"translation": "I just (unintentional) deleted an important word file.",
+				"furigana": "つい ひつよう な ワード フィル を さくじょ し て しまった 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1601,23 +1796,28 @@
 		"phrases": [
 			{
 				"phrase": "雪がたくさん降ったため試合が中止された。",
-				"translation": "Because a lot of snow fell, the match was canceled."
+				"translation": "Because a lot of snow fell, the match was canceled.",
+				"furigana": "ゆき が たくさん ふった ため しあい が ちゅうし さ れ た 。"
 			},
 			{
 				"phrase": "彼が来る事を確かめる為に電話をした。",
-				"translation": "I telephoned to make sure that he was coming."
+				"translation": "I telephoned to make sure that he was coming.",
+				"furigana": "かれ が くる こと を たしかめる ため に でんわ を し た 。"
 			},
 			{
 				"phrase": "彼は、去年老齢の為、なくなった。",
-				"translation": "He died last year of old age."
+				"translation": "He died last year of old age.",
+				"furigana": "かれ は 、 きょねん ろうれい の ため 、 なくなった 。"
 			},
 			{
 				"phrase": "このキーは何の為の物ですか？",
-				"translation": "What's this key for ?"
+				"translation": "What's this key for ?",
+				"furigana": "この キー は なに の ため の もの です か ？"
 			},
 			{
 				"phrase": "外国人の為のいい辞書がない",
-				"translation": "There are no good dictionaries for foreigners"
+				"translation": "There are no good dictionaries for foreigners",
+				"furigana": "がいこく じん の ため の いい じしょ が ない"
 			}
 		],
 		"jlpt": "N3",
@@ -1637,23 +1837,28 @@
 		"phrases": [
 			{
 				"phrase": "開拓者達は辛い生活をしたし、彼らの子供もそうだった。",
-				"translation": "Pioneer men and women had a hard life, and so did their children."
+				"translation": "Pioneer men and women had a hard life, and so did their children.",
+				"furigana": "かいたく しゃ たち は つらい せいかつ を し た し 、 かれら の こども も そう だっ た 。"
 			},
 			{
 				"phrase": "ここでの討論はおもしろいものでしたし、困惑させたり、ときにはぞっとする内容のものもありました。",
-				"translation": "The debate has been interesting, (and) confusing, and sometimes horrifying."
+				"translation": "The debate has been interesting, (and) confusing, and sometimes horrifying.",
+				"furigana": "ここ で の とうろん は おもしろい もの でし た し 、 こんわく さ せ たり 、 ときには ぞっと する ないよう の もの も あり まし た 。"
 			},
 			{
 				"phrase": "ロッククライミングも、海で深く潜ることもしたし、インドネシアの熱帯雨林で眠ったこともある。",
-				"translation": "I've done rock climbing and deep-sea diving and slept in rain forests in the jungle of Indonesia."
+				"translation": "I've done rock climbing and deep-sea diving and slept in rain forests in the jungle of Indonesia.",
+				"furigana": "ロッククライミング も 、 うみ で ふかく もぐる こと も し た し 、 インドネシア の ねったい うりん で ねむった こと も ある 。"
 			},
 			{
 				"phrase": "彼は幸福だ。1つには、昇進したし、それに結婚したばかりだから。",
-				"translation": "He is happy. For one thing, he's got a promotion and  for another he has just got married."
+				"translation": "He is happy. For one thing, he's got a promotion and  for another he has just got married.",
+				"furigana": "かれ は こうふく だ 。 1 つ に は 、 しょうしん し た し 、 それに けっこん し た ばかり だ から 。"
 			},
 			{
 				"phrase": "母はその知らせを喜んでいたし、私もそうでした。",
-				"translation": "My mother was happy about the news, and so was I."
+				"translation": "My mother was happy about the news, and so was I.",
+				"furigana": "はは は その しらせ を よろこん で い た し 、 わたし も そう でし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1678,23 +1883,28 @@
 		"phrases": [
 			{
 				"phrase": "スポーツの中に、どちらが一番好き？",
-				"translation": "out of all the sports, which do you like best?"
+				"translation": "out of all the sports, which do you like best?",
+				"furigana": "スポーツ の なか に 、 どちら が いちばん すき ？"
 			},
 			{
 				"phrase": "その建物に銀行がありますか｡",
-				"translation": "Is there a bank in that building?"
+				"translation": "Is there a bank in that building?",
+				"furigana": "その たてもの に ぎんこう が あり ます か ｡"
 			},
 			{
 				"phrase": "ドアの近いにあるかばんは誰のですか｡",
-				"translation": "whos bag is that by the door."
+				"translation": "whos bag is that by the door.",
+				"furigana": "ドア の ちかい に ある かばん は だれ の です か ｡"
 			},
 			{
 				"phrase": "車が家の左に止まっておいたよ｡",
-				"translation": "I parked the car on the left side of the house."
+				"translation": "I parked the car on the left side of the house.",
+				"furigana": "くるま が いえ の ひだり に とまって おい た よ ｡"
 			},
 			{
 				"phrase": "チキンは冷凍庫の中です｡",
-				"translation": "The chicken is in the freezer."
+				"translation": "The chicken is in the freezer.",
+				"furigana": "チキン は れいとうこ の なか です ｡"
 			}
 		],
 		"jlpt": "N3",
@@ -1726,23 +1936,28 @@
 		"phrases": [
 			{
 				"phrase": "２つの問題が未解決のままであった。",
-				"translation": "Two problems remained unsolved."
+				"translation": "Two problems remained unsolved.",
+				"furigana": "２つ の もんだい が み かいけつ の まま で あっ た 。"
 			},
 			{
 				"phrase": "この家はこのままにしておきたい。",
-				"translation": "I like this house as it is."
+				"translation": "I like this house as it is.",
+				"furigana": "この いえ は この まま に し て おき たい 。"
 			},
 			{
 				"phrase": "この家は今のままでは売れないだろう。",
-				"translation": "This house will not sell as it stands."
+				"translation": "This house will not sell as it stands.",
+				"furigana": "この いえ は いま の まま で は うれ ない だろ う 。"
 			},
 			{
 				"phrase": "この自転車は今月の初めからここに置かれたままだ。",
-				"translation": "This bicycle has been left here since the beginning of this month."
+				"translation": "This bicycle has been left here since the beginning of this month.",
+				"furigana": "この じてんしゃ は こんげつ の はじめ から ここ に おか れ た まま だ 。"
 			},
 			{
 				"phrase": "この窓は一ヶ月割れたままになっている。",
-				"translation": "This window has been broken for a month."
+				"translation": "This window has been broken for a month.",
+				"furigana": "この まど は いち かげつ われ た まま に なって いる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1768,23 +1983,28 @@
 		"phrases": [
 			{
 				"phrase": "あっという間に砂嵐に襲われた。",
-				"translation": "Before we knew where we were, the dust storm was on us."
+				"translation": "Before we knew where we were, the dust storm was on us.",
+				"furigana": "あっというまに すなあらし に おそわ れ た 。"
 			},
 			{
 				"phrase": "あっという間に逃げてしまった。",
-				"translation": "He disappeared in an instant."
+				"translation": "He disappeared in an instant.",
+				"furigana": "あっというまに にげ て しまった 。"
 			},
 			{
 				"phrase": "クリスマスの時期にはあっという間に満席になるから早く飛行機の蘭??ｵなさい。",
-				"translation": "Book your flight early as it fills up quickly during Christmas."
+				"translation": "Book your flight early as it fills up quickly during Christmas.",
+				"furigana": "クリスマス の じき に は あっというまに まんせき に なる から はやく ひこうき の らん ?? ｵ なさい 。"
 			},
 			{
 				"phrase": "クレジットカードを使うとあっという間に借金をつくりやすい。",
-				"translation": "It's easy to get into debt quickly with charge cards."
+				"translation": "It's easy to get into debt quickly with charge cards.",
+				"furigana": "クレジットカード を つかう と あっというまに しゃっきん を つくり やすい 。"
 			},
 			{
 				"phrase": "鳥はあっと言う間に飛び去った。",
-				"translation": "The bird flew away in a flash."
+				"translation": "The bird flew away in a flash.",
+				"furigana": "とり は あっというまに とび さった 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1804,23 +2024,28 @@
 		"phrases": [
 			{
 				"phrase": "日本へ行くとすれば",
-				"translation": "If we assume that we go to japan"
+				"translation": "If we assume that we go to japan",
+				"furigana": "にっぽん へ いく と すれ ば"
 			},
 			{
 				"phrase": "温度は一定であるとする。",
-				"translation": "We assume that temperature is constant."
+				"translation": "We assume that temperature is constant.",
+				"furigana": "おんど は いってい で ある と する 。"
 			},
 			{
 				"phrase": "あなたが立派な世界市民になろうとするなら、偏見は持たないように努力すべきである。",
-				"translation": "If you are to be a good world citizen, you should try to be free of any prejudices."
+				"translation": "If you are to be a good world citizen, you should try to be free of any prejudices.",
+				"furigana": "あなた が りっぱ な せかい しみん に なろう と する なら 、 へんけん は もた ない よう に どりょく す べき で ある 。"
 			},
 			{
 				"phrase": "私たちは みな、 人生に おいて 成功を 収めようとするが、成功するのは、きわめて 数少ない人たちである。",
-				"translation": "We all try hard to make the grade in life, but only a few succeed."
+				"translation": "We all try hard to make the grade in life, but only a few succeed.",
+				"furigana": "わたし たち は   みな 、   じんせい に   おい て   せいこう を   おさめよう と する が 、 せいこう する の は 、 きわめて   かずすくない ひと たち で ある 。"
 			},
 			{
 				"phrase": "進んで学ぼうとする気の無い物には教える甲斐がない。",
-				"translation": "One who is not willing to learn is not worth teaching."
+				"translation": "One who is not willing to learn is not worth teaching.",
+				"furigana": "すすん で まなぼう と する き の ない もの に は おしえる かい が ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1840,23 +2065,28 @@
 		"phrases": [
 			{
 				"phrase": "私が書いたかを問わず、(全て）「作者：あまつか」です。",
-				"translation": "Regardless of whether I had written it or not it's (always) \"Author : Amatuka\"."
+				"translation": "Regardless of whether I had written it or not it's (always) \"Author : Amatuka\".",
+				"furigana": "わたし が かい た か を とわ ず 、 ( すべて ） 「 さくしゃ ： あま つか 」 です 。"
 			},
 			{
 				"phrase": "おまえは・・・・俺が誰か知ってるのか。",
-				"translation": "You ... Don't you know who I am? [Lit: Do you know who I am?]"
+				"translation": "You ... Don't you know who I am? [Lit: Do you know who I am?]",
+				"furigana": "おまえ は ・ ・ ・ ・ おれ が だれ か しってる の か 。"
 			},
 			{
 				"phrase": "今度の出張はいつかまだ分かりません。",
-				"translation": "Regarding my next business trip, I still don't know when it's going to be."
+				"translation": "Regarding my next business trip, I still don't know when it's going to be.",
+				"furigana": "こんど の しゅっちょう は いつか まだ わかり ませ ん 。"
 			},
 			{
 				"phrase": "誰が一緒に出掛けたか教えてください。",
-				"translation": "Please tell me who you went out with."
+				"translation": "Please tell me who you went out with.",
+				"furigana": "だれ が いっしょ に でかけ た か おしえ て ください 。"
 			},
 			{
 				"phrase": "書類どこにあるか(と)聞きました。",
-				"translation": "I asked, where the documents are."
+				"translation": "I asked, where the documents are.",
+				"furigana": "しょるい どこ に ある か ( と ) きき まし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1879,23 +2109,28 @@
 		"phrases": [
 			{
 				"phrase": "バカなことするな！",
-				"translation": "Don't do something that stupid!"
+				"translation": "Don't do something that stupid!",
+				"furigana": "バカ な こと する な ！"
 			},
 			{
 				"phrase": "あまり飲むな",
-				"translation": "Don't  drink too much."
+				"translation": "Don't  drink too much.",
+				"furigana": "あまり のむ な"
 			},
 			{
 				"phrase": "馬鹿なことをするな。",
-				"translation": "Don't  be silly"
+				"translation": "Don't  be silly",
+				"furigana": "ばか な こと を する な 。"
 			},
 			{
 				"phrase": "誰も動くな。",
-				"translation": "Nobody moves!"
+				"translation": "Nobody moves!",
+				"furigana": "だれ も うごく な 。"
 			},
 			{
 				"phrase": "心配するな。",
-				"translation": "Don't  worry"
+				"translation": "Don't  worry",
+				"furigana": "しんぱい する な 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1921,23 +2156,28 @@
 		"phrases": [
 			{
 				"phrase": "３月１日の方が都合がよいのですが。",
-				"translation": "We feel that March 1 would be more convenient."
+				"translation": "We feel that March 1 would be more convenient.",
+				"furigana": "さんがつ １ にち の ほう が つごう が よい の です が 。"
 			},
 			{
 				"phrase": "９時以降に電話した方が安いですか。",
-				"translation": "Is it cheaper to call after 9:00?"
+				"translation": "Is it cheaper to call after 9:00?",
+				"furigana": "９ じ いこう に でんわ し た ほう が やすい です か 。"
 			},
 			{
 				"phrase": "物事を生半可に知っているくらいなら全然知らない方がましだ。",
-				"translation": "I would rather not know a thing at all than know it imperfectly."
+				"translation": "I would rather not know a thing at all than know it imperfectly.",
+				"furigana": "ものごと を なまはんか に しって いる くらい なら ぜんぜん しら ない ほう が まし だ 。"
 			},
 			{
 				"phrase": "遅くても着実な方が競争に勝つ。",
-				"translation": "Slow but sure wins the race."
+				"translation": "Slow but sure wins the race.",
+				"furigana": "おそく て も ちゃくじつ な ほう が きょうそう に かつ 。"
 			},
 			{
 				"phrase": "私は肉より魚の方がいい。",
-				"translation": "I prefer fish to meat."
+				"translation": "I prefer fish to meat.",
+				"furigana": "わたし は にく より さかな の ほう が いい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -1961,23 +2201,28 @@
 		"phrases": [
 			{
 				"phrase": "私は肉より魚の方がいい。",
-				"translation": "I prefer fish to meat."
+				"translation": "I prefer fish to meat.",
+				"furigana": "わたし は にく より さかな の ほう が いい 。"
 			},
 			{
 				"phrase": "現実は聞いたよりももっと悲しい。",
-				"translation": "The reality is much sadder than what I have heard."
+				"translation": "The reality is much sadder than what I have heard.",
+				"furigana": "げんじつ は きい た より も もっと かなしい 。"
 			},
 			{
 				"phrase": "これよりほかの方法がないんだよ",
-				"translation": "There's really no other better  way than this."
+				"translation": "There's really no other better  way than this.",
+				"furigana": "これ より ほか の ほうほう が ない ん だ よ"
 			},
 			{
 				"phrase": "一般に日本人は、自分たちがかつてより暮し向きがよくなったと考えている。",
-				"translation": "The Japanese at large consider themselves better off than they used to be."
+				"translation": "The Japanese at large consider themselves better off than they used to be.",
+				"furigana": "いっぱん に にっぽんじん は 、 じぶん たち が かつて より くらしむき が よく なった と かんがえ て いる 。"
 			},
 			{
 				"phrase": "彼はわたしより速く走ることができる。",
-				"translation": "He is able to run faster than I am."
+				"translation": "He is able to run faster than I am.",
+				"furigana": "かれ は わたし より はやく はしる こと が できる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2004,23 +2249,28 @@
 		"phrases": [
 			{
 				"phrase": "動かないらしい",
-				"translation": "Seems like it doesn't work (lit: doesn't move)"
+				"translation": "Seems like it doesn't work (lit: doesn't move)",
+				"furigana": "うごか ない らしい"
 			},
 			{
 				"phrase": "そんな事をするなんて君らしくない。",
-				"translation": "It doesn't seem like you doing such a thing."
+				"translation": "It doesn't seem like you doing such a thing.",
+				"furigana": "そんな こと を する なんて きみ らしく ない 。"
 			},
 			{
 				"phrase": "私は彼と彼のガールフレンドらしい人を見かけた。",
-				"translation": "I saw him and a girl who looked to be his girlfriend."
+				"translation": "I saw him and a girl who looked to be his girlfriend.",
+				"furigana": "わたし は かれ と かれ の ガールフレンド らしい ひと を みかけ た 。"
 			},
 			{
 				"phrase": "みんなさんは夕方来るらしい。",
-				"translation": "It seems everybody will come in the evening."
+				"translation": "It seems everybody will come in the evening.",
+				"furigana": "みんな さん は ゆうがた くる らしい 。"
 			},
 			{
 				"phrase": "kyou ha,tenki ga yoirashiidesu.",
-				"translation": "the weather today seems like good."
+				"translation": "the weather today seems like good.",
+				"furigana": "kyou   ha , tenki   ga   yoirashiidesu ."
 			}
 		],
 		"jlpt": "N3",
@@ -2041,23 +2291,28 @@
 		"phrases": [
 			{
 				"phrase": "彼は分かりにくいでしょうかなぁ？",
-				"translation": "He's difficult to understand,isn't he?"
+				"translation": "He's difficult to understand,isn't he?",
+				"furigana": "かれ は わかり にくい でしょ う か なぁ ？"
 			},
 			{
 				"phrase": "食べにくい食べ物がきらいだ。",
-				"translation": "I don't like difficult to eat foods."
+				"translation": "I don't like difficult to eat foods.",
+				"furigana": "たべ にくい たべもの が きらい だ 。"
 			},
 			{
 				"phrase": "このめずらしい切手は手にはいりにくいんだよ。",
-				"translation": "This rare stamp is hard to come by."
+				"translation": "This rare stamp is hard to come by.",
+				"furigana": "この めずらしい きって は て に はいり にくい ん だ よ 。"
 			},
 			{
 				"phrase": "タイガーティの説明はとてもわかりにくいですね｡",
-				"translation": "tigert`s explanation is very difficult to understand."
+				"translation": "tigert`s explanation is very difficult to understand.",
+				"furigana": "タイガーティ の せつめい は とても わかり にくい です ね ｡"
 			},
 			{
 				"phrase": "英語での本を読みにくいです。",
-				"translation": "It's hard to read the book in English."
+				"translation": "It's hard to read the book in English.",
+				"furigana": "えいご で の ほん を よみ にくい です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2077,23 +2332,28 @@
 		"phrases": [
 			{
 				"phrase": "彼は日本に住んでいたくせに、日本語を話せるようにならなかったよ。",
-				"translation": "Although he lived in Japan he didn't learn (become able) to speak Japanese!"
+				"translation": "Although he lived in Japan he didn't learn (become able) to speak Japanese!",
+				"furigana": "かれ は にっぽん に すん で い た くせ に 、 にほんご を はなせる よう に なら なかっ た よ 。"
 			},
 			{
 				"phrase": "子供は, 自分で部屋を片付けるようになりました。",
-				"translation": "(My) child has reached the point where she cleans up her room herself."
+				"translation": "(My) child has reached the point where she cleans up her room herself.",
+				"furigana": "こども は ,   じぶん で へや を かたづける よう に なり まし た 。"
 			},
 			{
 				"phrase": "赤ちゃんは, もうすぐ笑うようになる。",
-				"translation": "The baby will soon reach the point where he will smile."
+				"translation": "The baby will soon reach the point where he will smile.",
+				"furigana": "あかちゃん は ,   もうすぐ わらう よう に なる 。"
 			},
 			{
 				"phrase": "日本に来たから、豆腐を食べるようになりました。",
-				"translation": "Since I came to Japan, I've gotten used to eating tofu. (I didn't use to eat tofu.)"
+				"translation": "Since I came to Japan, I've gotten used to eating tofu. (I didn't use to eat tofu.)",
+				"furigana": "にっぽん に き た から 、 とうふ を たべる よう に なり まし た 。"
 			},
 			{
 				"phrase": "レンズさんは日本語が話せるようになった。",
-				"translation": "Mr. Renz had reached the point where he can speak Japanese."
+				"translation": "Mr. Renz had reached the point where he can speak Japanese.",
+				"furigana": "レンズ さん は にほんご が はなせる よう に なった 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2118,23 +2378,28 @@
 		"phrases": [
 			{
 				"phrase": "速さという点では飛行機は船とは比べものにならない。",
-				"translation": "When we talk about speed, there is no point to compare a plane and a ship."
+				"translation": "When we talk about speed, there is no point to compare a plane and a ship.",
+				"furigana": "はや さ という てん で は ひこうき は ふね と は くらべもの に なら ない 。"
 			},
 			{
 				"phrase": "食べる量という点では馬は鳥とは比べものにならない。",
-				"translation": "What a horse eats and what a chicken eats just cannot be compared."
+				"translation": "What a horse eats and what a chicken eats just cannot be compared.",
+				"furigana": "たべる りょう という てん で は うま は とり と は くらべもの に なら ない 。"
 			},
 			{
 				"phrase": "このほうが比べものにならないほど優れている。",
-				"translation": "This is superior beyond comparison."
+				"translation": "This is superior beyond comparison.",
+				"furigana": "この ほう が くらべもの に なら ない ほど すぐれ て いる 。"
 			},
 			{
 				"phrase": "私の業績はあなたの業績とは比べものにならない。",
-				"translation": "Your achievements cannot be compared with mine."
+				"translation": "Your achievements cannot be compared with mine.",
+				"furigana": "わたし の ぎょうせき は あなた の ぎょうせき と は くらべもの に なら ない 。"
 			},
 			{
 				"phrase": "私の料理などお母さんのとは比べものにならない。",
-				"translation": "My cooking cannot hold a candle to Mother's."
+				"translation": "My cooking cannot hold a candle to Mother's.",
+				"furigana": "わたし の りょうり など おかあさん の と は くらべもの に なら ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2154,23 +2419,28 @@
 		"phrases": [
 			{
 				"phrase": "今晩は暖かいので、ストーブが要らないくらいだ。",
-				"translation": "It's so warm this evening that we almost  don't need a heater."
+				"translation": "It's so warm this evening that we almost  don't need a heater.",
+				"furigana": "こんばん は あたたかい ので 、 ストーブ が いら ない くらい だ 。"
 			},
 			{
 				"phrase": "私たちは一歩も歩けないくらい疲れていた。",
-				"translation": "We were so tired that we couldn't take a single step."
+				"translation": "We were so tired that we couldn't take a single step.",
+				"furigana": "わたし たち は いち ほ も あるけ ない くらい つかれ て い た 。"
 			},
 			{
 				"phrase": "山田さんくらい物を忘れる人はいない。",
-				"translation": "There's no one as forgetful as Yamada (who forgets things as much as Yamada)."
+				"translation": "There's no one as forgetful as Yamada (who forgets things as much as Yamada).",
+				"furigana": "やまだ さん くらい もの を わすれる ひと は い ない 。"
 			},
 			{
 				"phrase": "私は料理は下手ですが、ご飯くらい(は)炊けます。",
-				"translation": "I'm a poor cook, but I can at least cook rice."
+				"translation": "I'm a poor cook, but I can at least cook rice.",
+				"furigana": "わたし は りょうり は へた です が 、 ごはん くらい ( は ) たけ ます 。"
 			},
 			{
 				"phrase": "今この仕事が出来るのは彼くらいのものだ。",
-				"translation": "He's the only person who can do this job now. (The person who's capable enough to do this job is he.)"
+				"translation": "He's the only person who can do this job now. (The person who's capable enough to do this job is he.)",
+				"furigana": "いま この しごと が できる の は かれ くらい の もの だ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2190,23 +2460,28 @@
 		"phrases": [
 			{
 				"phrase": "日本語を覚えるのに、時間がかかります",
-				"translation": "It takes time in order to , learn japanese"
+				"translation": "It takes time in order to , learn japanese",
+				"furigana": "にほんご を おぼえる のに 、 じかん が かかり ます"
 			},
 			{
 				"phrase": "あなたに会うのには何時(いつ）/何処(どこ）がいいですか。",
-				"translation": "What would be the good time/place in order to /to see you?"
+				"translation": "What would be the good time/place in order to /to see you?",
+				"furigana": "あなた に あう の に は なん じ ( い つ ） / どこ ( どこ ） が いい です か 。"
 			},
 			{
 				"phrase": "パスポートは海外旅行に行くのに必要です。",
-				"translation": "A passport is necessary in order to travel overseas."
+				"translation": "A passport is necessary in order to travel overseas.",
+				"furigana": "パスポート は かいがい りょこう に いく の に ひつよう です 。"
 			},
 			{
 				"phrase": "水着は泳ぐのに使う。",
-				"translation": "Swimwear is used for swimming."
+				"translation": "Swimwear is used for swimming.",
+				"furigana": "みずぎ は およぐ の に つかう 。"
 			},
 			{
 				"phrase": "私がその仕事を仕上げるのに５ヶ月かかった。",
-				"translation": "It took me five months to complete the job."
+				"translation": "It took me five months to complete the job.",
+				"furigana": "わたし が その しごと を しあげる の に ５ かげつ かかった 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2231,23 +2506,28 @@
 		"phrases": [
 			{
 				"phrase": "私は息子がクッキーを盗み食いしようとしているところを見つけた。",
-				"translation": "I caught my son stealing from a cookie jar."
+				"translation": "I caught my son stealing from a cookie jar.",
+				"furigana": "わたし は むすこ が クッキー を ぬすみぐい しよう と し て いる ところ を みつけ た 。"
 			},
 			{
 				"phrase": "バスは発車するところだった。",
-				"translation": "The bus was about to start."
+				"translation": "The bus was about to start.",
+				"furigana": "バス は はっしゃ する ところ だっ た 。"
 			},
 			{
 				"phrase": "今、食べる所です。",
-				"translation": "Right now, I'm just about to eat."
+				"translation": "Right now, I'm just about to eat.",
+				"furigana": "いま 、 たべる ところ です 。"
 			},
 			{
 				"phrase": "これから、部屋を掃除するところです。",
-				"translation": "I'm just about to start cleaning up my room."
+				"translation": "I'm just about to start cleaning up my room.",
+				"furigana": "これから 、 へや を そうじ する ところ です 。"
 			},
 			{
 				"phrase": "食事がおいしくないといってくれて、ありがとう、危うく食べる所でした。",
-				"translation": "Thanks for telling me the food wasn't good, I was just about to eat it."
+				"translation": "Thanks for telling me the food wasn't good, I was just about to eat it.",
+				"furigana": "しょくじ が おいしく ない と いって くれ て 、 ありがとう 、 あやうく たべる ところ でし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2268,23 +2548,28 @@
 		"phrases": [
 			{
 				"phrase": "私は肉は食べない。",
-				"translation": "I don't eat / meat / . (but I eat fish)"
+				"translation": "I don't eat / meat / . (but I eat fish)",
+				"furigana": "わたし は にく は たべ ない 。"
 			},
 			{
 				"phrase": "「セリーナをみせて！」「心配は要らない。いきてはいる、いきて。」",
-				"translation": "\"Show me Serena!\" \"No need to worry. She's / alive / . Alive (but _not_ well).\""
+				"translation": "\"Show me Serena!\" \"No need to worry. She's / alive / . Alive (but _not_ well).\"",
+				"furigana": "「 セリーナ を みせ て ！ 」 「 しんぱい は いら ない 。 いき て は いる 、 いき て 。 」"
 			},
 			{
 				"phrase": "いや、でも野球を見に行くのは好きだけどね。",
-				"translation": "No, but I like + going to baseball."
+				"translation": "No, but I like + going to baseball.",
+				"furigana": "いや 、 でも やきゅう を み に いく の は すき だ けど ね 。"
 			},
 			{
 				"phrase": "私は、足し算は好きだけど、引き算は嫌いだ。",
-				"translation": "I like + addition but + subtraction."
+				"translation": "I like + addition but + subtraction.",
+				"furigana": "わたし は 、 たしざん は すき だ けど 、 ひきざん は きらい だ 。"
 			},
 			{
 				"phrase": "彼は上海で住んでいたので、戦争は彼とは全く関係のないところで行われていた．",
-				"translation": "Because he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection with him at all."
+				"translation": "Because he was living in Shang-hai, the war was being fought (lit. performed) in places that did not have a connection with him at all.",
+				"furigana": "かれ は しゃんはい で すん で い た ので 、 せんそう は かれ と は まったく かんけい の ない ところ で おこなわ れ て い た ．"
 			}
 		],
 		"jlpt": "N3",
@@ -2310,23 +2595,28 @@
 		"phrases": [
 			{
 				"phrase": "天気予報を聞いてたら雪が降るそうです。",
-				"translation": "When I listened to the weather forcast they reckoned it's going to snow."
+				"translation": "When I listened to the weather forcast they reckoned it's going to snow.",
+				"furigana": "てんき よほう を きい て たら ゆき が ふる そう です 。"
 			},
 			{
 				"phrase": "電話したら彼はいないそうです。",
-				"translation": "Upon phoning, I was told that he wasn't there."
+				"translation": "Upon phoning, I was told that he wasn't there.",
+				"furigana": "でんわ し たら かれ は い ない そう です 。"
 			},
 			{
 				"phrase": "彼はいないのですかと聞いたらそうだといわれました。",
-				"translation": "When I asked if he was not there, I was told that it was so."
+				"translation": "When I asked if he was not there, I was told that it was so.",
+				"furigana": "かれ は い ない の です か と きい たら そう だ と いわ れ まし た 。"
 			},
 			{
 				"phrase": "そうですか！",
-				"translation": "Is that so!"
+				"translation": "Is that so!",
+				"furigana": "そう です か ！"
 			},
 			{
 				"phrase": "なんでそうやねん(Kansai Dialect)",
-				"translation": "Why so?"
+				"translation": "Why so?",
+				"furigana": "なんで そう や ねん ( Kansai   Dialect )"
 			}
 		],
 		"jlpt": "N3",
@@ -2347,23 +2637,28 @@
 		"phrases": [
 			{
 				"phrase": "バスが来るよ。",
-				"translation": "The bus is coming !"
+				"translation": "The bus is coming !",
+				"furigana": "バス が くる よ 。"
 			},
 			{
 				"phrase": "それは大変なことだよ。",
-				"translation": "That's pretty serious, you realize that!"
+				"translation": "That's pretty serious, you realize that!",
+				"furigana": "それ は たいへん な こと だ よ 。"
 			},
 			{
 				"phrase": "あなたが好きなんだよ",
-				"translation": "I like you, you know!"
+				"translation": "I like you, you know!",
+				"furigana": "あなた が すき な ん だ よ"
 			},
 			{
 				"phrase": "好い加減にしなさいよ。",
-				"translation": "Shape up !"
+				"translation": "Shape up !",
+				"furigana": "よい かげん に し なさい よ 。"
 			},
 			{
 				"phrase": "いいよ。",
-				"translation": "Sure!"
+				"translation": "Sure!",
+				"furigana": "いい よ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2392,23 +2687,28 @@
 		"phrases": [
 			{
 				"phrase": "医者に控えるように言われているのでお酒が飲めなくて、ウズウズしている。",
-				"translation": "My doctor told me to lay off the liquor so I have this uneasy impatient feeling."
+				"translation": "My doctor told me to lay off the liquor so I have this uneasy impatient feeling.",
+				"furigana": "いしゃ に ひかえる よう に いわ れ て いる ので お さけ が のめ なく て 、 ウズウズ し て いる 。"
 			},
 			{
 				"phrase": "医者は彼に酒を控えるように忠告した。",
-				"translation": "The doctor advised him to keep away from drinking."
+				"translation": "The doctor advised him to keep away from drinking.",
+				"furigana": "いしゃ は かれ に さけ を ひかえる よう に ちゅうこく し た 。"
 			},
 			{
 				"phrase": "医者なら誰でも君に禁煙するように言うだろう。",
-				"translation": "Any doctor will tell you to quit smoking."
+				"translation": "Any doctor will tell you to quit smoking.",
+				"furigana": "いしゃ なら だれ でも きみ に きんえん する よう に いう だろ う 。"
 			},
 			{
 				"phrase": "私は図書館の職員に金曜日締め切りのレポートのためにその本が必要だと言った。そうしたら彼女は借りている人に返却を求めるように言うと言った。",
-				"translation": "I told the librarian that I needed the book for a report due on Friday; so she said she would call it in."
+				"translation": "I told the librarian that I needed the book for a report due on Friday; so she said she would call it in.",
+				"furigana": "わたし は としょかん の しょくいん に きんようび しめきり の レポート の ため に その ほん が ひつよう だ と いった 。 そうしたら かのじょ は かり て いる ひと に へんきゃく を もとめる よう に いう と いった 。"
 			},
 			{
 				"phrase": "先生は私たちに毎日教室を掃除するように言う。",
-				"translation": "The teacher tells us to clean our classroom every day."
+				"translation": "The teacher tells us to clean our classroom every day.",
+				"furigana": "せんせい は わたし たち に まいにち きょうしつ を そうじ する よう に いう 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2435,23 +2735,28 @@
 		"phrases": [
 			{
 				"phrase": "雨が降るような音がしました。",
-				"translation": "There was a sound like  rain falling."
+				"translation": "There was a sound like  rain falling.",
+				"furigana": "あめ が ふる よう な おと が し まし た 。"
 			},
 			{
 				"phrase": "そして、ウッドは「負けたら承知しないぞ」と言うように全員をにらみつけた。",
-				"translation": "Then Wood stared at all the team members like he was saying \"I won't accept it if you're defeated!\""
+				"translation": "Then Wood stared at all the team members like he was saying \"I won't accept it if you're defeated!\"",
+				"furigana": "そして 、 ウッド は 「 まけ たら しょうち し ない ぞ 」 と いう よう に ぜんいん を にらみつけ た 。"
 			},
 			{
 				"phrase": "星のように輝いてる瞳。",
-				"translation": "Eyes that sparkle like stars."
+				"translation": "Eyes that sparkle like stars.",
+				"furigana": "ほし の よう に かがやい てる ひとみ 。"
 			},
 			{
 				"phrase": "そのようなこともあるのでしょうね。",
-				"translation": "I guess something like that could happen."
+				"translation": "I guess something like that could happen.",
+				"furigana": "その よう な こと も ある の でしょ う ね 。"
 			},
 			{
 				"phrase": "安いようだ。",
-				"translation": "Looks  cheap."
+				"translation": "Looks  cheap.",
+				"furigana": "やすい よう だ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2472,23 +2777,28 @@
 		"phrases": [
 			{
 				"phrase": "雨が降ってきたなあところで飯にしないか",
-				"translation": "Hey, it's starting to rain By the way you want to go get something to eat?"
+				"translation": "Hey, it's starting to rain By the way you want to go get something to eat?",
+				"furigana": "あめ が ふって き た なあ ところで めし に し ない か"
 			},
 			{
 				"phrase": "( 「ところで」の他の意味 )私が説得したところであいつは耳をかさないだろう.",
-				"translation": "(alternate usage) No matter how much I try to persuade him, that guy won't listen."
+				"translation": "(alternate usage) No matter how much I try to persuade him, that guy won't listen.",
+				"furigana": "(   「 ところで 」 の ほか の いみ   ) わたし が せっとく し た ところ で あいつ は みみ を かさ ない だろ う ."
 			},
 			{
 				"phrase": "ところで、あなたの仕事は何ですか。",
-				"translation": "By the way, what do you do?"
+				"translation": "By the way, what do you do?",
+				"furigana": "ところで 、 あなた の しごと は なに です か 。"
 			},
 			{
 				"phrase": "ところで、あなたは宿題をしましたか。",
-				"translation": "By the way, have you done your homework?"
+				"translation": "By the way, have you done your homework?",
+				"furigana": "ところで 、 あなた は しゅくだい を し まし た か 。"
 			},
 			{
 				"phrase": "ところで、ちょっと君に話がある。",
-				"translation": "By the way, I have something to tell you."
+				"translation": "By the way, I have something to tell you.",
+				"furigana": "ところで 、 ちょっと きみ に はなし が ある 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2516,23 +2826,28 @@
 		"phrases": [
 			{
 				"phrase": "地震が収まると、みんな家を飛び出した",
-				"translation": "When the earthquake subsided, everybody started running out of the houses."
+				"translation": "When the earthquake subsided, everybody started running out of the houses.",
+				"furigana": "じしん が おさまる と 、 みんな か を とびだし た"
 			},
 			{
 				"phrase": "泥棒が警察を見て、突然走り出しました。",
-				"translation": "When the burglar saw the police he imediately started running."
+				"translation": "When the burglar saw the police he imediately started running.",
+				"furigana": "どろぼう が けいさつ を み て 、 とつぜん はしりだし まし た 。"
 			},
 			{
 				"phrase": "彼女は笑い出した。",
-				"translation": "She started in laughing."
+				"translation": "She started in laughing.",
+				"furigana": "かのじょ は わらい だし た 。"
 			},
 			{
 				"phrase": "気圧計は昨夜下がり出したが朝には止まった。",
-				"translation": "The barometer started to fall last night but stopped in the morning."
+				"translation": "The barometer started to fall last night but stopped in the morning.",
+				"furigana": "きあつ けい は さくや さがり だし た が あさ に は とまった 。"
 			},
 			{
 				"phrase": "朝から雨が降り出した。",
-				"translation": "It began to rain this morning."
+				"translation": "It began to rain this morning.",
+				"furigana": "あさ から あめ が ふりだし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2556,23 +2871,28 @@
 		"phrases": [
 			{
 				"phrase": "結婚するのは大変だ。",
-				"translation": "Getting married is such an effort!"
+				"translation": "Getting married is such an effort!",
+				"furigana": "けっこん する の は たいへん だ 。"
 			},
 			{
 				"phrase": "「さあ、皆さん、正々堂々戦いましょう」全選手が周りに集まるのを待って先生が言った。",
-				"translation": "\"Well, everyone, let's play fair and square.\" the teacher said after waiting for all the players to assemble + ."
+				"translation": "\"Well, everyone, let's play fair and square.\" the teacher said after waiting for all the players to assemble + .",
+				"furigana": "「 さあ 、 みなさん 、 せいせいどうどう たたかい ましょ う 」 ぜん せんしゅ が まわり に あつまる の を まって せんせい が いった 。"
 			},
 			{
 				"phrase": "夢に耽ったり、生きることを忘れてしまうのはよくない。",
-				"translation": "Becoming absorbed in a dream, forgett ing to live is no good."
+				"translation": "Becoming absorbed in a dream, forgett ing to live is no good.",
+				"furigana": "ゆめ に ふけったり 、 いきる こと を わすれ て しまう の は よく ない 。"
 			},
 			{
 				"phrase": "私も買い物に行くのが好きです。",
-				"translation": "I also like to go shopping."
+				"translation": "I also like to go shopping.",
+				"furigana": "わたし も かいもの に いく の が すき です 。"
 			},
 			{
 				"phrase": "アルバイトをしながら学校に行くのは大変ですね。",
-				"translation": "Having a part time job while going to school is hard, right?"
+				"translation": "Having a part time job while going to school is hard, right?",
+				"furigana": "アルバイト を し ながら がっこう に いく の は たいへん です ね 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2593,23 +2913,28 @@
 		"phrases": [
 			{
 				"phrase": "明日は釣れるといいなあ！",
-				"translation": "Won't it be great if (we) can fish tommorow!"
+				"translation": "Won't it be great if (we) can fish tommorow!",
+				"furigana": "あした は つれる と いい なあ ！"
 			},
 			{
 				"phrase": "冷たいビールを飲みたいなあ。",
-				"translation": "I'd really like a cold beer. / I could really go for a cold beer."
+				"translation": "I'd really like a cold beer. / I could really go for a cold beer.",
+				"furigana": "つめたい ビール を のみ たい なあ 。"
 			},
 			{
 				"phrase": "腹減ったなあ。",
-				"translation": "I'm so hungry."
+				"translation": "I'm so hungry.",
+				"furigana": "はら へった なあ 。"
 			},
 			{
 				"phrase": "きれいだなぁ〜。",
-				"translation": "Oh, how beautiful."
+				"translation": "Oh, how beautiful.",
+				"furigana": "きれい だ なぁ 〜 。"
 			},
 			{
 				"phrase": "冷たいビールをのみたいなぁ〜。",
-				"translation": "I want to drink a cold beer."
+				"translation": "I want to drink a cold beer.",
+				"furigana": "つめたい ビール を のみ たい なぁ 〜 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2632,23 +2957,28 @@
 		"phrases": [
 			{
 				"phrase": "「一人で間違えずに歌える自信のある人だけ座りなさい。」と指示しました",
-				"translation": "[The teacher] directed that (just) people who had the confidence that they could sing, on their own, without error should sit down."
+				"translation": "[The teacher] directed that (just) people who had the confidence that they could sing, on their own, without error should sit down.",
+				"furigana": "「 いち にん で まちがえ ず に うたえる じしん の ある ひと だけ すわり なさい 。 」 と しじ し まし た"
 			},
 			{
 				"phrase": "早くしなさい。",
-				"translation": "Do it quickly."
+				"translation": "Do it quickly.",
+				"furigana": "はやく し なさい 。"
 			},
 			{
 				"phrase": "好い加減にしなさいよ。",
-				"translation": "Shape up!"
+				"translation": "Shape up!",
+				"furigana": "よい かげん に し なさい よ 。"
 			},
 			{
 				"phrase": "野菜を食べなさい！",
-				"translation": "Eat your vegetables!"
+				"translation": "Eat your vegetables!",
+				"furigana": "やさい を たべ なさい ！"
 			},
 			{
 				"phrase": "座りなさい。",
-				"translation": "Sit down."
+				"translation": "Sit down.",
+				"furigana": "すわり なさい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2669,23 +2999,28 @@
 		"phrases": [
 			{
 				"phrase": "この靴は高いかな",
-				"translation": "I wonder if these shoes are expensive"
+				"translation": "I wonder if these shoes are expensive",
+				"furigana": "この くつ は たかい か な"
 			},
 			{
 				"phrase": "締め切りに間に合わなかったらどうなるかな。",
-				"translation": "What if I miss the deadline?"
+				"translation": "What if I miss the deadline?",
+				"furigana": "しめきり に まにあわ なかっ たら どう なる か な 。"
 			},
 			{
 				"phrase": "「彼の病気は重いのかな。」「そうでないといいね。」",
-				"translation": "\"Is he seriously ill ?\" \"I hope not.\""
+				"translation": "\"Is he seriously ill ?\" \"I hope not.\"",
+				"furigana": "「 かれ の びょうき は おもい の か な 。 」 「 そう で ない と いい ね 。 」"
 			},
 			{
 				"phrase": "「肘が痛むんだよ。病院に行こうかな。」",
-				"translation": "\"My elbow really hurts. I guess I should go to a hospital.\""
+				"translation": "\"My elbow really hurts. I guess I should go to a hospital.\"",
+				"furigana": "「 ひじ が いたむ ん だ よ 。 びょういん に いこう か な 。 」"
 			},
 			{
 				"phrase": "７月の上旬に、海に行くのは早いかな。",
-				"translation": "I wonder if the first week (or so) of July is too early to go to the beach."
+				"translation": "I wonder if the first week (or so) of July is too early to go to the beach.",
+				"furigana": "しちがつ の じょうじゅん に 、 うみ に いく の は はやい か な 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2705,23 +3040,28 @@
 		"phrases": [
 			{
 				"phrase": "せっかく会いに行ったのに、友達はいませんでした。",
-				"translation": "I took the effort to go and see my friend, but he wasn't there"
+				"translation": "I took the effort to go and see my friend, but he wasn't there",
+				"furigana": "せっかく あい に いった のに 、 ともだち は い ませ ん でし た 。"
 			},
 			{
 				"phrase": "せっかくいい大学に入ったのだからよく勉強するつもりです。",
-				"translation": "I worked hard to get into a good college, so I intend to study hard"
+				"translation": "I worked hard to get into a good college, so I intend to study hard",
+				"furigana": "せっかく いい だいがく に はいった の だ から よく べんきょう する つもり です 。"
 			},
 			{
 				"phrase": "人がせっかく作ってくれた料理を食べないのは失礼だ。",
-				"translation": "It's impolite not to eat food which someone has taken the trouble  of preparing for you. (from An Integrated Approach to Intermediate Japanese)"
+				"translation": "It's impolite not to eat food which someone has taken the trouble  of preparing for you. (from An Integrated Approach to Intermediate Japanese)",
+				"furigana": "ひと が せっかく つくって くれ た りょうり を たべ ない の は しつれい だ 。"
 			},
 			{
 				"phrase": "せっかく彼女に手紙を書いたのに、送るのを忘れちゃった。",
-				"translation": "I took the effort  to write a letter to her and forgot to send it."
+				"translation": "I took the effort  to write a letter to her and forgot to send it.",
+				"furigana": "せっかく かのじょ に てがみ を かい た のに 、 おくる の を わすれ ちゃった 。"
 			},
 			{
 				"phrase": "せっかく母親が買ってきたシャツをどうしても着ようとしなかった。",
-				"translation": "After all of the trouble  my mother went to buy the shirt, I did not wear it."
+				"translation": "After all of the trouble  my mother went to buy the shirt, I did not wear it.",
+				"furigana": "せっかく ははおや が かって き た シャツ を どうしても きよう と し なかっ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2740,23 +3080,28 @@
 		"phrases": [
 			{
 				"phrase": "今着いたところです",
-				"translation": "I am just now arriving (Lit: now arrival time is)"
+				"translation": "I am just now arriving (Lit: now arrival time is)",
+				"furigana": "いま つい た ところ です"
 			},
 			{
 				"phrase": "このホテルは公共交通機関の点から見ると便利な所に位置している。",
-				"translation": "This hotel is in a convenient place in terms of public transportation."
+				"translation": "This hotel is in a convenient place in terms of public transportation.",
+				"furigana": "この ホテル は こうきょう こうつう きかん の てん から みる と べんり な ところ に いち し て いる 。"
 			},
 			{
 				"phrase": "あなたはそれを終えましたか。それどこか、今始めたところです。",
-				"translation": "Have you finished it? On the contrary, I've just begun."
+				"translation": "Have you finished it? On the contrary, I've just begun.",
+				"furigana": "あなた は それ を おえ まし た か 。 それ どこ か 、 いま はじめ た ところ です 。"
 			},
 			{
 				"phrase": "あなたは昨晩私が彼女と二人っきりでいるところを見つけて驚いたにちがいない。",
-				"translation": "You must have been surprised to find me with her alone last night."
+				"translation": "You must have been surprised to find me with her alone last night.",
+				"furigana": "あなた は さくばん わたし が かのじょ と に にん っきり で いる ところ を みつけ て おどろい た に ちがい ない 。"
 			},
 			{
 				"phrase": "あなたは当分の間私のところにいても良い。",
-				"translation": "You may stay with me for the time being."
+				"translation": "You may stay with me for the time being.",
+				"furigana": "あなた は とうぶん の ま わたし の ところ に い て も よい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2776,23 +3121,28 @@
 		"phrases": [
 			{
 				"phrase": "家が狭いものですから大きい家具は置けません",
-				"translation": "The house is small (narrow) [so / therefore] you cant put big furniture in (it)."
+				"translation": "The house is small (narrow) [so / therefore] you cant put big furniture in (it).",
+				"furigana": "いえ が せまい もの です から おおきい かぐ は おけ ませ ん"
 			},
 			{
 				"phrase": "一人っ子なものだからわがままに育ててしまいました。",
-				"translation": "It ((s)he) was an only child and so grew selfish"
+				"translation": "It ((s)he) was an only child and so grew selfish",
+				"furigana": "ひとりっこ な もの だ から わがまま に そだて て しまい まし た 。"
 			},
 			{
 				"phrase": "遅くなってごめんね。道路が込んでいたもんだから。",
-				"translation": "I'm sorry I'm late, I got caught in a traffic jam."
+				"translation": "I'm sorry I'm late, I got caught in a traffic jam.",
+				"furigana": "おそく なって ごめん ね 。 どうろ が こん で い た もん だ から 。"
 			},
 			{
 				"phrase": "上着を脱いでもいいですか。暑いものですから。",
-				"translation": "Can I take my jacket off? I'm feeling a bit hot."
+				"translation": "Can I take my jacket off? I'm feeling a bit hot.",
+				"furigana": "うわぎ を ぬい で も いい です か 。 あつい もの です から 。"
 			},
 			{
 				"phrase": "僕は何でも嗅げれない。どうやら風邪を引っちゃったよ。ものだから。",
-				"translation": "It seems I have caught I cold and cant smell anything. ものだから"
+				"translation": "It seems I have caught I cold and cant smell anything. ものだから",
+				"furigana": "ぼく は なに でも かげ れ ない 。 どうやら かぜ を ひっ ちゃった よ 。 もの だ から 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2820,23 +3170,28 @@
 		"phrases": [
 			{
 				"phrase": "その反面",
-				"translation": "on the other hand"
+				"translation": "on the other hand",
+				"furigana": "その はんめん"
 			},
 			{
 				"phrase": "普通兄は優しい反面、卑しいところもある。",
-				"translation": "My older brother is usually kind, but on the other hand he can be mean."
+				"translation": "My older brother is usually kind, but on the other hand he can be mean.",
+				"furigana": "ふつう けい は やさしい はんめん 、 いやしい ところ も ある 。"
 			},
 			{
 				"phrase": "その仕事は十分にお金になるが、その反面１日に１２時間働かなくてはならない。",
-				"translation": "The job pays well, but on the other hand I have to work twelve hours a day."
+				"translation": "The job pays well, but on the other hand I have to work twelve hours a day.",
+				"furigana": "その しごと は じゅうぶん に おかね に なる が 、 その はんめん １ にち に １ ２ じかん はたらか なく て は なら ない 。"
 			},
 			{
 				"phrase": "この布は水に強い反面,熱には弱い.",
-				"translation": "This cloth is strong in water on the other hand, is vulnerable to heat."
+				"translation": "This cloth is strong in water on the other hand, is vulnerable to heat.",
+				"furigana": "この ぬの は みず に つよい はんめん , ねつ に は よわい ."
 			},
 			{
 				"phrase": "インターネットは子供にとって役に立つ学習ツールだが、反面、しっかりその使い方を指導しない子供がポルノや沫ﾍシーンの画像に簡単に接してしまうことになりかねない。",
-				"translation": "The internet is a useful learning tool for children. On the other hand, it can expose them to pornographic or violent images if they are allowed to use it unsupervised."
+				"translation": "The internet is a useful learning tool for children. On the other hand, it can expose them to pornographic or violent images if they are allowed to use it unsupervised.",
+				"furigana": "インターネット は こども にとって やくにたつ がくしゅう ツール だ が 、 はんめん 、 しっかり その つかいかた を しどう し ない こども が ポルノ や あわ ﾍシーン の がぞう に かんたん に せっし て しまう こと に なり かね ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -2860,23 +3215,28 @@
 		"phrases": [
 			{
 				"phrase": "このコンピューターを使おうとしたが、ダメだった。",
-				"translation": "I tried to use this computer, but I couldn't."
+				"translation": "I tried to use this computer, but I couldn't.",
+				"furigana": "この コンピューター を つかおう と し た が 、 ダメ だっ た 。"
 			},
 			{
 				"phrase": "電車に乗ろうとしたら、ドアが閉まってしまいました。",
-				"translation": "I was about to get on the train when the door closed on me."
+				"translation": "I was about to get on the train when the door closed on me.",
+				"furigana": "でんしゃ に のろう と し たら 、 ドア が しまって しまい まし た 。"
 			},
 			{
 				"phrase": "彼が彼女にキスしようとした時、,お母さんが 部屋に入って来た（のでキスできなかった）。",
-				"translation": "He was trying to kiss his girlfriend when his mom walked in the room. (so I did not get to kiss her)"
+				"translation": "He was trying to kiss his girlfriend when his mom walked in the room. (so I did not get to kiss her)",
+				"furigana": "かれ が かのじょ に キス しよう と し た とき 、 , おかあさん が   へや に はいって き た （ ので キス でき なかっ た ） 。"
 			},
 			{
 				"phrase": "私は彼に真実な気持ちを言おうとしたが、彼の携帯電話が鳴ってしまいました。言おうとした",
-				"translation": "I tried to tell him how I felt,but his phone rang. Tried"
+				"translation": "I tried to tell him how I felt,but his phone rang. Tried",
+				"furigana": "わたし は かれ に しんじつ な きもち を いおう と し た が 、 かれ の けいたい でんわ が なって しまい まし た 。 いおう と し た"
 			},
 			{
 				"phrase": "人間の寿命は短いって分かっていたのに、なんでもっと知ろうと思わなかったんだろう。 ～フレーレン",
-				"translation": "I knew human lives were short. Why didn`t I try to get to know  him better? ーFrieren"
+				"translation": "I knew human lives were short. Why didn`t I try to get to know  him better? ーFrieren",
+				"furigana": "にんげん の じゅみょう は みじかい って わかって い た のに 、 なん で もっと しろう と おもわ なかっ た ん だろ う 。   ～ フレーレン"
 			}
 		],
 		"jlpt": "N3",
@@ -2897,19 +3257,23 @@
 		"phrases": [
 			{
 				"phrase": "「ちょっと目まいがするわ。」「顔色が悪いぞ。一日休んだほうがいいよ。」",
-				"translation": "\" I feel sort of dizzy.\" \"You look pale. You'd better take a day off.\" [F] [M]"
+				"translation": "\" I feel sort of dizzy.\" \"You look pale. You'd better take a day off.\" [F] [M]",
+				"furigana": "「 ちょっと めまい が する わ 。 」 「 かおいろ が わるい ぞ 。 いち にち やすん だ ほう が いい よ 。 」"
 			},
 			{
 				"phrase": "このスープは魚の味がする。",
-				"translation": "This soup tastes of fish."
+				"translation": "This soup tastes of fish.",
+				"furigana": "この スープ は さかな の あじ が する 。"
 			},
 			{
 				"phrase": "この部屋はガスのにおいがする。",
-				"translation": "This room smells of gas."
+				"translation": "This room smells of gas.",
+				"furigana": "この へや は ガス の におい が する 。"
 			},
 			{
 				"phrase": "あなたも血のにおいがするな.",
-				"translation": "I smell blood on you too."
+				"translation": "I smell blood on you too.",
+				"furigana": "あなた も ち の におい が する な ."
 			}
 		],
 		"jlpt": "N3",
@@ -2935,19 +3299,23 @@
 		"phrases": [
 			{
 				"phrase": "誰だい。",
-				"translation": "Who is it ?"
+				"translation": "Who is it ?",
+				"furigana": "だれ だい 。"
 			},
 			{
 				"phrase": "何をこそこそしているんだい。",
-				"translation": "What are you doing sneaking around ?"
+				"translation": "What are you doing sneaking around ?",
+				"furigana": "なに を こそこそ し て いる ん だい 。"
 			},
 			{
 				"phrase": "いつまで起きているんだい。早く寝なさい！",
-				"translation": "Why are you still up ? Just go to bed!"
+				"translation": "Why are you still up ? Just go to bed!",
+				"furigana": "いつ まで おき て いる ん だい 。 はやく ね なさい ！"
 			},
 			{
 				"phrase": "その優しげな目の奥にあるのは本当に何を知りたいんだい?",
-				"translation": "What do you wanna know in your cute eyes?"
+				"translation": "What do you wanna know in your cute eyes?",
+				"furigana": "その やさし げ な め の おく に ある の は ほんとうに なに を しり たい ん だい ?"
 			}
 		],
 		"jlpt": "N3",
@@ -2971,19 +3339,23 @@
 		"phrases": [
 			{
 				"phrase": "もう〜。また皿を壊してしまったか。",
-				"translation": "Good grief. (That) another plate (you've) gone and broken?"
+				"translation": "Good grief. (That) another plate (you've) gone and broken?",
+				"furigana": "もう 〜 。 また さら を こわし て しまった か 。"
 			},
 			{
 				"phrase": "夢に耽ったり、生きることを忘れてしまうのはよくない。",
-				"translation": "Becoming absorbed in a dream, forgetting to live is no good."
+				"translation": "Becoming absorbed in a dream, forgetting to live is no good.",
+				"furigana": "ゆめ に ふけったり 、 いきる こと を わすれ て しまう の は よく ない 。"
 			},
 			{
 				"phrase": "あなたは笑われてしまうでしょう。",
-				"translation": "You will be laughed at."
+				"translation": "You will be laughed at.",
+				"furigana": "あなた は わらわ れ て しまう でしょ う 。"
 			},
 			{
 				"phrase": "電車の中に財布を落としてしまった。",
-				"translation": "I lost my wallet in the train."
+				"translation": "I lost my wallet in the train.",
+				"furigana": "でんしゃ の なか に さいふ を おとし て しまった 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3006,19 +3378,23 @@
 		"phrases": [
 			{
 				"phrase": "医者である田中さん",
-				"translation": "The Tanaka san who is a doctor."
+				"translation": "The Tanaka san who is a doctor.",
+				"furigana": "いしゃ で ある たなか さん"
 			},
 			{
 				"phrase": "そうであるとしても、この場合は別でしょう。",
-				"translation": "Even if that is correct, would it not have to be different in this case?"
+				"translation": "Even if that is correct, would it not have to be different in this case?",
+				"furigana": "そう で ある として も 、 この ばあい は べつ でしょ う 。"
 			},
 			{
 				"phrase": "いつも正直であるということは、容易なことではない。",
-				"translation": "To be always honest is not easy."
+				"translation": "To be always honest is not easy.",
+				"furigana": "いつも しょうじき で ある という こと は 、 ようい な こと で は ない 。"
 			},
 			{
 				"phrase": "\"We\" are a cat (famous novel title).",
-				"translation": "我輩は猫である。"
+				"translation": "我輩は猫である。",
+				"furigana": "\" We \"   are   a   cat   ( famous   novel   title )."
 			}
 		],
 		"jlpt": "N3",
@@ -3039,19 +3415,23 @@
 		"phrases": [
 			{
 				"phrase": "ボンドの映画を見たいな〜。",
-				"translation": "I wanna see the Bond movie!"
+				"translation": "I wanna see the Bond movie!",
+				"furigana": "ボンド の えいが を み たい な 〜 。"
 			},
 			{
 				"phrase": "この車を買いたいんですが、お金が無い。",
-				"translation": "I want to buy this car but I don't have the money."
+				"translation": "I want to buy this car but I don't have the money.",
+				"furigana": "この くるま を かい たい ん です が 、 おかね が ない 。"
 			},
 			{
 				"phrase": "あなたは何をしたいのですか。",
-				"translation": "What would you like to do?"
+				"translation": "What would you like to do?",
+				"furigana": "あなた は なに を し たい の です か 。"
 			},
 			{
 				"phrase": "彼女は私のすることをいつみ知りたがる。",
-				"translation": "She`s always curious about (as to) what I`m doing."
+				"translation": "She`s always curious about (as to) what I`m doing.",
+				"furigana": "かのじょ は わたし の する こと を いつみ しり た がる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3071,19 +3451,23 @@
 		"phrases": [
 			{
 				"phrase": "公園を歩きました。",
-				"translation": "I walked (through/in) the park."
+				"translation": "I walked (through/in) the park.",
+				"furigana": "こうえん を あるき まし た 。"
 			},
 			{
 				"phrase": "12歳のとき、私は川を泳いで渡ることができた。",
-				"translation": "I could swim + across the river when I was twelve."
+				"translation": "I could swim + across the river when I was twelve.",
+				"furigana": "12 さい の とき 、 わたし は かわ を およい で わたる こと が でき た 。"
 			},
 			{
 				"phrase": "この列車はニューヨークとボストン間を走っている。",
-				"translation": "This train runs + between New York and Boston."
+				"translation": "This train runs + between New York and Boston.",
+				"furigana": "この れっしゃ は ニューヨーク と ボストン かん を はしって いる 。"
 			},
 			{
 				"phrase": "お忙しいところをお出で頂きありがとうございます。",
-				"translation": "Than you very much for coming despite the fact that. you were busy."
+				"translation": "Than you very much for coming despite the fact that. you were busy.",
+				"furigana": "おいそがしい ところ を おいで いただき ありがとう ござい ます 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3103,19 +3487,23 @@
 		"phrases": [
 			{
 				"phrase": "部屋を出た。",
-				"translation": "I left the room."
+				"translation": "I left the room.",
+				"furigana": "へや を で た 。"
 			},
 			{
 				"phrase": "大阪を出発する。",
-				"translation": "He leaves + Osaka."
+				"translation": "He leaves + Osaka.",
+				"furigana": "おおさか を しゅっぱつ する 。"
 			},
 			{
 				"phrase": "去年日本を離れた。",
-				"translation": "I left + Japan last year."
+				"translation": "I left + Japan last year.",
+				"furigana": "きょねん にっぽん を はなれ た 。"
 			},
 			{
 				"phrase": "１９００年に彼はイギリスを去った。",
-				"translation": "In 1900 he left + England."
+				"translation": "In 1900 he left + England.",
+				"furigana": "１ ９ ０ ０ ねん に かれ は イギリス を さった 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3140,19 +3528,23 @@
 		"phrases": [
 			{
 				"phrase": "窓が開けてある。",
-				"translation": "The window has been left open."
+				"translation": "The window has been left open.",
+				"furigana": "まど が あけ て ある 。"
 			},
 			{
 				"phrase": "窓が閉めてある。",
-				"translation": "The window has been closed."
+				"translation": "The window has been closed.",
+				"furigana": "まど が しめ て ある 。"
 			},
 			{
 				"phrase": "窓を（は）開けてある。",
-				"translation": "I left the window open."
+				"translation": "I left the window open.",
+				"furigana": "まど を （ は ） あけ て ある 。"
 			},
 			{
 				"phrase": "窓を（は）閉めてある。",
-				"translation": "I kept the window closed."
+				"translation": "I kept the window closed.",
+				"furigana": "まど を （ は ） しめ て ある 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3180,19 +3572,23 @@
 		"phrases": [
 			{
 				"phrase": "新聞を買ってくる。",
-				"translation": "I'll go buy the newspaper. (implying you'll be back)"
+				"translation": "I'll go buy the newspaper. (implying you'll be back)",
+				"furigana": "しんぶん を かって くる 。"
 			},
 			{
 				"phrase": "医者に行って薬をもらってきました。",
-				"translation": "I went to the doctor and got some medicine (and came back with it) ."
+				"translation": "I went to the doctor and got some medicine (and came back with it) .",
+				"furigana": "いしゃ に いって くすり を もらって き まし た 。"
 			},
 			{
 				"phrase": "日本語が少しずつ分かってきた",
-				"translation": "Little by little, I came to understand Japanese."
+				"translation": "Little by little, I came to understand Japanese.",
+				"furigana": "にほんご が すこし ずつ わかって き た"
 			},
 			{
 				"phrase": "物価が下がってくる。",
-				"translation": "Prices continue to fall."
+				"translation": "Prices continue to fall.",
+				"furigana": "ぶっか が さがって くる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3218,19 +3614,23 @@
 		"phrases": [
 			{
 				"phrase": "スイスというと何をイメージしますか？",
-				"translation": "When you hear 'Switzerland' what does it invoke in your mind?"
+				"translation": "When you hear 'Switzerland' what does it invoke in your mind?",
+				"furigana": "スイス と いう と なに を イメージ し ます か ？"
 			},
 			{
 				"phrase": "なぜクビにならなかったかと言うと彼には超能力があり、彼の予知で数々の難事件が解決をみたからだ",
-				"translation": "To say (the reason) why he wasn't fired, having psychic powers, he solved many difficult cases with his foresight."
+				"translation": "To say (the reason) why he wasn't fired, having psychic powers, he solved many difficult cases with his foresight.",
+				"furigana": "なぜ クビ に なら なかっ た か と いう と かれ に は ちょう のうりょく が あり 、 かれ の よち で かずかず の なんじけん が かいけつ を み た から だ"
 			},
 			{
 				"phrase": "何かというとあいつはいつも口を出そうとする。",
-				"translation": "Whatever happens, that guy always tries to interject himself."
+				"translation": "Whatever happens, that guy always tries to interject himself.",
+				"furigana": "なにかと いう と あいつ は いつも くち を だそう と する 。"
 			},
 			{
 				"phrase": "何故かといわれても、知りません",
-				"translation": "If you ask me why, I don't know."
+				"translation": "If you ask me why, I don't know.",
+				"furigana": "なぜ か と いわ れ て も 、 しり ませ ん"
 			}
 		],
 		"jlpt": "N3",
@@ -3255,19 +3655,23 @@
 		"phrases": [
 			{
 				"phrase": "これはあくまでも予定以外のなにものでもない。",
-				"translation": "This is only a plan and nothing more than that."
+				"translation": "This is only a plan and nothing more than that.",
+				"furigana": "これ は あくまでも よてい いがい の なに もの で も ない 。"
 			},
 			{
 				"phrase": "明日この宿題を終わる予定です。",
-				"translation": "I plan to finish this assignment tomorrow."
+				"translation": "I plan to finish this assignment tomorrow.",
+				"furigana": "あした この しゅくだい を おわる よてい です 。"
 			},
 			{
 				"phrase": "来週帰国する予定です。",
-				"translation": "I plan to go back to my home country next week."
+				"translation": "I plan to go back to my home country next week.",
+				"furigana": "らいしゅう きこく する よてい です 。"
 			},
 			{
 				"phrase": "来年彼女と結婚する予定です。",
-				"translation": "next year I am planning to marry her."
+				"translation": "next year I am planning to marry her.",
+				"furigana": "らいねん かのじょ と けっこん する よてい です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3292,19 +3696,23 @@
 		"phrases": [
 			{
 				"phrase": "着てみてもいい？",
-				"translation": "Is it ok if i try it on to see?"
+				"translation": "Is it ok if i try it on to see?",
+				"furigana": "き て み て も いい ？"
 			},
 			{
 				"phrase": "あなたは自分で行って見るべきです。",
-				"translation": "You should go and see for yourself."
+				"translation": "You should go and see for yourself.",
+				"furigana": "あなた は じぶん で おこなって みる べき です 。"
 			},
 			{
 				"phrase": "老いた故郷の両親のことを考えて見るべきだ。",
-				"translation": "You must think of your old parents at home."
+				"translation": "You must think of your old parents at home.",
+				"furigana": "おい た こきょう の りょうしん の こと を かんがえ て みる べき だ 。"
 			},
 			{
 				"phrase": "やって見ようか？",
-				"translation": "Shall we have a go?"
+				"translation": "Shall we have a go?",
+				"furigana": "やって みよう か ？"
 			}
 		],
 		"jlpt": "N3",
@@ -3329,19 +3737,23 @@
 		"phrases": [
 			{
 				"phrase": "まど　から　くび　を　だす。",
-				"translation": "Lean out the window."
+				"translation": "Lean out the window.",
+				"furigana": "ま ど 　 から 　 く び 　 を 　 だす 。"
 			},
 			{
 				"phrase": "わたし　の　かいしゃ　は　ほん　を　出した。",
-				"translation": "My company published a book."
+				"translation": "My company published a book.",
+				"furigana": "わたし 　 の 　 かいしゃ 　 は 　 ほん 　 を 　 だし た 。"
 			},
 			{
 				"phrase": "ごみ　を　出す。",
-				"translation": "Take out the garbage."
+				"translation": "Take out the garbage.",
+				"furigana": "ごみ 　 を 　 だす 。"
 			},
 			{
 				"phrase": "お金　を　出す　から　買って　ください。",
-				"translation": "I will pay (for it), please buy it."
+				"translation": "I will pay (for it), please buy it.",
+				"furigana": "おかね 　 を 　 だす 　 から 　 かって 　 ください 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3366,19 +3778,23 @@
 		"phrases": [
 			{
 				"phrase": "何かきになることがある？",
-				"translation": "Is there something you're worried about?"
+				"translation": "Is there something you're worried about?",
+				"furigana": "なに かき に なる こと が ある ？"
 			},
 			{
 				"phrase": "A:なんでその変なスタイルにしたの？ Ｂ：何か、気になるよ",
-				"translation": "A:Why did you go with that weird style? B:Well, the feeling just came to me!"
+				"translation": "A:Why did you go with that weird style? B:Well, the feeling just came to me!",
+				"furigana": "A : な んで その へん な スタイル に し た の ？   Ｂ ： なに か 、 き に なる よ"
 			},
 			{
 				"phrase": "Well, the feeling just came to me!",
-				"translation": "Ｂ：何か、気になるよ"
+				"translation": "Ｂ：何か、気になるよ",
+				"furigana": "Well ,   the   feeling   just   came   to   me !"
 			},
 			{
 				"phrase": "子供の教育のことが気になる。",
-				"translation": "I'm worried about my child's education."
+				"translation": "I'm worried about my child's education.",
+				"furigana": "こども の きょういく の こと が き に なる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3398,19 +3814,23 @@
 		"phrases": [
 			{
 				"phrase": "バスを降りようとすると、後ろから押された。",
-				"translation": "I was about to get off the bus, when someone pushed me from behind."
+				"translation": "I was about to get off the bus, when someone pushed me from behind.",
+				"furigana": "バス を おりよう と する と 、 うしろ から おさ れ た 。"
 			},
 			{
 				"phrase": "出かけようとすると、父に呼ばれた。",
-				"translation": "I was just about to go out, when dad called me."
+				"translation": "I was just about to go out, when dad called me.",
+				"furigana": "でかけよう と する と 、 ちち に よば れ た 。"
 			},
 			{
 				"phrase": "お風呂に入ろうとしたときに、電話が鳴りました。",
-				"translation": "The telephone rang just as I was about to get into the bath."
+				"translation": "The telephone rang just as I was about to get into the bath.",
+				"furigana": "お ふろ に にゅうろう と し た とき に 、 でんわ が なり まし た 。"
 			},
 			{
 				"phrase": "彼女に告白しようとすると、突然友達が来ました。",
-				"translation": "when i try to propose her suddenly friend are come."
+				"translation": "when i try to propose her suddenly friend are come.",
+				"furigana": "かのじょ に こくはく しよう と する と 、 とつぜん ともだち が き まし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3430,19 +3850,23 @@
 		"phrases": [
 			{
 				"phrase": "僕は君ほど速く歩けません。",
-				"translation": "I can't walk as fast as you can."
+				"translation": "I can't walk as fast as you can.",
+				"furigana": "ぼく は きみ ほど はやく あるけ ませ ん 。"
 			},
 			{
 				"phrase": "ジェニファーほどよく勉強する学生はいない。",
-				"translation": "There is no student who studies as hard as Jennifer."
+				"translation": "There is no student who studies as hard as Jennifer.",
+				"furigana": "ジェニファー ほど よく べんきょう する がくせい は い ない 。"
 			},
 			{
 				"phrase": "私は西田さんがあれほどピアノが弾けるは思わなかった。",
-				"translation": "I didn't think that Mr. Nishida could play the piano that well . (lit. to that extent)"
+				"translation": "I didn't think that Mr. Nishida could play the piano that well . (lit. to that extent)",
+				"furigana": "わたし は にしだ さん が あれ ほど ピアノ が はじける は おもわ なかっ た 。"
 			},
 			{
 				"phrase": "ルイスさんの日本語は太田先生も外国人だと気づかなかったほど上手です。",
-				"translation": "Mr. Lewis's Japanese is so good that even Prof. Ota didn't notice he was a foreigner."
+				"translation": "Mr. Lewis's Japanese is so good that even Prof. Ota didn't notice he was a foreigner.",
+				"furigana": "ルイス さん の にほんご は おおた せんせい も がいこく じん だ と きづか なかっ た ほど じょうず です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3462,19 +3886,23 @@
 		"phrases": [
 			{
 				"phrase": "どうしても事故は起こるものだ。",
-				"translation": "No matter what, accidents will happen."
+				"translation": "No matter what, accidents will happen.",
+				"furigana": "どうしても じこ は おこる もの だ 。"
 			},
 			{
 				"phrase": "どうしても痩せたい",
-				"translation": "I'd like to lose weight no matter what."
+				"translation": "I'd like to lose weight no matter what.",
+				"furigana": "どうしても やせ たい"
 			},
 			{
 				"phrase": "どうしても上手になりたいです。",
-				"translation": "I want to improve no matter what  ."
+				"translation": "I want to improve no matter what  .",
+				"furigana": "どうしても じょうず に なり たい です 。"
 			},
 			{
 				"phrase": "どうしても試験に合格したいです",
-				"translation": "I wanna pass examination no matter what"
+				"translation": "I wanna pass examination no matter what",
+				"furigana": "どうしても しけん に ごうかく し たい です"
 			}
 		],
 		"jlpt": "N3",
@@ -3494,15 +3922,18 @@
 		"phrases": [
 			{
 				"phrase": "私はきっと変な人だと思われてる。",
-				"translation": "I'm sure I'm thought of as an odd person."
+				"translation": "I'm sure I'm thought of as an odd person.",
+				"furigana": "わたし は きっと へん な ひと だ と おもわ れ てる 。"
 			},
 			{
 				"phrase": "彼女はきれいな足をしている。",
-				"translation": "She has beautiful legs."
+				"translation": "She has beautiful legs.",
+				"furigana": "かのじょ は きれい な あし を し て いる 。"
 			},
 			{
 				"phrase": "静かなレストランに行きましょう。",
-				"translation": "Let's go to a quiet restaurant."
+				"translation": "Let's go to a quiet restaurant.",
+				"furigana": "しずか な レストラン に いき ましょ う 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3522,15 +3953,18 @@
 		"phrases": [
 			{
 				"phrase": "日本へ行ったばかりのころは、日本語がわからなくて困りました。",
-				"translation": "When I was a newcomer to Japan, I had trouble understanding Japanese."
+				"translation": "When I was a newcomer to Japan, I had trouble understanding Japanese.",
+				"furigana": "にっぽん へ いった ばかり の ころ は 、 にほんご が わから なく て こまり まし た 。"
 			},
 			{
 				"phrase": "食べたばかりだから、ちょっと待ってください。",
-				"translation": "I just ate so please wait a bit."
+				"translation": "I just ate so please wait a bit.",
+				"furigana": "たべ た ばかり だ から 、 ちょっと まって ください 。"
 			},
 			{
 				"phrase": "働き始めたばかりのとき、僕も間違えたよ。",
-				"translation": "When I had just begun working, I made some mistakes too."
+				"translation": "When I had just begun working, I made some mistakes too.",
+				"furigana": "はたらき はじめ た ばかり の とき 、 ぼく も まちがえ た よ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3553,15 +3987,18 @@
 		"phrases": [
 			{
 				"phrase": "2つのことを一度にしようとしてはいけません。",
-				"translation": "Don't try to do two things at a time."
+				"translation": "Don't try to do two things at a time.",
+				"furigana": "2 つ の こと を いち ど に しよう として は いけ ませ ん 。"
 			},
 			{
 				"phrase": "このような（子供の）態度は、自分たちがある程度独立していることを示そうとしての結果なのである。",
-				"translation": "This is because they are trying to prove they are somewhat independent."
+				"translation": "This is because they are trying to prove they are somewhat independent.",
+				"furigana": "この よう な （ こども の ） たいど は 、 じぶん たち が あるていど どくりつ し て いる こと を しめそう として の けっか な の で ある 。"
 			},
 			{
 				"phrase": "アイスクリームを食べようとして、スプーンがないことに気が付いた。これでは食べようがない。どうしよう。",
-				"translation": "When they were trying to eat ice cream, they noticed they didn't have a spoon. There's no way to eat. What should we do?"
+				"translation": "When they were trying to eat ice cream, they noticed they didn't have a spoon. There's no way to eat. What should we do?",
+				"furigana": "アイスクリーム を たべよう として 、 スプーン が ない こと に きがつい た 。 これ で は たべ よう が ない 。 どう しよう 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3582,15 +4019,18 @@
 		"phrases": [
 			{
 				"phrase": "わざとらしい笑い。",
-				"translation": "An artificial smile."
+				"translation": "An artificial smile.",
+				"furigana": "わざとらしい わらい 。"
 			},
 			{
 				"phrase": "彼のわざとらしい話し方が嫌いだ。",
-				"translation": "I don't like his affected manner of speaking."
+				"translation": "I don't like his affected manner of speaking.",
+				"furigana": "かれ の わざとらしい はなしかた が きらい だ 。"
 			},
 			{
 				"phrase": "彼のけがするのは、わざとらしいですね",
-				"translation": "It`s like he is faking his injury."
+				"translation": "It`s like he is faking his injury.",
+				"furigana": "かれ の けが する の は 、 わざとらしい です ね"
 			}
 		],
 		"jlpt": "N3",
@@ -3618,15 +4058,18 @@
 		"phrases": [
 			{
 				"phrase": "私は英語の手紙の書き方を知っています。",
-				"translation": "I know how to write a letter in English."
+				"translation": "I know how to write a letter in English.",
+				"furigana": "わたし は えいご の てがみ の かきかた を しって い ます 。"
 			},
 			{
 				"phrase": "この漢字の読み方を教えてください。",
-				"translation": "Please teach me how to read this kanji."
+				"translation": "Please teach me how to read this kanji.",
+				"furigana": "この かんじ の よみかた を おしえ て ください 。"
 			},
 			{
 				"phrase": "いろいろな人の考え方を見出すのが好きです。",
-				"translation": "I like to discover various people's way of thinking."
+				"translation": "I like to discover various people's way of thinking.",
+				"furigana": "いろいろ な ひと の かんがえかた を みいだす の が すき です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3647,15 +4090,18 @@
 		"phrases": [
 			{
 				"phrase": "明日までにそれを済ませてしまうべきです。",
-				"translation": "You ought to have done it by tomorrow."
+				"translation": "You ought to have done it by tomorrow.",
+				"furigana": "あした まで に それ を すませ て しまう べき です 。"
 			},
 			{
 				"phrase": "お昼までに戻らないといけない。",
-				"translation": "(I) need to be back by noon."
+				"translation": "(I) need to be back by noon.",
+				"furigana": "おひる まで に もどら ない と いけ ない 。"
 			},
 			{
 				"phrase": "書類を夜までにださなければなりません。",
-				"translation": "Document must be submitted by  evening."
+				"translation": "Document must be submitted by  evening.",
+				"furigana": "しょるい を よる まで に ださ なけれ ば なり ませ ん 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3675,15 +4121,18 @@
 		"phrases": [
 			{
 				"phrase": "野菜を食べなければなりません。",
-				"translation": "You must eat your vegetables."
+				"translation": "You must eat your vegetables.",
+				"furigana": "やさい を たべ なけれ ば なり ませ ん 。"
 			},
 			{
 				"phrase": "お店で卵を買わなければなりません。なければなりません。",
-				"translation": "I have to buy eggs at the store. なければなりません"
+				"translation": "I have to buy eggs at the store. なければなりません",
+				"furigana": "お みせ で たまご を かわ なけれ ば なり ませ ん 。 なけれ ば なり ませ ん 。"
 			},
 			{
 				"phrase": "毎日日本語を勉強しなければなりません。",
-				"translation": "I must study Japanese everyday"
+				"translation": "I must study Japanese everyday",
+				"furigana": "まいにち にほんご を べんきょう し なけれ ば なり ませ ん 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3709,15 +4158,18 @@
 		"phrases": [
 			{
 				"phrase": "あなたは日本の音楽を聞くことで上手になります。",
-				"translation": "By listening to Japanese music, you will become better. (at understanding Japanese) By listening to Japanese music"
+				"translation": "By listening to Japanese music, you will become better. (at understanding Japanese) By listening to Japanese music",
+				"furigana": "あなた は にっぽん の おんがく を きく こと で じょうず に なり ます 。"
 			},
 			{
 				"phrase": "退席することで実は正しいことをすることになる。",
-				"translation": "You may actually be doing the right thing by walking out."
+				"translation": "You may actually be doing the right thing by walking out.",
+				"furigana": "たいせき する こと で じつは ただしい こと を する こと に なる 。"
 			},
 			{
 				"phrase": "まいにちれんしゅうすることで、にほんごがぺらぺらになりました。",
-				"translation": "Everyday by studying japanese language, you will be better."
+				"translation": "Everyday by studying japanese language, you will be better.",
+				"furigana": "まい に ちれ ん しゅうする こと で 、 に ほん ご が ぺらぺら に なり まし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3738,11 +4190,13 @@
 		"phrases": [
 			{
 				"phrase": "悪魔め！俺様は聖なる剣で貴様を倒す！",
-				"translation": "Foul demon! _I_ will smite you with this sacred + sword!"
+				"translation": "Foul demon! _I_ will smite you with this sacred + sword!",
+				"furigana": "あくま め ！ おれ さま は せいなる けん で きさま を たおす ！"
 			},
 			{
 				"phrase": "スター・ウォーズのエピソード４の副題は、「新たなる希望」である。",
-				"translation": "The subtitle of Episod IV of Star Wars is \"a new + hope\"."
+				"translation": "The subtitle of Episod IV of Star Wars is \"a new + hope\".",
+				"furigana": "スター・ウォーズ の エピソード ４ の ふくだい は 、 「 あらた なる きぼう 」 で ある 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3762,11 +4216,13 @@
 		"phrases": [
 			{
 				"phrase": "うちは毎年９月末の日曜日にすると決まっているのです。",
-				"translation": "It's our rule to make it the last Sunday of September every year."
+				"translation": "It's our rule to make it the last Sunday of September every year.",
+				"furigana": "うち は まいとし くがつ まつ の にちようび に する と きまって いる の です 。"
 			},
 			{
 				"phrase": "そのようにすると後で困らない？",
-				"translation": "if you do it this way, won't you be troubled later on?"
+				"translation": "if you do it this way, won't you be troubled later on?",
+				"furigana": "その よう に する と あとで こまら ない ？"
 			}
 		],
 		"jlpt": "N3",
@@ -3791,11 +4247,13 @@
 		"phrases": [
 			{
 				"phrase": "私 は 食べている",
-				"translation": "I am eating now"
+				"translation": "I am eating now",
+				"furigana": "わたし   は   たべ て いる"
 			},
 			{
 				"phrase": "あなた は 見ている",
-				"translation": "You are looking now"
+				"translation": "You are looking now",
+				"furigana": "あなた   は   み て いる"
 			}
 		],
 		"jlpt": "N3",
@@ -3815,11 +4273,13 @@
 		"phrases": [
 			{
 				"phrase": "とても寒いけれど、彼女はコートなしで出かけました。",
-				"translation": "Although it is very cold, she went out without a coat on"
+				"translation": "Although it is very cold, she went out without a coat on",
+				"furigana": "とても さむい けれど 、 かのじょ は コート なし で でかけ まし た 。"
 			},
 			{
 				"phrase": "彼女はコートなしで出かけました",
-				"translation": "she went out without wearing a coat"
+				"translation": "she went out without wearing a coat",
+				"furigana": "かのじょ は コート なし で でかけ まし た"
 			}
 		],
 		"jlpt": "N3",
@@ -3842,11 +4302,13 @@
 		"phrases": [
 			{
 				"phrase": "朝ごはんを食べずに学校へ来ました。",
-				"translation": "I came to school without eating breakfast."
+				"translation": "I came to school without eating breakfast.",
+				"furigana": "あさ ごはん を たべ ず に がっこう へ き まし た 。"
 			},
 			{
 				"phrase": "勉強せずにテストを受けた。",
-				"translation": "I took the test without having studied."
+				"translation": "I took the test without having studied.",
+				"furigana": "べんきょう せ ず に テスト を うけ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3867,11 +4329,13 @@
 		"phrases": [
 			{
 				"phrase": "最近ちょっと太ったから毎日ハンバーガーを食べないことにしました。",
-				"translation": "I gained a little weight recently so I've decided not to eat hamburgers every day."
+				"translation": "I gained a little weight recently so I've decided not to eat hamburgers every day.",
+				"furigana": "さいきん ちょっと ふとった から まいにち ハンバーガー を たべ ない こと に し まし た 。"
 			},
 			{
 				"phrase": "合格するようにもっと勉強をすることにしました。",
-				"translation": "In order to pass the exam I decided to study harder"
+				"translation": "In order to pass the exam I decided to study harder",
+				"furigana": "ごうかく する よう に もっと べんきょう を する こと に し まし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3891,11 +4355,13 @@
 		"phrases": [
 			{
 				"phrase": "たくさんあって､とても食べきれません",
-				"translation": "There is so much (food) that I can`t possible eat it all."
+				"translation": "There is so much (food) that I can`t possible eat it all.",
+				"furigana": "たくさん あって ､ とても たべ きれ ませ ん"
 			},
 			{
 				"phrase": "東京ではとても家なんか買えません。",
-				"translation": "I can`t possibly buy a house in Tokyo."
+				"translation": "I can`t possibly buy a house in Tokyo.",
+				"furigana": "とうきょう で は とても いえ なんか かえ ませ ん 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3915,11 +4381,13 @@
 		"phrases": [
 			{
 				"phrase": "どうしたんですか。顔色が悪いですよ。",
-				"translation": "What happened? You are really pale."
+				"translation": "What happened? You are really pale.",
+				"furigana": "どう し た ん です か 。 かおいろ が わるい です よ 。"
 			},
 			{
 				"phrase": "どうしたのですか。頭が痛いのです。",
-				"translation": "What's wrong with you? I have a headache."
+				"translation": "What's wrong with you? I have a headache.",
+				"furigana": "どう し た の です か 。 あたま が いたい の です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3939,11 +4407,13 @@
 		"phrases": [
 			{
 				"phrase": "主人が仕事で東京にいくことになった。",
-				"translation": "It has been decided that my husband will go to Tokyo for professional reasons."
+				"translation": "It has been decided that my husband will go to Tokyo for professional reasons.",
+				"furigana": "しゅじん が しごと で とうきょう に いく こと に なった 。"
 			},
 			{
 				"phrase": "留学することになりました。",
-				"translation": "It has been arranged that I will study abroad."
+				"translation": "It has been arranged that I will study abroad.",
+				"furigana": "りゅうがく する こと に なり まし た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3963,11 +4433,13 @@
 		"phrases": [
 			{
 				"phrase": "昨夜、誰がテレビをつけたかしら。",
-				"translation": "I wonder who turned on the TV last night."
+				"translation": "I wonder who turned on the TV last night.",
+				"furigana": "さくや 、 だれ が テレビ を つけ た かしら 。"
 			},
 			{
 				"phrase": "いくらかしら。",
-				"translation": "I wonder how much it is."
+				"translation": "I wonder how much it is.",
+				"furigana": "いくら かしら 。"
 			}
 		],
 		"jlpt": "N3",
@@ -3992,7 +4464,8 @@
 		"phrases": [
 			{
 				"phrase": "多くのアメリカ人と同様に彼は気さくだ。",
-				"translation": "Like/similar to many Americans, he is very friendly."
+				"translation": "Like/similar to many Americans, he is very friendly.",
+				"furigana": "おおく の アメリカ じん と どうよう に かれ は きさく だ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4012,7 +4485,8 @@
 		"phrases": [
 			{
 				"phrase": "少しずつそうなったということですね",
-				"translation": "its a gradual thing,isn't it?"
+				"translation": "its a gradual thing,isn't it?",
+				"furigana": "すこし ずつ そう なった という こと です ね"
 			}
 		],
 		"jlpt": "N3",
@@ -4032,7 +4506,8 @@
 		"phrases": [
 			{
 				"phrase": "この写真のようなカットが欲しい。",
-				"translation": "I want a haircut like this one in the picture."
+				"translation": "I want a haircut like this one in the picture.",
+				"furigana": "この しゃしん の よう な カット が ほしい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4052,7 +4527,8 @@
 		"phrases": [
 			{
 				"phrase": "そろそろ終わりかい？",
-				"translation": "Is it about to end?"
+				"translation": "Is it about to end?",
+				"furigana": "そろそろ おわり かい ？"
 			}
 		],
 		"jlpt": "N3",
@@ -4096,23 +4572,28 @@
 		"phrases": [
 			{
 				"phrase": "電車の中での勉強はとても無理なような気がします。",
-				"translation": "I feel like it's almost impossible to study on the train ."
+				"translation": "I feel like it's almost impossible to study on the train .",
+				"furigana": "でんしゃ の なか で の べんきょう は とても むり な よう な き が し ます 。"
 			},
 			{
 				"phrase": "旅行で行きましたけど、そこには住みたくないような気がしました。",
-				"translation": "I went travelling there, but realized I would not like to live there ."
+				"translation": "I went travelling there, but realized I would not like to live there .",
+				"furigana": "りょこう で いき まし た けど 、 そこ に は すみ たく ない よう な き が し まし た 。"
 			},
 			{
 				"phrase": "悪い人のような気がしました。",
-				"translation": "I felt that he was a bad person ."
+				"translation": "I felt that he was a bad person .",
+				"furigana": "わるい ひと の よう な き が し まし た 。"
 			},
 			{
 				"phrase": "高いような気がしている。",
-				"translation": "I feel like its expensive ."
+				"translation": "I feel like its expensive .",
+				"furigana": "たかい よう な き が し て いる 。"
 			},
 			{
 				"phrase": "いつも排尿したいような気がする。",
-				"translation": "I have a constant feeling I have to pee ."
+				"translation": "I have a constant feeling I have to pee .",
+				"furigana": "いつも はいにょう し たい よう な き が する 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4143,23 +4624,28 @@
 		"phrases": [
 			{
 				"phrase": "田中さんが、病気の子どもだけを家にのこして出かけるはずがない。",
-				"translation": "Mrs Tanaka is not supposed to leave the ill child alone at home."
+				"translation": "Mrs Tanaka is not supposed to leave the ill child alone at home.",
+				"furigana": "たなか さん が 、 びょうき の こども だけ を いえ に のこし て でかける はず が ない 。"
 			},
 			{
 				"phrase": "彼は８時に来るはずだったが、１０時になるまで姿を現さなかった。",
-				"translation": "He was supposed to be there at 8 o'clock and he didn't show up till ten."
+				"translation": "He was supposed to be there at 8 o'clock and he didn't show up till ten.",
+				"furigana": "かれ は ８ じ に くる はず だっ た が 、 １ ０ じ に なる まで すがた を あらわさ なかっ た 。"
 			},
 			{
 				"phrase": "易しいはずだったのに、試験は予想外に難しかった。",
-				"translation": "It was supposed to be easy, but the test proved to be unexpectedly difficult."
+				"translation": "It was supposed to be easy, but the test proved to be unexpectedly difficult.",
+				"furigana": "やさしい はず だっ た のに 、 しけん は よそう がい に むずかしかった 。"
 			},
 			{
 				"phrase": "そんな筈はない",
-				"translation": "That cannot be."
+				"translation": "That cannot be.",
+				"furigana": "そんな はず は ない"
 			},
 			{
 				"phrase": "来るはずはない",
-				"translation": "It's not likely he will come"
+				"translation": "It's not likely he will come",
+				"furigana": "くる はず は ない"
 			}
 		],
 		"jlpt": "N3",
@@ -4184,23 +4670,28 @@
 		"phrases": [
 			{
 				"phrase": "年寄りにしては若く見える。",
-				"translation": "Even though he's old, he looks young."
+				"translation": "Even though he's old, he looks young.",
+				"furigana": "としより に し て は わかく みえる 。"
 			},
 			{
 				"phrase": "お金持ちにしては古い車に乗っている。",
-				"translation": "For (eg: even though he is) a rich person, he drives an old car."
+				"translation": "For (eg: even though he is) a rich person, he drives an old car.",
+				"furigana": "お かねもち に し て は ふるい くるま に のって いる 。"
 			},
 			{
 				"phrase": "６月にしては寒い朝だ。",
-				"translation": "It is a cold morning for June."
+				"translation": "It is a cold morning for June.",
+				"furigana": "ろくがつ に し て は さむい あさ だ 。"
 			},
 			{
 				"phrase": "７０歳にしては、彼はいまだに驚くほど元気である。",
-				"translation": "For a man of seventy he still has surprising vigour."
+				"translation": "For a man of seventy he still has surprising vigour.",
+				"furigana": "７ ０ さい に し て は 、 かれ は いまだ に おどろく ほど げんき で ある 。"
 			},
 			{
 				"phrase": "このホテルはこの町にしては比較的高い。",
-				"translation": "This hotel is relatively expensive for this town."
+				"translation": "This hotel is relatively expensive for this town.",
+				"furigana": "この ホテル は この まち に し て は ひかくてき たかい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4226,23 +4717,28 @@
 		"phrases": [
 			{
 				"phrase": "高い物が必ずしも安いものより良いとは限らない。",
-				"translation": "Expensive things are not always better than cheap things."
+				"translation": "Expensive things are not always better than cheap things.",
+				"furigana": "たかい もの が かならずしも やすい もの より よい と は かぎら ない 。"
 			},
 			{
 				"phrase": "いつでも自分の思い通りにできるとは限らないよ。",
-				"translation": "You cannot always have your own way."
+				"translation": "You cannot always have your own way.",
+				"furigana": "いつ でも じぶん の おもい どおり に できる と は かぎら ない よ 。"
 			},
 			{
 				"phrase": "うまい冗談を言うことはいつもたやすいとは限らない。",
-				"translation": "It is not always easy to make a good joke."
+				"translation": "It is not always easy to make a good joke.",
+				"furigana": "うまい じょうだん を いう こと は いつも たやすい と は かぎら ない 。"
 			},
 			{
 				"phrase": "おいしそうに見える食べ物が必ずしもおいしいとは限らない。",
-				"translation": "Delicious looking food doesn't necessarily taste good."
+				"translation": "Delicious looking food doesn't necessarily taste good.",
+				"furigana": "おいし そう に みえる たべもの が かならずしも おいしい と は かぎら ない 。"
 			},
 			{
 				"phrase": "お金が幸福をもたらすとは限らない。",
-				"translation": "Money does not always bring happiness."
+				"translation": "Money does not always bring happiness.",
+				"furigana": "おかね が こうふく を もたらす と は かぎら ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4267,23 +4763,28 @@
 		"phrases": [
 			{
 				"phrase": "英語があまりわかりません。",
-				"translation": "I don't understand English very well."
+				"translation": "I don't understand English very well.",
+				"furigana": "えいご が あまり わかり ませ ん 。"
 			},
 			{
 				"phrase": "今回のことであまり思い詰めないほうがいいよ。だれにでも失敗はあるんだから。",
-				"translation": "Don't worry too much about it. Everybody blows it once in a while."
+				"translation": "Don't worry too much about it. Everybody blows it once in a while.",
+				"furigana": "こんかい の こと で あまり おもいつめ ない ほう が いい よ 。 だれ に でも しっぱい は ある ん だ から 。"
 			},
 			{
 				"phrase": "ホテルのメイドとしてパートで仕事していますが、その仕事はあまり好きではありません。",
-				"translation": "I had a part-time job as a hotel maid, but I didn't like it very much"
+				"translation": "I had a part-time job as a hotel maid, but I didn't like it very much",
+				"furigana": "ホテル の メイド として パート で しごと し て い ます が 、 その しごと は あまり すき で は あり ませ ん 。"
 			},
 			{
 				"phrase": "あなたはあまりにも素早すぎる。",
-				"translation": "You are all too quick."
+				"translation": "You are all too quick.",
+				"furigana": "あなた は あまりに も すばや すぎる 。"
 			},
 			{
 				"phrase": "あなたはあまり夜更かしをしない方がいい。",
-				"translation": "You had better not sit up late up night."
+				"translation": "You had better not sit up late up night.",
+				"furigana": "あなた は あまり よる ふかし を し ない ほう が いい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4303,23 +4804,28 @@
 		"phrases": [
 			{
 				"phrase": "こんなに心配しないでください。",
-				"translation": "Please don't worry like this(so hard)."
+				"translation": "Please don't worry like this(so hard).",
+				"furigana": "こんなに しんぱい し ない で ください 。"
 			},
 			{
 				"phrase": "こんな面白いことはない",
-				"translation": "Nothing is more interesting (than this)"
+				"translation": "Nothing is more interesting (than this)",
+				"furigana": "こんな おもしろい こと は ない"
 			},
 			{
 				"phrase": "こんなに夜遅く",
-				"translation": "so late at night (as this)."
+				"translation": "so late at night (as this).",
+				"furigana": "こんなに よる おそく"
 			},
 			{
 				"phrase": "こんな風に持って下さい",
-				"translation": "Please hold it in this way"
+				"translation": "Please hold it in this way",
+				"furigana": "こんな かぜ に もって ください"
 			},
 			{
 				"phrase": "こんなことになろうとは、正に「お釈迦様でも気がつくめい」だね。",
-				"translation": "It's precisely \"Even the Buddha could not have guessed it\"in the sense that things turned out this way."
+				"translation": "It's precisely \"Even the Buddha could not have guessed it\"in the sense that things turned out this way.",
+				"furigana": "こんな こと に なろう と は 、 まさに 「 おしゃかさま で も きがつく めい 」 だ ね 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4342,23 +4848,28 @@
 		"phrases": [
 			{
 				"phrase": "この大学で教えられることは私にとって極めて名誉なことです。",
-				"translation": "Being able to teach at this university is a big honor for me."
+				"translation": "Being able to teach at this university is a big honor for me.",
+				"furigana": "この だいがく で おしえ られる こと は わたし にとって きわめて めいよ な こと です 。"
 			},
 			{
 				"phrase": "町の人々にとってこの工場の閉鎖は死活問題だ。",
-				"translation": "For people in this town, the shutdown of this plant is a matter of life and death."
+				"translation": "For people in this town, the shutdown of this plant is a matter of life and death.",
+				"furigana": "まち の ひとびと にとって この こうじょう の へいさ は しかつ もんだい だ 。"
 			},
 			{
 				"phrase": "ここは君にとって一番安全な場所だ。",
-				"translation": "This is the safest place for you."
+				"translation": "This is the safest place for you.",
+				"furigana": "ここ は きみ にとって いちばん あんぜん な ばしょ だ 。"
 			},
 			{
 				"phrase": "アジア人にとって乳製品は食べにくい",
-				"translation": "for Asians, dairy products are hard to eat"
+				"translation": "for Asians, dairy products are hard to eat",
+				"furigana": "アジア じん にとって にゅうせいひん は たべ にくい"
 			},
 			{
 				"phrase": "この写真は私にとって、何よりも大切なものです。",
-				"translation": "For me, that photo is more important than anything."
+				"translation": "For me, that photo is more important than anything.",
+				"furigana": "この しゃしん は わたし にとって 、 なに より も たいせつ な もの です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4385,23 +4896,28 @@
 		"phrases": [
 			{
 				"phrase": "寝不足のせいで、今日は頭がぼんやりしている",
-				"translation": "Due to lack of sleep, today I'm absent minded."
+				"translation": "Due to lack of sleep, today I'm absent minded.",
+				"furigana": "ねぶそく の せい で 、 きょう は あたま が ぼんやり し て いる"
 			},
 			{
 				"phrase": "あいつのせいで、先生に叱られた。",
-				"translation": "Because of him, I was scolded by my teacher."
+				"translation": "Because of him, I was scolded by my teacher.",
+				"furigana": "あいつ の せい で 、 せんせい に しから れ た 。"
 			},
 			{
 				"phrase": "私は失敗したのは、彼のせいだ。",
-				"translation": "Because of him, I failed."
+				"translation": "Because of him, I failed.",
+				"furigana": "わたし は しっぱい し た の は 、 かれ の せい だ 。"
 			},
 			{
 				"phrase": "電車が遅れたせいで、遅刻した。",
-				"translation": "I was late because the train was late."
+				"translation": "I was late because the train was late.",
+				"furigana": "でんしゃ が おくれ た せい で 、 ちこく し た 。"
 			},
 			{
 				"phrase": "暑いせいか、食欲がない。",
-				"translation": "Since it's hot, I have no appetite."
+				"translation": "Since it's hot, I have no appetite.",
+				"furigana": "あつい せい か 、 しょくよく が ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4427,23 +4943,28 @@
 		"phrases": [
 			{
 				"phrase": "どうぶつをいじめてはいけません。",
-				"translation": "One must not harass the animals."
+				"translation": "One must not harass the animals.",
+				"furigana": "どう ぶつ を いじめ て は いけ ませ ん 。"
 			},
 			{
 				"phrase": "ここでたばこを吸うってはいけません。禁煙ですから。",
-				"translation": "You are not allowed to smoke here, because this is a no-smoke area."
+				"translation": "You are not allowed to smoke here, because this is a no-smoke area.",
+				"furigana": "ここ で たばこ を すう って は いけ ませ ん 。 きんえん です から 。"
 			},
 			{
 				"phrase": "お酒を飲んではいけません。",
-				"translation": "You are not allowed to drink alcohol."
+				"translation": "You are not allowed to drink alcohol.",
+				"furigana": "お さけ を のん で は いけ ませ ん 。"
 			},
 			{
 				"phrase": "ここに自転車を止めてはいけない。",
-				"translation": "It is forbidden to park bicycles here."
+				"translation": "It is forbidden to park bicycles here.",
+				"furigana": "ここ に じてんしゃ を とめ て は いけ ない 。"
 			},
 			{
 				"phrase": "「あなたは塩辛いものを食べてはいけないよ」と言ったけど、彼は食べ物にたくさんの塩を加えた。",
-				"translation": "Although I told him \"You're not allowed to eat salty!\" he added a lot of salt in his food."
+				"translation": "Although I told him \"You're not allowed to eat salty!\" he added a lot of salt in his food.",
+				"furigana": "「 あなた は しおからい もの を たべ て は いけ ない よ 」 と いった けど 、 かれ は たべもの に たくさん の しお を くわえ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4468,23 +4989,28 @@
 		"phrases": [
 			{
 				"phrase": "前から欲しかった本がやっと手に入ったものだから、早速徹夜して終わりまで読んでしまった。",
-				"translation": "Because I finally came into possession of a book I was looking after for a long time, at once in a sleepless night I finished reading it until the end."
+				"translation": "Because I finally came into possession of a book I was looking after for a long time, at once in a sleepless night I finished reading it until the end.",
+				"furigana": "まえ から ほしかった ほん が やっと て に はいった もの だ から 、 さっそく てつや し て おわり まで よん で しまった 。"
 			},
 			{
 				"phrase": "その映画を見て泣いてしまった。",
-				"translation": "Watching that movie, I ended up crying."
+				"translation": "Watching that movie, I ended up crying.",
+				"furigana": "その えいが を み て ない て しまった 。"
 			},
 			{
 				"phrase": "宿題はもうやってしまいました。",
-				"translation": "I've finished my homework."
+				"translation": "I've finished my homework.",
+				"furigana": "しゅくだい は もう やって しまい まし た 。"
 			},
 			{
 				"phrase": "いつも本を読んでいるうちに眠ってしまう。",
-				"translation": "I always fall asleep while reading a book."
+				"translation": "I always fall asleep while reading a book.",
+				"furigana": "いつも ほん を よん で いる うち に ねむって しまう 。"
 			},
 			{
 				"phrase": "彼は稼ぐ金をすべて本に使ってしまう。",
-				"translation": "What money he earns he spends on books."
+				"translation": "What money he earns he spends on books.",
+				"furigana": "かれ は かせぐ きん を すべて ほん に つかって しまう 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4509,23 +5035,28 @@
 		"phrases": [
 			{
 				"phrase": "この小説を子供向きに書き改めるのは難しい。",
-				"translation": "It is hard to adapt this story for children."
+				"translation": "It is hard to adapt this story for children.",
+				"furigana": "この しょうせつ を こども むき に かき あらためる の は むずかしい 。"
 			},
 			{
 				"phrase": "こういう本は若い読者向きではない。",
-				"translation": "These books are not fit for young readers."
+				"translation": "These books are not fit for young readers.",
+				"furigana": "こういう ほん は わかい どくしゃ むき で は ない 。"
 			},
 			{
 				"phrase": "このとおりやさしい英語で書かれているので、その本は初心者向きである。",
-				"translation": "Written as if is in plain English, the book is suitable for beginners."
+				"translation": "Written as if is in plain English, the book is suitable for beginners.",
+				"furigana": "この とおり やさしい えいご で かか れ て いる ので 、 その ほん は しょしんしゃ むき で ある 。"
 			},
 			{
 				"phrase": "このテキストは初心者向きにできている。",
-				"translation": "This text is calculated for beginners."
+				"translation": "This text is calculated for beginners.",
+				"furigana": "この テキスト は しょしんしゃ むき に でき て いる 。"
 			},
 			{
 				"phrase": "この派手な服は私には向きません。",
-				"translation": "This showy dress isn't appropriate for me."
+				"translation": "This showy dress isn't appropriate for me.",
+				"furigana": "この はで な ふく は わたし に は むき ませ ん 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4550,23 +5081,28 @@
 		"phrases": [
 			{
 				"phrase": "私は父にカメラを買って貰った",
-				"translation": "My father bought a camera for me"
+				"translation": "My father bought a camera for me",
+				"furigana": "わたし は ちち に カメラ を かって もらった"
 			},
 			{
 				"phrase": "私は友達に日本語を教えて貰っている",
-				"translation": "I am having a friend teach me japanese"
+				"translation": "I am having a friend teach me japanese",
+				"furigana": "わたし は ともだち に にほんご を おしえ て もらって いる"
 			},
 			{
 				"phrase": "４時に医者に診てもらう予約をした。",
-				"translation": "I made an appointment to see the doctor at four o'clock."
+				"translation": "I made an appointment to see the doctor at four o'clock.",
+				"furigana": "４ じ に いしゃ に み て もらう よやく を し た 。"
 			},
 			{
 				"phrase": "あなたはグリーン先生に英語の発音を直してもらうべきだ。",
-				"translation": "You should have Mr Green correct your English pronunciation."
+				"translation": "You should have Mr Green correct your English pronunciation.",
+				"furigana": "あなた は グリーン せんせい に えいご の はつおん を なおし て もらう べき だ 。"
 			},
 			{
 				"phrase": "ことによると、きみにも一緒にきてもらう。",
-				"translation": "Maybe you better come with us."
+				"translation": "Maybe you better come with us.",
+				"furigana": "ことに よる と 、 きみ に も いっしょ に き て もらう 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4591,23 +5127,28 @@
 		"phrases": [
 			{
 				"phrase": "スタインベックはとともにヘミングウェイアメリカの大分な作家の一人だ。",
-				"translation": "Steinbeck, along with Hemingway, is one of America's major authors."
+				"translation": "Steinbeck, along with Hemingway, is one of America's major authors.",
+				"furigana": "スタインベック は とともに ヘミングウェイアメリカ の おおいた な さっか の いち にん だ 。"
 			},
 			{
 				"phrase": "私は職場の同僚達とともにそのデモに参加した。",
-				"translation": "I took part in the demonstration with my office colleagues."
+				"translation": "I took part in the demonstration with my office colleagues.",
+				"furigana": "わたし は しょくば の どうりょう たち とともに その デモ に さんか し た 。"
 			},
 			{
 				"phrase": "終戦とともに激しいインフレが人々を襲った。",
-				"translation": "Severe inflation hit people when the war ended (lit. with the end of the war)."
+				"translation": "Severe inflation hit people when the war ended (lit. with the end of the war).",
+				"furigana": "しゅうせん とともに はげしい インフレ が ひとびと を おそった 。"
 			},
 			{
 				"phrase": "年をするとともに耳が遠くなってきた。",
-				"translation": "As I get older, I am losing my hearing."
+				"translation": "As I get older, I am losing my hearing.",
+				"furigana": "とし を する とともに みみ が とおく なって き た 。"
 			},
 			{
 				"phrase": "その提案は建設的であるとともに革命的であった。",
-				"translation": "The discovery was revolutionary as well as constructive."
+				"translation": "The discovery was revolutionary as well as constructive.",
+				"furigana": "その ていあん は けんせつ てき で ある とともに かくめい てき で あっ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4627,23 +5168,28 @@
 		"phrases": [
 			{
 				"phrase": "若いうちに本をたくさん読みなさい。",
-				"translation": "While you are young, read many books."
+				"translation": "While you are young, read many books.",
+				"furigana": "わかい うち に ほん を たくさん よみ なさい 。"
 			},
 			{
 				"phrase": "暇なうちに、遊びに来てください。",
-				"translation": "While you are free, come here and play with me please."
+				"translation": "While you are free, come here and play with me please.",
+				"furigana": "ひま な うち に 、 あそび に き て ください 。"
 			},
 			{
 				"phrase": "暗黙のうちに承諾する。",
-				"translation": "Accept implicitly."
+				"translation": "Accept implicitly.",
+				"furigana": "あんもく の うち に しょうだく する 。"
 			},
 			{
 				"phrase": "みるみるうちに太った。",
-				"translation": "He gained weight just while I was watching him."
+				"translation": "He gained weight just while I was watching him.",
+				"furigana": "みるみる うち に ふとった 。"
 			},
 			{
 				"phrase": "どうぞ、熱いうちに、食べて下さい。",
-				"translation": "Please go ahead and eat it while it's still hot"
+				"translation": "Please go ahead and eat it while it's still hot",
+				"furigana": "どうぞ 、 あつい うち に 、 たべ て ください 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4669,23 +5215,28 @@
 		"phrases": [
 			{
 				"phrase": "こっそりたばこを吸っているところを妹に見られた。",
-				"translation": "I was having a cheeky cigarette and on that occasion, I was seen by my little sister"
+				"translation": "I was having a cheeky cigarette and on that occasion, I was seen by my little sister",
+				"furigana": "こっそり たばこ を すって いる ところ を いもうと に み られ た 。"
 			},
 			{
 				"phrase": "ぐっすり寝ているところに地震が起きて、はっと目が覚めた。",
-				"translation": "An earthquake hit right when I was soundly asleep, and I jerked awake."
+				"translation": "An earthquake hit right when I was soundly asleep, and I jerked awake.",
+				"furigana": "ぐっすり ね て いる ところ に じしん が おき て 、 はっと め が さめ た 。"
 			},
 			{
 				"phrase": "彼女に電話をかけようとしたところへ、彼女のほうからかかってきた。",
-				"translation": "Just when I had decided to give her a call, she phoned me."
+				"translation": "Just when I had decided to give her a call, she phoned me.",
+				"furigana": "かのじょ に でんわ を かけよう と し た ところ へ 、 かのじょ の ほう から かかって き た 。"
 			},
 			{
 				"phrase": "犯人は、店から出てきたところを、警官に捕らえられた。",
-				"translation": "Just as the thief left the store, a policeman arrested him."
+				"translation": "Just as the thief left the store, a policeman arrested him.",
+				"furigana": "はんにん は 、 みせ から で て き た ところ を 、 けいかん に とらえ られ た 。"
 			},
 			{
 				"phrase": "お忙しいところを来てくださって、ありがとうございます。",
-				"translation": "Thank you very much for coming when you're so busy."
+				"translation": "Thank you very much for coming when you're so busy.",
+				"furigana": "おいそがしい ところ を き て くださって 、 ありがとう ござい ます 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4711,23 +5262,28 @@
 		"phrases": [
 			{
 				"phrase": "お礼を言おうと思いながら、かなり時間がたってしまいました。",
-				"translation": "I kept wanting to say thank you but unfortunately a long period of time passed."
+				"translation": "I kept wanting to say thank you but unfortunately a long period of time passed.",
+				"furigana": "おれい を いおう と おもい ながら 、 かなり じかん が たって しまい まし た 。"
 			},
 			{
 				"phrase": "がんばろうと思いつつ、怠けてしまうんですよ。",
-				"translation": "I planned to work hard but in spite of myself, I just ended up being lazy."
+				"translation": "I planned to work hard but in spite of myself, I just ended up being lazy.",
+				"furigana": "がんばろう と おもい つつ 、 なまけ て しまう ん です よ 。"
 			},
 			{
 				"phrase": "今から銀行へ行こうと思います。",
-				"translation": "I think I will go to the bank right now."
+				"translation": "I think I will go to the bank right now.",
+				"furigana": "いま から ぎんこう へ いこう と おもい ます 。"
 			},
 			{
 				"phrase": "週末は海に行こうと思っています。",
-				"translation": "I intend to go to the sea this week-end."
+				"translation": "I intend to go to the sea this week-end.",
+				"furigana": "しゅうまつ は うみ に いこう と おもって い ます 。"
 			},
 			{
 				"phrase": "彼は外国で働こうと思っています。",
-				"translation": "He plans to  work in foreign countries."
+				"translation": "He plans to  work in foreign countries.",
+				"furigana": "かれ は がいこく で はたらこう と おもって い ます 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4752,23 +5308,28 @@
 		"phrases": [
 			{
 				"phrase": "はかない恋",
-				"translation": "Unrequited love"
+				"translation": "Unrequited love",
+				"furigana": "はかない こい"
 			},
 			{
 				"phrase": "儚いお花の美しさ",
-				"translation": "The transient beauty of flowers"
+				"translation": "The transient beauty of flowers",
+				"furigana": "はかない お はな の うつくし さ"
 			},
 			{
 				"phrase": "それははかない夢だった",
-				"translation": "It was only an empty dream."
+				"translation": "It was only an empty dream.",
+				"furigana": "それ は はかない ゆめ だっ た"
 			},
 			{
 				"phrase": "はかない努力",
-				"translation": "vain efforts"
+				"translation": "vain efforts",
+				"furigana": "はかない どりょく"
 			},
 			{
 				"phrase": "はかない幸せ",
-				"translation": "fleeting [ephemeral] happiness"
+				"translation": "fleeting [ephemeral] happiness",
+				"furigana": "はかない しあわせ"
 			}
 		],
 		"jlpt": "N3",
@@ -4793,23 +5354,28 @@
 		"phrases": [
 			{
 				"phrase": "医者になる積もりだった。",
-				"translation": "I intended to be a doctor."
+				"translation": "I intended to be a doctor.",
+				"furigana": "いしゃ に なる つもり だっ た 。"
 			},
 			{
 				"phrase": "これはほんの冗談の積もりだった。",
-				"translation": "This was meant as a joke."
+				"translation": "This was meant as a joke.",
+				"furigana": "これ は ほんの じょうだん の つもり だっ た 。"
 			},
 			{
 				"phrase": "この夏ハワイへ行く積もりだった。",
-				"translation": "I was planning on going to Hawaii this summer."
+				"translation": "I was planning on going to Hawaii this summer.",
+				"furigana": "この なつ ハワイ へ いく つもり だっ た 。"
 			},
 			{
 				"phrase": "僕は彼女と結婚するつもりだった。",
-				"translation": "I had the intention to marry her (but I didn't)."
+				"translation": "I had the intention to marry her (but I didn't).",
+				"furigana": "ぼく は かのじょ と けっこん する つもり だっ た 。"
 			},
 			{
 				"phrase": "今日は誰も来ないし、私も出かけないつもりだった。",
-				"translation": "Today, nobody should have come, and I hadn't intention to leave too."
+				"translation": "Today, nobody should have come, and I hadn't intention to leave too.",
+				"furigana": "きょう は だれ も こ ない し 、 わたし も でかけ ない つもり だっ た 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4835,23 +5401,28 @@
 		"phrases": [
 			{
 				"phrase": "彼女と結婚できるとしても、2、3年後になるだろう。",
-				"translation": "Even if I could marry her, it probably won't be for another two or three years."
+				"translation": "Even if I could marry her, it probably won't be for another two or three years.",
+				"furigana": "かのじょ と けっこん できる として も 、 2 、 3 ねん ご に なる だろ う 。"
 			},
 			{
 				"phrase": "親が有名だとしても、本人に実力がなければ社会で認められないでしょう。",
-				"translation": "Even though my parents are famous, society wouldn't have recognized their skills if they didn't really have them."
+				"translation": "Even though my parents are famous, society wouldn't have recognized their skills if they didn't really have them.",
+				"furigana": "おや が ゆうめい だ として も 、 ほんにん に じつりょく が なけれ ば しゃかい で みとめ られ ない でしょ う 。"
 			},
 			{
 				"phrase": "たとえ相手が部下だとしても、世話になったらお礼の気持ちをちゃんと伝えるべきだ。",
-				"translation": "Even if it's a subordinate as your partner, you should properly thank them if they help you."
+				"translation": "Even if it's a subordinate as your partner, you should properly thank them if they help you.",
+				"furigana": "たとえ あいて が ぶか だ として も 、 せわ に なったら おれい の きもち を ちゃんと つたえる べき だ 。"
 			},
 			{
 				"phrase": "ゲーム用OSとしても進化を遂げつつあるLinux",
-				"translation": "Advancing - even as an OS for game use : Linux."
+				"translation": "Advancing - even as an OS for game use : Linux.",
+				"furigana": "ゲーム よう OS として も しんか を とげ つつ ある Linux"
 			},
 			{
 				"phrase": "彼はとてもいい人だとしても、私は彼を本当は信頼していない。",
-				"translation": "Even if he's very nice, I don't really trust him."
+				"translation": "Even if he's very nice, I don't really trust him.",
+				"furigana": "かれ は とても いい じん だ として も 、 わたし は かれ を ほんとうは しんらい し て い ない 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4875,23 +5446,28 @@
 		"phrases": [
 			{
 				"phrase": "雨がよく降ってる日が　家の中に遊びやすいです｡",
-				"translation": "Its easy to play inside on rainy days."
+				"translation": "Its easy to play inside on rainy days.",
+				"furigana": "あめ が よく ふってる ひ が 　 いえ の なか に あそび やすい です ｡"
 			},
 			{
 				"phrase": "もしかしたら日本語で毎日、読んだり、書いたりしたら、日本語が分かりやすくなると思います。",
-				"translation": "If you do things like read and write in Japanese every day, Japanese will become easy to understand."
+				"translation": "If you do things like read and write in Japanese every day, Japanese will become easy to understand.",
+				"furigana": "もしか し たら にほんご で まいにち 、 よん だり 、 かい たり し たら 、 にほんご が わかり やすく なる と おもい ます 。"
 			},
 			{
 				"phrase": "かいだんがぬれています。すべりやすいので、ちゅういしてくたさい。",
-				"translation": "The stairs are wet. They are slippery (easy to slip), so please be careful."
+				"translation": "The stairs are wet. They are slippery (easy to slip), so please be careful.",
+				"furigana": "かい だ ん が ぬれ て い ます 。 すべり やすい ので 、 ち ゅういしてくたさい 。"
 			},
 			{
 				"phrase": "このくつはあのくつよりはきやすいです。",
-				"translation": "These shoes here are easier to put on than the ones over there."
+				"translation": "These shoes here are easier to put on than the ones over there.",
+				"furigana": "この くつ は あの くつ より は きやすい です 。"
 			},
 			{
 				"phrase": "このガラスの人形は壊れ易いので、触らないでください。",
-				"translation": "As this glass doll break easily, please don't touch."
+				"translation": "As this glass doll break easily, please don't touch.",
+				"furigana": "この ガラス の にんぎょう は こわれ やすい ので 、 さわら ない で ください 。"
 			}
 		],
 		"jlpt": "N3",
@@ -4920,23 +5496,28 @@
 		"phrases": [
 			{
 				"phrase": "ダイエット中のくせにあくまでも甘い物を食べつづけます",
-				"translation": "even though I'm on a diet, I will keep on eating sweet things until the end."
+				"translation": "even though I'm on a diet, I will keep on eating sweet things until the end.",
+				"furigana": "ダイエット ちゅう の くせ に あくまでも あまい もの を たべ つづけ ます"
 			},
 			{
 				"phrase": "お金のために、愛してもいない男との生活をつづけるならば、すっかり失望して、進退きわまる時が将来やってくることだろう。",
-				"translation": "If she continues to live with a man she doesn't love for his money, the day will come when she will be utterly frustrated and between the devil and the deep blue sea."
+				"translation": "If she continues to live with a man she doesn't love for his money, the day will come when she will be utterly frustrated and between the devil and the deep blue sea.",
+				"furigana": "おかね の ため に 、 あいし て も い ない おとこ と の せいかつ を つづける なら ば 、 すっかり しつぼう し て 、 しんたい きわまる とき が しょうらい やってくる こと だろ う 。"
 			},
 			{
 				"phrase": "この失敗、きっと一生、言われつづけるなあ。",
-				"translation": "People will keep talking about this mistake forever."
+				"translation": "People will keep talking about this mistake forever.",
+				"furigana": "この しっぱい 、 きっと いっしょう 、 いわ れ つづける なあ 。"
 			},
 			{
 				"phrase": "私は母国を愛しているし、これからも愛しつづけるだろう。",
-				"translation": "I love, and will continue to love, my mother country."
+				"translation": "I love, and will continue to love, my mother country.",
+				"furigana": "わたし は ぼこく を あいし て いる し 、 これから も あいし つづける だろ う 。"
 			},
 			{
 				"phrase": "無視しろぅ！　じゃ、書き続けて！",
-				"translation": "Ignore it! Keep writing!"
+				"translation": "Ignore it! Keep writing!",
+				"furigana": "むし しろぅ ！ 　 じゃ 、 かき つづけ て ！"
 			}
 		],
 		"jlpt": "N3",
@@ -4957,23 +5538,28 @@
 		"phrases": [
 			{
 				"phrase": "「あばたもえくぼ」って言うからね。",
-				"translation": "They say love is blind."
+				"translation": "They say love is blind.",
+				"furigana": "「 あばた も え く ぼ 」 って いう から ね 。"
 			},
 			{
 				"phrase": "「テレビの音を小さくしてもらえませんか」って言ったんですよ！",
-				"translation": "I said, \"Could you please turn your television down?\""
+				"translation": "I said, \"Could you please turn your television down?\"",
+				"furigana": "「 テレビ の おと を ちいさく し て もらえ ませ ん か 」 って いった ん です よ ！"
 			},
 			{
 				"phrase": "彼が探してた鍵ってこれ？",
-				"translation": "Is this the key he was looking for?"
+				"translation": "Is this the key he was looking for?",
+				"furigana": "かれ が さがし て た かぎ って これ ？"
 			},
 			{
 				"phrase": "知らないって",
-				"translation": "He (She, They, etc.) said that he (she, they, etc.) did not know."
+				"translation": "He (She, They, etc.) said that he (she, they, etc.) did not know.",
+				"furigana": "しら ない って"
 			},
 			{
 				"phrase": "幾らたのまれたってできない",
-				"translation": "I cannot do that no matter how much you insist"
+				"translation": "I cannot do that no matter how much you insist",
+				"furigana": "いくら たのま れ た って でき ない"
 			}
 		],
 		"jlpt": "N3",
@@ -4993,23 +5579,28 @@
 		"phrases": [
 			{
 				"phrase": "シャンハイ（上海）はあまり寒くないです。",
-				"translation": "The weather is not very cold in Shanghai."
+				"translation": "The weather is not very cold in Shanghai.",
+				"furigana": "シャンハイ （ しゃんはい ） は あまり さむく ない です 。"
 			},
 			{
 				"phrase": "彼女はあまりきれいじゃない。",
-				"translation": "She is not very pretty."
+				"translation": "She is not very pretty.",
+				"furigana": "かのじょ は あまり きれい じゃ ない 。"
 			},
 			{
 				"phrase": "彼はあまり優しくないです。",
-				"translation": "He is not very nice."
+				"translation": "He is not very nice.",
+				"furigana": "かれ は あまり やさしく ない です 。"
 			},
 			{
 				"phrase": "彼女はあまり魚を食べません。",
-				"translation": "She doesn't eat a lot of fish."
+				"translation": "She doesn't eat a lot of fish.",
+				"furigana": "かのじょ は あまり さかな を たべ ませ ん 。"
 			},
 			{
 				"phrase": "桜大学はあまり有名な大学じゃありません。",
-				"translation": "Sakura University is not very famous."
+				"translation": "Sakura University is not very famous.",
+				"furigana": "さくら だいがく は あまり ゆうめい な だいがく じゃ あり ませ ん 。"
 			}
 		],
 		"jlpt": "N3",
@@ -5032,23 +5623,28 @@
 		"phrases": [
 			{
 				"phrase": "結果によっては採用しないことがあります。",
-				"translation": "Depending upon the outcome, you may not be hired."
+				"translation": "Depending upon the outcome, you may not be hired.",
+				"furigana": "けっか によって は さいよう し ない こと が あり ます 。"
 			},
 			{
 				"phrase": "天気によっては中止することがあります。",
-				"translation": "Depending upon the weather, the event may be cancelled."
+				"translation": "Depending upon the weather, the event may be cancelled.",
+				"furigana": "てんき によって は ちゅうし する こと が あり ます 。"
 			},
 			{
 				"phrase": "景気にようってはメキシコに行きます。",
-				"translation": "Depending upon the finances, I will go to Mexico."
+				"translation": "Depending upon the finances, I will go to Mexico.",
+				"furigana": "けいき に よう って は メキシコ に いき ます 。"
 			},
 			{
 				"phrase": "漢字によって意味が違います",
-				"translation": "Depending on  kanji the meaning is different"
+				"translation": "Depending on  kanji the meaning is different",
+				"furigana": "かんじ によって いみ が ちがい ます"
 			},
 			{
 				"phrase": "天気によっては来ます",
-				"translation": "depending on the weather, i will come"
+				"translation": "depending on the weather, i will come",
+				"furigana": "てんき によって は き ます"
 			}
 		],
 		"jlpt": "N3",
@@ -5069,23 +5665,28 @@
 		"phrases": [
 			{
 				"phrase": "どうせ二人は枯すすき、花の咲かない枯ススキ",
-				"translation": "After all we two are nothing but withered grass: flowerless grass"
+				"translation": "After all we two are nothing but withered grass: flowerless grass",
+				"furigana": "どうせ に にん は 枯 すすき 、 はな の さか ない 枯 ススキ"
 			},
 			{
 				"phrase": "どうせ郵便局へ行くのなら、切手を買ってくださいませんか？",
-				"translation": "Since you're going to the post-office anyway won't you please buy some stamps for me?"
+				"translation": "Since you're going to the post-office anyway won't you please buy some stamps for me?",
+				"furigana": "どうせ ゆうびん きょく へ いく の なら 、 きって を かって ください ませ ん か ？"
 			},
 			{
 				"phrase": "どうせ行かなければならないのなら早いほうがいいです。",
-				"translation": "If you have to go anyway , then you might as well do it quickly."
+				"translation": "If you have to go anyway , then you might as well do it quickly.",
+				"furigana": "どうせ いか なけれ ば なら ない の なら はやい ほう が いい です 。"
 			},
 			{
 				"phrase": "あなたが手伝ってくれないことは分かっている。どうせあなたはそういう人だ。",
-				"translation": "I know you won't help me. That's the kind of guy you are, after all."
+				"translation": "I know you won't help me. That's the kind of guy you are, after all.",
+				"furigana": "あなた が てつだって くれ ない こと は わかって いる 。 どうせ あなた は そういう ひと だ 。"
 			},
 			{
 				"phrase": "どうせ金なんてそのうちなくなるんだ",
-				"translation": "After all (eventually) money you now have will be gone."
+				"translation": "After all (eventually) money you now have will be gone.",
+				"furigana": "どうせ きん なんて そのうち なくなる ん だ"
 			}
 		],
 		"jlpt": "N3",
@@ -5105,23 +5706,28 @@
 		"phrases": [
 			{
 				"phrase": "あなたの助けがなかったら、我々は仕事を間に合わせられなかったであろう。",
-				"translation": "If it weren't for your help, we probably  wouldn't have finished this job in time."
+				"translation": "If it weren't for your help, we probably  wouldn't have finished this job in time.",
+				"furigana": "あなた の たすけ が なかったら 、 われわれ は しごと を まにあわ せ られ なかっ た で あろ う 。"
 			},
 			{
 				"phrase": "おそらくそれは嘘であろう。",
-				"translation": "I dare say it is a lie."
+				"translation": "I dare say it is a lie.",
+				"furigana": "おそらく それ は うそ で あろ う 。"
 			},
 			{
 				"phrase": "きっと彼女の病気はすぐによくなるであろう。",
-				"translation": "That she will get over her illness soon is certain."
+				"translation": "That she will get over her illness soon is certain.",
+				"furigana": "きっと かのじょ の びょうき は すぐ に よく なる で あろ う 。"
 			},
 			{
 				"phrase": "それはナンセンスだ。誰もそれを信じないであろう。",
-				"translation": "That's nonsense. Nobody would believe it."
+				"translation": "That's nonsense. Nobody would believe it.",
+				"furigana": "それ は ナンセンス だ 。 だれ も それ を しんじ ない で あろ う 。"
 			},
 			{
 				"phrase": "現在の私たちにとって、もっとも重要なのは、地球の環境を守ることであろう。自分と関係がないと考えずに、自分の問題として、この問題を考えることが求められている。",
-				"translation": "I fear  the more essential fact nowdays is the planet environnement. If you don't think this have no relation whith you, you are part of the problem, and you will be asked to think about this problem."
+				"translation": "I fear  the more essential fact nowdays is the planet environnement. If you don't think this have no relation whith you, you are part of the problem, and you will be asked to think about this problem.",
+				"furigana": "げんざい の わたし たち にとって 、 もっとも じゅうよう な の は 、 ちきゅう の かんきょう を まもる こと で あろ う 。 じぶん と かんけい が ない と かんがえ ず に 、 じぶん の もんだい として 、 この もんだい を かんがえる こと が もとめ られ て いる 。"
 			}
 		],
 		"jlpt": "N3",
@@ -5141,19 +5747,23 @@
 		"phrases": [
 			{
 				"phrase": "この薔薇の花はもっと美しくなりました。",
-				"translation": "This rose has become more beautiful."
+				"translation": "This rose has become more beautiful.",
+				"furigana": "この ばら の はな は もっと うつくしく なり まし た 。"
 			},
 			{
 				"phrase": "注意しなかったので,病気になりました。",
-				"translation": "Because I wasn't careful,I became sick."
+				"translation": "Because I wasn't careful,I became sick.",
+				"furigana": "ちゅうい し なかっ た ので , びょうき に なり まし た 。"
 			},
 			{
 				"phrase": "ざっと計算しても大変なことになる！",
-				"translation": "Even by a rough calculation we are going to be in a terrible state!"
+				"translation": "Even by a rough calculation we are going to be in a terrible state!",
+				"furigana": "ざっと けいさん し て も たいへん な こと に なる ！"
 			},
 			{
 				"phrase": "将来には先生になりたいです。",
-				"translation": "In the future, I want to become  a teacher."
+				"translation": "In the future, I want to become  a teacher.",
+				"furigana": "しょうらい に は せんせい に なり たい です 。"
 			}
 		],
 		"jlpt": "N3",
@@ -5173,15 +5783,18 @@
 		"phrases": [
 			{
 				"phrase": "いいわよ。",
-				"translation": "That's just fine."
+				"translation": "That's just fine.",
+				"furigana": "いい わ よ 。"
 			},
 			{
 				"phrase": "この本おもしろいわね。",
-				"translation": "This book is interesting, isn't it? [F]"
+				"translation": "This book is interesting, isn't it? [F]",
+				"furigana": "この ほん おもしろい わ ね 。"
 			},
 			{
 				"phrase": "(レジで)あら、どうしよう。お財布にお金が入ってないわ。困ったわね。このにんじんは要らないわ。",
-				"translation": "(At the cash register) oh,I don't have eough money in my wallet. What should I do? I don't take this carrot. [F]"
+				"translation": "(At the cash register) oh,I don't have eough money in my wallet. What should I do? I don't take this carrot. [F]",
+				"furigana": "( レジ で ) あら 、 どう しよう 。 お さいふ に おかね が はいって ない わ 。 こまった わ ね 。 この にんじん は いら ない わ 。"
 			}
 		],
 		"jlpt": "N3",
@@ -5206,23 +5819,28 @@
 		"phrases": [
 			{
 				"phrase": "自分たちの持っている力を試合で出し切れば、きっと勝てますよ。",
-				"translation": "If they can put forth every ounce  of their energy at the game, they'll surely win."
+				"translation": "If they can put forth every ounce  of their energy at the game, they'll surely win.",
+				"furigana": "じぶん たち の もって いる ちから を しあい で だしきれ ば 、 きっと かて ます よ 。"
 			},
 			{
 				"phrase": "３巻もある長い小説を１年かけて読みきった。",
-				"translation": "That three part novel took me a year to read completely."
+				"translation": "That three part novel took me a year to read completely.",
+				"furigana": "３ かん も ある ながい しょうせつ を １ ねん かけ て よみ きった 。"
 			},
 			{
 				"phrase": "このセマイ部屋に、全員入りきるのか。",
-				"translation": "You goin't'get everybody in this tiny room are you?"
+				"translation": "You goin't'get everybody in this tiny room are you?",
+				"furigana": "この セマイ へや に 、 ぜんいん いり きる の か 。"
 			},
 			{
 				"phrase": "ダイエット中のくせに彼女はケーキを食べきりました。",
-				"translation": "Even though (despite the fact) she was on a diet, she ate all of the cake. (ate it to the end)"
+				"translation": "Even though (despite the fact) she was on a diet, she ate all of the cake. (ate it to the end)",
+				"furigana": "ダイエット ちゅう の くせ に かのじょ は ケーキ を たべ きり まし た 。"
 			},
 			{
 				"phrase": "さあさあ、座って疲れきった脚を休めなさい。",
-				"translation": "Come on, sit down and rest your weary legs."
+				"translation": "Come on, sit down and rest your weary legs.",
+				"furigana": "さあ さあ 、 すわって つかれ きった あし を やすめ なさい 。"
 			}
 		],
 		"jlpt": "N3",
@@ -5242,23 +5860,28 @@
 		"phrases": [
 			{
 				"phrase": "私が子供の頃、日本という国について知っていたことは、東アジアの島国だということぐらいでした。（here ぐらい expresses the aproximation)",
-				"translation": "In my childhood, all I knew about Japan was that it is an insular country situated in Eastern Asia."
+				"translation": "In my childhood, all I knew about Japan was that it is an insular country situated in Eastern Asia.",
+				"furigana": "わたし が こども の ころ 、 にっぽん という くに について しって い た こと は 、 ひがしアジア の しまぐに だ という こと ぐらい でし た 。 （ here   ぐらい   expresses   the   aproximation )"
 			},
 			{
 				"phrase": "晩餐会の席でソトウェアの新バージョンの発について触れたい。",
-				"translation": "I want to mention [touch upon] the release of our new software edition at the banquet."
+				"translation": "I want to mention [touch upon] the release of our new software edition at the banquet.",
+				"furigana": "ばんさん かい の せき で ソト ウェア の しん バージョン の はつ について ふれ たい 。"
 			},
 			{
 				"phrase": "計画について",
-				"translation": "regarding the plan"
+				"translation": "regarding the plan",
+				"furigana": "けいかく について"
 			},
 			{
 				"phrase": "私が行くことについて",
-				"translation": "regarding my going there"
+				"translation": "regarding my going there",
+				"furigana": "わたし が いく こと について"
 			},
 			{
 				"phrase": "コンピューターの使い方についての本がほしい。",
-				"translation": "I want a book regarding the usage of computers."
+				"translation": "I want a book regarding the usage of computers.",
+				"furigana": "コンピューター の つかいかた について の ほん が ほしい 。"
 			}
 		],
 		"jlpt": "N3",

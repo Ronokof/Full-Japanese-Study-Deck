@@ -72,6 +72,26 @@ h3 {
     font-style: normal;
 }
 
+summary {
+    color: #00bfff;
+}
+
+ruby rt {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+    font-size: 1em;
+    padding-bottom: 0.5em;
+}
+
+ruby:hover rt {
+    opacity: 1;
+    font-size: 1em;
+}
+
+ruby:hover rb {
+    font-size: 1em;
+}
+
 .grammar-phrase {
     font-size: 1.3em;
     color: #3e2723;
