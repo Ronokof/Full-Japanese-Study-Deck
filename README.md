@@ -43,11 +43,11 @@
 - **261 common radicals**, foundational for kanji recognition.
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **4,087 common words** written entirely in kana.
+- **7,096 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **470 extra common kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
-- **19,092 common words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **799 common kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
+- **41,968 common words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 

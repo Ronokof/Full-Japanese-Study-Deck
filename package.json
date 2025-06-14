@@ -1,6 +1,6 @@
 {
   "name": "full-japanese-study-deck",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Ronokof",
   "repository": {
@@ -17,7 +17,7 @@
     "start": "ts-node ./src/index.ts"
   },
   "devDependencies": {
-    "@types/node": "^22.15.29",
+    "@types/node": "^24.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }

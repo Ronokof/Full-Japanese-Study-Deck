@@ -56,19 +56,6 @@
 					"blue",
 					"pale"
 				]
-			},
-			{
-				"kanji": "白",
-				"meanings": [
-					"white"
-				]
-			},
-			{
-				"kanji": "青",
-				"meanings": [
-					"blue",
-					"green"
-				]
 			}
 		],
 		"phrases": [
@@ -254,28 +241,6 @@
 					"person",
 					"alternative"
 				]
-			},
-			{
-				"kanji": "明",
-				"meanings": [
-					"bright",
-					"light"
-				]
-			},
-			{
-				"kanji": "方",
-				"meanings": [
-					"direction",
-					"person",
-					"alternative"
-				]
-			},
-			{
-				"kanji": "明",
-				"meanings": [
-					"bright",
-					"light"
-				]
 			}
 		],
 		"phrases": [
@@ -369,15 +334,6 @@
 					"mark",
 					"print",
 					"impression"
-				]
-			},
-			{
-				"kanji": "足",
-				"meanings": [
-					"leg",
-					"foot",
-					"be sufficient",
-					"counter for pairs of footwear"
 				]
 			}
 		],
@@ -1062,53 +1018,6 @@
 					"object",
 					"matter"
 				]
-			},
-			{
-				"kanji": "編",
-				"meanings": [
-					"compilation",
-					"knit",
-					"plait",
-					"braid",
-					"twist",
-					"editing",
-					"completed poem",
-					"part of a book"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "編",
-				"meanings": [
-					"compilation",
-					"knit",
-					"plait",
-					"braid",
-					"twist",
-					"editing",
-					"completed poem",
-					"part of a book"
-				]
-			},
-			{
-				"kanji": "編",
-				"meanings": [
-					"compilation",
-					"knit",
-					"plait",
-					"braid",
-					"twist",
-					"editing",
-					"completed poem",
-					"part of a book"
-				]
 			}
 		],
 		"phrases": [
@@ -1512,30 +1421,6 @@
 					"rude",
 					"wild"
 				]
-			},
-			{
-				"kanji": "筋",
-				"meanings": [
-					"muscle",
-					"sinew",
-					"tendon",
-					"fiber",
-					"plot",
-					"plan",
-					"descent"
-				]
-			},
-			{
-				"kanji": "筋",
-				"meanings": [
-					"muscle",
-					"sinew",
-					"tendon",
-					"fiber",
-					"plot",
-					"plan",
-					"descent"
-				]
 			}
 		],
 		"tags": [
@@ -1885,27 +1770,6 @@
 					"accident",
 					"defect"
 				]
-			},
-			{
-				"kanji": "有",
-				"meanings": [
-					"possess",
-					"have",
-					"exist",
-					"happen",
-					"occur",
-					"approx"
-				]
-			},
-			{
-				"kanji": "難",
-				"meanings": [
-					"difficult",
-					"impossible",
-					"trouble",
-					"accident",
-					"defect"
-				]
 			}
 		],
 		"phrases": [
@@ -2106,14 +1970,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "慌",
-				"meanings": [
-					"disconcerted",
-					"be confused",
-					"lose one's head"
-				]
-			},
 			{
 				"kanji": "慌",
 				"meanings": [
@@ -2415,65 +2271,6 @@
 				"meanings": [
 					"say"
 				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "言",
-				"meanings": [
-					"say",
-					"word"
-				]
-			},
-			{
-				"kanji": "言",
-				"meanings": [
-					"say",
-					"word"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "云",
-				"meanings": [
-					"say"
-				]
-			},
-			{
-				"kanji": "云",
-				"meanings": [
-					"say"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
 			}
 		],
 		"phrases": [
@@ -2544,23 +2341,6 @@
 					"life",
 					"genuine",
 					"birth"
-				]
-			},
-			{
-				"kanji": "生",
-				"meanings": [
-					"life",
-					"genuine",
-					"birth"
-				]
-			},
-			{
-				"kanji": "活",
-				"meanings": [
-					"lively",
-					"resuscitation",
-					"being helped",
-					"living"
 				]
 			},
 			{
@@ -2671,91 +2451,6 @@
 		],
 		"common": true,
 		"kanji": [
-			{
-				"kanji": "行",
-				"meanings": [
-					"going",
-					"journey",
-					"carry out",
-					"conduct",
-					"act",
-					"line",
-					"row",
-					"bank"
-				]
-			},
-			{
-				"kanji": "成",
-				"meanings": [
-					"turn into",
-					"become",
-					"get",
-					"grow",
-					"elapse",
-					"reach"
-				]
-			},
-			{
-				"kanji": "行",
-				"meanings": [
-					"going",
-					"journey",
-					"carry out",
-					"conduct",
-					"act",
-					"line",
-					"row",
-					"bank"
-				]
-			},
-			{
-				"kanji": "行",
-				"meanings": [
-					"going",
-					"journey",
-					"carry out",
-					"conduct",
-					"act",
-					"line",
-					"row",
-					"bank"
-				]
-			},
-			{
-				"kanji": "成",
-				"meanings": [
-					"turn into",
-					"become",
-					"get",
-					"grow",
-					"elapse",
-					"reach"
-				]
-			},
-			{
-				"kanji": "行",
-				"meanings": [
-					"going",
-					"journey",
-					"carry out",
-					"conduct",
-					"act",
-					"line",
-					"row",
-					"bank"
-				]
-			},
-			{
-				"kanji": "成",
-				"meanings": [
-					"turn into",
-					"become",
-					"get",
-					"grow",
-					"elapse",
-					"reach"
-				]
-			},
 			{
 				"kanji": "行",
 				"meanings": [
@@ -2987,53 +2682,12 @@
 				]
 			},
 			{
-				"kanji": "生",
-				"meanings": [
-					"life",
-					"genuine",
-					"birth"
-				]
-			},
-			{
-				"kanji": "花",
-				"meanings": [
-					"flower"
-				]
-			},
-			{
 				"kanji": "活",
 				"meanings": [
 					"lively",
 					"resuscitation",
 					"being helped",
 					"living"
-				]
-			},
-			{
-				"kanji": "花",
-				"meanings": [
-					"flower"
-				]
-			},
-			{
-				"kanji": "活",
-				"meanings": [
-					"lively",
-					"resuscitation",
-					"being helped",
-					"living"
-				]
-			},
-			{
-				"kanji": "花",
-				"meanings": [
-					"flower"
-				]
-			},
-			{
-				"kanji": "花",
-				"meanings": [
-					"flower"
 				]
 			}
 		],
@@ -3127,15 +2781,6 @@
 					"previously",
 					"already",
 					"long ago"
-				]
-			},
-			{
-				"kanji": "降",
-				"meanings": [
-					"descend",
-					"precipitate",
-					"fall",
-					"surrender"
 				]
 			}
 		],
@@ -3431,20 +3076,6 @@
 					"one",
 					"one radical (no.1)"
 				]
-			},
-			{
-				"kanji": "一",
-				"meanings": [
-					"one",
-					"one radical (no.1)"
-				]
-			},
-			{
-				"kanji": "一",
-				"meanings": [
-					"one",
-					"one radical (no.1)"
-				]
 			}
 		],
 		"phrases": [
@@ -3726,15 +3357,6 @@
 					"care",
 					"liking"
 				]
-			},
-			{
-				"kanji": "張",
-				"meanings": [
-					"counter for bows & stringed instruments",
-					"stretch",
-					"spread",
-					"put up (tent)"
-				]
 			}
 		],
 		"phrases": [
@@ -3998,52 +3620,6 @@
 					"form",
 					"looks"
 				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "入",
-				"meanings": [
-					"enter",
-					"insert"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "容",
-				"meanings": [
-					"contain",
-					"form",
-					"looks"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "入",
-				"meanings": [
-					"enter",
-					"insert"
-				]
 			}
 		],
 		"phrases": [
@@ -4181,19 +3757,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "植",
-				"meanings": [
-					"plant"
-				]
-			},
-			{
-				"kanji": "木",
-				"meanings": [
-					"tree",
-					"wood"
-				]
-			},
 			{
 				"kanji": "植",
 				"meanings": [
@@ -4408,23 +3971,6 @@
 				]
 			},
 			{
-				"kanji": "浮",
-				"meanings": [
-					"floating",
-					"float",
-					"rise to surface"
-				]
-			},
-			{
-				"kanji": "泛",
-				"meanings": [
-					"to drift",
-					"float",
-					"careless",
-					"reckless"
-				]
-			},
-			{
 				"kanji": "泛",
 				"meanings": [
 					"to drift",
@@ -4524,23 +4070,6 @@
 					"floating",
 					"float",
 					"rise to surface"
-				]
-			},
-			{
-				"kanji": "浮",
-				"meanings": [
-					"floating",
-					"float",
-					"rise to surface"
-				]
-			},
-			{
-				"kanji": "泛",
-				"meanings": [
-					"to drift",
-					"float",
-					"careless",
-					"reckless"
 				]
 			},
 			{
@@ -4644,39 +4173,6 @@
 					"hear",
 					"listen to",
 					"be informed",
-					"receive"
-				]
-			},
-			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
-			},
-			{
-				"kanji": "賜",
-				"meanings": [
-					"grant",
-					"gift",
-					"boon",
-					"results"
-				]
-			},
-			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
 					"receive"
 				]
 			},
@@ -4811,111 +4307,11 @@
 				]
 			},
 			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
 				"kanji": "請",
 				"meanings": [
 					"solicit",
 					"invite",
 					"ask"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "請",
-				"meanings": [
-					"solicit",
-					"invite",
-					"ask"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "請",
-				"meanings": [
-					"solicit",
-					"invite",
-					"ask"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
 				]
 			}
 		],
@@ -5084,26 +4480,6 @@
 					"grow dark",
 					"be blinded"
 				]
-			},
-			{
-				"kanji": "暗",
-				"meanings": [
-					"darkness",
-					"disappear",
-					"shade",
-					"informal",
-					"grow dark",
-					"be blinded"
-				]
-			},
-			{
-				"kanji": "薄",
-				"meanings": [
-					"dilute",
-					"thin",
-					"weak (tea)",
-					"pampas grass"
-				]
 			}
 		],
 		"phrases": [
@@ -5213,26 +4589,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "打",
-				"meanings": [
-					"strike",
-					"hit",
-					"knock",
-					"pound",
-					"dozen"
-				]
-			},
-			{
-				"kanji": "消",
-				"meanings": [
-					"extinguish",
-					"blow out",
-					"turn off",
-					"neutralize",
-					"cancel"
-				]
-			},
 			{
 				"kanji": "打",
 				"meanings": [
@@ -6286,26 +5642,6 @@
 					"ingredients",
 					"counter for armor, suits, sets of furniture"
 				]
-			},
-			{
-				"kanji": "絵",
-				"meanings": [
-					"picture",
-					"drawing",
-					"painting",
-					"sketch"
-				]
-			},
-			{
-				"kanji": "具",
-				"meanings": [
-					"tool",
-					"utensil",
-					"means",
-					"possess",
-					"ingredients",
-					"counter for armor, suits, sets of furniture"
-				]
 			}
 		],
 		"phrases": [
@@ -6778,18 +6114,6 @@
 				"meanings": [
 					"smoke"
 				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
 			}
 		],
 		"phrases": [
@@ -6889,36 +6213,6 @@
 					"move to",
 					"exceed",
 					"Vietnam"
-				]
-			},
-			{
-				"kanji": "追",
-				"meanings": [
-					"chase",
-					"drive away",
-					"follow",
-					"pursue",
-					"meanwhile"
-				]
-			},
-			{
-				"kanji": "越",
-				"meanings": [
-					"surpass",
-					"cross over",
-					"move to",
-					"exceed",
-					"Vietnam"
-				]
-			},
-			{
-				"kanji": "追",
-				"meanings": [
-					"chase",
-					"drive away",
-					"follow",
-					"pursue",
-					"meanwhile"
 				]
 			}
 		],
@@ -7211,17 +6505,6 @@
 				]
 			},
 			{
-				"kanji": "応",
-				"meanings": [
-					"apply",
-					"answer",
-					"yes",
-					"OK",
-					"reply",
-					"accept"
-				]
-			},
-			{
 				"kanji": "待",
 				"meanings": [
 					"wait",
@@ -7317,13 +6600,6 @@
 					"bunch",
 					"counter for bundles"
 				]
-			},
-			{
-				"kanji": "大",
-				"meanings": [
-					"large",
-					"big"
-				]
 			}
 		],
 		"phrases": [
@@ -7379,23 +6655,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "大",
-				"meanings": [
-					"large",
-					"big"
-				]
-			},
-			{
-				"kanji": "通",
-				"meanings": [
-					"traffic",
-					"pass through",
-					"avenue",
-					"commute",
-					"counter for letters, notes, documents, etc."
-				]
-			},
 			{
 				"kanji": "大",
 				"meanings": [
@@ -8085,25 +7344,6 @@
 					"manipulate",
 					"govern"
 				]
-			},
-			{
-				"kanji": "辞",
-				"meanings": [
-					"resign",
-					"word",
-					"term",
-					"expression"
-				]
-			},
-			{
-				"kanji": "儀",
-				"meanings": [
-					"ceremony",
-					"rule",
-					"affair",
-					"case",
-					"a matter"
-				]
 			}
 		],
 		"phrases": [
@@ -8306,64 +7546,6 @@
 				]
 			},
 			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
-			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
-				]
-			},
-			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
-			{
-				"kanji": "付",
-				"meanings": [
-					"adhere",
-					"attach",
-					"refer to",
-					"append"
-				]
-			},
-			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
-			{
 				"kanji": "付",
 				"meanings": [
 					"adhere",
@@ -8458,52 +7640,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "落",
-				"meanings": [
-					"fall",
-					"drop",
-					"come down",
-					"village",
-					"hamlet"
-				]
-			},
 			{
 				"kanji": "落",
 				"meanings": [
@@ -8625,30 +7761,6 @@
 					"every",
 					"either"
 				]
-			},
-			{
-				"kanji": "各",
-				"meanings": [
-					"each",
-					"every",
-					"either"
-				]
-			},
-			{
-				"kanji": "各",
-				"meanings": [
-					"each",
-					"every",
-					"either"
-				]
-			},
-			{
-				"kanji": "各",
-				"meanings": [
-					"each",
-					"every",
-					"either"
-				]
 			}
 		],
 		"phrases": [
@@ -8740,22 +7852,6 @@
 					"manipulate",
 					"govern"
 				]
-			},
-			{
-				"kanji": "参",
-				"meanings": [
-					"nonplussed",
-					"three (in documents)",
-					"going",
-					"coming",
-					"visiting",
-					"visit",
-					"be defeated",
-					"die",
-					"be madly in love",
-					"participate",
-					"take part in"
-				]
 			}
 		],
 		"phrases": [
@@ -8813,29 +7909,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "思",
-				"meanings": [
-					"think"
-				]
-			},
-			{
-				"kanji": "思",
-				"meanings": [
-					"think"
-				]
-			},
-			{
-				"kanji": "掛",
-				"meanings": [
-					"hang",
-					"suspend",
-					"depend",
-					"arrive at",
-					"tax",
-					"pour"
-				]
-			},
 			{
 				"kanji": "思",
 				"meanings": [
@@ -8954,12 +8027,6 @@
 					"in bulk",
 					"included"
 				]
-			},
-			{
-				"kanji": "思",
-				"meanings": [
-					"think"
-				]
 			}
 		],
 		"phrases": [
@@ -9039,12 +8106,6 @@
 				]
 			},
 			{
-				"kanji": "思",
-				"meanings": [
-					"think"
-				]
-			},
-			{
 				"kanji": "切",
 				"meanings": [
 					"cut",
@@ -9096,12 +8157,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "思",
-				"meanings": [
-					"think"
-				]
-			},
 			{
 				"kanji": "思",
 				"meanings": [
@@ -9195,17 +8250,6 @@
 					"relative",
 					"familiarity",
 					"dealer (cards)"
-				]
-			},
-			{
-				"kanji": "指",
-				"meanings": [
-					"finger",
-					"point to",
-					"indicate",
-					"put into",
-					"play (chess)",
-					"measure (ruler)"
 				]
 			},
 			{
@@ -9857,15 +8901,6 @@
 				]
 			},
 			{
-				"kanji": "快",
-				"meanings": [
-					"cheerful",
-					"pleasant",
-					"agreeable",
-					"comfortable"
-				]
-			},
-			{
 				"kanji": "霽",
 				"meanings": [
 					"clear up"
@@ -10444,36 +9479,6 @@
 					"halt",
 					"stop"
 				]
-			},
-			{
-				"kanji": "書",
-				"meanings": [
-					"write"
-				]
-			},
-			{
-				"kanji": "留",
-				"meanings": [
-					"detain",
-					"fasten",
-					"halt",
-					"stop"
-				]
-			},
-			{
-				"kanji": "書",
-				"meanings": [
-					"write"
-				]
-			},
-			{
-				"kanji": "留",
-				"meanings": [
-					"detain",
-					"fasten",
-					"halt",
-					"stop"
-				]
 			}
 		],
 		"phrases": [
@@ -10985,18 +9990,6 @@
 					"every",
 					"either"
 				]
-			},
-			{
-				"kanji": "別",
-				"meanings": [
-					"separate",
-					"branch off",
-					"diverge",
-					"fork",
-					"another",
-					"extra",
-					"specially"
-				]
 			}
 		],
 		"phrases": [
@@ -11417,45 +10410,6 @@
 				]
 			},
 			{
-				"kanji": "貸",
-				"meanings": [
-					"lend"
-				]
-			},
-			{
-				"kanji": "家",
-				"meanings": [
-					"house",
-					"home",
-					"family",
-					"professional",
-					"expert",
-					"performer"
-				]
-			},
-			{
-				"kanji": "貸",
-				"meanings": [
-					"lend"
-				]
-			},
-			{
-				"kanji": "屋",
-				"meanings": [
-					"roof",
-					"house",
-					"shop",
-					"dealer",
-					"seller"
-				]
-			},
-			{
-				"kanji": "貸",
-				"meanings": [
-					"lend"
-				]
-			},
-			{
 				"kanji": "屋",
 				"meanings": [
 					"roof",
@@ -11618,15 +10572,6 @@
 					"distinguished",
 					"reputation"
 				]
-			},
-			{
-				"kanji": "片",
-				"meanings": [
-					"one-sided",
-					"leaf",
-					"sheet",
-					"right-side kata radical (no. 91)"
-				]
 			}
 		],
 		"tags": [
@@ -11701,15 +10646,6 @@
 					"attach",
 					"refer to",
 					"append"
-				]
-			},
-			{
-				"kanji": "片",
-				"meanings": [
-					"one-sided",
-					"leaf",
-					"sheet",
-					"right-side kata radical (no. 91)"
 				]
 			}
 		],
@@ -11808,26 +10744,6 @@
 					"set",
 					"clot",
 					"curdle"
-				]
-			},
-			{
-				"kanji": "塊",
-				"meanings": [
-					"clod",
-					"lump",
-					"chunk",
-					"clot",
-					"mass"
-				]
-			},
-			{
-				"kanji": "塊",
-				"meanings": [
-					"clod",
-					"lump",
-					"chunk",
-					"clot",
-					"mass"
 				]
 			}
 		],
@@ -12841,14 +11757,6 @@
 					"situation",
 					"polite suffix"
 				]
-			},
-			{
-				"kanji": "神",
-				"meanings": [
-					"gods",
-					"mind",
-					"soul"
-				]
 			}
 		],
 		"phrases": [
@@ -13354,42 +12262,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "替",
-				"meanings": [
-					"exchange",
-					"spare",
-					"substitute",
-					"per-"
-				]
-			},
-			{
-				"kanji": "代",
-				"meanings": [
-					"substitute",
-					"change",
-					"convert",
-					"replace",
-					"period",
-					"age",
-					"counter for decades of ages, eras, etc.",
-					"generation",
-					"charge",
-					"rate",
-					"fee"
-				]
-			},
-			{
-				"kanji": "換",
-				"meanings": [
-					"interchange",
-					"period",
-					"change",
-					"convert",
-					"replace",
-					"renew"
-				]
-			},
 			{
 				"kanji": "替",
 				"meanings": [
@@ -14038,56 +12910,9 @@
 				]
 			},
 			{
-				"kanji": "缶",
-				"meanings": [
-					"tin can",
-					"container",
-					"jar radical (no. 121)"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
 				"kanji": "罐",
 				"meanings": [
 					"steam boiler (left side only)"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
-				"kanji": "罐",
-				"meanings": [
-					"steam boiler (left side only)"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
 				]
 			}
 		],
@@ -14361,17 +13186,6 @@
 				]
 			},
 			{
-				"kanji": "乾",
-				"meanings": [
-					"drought",
-					"dry",
-					"dessicate",
-					"drink up",
-					"heaven",
-					"emperor"
-				]
-			},
-			{
 				"kanji": "盃",
 				"meanings": [
 					"glass",
@@ -14638,15 +13452,6 @@
 					"tool",
 					"set"
 				]
-			},
-			{
-				"kanji": "械",
-				"meanings": [
-					"contraption",
-					"fetter",
-					"machine",
-					"instrument"
-				]
 			}
 		],
 		"phrases": [
@@ -14749,15 +13554,6 @@
 				]
 			},
 			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
-				]
-			},
-			{
 				"kanji": "換",
 				"meanings": [
 					"interchange",
@@ -14766,42 +13562,6 @@
 					"convert",
 					"replace",
 					"renew"
-				]
-			},
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
-				]
-			},
-			{
-				"kanji": "替",
-				"meanings": [
-					"exchange",
-					"spare",
-					"substitute",
-					"per-"
-				]
-			},
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
-				]
-			},
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
 				]
 			},
 			{
@@ -14982,23 +13742,10 @@
 				]
 			},
 			{
-				"kanji": "飢",
-				"meanings": [
-					"hungry",
-					"starve"
-				]
-			},
-			{
 				"kanji": "饑",
 				"meanings": [
 					"hunger",
 					"thirst"
-				]
-			},
-			{
-				"kanji": "饉",
-				"meanings": [
-					"hunger"
 				]
 			}
 		],
@@ -15712,15 +14459,6 @@
 				]
 			},
 			{
-				"kanji": "休",
-				"meanings": [
-					"rest",
-					"day off",
-					"retire",
-					"sleep"
-				]
-			},
-			{
 				"kanji": "足",
 				"meanings": [
 					"leg",
@@ -16121,16 +14859,6 @@
 					"annals",
 					"geologic period"
 				]
-			},
-			{
-				"kanji": "律",
-				"meanings": [
-					"rhythm",
-					"law",
-					"regulation",
-					"gauge",
-					"control"
-				]
 			}
 		],
 		"phrases": [
@@ -16427,14 +15155,6 @@
 					"paragraph",
 					"counter for haiku"
 				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
 			}
 		],
 		"phrases": [
@@ -16676,17 +15396,6 @@
 					"enamel",
 					"gunpowder",
 					"benefit"
-				]
-			},
-			{
-				"kanji": "指",
-				"meanings": [
-					"finger",
-					"point to",
-					"indicate",
-					"put into",
-					"play (chess)",
-					"measure (ruler)"
 				]
 			},
 			{
@@ -17293,50 +16002,6 @@
 					"set up",
 					"erect"
 				]
-			},
-			{
-				"kanji": "組",
-				"meanings": [
-					"association",
-					"braid",
-					"plait",
-					"construct",
-					"assemble",
-					"unite",
-					"cooperate",
-					"grapple"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
-				"kanji": "組",
-				"meanings": [
-					"association",
-					"braid",
-					"plait",
-					"construct",
-					"assemble",
-					"unite",
-					"cooperate",
-					"grapple"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
 			}
 		],
 		"phrases": [
@@ -17488,13 +16153,6 @@
 					"stingy",
 					"regret"
 				]
-			},
-			{
-				"kanji": "悔",
-				"meanings": [
-					"repent",
-					"regret"
-				]
 			}
 		],
 		"phrases": [
@@ -17551,13 +16209,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "悔",
-				"meanings": [
-					"repent",
-					"regret"
-				]
-			},
 			{
 				"kanji": "悔",
 				"meanings": [
@@ -17992,20 +16643,6 @@
 				]
 			},
 			{
-				"kanji": "蛍",
-				"meanings": [
-					"lightning-bug",
-					"firefly"
-				]
-			},
-			{
-				"kanji": "光",
-				"meanings": [
-					"ray",
-					"light"
-				]
-			},
-			{
 				"kanji": "燈",
 				"meanings": [
 					"lamp",
@@ -18017,68 +16654,6 @@
 				"kanji": "螢",
 				"meanings": [
 					"firefly"
-				]
-			},
-			{
-				"kanji": "光",
-				"meanings": [
-					"ray",
-					"light"
-				]
-			},
-			{
-				"kanji": "灯",
-				"meanings": [
-					"lamp",
-					"a light",
-					"light",
-					"counter for lights"
-				]
-			},
-			{
-				"kanji": "螢",
-				"meanings": [
-					"firefly"
-				]
-			},
-			{
-				"kanji": "光",
-				"meanings": [
-					"ray",
-					"light"
-				]
-			},
-			{
-				"kanji": "燈",
-				"meanings": [
-					"lamp",
-					"light",
-					"counter for lights"
-				]
-			},
-			{
-				"kanji": "光",
-				"meanings": [
-					"ray",
-					"light"
-				]
-			},
-			{
-				"kanji": "灯",
-				"meanings": [
-					"lamp",
-					"a light",
-					"light",
-					"counter for lights"
-				]
-			},
-			{
-				"kanji": "灯",
-				"meanings": [
-					"lamp",
-					"a light",
-					"light",
-					"counter for lights"
 				]
 			}
 		],
@@ -18346,15 +16921,6 @@
 					"hide",
 					"leather",
 					"skin radical (no. 107)"
-				]
-			},
-			{
-				"kanji": "毛",
-				"meanings": [
-					"fur",
-					"hair",
-					"feather",
-					"down"
 				]
 			},
 			{
@@ -21176,92 +19742,11 @@
 				]
 			},
 			{
-				"kanji": "苦",
-				"meanings": [
-					"suffering",
-					"trial",
-					"worry",
-					"hardship",
-					"feel bitter",
-					"scowl"
-				]
-			},
-			{
-				"kanji": "労",
-				"meanings": [
-					"labor",
-					"thank for",
-					"reward for",
-					"toil",
-					"trouble"
-				]
-			},
-			{
 				"kanji": "御",
 				"meanings": [
 					"honorable",
 					"manipulate",
 					"govern"
-				]
-			},
-			{
-				"kanji": "苦",
-				"meanings": [
-					"suffering",
-					"trial",
-					"worry",
-					"hardship",
-					"feel bitter",
-					"scowl"
-				]
-			},
-			{
-				"kanji": "労",
-				"meanings": [
-					"labor",
-					"thank for",
-					"reward for",
-					"toil",
-					"trouble"
-				]
-			},
-			{
-				"kanji": "様",
-				"meanings": [
-					"Esq.",
-					"way",
-					"manner",
-					"situation",
-					"polite suffix"
-				]
-			},
-			{
-				"kanji": "御",
-				"meanings": [
-					"honorable",
-					"manipulate",
-					"govern"
-				]
-			},
-			{
-				"kanji": "苦",
-				"meanings": [
-					"suffering",
-					"trial",
-					"worry",
-					"hardship",
-					"feel bitter",
-					"scowl"
-				]
-			},
-			{
-				"kanji": "労",
-				"meanings": [
-					"labor",
-					"thank for",
-					"reward for",
-					"toil",
-					"trouble"
 				]
 			}
 		],
@@ -21406,42 +19891,6 @@
 					"right",
 					"appropriate",
 					"himself"
-				]
-			},
-			{
-				"kanji": "心",
-				"meanings": [
-					"heart",
-					"mind",
-					"spirit",
-					"heart radical (no. 61)"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "心",
-				"meanings": [
-					"heart",
-					"mind",
-					"spirit",
-					"heart radical (no. 61)"
-				]
-			},
-			{
-				"kanji": "心",
-				"meanings": [
-					"heart",
-					"mind",
-					"spirit",
-					"heart radical (no. 61)"
 				]
 			},
 			{
@@ -21612,35 +20061,6 @@
 					"tax",
 					"pour"
 				]
-			},
-			{
-				"kanji": "腰",
-				"meanings": [
-					"loins",
-					"hips",
-					"waist",
-					"low wainscoting"
-				]
-			},
-			{
-				"kanji": "掛",
-				"meanings": [
-					"hang",
-					"suspend",
-					"depend",
-					"arrive at",
-					"tax",
-					"pour"
-				]
-			},
-			{
-				"kanji": "腰",
-				"meanings": [
-					"loins",
-					"hips",
-					"waist",
-					"low wainscoting"
-				]
 			}
 		],
 		"phrases": [
@@ -21709,35 +20129,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "腰",
-				"meanings": [
-					"loins",
-					"hips",
-					"waist",
-					"low wainscoting"
-				]
-			},
-			{
-				"kanji": "掛",
-				"meanings": [
-					"hang",
-					"suspend",
-					"depend",
-					"arrive at",
-					"tax",
-					"pour"
-				]
-			},
-			{
-				"kanji": "腰",
-				"meanings": [
-					"loins",
-					"hips",
-					"waist",
-					"low wainscoting"
-				]
-			},
 			{
 				"kanji": "腰",
 				"meanings": [
@@ -22062,25 +20453,6 @@
 					"do",
 					"undertake"
 				]
-			},
-			{
-				"kanji": "小",
-				"meanings": [
-					"little",
-					"small"
-				]
-			},
-			{
-				"kanji": "遣",
-				"meanings": [
-					"dispatch",
-					"despatch",
-					"send",
-					"give",
-					"donate",
-					"do",
-					"undertake"
-				]
 			}
 		],
 		"phrases": [
@@ -22187,27 +20559,6 @@
 				]
 			},
 			{
-				"kanji": "言",
-				"meanings": [
-					"say",
-					"word"
-				]
-			},
-			{
-				"kanji": "葉",
-				"meanings": [
-					"leaf",
-					"plane",
-					"lobe",
-					"needle",
-					"blade",
-					"spear",
-					"counter for flat things",
-					"fragment",
-					"piece"
-				]
-			},
-			{
 				"kanji": "使",
 				"meanings": [
 					"use",
@@ -22217,39 +20568,6 @@
 					"envoy",
 					"ambassador",
 					"cause"
-				]
-			},
-			{
-				"kanji": "言",
-				"meanings": [
-					"say",
-					"word"
-				]
-			},
-			{
-				"kanji": "葉",
-				"meanings": [
-					"leaf",
-					"plane",
-					"lobe",
-					"needle",
-					"blade",
-					"spear",
-					"counter for flat things",
-					"fragment",
-					"piece"
-				]
-			},
-			{
-				"kanji": "遣",
-				"meanings": [
-					"dispatch",
-					"despatch",
-					"send",
-					"give",
-					"donate",
-					"do",
-					"undertake"
 				]
 			}
 		],
@@ -22520,13 +20838,6 @@
 					"honorable",
 					"manipulate",
 					"govern"
-				]
-			},
-			{
-				"kanji": "覧",
-				"meanings": [
-					"perusal",
-					"see"
 				]
 			}
 		],
@@ -23411,15 +21722,6 @@
 				]
 			},
 			{
-				"kanji": "索",
-				"meanings": [
-					"cord",
-					"rope",
-					"searching",
-					"inquiring"
-				]
-			},
-			{
 				"kanji": "隠",
 				"meanings": [
 					"conceal",
@@ -23822,15 +22124,6 @@
 				"meanings": [
 					"sit"
 				]
-			},
-			{
-				"kanji": "敷",
-				"meanings": [
-					"spread",
-					"pave",
-					"sit",
-					"promulgate"
-				]
 			}
 		],
 		"tags": [
@@ -23895,55 +22188,6 @@
 					"support",
 					"sustain",
 					"branch radical (no. 65)"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "支",
-				"meanings": [
-					"branch",
-					"support",
-					"sustain",
-					"branch radical (no. 65)"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "閊",
-				"meanings": [
-					"to be obstructed",
-					"to be blocked"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
 				]
 			},
 			{
@@ -24051,52 +22295,6 @@
 					"quote",
 					"refer to"
 				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
 			}
 		],
 		"tags": [
@@ -24134,25 +22332,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "刺",
-				"meanings": [
-					"thorn",
-					"pierce",
-					"stab",
-					"prick",
-					"sting",
-					"calling card"
-				]
-			},
-			{
-				"kanji": "身",
-				"meanings": [
-					"somebody",
-					"person",
-					"one's station in life"
-				]
-			},
 			{
 				"kanji": "刺",
 				"meanings": [
@@ -24607,13 +22786,6 @@
 				]
 			},
 			{
-				"kanji": "錆",
-				"meanings": [
-					"rust",
-					"tarnish"
-				]
-			},
-			{
 				"kanji": "銹",
 				"meanings": [
 					"rust",
@@ -24727,59 +22899,17 @@
 				]
 			},
 			{
-				"kanji": "座",
-				"meanings": [
-					"squat",
-					"seat",
-					"cushion",
-					"gathering",
-					"sit"
-				]
-			},
-			{
-				"kanji": "座",
-				"meanings": [
-					"squat",
-					"seat",
-					"cushion",
-					"gathering",
-					"sit"
-				]
-			},
-			{
 				"kanji": "蒲",
 				"meanings": [
 					"bullrush",
 					"flag",
 					"cattail"
-				]
-			},
-			{
-				"kanji": "団",
-				"meanings": [
-					"group",
-					"association"
 				]
 			},
 			{
 				"kanji": "坐",
 				"meanings": [
 					"sit"
-				]
-			},
-			{
-				"kanji": "蒲",
-				"meanings": [
-					"bullrush",
-					"flag",
-					"cattail"
-				]
-			},
-			{
-				"kanji": "団",
-				"meanings": [
-					"group",
-					"association"
 				]
 			}
 		],
@@ -25349,22 +23479,6 @@
 					"above",
 					"up"
 				]
-			},
-			{
-				"kanji": "仕",
-				"meanings": [
-					"attend",
-					"doing",
-					"official",
-					"serve"
-				]
-			},
-			{
-				"kanji": "上",
-				"meanings": [
-					"above",
-					"up"
-				]
 			}
 		],
 		"phrases": [
@@ -25642,31 +23756,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "時",
-				"meanings": [
-					"time",
-					"hour"
-				]
-			},
-			{
-				"kanji": "間",
-				"meanings": [
-					"interval",
-					"space"
-				]
-			},
-			{
-				"kanji": "割",
-				"meanings": [
-					"proportion",
-					"comparatively",
-					"divide",
-					"cut",
-					"separate",
-					"split"
-				]
-			},
 			{
 				"kanji": "時",
 				"meanings": [
@@ -26252,12 +24341,6 @@
 				"kanji": "習",
 				"meanings": [
 					"learn"
-				]
-			},
-			{
-				"kanji": "自",
-				"meanings": [
-					"oneself"
 				]
 			},
 			{
@@ -27462,55 +25545,6 @@
 					"closed",
 					"shut"
 				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
-			},
-			{
-				"kanji": "閉",
-				"meanings": [
-					"closed",
-					"shut"
-				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
-			},
-			{
-				"kanji": "締",
-				"meanings": [
-					"tighten",
-					"tie",
-					"shut",
-					"lock",
-					"fasten"
-				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
 			}
 		],
 		"phrases": [
@@ -27712,12 +25746,6 @@
 					"snake",
 					"serpent",
 					"hard drinker"
-				]
-			},
-			{
-				"kanji": "口",
-				"meanings": [
-					"mouth"
 				]
 			},
 			{
@@ -28187,19 +26215,6 @@
 					"object",
 					"reality",
 					"counter for images"
-				]
-			},
-			{
-				"kanji": "重",
-				"meanings": [
-					"heavy",
-					"important",
-					"esteem",
-					"respect",
-					"heap up",
-					"pile up",
-					"nest of boxes",
-					"-fold"
 				]
 			},
 			{
@@ -28814,25 +26829,6 @@
 				]
 			},
 			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
-			},
-			{
-				"kanji": "話",
-				"meanings": [
-					"tale",
-					"talk"
-				]
-			},
-			{
 				"kanji": "機",
 				"meanings": [
 					"loom",
@@ -28923,13 +26919,6 @@
 					"ring",
 					"circle",
 					"loop"
-				]
-			},
-			{
-				"kanji": "循",
-				"meanings": [
-					"sequential",
-					"follow"
 				]
 			},
 			{
@@ -29218,16 +27207,6 @@
 					"air",
 					"atmosphere",
 					"mood"
-				]
-			},
-			{
-				"kanji": "蒸",
-				"meanings": [
-					"steam",
-					"heat",
-					"sultry",
-					"foment",
-					"get musty"
 				]
 			},
 			{
@@ -29745,17 +27724,6 @@
 				"meanings": [
 					"little",
 					"small"
-				]
-			},
-			{
-				"kanji": "便",
-				"meanings": [
-					"convenience",
-					"facility",
-					"excrement",
-					"feces",
-					"letter",
-					"chance"
 				]
 			},
 			{
@@ -31516,15 +29484,6 @@
 				"meanings": [
 					"at the mercy of (the waves)"
 				]
-			},
-			{
-				"kanji": "筆",
-				"meanings": [
-					"writing brush",
-					"writing",
-					"painting brush",
-					"handwriting"
-				]
 			}
 		],
 		"phrases": [
@@ -32019,54 +29978,6 @@
 					"detest",
 					"hate"
 				]
-			},
-			{
-				"kanji": "好",
-				"meanings": [
-					"fond",
-					"pleasing",
-					"like something"
-				]
-			},
-			{
-				"kanji": "好",
-				"meanings": [
-					"fond",
-					"pleasing",
-					"like something"
-				]
-			},
-			{
-				"kanji": "嫌",
-				"meanings": [
-					"dislike",
-					"detest",
-					"hate"
-				]
-			},
-			{
-				"kanji": "嫌",
-				"meanings": [
-					"dislike",
-					"detest",
-					"hate"
-				]
-			},
-			{
-				"kanji": "好",
-				"meanings": [
-					"fond",
-					"pleasing",
-					"like something"
-				]
-			},
-			{
-				"kanji": "嫌",
-				"meanings": [
-					"dislike",
-					"detest",
-					"hate"
-				]
 			}
 		],
 		"phrases": [
@@ -32160,15 +30071,6 @@
 				]
 			},
 			{
-				"kanji": "透",
-				"meanings": [
-					"transparent",
-					"permeate",
-					"filter",
-					"penetrate"
-				]
-			},
-			{
 				"kanji": "徹",
 				"meanings": [
 					"penetrate",
@@ -32176,15 +30078,6 @@
 					"pierce",
 					"strike home",
 					"sit up (all night)"
-				]
-			},
-			{
-				"kanji": "透",
-				"meanings": [
-					"transparent",
-					"permeate",
-					"filter",
-					"penetrate"
 				]
 			}
 		],
@@ -32272,59 +30165,12 @@
 				]
 			},
 			{
-				"kanji": "間",
-				"meanings": [
-					"interval",
-					"space"
-				]
-			},
-			{
 				"kanji": "透",
 				"meanings": [
 					"transparent",
 					"permeate",
 					"filter",
 					"penetrate"
-				]
-			},
-			{
-				"kanji": "間",
-				"meanings": [
-					"interval",
-					"space"
-				]
-			},
-			{
-				"kanji": "透",
-				"meanings": [
-					"transparent",
-					"permeate",
-					"filter",
-					"penetrate"
-				]
-			},
-			{
-				"kanji": "間",
-				"meanings": [
-					"interval",
-					"space"
-				]
-			},
-			{
-				"kanji": "隙",
-				"meanings": [
-					"crevice",
-					"fissure",
-					"discord",
-					"opportunity",
-					"leisure"
-				]
-			},
-			{
-				"kanji": "間",
-				"meanings": [
-					"interval",
-					"space"
 				]
 			}
 		],
@@ -33617,18 +31463,6 @@
 					"height",
 					"spine"
 				]
-			},
-			{
-				"kanji": "負",
-				"meanings": [
-					"defeat",
-					"negative",
-					"-",
-					"minus",
-					"bear",
-					"owe",
-					"assume a responsibility"
-				]
 			}
 		],
 		"phrases": [
@@ -33784,18 +31618,6 @@
 				"kanji": "鹸",
 				"meanings": [
 					"saltiness"
-				]
-			},
-			{
-				"kanji": "石",
-				"meanings": [
-					"stone"
-				]
-			},
-			{
-				"kanji": "石",
-				"meanings": [
-					"stone"
 				]
 			},
 			{
@@ -34345,14 +32167,6 @@
 				"meanings": [
 					"self-indulgent"
 				]
-			},
-			{
-				"kanji": "制",
-				"meanings": [
-					"system",
-					"law",
-					"rule"
-				]
 			}
 		],
 		"phrases": [
@@ -34515,22 +32329,6 @@
 					"potency",
 					"efficacy",
 					"occasion"
-				]
-			},
-			{
-				"kanji": "扇",
-				"meanings": [
-					"fan",
-					"folding fan"
-				]
-			},
-			{
-				"kanji": "風",
-				"meanings": [
-					"wind",
-					"air",
-					"style",
-					"manner"
 				]
 			},
 			{
@@ -34829,26 +32627,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "騒",
-				"meanings": [
-					"boisterous",
-					"make noise",
-					"clamor",
-					"disturb",
-					"excite"
-				]
-			},
-			{
-				"kanji": "騒",
-				"meanings": [
-					"boisterous",
-					"make noise",
-					"clamor",
-					"disturb",
-					"excite"
-				]
-			},
 			{
 				"kanji": "騒",
 				"meanings": [
@@ -36518,19 +34296,6 @@
 				"meanings": [
 					"plant"
 				]
-			},
-			{
-				"kanji": "田",
-				"meanings": [
-					"rice field",
-					"rice paddy"
-				]
-			},
-			{
-				"kanji": "植",
-				"meanings": [
-					"plant"
-				]
 			}
 		],
 		"tags": [
@@ -36591,22 +34356,6 @@
 				"kanji": "橢",
 				"meanings": [
 					"ellipse"
-				]
-			},
-			{
-				"kanji": "円",
-				"meanings": [
-					"circle",
-					"yen",
-					"round"
-				]
-			},
-			{
-				"kanji": "円",
-				"meanings": [
-					"circle",
-					"yen",
-					"round"
 				]
 			}
 		],
@@ -37333,92 +35082,6 @@
 				]
 			},
 			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
-				"kanji": "止",
-				"meanings": [
-					"stop",
-					"halt"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
-				"kanji": "止",
-				"meanings": [
-					"stop",
-					"halt"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
-				"kanji": "留",
-				"meanings": [
-					"detain",
-					"fasten",
-					"halt",
-					"stop"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
-				"kanji": "留",
-				"meanings": [
-					"detain",
-					"fasten",
-					"halt",
-					"stop"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
-			},
-			{
 				"kanji": "留",
 				"meanings": [
 					"detain",
@@ -37822,13 +35485,6 @@
 				]
 			},
 			{
-				"kanji": "頼",
-				"meanings": [
-					"trust",
-					"request"
-				]
-			},
-			{
 				"kanji": "母",
 				"meanings": [
 					"mother"
@@ -38134,13 +35790,6 @@
 				"meanings": [
 					"small bamboo basket for holding"
 				]
-			},
-			{
-				"kanji": "笥",
-				"meanings": [
-					"lunch box",
-					"clothes chest"
-				]
 			}
 		],
 		"phrases": [
@@ -38424,16 +36073,6 @@
 				]
 			},
 			{
-				"kanji": "短",
-				"meanings": [
-					"short",
-					"brevity",
-					"fault",
-					"defect",
-					"weak point"
-				]
-			},
-			{
 				"kanji": "篇",
 				"meanings": [
 					"volume",
@@ -38655,33 +36294,6 @@
 					"akin",
 					"tantamount"
 				]
-			},
-			{
-				"kanji": "近",
-				"meanings": [
-					"near",
-					"early",
-					"akin",
-					"tantamount"
-				]
-			},
-			{
-				"kanji": "近",
-				"meanings": [
-					"near",
-					"early",
-					"akin",
-					"tantamount"
-				]
-			},
-			{
-				"kanji": "近",
-				"meanings": [
-					"near",
-					"early",
-					"akin",
-					"tantamount"
-				]
 			}
 		],
 		"phrases": [
@@ -38752,15 +36364,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "近",
-				"meanings": [
-					"near",
-					"early",
-					"akin",
-					"tantamount"
-				]
-			},
 			{
 				"kanji": "近",
 				"meanings": [
@@ -38859,15 +36462,6 @@
 					"collect",
 					"send",
 					"forward"
-				]
-			},
-			{
-				"kanji": "近",
-				"meanings": [
-					"near",
-					"early",
-					"akin",
-					"tantamount"
 				]
 			}
 		],
@@ -39138,24 +36732,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
-				]
-			},
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
-				]
-			},
 			{
 				"kanji": "着",
 				"meanings": [
@@ -40436,42 +38012,6 @@
 					"join",
 					"0.1"
 				]
-			},
-			{
-				"kanji": "合",
-				"meanings": [
-					"fit",
-					"suit",
-					"join",
-					"0.1"
-				]
-			},
-			{
-				"kanji": "付",
-				"meanings": [
-					"adhere",
-					"attach",
-					"refer to",
-					"append"
-				]
-			},
-			{
-				"kanji": "付",
-				"meanings": [
-					"adhere",
-					"attach",
-					"refer to",
-					"append"
-				]
-			},
-			{
-				"kanji": "合",
-				"meanings": [
-					"fit",
-					"suit",
-					"join",
-					"0.1"
-				]
 			}
 		],
 		"phrases": [
@@ -40608,90 +38148,6 @@
 					"pierce",
 					"stab",
 					"prick"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
 				]
 			}
 		],
@@ -41220,39 +38676,6 @@
 					"in bulk",
 					"included"
 				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
-			},
-			{
-				"kanji": "突",
-				"meanings": [
-					"stab",
-					"protruding",
-					"thrust",
-					"pierce",
-					"prick",
-					"collision",
-					"sudden"
-				]
-			},
-			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
 			}
 		],
 		"phrases": [
@@ -41539,17 +38962,6 @@
 					"rebuke",
 					"blame"
 				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
 			}
 		],
 		"phrases": [
@@ -41800,20 +39212,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "手",
-				"meanings": [
-					"hand"
-				]
-			},
-			{
-				"kanji": "洗",
-				"meanings": [
-					"wash",
-					"inquire into",
-					"probe"
-				]
-			},
 			{
 				"kanji": "手",
 				"meanings": [
@@ -42305,41 +39703,12 @@
 				]
 			},
 			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
 				"kanji": "這",
 				"meanings": [
 					"crawl",
 					"creep",
 					"grovel",
 					"trail (vines)"
-				]
-			},
-			{
-				"kanji": "入",
-				"meanings": [
-					"enter",
-					"insert"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
 				]
 			}
 		],
@@ -42410,30 +39779,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "入",
-				"meanings": [
-					"enter",
-					"insert"
-				]
-			},
-			{
-				"kanji": "口",
-				"meanings": [
-					"mouth"
-				]
-			},
 			{
 				"kanji": "出",
 				"meanings": [
@@ -42625,41 +39970,6 @@
 					"above",
 					"up"
 				]
-			},
-			{
-				"kanji": "上",
-				"meanings": [
-					"above",
-					"up"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "来",
-				"meanings": [
-					"come",
-					"due",
-					"next",
-					"cause",
-					"become"
-				]
-			},
-			{
-				"kanji": "上",
-				"meanings": [
-					"above",
-					"up"
-				]
 			}
 		],
 		"phrases": [
@@ -42735,62 +40045,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "来",
-				"meanings": [
-					"come",
-					"due",
-					"next",
-					"cause",
-					"become"
-				]
-			},
-			{
-				"kanji": "上",
-				"meanings": [
-					"above",
-					"up"
-				]
-			},
-			{
-				"kanji": "上",
-				"meanings": [
-					"above",
-					"up"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "来",
-				"meanings": [
-					"come",
-					"due",
-					"next",
-					"cause",
-					"become"
-				]
-			},
 			{
 				"kanji": "出",
 				"meanings": [
@@ -42904,22 +40158,10 @@
 				]
 			},
 			{
-				"kanji": "手",
-				"meanings": [
-					"hand"
-				]
-			},
-			{
 				"kanji": "頸",
 				"meanings": [
 					"neck",
 					"head"
-				]
-			},
-			{
-				"kanji": "手",
-				"meanings": [
-					"hand"
 				]
 			},
 			{
@@ -43099,12 +40341,6 @@
 				]
 			},
 			{
-				"kanji": "手",
-				"meanings": [
-					"hand"
-				]
-			},
-			{
 				"kanji": "頃",
 				"meanings": [
 					"time",
@@ -43262,12 +40498,6 @@
 				]
 			},
 			{
-				"kanji": "鉄",
-				"meanings": [
-					"iron"
-				]
-			},
-			{
 				"kanji": "炮",
 				"meanings": [
 					"burn",
@@ -43347,26 +40577,6 @@
 				]
 			},
 			{
-				"kanji": "手",
-				"meanings": [
-					"hand"
-				]
-			},
-			{
-				"kanji": "拭",
-				"meanings": [
-					"wipe",
-					"mop",
-					"swab"
-				]
-			},
-			{
-				"kanji": "手",
-				"meanings": [
-					"hand"
-				]
-			},
-			{
 				"kanji": "拭",
 				"meanings": [
 					"wipe",
@@ -43426,17 +40636,6 @@
 					"welcome",
 					"meet",
 					"greet"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
 				]
 			}
 		],
@@ -44412,14 +41611,6 @@
 					"light",
 					"counter for lights"
 				]
-			},
-			{
-				"kanji": "台",
-				"meanings": [
-					"pedestal",
-					"a stand",
-					"counter for machines and vehicles"
-				]
 			}
 		],
 		"phrases": [
@@ -45013,110 +42204,6 @@
 				]
 			},
 			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
-			},
-			{
-				"kanji": "解",
-				"meanings": [
-					"unravel",
-					"notes",
-					"key",
-					"explanation",
-					"understanding",
-					"untie",
-					"undo",
-					"solve",
-					"answer",
-					"cancel",
-					"absolve",
-					"explain",
-					"minute"
-				]
-			},
-			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
-			},
-			{
-				"kanji": "溶",
-				"meanings": [
-					"melt",
-					"dissolve",
-					"thaw"
-				]
-			},
-			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
-			},
-			{
-				"kanji": "解",
-				"meanings": [
-					"unravel",
-					"notes",
-					"key",
-					"explanation",
-					"understanding",
-					"untie",
-					"undo",
-					"solve",
-					"answer",
-					"cancel",
-					"absolve",
-					"explain",
-					"minute"
-				]
-			},
-			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
-			},
-			{
-				"kanji": "溶",
-				"meanings": [
-					"melt",
-					"dissolve",
-					"thaw"
-				]
-			},
-			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
-			},
-			{
-				"kanji": "融",
-				"meanings": [
-					"dissolve",
-					"melt"
-				]
-			},
-			{
 				"kanji": "解",
 				"meanings": [
 					"unravel",
@@ -45393,46 +42480,6 @@
 				]
 			},
 			{
-				"kanji": "所",
-				"meanings": [
-					"place",
-					"extent"
-				]
-			},
-			{
-				"kanji": "所",
-				"meanings": [
-					"place",
-					"extent"
-				]
-			},
-			{
-				"kanji": "処",
-				"meanings": [
-					"dispose",
-					"manage",
-					"deal with",
-					"sentence",
-					"condemn",
-					"act",
-					"behave",
-					"place"
-				]
-			},
-			{
-				"kanji": "処",
-				"meanings": [
-					"dispose",
-					"manage",
-					"deal with",
-					"sentence",
-					"condemn",
-					"act",
-					"behave",
-					"place"
-				]
-			},
-			{
 				"kanji": "処",
 				"meanings": [
 					"dispose",
@@ -45522,14 +42569,6 @@
 					"mount",
 					"mantle",
 					"trellis"
-				]
-			},
-			{
-				"kanji": "戸",
-				"meanings": [
-					"door",
-					"counter for houses",
-					"door radical (no. 63)"
 				]
 			}
 		],
@@ -45863,18 +42902,6 @@
 				"meanings": [
 					"noisy"
 				]
-			},
-			{
-				"kanji": "鳴",
-				"meanings": [
-					"chirp",
-					"cry",
-					"bark",
-					"sound",
-					"ring",
-					"echo",
-					"honk"
-				]
 			}
 		],
 		"phrases": [
@@ -45948,31 +42975,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "飛",
-				"meanings": [
-					"fly",
-					"skip (pages)",
-					"scatter"
-				]
-			},
-			{
-				"kanji": "込",
-				"meanings": [
-					"crowded",
-					"mixture",
-					"in bulk",
-					"included"
-				]
-			},
-			{
-				"kanji": "飛",
-				"meanings": [
-					"fly",
-					"skip (pages)",
-					"scatter"
-				]
-			},
 			{
 				"kanji": "飛",
 				"meanings": [
@@ -46147,13 +43149,6 @@
 					"catch",
 					"capture"
 				]
-			},
-			{
-				"kanji": "捕",
-				"meanings": [
-					"catch",
-					"capture"
-				]
 			}
 		],
 		"phrases": [
@@ -46216,24 +43211,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "消",
-				"meanings": [
-					"extinguish",
-					"blow out",
-					"turn off",
-					"neutralize",
-					"cancel"
-				]
-			},
 			{
 				"kanji": "取",
 				"meanings": [
@@ -46326,44 +43303,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "取",
-				"meanings": [
-					"take",
-					"fetch",
-					"take up"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
 			{
 				"kanji": "取",
 				"meanings": [
@@ -46615,13 +43554,6 @@
 					"bowl",
 					"bowl of food"
 				]
-			},
-			{
-				"kanji": "丼",
-				"meanings": [
-					"bowl",
-					"bowl of food"
-				]
 			}
 		],
 		"phrases": [
@@ -46846,15 +43778,6 @@
 					"quote",
 					"refer to"
 				]
-			},
-			{
-				"kanji": "長",
-				"meanings": [
-					"long",
-					"leader",
-					"superior",
-					"senior"
-				]
 			}
 		],
 		"phrases": [
@@ -46995,20 +43918,6 @@
 					"good",
 					"pleasing",
 					"skilled"
-				]
-			},
-			{
-				"kanji": "仲",
-				"meanings": [
-					"go-between",
-					"relationship"
-				]
-			},
-			{
-				"kanji": "仲",
-				"meanings": [
-					"go-between",
-					"relationship"
 				]
 			},
 			{
@@ -47398,14 +44307,6 @@
 				]
 			},
 			{
-				"kanji": "斜",
-				"meanings": [
-					"diagonal",
-					"slanting",
-					"oblique"
-				]
-			},
-			{
 				"kanji": "傾",
 				"meanings": [
 					"lean",
@@ -47580,18 +44481,6 @@
 				"meanings": [
 					"what"
 				]
-			},
-			{
-				"kanji": "何",
-				"meanings": [
-					"what"
-				]
-			},
-			{
-				"kanji": "何",
-				"meanings": [
-					"what"
-				]
 			}
 		],
 		"tags": [
@@ -47661,12 +44550,6 @@
 					"1%",
 					"chances",
 					"shaku/100"
-				]
-			},
-			{
-				"kanji": "何",
-				"meanings": [
-					"what"
 				]
 			}
 		],
@@ -47849,19 +44732,6 @@
 				]
 			},
 			{
-				"kanji": "並",
-				"meanings": [
-					"row",
-					"and",
-					"besides",
-					"as well as",
-					"line up",
-					"rank with",
-					"rival",
-					"equal"
-				]
-			},
-			{
 				"kanji": "樹",
 				"meanings": [
 					"timber",
@@ -47869,26 +44739,6 @@
 					"wood",
 					"establish",
 					"set up"
-				]
-			},
-			{
-				"kanji": "並",
-				"meanings": [
-					"row",
-					"and",
-					"besides",
-					"as well as",
-					"line up",
-					"rank with",
-					"rival",
-					"equal"
-				]
-			},
-			{
-				"kanji": "木",
-				"meanings": [
-					"tree",
-					"wood"
 				]
 			}
 		],
@@ -49200,16 +46050,6 @@
 				]
 			},
 			{
-				"kanji": "寝",
-				"meanings": [
-					"lie down",
-					"sleep",
-					"rest",
-					"bed",
-					"remain unsold"
-				]
-			},
-			{
 				"kanji": "間",
 				"meanings": [
 					"interval",
@@ -49226,55 +46066,11 @@
 				]
 			},
 			{
-				"kanji": "寝",
-				"meanings": [
-					"lie down",
-					"sleep",
-					"rest",
-					"bed",
-					"remain unsold"
-				]
-			},
-			{
-				"kanji": "巻",
-				"meanings": [
-					"scroll",
-					"volume",
-					"book",
-					"part",
-					"roll up",
-					"wind up",
-					"tie",
-					"coil",
-					"counter for texts (or book scrolls)"
-				]
-			},
-			{
-				"kanji": "寝",
-				"meanings": [
-					"lie down",
-					"sleep",
-					"rest",
-					"bed",
-					"remain unsold"
-				]
-			},
-			{
 				"kanji": "衣",
 				"meanings": [
 					"garment",
 					"clothes",
 					"dressing"
-				]
-			},
-			{
-				"kanji": "寝",
-				"meanings": [
-					"lie down",
-					"sleep",
-					"rest",
-					"bed",
-					"remain unsold"
 				]
 			}
 		],
@@ -50301,108 +47097,12 @@
 				]
 			},
 			{
-				"kanji": "乗",
-				"meanings": [
-					"ride",
-					"power",
-					"multiplication",
-					"record",
-					"counter for vehicles",
-					"board",
-					"mount",
-					"join"
-				]
-			},
-			{
-				"kanji": "換",
-				"meanings": [
-					"interchange",
-					"period",
-					"change",
-					"convert",
-					"replace",
-					"renew"
-				]
-			},
-			{
-				"kanji": "乗",
-				"meanings": [
-					"ride",
-					"power",
-					"multiplication",
-					"record",
-					"counter for vehicles",
-					"board",
-					"mount",
-					"join"
-				]
-			},
-			{
-				"kanji": "換",
-				"meanings": [
-					"interchange",
-					"period",
-					"change",
-					"convert",
-					"replace",
-					"renew"
-				]
-			},
-			{
-				"kanji": "乗",
-				"meanings": [
-					"ride",
-					"power",
-					"multiplication",
-					"record",
-					"counter for vehicles",
-					"board",
-					"mount",
-					"join"
-				]
-			},
-			{
 				"kanji": "替",
 				"meanings": [
 					"exchange",
 					"spare",
 					"substitute",
 					"per-"
-				]
-			},
-			{
-				"kanji": "乗",
-				"meanings": [
-					"ride",
-					"power",
-					"multiplication",
-					"record",
-					"counter for vehicles",
-					"board",
-					"mount",
-					"join"
-				]
-			},
-			{
-				"kanji": "替",
-				"meanings": [
-					"exchange",
-					"spare",
-					"substitute",
-					"per-"
-				]
-			},
-			{
-				"kanji": "乗",
-				"meanings": [
-					"ride",
-					"power",
-					"multiplication",
-					"record",
-					"counter for vehicles",
-					"board",
-					"mount",
-					"join"
 				]
 			}
 		],
@@ -50661,18 +47361,6 @@
 					"worship",
 					"adore",
 					"pray to"
-				]
-			},
-			{
-				"kanji": "見",
-				"meanings": [
-					"see",
-					"hopes",
-					"chances",
-					"idea",
-					"opinion",
-					"look at",
-					"visible"
 				]
 			}
 		],
@@ -50948,50 +47636,10 @@
 				]
 			},
 			{
-				"kanji": "吐",
-				"meanings": [
-					"spit",
-					"vomit",
-					"belch",
-					"confess",
-					"tell (lies)"
-				]
-			},
-			{
-				"kanji": "気",
-				"meanings": [
-					"spirit",
-					"mind",
-					"air",
-					"atmosphere",
-					"mood"
-				]
-			},
-			{
 				"kanji": "嘔",
 				"meanings": [
 					"vomit",
 					"nauseated"
-				]
-			},
-			{
-				"kanji": "気",
-				"meanings": [
-					"spirit",
-					"mind",
-					"air",
-					"atmosphere",
-					"mood"
-				]
-			},
-			{
-				"kanji": "吐",
-				"meanings": [
-					"spit",
-					"vomit",
-					"belch",
-					"confess",
-					"tell (lies)"
 				]
 			}
 		],
@@ -51427,15 +48075,6 @@
 				]
 			},
 			{
-				"kanji": "肌",
-				"meanings": [
-					"texture",
-					"skin",
-					"body",
-					"grain"
-				]
-			},
-			{
 				"kanji": "衣",
 				"meanings": [
 					"garment",
@@ -51451,15 +48090,6 @@
 					"grain",
 					"texture",
 					"disposition"
-				]
-			},
-			{
-				"kanji": "着",
-				"meanings": [
-					"don",
-					"arrive",
-					"wear",
-					"counter for suits of clothing"
 				]
 			}
 		],
@@ -51768,13 +48398,6 @@
 				]
 			},
 			{
-				"kanji": "話",
-				"meanings": [
-					"tale",
-					"talk"
-				]
-			},
-			{
 				"kanji": "掛",
 				"meanings": [
 					"hang",
@@ -51867,23 +48490,6 @@
 					"mean",
 					"center"
 				]
-			},
-			{
-				"kanji": "話",
-				"meanings": [
-					"tale",
-					"talk"
-				]
-			},
-			{
-				"kanji": "中",
-				"meanings": [
-					"in",
-					"inside",
-					"middle",
-					"mean",
-					"center"
-				]
 			}
 		],
 		"phrases": [
@@ -51955,15 +48561,6 @@
 					"great",
 					"exceedingly"
 				]
-			},
-			{
-				"kanji": "甚",
-				"meanings": [
-					"tremendously",
-					"very",
-					"great",
-					"exceedingly"
-				]
 			}
 		],
 		"phrases": [
@@ -52024,12 +48621,6 @@
 				"kanji": "煙",
 				"meanings": [
 					"smoke"
-				]
-			},
-			{
-				"kanji": "火",
-				"meanings": [
-					"fire"
 				]
 			}
 		],
@@ -52207,13 +48798,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "羽",
-				"meanings": [
-					"feathers",
-					"counter for birds, rabbits"
-				]
-			},
 			{
 				"kanji": "羽",
 				"meanings": [
@@ -52485,30 +49069,6 @@
 					"improve",
 					"brush (teeth)"
 				]
-			},
-			{
-				"kanji": "歯",
-				"meanings": [
-					"tooth",
-					"cog"
-				]
-			},
-			{
-				"kanji": "歯",
-				"meanings": [
-					"tooth",
-					"cog"
-				]
-			},
-			{
-				"kanji": "磨",
-				"meanings": [
-					"grind",
-					"polish",
-					"scour",
-					"improve",
-					"brush (teeth)"
-				]
 			}
 		],
 		"phrases": [
@@ -52594,12 +49154,6 @@
 				"meanings": [
 					"quick",
 					"fast"
-				]
-			},
-			{
-				"kanji": "口",
-				"meanings": [
-					"mouth"
 				]
 			}
 		],
@@ -52725,27 +49279,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "払",
-				"meanings": [
-					"pay",
-					"clear out",
-					"prune",
-					"banish",
-					"dispose of"
-				]
-			},
-			{
-				"kanji": "戻",
-				"meanings": [
-					"re-",
-					"return",
-					"revert",
-					"resume",
-					"restore",
-					"go backwards"
-				]
-			},
 			{
 				"kanji": "払",
 				"meanings": [
@@ -52969,12 +49502,6 @@
 				]
 			},
 			{
-				"kanji": "反",
-				"meanings": [
-					"anti-"
-				]
-			},
-			{
 				"kanji": "影",
 				"meanings": [
 					"shadow",
@@ -53195,24 +49722,6 @@
 				]
 			},
 			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
 				"kanji": "陽",
 				"meanings": [
 					"sunshine",
@@ -53221,73 +49730,6 @@
 					"male",
 					"heaven",
 					"daytime"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "陽",
-				"meanings": [
-					"sunshine",
-					"yang principle",
-					"positive",
-					"male",
-					"heaven",
-					"daytime"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "陽",
-				"meanings": [
-					"sunshine",
-					"yang principle",
-					"positive",
-					"male",
-					"heaven",
-					"daytime"
-				]
-			},
-			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
-				"kanji": "当",
-				"meanings": [
-					"hit",
-					"right",
-					"appropriate",
-					"himself"
-				]
-			},
-			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
 				]
 			}
 		],
@@ -53535,15 +49977,6 @@
 				]
 			},
 			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
 				"kanji": "蔭",
 				"meanings": [
 					"shade",
@@ -53552,29 +49985,11 @@
 				]
 			},
 			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
 				"kanji": "影",
 				"meanings": [
 					"shadow",
 					"silhouette",
 					"phantom"
-				]
-			},
-			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
 				]
 			}
 		],
@@ -53690,66 +50105,6 @@
 					"catch",
 					"receive"
 				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "受",
-				"meanings": [
-					"accept",
-					"undergo",
-					"answer (phone)",
-					"take",
-					"get",
-					"catch",
-					"receive"
-				]
 			}
 		],
 		"phrases": [
@@ -53841,39 +50196,6 @@
 					"answer",
 					"fade",
 					"repay"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "返",
-				"meanings": [
-					"return",
-					"answer",
-					"fade",
-					"repay"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
 				]
 			}
 		],
@@ -54041,36 +50363,6 @@
 					"chances",
 					"shaku/100"
 				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "分",
-				"meanings": [
-					"part",
-					"minute of time",
-					"segment",
-					"share",
-					"degree",
-					"one's lot",
-					"duty",
-					"understand",
-					"know",
-					"rate",
-					"1%",
-					"chances",
-					"shaku/100"
-				]
 			}
 		],
 		"phrases": [
@@ -54164,106 +50456,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "陽",
-				"meanings": [
-					"sunshine",
-					"yang principle",
-					"positive",
-					"male",
-					"heaven",
-					"daytime"
-				]
-			},
-			{
-				"kanji": "射",
-				"meanings": [
-					"shoot",
-					"shine into",
-					"onto",
-					"archery"
-				]
-			},
-			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
-				"kanji": "射",
-				"meanings": [
-					"shoot",
-					"shine into",
-					"onto",
-					"archery"
-				]
-			},
-			{
-				"kanji": "陽",
-				"meanings": [
-					"sunshine",
-					"yang principle",
-					"positive",
-					"male",
-					"heaven",
-					"daytime"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "日",
-				"meanings": [
-					"day",
-					"sun",
-					"Japan",
-					"counter for days"
-				]
-			},
-			{
-				"kanji": "陽",
-				"meanings": [
-					"sunshine",
-					"yang principle",
-					"positive",
-					"male",
-					"heaven",
-					"daytime"
-				]
-			},
 			{
 				"kanji": "日",
 				"meanings": [
@@ -54411,41 +50603,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "掛",
-				"meanings": [
-					"hang",
-					"suspend",
-					"depend",
-					"arrive at",
-					"tax",
-					"pour"
-				]
-			},
 			{
 				"kanji": "引",
 				"meanings": [
@@ -54639,72 +50796,6 @@
 					"exceed",
 					"Vietnam"
 				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "越",
-				"meanings": [
-					"surpass",
-					"cross over",
-					"move to",
-					"exceed",
-					"Vietnam"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "越",
-				"meanings": [
-					"surpass",
-					"cross over",
-					"move to",
-					"exceed",
-					"Vietnam"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
-				]
-			},
-			{
-				"kanji": "越",
-				"meanings": [
-					"surpass",
-					"cross over",
-					"move to",
-					"exceed",
-					"Vietnam"
-				]
 			}
 		],
 		"phrases": [
@@ -54802,18 +50893,6 @@
 					"mixture",
 					"in bulk",
 					"included"
-				]
-			},
-			{
-				"kanji": "引",
-				"meanings": [
-					"pull",
-					"tug",
-					"jerk",
-					"admit",
-					"install",
-					"quote",
-					"refer to"
 				]
 			}
 		],
@@ -55214,42 +51293,6 @@
 				]
 			},
 			{
-				"kanji": "言",
-				"meanings": [
-					"say",
-					"word"
-				]
-			},
-			{
-				"kanji": "独",
-				"meanings": [
-					"single",
-					"alone",
-					"spontaneously",
-					"Germany"
-				]
-			},
-			{
-				"kanji": "一",
-				"meanings": [
-					"one",
-					"one radical (no.1)"
-				]
-			},
-			{
-				"kanji": "人",
-				"meanings": [
-					"person"
-				]
-			},
-			{
-				"kanji": "言",
-				"meanings": [
-					"say",
-					"word"
-				]
-			},
-			{
 				"kanji": "一",
 				"meanings": [
 					"one",
@@ -55521,14 +51564,6 @@
 					"cold (beer, person)",
 					"chill"
 				]
-			},
-			{
-				"kanji": "冷",
-				"meanings": [
-					"cool",
-					"cold (beer, person)",
-					"chill"
-				]
 			}
 		],
 		"phrases": [
@@ -55625,35 +51660,12 @@
 				]
 			},
 			{
-				"kanji": "百",
-				"meanings": [
-					"hundred"
-				]
-			},
-			{
-				"kanji": "科",
-				"meanings": [
-					"department",
-					"course",
-					"section"
-				]
-			},
-			{
 				"kanji": "辞",
 				"meanings": [
 					"resign",
 					"word",
 					"term",
 					"expression"
-				]
-			},
-			{
-				"kanji": "典",
-				"meanings": [
-					"code",
-					"ceremony",
-					"law",
-					"rule"
 				]
 			}
 		],
@@ -56077,25 +52089,6 @@
 					"distinguished",
 					"reputation"
 				]
-			},
-			{
-				"kanji": "仮",
-				"meanings": [
-					"sham",
-					"temporary",
-					"interim",
-					"assumed (name)",
-					"informal"
-				]
-			},
-			{
-				"kanji": "名",
-				"meanings": [
-					"name",
-					"noted",
-					"distinguished",
-					"reputation"
-				]
 			}
 		],
 		"tags": [
@@ -56151,13 +52144,6 @@
 					"rest",
 					"bed",
 					"remain unsold"
-				]
-			},
-			{
-				"kanji": "昼",
-				"meanings": [
-					"daytime",
-					"noon"
 				]
 			},
 			{
@@ -56370,96 +52356,11 @@
 				]
 			},
 			{
-				"kanji": "瓶",
-				"meanings": [
-					"bottle",
-					"vial",
-					"jar",
-					"jug",
-					"vat",
-					"urn"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
 				"kanji": "壜",
 				"meanings": [
 					"bottle",
 					"vial",
 					"jar"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
-				"kanji": "壜",
-				"meanings": [
-					"bottle",
-					"vial",
-					"jar"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
-				]
-			},
-			{
-				"kanji": "詰",
-				"meanings": [
-					"packed",
-					"close",
-					"pressed",
-					"reprove",
-					"rebuke",
-					"blame"
 				]
 			}
 		],
@@ -57538,16 +53439,6 @@
 					"disorder",
 					"disturb"
 				]
-			},
-			{
-				"kanji": "吹",
-				"meanings": [
-					"blow",
-					"breathe",
-					"puff",
-					"emit",
-					"smoke"
-				]
 			}
 		],
 		"phrases": [
@@ -57634,60 +53525,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "踏",
-				"meanings": [
-					"step",
-					"trample",
-					"carry through",
-					"appraise",
-					"evade payment"
-				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
-			},
-			{
-				"kanji": "踏",
-				"meanings": [
-					"step",
-					"trample",
-					"carry through",
-					"appraise",
-					"evade payment"
-				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
-			},
-			{
-				"kanji": "踏",
-				"meanings": [
-					"step",
-					"trample",
-					"carry through",
-					"appraise",
-					"evade payment"
-				]
-			},
-			{
-				"kanji": "切",
-				"meanings": [
-					"cut",
-					"cutoff",
-					"be sharp"
-				]
-			},
 			{
 				"kanji": "踏",
 				"meanings": [
@@ -57919,24 +53756,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "振",
-				"meanings": [
-					"shake",
-					"wave",
-					"wag",
-					"swing"
-				]
-			},
-			{
-				"kanji": "舞",
-				"meanings": [
-					"dance",
-					"flit",
-					"circle",
-					"wheel"
-				]
-			},
 			{
 				"kanji": "振",
 				"meanings": [
@@ -59112,30 +54931,6 @@
 					"extra",
 					"specially"
 				]
-			},
-			{
-				"kanji": "別",
-				"meanings": [
-					"separate",
-					"branch off",
-					"diverge",
-					"fork",
-					"another",
-					"extra",
-					"specially"
-				]
-			},
-			{
-				"kanji": "別",
-				"meanings": [
-					"separate",
-					"branch off",
-					"diverge",
-					"fork",
-					"another",
-					"extra",
-					"specially"
-				]
 			}
 		],
 		"phrases": [
@@ -59652,16 +55447,6 @@
 					"person",
 					"alternative"
 				]
-			},
-			{
-				"kanji": "則",
-				"meanings": [
-					"rule",
-					"law",
-					"follow",
-					"based on",
-					"model after"
-				]
 			}
 		],
 		"phrases": [
@@ -59753,17 +55538,6 @@
 				"kanji": "庖",
 				"meanings": [
 					"kitchen"
-				]
-			},
-			{
-				"kanji": "丁",
-				"meanings": [
-					"street",
-					"ward",
-					"town",
-					"counter for guns, tools, leaves or cakes of something",
-					"even number",
-					"4th calendar sign"
 				]
 			}
 		],
@@ -60445,14 +56219,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "坊",
-				"meanings": [
-					"boy",
-					"priest's residence",
-					"priest"
-				]
-			},
 			{
 				"kanji": "坊",
 				"meanings": [
@@ -61432,23 +57198,6 @@
 				"meanings": [
 					"miscellaneous"
 				]
-			},
-			{
-				"kanji": "交",
-				"meanings": [
-					"mingle",
-					"mixing",
-					"association",
-					"coming & going"
-				]
-			},
-			{
-				"kanji": "混",
-				"meanings": [
-					"mix",
-					"blend",
-					"confuse"
-				]
 			}
 		],
 		"phrases": [
@@ -61634,29 +57383,6 @@
 					"join",
 					"0.1"
 				]
-			},
-			{
-				"kanji": "待",
-				"meanings": [
-					"wait",
-					"depend on"
-				]
-			},
-			{
-				"kanji": "合",
-				"meanings": [
-					"fit",
-					"suit",
-					"join",
-					"0.1"
-				]
-			},
-			{
-				"kanji": "待",
-				"meanings": [
-					"wait",
-					"depend on"
-				]
 			}
 		],
 		"phrases": [
@@ -61736,16 +57462,6 @@
 					"block",
 					"street"
 				]
-			},
-			{
-				"kanji": "角",
-				"meanings": [
-					"angle",
-					"corner",
-					"square",
-					"horn",
-					"antlers"
-				]
 			}
 		],
 		"phrases": [
@@ -61814,36 +57530,6 @@
 					"true",
 					"reality",
 					"Buddhist sect"
-				]
-			},
-			{
-				"kanji": "暗",
-				"meanings": [
-					"darkness",
-					"disappear",
-					"shade",
-					"informal",
-					"grow dark",
-					"be blinded"
-				]
-			},
-			{
-				"kanji": "真",
-				"meanings": [
-					"true",
-					"reality",
-					"Buddhist sect"
-				]
-			},
-			{
-				"kanji": "暗",
-				"meanings": [
-					"darkness",
-					"disappear",
-					"shade",
-					"informal",
-					"grow dark",
-					"be blinded"
 				]
 			},
 			{
@@ -61946,28 +57632,6 @@
 					"blue",
 					"green"
 				]
-			},
-			{
-				"kanji": "青",
-				"meanings": [
-					"blue",
-					"green"
-				]
-			},
-			{
-				"kanji": "真",
-				"meanings": [
-					"true",
-					"reality",
-					"Buddhist sect"
-				]
-			},
-			{
-				"kanji": "青",
-				"meanings": [
-					"blue",
-					"green"
-				]
 			}
 		],
 		"phrases": [
@@ -62036,34 +57700,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "真",
-				"meanings": [
-					"true",
-					"reality",
-					"Buddhist sect"
-				]
-			},
-			{
-				"kanji": "先",
-				"meanings": [
-					"before",
-					"ahead",
-					"previous",
-					"future",
-					"precedence"
-				]
-			},
-			{
-				"kanji": "先",
-				"meanings": [
-					"before",
-					"ahead",
-					"previous",
-					"future",
-					"precedence"
-				]
-			},
 			{
 				"kanji": "真",
 				"meanings": [
@@ -62163,26 +57799,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "真",
-				"meanings": [
-					"true",
-					"reality",
-					"Buddhist sect"
-				]
-			},
-			{
-				"kanji": "白",
-				"meanings": [
-					"white"
-				]
-			},
-			{
-				"kanji": "白",
-				"meanings": [
-					"white"
-				]
-			},
 			{
 				"kanji": "真",
 				"meanings": [
@@ -62372,14 +57988,6 @@
 				"kanji": "眼",
 				"meanings": [
 					"eyeball"
-				]
-			},
-			{
-				"kanji": "蓋",
-				"meanings": [
-					"cover",
-					"lid",
-					"flap"
 				]
 			}
 		],
@@ -62667,59 +58275,6 @@
 				]
 			},
 			{
-				"kanji": "道",
-				"meanings": [
-					"road-way",
-					"street",
-					"district",
-					"journey",
-					"course",
-					"moral",
-					"teachings"
-				]
-			},
-			{
-				"kanji": "廻",
-				"meanings": [
-					"round",
-					"game",
-					"revolve",
-					"go around",
-					"circumference"
-				]
-			},
-			{
-				"kanji": "道",
-				"meanings": [
-					"road-way",
-					"street",
-					"district",
-					"journey",
-					"course",
-					"moral",
-					"teachings"
-				]
-			},
-			{
-				"kanji": "回",
-				"meanings": [
-					"-times",
-					"round",
-					"game",
-					"revolve",
-					"counter for occurrences"
-				]
-			},
-			{
-				"kanji": "路",
-				"meanings": [
-					"path",
-					"route",
-					"road",
-					"distance"
-				]
-			},
-			{
 				"kanji": "廻",
 				"meanings": [
 					"round",
@@ -62918,18 +58473,6 @@
 					"low",
 					"inferior"
 				]
-			},
-			{
-				"kanji": "見",
-				"meanings": [
-					"see",
-					"hopes",
-					"chances",
-					"idea",
-					"opinion",
-					"look at",
-					"visible"
-				]
 			}
 		],
 		"phrases": [
@@ -62997,18 +58540,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "見",
-				"meanings": [
-					"see",
-					"hopes",
-					"chances",
-					"idea",
-					"opinion",
-					"look at",
-					"visible"
-				]
-			},
 			{
 				"kanji": "見",
 				"meanings": [
@@ -63398,18 +58929,6 @@
 					"fix",
 					"repair"
 				]
-			},
-			{
-				"kanji": "見",
-				"meanings": [
-					"see",
-					"hopes",
-					"chances",
-					"idea",
-					"opinion",
-					"look at",
-					"visible"
-				]
 			}
 		],
 		"phrases": [
@@ -63503,35 +59022,11 @@
 				]
 			},
 			{
-				"kanji": "見",
-				"meanings": [
-					"see",
-					"hopes",
-					"chances",
-					"idea",
-					"opinion",
-					"look at",
-					"visible"
-				]
-			},
-			{
 				"kanji": "馴",
 				"meanings": [
 					"get used to",
 					"experienced",
 					"tamed"
-				]
-			},
-			{
-				"kanji": "見",
-				"meanings": [
-					"see",
-					"hopes",
-					"chances",
-					"idea",
-					"opinion",
-					"look at",
-					"visible"
 				]
 			}
 		],
@@ -63892,15 +59387,6 @@
 					"distinguished",
 					"reputation"
 				]
-			},
-			{
-				"kanji": "字",
-				"meanings": [
-					"character",
-					"letter",
-					"word",
-					"section of village"
-				]
 			}
 		],
 		"phrases": [
@@ -64212,32 +59698,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "蒸",
-				"meanings": [
-					"steam",
-					"heat",
-					"sultry",
-					"foment",
-					"get musty"
-				]
-			},
-			{
-				"kanji": "暑",
-				"meanings": [
-					"sultry",
-					"hot",
-					"summer heat"
-				]
-			},
-			{
-				"kanji": "暑",
-				"meanings": [
-					"sultry",
-					"hot",
-					"summer heat"
-				]
-			},
 			{
 				"kanji": "蒸",
 				"meanings": [
@@ -64684,15 +60144,6 @@
 				"meanings": [
 					"inscription",
 					"signature (of artisan)"
-				]
-			},
-			{
-				"kanji": "作",
-				"meanings": [
-					"make",
-					"production",
-					"prepare",
-					"build"
 				]
 			}
 		],
@@ -65416,18 +60867,6 @@
 				]
 			},
 			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
-				]
-			},
-			{
 				"kanji": "差",
 				"meanings": [
 					"distinction",
@@ -65436,18 +60875,6 @@
 					"discrepancy",
 					"margin",
 					"balance"
-				]
-			},
-			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
 				]
 			}
 		],
@@ -65550,40 +60977,6 @@
 					"remember",
 					"awake",
 					"sober up"
-				]
-			},
-			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
-				]
-			},
-			{
-				"kanji": "覚",
-				"meanings": [
-					"memorize",
-					"learn",
-					"remember",
-					"awake",
-					"sober up"
-				]
-			},
-			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
 				]
 			}
 		],
@@ -65772,18 +61165,6 @@
 				]
 			},
 			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
-				]
-			},
-			{
 				"kanji": "標",
 				"meanings": [
 					"signpost",
@@ -65797,18 +61178,6 @@
 					"evidence",
 					"souvenir",
 					"target"
-				]
-			},
-			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
 				]
 			}
 		],
@@ -65895,18 +61264,6 @@
 					"rise",
 					"set up",
 					"erect"
-				]
-			},
-			{
-				"kanji": "目",
-				"meanings": [
-					"eye",
-					"class",
-					"look",
-					"insight",
-					"experience",
-					"care",
-					"favor"
 				]
 			}
 		],
@@ -66078,24 +61435,6 @@
 				]
 			},
 			{
-				"kanji": "申",
-				"meanings": [
-					"have the honor to",
-					"sign of the monkey",
-					"3-5PM",
-					"ninth sign of Chinese zodiac"
-				]
-			},
-			{
-				"kanji": "訳",
-				"meanings": [
-					"translate",
-					"reason",
-					"circumstance",
-					"case"
-				]
-			},
-			{
 				"kanji": "無",
 				"meanings": [
 					"nothingness",
@@ -66104,15 +61443,6 @@
 					"nothing",
 					"nil",
 					"not"
-				]
-			},
-			{
-				"kanji": "申",
-				"meanings": [
-					"have the honor to",
-					"sign of the monkey",
-					"3-5PM",
-					"ninth sign of Chinese zodiac"
 				]
 			}
 		],
@@ -66335,46 +61665,6 @@
 				]
 			},
 			{
-				"kanji": "元",
-				"meanings": [
-					"beginning",
-					"former time",
-					"origin"
-				]
-			},
-			{
-				"kanji": "元",
-				"meanings": [
-					"beginning",
-					"former time",
-					"origin"
-				]
-			},
-			{
-				"kanji": "本",
-				"meanings": [
-					"book",
-					"present",
-					"main",
-					"origin",
-					"true",
-					"real",
-					"counter for long cylindrical things"
-				]
-			},
-			{
-				"kanji": "本",
-				"meanings": [
-					"book",
-					"present",
-					"main",
-					"origin",
-					"true",
-					"real",
-					"counter for long cylindrical things"
-				]
-			},
-			{
 				"kanji": "本",
 				"meanings": [
 					"book",
@@ -66453,27 +61743,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "置",
-				"meanings": [
-					"placement",
-					"put",
-					"set",
-					"deposit",
-					"leave behind",
-					"keep",
-					"employ",
-					"pawn"
-				]
-			},
 			{
 				"kanji": "物",
 				"meanings": [
@@ -66676,82 +61945,6 @@
 				]
 			},
 			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "指",
-				"meanings": [
-					"finger",
-					"point to",
-					"indicate",
-					"put into",
-					"play (chess)",
-					"measure (ruler)"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "指",
-				"meanings": [
-					"finger",
-					"point to",
-					"indicate",
-					"put into",
-					"play (chess)",
-					"measure (ruler)"
-				]
-			},
-			{
-				"kanji": "物",
-				"meanings": [
-					"thing",
-					"object",
-					"matter"
-				]
-			},
-			{
-				"kanji": "差",
-				"meanings": [
-					"distinction",
-					"difference",
-					"variation",
-					"discrepancy",
-					"margin",
-					"balance"
-				]
-			},
-			{
 				"kanji": "指",
 				"meanings": [
 					"finger",
@@ -66818,14 +62011,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "燃",
-				"meanings": [
-					"burn",
-					"blaze",
-					"glow"
-				]
-			},
 			{
 				"kanji": "燃",
 				"meanings": [
@@ -67380,21 +62565,6 @@
 					"fever",
 					"mania",
 					"passion"
-				]
-			},
-			{
-				"kanji": "傷",
-				"meanings": [
-					"wound",
-					"hurt",
-					"injure",
-					"impair",
-					"pain",
-					"injury",
-					"cut",
-					"gash",
-					"scar",
-					"weak point"
 				]
 			}
 		],
@@ -67974,21 +63144,6 @@
 					"set up",
 					"erect"
 				]
-			},
-			{
-				"kanji": "夕",
-				"meanings": [
-					"evening"
-				]
-			},
-			{
-				"kanji": "立",
-				"meanings": [
-					"stand up",
-					"rise",
-					"set up",
-					"erect"
-				]
 			}
 		],
 		"phrases": [
@@ -68065,24 +63220,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "悠",
-				"meanings": [
-					"permanence",
-					"distant",
-					"long time",
-					"leisure"
-				]
-			},
-			{
-				"kanji": "悠",
-				"meanings": [
-					"permanence",
-					"distant",
-					"long time",
-					"leisure"
-				]
-			},
 			{
 				"kanji": "悠",
 				"meanings": [
@@ -68931,17 +64068,6 @@
 					"spread",
 					"put up (tent)"
 				]
-			},
-			{
-				"kanji": "欲",
-				"meanings": [
-					"longing",
-					"covetousness",
-					"greed",
-					"passion",
-					"desire",
-					"craving"
-				]
 			}
 		],
 		"phrases": [
@@ -69101,36 +64227,6 @@
 					"banish",
 					"dispose of"
 				]
-			},
-			{
-				"kanji": "酔",
-				"meanings": [
-					"drunk",
-					"feel sick",
-					"poisoned",
-					"elated",
-					"spellbound"
-				]
-			},
-			{
-				"kanji": "酔",
-				"meanings": [
-					"drunk",
-					"feel sick",
-					"poisoned",
-					"elated",
-					"spellbound"
-				]
-			},
-			{
-				"kanji": "払",
-				"meanings": [
-					"pay",
-					"clear out",
-					"prune",
-					"banish",
-					"dispose of"
-				]
 			}
 		],
 		"phrases": [
@@ -69205,33 +64301,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "呼",
-				"meanings": [
-					"call",
-					"call out to",
-					"invite"
-				]
-			},
-			{
-				"kanji": "呼",
-				"meanings": [
-					"call",
-					"call out to",
-					"invite"
-				]
-			},
-			{
-				"kanji": "掛",
-				"meanings": [
-					"hang",
-					"suspend",
-					"depend",
-					"arrive at",
-					"tax",
-					"pour"
-				]
-			},
 			{
 				"kanji": "呼",
 				"meanings": [
@@ -69353,33 +64422,6 @@
 				]
 			},
 			{
-				"kanji": "呼",
-				"meanings": [
-					"call",
-					"call out to",
-					"invite"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
-				]
-			},
-			{
-				"kanji": "呼",
-				"meanings": [
-					"call",
-					"call out to",
-					"invite"
-				]
-			},
-			{
 				"kanji": "喚",
 				"meanings": [
 					"yell",
@@ -69387,17 +64429,6 @@
 					"call",
 					"scream",
 					"summon"
-				]
-			},
-			{
-				"kanji": "出",
-				"meanings": [
-					"exit",
-					"leave",
-					"go out",
-					"come out",
-					"put out",
-					"protrude"
 				]
 			}
 		],
@@ -69482,22 +64513,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "蘇",
-				"meanings": [
-					"be resuscitated",
-					"revived",
-					"perilla",
-					"shiso"
-				]
-			},
-			{
-				"kanji": "甦",
-				"meanings": [
-					"be resuscitated",
-					"revived"
-				]
-			},
 			{
 				"kanji": "蘇",
 				"meanings": [
@@ -69710,18 +64725,6 @@
 					"disorder",
 					"riot",
 					"disturb"
-				]
-			},
-			{
-				"kanji": "暴",
-				"meanings": [
-					"outburst",
-					"rave",
-					"fret",
-					"force",
-					"violence",
-					"cruelty",
-					"outrage"
 				]
 			}
 		],
@@ -70270,31 +65273,6 @@
 					"turn",
 					"number in a series"
 				]
-			},
-			{
-				"kanji": "番",
-				"meanings": [
-					"turn",
-					"number in a series"
-				]
-			},
-			{
-				"kanji": "留",
-				"meanings": [
-					"detain",
-					"fasten",
-					"halt",
-					"stop"
-				]
-			},
-			{
-				"kanji": "守",
-				"meanings": [
-					"guard",
-					"protect",
-					"defend",
-					"obey"
-				]
 			}
 		],
 		"phrases": [
@@ -70682,24 +65660,6 @@
 					"arena",
 					"theater"
 				]
-			},
-			{
-				"kanji": "分",
-				"meanings": [
-					"part",
-					"minute of time",
-					"segment",
-					"share",
-					"degree",
-					"one's lot",
-					"duty",
-					"understand",
-					"know",
-					"rate",
-					"1%",
-					"chances",
-					"shaku/100"
-				]
 			}
 		],
 		"phrases": [
@@ -70763,28 +65723,6 @@
 			}
 		],
 		"kanji": [
-			{
-				"kanji": "若",
-				"meanings": [
-					"young",
-					"if",
-					"perhaps",
-					"possibly",
-					"low number",
-					"immature"
-				]
-			},
-			{
-				"kanji": "若",
-				"meanings": [
-					"young",
-					"if",
-					"perhaps",
-					"possibly",
-					"low number",
-					"immature"
-				]
-			},
 			{
 				"kanji": "若",
 				"meanings": [
