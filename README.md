@@ -46,8 +46,8 @@
 - **7,096 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **799 common kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
-- **41,968 common words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **799 extra kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
+- **41,968 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 
