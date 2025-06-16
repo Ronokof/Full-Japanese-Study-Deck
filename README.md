@@ -35,9 +35,11 @@
 ### **JLPT** (intended for learning through spaced repetition)
 - **Vocabulary:** 7,264 words with audio, spanning **N5 to N1**.
 - **Kanji:** 2,118 kanji categorized by JLPT level.
+- Source: [Takoboto's lists](https://takoboto.jp/lists/study)
 
 ### **Grammar** (intended for learning through spaced repetition & reference material)
 - **644 grammar points**, organized by JLPT level, with additional non-JLPT ones.
+- Source: [JGram](https://jgram.org/)
 
 ### **Kanji Radicals** (reference material)
 - **261 common radicals**, foundational for kanji recognition.
