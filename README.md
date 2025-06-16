@@ -43,6 +43,7 @@
 
 ### **Kanji Radicals** (reference material)
 - **261 common radicals**, foundational for kanji recognition.
+- Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
 - **7,096 common words** written entirely in kana.
