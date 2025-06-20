@@ -59,7 +59,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_b0c55b4c-2a27-4900-b04b-ec3e94fe606d"
+		"noteID": "kanji_唖"
 	},
 	{
 		"kanji": "挨",
@@ -124,7 +124,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_3c1a0abc-cd78-438b-a910-f6542f881662",
+		"noteID": "kanji_挨",
 		"components": [
 			{
 				"component": "扌",
@@ -210,7 +210,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_e509c197-672b-4975-b74f-685d5590227a",
+		"noteID": "kanji_逢",
 		"components": [
 			{
 				"component": "夂",
@@ -266,7 +266,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_56a9be6e-3a47-4f4e-8ecd-5b16b04b15ca",
+		"noteID": "kanji_穐",
 		"components": [
 			{
 				"component": "禾",
@@ -350,7 +350,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_03f05bb3-ddc0-48bb-bdf3-d357def52389"
+		"noteID": "kanji_葦"
 	},
 	{
 		"kanji": "鯵",
@@ -411,7 +411,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_fa88f7b0-f114-4911-8ffb-34a5f9fd12b7",
+		"noteID": "kanji_鯵",
 		"components": [
 			{
 				"component": "魚",
@@ -489,7 +489,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_6ed8900b-6681-423f-8f2f-c161e056be39",
+		"noteID": "kanji_斡",
 		"components": [
 			{
 				"component": "十",
@@ -576,7 +576,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_c7c6a697-e1f6-4ed9-a3e0-0db29cad5f2a",
+		"noteID": "kanji_宛",
 		"components": [
 			{
 				"component": "宀",
@@ -657,7 +657,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_a7d23b82-7acd-4411-96c9-5701aa395f9a",
+		"noteID": "kanji_姐",
 		"components": [
 			{
 				"component": "女",
@@ -737,7 +737,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_64201438-0e28-4510-b38f-1473a20bd00d"
+		"noteID": "kanji_虻"
 	},
 	{
 		"kanji": "飴",
@@ -801,7 +801,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_768199e3-80ac-49b6-aa5d-07bd6ee4484b",
+		"noteID": "kanji_飴",
 		"components": [
 			{
 				"component": "飠",
@@ -882,7 +882,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_a617aa49-4758-44e8-ab82-22d2b9f47725",
+		"noteID": "kanji_或",
 		"mnemonic": "I'm looking for a certain dagger-axe, there's only one like it, with a picture of a mouth on it.",
 		"components": [
 			{
@@ -968,7 +968,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_fe46cd33-39ad-47a5-a03b-fe1efffe8e3c"
+		"noteID": "kanji_粟"
 	},
 	{
 		"kanji": "庵",
@@ -1041,7 +1041,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_94e3fa02-5b3a-49fd-8ccf-16730f89a8f8",
+		"noteID": "kanji_庵",
 		"components": [
 			{
 				"component": "广",
@@ -1125,7 +1125,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_555ca7bf-a8ec-4a37-aa27-e519171d88a3",
+		"noteID": "kanji_按",
 		"components": [
 			{
 				"component": "扌",
@@ -1203,7 +1203,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_1e53960e-fce2-44c1-ba36-d17e8a6a185b",
+		"noteID": "kanji_暗",
 		"components": [
 			{
 				"component": "日",
@@ -1279,7 +1279,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_a61f7e22-b439-4d75-9605-80bf6158109d",
+		"noteID": "kanji_闇",
 		"components": [
 			{
 				"component": "門",
@@ -1352,7 +1352,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_03953499-9c6d-405e-812a-f421e8d53d97"
+		"noteID": "kanji_鞍"
 	},
 	{
 		"kanji": "偉",
@@ -1422,7 +1422,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_3532f8c2-b8ed-45d6-9c0b-9a1280c4dc6c",
+		"noteID": "kanji_偉",
 		"components": [
 			{
 				"component": "亻",
@@ -1504,7 +1504,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_8c60528a-0156-41d6-9b2e-eb2140d8d46a",
+		"noteID": "kanji_夷",
 		"components": [
 			{
 				"component": "大",
@@ -1573,7 +1573,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_85adce1b-b4dc-4f71-9c02-d1634d309f8f",
+		"noteID": "kanji_椅",
 		"components": [
 			{
 				"component": "木",
@@ -1655,7 +1655,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_b73cbc88-ff86-4548-85dc-73cf0c88d675",
+		"noteID": "kanji_畏",
 		"components": [
 			{
 				"component": "田",
@@ -1744,7 +1744,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_5f5eca40-8515-4c58-b148-f10c25a386de",
+		"noteID": "kanji_萎",
 		"components": [
 			{
 				"component": "艹",
@@ -1825,7 +1825,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_5d4dcbd6-8925-4866-af5b-e3c2ce64b98d",
+		"noteID": "kanji_謂",
 		"components": [
 			{
 				"component": "言",
@@ -1903,7 +1903,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_0993187b-7c10-47de-9e2f-8883e15d7a1d",
+		"noteID": "kanji_違",
 		"mnemonic": "Imagine instead of using asphalt to pave a road you'd use tanned leather. That would be very different, wouldn't it? It would also be totally wrong!",
 		"components": [
 			{
@@ -1985,7 +1985,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_88895fb7-7bde-4042-98f7-b6c51ef06fab",
+		"noteID": "kanji_溢",
 		"components": [
 			{
 				"component": "氵",
@@ -2068,7 +2068,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_4c484dda-35c8-4b69-8b00-7753c2d538b8"
+		"noteID": "kanji_茨"
 	},
 	{
 		"kanji": "鰯",
@@ -2129,7 +2129,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_84bda7d3-632e-4847-8cfb-8c290c6a115d",
+		"noteID": "kanji_鰯",
 		"components": [
 			{
 				"component": "魚",
@@ -2210,7 +2210,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_1d7722f7-9b90-49f5-ba89-614164946303",
+		"noteID": "kanji_咽",
 		"components": [
 			{
 				"component": "口",
@@ -2287,7 +2287,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_ce23e568-57cd-49d7-8957-3e274da2e3ce"
+		"noteID": "kanji_淫"
 	},
 	{
 		"kanji": "蔭",
@@ -2352,7 +2352,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_1a854f74-9ac0-455b-bbdf-eb690de40d20",
+		"noteID": "kanji_蔭",
 		"mnemonic": "The unseen location at the bottom is shaded by the grass that is on the top.",
 		"components": [
 			{
@@ -2436,7 +2436,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_1926cadb-4fab-47ca-b7eb-e3eedab761c6",
+		"noteID": "kanji_吋",
 		"components": [
 			{
 				"component": "口",
@@ -2517,7 +2517,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_230f3946-fff8-4eb2-8786-52516a8655e0",
+		"noteID": "kanji_烏",
 		"components": [
 			{
 				"component": "丶",
@@ -2600,7 +2600,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_85e86912-0f56-4eb2-a78b-abb72abfb950",
+		"noteID": "kanji_迂",
 		"components": [
 			{
 				"component": "于",
@@ -2672,7 +2672,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_923e37ba-26e9-48a3-833f-f74c1a2522ab"
+		"noteID": "kanji_鵜"
 	},
 	{
 		"kanji": "窺",
@@ -2740,7 +2740,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_413476d3-1b41-4555-8e52-fd125f4bd429",
+		"noteID": "kanji_窺",
 		"components": [
 			{
 				"component": "穴",
@@ -2818,7 +2818,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_d2640b1c-d2c8-4ad8-96b4-61b6ba02fb78",
+		"noteID": "kanji_碓",
 		"components": [
 			{
 				"component": "石",
@@ -2891,7 +2891,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_6d4887e2-41a1-4ea0-8c93-78dd6c1e4c0a"
+		"noteID": "kanji_臼"
 	},
 	{
 		"kanji": "嘘",
@@ -2956,7 +2956,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_29f2456f-7b21-4864-9e36-d9bfd926a7b0",
+		"noteID": "kanji_嘘",
 		"components": [
 			{
 				"component": "口",
@@ -3041,7 +3041,7 @@
 			"has::words",
 			"strokes::26"
 		],
-		"noteID": "kanji_031605d5-e14c-4301-9f98-912aacef8a11",
+		"noteID": "kanji_欝",
 		"components": [
 			{
 				"component": "木",
@@ -3134,7 +3134,7 @@
 			"has::words",
 			"strokes::22"
 		],
-		"noteID": "kanji_e6d55d35-0b44-45e5-9a65-aa30c396591a",
+		"noteID": "kanji_鰻",
 		"components": [
 			{
 				"component": "魚",
@@ -3206,7 +3206,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_e3b9d575-00c3-43ca-a6a3-f806ff78a28f"
+		"noteID": "kanji_姥"
 	},
 	{
 		"kanji": "厩",
@@ -3272,7 +3272,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_d57e22b1-4974-4d64-9c86-192e2a0d519d"
+		"noteID": "kanji_厩"
 	},
 	{
 		"kanji": "瓜",
@@ -3347,7 +3347,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_140911a5-eb44-4c9f-9cf0-737b5b72b379",
+		"noteID": "kanji_瓜",
 		"components": [
 			{
 				"component": "𠂆",
@@ -3426,7 +3426,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_d620d1e5-e98f-4923-8d53-7b40ec10e411"
+		"noteID": "kanji_閏"
 	},
 	{
 		"kanji": "噂",
@@ -3491,7 +3491,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_c3ea654f-46ee-405a-985d-845c37f0e6fe",
+		"noteID": "kanji_噂",
 		"components": [
 			{
 				"component": "口",
@@ -3564,7 +3564,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_82a69edf-4e8d-40a6-97ab-d2937f859af3",
+		"noteID": "kanji_云",
 		"mnemonic": "What are the two most famous lines of the famous bodybuilder Arnold Schwarzenegger that are still widely quoted today?\n\"I’ll be back!\"\n\"Hasta la vista, baby!\"\n(If you haven't watched the two first Terminator movies — what the hell are you doing with your life? Go. Watch them. Now. I'll wait.)",
 		"components": [
 			{
@@ -3643,7 +3643,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_69784254-5748-49ab-b51c-c80bc5f41774",
+		"noteID": "kanji_餌",
 		"components": [
 			{
 				"component": "飠",
@@ -3725,7 +3725,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_cecd8632-dfc0-497d-baab-3d73b4c8e7dd",
+		"noteID": "kanji_洩",
 		"components": [
 			{
 				"component": "氵",
@@ -3809,7 +3809,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_e6180147-4679-4522-9699-f02184d0283b",
+		"noteID": "kanji_盈",
 		"components": [
 			{
 				"component": "乃",
@@ -3889,7 +3889,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_56ae69a1-c620-41d5-9b24-6cc80423cd34"
+		"noteID": "kanji_穎"
 	},
 	{
 		"kanji": "越",
@@ -3976,7 +3976,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_3906136d-63cc-4324-9802-51ccee5736d6",
+		"noteID": "kanji_越",
 		"components": [
 			{
 				"component": "戉",
@@ -4081,7 +4081,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_4c66a930-5600-4049-ab4a-281b3486ac4d"
+		"noteID": "kanji_榎"
 	},
 	{
 		"kanji": "厭",
@@ -4155,7 +4155,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_67c26054-5823-404f-a305-b3476ef378bb",
+		"noteID": "kanji_厭",
 		"components": [
 			{
 				"component": "厂",
@@ -4241,7 +4241,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_b6f569f8-c7f0-4070-9520-03ca5fb2a50e"
+		"noteID": "kanji_堰"
 	},
 	{
 		"kanji": "怨",
@@ -4307,7 +4307,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_595118cb-aedc-4069-aa3c-f72644d2d790",
+		"noteID": "kanji_怨",
 		"components": [
 			{
 				"component": "夕",
@@ -4383,7 +4383,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_8a65e812-cfe4-4aaa-8eb3-dd197f29c93c",
+		"noteID": "kanji_掩",
 		"components": [
 			{
 				"component": "扌",
@@ -4468,7 +4468,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_a763298c-6557-4164-b1c2-a90126735f60",
+		"noteID": "kanji_煙",
 		"components": [
 			{
 				"component": "火",
@@ -4547,7 +4547,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_ccbe2d69-1fda-47d6-b3e4-315ba26e0e4c",
+		"noteID": "kanji_燕",
 		"components": [
 			{
 				"component": "廿",
@@ -4649,7 +4649,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_0766128d-3fdb-4f58-9178-e2e3e7d7d6f1",
+		"noteID": "kanji_押",
 		"components": [
 			{
 				"component": "扌",
@@ -4722,7 +4722,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_95c356cb-6f49-4f8b-b0ef-75c00e729d93",
+		"noteID": "kanji_鴬",
 		"components": [
 			{
 				"component": "𭕄",
@@ -4802,7 +4802,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_f3f736ef-4170-4a66-824c-9746db83f1c0"
+		"noteID": "kanji_鴎"
 	},
 	{
 		"kanji": "岡",
@@ -4864,7 +4864,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_18cdcc72-239e-4a1e-ba43-0379ae4c2508",
+		"noteID": "kanji_岡",
 		"components": [
 			{
 				"component": "冂",
@@ -4940,7 +4940,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_2f960495-30e7-4769-b851-d5f89122dff8",
+		"noteID": "kanji_荻",
 		"components": [
 			{
 				"component": "艹",
@@ -5020,7 +5020,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_5d5665be-fdb0-472a-a876-837cece5422a",
+		"noteID": "kanji_臆",
 		"components": [
 			{
 				"component": "月",
@@ -5093,7 +5093,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_e14a9650-bcab-4493-b79d-e1901bb3fb72",
+		"noteID": "kanji_桶",
 		"components": [
 			{
 				"component": "木",
@@ -5169,7 +5169,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_2aec5719-b14c-4b11-8b1e-179a852b9c80",
+		"noteID": "kanji_牡",
 		"components": [
 			{
 				"component": "牛",
@@ -5253,7 +5253,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_9a027f80-b290-4ee2-82da-2a3d4450a5be",
+		"noteID": "kanji_俺",
 		"mnemonic": "We have a feeble thin person trying to forcibly shove an umbrella handle where the sun doesn't shine (or in other words — in the ass) of another large, burly man. Now that's manly for such a weakling to attempt such a thing! Wow!",
 		"components": [
 			{
@@ -5342,7 +5342,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_f092a598-9d64-4034-8194-892ae1219def",
+		"noteID": "kanji_苛",
 		"components": [
 			{
 				"component": "艹",
@@ -5423,7 +5423,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_e3b28c08-3869-4fe8-8aae-fe51e7ab5fc0",
+		"noteID": "kanji_蝦",
 		"components": [
 			{
 				"component": "虫",
@@ -5498,7 +5498,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_7cd03ee1-615d-4a80-903c-e6b295cc89cd",
+		"noteID": "kanji_嘩",
 		"mnemonic": "This flashy flower has a mouth and will quarrel with literally everything.",
 		"components": [
 			{
@@ -5569,7 +5569,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_4cffce59-c927-4950-ad57-fa50850d764f",
+		"noteID": "kanji_迦",
 		"components": [
 			{
 				"component": "加",
@@ -5643,7 +5643,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_4037a14f-18a3-49f7-8140-9a130ec8a6da",
+		"noteID": "kanji_俄",
 		"components": [
 			{
 				"component": "亻",
@@ -5718,7 +5718,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_2331deac-f9ec-4db9-9c2b-03826948a725",
+		"noteID": "kanji_峨",
 		"components": [
 			{
 				"component": "山",
@@ -5803,7 +5803,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_5e1f4938-0c9d-49ae-bd09-12f1719afdf3"
+		"noteID": "kanji_牙"
 	},
 	{
 		"kanji": "臥",
@@ -5877,7 +5877,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_65511059-b277-491a-b5e0-d08e0bd62dee",
+		"noteID": "kanji_臥",
 		"components": [
 			{
 				"component": "臣",
@@ -5950,7 +5950,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_22d055e3-807b-439a-b53d-ec86a835f3f3"
+		"noteID": "kanji_蛾"
 	},
 	{
 		"kanji": "廻",
@@ -6026,7 +6026,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_1a1d7070-3d16-46e0-8c68-e79ae0ee1872",
+		"noteID": "kanji_廻",
 		"components": [
 			{
 				"component": "回",
@@ -6124,7 +6124,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_c1bd4a2d-776c-4920-9b44-320acde71c66",
+		"noteID": "kanji_恢",
 		"components": [
 			{
 				"component": "忄",
@@ -6206,7 +6206,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_bc5286d9-96d4-457d-bbbd-20ac0adca6ee",
+		"noteID": "kanji_晦",
 		"components": [
 			{
 				"component": "日",
@@ -6288,7 +6288,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_ba293528-fb86-43c3-b8ca-2c6f847854e0",
+		"noteID": "kanji_皆",
 		"mnemonic": "If you compare white things under a microscope, you'll see that they're all actually quite different.",
 		"components": [
 			{
@@ -6369,7 +6369,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_1c652a1c-03ac-40be-8a36-27ab67657937"
+		"noteID": "kanji_芥"
 	},
 	{
 		"kanji": "蟹",
@@ -6431,7 +6431,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_57f14099-ae1a-4d63-9bf9-fc812e00c346",
+		"noteID": "kanji_蟹",
 		"components": [
 			{
 				"component": "解",
@@ -6509,7 +6509,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_aeda5534-fae0-4862-a0a8-07c9fa22cb4c",
+		"noteID": "kanji_咳",
 		"components": [
 			{
 				"component": "口",
@@ -6586,7 +6586,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_ccf81fb5-b14c-4153-933b-a2944a81dafc",
+		"noteID": "kanji_崖",
 		"components": [
 			{
 				"component": "山",
@@ -6663,7 +6663,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_bbd31480-8504-4ea1-b6c1-49bbbb0f0091",
+		"noteID": "kanji_碍",
 		"components": [
 			{
 				"component": "石",
@@ -6746,7 +6746,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_c2be5218-1789-49b1-96b3-629014e44331",
+		"noteID": "kanji_蓋",
 		"components": [
 			{
 				"component": "艹",
@@ -6824,7 +6824,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_66a90623-65e2-4665-9ef6-6eae097f7027"
+		"noteID": "kanji_鎧"
 	},
 	{
 		"kanji": "骸",
@@ -6887,7 +6887,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_d375612a-764e-4f66-9e06-a5b333e2b9a7",
+		"noteID": "kanji_骸",
 		"components": [
 			{
 				"component": "骨",
@@ -6964,7 +6964,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_b1c484aa-9078-4c92-834d-672aa1fd0bb1",
+		"noteID": "kanji_浬",
 		"components": [
 			{
 				"component": "氵",
@@ -7039,7 +7039,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_fcd471ff-d01a-4a5f-9407-217b8ecbd648",
+		"noteID": "kanji_蛙",
 		"components": [
 			{
 				"component": "虫",
@@ -7110,7 +7110,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_1647e385-567c-4921-9f7d-98eb542feb54",
+		"noteID": "kanji_柿",
 		"components": [
 			{
 				"component": "木",
@@ -7185,7 +7185,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_fa7f1cee-ca4d-42ba-a60b-46ee64a82ab8",
+		"noteID": "kanji_鈎",
 		"components": [
 			{
 				"component": "金",
@@ -7288,7 +7288,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_d708729f-a3ad-4c04-8a5f-192344f9b8d4",
+		"noteID": "kanji_廓",
 		"components": [
 			{
 				"component": "广",
@@ -7367,7 +7367,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_a7e14f54-de71-4aed-b25e-33a18f4ca2bb",
+		"noteID": "kanji_赫",
 		"components": [
 			{
 				"component": "赤",
@@ -7444,7 +7444,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_21fd8531-97d3-4cf8-bd09-d3089e811a8b"
+		"noteID": "kanji_顎"
 	},
 	{
 		"kanji": "掛",
@@ -7527,7 +7527,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_57d98d1c-f535-45f8-bb80-a59a0a8da615",
+		"noteID": "kanji_掛",
 		"components": [
 			{
 				"component": "扌",
@@ -7603,7 +7603,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_8f47783b-4f8f-4333-bfdd-5089174fffe5",
+		"noteID": "kanji_笠",
 		"components": [
 			{
 				"component": "竹",
@@ -7677,7 +7677,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_528d3fe8-7f3b-4fc6-8611-46cd9bfa90ad"
+		"noteID": "kanji_樫"
 	},
 	{
 		"kanji": "梶",
@@ -7740,7 +7740,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_66d5d732-0415-498d-80ef-44a7cc20bd4f",
+		"noteID": "kanji_梶",
 		"components": [
 			{
 				"component": "木",
@@ -7820,7 +7820,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_fffaade3-1e72-4614-a233-7bb370c36646",
+		"noteID": "kanji_割",
 		"mnemonic": "If you want to divide something you can use a knife but you'll harm it in the process.",
 		"components": [
 			{
@@ -7905,7 +7905,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_5251090c-84da-4d47-b99b-d37d9ccbd191",
+		"noteID": "kanji_葛",
 		"components": [
 			{
 				"component": "艹",
@@ -7986,7 +7986,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_307c50d4-8578-4e1e-9f5a-9d033d5159d5"
+		"noteID": "kanji_鰹"
 	},
 	{
 		"kanji": "鞄",
@@ -8051,7 +8051,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_0ddc80a4-f7e9-4178-a946-6f4fa51704eb"
+		"noteID": "kanji_鞄"
 	},
 	{
 		"kanji": "兜",
@@ -8113,7 +8113,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_ecf45ea0-6dd8-4847-bd57-ddfce630d3d1",
+		"noteID": "kanji_兜",
 		"mnemonic": "A pictograph of white matter (also commonly called \"a brain\") protected by a helmet from both sides, with legs so that it can walk.",
 		"components": [
 			{
@@ -8200,7 +8200,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_b43566df-5220-4bbd-8cc5-93ecf63b1333",
+		"noteID": "kanji_竃",
 		"components": [
 			{
 				"component": "穴",
@@ -8293,7 +8293,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_55c481e7-786a-4a29-b6af-2eee013b9f4c"
+		"noteID": "kanji_蒲"
 	},
 	{
 		"kanji": "釜",
@@ -8355,7 +8355,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_e5fe21ab-85cb-486d-a9a1-5609f05c017c",
+		"noteID": "kanji_釜",
 		"components": [
 			{
 				"component": "父",
@@ -8436,7 +8436,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_a8e747da-361f-4482-8ea4-ccea3f49722c",
+		"noteID": "kanji_噛",
 		"components": [
 			{
 				"component": "口",
@@ -8514,7 +8514,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_413f404d-b7ab-4cd4-9ee8-3c2358c93a54",
+		"noteID": "kanji_鴨",
 		"components": [
 			{
 				"component": "甲",
@@ -8589,7 +8589,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_6325709d-4593-47ec-ac31-01ae46ca83bd",
+		"noteID": "kanji_粥",
 		"components": [
 			{
 				"component": "弓",
@@ -8675,7 +8675,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_c0899266-1d73-4251-bc8d-880b7f78c54c"
+		"noteID": "kanji_瓦"
 	},
 	{
 		"kanji": "姦",
@@ -8745,7 +8745,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_e65fa694-d5f0-4de6-943f-415c25177204",
+		"noteID": "kanji_姦",
 		"components": [
 			{
 				"component": "女",
@@ -8821,7 +8821,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_22cccc8f-2de6-4502-8aa9-fb0381ac41ef",
+		"noteID": "kanji_柑",
 		"components": [
 			{
 				"component": "木",
@@ -8900,7 +8900,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_24486639-6796-4653-8bf0-4bb8e10050d5",
+		"noteID": "kanji_潅",
 		"components": [
 			{
 				"component": "氵",
@@ -9003,7 +9003,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_df3c055b-0298-4348-a618-2d12b566d341",
+		"noteID": "kanji_諌",
 		"components": [
 			{
 				"component": "言",
@@ -9077,7 +9077,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_5e44e190-86d5-482f-9377-78775e004cae",
+		"noteID": "kanji_韓",
 		"components": [
 			{
 				"component": "十",
@@ -9162,7 +9162,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_fd2678af-d175-4477-ba6d-eac8b5bf2275",
+		"noteID": "kanji_玩",
 		"components": [
 			{
 				"component": "王",
@@ -9233,7 +9233,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_042fa423-91a2-4707-a369-3bcaacc146c2",
+		"noteID": "kanji_癌",
 		"components": [
 			{
 				"component": "疒",
@@ -9311,7 +9311,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_6c091f32-b52b-433e-80f1-119ebf4c3a2e",
+		"noteID": "kanji_贋",
 		"components": [
 			{
 				"component": "雁",
@@ -9385,7 +9385,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_e6e63d40-1f29-445a-b7ae-bf2dd9675807",
+		"noteID": "kanji_雁",
 		"components": [
 			{
 				"component": "厂",
@@ -9465,7 +9465,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_5708c4a3-00ec-494b-8ffe-a7bb71c760fa",
+		"noteID": "kanji_危",
 		"components": [
 			{
 				"component": "𠂊",
@@ -9559,7 +9559,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_a791d81c-4f0b-489b-a4b1-6fab71bbcf4f",
+		"noteID": "kanji_幾",
 		"mnemonic": "How many thread spools can be simultaneously cut by one person holding a dagger-axe over his head? Apparently only two.",
 		"components": [
 			{
@@ -9642,7 +9642,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_b3276535-0c96-4fa3-9e45-938e0677ce13",
+		"noteID": "kanji_畿",
 		"components": [
 			{
 				"component": "戈",
@@ -9746,7 +9746,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_e50c6b59-1e65-4af9-bd84-7786ff99d507",
+		"noteID": "kanji_徽",
 		"components": [
 			{
 				"component": "彳",
@@ -9834,7 +9834,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_3c9b3555-aab5-4292-9ce3-a5b66ff6dc8e"
+		"noteID": "kanji_妓"
 	},
 	{
 		"kanji": "疑",
@@ -9901,7 +9901,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_af114074-2301-45ff-a645-a42c4e1574ca",
+		"noteID": "kanji_疑",
 		"components": [
 			{
 				"component": "匕",
@@ -9983,7 +9983,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_6629cbcc-4520-4296-83c7-f6561dbcf0ec",
+		"noteID": "kanji_蟻",
 		"components": [
 			{
 				"component": "虫",
@@ -10060,7 +10060,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_d63df7f4-bdbc-4130-9671-442de1ac66bb",
+		"noteID": "kanji_掬",
 		"components": [
 			{
 				"component": "扌",
@@ -10144,7 +10144,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_c17e4f5d-c0fc-4f2a-a69c-6e589661a3fb",
+		"noteID": "kanji_吃",
 		"components": [
 			{
 				"component": "口",
@@ -10242,7 +10242,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_02be46da-7dda-4af3-8494-ee20da94a42f"
+		"noteID": "kanji_砧"
 	},
 	{
 		"kanji": "杵",
@@ -10307,7 +10307,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_a88969f5-8d1e-4a2b-bce1-29690076183d"
+		"noteID": "kanji_杵"
 	},
 	{
 		"kanji": "黍",
@@ -10372,7 +10372,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_6620a091-271a-4360-9f5a-dc42cc3b2f3f"
+		"noteID": "kanji_黍"
 	},
 	{
 		"kanji": "仇",
@@ -10442,7 +10442,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_a3394fb9-efa8-4bbe-ad27-4c11ce3aa9b7",
+		"noteID": "kanji_仇",
 		"components": [
 			{
 				"component": "亻",
@@ -10518,7 +10518,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_51dda2f8-43a0-4de5-858c-e52ea3a3b5f4",
+		"noteID": "kanji_吸",
 		"components": [
 			{
 				"component": "口",
@@ -10598,7 +10598,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_a6131e43-9777-4aeb-909d-4cec8e172bf3",
+		"noteID": "kanji_汲",
 		"components": [
 			{
 				"component": "氵",
@@ -10671,7 +10671,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_2f4b0a4a-9bc8-4cb3-8154-25a87c9f75ef",
+		"noteID": "kanji_灸",
 		"components": [
 			{
 				"component": "久",
@@ -10744,7 +10744,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_703a1de6-5f64-4035-8156-624204dc4e98"
+		"noteID": "kanji_笈"
 	},
 	{
 		"kanji": "鋸",
@@ -10808,7 +10808,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_b79f6fc9-cd1d-4910-bcc8-228d50455b74",
+		"noteID": "kanji_鋸",
 		"components": [
 			{
 				"component": "金",
@@ -10892,7 +10892,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_0587f1fc-2824-4f1d-8f10-f5bf6b57d3d0",
+		"noteID": "kanji_禦",
 		"components": [
 			{
 				"component": "御",
@@ -10975,7 +10975,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_18ac47d5-1efa-4869-9472-0a8b0decd5d8",
+		"noteID": "kanji_供",
 		"components": [
 			{
 				"component": "亻",
@@ -11048,7 +11048,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_41d2cad0-0f27-4556-9278-79afbb81c69c"
+		"noteID": "kanji_侠"
 	},
 	{
 		"kanji": "兇",
@@ -11113,7 +11113,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_84c18ae2-47d9-4b28-8091-b9191844b665",
+		"noteID": "kanji_兇",
 		"components": [
 			{
 				"component": "凶",
@@ -11191,7 +11191,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_97cc9dc4-006d-4b7d-a284-d0b65a02b6c9",
+		"noteID": "kanji_卿",
 		"components": [
 			{
 				"component": "卯",
@@ -11278,7 +11278,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_60ccdd64-26c7-42bd-b7b9-f814bf51f487",
+		"noteID": "kanji_怯",
 		"components": [
 			{
 				"component": "忄",
@@ -11357,7 +11357,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_5c4743d1-3a0f-4f9c-aa9a-fbbbe6dd22bb",
+		"noteID": "kanji_恐",
 		"mnemonic": "Walking into a building of mediocre construction quality will put fear into your heart. You never know when it'll collapse and crush you with it.",
 		"components": [
 			{
@@ -11438,7 +11438,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_4708d9d0-da48-4ee1-b9cc-5b141d1170cc",
+		"noteID": "kanji_蕎",
 		"mnemonic": "Buckwheat is mostly just grass which is really tall.",
 		"components": [
 			{
@@ -11518,7 +11518,7 @@
 			"has::words",
 			"strokes::22"
 		],
-		"noteID": "kanji_b7348ad2-3e77-49f4-98cb-a5465210a8dd"
+		"noteID": "kanji_饗"
 	},
 	{
 		"kanji": "粁",
@@ -11585,7 +11585,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_37c505f4-914d-4175-ab95-69bd5c12d22b",
+		"noteID": "kanji_粁",
 		"components": [
 			{
 				"component": "米",
@@ -11659,7 +11659,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_3798f66e-5922-4c04-bc4e-211be9d75932",
+		"noteID": "kanji_僅",
 		"components": [
 			{
 				"component": "亻",
@@ -11746,7 +11746,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_46aaa384-d928-42da-b25b-8f0fdbeee5de",
+		"noteID": "kanji_勤",
 		"components": [
 			{
 				"component": "艹",
@@ -11835,7 +11835,7 @@
 			"has::words",
 			"strokes::3"
 		],
-		"noteID": "kanji_c5111478-ae2c-4c4c-a9f5-11411405c3e0",
+		"noteID": "kanji_巾",
 		"mnemonic": "A pictograph of a piece of fabric punctured by a stick.",
 		"components": [
 			{
@@ -11917,7 +11917,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_f88edc1b-40b7-40e0-bbe8-e2a780bf96a4",
+		"noteID": "kanji_倶",
 		"components": [
 			{
 				"component": "亻",
@@ -11991,7 +11991,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_e53b5cb2-47aa-450f-9cd2-e5815f9d9b1f",
+		"noteID": "kanji_狗",
 		"components": [
 			{
 				"component": "犭",
@@ -12073,7 +12073,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_1d576831-3cad-4c86-bc67-3d88077d573b"
+		"noteID": "kanji_矩"
 	},
 	{
 		"kanji": "躯",
@@ -12137,7 +12137,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_4f07bfd1-13d4-4f16-b1ac-54a786aa3e38"
+		"noteID": "kanji_躯"
 	},
 	{
 		"kanji": "喰",
@@ -12207,7 +12207,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_34db031d-fc6a-4871-873f-675e39666f67",
+		"noteID": "kanji_喰",
 		"components": [
 			{
 				"component": "口",
@@ -12285,7 +12285,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_94d04784-97d8-4e39-b524-44809ab122ca",
+		"noteID": "kanji_偶",
 		"mnemonic": "Occasionally even a long-tailed monkey looks like a person. If you look from far away. And it's dark. And you've lost your glasses in a ditch.",
 		"components": [
 			{
@@ -12368,7 +12368,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_6b53196d-d30b-4e38-8496-846b1d1710db",
+		"noteID": "kanji_寓",
 		"components": [
 			{
 				"component": "宀",
@@ -12445,7 +12445,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_c5d3f2b8-b71e-464e-8a03-297b91112f6f",
+		"noteID": "kanji_串",
 		"components": [
 			{
 				"component": "口",
@@ -12527,7 +12527,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_10304471-df16-4b23-827b-73aa78c20562",
+		"noteID": "kanji_屑",
 		"components": [
 			{
 				"component": "尸",
@@ -12601,7 +12601,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_c5c43dd3-ca42-409b-b857-7d8de619d480",
+		"noteID": "kanji_窟",
 		"components": [
 			{
 				"component": "穴",
@@ -12674,7 +12674,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_6ffa5009-6c86-4700-ad20-aec2a2cc878d",
+		"noteID": "kanji_沓",
 		"components": [
 			{
 				"component": "水",
@@ -12746,7 +12746,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_aa251219-af2b-4257-93de-7a7d1e135c6e"
+		"noteID": "kanji_靴"
 	},
 	{
 		"kanji": "窪",
@@ -12817,7 +12817,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_ac908092-6e78-4096-93d8-cce72ed97d28",
+		"noteID": "kanji_窪",
 		"components": [
 			{
 				"component": "穴",
@@ -12898,7 +12898,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_80d96927-458c-41bc-ac47-6350b60a0d69",
+		"noteID": "kanji_隈",
 		"components": [
 			{
 				"component": "阝",
@@ -12971,7 +12971,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_6ff465bf-427b-42b0-8c68-eb8a4f4d52ab"
+		"noteID": "kanji_鍬"
 	},
 	{
 		"kanji": "畦",
@@ -13058,7 +13058,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_c58fde16-5702-4d36-9226-a582feee6545",
+		"noteID": "kanji_畦",
 		"components": [
 			{
 				"component": "田",
@@ -13134,7 +13134,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_96f854c8-38e9-4d6b-a0e1-726c51274c0e",
+		"noteID": "kanji_稽",
 		"components": [
 			{
 				"component": "禾",
@@ -13218,7 +13218,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_e8759050-7377-4886-a859-10e077b67af2",
+		"noteID": "kanji_繋",
 		"components": [
 			{
 				"component": "車",
@@ -13296,7 +13296,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_9fa2e8c0-7c00-474f-a223-112d9ab02632",
+		"noteID": "kanji_荊",
 		"components": [
 			{
 				"component": "艹",
@@ -13375,7 +13375,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_05c61052-1697-476c-a7de-8c5351566b39",
+		"noteID": "kanji_詣",
 		"components": [
 			{
 				"component": "言",
@@ -13447,7 +13447,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_b8514bb1-a0d7-4cd6-8eb8-e589a343a349",
+		"noteID": "kanji_警",
 		"components": [
 			{
 				"component": "敬",
@@ -13526,7 +13526,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_22b66dae-328f-4e18-98fe-a3749e6a36ca",
+		"noteID": "kanji_迎",
 		"components": [
 			{
 				"component": "匕",
@@ -13602,7 +13602,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_f7984e3e-444e-4033-9950-3d29bb143d1f",
+		"noteID": "kanji_戟",
 		"components": [
 			{
 				"component": "十",
@@ -13688,7 +13688,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_d5212104-9ced-4fd6-adcc-5d3ee2265fa1",
+		"noteID": "kanji_隙",
 		"components": [
 			{
 				"component": "阝",
@@ -13770,7 +13770,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_60d61ef2-8f7c-46ba-8a09-8bca25256227",
+		"noteID": "kanji_桁",
 		"components": [
 			{
 				"component": "木",
@@ -13848,7 +13848,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_49228aaa-a85f-4551-ac7e-51b2217b76df",
+		"noteID": "kanji_倦",
 		"components": [
 			{
 				"component": "亻",
@@ -13923,7 +13923,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_edec93a6-4fbb-4e7f-9ce3-ad6faf2c4bab",
+		"noteID": "kanji_喧",
 		"mnemonic": "When you formally declare too much with your mouth, you're being noisy.",
 		"components": [
 			{
@@ -14010,7 +14010,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_d47990c1-7658-4e03-a592-a1b5fcd1052c",
+		"noteID": "kanji_捲",
 		"components": [
 			{
 				"component": "扌",
@@ -14086,7 +14086,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_4fc60de6-69a8-4903-b1ee-1ef51822ea16",
+		"noteID": "kanji_権",
 		"components": [
 			{
 				"component": "木",
@@ -14166,7 +14166,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_3d05af49-9d1d-479e-b83d-cc128c712feb"
+		"noteID": "kanji_硯"
 	},
 	{
 		"kanji": "鍵",
@@ -14228,7 +14228,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_1b2c2553-094b-46a4-b496-75eff4b4ce06",
+		"noteID": "kanji_鍵",
 		"components": [
 			{
 				"component": "金",
@@ -14317,7 +14317,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_e280a2aa-cb71-4b78-9f52-7a0f2d600d95",
+		"noteID": "kanji_原",
 		"mnemonic": "The original way that cliff looked like was very white and small. Over time the raging winds and the constant rain made it a lot larger, and a lot dirtier.",
 		"components": [
 			{
@@ -14396,7 +14396,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_10aa2302-352a-4525-b61e-47885681d286"
+		"noteID": "kanji_舷"
 	},
 	{
 		"kanji": "乎",
@@ -14471,7 +14471,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_b15b91c0-eed3-41ba-b022-56c420915f98",
+		"noteID": "kanji_乎",
 		"components": [
 			{
 				"component": "丿",
@@ -14560,7 +14560,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_dfa2f068-6f40-4dcd-a498-b1878b7abeaf",
+		"noteID": "kanji_呼",
 		"mnemonic": "A mouth that is calling the kanji for flat. The top and the bottom stroke of 平 are slightly bent signifying that it's being attracted by the mouth.",
 		"components": [
 			{
@@ -14637,7 +14637,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_6f0756ff-9ee8-4b81-ac35-5c071ad64589",
+		"noteID": "kanji_姑",
 		"components": [
 			{
 				"component": "女",
@@ -14708,7 +14708,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_0d8a6dec-1429-49c9-a870-6fe7eca56494",
+		"noteID": "kanji_狐",
 		"components": [
 			{
 				"component": "犭",
@@ -14783,7 +14783,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_7f62621b-66f9-4665-80d2-bf54ac852235",
+		"noteID": "kanji_糊",
 		"components": [
 			{
 				"component": "米",
@@ -14861,7 +14861,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_b4b984d1-5a76-4af7-a625-79ef69696b12",
+		"noteID": "kanji_袴",
 		"components": [
 			{
 				"component": "衤",
@@ -14944,7 +14944,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_75766a5b-fcde-4a8b-95d7-74fe233d2308",
+		"noteID": "kanji_股",
 		"components": [
 			{
 				"component": "月",
@@ -15018,7 +15018,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_4e4dbe9a-3ae9-430e-953d-609abe48f1de",
+		"noteID": "kanji_菰",
 		"components": [
 			{
 				"component": "艹",
@@ -15097,7 +15097,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_446554c5-9d0d-4a41-a455-14ba995afff8",
+		"noteID": "kanji_互",
 		"components": [
 			{
 				"component": "一",
@@ -15188,7 +15188,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_9f775fd2-f669-4e35-99bd-10c996f54e47",
+		"noteID": "kanji_御",
 		"components": [
 			{
 				"component": "彳",
@@ -15261,7 +15261,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_59a706e2-3b39-46f7-af98-d3c18dbd6894",
+		"noteID": "kanji_檎",
 		"components": [
 			{
 				"component": "木",
@@ -15346,7 +15346,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_32d01bad-cdd3-48c3-91a1-738245c8c0d7",
+		"noteID": "kanji_誤",
 		"components": [
 			{
 				"component": "言",
@@ -15418,7 +15418,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_9cd0eed8-a911-4934-8384-396c5e30c8b1",
+		"noteID": "kanji_醐",
 		"components": [
 			{
 				"component": "酉",
@@ -15498,7 +15498,7 @@
 			"has::words",
 			"strokes::3"
 		],
-		"noteID": "kanji_7ceda520-4600-481e-b08a-a6dccbd89087",
+		"noteID": "kanji_乞",
 		"components": [
 			{
 				"component": "𠂉",
@@ -15580,7 +15580,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_281d8adc-335b-4f70-80b8-0d69a5df043b",
+		"noteID": "kanji_勾",
 		"components": [
 			{
 				"component": "勹",
@@ -15655,7 +15655,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_d7ce96d0-d48c-454d-8921-508f09ff41ba",
+		"noteID": "kanji_喉",
 		"components": [
 			{
 				"component": "口",
@@ -15730,7 +15730,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_df27989a-098c-4f72-be63-0b0964bcdb75",
+		"noteID": "kanji_垢",
 		"components": [
 			{
 				"component": "土",
@@ -15810,7 +15810,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_843423a5-37cf-4e0c-96af-766bda3f6391",
+		"noteID": "kanji_孝",
 		"mnemonic": "What's one's ultimate duty to one's parents? When your parents die put them in the old grave that has been your family's resting place for generations, and while they're alive raise a child so that they can have a grandkid.",
 		"components": [
 			{
@@ -15884,7 +15884,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_7b577a59-a5e4-440a-b27e-8818030bce7a"
+		"noteID": "kanji_庚"
 	},
 	{
 		"kanji": "慌",
@@ -15947,7 +15947,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_4577a878-b8a9-4f08-b86a-10332b1ea1e5",
+		"noteID": "kanji_慌",
 		"components": [
 			{
 				"component": "忄",
@@ -16030,7 +16030,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_eb3833f6-7f12-4ed4-bc7f-c238c30558e6",
+		"noteID": "kanji_更",
 		"mnemonic": "When making a folding chair if you leave one pair of folding chair legs in the sun for too long you'll have to start all over again as the plastic will melt.",
 		"components": [
 			{
@@ -16113,7 +16113,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_acd2983e-8a20-4725-99ee-1e4966563956",
+		"noteID": "kanji_杭",
 		"components": [
 			{
 				"component": "木",
@@ -16189,7 +16189,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_39179d18-6e6f-4096-aab1-3c71add4cb80",
+		"noteID": "kanji_梗",
 		"components": [
 			{
 				"component": "木",
@@ -16263,7 +16263,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_dce710b5-1b9f-4453-8235-cdaab0dfd419"
+		"noteID": "kanji_糠"
 	},
 	{
 		"kanji": "肱",
@@ -16328,7 +16328,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_5f619d99-fcc9-42a8-b494-985c6c649ef6",
+		"noteID": "kanji_肱",
 		"components": [
 			{
 				"component": "月",
@@ -16402,7 +16402,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_3517a2b0-a735-43c8-8eca-21edbd0d3a96"
+		"noteID": "kanji_腔"
 	},
 	{
 		"kanji": "膏",
@@ -16470,7 +16470,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_4933d6cd-2839-4486-8af8-c174952adf95",
+		"noteID": "kanji_膏",
 		"components": [
 			{
 				"component": "高",
@@ -16545,7 +16545,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_317fbae2-5013-4cba-9d2f-e8b9dff227ac",
+		"noteID": "kanji_閤",
 		"components": [
 			{
 				"component": "門",
@@ -16634,7 +16634,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_1edb8d5e-9fd8-4901-b6b7-7813f1a47ec9",
+		"noteID": "kanji_降",
 		"components": [
 			{
 				"component": "阝",
@@ -16713,7 +16713,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_daa63741-700a-4b12-8ef4-bb9c3cc5125f"
+		"noteID": "kanji_劫"
 	},
 	{
 		"kanji": "壕",
@@ -16776,7 +16776,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_20c3f597-a194-4de9-817c-1e0aa77c312f",
+		"noteID": "kanji_壕",
 		"components": [
 			{
 				"component": "土",
@@ -16856,7 +16856,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_cc68ab42-516d-4eef-be6b-c0c5f2261d03",
+		"noteID": "kanji_濠",
 		"components": [
 			{
 				"component": "氵",
@@ -16933,7 +16933,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_0c9478af-072c-4e76-b50b-dae0b6369320"
+		"noteID": "kanji_轟"
 	},
 	{
 		"kanji": "麹",
@@ -17000,7 +17000,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_0b47dbaa-345c-40e8-bf2e-c881ebad07f2"
+		"noteID": "kanji_麹"
 	},
 	{
 		"kanji": "刻",
@@ -17072,7 +17072,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_3fbe5c76-caa3-42a7-8adb-ec4fe8979b8a",
+		"noteID": "kanji_刻",
 		"components": [
 			{
 				"component": "亥",
@@ -17150,7 +17150,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_ba3ef4c0-2b5f-4ade-b1b7-41a55d39c588",
+		"noteID": "kanji_漉",
 		"components": [
 			{
 				"component": "氵",
@@ -17231,7 +17231,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_f79b573c-076c-40d3-9c6f-418dddeea851",
+		"noteID": "kanji_忽",
 		"components": [
 			{
 				"component": "勿",
@@ -17309,7 +17309,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_cf7326a8-a12d-4157-bf8b-e62452baee5b",
+		"noteID": "kanji_惚",
 		"components": [
 			{
 				"component": "忄",
@@ -17393,7 +17393,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_c46e8c15-f447-4744-9073-cd74999481eb",
+		"noteID": "kanji_込",
 		"mnemonic": "If everyone wants to enter the same road it will surely get crowded.",
 		"components": [
 			{
@@ -17486,7 +17486,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_8e2ed025-0258-44b5-8671-6bf1df43c68f",
+		"noteID": "kanji_此",
 		"components": [
 			{
 				"component": "止",
@@ -17569,7 +17569,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_3ea3f45c-42b5-4556-a664-cd9ca75d6dcf",
+		"noteID": "kanji_頃",
 		"mnemonic": "Around that time I left a spoon to mark what page I was on.",
 		"components": [
 			{
@@ -17644,7 +17644,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_f5749448-50cd-4ef5-9ea4-738416921734",
+		"noteID": "kanji_困",
 		"components": [
 			{
 				"component": "囗",
@@ -17719,7 +17719,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_3689143e-9ee1-49fa-9771-38126339eddd"
+		"noteID": "kanji_坤"
 	},
 	{
 		"kanji": "婚",
@@ -17784,7 +17784,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_9059851c-37e7-40f5-98ab-4fa2083b27a1",
+		"noteID": "kanji_婚",
 		"mnemonic": "I was in a state of confusion when my girlfriend told me she wanted to get married. I stuttered, and she immediately exploded — \"What?! You don't want to marry me?!\" she said, and then she started crying uncontrollably and lost consciousness. What a woman...",
 		"components": [
 			{
@@ -17863,7 +17863,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_ef6247b8-f449-4a1e-b1d5-5cf60dab788a",
+		"noteID": "kanji_昏",
 		"components": [
 			{
 				"component": "氏",
@@ -17942,7 +17942,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_488b96ae-5aac-4239-9844-ad553bb7bfb2"
+		"noteID": "kanji_梱"
 	},
 	{
 		"kanji": "痕",
@@ -18003,7 +18003,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_5bde5255-20bb-4c31-abac-37cfa985a62f",
+		"noteID": "kanji_痕",
 		"components": [
 			{
 				"component": "疒",
@@ -18102,7 +18102,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_390f13bf-a81c-44d5-aab0-d02c15b6ec32"
+		"noteID": "kanji_艮"
 	},
 	{
 		"kanji": "些",
@@ -18175,7 +18175,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_248aafd3-1a1b-433f-8693-41415ce735bb",
+		"noteID": "kanji_些",
 		"components": [
 			{
 				"component": "此",
@@ -18249,7 +18249,7 @@
 			"has::words",
 			"strokes::3"
 		],
-		"noteID": "kanji_9d6d6dc5-e929-4640-bf3a-78717afc44cd",
+		"noteID": "kanji_叉",
 		"components": [
 			{
 				"component": "又",
@@ -18331,7 +18331,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_6565e4bf-1198-4de4-9260-8b90b7343d63",
+		"noteID": "kanji_坐",
 		"mnemonic": "A pictograph of two people who are sitting around a pillar made out of earth.",
 		"components": [
 			{
@@ -18410,7 +18410,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_ec081d0a-dabf-4ecc-a81c-9679f789e6f3",
+		"noteID": "kanji_座",
 		"mnemonic": "If you really want to sit down then you can just go inside that house on a cliff and sit around an earth pillar with everybody else.",
 		"components": [
 			{
@@ -18491,7 +18491,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_aad11e31-8cf2-4def-99a7-aa07622db02c",
+		"noteID": "kanji_挫",
 		"components": [
 			{
 				"component": "扌",
@@ -18576,7 +18576,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_91dcf103-0cd4-49b2-9ff5-d7ecfafe93d5",
+		"noteID": "kanji_塞",
 		"components": [
 			{
 				"component": "宀",
@@ -18661,7 +18661,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_e4a474a5-a3bf-4cd0-95dd-560b56a1895c"
+		"noteID": "kanji_歳"
 	},
 	{
 		"kanji": "済",
@@ -18746,7 +18746,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_f9d2ad59-d4e6-44a7-90a0-1505489029e3",
+		"noteID": "kanji_済",
 		"components": [
 			{
 				"component": "氵",
@@ -18817,7 +18817,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_f3ee4da1-c4e4-4627-aa72-4430d30bdffd"
+		"noteID": "kanji_犀"
 	},
 	{
 		"kanji": "砦",
@@ -18881,7 +18881,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_821962d1-295d-4255-878c-772f4ab8dc92"
+		"noteID": "kanji_砦"
 	},
 	{
 		"kanji": "阪",
@@ -18943,7 +18943,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_e9c1ccfc-8456-458b-a694-0f57541c698a",
+		"noteID": "kanji_阪",
 		"components": [
 			{
 				"component": "阝",
@@ -19015,7 +19015,7 @@
 			"has::words",
 			"strokes::24"
 		],
-		"noteID": "kanji_613212b0-26f3-4c28-bbc6-2469f711dd4e"
+		"noteID": "kanji_鷺"
 	},
 	{
 		"kanji": "柵",
@@ -19087,7 +19087,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_6afb9f84-409c-4170-97da-08b339b84859",
+		"noteID": "kanji_柵",
 		"components": [
 			{
 				"component": "木",
@@ -19161,7 +19161,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_825726ff-c87e-4965-a649-7a4e72eea9f8",
+		"noteID": "kanji_鮭",
 		"components": [
 			{
 				"component": "魚",
@@ -19234,7 +19234,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_3306039b-48d4-42a1-a996-8bd1d0c394a0",
+		"noteID": "kanji_匙",
 		"components": [
 			{
 				"component": "匕",
@@ -19310,7 +19310,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_1502f80a-e6a2-47b0-bc7d-9df41926357d",
+		"noteID": "kanji_薩",
 		"components": [
 			{
 				"component": "艹",
@@ -19388,7 +19388,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_1362f80b-adda-424a-88f0-426bd331cee8",
+		"noteID": "kanji_鯖",
 		"components": [
 			{
 				"component": "魚",
@@ -19479,7 +19479,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_5daaaed6-1e4b-408b-bd02-2fa2488bb3d6",
+		"noteID": "kanji_捌",
 		"components": [
 			{
 				"component": "扌",
@@ -19563,7 +19563,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_bfdb9b91-182e-45ba-9e92-dc2297e1029a",
+		"noteID": "kanji_錆",
 		"components": [
 			{
 				"component": "金",
@@ -19637,7 +19637,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_24f6bee3-73a9-428c-9590-f745e3eec2b0",
+		"noteID": "kanji_鮫",
 		"components": [
 			{
 				"component": "魚",
@@ -19714,7 +19714,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_914d3523-cd47-4f4b-b406-850e3773dc75",
+		"noteID": "kanji_晒",
 		"components": [
 			{
 				"component": "日",
@@ -19798,7 +19798,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_5e7acb65-4070-4140-a56b-14041f2c72f4",
+		"noteID": "kanji_撒",
 		"components": [
 			{
 				"component": "扌",
@@ -19872,7 +19872,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_29e3355b-e0fa-4c0e-9f86-2ea0cc1d7ea4",
+		"noteID": "kanji_珊",
 		"components": [
 			{
 				"component": "王",
@@ -19948,7 +19948,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_c13b87ee-dd06-4c1a-a57f-738ee69fe390",
+		"noteID": "kanji_纂",
 		"components": [
 			{
 				"component": "竹",
@@ -20034,7 +20034,7 @@
 			"has::words",
 			"strokes::22"
 		],
-		"noteID": "kanji_cee81282-a989-4166-8984-b0abd4ae989c",
+		"noteID": "kanji_讃",
 		"components": [
 			{
 				"component": "言",
@@ -20112,7 +20112,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_dfbb071e-21d6-43b6-966a-3b5590c7d260"
+		"noteID": "kanji_餐"
 	},
 	{
 		"kanji": "斬",
@@ -20179,7 +20179,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_cafeba9f-2fdb-45d4-8b53-f51c0de0a1f8",
+		"noteID": "kanji_斬",
 		"mnemonic": "A vehicle with an axe strapped to its side. It isn't just for show — if you end up in its way it will slice to kill!",
 		"components": [
 			{
@@ -20255,7 +20255,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_982f09c5-119d-4a9c-95e2-5cf58cd9d044",
+		"noteID": "kanji_仔",
 		"components": [
 			{
 				"component": "亻",
@@ -20328,7 +20328,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_8ea0d179-56a0-43f3-99dc-2645be8432e7",
+		"noteID": "kanji_屍",
 		"mnemonic": "After death a corpse with a flag is... well, same as any other corpse. It doesn't matter what you were in life; you might have been the flag-bearer for your lord when you were alive, but after you die you're no different that a common peasant enlisted into the military by force.",
 		"components": [
 			{
@@ -20421,7 +20421,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_fea93c0b-ea67-4a36-8a5c-df5db8b7d1be",
+		"noteID": "kanji_斯",
 		"components": [
 			{
 				"component": "其",
@@ -20495,7 +20495,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_f36765a2-2cb2-4c52-9bd2-151c38dad1d4",
+		"noteID": "kanji_痔",
 		"components": [
 			{
 				"component": "疒",
@@ -20582,7 +20582,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_2ae6288f-e69f-42e9-86ed-f7a523827da6",
+		"noteID": "kanji_而",
 		"components": [
 			{
 				"component": "一",
@@ -20673,7 +20673,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_b4ddc0d4-25a2-4853-99e4-a2a93ac3dfab",
+		"noteID": "kanji_辞",
 		"mnemonic": "I'm going to have to resign from this job. My tongue is too spicy and the boss doesn't like it when I swear at our customers.",
 		"components": [
 			{
@@ -20755,7 +20755,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_786cf03b-0cd0-4670-be01-c468f1677d44",
+		"noteID": "kanji_宍",
 		"components": [
 			{
 				"component": "宀",
@@ -20831,7 +20831,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_c15fab52-f081-49c1-867f-db2dfb2ca4da",
+		"noteID": "kanji_叱",
 		"components": [
 			{
 				"component": "口",
@@ -20911,7 +20911,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_eb246f0a-f42f-4979-b353-be9572c4a8d8",
+		"noteID": "kanji_嫉",
 		"components": [
 			{
 				"component": "女",
@@ -20984,7 +20984,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_5c1650f6-6bbc-4fe1-8e3a-1189b81c4ef9",
+		"noteID": "kanji_柴",
 		"components": [
 			{
 				"component": "此",
@@ -21087,7 +21087,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_25b6481f-49d7-4884-883a-7fcc01cad06a",
+		"noteID": "kanji_屡",
 		"components": [
 			{
 				"component": "尸",
@@ -21167,7 +21167,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_11c8bd6d-2941-4a6d-9aec-b3bfb0234abe",
+		"noteID": "kanji_縞",
 		"components": [
 			{
 				"component": "糸",
@@ -21244,7 +21244,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_63e175dd-83f2-45f7-89bb-4acfd7aedd85"
+		"noteID": "kanji_杓"
 	},
 	{
 		"kanji": "灼",
@@ -21311,7 +21311,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_ba3f6710-b8c3-476f-a97c-96fdabbb1ead",
+		"noteID": "kanji_灼",
 		"components": [
 			{
 				"component": "火",
@@ -21387,7 +21387,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_e273c1ea-cc60-4265-ab57-c1eb6a10f6ac",
+		"noteID": "kanji_錫",
 		"components": [
 			{
 				"component": "金",
@@ -21478,7 +21478,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_e46c3b98-4d3c-4d98-a98e-3827ddd5b703",
+		"noteID": "kanji_若",
 		"components": [
 			{
 				"component": "艹",
@@ -21553,7 +21553,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_f0538741-c596-4758-a7a5-ef0a38a71489",
+		"noteID": "kanji_惹",
 		"components": [
 			{
 				"component": "若",
@@ -21632,7 +21632,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_5e5b25ec-6304-4c3b-89b8-233951f5f110",
+		"noteID": "kanji_腫",
 		"components": [
 			{
 				"component": "月",
@@ -21713,7 +21713,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_fda9d592-69f1-4836-9933-41a1873b0711",
+		"noteID": "kanji_呪",
 		"components": [
 			{
 				"component": "口",
@@ -21813,7 +21813,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_b592841c-c59a-4280-95ce-382fa82af107",
+		"noteID": "kanji_寿",
 		"components": [
 			{
 				"component": "丰",
@@ -21885,7 +21885,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_118f8be5-3e38-4353-b93e-207d1c67d411"
+		"noteID": "kanji_綬"
 	},
 	{
 		"kanji": "収",
@@ -21958,7 +21958,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_6cb298aa-7571-4498-9eac-542ee552c025",
+		"noteID": "kanji_収",
 		"components": [
 			{
 				"component": "丩",
@@ -22034,7 +22034,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_abe8cebe-fb0b-47c9-80cb-b57aa92600a9",
+		"noteID": "kanji_讐",
 		"components": [
 			{
 				"component": "隹",
@@ -22115,7 +22115,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_20683ba4-c544-48ac-a692-f930eac31d20",
+		"noteID": "kanji_蹴",
 		"components": [
 			{
 				"component": "𧾷",
@@ -22191,7 +22191,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_dcfbdabb-d848-4e43-bf6c-3e16ffce3a01",
+		"noteID": "kanji_酋",
 		"components": [
 			{
 				"component": "丷",
@@ -22265,7 +22265,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_05fd0887-74e2-4ff4-a1c5-ff945f99d66e",
+		"noteID": "kanji_楯",
 		"components": [
 			{
 				"component": "木",
@@ -22360,7 +22360,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_dbd70fa1-8937-4144-b0fe-2425a70e809f",
+		"noteID": "kanji_処",
 		"components": [
 			{
 				"component": "几",
@@ -22444,7 +22444,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_28f264fd-8b0f-4b59-9e44-856f3f0e8c91",
+		"noteID": "kanji_緒",
 		"mnemonic": "If you want to make a strap so that you can strap yourself to someone you can just use a piece of thread.",
 		"components": [
 			{
@@ -22523,7 +22523,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_0410122d-4df9-4dd7-b4ae-981a29e6d0b6"
+		"noteID": "kanji_鋤"
 	},
 	{
 		"kanji": "除",
@@ -22590,7 +22590,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_707c72a1-17bc-4423-adab-57c6a4be7e8f",
+		"noteID": "kanji_除",
 		"components": [
 			{
 				"component": "阝",
@@ -22662,7 +22662,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_666abdad-b108-49d1-ad73-0763e8ede2d3",
+		"noteID": "kanji_哨",
 		"components": [
 			{
 				"component": "口",
@@ -22756,7 +22756,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_c339cd3e-8c8e-4454-93ac-425d4712dafc",
+		"noteID": "kanji_嘗",
 		"components": [
 			{
 				"component": "⺌",
@@ -22836,7 +22836,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_6303379d-b0d3-4dd8-8b10-5aa41eb3c4d5",
+		"noteID": "kanji_娼",
 		"components": [
 			{
 				"component": "女",
@@ -22934,7 +22934,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_093b7337-fbde-45da-a5af-c5714e722df0",
+		"noteID": "kanji_樵",
 		"components": [
 			{
 				"component": "木",
@@ -23014,7 +23014,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_daf47376-b7c0-4cf0-9734-3c03fac39e6a",
+		"noteID": "kanji_粧",
 		"components": [
 			{
 				"component": "米",
@@ -23086,7 +23086,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_10f732ad-cae7-4ffd-ad25-c5367842ead1"
+		"noteID": "kanji_醤"
 	},
 	{
 		"kanji": "鉦",
@@ -23150,7 +23150,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_1ef94f2a-5c83-4581-a797-8ff42c4523e6"
+		"noteID": "kanji_鉦"
 	},
 	{
 		"kanji": "鍾",
@@ -23217,7 +23217,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_8d19777b-4bcd-4784-9f94-3cbb8f155d42"
+		"noteID": "kanji_鍾"
 	},
 	{
 		"kanji": "鞘",
@@ -23282,7 +23282,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_99ab5f37-8dd6-4996-98f2-b582395b6bf4"
+		"noteID": "kanji_鞘"
 	},
 	{
 		"kanji": "丈",
@@ -23361,7 +23361,7 @@
 			"has::words",
 			"strokes::3"
 		],
-		"noteID": "kanji_dcb9bd15-ab40-44ce-968c-8e4ccd718918",
+		"noteID": "kanji_丈",
 		"mnemonic": "If you are worried that someone right by your side might pull out a sword and slash right at you, you should stay at least 3 meters away from that person.",
 		"components": [
 			{
@@ -23435,7 +23435,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_fddbd2f3-5445-45be-b471-8bf436079edd",
+		"noteID": "kanji_杖",
 		"components": [
 			{
 				"component": "木",
@@ -23508,7 +23508,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_952a7113-fce8-40e2-a9aa-30b193ac069c",
+		"noteID": "kanji_埴",
 		"components": [
 			{
 				"component": "土",
@@ -23585,7 +23585,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_af7f11db-a634-405f-83c2-9c9a95fee1f7",
+		"noteID": "kanji_拭",
 		"components": [
 			{
 				"component": "扌",
@@ -23659,7 +23659,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_6a5349b5-6ce9-4d44-9e82-9bf25b806cff",
+		"noteID": "kanji_燭",
 		"components": [
 			{
 				"component": "火",
@@ -23738,7 +23738,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_838c3a0a-480f-4b7d-8183-0245c61c7905",
+		"noteID": "kanji_尻",
 		"components": [
 			{
 				"component": "尸",
@@ -23827,7 +23827,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_8fcd76f2-4094-44ae-b64b-13a03ac63a16",
+		"noteID": "kanji_寝",
 		"mnemonic": "The warrior returned to their house which had a roof with a chimney, placed down their broken trident on the table and their wand made of ice right next to it, and then realized that once again he forgot to get his bed repaired, so he had to lie down under the table and sleep there.",
 		"components": [
 			{
@@ -23914,7 +23914,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_103ea2c9-5563-4e1a-b37e-3a09e2723a0d"
+		"noteID": "kanji_疹"
 	},
 	{
 		"kanji": "芯",
@@ -23972,7 +23972,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_3db9ebaa-f4a2-4a66-a7a8-588781bd43a3",
+		"noteID": "kanji_芯",
 		"components": [
 			{
 				"component": "艹",
@@ -24047,7 +24047,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_dcaf4699-459d-4641-8a4a-eb0fc54011a4",
+		"noteID": "kanji_塵",
 		"components": [
 			{
 				"component": "鹿",
@@ -24117,7 +24117,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_4a749d9e-3b7b-458e-a9a7-0125d866f1ad",
+		"noteID": "kanji_腎",
 		"components": [
 			{
 				"component": "臤",
@@ -24198,7 +24198,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_68680990-3078-4e67-a222-08d33578055f",
+		"noteID": "kanji_訊",
 		"components": [
 			{
 				"component": "言",
@@ -24287,7 +24287,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_0e2da856-e62a-4cfc-a08b-aef9038c79b5",
+		"noteID": "kanji_靭",
 		"components": [
 			{
 				"component": "革",
@@ -24362,7 +24362,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_b5d47b16-5c4e-47ae-958b-2dd3dbd3342c",
+		"noteID": "kanji_笥",
 		"components": [
 			{
 				"component": "竹",
@@ -24436,7 +24436,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_a5eae6a8-2ebb-4d9f-8ba5-15c7a22015ac",
+		"noteID": "kanji_厨",
 		"components": [
 			{
 				"component": "厂",
@@ -24522,7 +24522,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_b026eecc-dc60-4e00-92f8-f61a8c04f7f1",
+		"noteID": "kanji_吹",
 		"components": [
 			{
 				"component": "口",
@@ -24598,7 +24598,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_19b8f3fa-dd49-4924-84d3-721204021a1e"
+		"noteID": "kanji_錐"
 	},
 	{
 		"kanji": "趨",
@@ -24669,7 +24669,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_214aed5e-214e-4f5c-b634-b52eaeaf8baf",
+		"noteID": "kanji_趨",
 		"components": [
 			{
 				"component": "芻",
@@ -24747,7 +24747,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_18527a59-64f9-4965-beaa-b2db8fcbb9d8",
+		"noteID": "kanji_菅",
 		"components": [
 			{
 				"component": "艹",
@@ -24825,7 +24825,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_c8b6b979-d720-4ae7-aa71-231b2eadc17a",
+		"noteID": "kanji_頗",
 		"components": [
 			{
 				"component": "皮",
@@ -24908,7 +24908,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_ea6c1209-6dba-4301-a1ac-fec2f5d76d86",
+		"noteID": "kanji_雀",
 		"components": [
 			{
 				"component": "小",
@@ -24982,7 +24982,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_de227a8b-702e-4116-9198-b7d6ecfcd920",
+		"noteID": "kanji_裾",
 		"components": [
 			{
 				"component": "衤",
@@ -25066,7 +25066,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_3fc5c1f9-4b50-4dd9-bfdd-5146e2f047c9",
+		"noteID": "kanji_摺",
 		"components": [
 			{
 				"component": "扌",
@@ -25145,7 +25145,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_53e2b738-6011-485f-8aae-0a94eb32bcf7",
+		"noteID": "kanji_凄",
 		"components": [
 			{
 				"component": "冫",
@@ -25226,7 +25226,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_e599ab50-917b-413b-86ec-6c27b3fca64d",
+		"noteID": "kanji_晴",
 		"mnemonic": "When the sky is blue and the sun comes out you know the bad weather has cleared up.",
 		"components": [
 			{
@@ -25307,7 +25307,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_97bb7d57-ebc0-4c77-948b-f7ab31f672b3",
+		"noteID": "kanji_棲",
 		"components": [
 			{
 				"component": "木",
@@ -25386,7 +25386,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_a2d0b94e-1165-4763-a960-e5938325e313",
+		"noteID": "kanji_脆",
 		"components": [
 			{
 				"component": "月",
@@ -25462,7 +25462,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_802606c6-9ccd-43a3-b116-0affc525b539",
+		"noteID": "kanji_脊",
 		"components": [
 			{
 				"component": "二",
@@ -25544,7 +25544,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_229b901c-be15-4b54-a5fc-a28af1ba33b7",
+		"noteID": "kanji_蝉",
 		"components": [
 			{
 				"component": "虫",
@@ -25624,7 +25624,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_7e47b750-59d8-4430-8fe0-b49a4fc4a6dc",
+		"noteID": "kanji_尖",
 		"components": [
 			{
 				"component": "小",
@@ -25704,7 +25704,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_2b1293d4-cb3d-422b-acc0-5f76aa748005",
+		"noteID": "kanji_撰",
 		"components": [
 			{
 				"component": "扌",
@@ -25783,7 +25783,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_ba182aeb-01c7-457a-bd5f-f283ea9a8e1e",
+		"noteID": "kanji_洗",
 		"mnemonic": "To get something as clean as it was before it got dirty you need to use water to wash it.",
 		"components": [
 			{
@@ -25867,7 +25867,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_9e7323ef-a2a0-4bf2-8c21-679b9cfb8071",
+		"noteID": "kanji_煎",
 		"components": [
 			{
 				"component": "前",
@@ -25948,7 +25948,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_f6432d7d-0919-494f-a8df-2679970c227b",
+		"noteID": "kanji_煽",
 		"components": [
 			{
 				"component": "火",
@@ -26024,7 +26024,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_f220295d-7661-4740-bcc1-045cc325675d",
+		"noteID": "kanji_穿",
 		"components": [
 			{
 				"component": "穴",
@@ -26100,7 +26100,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_bba860af-af43-49fc-a56c-8bf0de4b3fbd",
+		"noteID": "kanji_羨",
 		"components": [
 			{
 				"component": "𦍌",
@@ -26176,7 +26176,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_d6408c9f-1bae-4cc0-8cc6-daf88c31c053"
+		"noteID": "kanji_腺"
 	},
 	{
 		"kanji": "詮",
@@ -26247,7 +26247,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_e6395af1-6aa1-41b1-b740-9739dce464fb"
+		"noteID": "kanji_詮"
 	},
 	{
 		"kanji": "閃",
@@ -26314,7 +26314,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_6c84d0ea-344b-439a-9a8d-56bccf0fc76c",
+		"noteID": "kanji_閃",
 		"components": [
 			{
 				"component": "門",
@@ -26395,7 +26395,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_5461d7d0-3141-4f93-a035-f26e56c0cf00",
+		"noteID": "kanji_膳",
 		"components": [
 			{
 				"component": "月",
@@ -26476,7 +26476,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_17973025-0606-456a-afc3-f6ea3de62a37",
+		"noteID": "kanji_糎",
 		"components": [
 			{
 				"component": "米",
@@ -26552,7 +26552,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_03c60bf4-d06b-49fc-b74a-ae0db8c86ba1",
+		"noteID": "kanji_噌",
 		"components": [
 			{
 				"component": "口",
@@ -26633,7 +26633,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_5f806a00-de7c-4d78-85a0-5f1303c20382"
+		"noteID": "kanji_曾"
 	},
 	{
 		"kanji": "楚",
@@ -26700,7 +26700,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_2d303b91-ae17-483d-99e9-d5093a0aad9d"
+		"noteID": "kanji_楚"
 	},
 	{
 		"kanji": "狙",
@@ -26766,7 +26766,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_eff14700-5f43-4e9a-8d4f-24e8d4c75a0c",
+		"noteID": "kanji_狙",
 		"components": [
 			{
 				"component": "犭",
@@ -26854,7 +26854,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_045ced6b-ba09-449f-a81b-628a86feaec5",
+		"noteID": "kanji_疏",
 		"components": [
 			{
 				"component": "乛",
@@ -26934,7 +26934,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_cfa71656-1c4d-4a5b-9144-21dd2f297232",
+		"noteID": "kanji_蘇",
 		"components": [
 			{
 				"component": "艹",
@@ -27024,7 +27024,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_18821e9d-5701-4b3d-ad8e-c21c3483322a",
+		"noteID": "kanji_鼠",
 		"mnemonic": "A highly stylized pictograph of a mouse.\nThe top part is the head, in the bottom left corner we can see two of its legs, with four patches of fur, and on the right is its tail.",
 		"components": [
 			{
@@ -27125,7 +27125,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_b9554deb-3b4d-454d-90dc-9f58f1a66030",
+		"noteID": "kanji_叢",
 		"components": [
 			{
 				"component": "业",
@@ -27216,7 +27216,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_77a533f8-0f33-4023-8010-2b8e7ad71f6a",
+		"noteID": "kanji_掻",
 		"components": [
 			{
 				"component": "扌",
@@ -27303,7 +27303,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_32f32d6b-32e3-49fb-9344-bd1bfaf166e9",
+		"noteID": "kanji_槍",
 		"components": [
 			{
 				"component": "木",
@@ -27381,7 +27381,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_b7f39652-a90a-487d-8b94-05b9a1e14401",
+		"noteID": "kanji_漕",
 		"components": [
 			{
 				"component": "氵",
@@ -27456,7 +27456,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_a45e4c30-db6c-48d6-94d0-444763339dd0",
+		"noteID": "kanji_痩",
 		"components": [
 			{
 				"component": "疒",
@@ -27535,7 +27535,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_2f0a9a63-2cee-4b18-9421-fa40cb9b52fd",
+		"noteID": "kanji_窓",
 		"components": [
 			{
 				"component": "穴",
@@ -27615,7 +27615,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_6b7bc8f9-95f7-4d6f-9f4b-f3d1e852d852",
+		"noteID": "kanji_捉",
 		"mnemonic": "Use your hand to grab someone and your foot to hold him down.",
 		"components": [
 			{
@@ -27690,7 +27690,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_eb34a32b-2bce-43b3-9110-25f085e8303c",
+		"noteID": "kanji_袖",
 		"components": [
 			{
 				"component": "衤",
@@ -27778,7 +27778,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_6f3743f6-e530-401d-ac64-4d26b7f710a7",
+		"noteID": "kanji_其",
 		"components": [
 			{
 				"component": "共",
@@ -27857,7 +27857,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_780fa3a7-a326-45a0-885f-a7d525d6bbc0",
+		"noteID": "kanji_揃",
 		"components": [
 			{
 				"component": "扌",
@@ -27942,7 +27942,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_bb97f0b5-fdcc-48e9-b975-db5674e9daf9",
+		"noteID": "kanji_存",
 		"components": [
 			{
 				"component": "才",
@@ -28018,7 +28018,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_7f205133-aba7-42df-a4da-cb6b244727db",
+		"noteID": "kanji_唾",
 		"components": [
 			{
 				"component": "口",
@@ -28101,7 +28101,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_fde5caec-82ca-4bf1-b45d-3cb4d9df8ec0",
+		"noteID": "kanji_陀",
 		"components": [
 			{
 				"component": "阝",
@@ -28176,7 +28176,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_71c75a37-21be-47e8-8e13-9931736f94f3",
+		"noteID": "kanji_堆",
 		"components": [
 			{
 				"component": "土",
@@ -28252,7 +28252,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_5c810ead-0150-4547-8578-cbd2fc7acd30",
+		"noteID": "kanji_戴",
 		"mnemonic": "If someone offers you a lot of weaponry of different types, you had better accept humbly, even if you can't use them yourself.",
 		"components": [
 			{
@@ -28325,7 +28325,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_dfc318ce-37be-48ca-9948-d704f2c632f1",
+		"noteID": "kanji_腿",
 		"components": [
 			{
 				"component": "月",
@@ -28403,7 +28403,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_b891fb52-508b-4a75-8718-d711ff13824d",
+		"noteID": "kanji_苔",
 		"components": [
 			{
 				"component": "艹",
@@ -28485,7 +28485,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_e8596380-d73c-4b6a-b1b1-59aa0718faac",
+		"noteID": "kanji_宅",
 		"components": [
 			{
 				"component": "宀",
@@ -28566,7 +28566,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_9f4c5755-cb3a-48a6-b8f2-a5b5f0e11136",
+		"noteID": "kanji_托",
 		"components": [
 			{
 				"component": "扌",
@@ -28643,7 +28643,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_319ba586-5de7-4fd8-bc9c-06c5f4b2154e"
+		"noteID": "kanji_鐸"
 	},
 	{
 		"kanji": "叩",
@@ -28713,7 +28713,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_d01c89d9-ab0c-4812-8006-216454bb2d2d",
+		"noteID": "kanji_叩",
 		"components": [
 			{
 				"component": "口",
@@ -28813,7 +28813,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_b31e381b-2359-413e-a954-9199dc97b589",
+		"noteID": "kanji_辿",
 		"components": [
 			{
 				"component": "山",
@@ -28887,7 +28887,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d3747662-1614-445e-b500-ed75c9fd6565",
+		"noteID": "kanji_狸",
 		"components": [
 			{
 				"component": "犭",
@@ -28964,7 +28964,7 @@
 			"has::words",
 			"strokes::22"
 		],
-		"noteID": "kanji_0004ab2a-96f9-4885-b59e-e50053f5b517",
+		"noteID": "kanji_鱈",
 		"components": [
 			{
 				"component": "魚",
@@ -29037,7 +29037,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_866a9a1e-7e90-46e5-87b9-623dc5f28cf1",
+		"noteID": "kanji_樽",
 		"components": [
 			{
 				"component": "木",
@@ -29113,7 +29113,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_55bcbef3-3b77-4099-87dc-4cb34da74a0d",
+		"noteID": "kanji_誰",
 		"mnemonic": "You know how sometimes animal voices can imitate human speech? Here we have an old bird — a pidgeon — that is constantly saying who? Who? Whoooo? If you listen closely to the sounds that pidgeons make don't they actually sound a little like \"who\"?",
 		"components": [
 			{
@@ -29192,7 +29192,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_2c629b73-189a-4200-954e-35185794b576",
+		"noteID": "kanji_坦",
 		"components": [
 			{
 				"component": "土",
@@ -29268,7 +29268,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_17ab41a6-0b05-4756-b325-e17cd3e5e505",
+		"noteID": "kanji_探",
 		"mnemonic": "A pictograph of someone who has climbed on a tree gripping the trunk between his legs and is feeling around with his left hand for something under the roof.\nIt looks like he lost the key to his house and must have hidden the spare one in there. Usually you'd leave your spare key under a potted plant right on your porch, but that's just as good as leaving your door wide open, so he must have not liked that and came up with a better idea.",
 		"components": [
 			{
@@ -29349,7 +29349,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_df1c55a2-6e3c-4abc-b4bd-45b65dc27fba",
+		"noteID": "kanji_箪",
 		"components": [
 			{
 				"component": "竹",
@@ -29425,7 +29425,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_efec5792-a1a5-4e6e-abc3-9bb3fbd2758b",
+		"noteID": "kanji_綻",
 		"components": [
 			{
 				"component": "糸",
@@ -29499,7 +29499,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_1969c8f7-24eb-414c-97a2-4cc4a96c7c80",
+		"noteID": "kanji_耽",
 		"components": [
 			{
 				"component": "耳",
@@ -29569,7 +29569,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_a46c49f2-a0fc-45e6-8894-00b7739ef324",
+		"noteID": "kanji_蛋",
 		"components": [
 			{
 				"component": "疋",
@@ -29646,7 +29646,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_fb32abad-302d-476e-8bcc-b3b93a4d3e77",
+		"noteID": "kanji_段",
 		"components": [
 			{
 				"component": "爪",
@@ -29731,7 +29731,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_b6a8438b-4db9-4d46-9d3c-74d807e83651",
+		"noteID": "kanji_値",
 		"components": [
 			{
 				"component": "亻",
@@ -29810,7 +29810,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_6d7a4776-d2ec-4e81-a9d7-1230665b58bd",
+		"noteID": "kanji_弛",
 		"components": [
 			{
 				"component": "弓",
@@ -29887,7 +29887,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_7db00554-d128-4846-8935-7bd4278f6c8e",
+		"noteID": "kanji_恥",
 		"components": [
 			{
 				"component": "耳",
@@ -29962,7 +29962,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_e58bc183-2728-4ff2-94c3-dc086f0a327d",
+		"noteID": "kanji_蜘",
 		"components": [
 			{
 				"component": "虫",
@@ -30043,7 +30043,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_f0ab97b4-8493-410d-90ec-9eb44a17d67c",
+		"noteID": "kanji_遅",
 		"components": [
 			{
 				"component": "尸",
@@ -30122,7 +30122,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_7b2b36ae-69e2-419d-bbf4-38b089cf12b5",
+		"noteID": "kanji_酎",
 		"components": [
 			{
 				"component": "酉",
@@ -30201,7 +30201,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_c6861e08-8e1d-4628-95d4-4803ac7bd1d2",
+		"noteID": "kanji_喋",
 		"components": [
 			{
 				"component": "口",
@@ -30276,7 +30276,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_a8a116c7-e283-4d94-8dbf-d4a439ddb1a6",
+		"noteID": "kanji_帖",
 		"components": [
 			{
 				"component": "巾",
@@ -30350,7 +30350,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_7aedcd14-71a5-40fd-b39e-b357bed5fdfd",
+		"noteID": "kanji_諜",
 		"components": [
 			{
 				"component": "言",
@@ -30428,7 +30428,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_c92b8c19-aa56-4cdb-a24a-235c15bb3b55"
+		"noteID": "kanji_頂"
 	},
 	{
 		"kanji": "痛",
@@ -30499,7 +30499,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_42044b62-9e2e-4a34-be11-0f2c3265c2c7",
+		"noteID": "kanji_痛",
 		"mnemonic": "When the old bell tolls sickness envelopes the land, bringing great pain to all.\n(It's an ancient magic bell spreading disease.)",
 		"components": [
 			{
@@ -30579,7 +30579,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_44c374b6-9d0a-4a9b-90a5-1082296b00ff",
+		"noteID": "kanji_掴",
 		"components": [
 			{
 				"component": "扌",
@@ -30651,7 +30651,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_95832bb5-0b9d-453d-b8f2-b8cb2aad2788",
+		"noteID": "kanji_佃",
 		"components": [
 			{
 				"component": "亻",
@@ -30724,7 +30724,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_58e12a27-8654-4e3c-86a2-973ef806f0dc",
+		"noteID": "kanji_辻",
 		"components": [
 			{
 				"component": "十",
@@ -30805,7 +30805,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_0ae78edb-05df-4d68-92c3-11a211b21273",
+		"noteID": "kanji_綴",
 		"components": [
 			{
 				"component": "糸",
@@ -30888,7 +30888,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_0aaf1e0c-1f3b-453b-882c-9b213db4c2ee",
+		"noteID": "kanji_潰",
 		"mnemonic": "A noble man is not going to crush your spirit by brute force. He's better than that. He'll just subject you to the Chinese water torture, slowly dripping water drops on your forehead, drop by drop, making you insane.",
 		"components": [
 			{
@@ -30964,7 +30964,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_48c36eb1-57e6-4c36-92eb-f495dcf7a8c6",
+		"noteID": "kanji_壷",
 		"components": [
 			{
 				"component": "士",
@@ -31042,7 +31042,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_2013e90a-cb27-4821-b915-acf81f1361ec"
+		"noteID": "kanji_爪"
 	},
 	{
 		"kanji": "吊",
@@ -31107,7 +31107,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_5523b405-9d2b-4e5d-aa81-c5dcc0163675",
+		"noteID": "kanji_吊",
 		"components": [
 			{
 				"component": "口",
@@ -31181,7 +31181,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_9f059071-52ac-4ee1-b57c-64e8b8c08e13",
+		"noteID": "kanji_剃",
 		"components": [
 			{
 				"component": "弟",
@@ -31266,7 +31266,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_3c0d4973-d2cb-496f-9e1b-618c8a08abf3"
+		"noteID": "kanji_梯"
 	},
 	{
 		"kanji": "碇",
@@ -31348,7 +31348,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_b84a2dfe-44c2-4dfb-8480-bf775c6d4761",
+		"noteID": "kanji_碇",
 		"components": [
 			{
 				"component": "石",
@@ -31427,7 +31427,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_9b7c3c16-c0e6-4f02-b6a8-093c6c48d8af",
+		"noteID": "kanji_諦",
 		"components": [
 			{
 				"component": "言",
@@ -31498,7 +31498,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_d36c8953-a3ef-4fa7-a4fd-3cfc77572606"
+		"noteID": "kanji_蹄"
 	},
 	{
 		"kanji": "釘",
@@ -31561,7 +31561,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_1676c09e-61cf-4bc7-901a-bbb82c2e5ef2",
+		"noteID": "kanji_釘",
 		"components": [
 			{
 				"component": "金",
@@ -31635,7 +31635,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_d9612ef8-d6d4-4333-a7ce-81c193b8e6dd"
+		"noteID": "kanji_鼎"
 	},
 	{
 		"kanji": "擢",
@@ -31728,7 +31728,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_2eb0117f-182b-4230-b172-a9f9a0f0f315",
+		"noteID": "kanji_擢",
 		"components": [
 			{
 				"component": "扌",
@@ -31803,7 +31803,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_50e6a838-4563-4789-856b-ba456482074e"
+		"noteID": "kanji_轍"
 	},
 	{
 		"kanji": "填",
@@ -31876,7 +31876,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_b45912eb-5da3-482c-8115-2163e479a926",
+		"noteID": "kanji_填",
 		"components": [
 			{
 				"component": "土",
@@ -31958,7 +31958,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_edba566e-d5ce-412f-b041-a884a2840bea",
+		"noteID": "kanji_纏",
 		"components": [
 			{
 				"component": "糸",
@@ -32047,7 +32047,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_5ec14d0e-0ce3-4cde-8331-2b03cdc4a678"
+		"noteID": "kanji_貼"
 	},
 	{
 		"kanji": "澱",
@@ -32116,7 +32116,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_27d95e80-669a-482c-a049-b646ab8dee6a",
+		"noteID": "kanji_澱",
 		"components": [
 			{
 				"component": "氵",
@@ -32191,7 +32191,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_08c60c74-4c70-423b-969c-8352fc072d89",
+		"noteID": "kanji_兎",
 		"components": [
 			{
 				"component": "丿",
@@ -32271,7 +32271,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_c5a83842-1a1b-4a98-8647-231187721c3c"
+		"noteID": "kanji_堵"
 	},
 	{
 		"kanji": "渡",
@@ -32349,7 +32349,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_1e5c8aae-7a89-4839-83d7-7e7a0acadd4a",
+		"noteID": "kanji_渡",
 		"components": [
 			{
 				"component": "氵",
@@ -32426,7 +32426,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_779f6461-c5d7-400f-826a-983518f114f7",
+		"noteID": "kanji_賭",
 		"components": [
 			{
 				"component": "貝",
@@ -32501,7 +32501,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_1c2cbddb-c446-4c51-89a1-84965dd338d6",
+		"noteID": "kanji_途",
 		"components": [
 			{
 				"component": "余",
@@ -32578,7 +32578,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_55ea1670-7c30-46d1-b7af-cadbbe6cd79f",
+		"noteID": "kanji_怒",
 		"components": [
 			{
 				"component": "奴",
@@ -32661,7 +32661,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_770869ed-daa1-4ad3-a47b-603f819a5a9b",
+		"noteID": "kanji_倒",
 		"mnemonic": "The arrival of a really thin person at one of those competitive eating events doesn't spell anything good... He'll probably collapse to the floor after eating his first hamburger.",
 		"components": [
 			{
@@ -32741,7 +32741,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_80ef2bed-b1be-42db-bb68-8e15a8b37d73",
+		"noteID": "kanji_唐",
 		"components": [
 			{
 				"component": "广",
@@ -32823,7 +32823,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_6871b84a-7645-4b85-9624-2a57cc83c2df",
+		"noteID": "kanji_盗",
 		"components": [
 			{
 				"component": "次",
@@ -32896,7 +32896,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_a0ed091d-c3a3-4f9a-bc09-6839fa80ad74",
+		"noteID": "kanji_祷",
 		"components": [
 			{
 				"component": "礻",
@@ -32974,7 +32974,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_de216dec-8e2e-48a0-9dd7-d0c3c1166405",
+		"noteID": "kanji_到",
 		"components": [
 			{
 				"component": "至",
@@ -33055,7 +33055,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_b73f9221-d954-4005-9499-0556cb599320",
+		"noteID": "kanji_蕩",
 		"components": [
 			{
 				"component": "艹",
@@ -33133,7 +33133,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_da9fd45b-b3ad-4054-8281-405c51b5db21",
+		"noteID": "kanji_逃",
 		"mnemonic": "That's a bad omen. Let's get on the road and escape before the apocalypse hits!",
 		"components": [
 			{
@@ -33209,7 +33209,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_122ed521-6858-42de-9ded-b8e85e485f15"
+		"noteID": "kanji_鐙"
 	},
 	{
 		"kanji": "萄",
@@ -33275,7 +33275,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_bd59d552-b14e-4dbe-8fc1-90b71d79b80c",
+		"noteID": "kanji_萄",
 		"components": [
 			{
 				"component": "艹",
@@ -33358,7 +33358,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_af62aced-6a7e-49b1-8a66-20d79ba2b88c",
+		"noteID": "kanji_禿",
 		"components": [
 			{
 				"component": "禾",
@@ -33444,7 +33444,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_7b19f11d-3087-4fe8-ab74-0a0802dff592",
+		"noteID": "kanji_突",
 		"mnemonic": "If you thrust something really sharp into something that is soft you will make a hole that is very large.",
 		"components": [
 			{
@@ -33520,7 +33520,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_a49c23f2-7213-460f-b7b0-81b44beab47b"
+		"noteID": "kanji_鳶"
 	},
 	{
 		"kanji": "噸",
@@ -33579,7 +33579,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_bc3c3210-34b3-40ad-a808-6679942f9884",
+		"noteID": "kanji_噸",
 		"components": [
 			{
 				"component": "口",
@@ -33669,7 +33669,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_2f4c80b4-8663-442a-8fd7-4ae0973b5f14"
+		"noteID": "kanji_頓"
 	},
 	{
 		"kanji": "乍",
@@ -33741,7 +33741,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_4b1ff890-95c4-4940-8439-e9487047ee2c",
+		"noteID": "kanji_乍",
 		"mnemonic": "Pictograph of a cow from the side, while it's grazing.\n(The vertical stroke would be its front legs, and the two horizontal strokes in the lower right corner are its body).",
 		"source": "https://jpdb.io/kanji/乍#a"
 	},
@@ -33809,7 +33809,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_c810d752-ef20-4276-b464-617b96f4a140",
+		"noteID": "kanji_謎",
 		"components": [
 			{
 				"component": "言",
@@ -33887,7 +33887,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_53615de9-3ed0-4442-ac3e-a0dd4aa936ae"
+		"noteID": "kanji_灘"
 	},
 	{
 		"kanji": "鍋",
@@ -33954,7 +33954,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_e1cf71f0-5614-42eb-ba14-f3caedc9febb",
+		"noteID": "kanji_鍋",
 		"components": [
 			{
 				"component": "金",
@@ -34045,7 +34045,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_b9d4d687-81bf-4047-8d6e-8a6781c222d8",
+		"noteID": "kanji_難",
 		"mnemonic": "A husband with a big mouth is hiding in the grass from an old bird that he pissed off. You never want to piss off an old (hence very experienced) killer bird. It's really difficult to run away from such a killing machine, so the only thing you can do is to hide in the bushes and hope it doesn't find you.",
 		"components": [
 			{
@@ -34137,7 +34137,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_0d20e07f-34bd-4834-a0af-90c424128b59"
+		"noteID": "kanji_汝"
 	},
 	{
 		"kanji": "賑",
@@ -34202,7 +34202,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_d10e5323-fd7b-47bb-8bbb-dccb7a7032a2",
+		"noteID": "kanji_賑",
 		"components": [
 			{
 				"component": "貝",
@@ -34281,7 +34281,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_67eec5a6-605e-47ca-b909-57867acb7841",
+		"noteID": "kanji_認",
 		"mnemonic": "The ninja are really quiet. They don't speak. They don't need to. If they say anything it's probably because they were caught and were forced to admit their crimes in the court of law.",
 		"components": [
 			{
@@ -34365,7 +34365,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_a28fc4d1-72a8-40d7-bb74-ebc9869100dc",
+		"noteID": "kanji_濡",
 		"components": [
 			{
 				"component": "氵",
@@ -34439,7 +34439,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_d7ecbfe7-ba9f-4d83-a988-d37dc08df757",
+		"noteID": "kanji_葱",
 		"components": [
 			{
 				"component": "艹",
@@ -34510,7 +34510,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_4d25ce6c-9721-4332-9632-601aa1708fbb",
+		"noteID": "kanji_猫",
 		"mnemonic": "A catnip seedling and an animal next to it — a cat trying to sniff the seedling!\nDid you know that catnip's smell mimics feline sex hormones, so a cat that sniffs it will often start feeling like a female cat in heat?",
 		"components": [
 			{
@@ -34588,7 +34588,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_bbe05d10-ad1c-47ee-894d-e7c8b2979d00",
+		"noteID": "kanji_捻",
 		"components": [
 			{
 				"component": "扌",
@@ -34665,7 +34665,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_ef9fa045-f414-4652-ad19-9f6e84ea6b1a",
+		"noteID": "kanji_撚",
 		"components": [
 			{
 				"component": "扌",
@@ -34741,7 +34741,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_33d70b24-2bf4-46ae-8d54-6c2a16af505c",
+		"noteID": "kanji_嚢",
 		"components": [
 			{
 				"component": "一",
@@ -34834,7 +34834,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_0582c205-cede-4ca4-8d45-cf3b841eb7f6"
+		"noteID": "kanji_膿"
 	},
 	{
 		"kanji": "覗",
@@ -34900,7 +34900,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_b1cba8a4-299f-466c-b2db-8aad7eeb6608",
+		"noteID": "kanji_覗",
 		"mnemonic": "What's the best way to see what kind of a person your boss is? Just sneak up behind him and take a peek at his screen! Ah, the lazy bastard's browsing Facebook again while he's working us to the bone!",
 		"components": [
 			{
@@ -34973,7 +34973,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_3d03bc6f-e6d7-429d-8125-fee8495a0a8e"
+		"noteID": "kanji_蚤"
 	},
 	{
 		"kanji": "琶",
@@ -35033,7 +35033,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_c662c979-344f-4f96-aa3c-a57a34297cec",
+		"noteID": "kanji_琶",
 		"components": [
 			{
 				"component": "王",
@@ -35112,7 +35112,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_bdcb2884-96cf-445c-b26f-127eddf84446",
+		"noteID": "kanji_罵",
 		"components": [
 			{
 				"component": "罒",
@@ -35190,7 +35190,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_63079be3-d514-4476-b638-ae2a326f3bbe",
+		"noteID": "kanji_杯",
 		"components": [
 			{
 				"component": "木",
@@ -35265,7 +35265,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_0b6246b8-b6de-47b5-a888-f31fd52706f4",
+		"noteID": "kanji_牌",
 		"components": [
 			{
 				"component": "片",
@@ -35349,7 +35349,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_6fca0e59-d53a-4310-8377-fc5909fbf2cc",
+		"noteID": "kanji_背",
 		"mnemonic": "Heading north with the moon behind you, shining against the back of your body.",
 		"components": [
 			{
@@ -35425,7 +35425,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_8cabf138-2bfb-4174-b39b-ca0617b716d7"
+		"noteID": "kanji_煤"
 	},
 	{
 		"kanji": "狽",
@@ -35491,7 +35491,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_e5e98b15-4f43-42ec-b5e7-ad7129e5ff36",
+		"noteID": "kanji_狽",
 		"components": [
 			{
 				"component": "犭",
@@ -35570,7 +35570,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_20e301ab-d29b-4512-83ba-0b4b7648858f",
+		"noteID": "kanji_這",
 		"components": [
 			{
 				"component": "言",
@@ -35645,7 +35645,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_c36dea99-2874-4ea5-8959-170845bc319a",
+		"noteID": "kanji_蝿",
 		"components": [
 			{
 				"component": "虫",
@@ -35738,7 +35738,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_11e73637-63fe-4614-b1eb-954e382a413f",
+		"noteID": "kanji_剥",
 		"components": [
 			{
 				"component": "彐",
@@ -35822,7 +35822,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_bf31dd8e-9c99-4053-a6d8-32607c8a39e9",
+		"noteID": "kanji_柏",
 		"mnemonic": "What kind of a tree has white bark? An oak.",
 		"components": [
 			{
@@ -35905,7 +35905,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_3e55f8b4-33fb-45b6-8f24-a4b739c0ad84",
+		"noteID": "kanji_曝",
 		"components": [
 			{
 				"component": "日",
@@ -35990,7 +35990,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d590ae7d-0de2-4aab-8599-04cbabe29423",
+		"noteID": "kanji_莫",
 		"components": [
 			{
 				"component": "艹",
@@ -36073,7 +36073,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_352de3aa-89d2-4ca5-aff4-5fc1b09dd3f0",
+		"noteID": "kanji_駁",
 		"components": [
 			{
 				"component": "馬",
@@ -36150,7 +36150,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_47c71c4b-024a-4637-a894-fe1b90ac2fdd"
+		"noteID": "kanji_筈"
 	},
 	{
 		"kanji": "幡",
@@ -36221,7 +36221,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_7b53c08f-31ed-41a8-a032-60126cd53604",
+		"noteID": "kanji_幡",
 		"components": [
 			{
 				"component": "巾",
@@ -36301,7 +36301,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_f7d93465-18ce-45e1-89f3-d786ba780d50",
+		"noteID": "kanji_畑",
 		"components": [
 			{
 				"component": "火",
@@ -36377,7 +36377,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_128e0d85-5b48-42aa-912a-863810408746",
+		"noteID": "kanji_髪",
 		"components": [
 			{
 				"component": "髟",
@@ -36466,7 +36466,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_604e69f6-9676-4376-b6ea-7eabc32aaa17",
+		"noteID": "kanji_抜",
 		"mnemonic": "A true friend is someone that will always grab you by your hand and pull out out of any sticky situation.",
 		"components": [
 			{
@@ -36542,7 +36542,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_a645b585-4a82-4747-a547-095ac58f3b59"
+		"noteID": "kanji_筏"
 	},
 	{
 		"kanji": "斑",
@@ -36613,7 +36613,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_d871ea4c-e91f-4411-9dd2-7af940024dda",
+		"noteID": "kanji_斑",
 		"components": [
 			{
 				"component": "王",
@@ -36700,7 +36700,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_2c9fb8bb-16a1-4973-b1e0-079c39faa6d1",
+		"noteID": "kanji_汎",
 		"components": [
 			{
 				"component": "氵",
@@ -36779,7 +36779,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d49ffc86-8de9-4c35-b50b-e0f25ec2cbbe",
+		"noteID": "kanji_挽",
 		"components": [
 			{
 				"component": "扌",
@@ -36855,7 +36855,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_b2575c64-93e4-45ff-ae54-52b619336f44",
+		"noteID": "kanji_晩",
 		"components": [
 			{
 				"component": "日",
@@ -36933,7 +36933,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_8232f773-f3b2-4f29-a54a-3c1aa929274e",
+		"noteID": "kanji_否",
 		"components": [
 			{
 				"component": "不",
@@ -37016,7 +37016,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_2ac9c5d9-4e7c-4abd-a429-7026024a80da",
+		"noteID": "kanji_庇",
 		"components": [
 			{
 				"component": "广",
@@ -37111,7 +37111,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_d808c261-61a7-4ca6-9415-f0d7d352e125",
+		"noteID": "kanji_彼",
 		"mnemonic": "He is standing still next to a body of a dead animal. The skin is all that remains from its last moments. How did it die? Where are the bones? Did something eat them...? What kind of horrific creature eats all of the meat and the bones, but leaves only the skin!? All of these thoughts filled him with dread. Will he be the next victim?",
 		"components": [
 			{
@@ -37187,7 +37187,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d9fe37ee-0132-400e-9b94-30922da2f495",
+		"noteID": "kanji_疲",
 		"mnemonic": "That animal looks so tired... wait, no, it's not simply tired, it's sick! Its sickness has spread all over its skin. Poor little thing...",
 		"components": [
 			{
@@ -37264,7 +37264,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_a1b65a94-33b9-4cf9-9427-5080a062fa8c",
+		"noteID": "kanji_誹",
 		"components": [
 			{
 				"component": "言",
@@ -37346,7 +37346,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_bf6b21ac-682e-4f35-8048-12862bf943af"
+		"noteID": "kanji_樋"
 	},
 	{
 		"kanji": "膝",
@@ -37407,7 +37407,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_24ac603e-5706-4ea6-8495-fc1c10ddffe7",
+		"noteID": "kanji_膝",
 		"components": [
 			{
 				"component": "月",
@@ -37487,7 +37487,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_4ed0d16c-2778-4955-97ff-a5269a2c40d4",
+		"noteID": "kanji_肘",
 		"components": [
 			{
 				"component": "月",
@@ -37570,7 +37570,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_7d018940-9e3d-4a0a-b7c0-21d3598545a9",
+		"noteID": "kanji_紐",
 		"components": [
 			{
 				"component": "糸",
@@ -37646,7 +37646,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_edc820ad-c272-456c-b7e0-57dddb1b4aa9",
+		"noteID": "kanji_瓢",
 		"components": [
 			{
 				"component": "票",
@@ -37722,7 +37722,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_6570d289-50b9-477f-a6d5-1ead489164aa"
+		"noteID": "kanji_豹"
 	},
 	{
 		"kanji": "鋲",
@@ -37783,7 +37783,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_bc95144e-f6d6-43ff-8489-66bf066e310e"
+		"noteID": "kanji_鋲"
 	},
 	{
 		"kanji": "蒜",
@@ -37850,7 +37850,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_6baf4ca2-5c54-4140-bda8-25ee7d7df676",
+		"noteID": "kanji_蒜",
 		"components": [
 			{
 				"component": "艹",
@@ -37929,7 +37929,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_a6869f56-e101-4e01-9b91-d9496942f800",
+		"noteID": "kanji_瀕",
 		"components": [
 			{
 				"component": "氵",
@@ -38003,7 +38003,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_9ec56f0c-9022-4c0b-93d4-d46668bf1aaf",
+		"noteID": "kanji_貧",
 		"components": [
 			{
 				"component": "分",
@@ -38085,7 +38085,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_9349e7f7-800f-44e3-a882-2f051600f73c",
+		"noteID": "kanji_怖",
 		"mnemonic": "Someone who has a weak heart (gets scared easily) will quickly hide under a piece of cloth when they see anything even remotely scary.",
 		"components": [
 			{
@@ -38159,7 +38159,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_7b99664b-2572-419e-9067-4bd37f75812d"
+		"noteID": "kanji_斧"
 	},
 	{
 		"kanji": "浮",
@@ -38229,7 +38229,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_a90a54e3-5e19-4da5-aa68-fe68e131efa1",
+		"noteID": "kanji_浮",
 		"mnemonic": "A child who fell into the water struggling to stay afloat while some beast is trying to claw at it from above.",
 		"components": [
 			{
@@ -38317,7 +38317,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_c42703d6-a107-4b64-8252-b4f0c61e66d3",
+		"noteID": "kanji_舞",
 		"components": [
 			{
 				"component": "𠂉",
@@ -38402,7 +38402,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_c4bafa0d-ea8c-48bd-ad6f-6dfb573c51ef",
+		"noteID": "kanji_葡",
 		"components": [
 			{
 				"component": "艹",
@@ -38477,7 +38477,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_8e6057e3-b210-4b46-b4ce-a46789305b89"
+		"noteID": "kanji_蕪"
 	},
 	{
 		"kanji": "福",
@@ -38549,7 +38549,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_b1e8dfb3-5ed6-4b45-9ad8-243cf33f985e",
+		"noteID": "kanji_福",
 		"components": [
 			{
 				"component": "礻",
@@ -38623,7 +38623,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_12b256d2-dc3c-4924-9693-60b3a1883089",
+		"noteID": "kanji_腹",
 		"components": [
 			{
 				"component": "月",
@@ -38702,7 +38702,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_95ac03a9-f8c2-4bca-b52d-cf5d870769b8",
+		"noteID": "kanji_淵",
 		"components": [
 			{
 				"component": "氵",
@@ -38815,7 +38815,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_75a3d87d-1437-467f-a0d0-bbdf50384453",
+		"noteID": "kanji_弗",
 		"components": [
 			{
 				"component": "弓",
@@ -38904,7 +38904,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_41f731b6-6c64-4d3c-a197-9101fa9719bf",
+		"noteID": "kanji_払",
 		"components": [
 			{
 				"component": "扌",
@@ -38977,7 +38977,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_81479ec0-acb5-45d1-b2d0-edd2140c2f2f"
+		"noteID": "kanji_吻"
 	},
 	{
 		"kanji": "糞",
@@ -39043,7 +39043,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_31a989ea-ee40-4e3c-8d53-ec40be6eff92"
+		"noteID": "kanji_糞"
 	},
 	{
 		"kanji": "閉",
@@ -39115,7 +39115,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_aaa42eb0-2e68-4d85-9b2f-2a6a5e51e278",
+		"noteID": "kanji_閉",
 		"mnemonic": "The gate is only open for talented people, so for you it might as well be considered closed.",
 		"components": [
 			{
@@ -39193,7 +39193,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_4ad5a950-1e83-4935-836f-cc1e6ffb5269",
+		"noteID": "kanji_僻",
 		"components": [
 			{
 				"component": "亻",
@@ -39274,7 +39274,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_ce6ae421-1924-4c6e-a115-4b51ec3e5d29",
+		"noteID": "kanji_蔑",
 		"components": [
 			{
 				"component": "艹",
@@ -39360,7 +39360,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_5f41b5de-acf4-4702-af07-1bbe8578793c"
+		"noteID": "kanji_箆"
 	},
 	{
 		"kanji": "捕",
@@ -39428,7 +39428,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_bed60c10-1c0b-46aa-baba-0828927b314a",
+		"noteID": "kanji_捕",
 		"components": [
 			{
 				"component": "扌",
@@ -39513,7 +39513,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_dd986be8-34e7-40c4-ab28-b2e7f100e482",
+		"noteID": "kanji_暮",
 		"mnemonic": "When you want not the sun you know that day-to-day life is getting to you, or perhaps you just have no day-to-day life in the first place so there's just no reason to actually go outside?",
 		"components": [
 			{
@@ -39594,7 +39594,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_54a6f5b0-d60a-4f37-a166-5a2703d6bad9",
+		"noteID": "kanji_呆",
 		"mnemonic": "Someone has climbed on the top of a tree, opened his mouth and looks absolutely dumbfounded. It's me who's dumbfounded though – what the hell is he doing over there?!",
 		"components": [
 			{
@@ -39676,7 +39676,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_38b90f47-b1ea-4f0e-b5ff-8ca921dc8cf6",
+		"noteID": "kanji_抱",
 		"mnemonic": "A hug is when you wrap your hands around someone.",
 		"components": [
 			{
@@ -39756,7 +39756,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_89152374-7128-4154-b900-cdd4963dec6b",
+		"noteID": "kanji_捧",
 		"components": [
 			{
 				"component": "扌",
@@ -39840,7 +39840,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_72c1d8a5-6e85-4904-b080-205220be052d",
+		"noteID": "kanji_蜂",
 		"components": [
 			{
 				"component": "虫",
@@ -39928,7 +39928,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_d64b1552-72a0-43f6-b23c-23d994a4698a",
+		"noteID": "kanji_訪",
 		"components": [
 			{
 				"component": "言",
@@ -40008,7 +40008,7 @@
 			"has::words",
 			"strokes::3"
 		],
-		"noteID": "kanji_2709f1bc-f021-4d9b-9d4c-525381ec2a74",
+		"noteID": "kanji_亡",
 		"mnemonic": "The burial urn of the deceased person is blocked by a picture frame with a nice photograph of them... all you can see of the urn is the lid.",
 		"components": [
 			{
@@ -40082,7 +40082,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_717063a4-8d0c-4f69-81be-ad6bb0543c50",
+		"noteID": "kanji_坊",
 		"components": [
 			{
 				"component": "土",
@@ -40153,7 +40153,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_e9d03530-6e1f-4d52-b578-7e89bc3228d6",
+		"noteID": "kanji_忘",
 		"mnemonic": "Never forget the deceased. They are all a part of you now, and they live on in your heart.",
 		"components": [
 			{
@@ -40235,7 +40235,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_7287dd6d-07e9-4c73-a1c9-699878fcb982",
+		"noteID": "kanji_忙",
 		"components": [
 			{
 				"component": "忄",
@@ -40310,7 +40310,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_9c7662b1-8c6f-44b8-9a31-09f9d49dc1a9",
+		"noteID": "kanji_貌",
 		"components": [
 			{
 				"component": "豸",
@@ -40392,7 +40392,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_4be5b472-0340-4919-8b68-598744371c7b",
+		"noteID": "kanji_吠",
 		"components": [
 			{
 				"component": "口",
@@ -40473,7 +40473,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_6c9cc16d-2fba-40cf-8924-bf743d3c35b6",
+		"noteID": "kanji_頬",
 		"components": [
 			{
 				"component": "夫",
@@ -40559,7 +40559,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_5a29efc2-5741-4d71-8e59-fa606537ec9c",
+		"noteID": "kanji_勃",
 		"components": [
 			{
 				"component": "十",
@@ -40644,7 +40644,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_7270cc7d-658d-454f-8b5b-5801d0626ac1"
+		"noteID": "kanji_殆"
 	},
 	{
 		"kanji": "哩",
@@ -40714,7 +40714,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_25d3a381-3952-460c-9b14-6a6901b3acaa",
+		"noteID": "kanji_哩",
 		"components": [
 			{
 				"component": "口",
@@ -40789,7 +40789,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_89301493-8a81-4199-943c-16f651304404",
+		"noteID": "kanji_鮪",
 		"components": [
 			{
 				"component": "魚",
@@ -40865,7 +40865,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_5a491c03-6e4d-405a-99ad-b2bfcb1ac175"
+		"noteID": "kanji_鱒"
 	},
 	{
 		"kanji": "迄",
@@ -40935,7 +40935,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_5aed908e-736d-4ac0-9113-cfdd85704c33",
+		"noteID": "kanji_迄",
 		"components": [
 			{
 				"component": "乞",
@@ -41013,7 +41013,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_ba50a230-52ce-409b-b9e4-42613a0521bf",
+		"noteID": "kanji_侭",
 		"components": [
 			{
 				"component": "亻",
@@ -41099,7 +41099,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_877cd7f9-c9ec-4ccc-92c5-aeeab975a705"
+		"noteID": "kanji_蔓"
 	},
 	{
 		"kanji": "蓑",
@@ -41160,7 +41160,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_da24418c-c4bb-4cb7-a326-568c43cbf6fc"
+		"noteID": "kanji_蓑"
 	},
 	{
 		"kanji": "粍",
@@ -41228,7 +41228,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_82f3ad20-44df-4b0f-bb42-7047af95d236",
+		"noteID": "kanji_粍",
 		"components": [
 			{
 				"component": "米",
@@ -41308,7 +41308,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_dbb8bcd2-bb7b-4a13-8e98-7ec634e45ce5",
+		"noteID": "kanji_眠",
 		"mnemonic": "When the people around you close their eyes and lie down it's probably because they're going to sleep. And you should too.",
 		"components": [
 			{
@@ -41382,7 +41382,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_9190b05a-f00c-4f1d-acfd-48d07faad515",
+		"noteID": "kanji_鵡",
 		"components": [
 			{
 				"component": "武",
@@ -41455,7 +41455,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_97c491ec-73e0-4437-963e-f4b4c391d516",
+		"noteID": "kanji_娘",
 		"mnemonic": "Every parent wants his daughter to become a good woman.",
 		"components": [
 			{
@@ -41529,7 +41529,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_75bd4e05-3f52-4154-a885-15c061d6d79e",
+		"noteID": "kanji_冥",
 		"mnemonic": "The realm of the dead is obviously underground, so it must have a roof. If you'll end up there you'll never see the sun ever again, and everything you'll encounter there will come in multiplies of six, since six-six-six is the number of the beast that lives there.",
 		"components": [
 			{
@@ -41612,7 +41612,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_abdf76c1-3a0b-4668-841b-aa6cd07c0d72",
+		"noteID": "kanji_麺",
 		"components": [
 			{
 				"component": "面",
@@ -41694,7 +41694,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_45c14692-b921-4ccb-8146-f4591fd45957"
+		"noteID": "kanji_蒙"
 	},
 	{
 		"kanji": "儲",
@@ -41763,7 +41763,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_2ee50d59-d588-46b7-8d07-5ad0705d09be",
+		"noteID": "kanji_儲",
 		"components": [
 			{
 				"component": "亻",
@@ -41842,7 +41842,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_a748d0dd-017a-49ba-b393-f63080d5e093",
+		"noteID": "kanji_餅",
 		"components": [
 			{
 				"component": "飠",
@@ -41927,7 +41927,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_619a0390-3d50-4ff1-992e-8a4a75064f93",
+		"noteID": "kanji_尤",
 		"components": [
 			{
 				"component": "丶",
@@ -42006,7 +42006,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_0a0e0385-baec-4766-9397-8cf48a683316",
+		"noteID": "kanji_戻",
 		"mnemonic": "The new door is way too large, so we'll have to turn it back to how it was.",
 		"components": [
 			{
@@ -42077,7 +42077,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_b9b8c186-8f11-49e7-9791-9189c0f8551d"
+		"noteID": "kanji_籾"
 	},
 	{
 		"kanji": "貰",
@@ -42143,7 +42143,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_577884cb-64cd-498e-9dee-ade40b7775d2",
+		"noteID": "kanji_貰",
 		"components": [
 			{
 				"component": "世",
@@ -42221,7 +42221,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_87c5573e-592b-46ac-b96e-cc73f37062af"
+		"noteID": "kanji_悶"
 	},
 	{
 		"kanji": "爺",
@@ -42288,7 +42288,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_fda296a1-70a2-423d-b0cc-32140e817da1",
+		"noteID": "kanji_爺",
 		"components": [
 			{
 				"component": "父",
@@ -42369,7 +42369,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_b295d95f-7d46-4734-b7c5-d088c16befb9",
+		"noteID": "kanji_薮",
 		"components": [
 			{
 				"component": "艹",
@@ -42454,7 +42454,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_91c2e4e9-c1ab-42ee-8c0e-47466b69a417",
+		"noteID": "kanji_優",
 		"mnemonic": "You have to be gentle and delicate when dealing with people that have chronic anxiety.",
 		"components": [
 			{
@@ -42546,7 +42546,7 @@
 			"has::words",
 			"strokes::3"
 		],
-		"noteID": "kanji_bc933a88-45f1-41ae-9d16-520ebcdf360c",
+		"noteID": "kanji_与",
 		"components": [
 			{
 				"component": "一",
@@ -42624,7 +42624,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_9546c7b0-90f3-4c7c-943f-6acb85a94336",
+		"noteID": "kanji_慾",
 		"components": [
 			{
 				"component": "欲",
@@ -42702,7 +42702,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_ed7c99c1-5148-4068-a992-720ffd58a309",
+		"noteID": "kanji_欲",
 		"mnemonic": "The valley folk lack many of the conveniences of the modern life. No supermarkets, no hospitals, no schools. So it's no wonder a lot of them desire to move into a big city and live there instead.",
 		"components": [
 			{
@@ -42789,7 +42789,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_4506560a-843d-4959-b5aa-43a54124bb46",
+		"noteID": "kanji_頼",
 		"mnemonic": "I rely on that bundle of pages to tell me what the prophecy says.",
 		"components": [
 			{
@@ -42865,7 +42865,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_f89e69aa-fc24-4943-90ae-8fa2373ad4b1"
+		"noteID": "kanji_洛"
 	},
 	{
 		"kanji": "里",
@@ -42942,7 +42942,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_11e0fbdf-9c21-4bfe-ad9d-5e6c28d09f16",
+		"noteID": "kanji_里",
 		"mnemonic": "My home village is famous for its turtle outer shell soup, we eat two every day!",
 		"components": [
 			{
@@ -43030,7 +43030,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_a186a0c1-c7f5-432b-8b3b-8c01eeca7c1d"
+		"noteID": "kanji_掠"
 	},
 	{
 		"kanji": "溜",
@@ -43100,7 +43100,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_83c3fc0d-372f-43d0-99e5-4a30d6ce9be8",
+		"noteID": "kanji_溜",
 		"mnemonic": "If you hold in place a bunch of water drops they'll accumulate.",
 		"components": [
 			{
@@ -43181,7 +43181,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_564a0c07-ade4-40c0-93ad-c52741069a5a",
+		"noteID": "kanji_梁",
 		"components": [
 			{
 				"component": "氵",
@@ -43279,7 +43279,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_689c082f-a4b1-4e79-b699-b4c9d2c49d37",
+		"noteID": "kanji_良",
 		"mnemonic": "I was going to buy a car, and I've found one that was almost good. If only it'd had a stick (to manually change the transmission) it would be actually good.",
 		"components": [
 			{
@@ -43358,7 +43358,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_e1d45c94-5303-4bb0-89a3-f474ed3d77dd"
+		"noteID": "kanji_燐"
 	},
 	{
 		"kanji": "鱗",
@@ -43422,7 +43422,7 @@
 			"has::words",
 			"strokes::24"
 		],
-		"noteID": "kanji_b4a2ef8c-2676-46c7-815b-f968279db66a",
+		"noteID": "kanji_鱗",
 		"components": [
 			{
 				"component": "魚",
@@ -43498,7 +43498,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_9cb03aaa-9e34-4a19-8021-84c92636c017",
+		"noteID": "kanji_煉",
 		"components": [
 			{
 				"component": "火",
@@ -43571,7 +43571,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_a613c141-e50a-4e97-af30-43fd1f445b9b"
+		"noteID": "kanji_魯"
 	},
 	{
 		"kanji": "賂",
@@ -43632,7 +43632,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_9a730ea1-0867-4f75-9497-603ac060a036",
+		"noteID": "kanji_賂",
 		"components": [
 			{
 				"component": "貝",
@@ -43713,7 +43713,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_9fcefa98-53b4-4cbf-849f-7ac22ed2c94d",
+		"noteID": "kanji_弄",
 		"components": [
 			{
 				"component": "王",
@@ -43788,7 +43788,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_d015ae3d-d760-4134-a0c7-5ac72ef1d916"
+		"noteID": "kanji_牢"
 	},
 	{
 		"kanji": "狼",
@@ -43855,7 +43855,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d3a0494b-6c99-4e4d-92df-d3093b202002",
+		"noteID": "kanji_狼",
 		"components": [
 			{
 				"component": "犭",
@@ -43939,7 +43939,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_387fd5b0-a3a2-4afa-b319-c9932ddeaebf",
+		"noteID": "kanji_篭",
 		"components": [
 			{
 				"component": "竹",
@@ -44016,7 +44016,7 @@
 			"has::words",
 			"strokes::22"
 		],
-		"noteID": "kanji_ab73a788-becf-4f54-a75b-90379c5f5dc3"
+		"noteID": "kanji_聾"
 	},
 	{
 		"kanji": "蝋",
@@ -44083,7 +44083,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_a206d6bf-cda7-4d21-b886-ccbe592889cd"
+		"noteID": "kanji_蝋"
 	},
 	{
 		"kanji": "論",
@@ -44149,7 +44149,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_66ecfe5b-6de1-4cb4-af26-b13e5ca7f9fb",
+		"noteID": "kanji_論",
 		"components": [
 			{
 				"component": "言",
@@ -44234,7 +44234,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_edb1d39b-d468-4c20-ab91-e774c2c143d5",
+		"noteID": "kanji_歪",
 		"components": [
 			{
 				"component": "不",
@@ -44311,7 +44311,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_8d3c0135-6670-4c5d-a635-cc1a71051ff3",
+		"noteID": "kanji_脇",
 		"components": [
 			{
 				"component": "月",
@@ -44399,7 +44399,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_fdb44405-847b-4cfe-b5bc-3db0b6677316",
+		"noteID": "kanji_鷲",
 		"components": [
 			{
 				"component": "就",
@@ -44472,7 +44472,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_d96c8538-53ca-49e6-bca8-07f987b48752"
+		"noteID": "kanji_鰐"
 	},
 	{
 		"kanji": "蕨",
@@ -44534,7 +44534,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_56a15ff6-7bff-4ccc-b2ed-8ad0946278f5"
+		"noteID": "kanji_蕨"
 	},
 	{
 		"kanji": "仄",
@@ -44605,7 +44605,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_1d22088a-4756-418d-b3da-a277b85d8e41",
+		"noteID": "kanji_仄",
 		"components": [
 			{
 				"component": "厂",
@@ -44678,7 +44678,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_4764af50-06a8-42b7-8148-c96615e02dda"
+		"noteID": "kanji_仞"
 	},
 	{
 		"kanji": "佗",
@@ -44745,7 +44745,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_fa0a84c1-20a5-46d0-88cb-72adeba220f1",
+		"noteID": "kanji_佗",
 		"components": [
 			{
 				"component": "亻",
@@ -44824,7 +44824,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_b0139b17-acd4-4e5e-bd44-0cdba5e11ecd",
+		"noteID": "kanji_佇",
 		"components": [
 			{
 				"component": "亻",
@@ -44904,7 +44904,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_b54894f8-c2f5-41ec-bbd7-20c591b62600",
+		"noteID": "kanji_傲",
 		"components": [
 			{
 				"component": "亻",
@@ -44982,7 +44982,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_56b6e9ec-3163-4746-8644-dd0ca2d5c8a6"
+		"noteID": "kanji_冤"
 	},
 	{
 		"kanji": "凛",
@@ -45047,7 +45047,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_05fe33c9-40f2-478d-a0ab-ca9bdbfead7e"
+		"noteID": "kanji_凛"
 	},
 	{
 		"kanji": "几",
@@ -45111,7 +45111,7 @@
 			"has::words",
 			"strokes::2"
 		],
-		"noteID": "kanji_67be7e7c-b4dc-409f-afe2-8c7adaeb0c89",
+		"noteID": "kanji_几",
 		"mnemonic": "It's a desk with a pair of legs and a countertop.",
 		"source": "https://jpdb.io/kanji/几#a"
 	},
@@ -45207,7 +45207,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_fe9156d6-e638-40e0-8a53-253f302f8606",
+		"noteID": "kanji_凭",
 		"components": [
 			{
 				"component": "任",
@@ -45281,7 +45281,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_b7d29509-48c6-487b-ae7d-7dc180d4d3c0",
+		"noteID": "kanji_刳",
 		"components": [
 			{
 				"component": "大",
@@ -45361,7 +45361,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_f69cf67d-0480-475a-8d6b-80d714001a3d",
+		"noteID": "kanji_刹",
 		"components": [
 			{
 				"component": "㐅",
@@ -45461,7 +45461,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_83febec0-199c-45fa-a3cf-aad89c203c59"
+		"noteID": "kanji_匈"
 	},
 	{
 		"kanji": "叭",
@@ -45520,7 +45520,7 @@
 			"has::words",
 			"strokes::5"
 		],
-		"noteID": "kanji_d4ec9fce-9da2-4c09-ac6b-3625d75fe412",
+		"noteID": "kanji_叭",
 		"components": [
 			{
 				"component": "口",
@@ -45603,7 +45603,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_06f83c08-e258-4081-8de8-5ff35ed34a61",
+		"noteID": "kanji_吼",
 		"components": [
 			{
 				"component": "口",
@@ -45680,7 +45680,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_1f8c825b-9e79-488c-aaf7-2912ad22c56e",
+		"noteID": "kanji_吝",
 		"components": [
 			{
 				"component": "文",
@@ -45759,7 +45759,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_373ac9b4-63cb-44e6-a9ff-4d82c51aa3a4",
+		"noteID": "kanji_呎",
 		"components": [
 			{
 				"component": "口",
@@ -45837,7 +45837,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_0e75f308-26d4-480d-a198-fb22333a2f47",
+		"noteID": "kanji_呵",
 		"components": [
 			{
 				"component": "口",
@@ -45913,7 +45913,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_aea794c2-946e-46f8-b9fe-cfdec78fcd6d",
+		"noteID": "kanji_咎",
 		"components": [
 			{
 				"component": "卜",
@@ -46015,7 +46015,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_c1afc7e9-0b34-4499-8f7f-88837f665f91",
+		"noteID": "kanji_呻",
 		"components": [
 			{
 				"component": "口",
@@ -46090,7 +46090,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_e2bb722d-baf6-4558-9fb4-c10fe2b03d3a",
+		"noteID": "kanji_咀",
 		"components": [
 			{
 				"component": "口",
@@ -46174,7 +46174,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_ed9daf18-5e39-4654-a5a1-0cf7bf4e0cfe",
+		"noteID": "kanji_咄",
 		"components": [
 			{
 				"component": "口",
@@ -46257,7 +46257,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_351c16c0-2f94-4534-b25c-740746af7abf",
+		"noteID": "kanji_哥",
 		"components": [
 			{
 				"component": "可",
@@ -46332,7 +46332,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_e69f68e0-6f44-4bac-b5ee-0ba8ffa62431"
+		"noteID": "kanji_哺"
 	},
 	{
 		"kanji": "啜",
@@ -46397,7 +46397,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_51c6283e-1674-42ae-80da-39ace53a1d44",
+		"noteID": "kanji_啜",
 		"components": [
 			{
 				"component": "口",
@@ -46477,7 +46477,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_8d36b266-2afe-4ac9-8389-a9e49100e59d",
+		"noteID": "kanji_喘",
 		"components": [
 			{
 				"component": "口",
@@ -46554,7 +46554,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_dede99a9-e0eb-4cf1-bef0-0ba1ebcbbe00",
+		"noteID": "kanji_嗄",
 		"components": [
 			{
 				"component": "口",
@@ -46632,7 +46632,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_30c5c033-7234-4cf6-a49c-211b39209651",
+		"noteID": "kanji_嗜",
 		"components": [
 			{
 				"component": "口",
@@ -46714,7 +46714,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_9cfba747-45a1-4f97-ba08-5fb6981937f0",
+		"noteID": "kanji_嘔",
 		"components": [
 			{
 				"component": "口",
@@ -46793,7 +46793,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_c1929478-7d03-4495-aa13-dd53d0dfa0a9",
+		"noteID": "kanji_嗾",
 		"components": [
 			{
 				"component": "口",
@@ -46870,7 +46870,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_a1a1cb0a-1562-445e-abf5-6a5789b506b6",
+		"noteID": "kanji_嘲",
 		"components": [
 			{
 				"component": "口",
@@ -46982,7 +46982,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_d6634db8-bc84-4098-94ba-81158db1f8ac",
+		"noteID": "kanji_嘸",
 		"components": [
 			{
 				"component": "口",
@@ -47083,7 +47083,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_802a8434-06ea-4fbe-ba92-d315c58d129c",
+		"noteID": "kanji_噤",
 		"components": [
 			{
 				"component": "口",
@@ -47160,7 +47160,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_3daed5bf-c59d-4530-a9f4-ad98501d2934",
+		"noteID": "kanji_囀",
 		"components": [
 			{
 				"component": "口",
@@ -47237,7 +47237,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_7be03800-1efc-47d8-9fc7-f71fcd699c11",
+		"noteID": "kanji_坩",
 		"components": [
 			{
 				"component": "土",
@@ -47320,7 +47320,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_af2fe037-f650-45f6-879e-219b1a06bcb6",
+		"noteID": "kanji_埃",
 		"components": [
 			{
 				"component": "土",
@@ -47398,7 +47398,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_55ca19e4-b933-4abc-9ede-24ece30e5d98",
+		"noteID": "kanji_埔",
 		"components": [
 			{
 				"component": "土",
@@ -47475,7 +47475,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_4f379fda-cfc9-46e0-a553-14d4c87f02be"
+		"noteID": "kanji_埒"
 	},
 	{
 		"kanji": "墺",
@@ -47544,7 +47544,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_1f8394a5-7b1b-420e-8cfe-4bb60ab898ad"
+		"noteID": "kanji_墺"
 	},
 	{
 		"kanji": "奢",
@@ -47608,7 +47608,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_c8e8d32d-6b52-42a6-927d-5426290abb57",
+		"noteID": "kanji_奢",
 		"components": [
 			{
 				"component": "大",
@@ -47683,7 +47683,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_d97d9175-1f5f-4f9c-b3c2-d84b19f677fe",
+		"noteID": "kanji_娶",
 		"components": [
 			{
 				"component": "取",
@@ -47761,7 +47761,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_407680a1-a9df-449e-8a9d-ccf69ed9c1aa"
+		"noteID": "kanji_媚"
 	},
 	{
 		"kanji": "嫋",
@@ -47836,7 +47836,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_3231fcba-d79f-4b21-9fd3-b59f9a6ce482",
+		"noteID": "kanji_嫋",
 		"components": [
 			{
 				"component": "女",
@@ -47909,7 +47909,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_b8203b41-784c-40bd-9e6b-50a10fec521a",
+		"noteID": "kanji_孵",
 		"components": [
 			{
 				"component": "卵",
@@ -47993,7 +47993,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_db355562-0673-4aa5-b0ce-e53ba2b4714a"
+		"noteID": "kanji_屁"
 	},
 	{
 		"kanji": "屓",
@@ -48057,7 +48057,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_2c0163df-780b-4e31-9052-5ead8e6f42dd",
+		"noteID": "kanji_屓",
 		"components": [
 			{
 				"component": "尸",
@@ -48138,7 +48138,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_190e3843-42db-4262-afed-b759ac6440a5",
+		"noteID": "kanji_巫",
 		"components": [
 			{
 				"component": "工",
@@ -48213,7 +48213,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_6a8fd219-3781-4133-848b-ed5e271880bd",
+		"noteID": "kanji_彙",
 		"components": [
 			{
 				"component": "彑",
@@ -48296,7 +48296,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_40e11def-7e9f-4f27-9b03-08ac749632d7",
+		"noteID": "kanji_彷",
 		"components": [
 			{
 				"component": "彳",
@@ -48374,7 +48374,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_903c938b-8d1d-4037-a536-75809bfdf9ff",
+		"noteID": "kanji_悄",
 		"components": [
 			{
 				"component": "忄",
@@ -48451,7 +48451,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_0387e9df-5c86-4fae-8b05-cd895a8eba2c"
+		"noteID": "kanji_悴"
 	},
 	{
 		"kanji": "慇",
@@ -48512,7 +48512,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_a3356757-bb46-433a-ad58-754bfd85d765",
+		"noteID": "kanji_慇",
 		"components": [
 			{
 				"component": "殷",
@@ -48591,7 +48591,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_fc72b012-5ad2-48d8-b22a-dae3e7eeaa0b",
+		"noteID": "kanji_憚",
 		"components": [
 			{
 				"component": "忄",
@@ -48668,7 +48668,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_830c7d85-0cfb-4858-890f-91aded3c36e8",
+		"noteID": "kanji_戌",
 		"mnemonic": "If you come across a rabid dog just make one slash with a dagger-axe in its direction, and there suddenly won't be any sign of the dog because it'll be dead.",
 		"components": [
 			{
@@ -48743,7 +48743,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_b8e077e4-578c-4e3b-8ec8-a5ecee633d58",
+		"noteID": "kanji_戛",
 		"components": [
 			{
 				"component": "一",
@@ -48828,7 +48828,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_29d0db04-f9a5-4c9b-acea-7d3dcf00a3ea",
+		"noteID": "kanji_抉",
 		"components": [
 			{
 				"component": "扌",
@@ -48913,7 +48913,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_40e33652-c1ce-440b-86a0-6e3657e41124",
+		"noteID": "kanji_拗",
 		"components": [
 			{
 				"component": "扌",
@@ -49000,7 +49000,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_d74df068-fc9e-44bd-b2b2-2eb2227576f9",
+		"noteID": "kanji_拉",
 		"components": [
 			{
 				"component": "扌",
@@ -49074,7 +49074,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_5aa480b7-d867-48db-bc1d-0675c0f07226",
+		"noteID": "kanji_拵",
 		"components": [
 			{
 				"component": "扌",
@@ -49152,7 +49152,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_fe65a07b-6b26-4b36-9da7-53bf43c9b9a7",
+		"noteID": "kanji_捏",
 		"components": [
 			{
 				"component": "扌",
@@ -49237,7 +49237,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_7f01f899-5686-4458-ac5b-0a0a0745a0b0",
+		"noteID": "kanji_掏",
 		"components": [
 			{
 				"component": "扌",
@@ -49335,7 +49335,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_0cab0c5c-3769-49ee-9489-afc4029d19c9",
+		"noteID": "kanji_掟",
 		"components": [
 			{
 				"component": "扌",
@@ -49416,7 +49416,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_cdd45b62-5a18-4107-80dd-2511fafdfc20",
+		"noteID": "kanji_捩",
 		"components": [
 			{
 				"component": "扌",
@@ -49502,7 +49502,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_b5402f66-3365-4740-b6ab-b0fef3af6311",
+		"noteID": "kanji_揉",
 		"components": [
 			{
 				"component": "扌",
@@ -49581,7 +49581,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_cbad1e7a-75d3-4ec9-ba38-d8ea25b90e96",
+		"noteID": "kanji_揶",
 		"components": [
 			{
 				"component": "扌",
@@ -49667,7 +49667,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_6b06fb3b-e1c0-431a-86d2-4b273331ff08"
+		"noteID": "kanji_撓"
 	},
 	{
 		"kanji": "撥",
@@ -49740,7 +49740,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_292cfe44-9145-415e-8eb8-0de6c8f83163",
+		"noteID": "kanji_撥",
 		"components": [
 			{
 				"component": "扌",
@@ -49819,7 +49819,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_4a8af1f6-5192-429d-b591-e9704ab0e62d",
+		"noteID": "kanji_擡",
 		"components": [
 			{
 				"component": "扌",
@@ -49904,7 +49904,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_28216ffc-727a-4d4e-98b7-e128f33a0df3",
+		"noteID": "kanji_擽",
 		"components": [
 			{
 				"component": "扌",
@@ -49981,7 +49981,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_40c6227b-f556-4730-8f22-66070a4bcb4e"
+		"noteID": "kanji_攣"
 	},
 	{
 		"kanji": "旁",
@@ -50050,7 +50050,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d05a5732-8daf-44a7-9d13-a4ab70d90089",
+		"noteID": "kanji_旁",
 		"components": [
 			{
 				"component": "亠",
@@ -50134,7 +50134,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_372cd937-5d25-4a31-9044-c4e43afd0121"
+		"noteID": "kanji_杳"
 	},
 	{
 		"kanji": "暈",
@@ -50204,7 +50204,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_226b4907-7a96-4f19-ae47-8f0fbbd4b88b",
+		"noteID": "kanji_暈",
 		"components": [
 			{
 				"component": "日",
@@ -50283,7 +50283,7 @@
 			"has::words",
 			"strokes::4"
 		],
-		"noteID": "kanji_7f1bcdfa-4892-44a0-824b-79a58bb8cc85"
+		"noteID": "kanji_曰"
 	},
 	{
 		"kanji": "朦",
@@ -50371,7 +50371,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_aa101230-94d1-4d7d-b8d6-15ea8922d5d6",
+		"noteID": "kanji_朦",
 		"components": [
 			{
 				"component": "月",
@@ -50446,7 +50446,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_88c18331-0c05-42a6-b01d-4e60202584ac"
+		"noteID": "kanji_朧"
 	},
 	{
 		"kanji": "梳",
@@ -50512,7 +50512,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_14de3178-135e-4ed5-a814-eb13dc30dc88",
+		"noteID": "kanji_梳",
 		"components": [
 			{
 				"component": "木",
@@ -50587,7 +50587,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_db1a8824-0364-4056-9f0a-42d252414276"
+		"noteID": "kanji_梟"
 	},
 	{
 		"kanji": "椒",
@@ -50649,7 +50649,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_20c70c67-0391-44d3-ad2d-5f7c1cfba80d",
+		"noteID": "kanji_椒",
 		"components": [
 			{
 				"component": "木",
@@ -50721,7 +50721,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_2bca3bd2-e00d-4c03-b040-32324bf6c47a"
+		"noteID": "kanji_樅"
 	},
 	{
 		"kanji": "橇",
@@ -50788,7 +50788,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_539ca38d-3b14-4fdd-a304-eda245b547a7"
+		"noteID": "kanji_橇"
 	},
 	{
 		"kanji": "檄",
@@ -50871,7 +50871,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_f132ebc3-8db7-488f-88af-2ef26553f6b2"
+		"noteID": "kanji_檄"
 	},
 	{
 		"kanji": "櫂",
@@ -50957,7 +50957,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_392e565b-1524-4cd2-8ffa-b61aedbb3592"
+		"noteID": "kanji_櫂"
 	},
 	{
 		"kanji": "檸",
@@ -51021,7 +51021,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_f3b22989-3e0c-4d48-9402-9b7e0b8efbf7",
+		"noteID": "kanji_檸",
 		"components": [
 			{
 				"component": "木",
@@ -51102,7 +51102,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_6c1dd4ba-1c43-4358-bd72-9947b4b8ff48",
+		"noteID": "kanji_毳",
 		"components": [
 			{
 				"component": "毛",
@@ -51195,7 +51195,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_41f6371e-c0ef-4bf8-87ab-81b2ed1ecc2f",
+		"noteID": "kanji_毯",
 		"mnemonic": "A carpet made out of fur will burn in intense flames when set on fire.",
 		"components": [
 			{
@@ -51272,7 +51272,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_5e588378-6b82-4668-814f-a5140a374a6f",
+		"noteID": "kanji_浚",
 		"components": [
 			{
 				"component": "氵",
@@ -51348,7 +51348,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_f11652f1-bb32-4866-b7bc-eb381b9d4f0c",
+		"noteID": "kanji_涎",
 		"components": [
 			{
 				"component": "氵",
@@ -51427,7 +51427,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_1ab4b562-baff-4fd8-976d-a723ca1903d8",
+		"noteID": "kanji_淹",
 		"components": [
 			{
 				"component": "氵",
@@ -51510,7 +51510,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_92343503-d253-4a86-8dca-56a09816d2e2",
+		"noteID": "kanji_漲",
 		"components": [
 			{
 				"component": "氵",
@@ -51588,7 +51588,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_4ef75b52-1a54-469f-bfa8-b8e31de4035a",
+		"noteID": "kanji_炒",
 		"components": [
 			{
 				"component": "火",
@@ -51666,7 +51666,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_748fe860-953a-4468-bcf3-b451a56db4ba",
+		"noteID": "kanji_炬",
 		"components": [
 			{
 				"component": "火",
@@ -51745,7 +51745,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_c7ad32d7-cb54-4503-a773-bebc5bcb7025",
+		"noteID": "kanji_燻",
 		"components": [
 			{
 				"component": "火",
@@ -51825,7 +51825,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_2eea96b5-7902-46d9-810d-e4571ed6d159",
+		"noteID": "kanji_熾",
 		"components": [
 			{
 				"component": "火",
@@ -51901,7 +51901,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_1024bc25-6212-4d2d-8ce3-e093f16b3a27"
+		"noteID": "kanji_爛"
 	},
 	{
 		"kanji": "狡",
@@ -51973,7 +51973,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_627490f9-d668-4a3b-8077-0132b5c79d6d",
+		"noteID": "kanji_狡",
 		"components": [
 			{
 				"component": "犭",
@@ -52065,7 +52065,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_b0eaf6bf-d08c-461e-9b71-a96bc44cfd38",
+		"noteID": "kanji_珀",
 		"components": [
 			{
 				"component": "王",
@@ -52150,7 +52150,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_6e4ec3c8-2b55-4854-9cdd-54ca2d322c80",
+		"noteID": "kanji_瑕",
 		"components": [
 			{
 				"component": "王",
@@ -52223,7 +52223,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_f0da7c4f-7e99-4ede-8941-f9a83aa0b9c5"
+		"noteID": "kanji_璧"
 	},
 	{
 		"kanji": "瓩",
@@ -52287,7 +52287,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_4943cbaf-f789-490d-822c-92d4d71c14f5",
+		"noteID": "kanji_瓩",
 		"components": [
 			{
 				"component": "千",
@@ -52365,7 +52365,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_80e731df-b750-4307-8fa0-59ba0aa3192c",
+		"noteID": "kanji_甦",
 		"components": [
 			{
 				"component": "生",
@@ -52437,7 +52437,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_33992260-5a6b-4ab6-956b-7cbc5d729cdb"
+		"noteID": "kanji_疔"
 	},
 	{
 		"kanji": "疣",
@@ -52499,7 +52499,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_e6ede7ba-ccb8-47d8-834f-b48f9970de1d"
+		"noteID": "kanji_疣"
 	},
 	{
 		"kanji": "疳",
@@ -52559,7 +52559,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_058e300e-aa6a-4b84-aa47-07525876c872",
+		"noteID": "kanji_疳",
 		"components": [
 			{
 				"component": "疒",
@@ -52637,7 +52637,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d505dbf2-a1f2-4685-b7d6-32fd2841c59b",
+		"noteID": "kanji_疼",
 		"components": [
 			{
 				"component": "疒",
@@ -52711,7 +52711,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_dd702bc5-6369-40de-b2a2-cfb20e131d8f",
+		"noteID": "kanji_疱",
 		"components": [
 			{
 				"component": "疒",
@@ -52786,7 +52786,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_85e50954-5446-434f-89cc-1e7df2878ffd",
+		"noteID": "kanji_痒",
 		"components": [
 			{
 				"component": "疒",
@@ -52860,7 +52860,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_737ab79b-ad0b-4964-b843-8a35b14bad0a",
+		"noteID": "kanji_痣",
 		"components": [
 			{
 				"component": "疒",
@@ -52935,7 +52935,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_2aa51a43-5b8f-4730-8f07-f6ba70b44a4f"
+		"noteID": "kanji_痞"
 	},
 	{
 		"kanji": "痰",
@@ -52997,7 +52997,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_4a88fabc-045d-4b6d-8d71-a1c097cd479d"
+		"noteID": "kanji_痰"
 	},
 	{
 		"kanji": "痺",
@@ -53062,7 +53062,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_344d3af2-ea96-4b39-923e-a727c2e3df57",
+		"noteID": "kanji_痺",
 		"components": [
 			{
 				"component": "疒",
@@ -53137,7 +53137,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_d433732b-7e95-4d66-afdb-783b579521d3"
+		"noteID": "kanji_瘡"
 	},
 	{
 		"kanji": "瘤",
@@ -53206,7 +53206,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_58e37def-0618-40a7-b6f7-3a79274dec13",
+		"noteID": "kanji_瘤",
 		"components": [
 			{
 				"component": "疒",
@@ -53280,7 +53280,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_8dd017fe-9e8d-421c-b345-391678a64dc6"
+		"noteID": "kanji_癇"
 	},
 	{
 		"kanji": "癪",
@@ -53341,7 +53341,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_8748ebb1-3bdb-4f49-83ee-0bfd968beca9"
+		"noteID": "kanji_癪"
 	},
 	{
 		"kanji": "皺",
@@ -53407,7 +53407,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_361aa5ad-7813-4773-9f25-2aee4cf827ee",
+		"noteID": "kanji_皺",
 		"components": [
 			{
 				"component": "芻",
@@ -53502,7 +53502,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_45012985-d46a-4fc9-bf4f-f04012bc7f39"
+		"noteID": "kanji_盥"
 	},
 	{
 		"kanji": "眩",
@@ -53574,7 +53574,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_1fe1c2ac-85fe-43ca-9487-62aa71c166b4",
+		"noteID": "kanji_眩",
 		"components": [
 			{
 				"component": "目",
@@ -53630,7 +53630,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_e6439a3d-3696-4675-8cfa-fb6a5a64854c",
+		"noteID": "kanji_眥",
 		"components": [
 			{
 				"component": "此",
@@ -53708,7 +53708,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_5213ce44-beca-4390-97dc-63cb3d6f15ab",
+		"noteID": "kanji_睨",
 		"components": [
 			{
 				"component": "目",
@@ -53792,7 +53792,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_77bb7da0-265b-4503-8206-44f5d9b5c81e",
+		"noteID": "kanji_碼",
 		"components": [
 			{
 				"component": "石",
@@ -53864,7 +53864,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_822043f9-4d90-4309-84d9-9a91f8eded5b"
+		"noteID": "kanji_礫"
 	},
 	{
 		"kanji": "祟",
@@ -53928,7 +53928,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_d5f8f79f-f491-40c0-9f6a-2b60ab344c2c",
+		"noteID": "kanji_祟",
 		"components": [
 			{
 				"component": "出",
@@ -54009,7 +54009,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_1fc47058-122c-402d-9c97-9faf153556a0"
+		"noteID": "kanji_禊"
 	},
 	{
 		"kanji": "窶",
@@ -54100,7 +54100,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_7ef35b93-27dc-468b-8edf-1015df34ed15",
+		"noteID": "kanji_窶",
 		"components": [
 			{
 				"component": "穴",
@@ -54178,7 +54178,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_0df7b684-28e8-4748-9e00-4e042b92cb21",
+		"noteID": "kanji_竓",
 		"components": [
 			{
 				"component": "立",
@@ -54256,7 +54256,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_a3c32803-7fdd-4ff8-bf1e-4c289358117f",
+		"noteID": "kanji_竦",
 		"components": [
 			{
 				"component": "立",
@@ -54332,7 +54332,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_8c6dd6c1-fc6c-4699-b918-a3af956917e7"
+		"noteID": "kanji_筍"
 	},
 	{
 		"kanji": "箋",
@@ -54396,7 +54396,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_ddcdfd58-6916-462e-bbad-29a76270259f"
+		"noteID": "kanji_箋"
 	},
 	{
 		"kanji": "篩",
@@ -54461,7 +54461,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_c4f60363-08f0-41cb-a903-cbe88793dbf8"
+		"noteID": "kanji_篩"
 	},
 	{
 		"kanji": "籐",
@@ -54520,7 +54520,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_c2e0a16d-b9d2-4033-bbe8-dab1e6b8fd4e"
+		"noteID": "kanji_籐"
 	},
 	{
 		"kanji": "籤",
@@ -54586,7 +54586,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_1d99c6fb-e0c8-4d23-aa10-b3d46049b62e",
+		"noteID": "kanji_籤",
 		"components": [
 			{
 				"component": "竹",
@@ -54669,7 +54669,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_934f5bbf-4485-4d40-9bce-765d76c3c2c9",
+		"noteID": "kanji_紲",
 		"components": [
 			{
 				"component": "糸",
@@ -54743,7 +54743,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_c49fa107-8a35-4e01-a040-5289e9d4c881",
+		"noteID": "kanji_絆",
 		"components": [
 			{
 				"component": "糸",
@@ -54843,7 +54843,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_74dcbd5d-2ac0-440e-9eb6-55b23ef8541a",
+		"noteID": "kanji_綽",
 		"components": [
 			{
 				"component": "糸",
@@ -54923,7 +54923,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_8bb50028-66e2-464d-a512-1b40c6933d7d",
+		"noteID": "kanji_綯",
 		"components": [
 			{
 				"component": "糸",
@@ -55022,7 +55022,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_440fe4eb-f54a-46b1-8081-b524e9e346e3",
+		"noteID": "kanji_縋",
 		"components": [
 			{
 				"component": "糸",
@@ -55099,7 +55099,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_06412e08-5657-4dfc-9ff9-b4d4f1b809b4",
+		"noteID": "kanji_縺",
 		"components": [
 			{
 				"component": "糸",
@@ -55182,7 +55182,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_b291434a-b94e-4c76-8b9a-21ffd4f0225a",
+		"noteID": "kanji_罅",
 		"components": [
 			{
 				"component": "缶",
@@ -55261,7 +55261,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_fdcd1a51-b45a-4b41-9514-bd19c0320927",
+		"noteID": "kanji_罠",
 		"mnemonic": "Put up a small net to catch a bunch of people in a trap!",
 		"components": [
 			{
@@ -55342,7 +55342,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_b5eeabc6-d848-4951-b63b-dd5077f5d6c9",
+		"noteID": "kanji_翳",
 		"components": [
 			{
 				"component": "医",
@@ -55420,7 +55420,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_65b4bec3-d1e8-4e04-a670-9b25afb65199",
+		"noteID": "kanji_胝",
 		"components": [
 			{
 				"component": "月",
@@ -55492,7 +55492,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_4850875f-e867-4800-bcdf-a9b2a62d98a1",
+		"noteID": "kanji_胱",
 		"components": [
 			{
 				"component": "月",
@@ -55570,7 +55570,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_086fc1fb-9b9e-4201-a86c-09f7186538d8",
+		"noteID": "kanji_脛",
 		"components": [
 			{
 				"component": "月",
@@ -55646,7 +55646,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_77c097e5-4d28-4cc8-bd1a-26cd5659d871"
+		"noteID": "kanji_腑"
 	},
 	{
 		"kanji": "腱",
@@ -55706,7 +55706,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_4bf7ee4e-e4df-4a7d-acb3-d73330a485a1",
+		"noteID": "kanji_腱",
 		"components": [
 			{
 				"component": "月",
@@ -55808,7 +55808,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_374d8ee6-2b47-4adb-af06-6cd432e4f212",
+		"noteID": "kanji_腮",
 		"components": [
 			{
 				"component": "月",
@@ -55886,7 +55886,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_1f5e7202-bdcf-4adc-a3e0-f32907a24079"
+		"noteID": "kanji_膠"
 	},
 	{
 		"kanji": "臘",
@@ -55950,7 +55950,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_0688f15d-3fe4-4d6c-bad0-fc36d8ef3edc"
+		"noteID": "kanji_臘"
 	},
 	{
 		"kanji": "舅",
@@ -56011,7 +56011,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_371f5b77-a125-4c02-acc4-1f5c4a1a452b",
+		"noteID": "kanji_舅",
 		"components": [
 			{
 				"component": "臼",
@@ -56105,7 +56105,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_b5e88525-de6b-485e-beab-11415a396b19"
+		"noteID": "kanji_艘"
 	},
 	{
 		"kanji": "芒",
@@ -56175,7 +56175,7 @@
 			"has::words",
 			"strokes::6"
 		],
-		"noteID": "kanji_f628e258-ee92-4e57-94e9-b3b4fa0fe22f"
+		"noteID": "kanji_芒"
 	},
 	{
 		"kanji": "芬",
@@ -56243,7 +56243,7 @@
 			"has::words",
 			"strokes::7"
 		],
-		"noteID": "kanji_5ea2bdb9-17be-4e0e-835c-604e5762e264",
+		"noteID": "kanji_芬",
 		"components": [
 			{
 				"component": "艹",
@@ -56343,7 +56343,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_93f6600e-033e-4453-9f8c-616d3d4c06c2",
+		"noteID": "kanji_苟",
 		"components": [
 			{
 				"component": "艹",
@@ -56416,7 +56416,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_86e9e8bb-a105-4dc2-b5d4-89533fb16cb8",
+		"noteID": "kanji_苺",
 		"components": [
 			{
 				"component": "艹",
@@ -56497,7 +56497,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_8ff43e0e-8b2b-4f16-b4cc-74182f194c3c",
+		"noteID": "kanji_茹",
 		"components": [
 			{
 				"component": "艹",
@@ -56571,7 +56571,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_b295dd49-4963-440a-bdd9-d07d19f80a93"
+		"noteID": "kanji_茫"
 	},
 	{
 		"kanji": "莢",
@@ -56636,7 +56636,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_ffd0d80d-a6d5-49c3-97b9-550899f0a349"
+		"noteID": "kanji_莢"
 	},
 	{
 		"kanji": "蓼",
@@ -56701,7 +56701,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_18fdbd2a-efa3-4984-bc6f-cfff40ec7a39"
+		"noteID": "kanji_蓼"
 	},
 	{
 		"kanji": "薔",
@@ -56776,7 +56776,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_e13a33ba-fefc-494b-93a3-fac6cd14211d",
+		"noteID": "kanji_薔",
 		"components": [
 			{
 				"component": "艹",
@@ -56850,7 +56850,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_d5d9fa26-3827-418e-a9c7-9579c10647d5"
+		"noteID": "kanji_虱"
 	},
 	{
 		"kanji": "蚓",
@@ -56916,7 +56916,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_dcc1a81c-df5d-426b-867c-606c8bc102f3",
+		"noteID": "kanji_蚓",
 		"components": [
 			{
 				"component": "虫",
@@ -57013,7 +57013,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_38c9b5fe-d0a7-4158-8190-433cb3cd26e4"
+		"noteID": "kanji_蛆"
 	},
 	{
 		"kanji": "蛉",
@@ -57077,7 +57077,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_195fd5b5-4db3-4978-9013-a32c883ae467",
+		"noteID": "kanji_蛉",
 		"components": [
 			{
 				"component": "虫",
@@ -57174,7 +57174,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_3805f212-3f2e-4a81-b0bf-de71b2cf9f60",
+		"noteID": "kanji_蛩",
 		"components": [
 			{
 				"component": "工",
@@ -57250,7 +57250,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_dfc107d4-50a8-422e-8b89-eac4973fcc7c",
+		"noteID": "kanji_蜒",
 		"components": [
 			{
 				"component": "虫",
@@ -57328,7 +57328,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_808db66c-50ff-4c03-a1dc-8e517bcb1393"
+		"noteID": "kanji_蜀"
 	},
 	{
 		"kanji": "蛹",
@@ -57391,7 +57391,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_2f7773a6-26a1-482f-a7bb-d5cf77bdab08"
+		"noteID": "kanji_蛹"
 	},
 	{
 		"kanji": "蜚",
@@ -57457,7 +57457,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_b0ad3805-7404-4c97-ae54-1fd2ffd7389f",
+		"noteID": "kanji_蜚",
 		"components": [
 			{
 				"component": "非",
@@ -57528,7 +57528,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_c7f35066-bde9-4cea-95d7-e80461e20c7f",
+		"noteID": "kanji_蝠",
 		"components": [
 			{
 				"component": "虫",
@@ -57604,7 +57604,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_60eabb3e-6407-4b83-9ef3-923d9dd576bd",
+		"noteID": "kanji_雖",
 		"components": [
 			{
 				"component": "口",
@@ -57683,7 +57683,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_223afdf1-72cb-4868-855e-c5668d46da94"
+		"noteID": "kanji_衾"
 	},
 	{
 		"kanji": "袂",
@@ -57749,7 +57749,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_f593d7ab-bdda-4bad-bd42-45b19a0ca709"
+		"noteID": "kanji_袂"
 	},
 	{
 		"kanji": "褄",
@@ -57810,7 +57810,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_a614870b-d86d-4b1f-8014-a2786141139c",
+		"noteID": "kanji_褄",
 		"components": [
 			{
 				"component": "衤",
@@ -57885,7 +57885,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_122e91d4-2b06-40dc-92e7-539089f1d2a0",
+		"noteID": "kanji_褪",
 		"components": [
 			{
 				"component": "衤",
@@ -57967,7 +57967,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_3a141e0d-07a9-4e41-aff2-d51cc55e10b3",
+		"noteID": "kanji_褸",
 		"components": [
 			{
 				"component": "衤",
@@ -58059,7 +58059,7 @@
 			"has::words",
 			"strokes::9"
 		],
-		"noteID": "kanji_d416bbde-5823-4773-8927-0ec4044c2a87"
+		"noteID": "kanji_訃"
 	},
 	{
 		"kanji": "訛",
@@ -58124,7 +58124,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_b4c36f80-3bdb-40f5-8cf7-e03f27854d12",
+		"noteID": "kanji_訛",
 		"components": [
 			{
 				"component": "言",
@@ -58196,7 +58196,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_5a42a408-1501-4855-b6af-3b4351fc5db9",
+		"noteID": "kanji_訝",
 		"components": [
 			{
 				"component": "言",
@@ -58292,7 +58292,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_fc5a5050-2d0c-4675-ac28-6b63a785ba26",
+		"noteID": "kanji_誂",
 		"components": [
 			{
 				"component": "言",
@@ -58391,7 +58391,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_b2944d20-3938-4de3-a710-b7c14134037e",
+		"noteID": "kanji_諍",
 		"components": [
 			{
 				"component": "言",
@@ -58493,7 +58493,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_810dc6ee-c475-45ba-80ff-8109f8558e4f",
+		"noteID": "kanji_諂",
 		"components": [
 			{
 				"component": "言",
@@ -58598,7 +58598,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_a3078621-38de-40a3-9e06-661a33c0bff5",
+		"noteID": "kanji_諤",
 		"components": [
 			{
 				"component": "言",
@@ -58699,7 +58699,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_e5822b8f-fd3a-42af-9593-3e79f9423ecd",
+		"noteID": "kanji_謳",
 		"components": [
 			{
 				"component": "言",
@@ -58774,7 +58774,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_d2a76c3f-a632-4153-8a10-fb75228a7784",
+		"noteID": "kanji_貪",
 		"components": [
 			{
 				"component": "今",
@@ -58853,7 +58853,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_20638d80-ea5a-43d4-a574-7c7bdb2b6f0a",
+		"noteID": "kanji_貶",
 		"components": [
 			{
 				"component": "貝",
@@ -58950,7 +58950,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_521233d0-bee8-4923-ac3e-1254ba397175",
+		"noteID": "kanji_賺",
 		"components": [
 			{
 				"component": "貝",
@@ -59028,7 +59028,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_fe1c03ab-3fbc-45b3-bb38-9b1c5862a012"
+		"noteID": "kanji_贅"
 	},
 	{
 		"kanji": "跚",
@@ -59091,7 +59091,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_93f2f742-6200-4527-a639-17a926dc8898",
+		"noteID": "kanji_跚",
 		"components": [
 			{
 				"component": "𧾷",
@@ -59172,7 +59172,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_6989f957-abc9-4db5-9f6c-24085e79285b",
+		"noteID": "kanji_踉",
 		"components": [
 			{
 				"component": "𧾷",
@@ -59245,7 +59245,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_c14b70ea-ac01-453c-b909-a2b41f27c60d"
+		"noteID": "kanji_踝"
 	},
 	{
 		"kanji": "踞",
@@ -59334,7 +59334,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_f25fce44-d9de-4b27-94d7-2ea386537d7e",
+		"noteID": "kanji_踞",
 		"components": [
 			{
 				"component": "𧾷",
@@ -59412,7 +59412,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_3d10fb6a-c538-4745-b64e-48878382d9e6",
+		"noteID": "kanji_蹙",
 		"components": [
 			{
 				"component": "戚",
@@ -59489,7 +59489,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_3e497784-f96b-4ba4-9087-871492f1cb09",
+		"noteID": "kanji_躇",
 		"components": [
 			{
 				"component": "𧾷",
@@ -59568,7 +59568,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_13331ff7-687a-4d56-ae05-fc01dc24eceb",
+		"noteID": "kanji_躅",
 		"components": [
 			{
 				"component": "𧾷",
@@ -59644,7 +59644,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_523231a5-4aa8-4ada-888e-aa494532c1dc",
+		"noteID": "kanji_躙",
 		"components": [
 			{
 				"component": "𧾷",
@@ -59744,7 +59744,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_eebdddc7-2348-4d51-be87-ce48ba3fb6e5",
+		"noteID": "kanji_躾",
 		"components": [
 			{
 				"component": "身",
@@ -59821,7 +59821,7 @@
 			"has::words",
 			"strokes::8"
 		],
-		"noteID": "kanji_5fc2e834-9bf4-41ee-bccb-2b02e27023c7",
+		"noteID": "kanji_軋",
 		"components": [
 			{
 				"component": "車",
@@ -59895,7 +59895,7 @@
 			"has::words",
 			"strokes::22"
 		],
-		"noteID": "kanji_f2aee7f7-e08c-47b2-82b3-529fd29478d6",
+		"noteID": "kanji_轢",
 		"components": [
 			{
 				"component": "車",
@@ -59974,7 +59974,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_5bdb6c52-7d07-4528-86bb-01ddb3485209"
+		"noteID": "kanji_辟"
 	},
 	{
 		"kanji": "迸",
@@ -60043,7 +60043,7 @@
 			"has::words",
 			"strokes::10"
 		],
-		"noteID": "kanji_57ce90f5-9af0-4745-ad26-9cfe068065d7",
+		"noteID": "kanji_迸",
 		"components": [
 			{
 				"component": "丷",
@@ -60125,7 +60125,7 @@
 			"has::words",
 			"strokes::14"
 		],
-		"noteID": "kanji_4d7e9610-569e-4184-93ca-c9f069d76b1e"
+		"noteID": "kanji_鄙"
 	},
 	{
 		"kanji": "酣",
@@ -60190,7 +60190,7 @@
 			"has::words",
 			"strokes::12"
 		],
-		"noteID": "kanji_10226b02-63df-4d9b-97ff-7f9808d46542"
+		"noteID": "kanji_酣"
 	},
 	{
 		"kanji": "鉋",
@@ -60252,7 +60252,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_450b3e72-33e4-4da6-83c8-dab6d6de1b5a"
+		"noteID": "kanji_鉋"
 	},
 	{
 		"kanji": "錚",
@@ -60314,7 +60314,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_aa1b5636-ff45-45a4-b3f2-ca5aa679b1be",
+		"noteID": "kanji_錚",
 		"components": [
 			{
 				"component": "金",
@@ -60395,7 +60395,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_c38d2f7a-8dd0-406a-b576-3619bad091bf"
+		"noteID": "kanji_鎬"
 	},
 	{
 		"kanji": "鎹",
@@ -60478,7 +60478,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_c584c2ce-bcff-485f-b5e8-b5f463e6da9f"
+		"noteID": "kanji_鎹"
 	},
 	{
 		"kanji": "鑢",
@@ -60541,7 +60541,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_9015ba62-94cf-4c31-9620-3ad405f1681c"
+		"noteID": "kanji_鑢"
 	},
 	{
 		"kanji": "雹",
@@ -60604,7 +60604,7 @@
 			"has::words",
 			"strokes::13"
 		],
-		"noteID": "kanji_037ac64b-d25a-4298-b25a-c8c7a9e08eff"
+		"noteID": "kanji_雹"
 	},
 	{
 		"kanji": "霹",
@@ -60686,7 +60686,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_d28a40c0-335e-472f-837a-cd687298eccc",
+		"noteID": "kanji_霹",
 		"components": [
 			{
 				"component": "雨",
@@ -60761,7 +60761,7 @@
 			"has::words",
 			"strokes::24"
 		],
-		"noteID": "kanji_5e368c5f-a19d-45e5-9340-6217004b34ce"
+		"noteID": "kanji_靄"
 	},
 	{
 		"kanji": "鞦",
@@ -60826,7 +60826,7 @@
 			"has::words",
 			"strokes::18"
 		],
-		"noteID": "kanji_82d92bb0-1146-4e99-ba78-c228b8d1ce80",
+		"noteID": "kanji_鞦",
 		"components": [
 			{
 				"component": "革",
@@ -60901,7 +60901,7 @@
 			"has::words",
 			"strokes::16"
 		],
-		"noteID": "kanji_ccab5caa-ac7b-43cc-b2dd-a65977fc6673",
+		"noteID": "kanji_頷",
 		"components": [
 			{
 				"component": "含",
@@ -60979,7 +60979,7 @@
 			"has::words",
 			"strokes::24"
 		],
-		"noteID": "kanji_f58e933d-0568-430f-a4aa-191114462919"
+		"noteID": "kanji_顰"
 	},
 	{
 		"kanji": "飄",
@@ -61043,7 +61043,7 @@
 			"has::words",
 			"strokes::20"
 		],
-		"noteID": "kanji_72b347f6-a2bc-4868-92b7-9f85c9c4504c",
+		"noteID": "kanji_飄",
 		"components": [
 			{
 				"component": "票",
@@ -61120,7 +61120,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_e11b2c16-8629-4952-ab2c-083a0eb36a94",
+		"noteID": "kanji_饑",
 		"components": [
 			{
 				"component": "𩙿",
@@ -61200,7 +61200,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_dffc7165-faf3-499f-bd8d-04b6d0cf36ed",
+		"noteID": "kanji_駝",
 		"components": [
 			{
 				"component": "馬",
@@ -61274,7 +61274,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_083d923b-058b-4037-8cb2-2e01492d9380",
+		"noteID": "kanji_騙",
 		"components": [
 			{
 				"component": "馬",
@@ -61352,7 +61352,7 @@
 			"has::words",
 			"strokes::21"
 		],
-		"noteID": "kanji_ddca2e76-0ce8-4eb7-a3a1-5718931eda9e",
+		"noteID": "kanji_鬘",
 		"components": [
 			{
 				"component": "髟",
@@ -61427,7 +61427,7 @@
 			"has::words",
 			"strokes::15"
 		],
-		"noteID": "kanji_a1a19fe0-d5b6-4a1d-8278-3aa2d734eead"
+		"noteID": "kanji_魄"
 	},
 	{
 		"kanji": "魘",
@@ -61496,7 +61496,7 @@
 			"has::words",
 			"strokes::24"
 		],
-		"noteID": "kanji_1f5dc199-215e-4671-9467-71562542933d",
+		"noteID": "kanji_魘",
 		"components": [
 			{
 				"component": "厭",
@@ -61573,7 +61573,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_4da76219-5de0-49d5-95c3-e5ca0fcc857b"
+		"noteID": "kanji_鯔"
 	},
 	{
 		"kanji": "鶇",
@@ -61657,7 +61657,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_88688e44-c9cb-4241-8bad-8bad91543895",
+		"noteID": "kanji_鶇",
 		"components": [
 			{
 				"component": "東",
@@ -61739,7 +61739,7 @@
 			"has::words",
 			"strokes::19"
 		],
-		"noteID": "kanji_8222f775-9ce7-4286-a973-108005ac2f9c",
+		"noteID": "kanji_靡",
 		"components": [
 			{
 				"component": "麻",
@@ -61819,7 +61819,7 @@
 			"has::words",
 			"strokes::23"
 		],
-		"noteID": "kanji_5c2ebcd3-b83c-4d90-8f8b-de12e3ccaa0c",
+		"noteID": "kanji_黴",
 		"components": [
 			{
 				"component": "彳",
@@ -61905,7 +61905,7 @@
 			"has::words",
 			"strokes::25"
 		],
-		"noteID": "kanji_b16b3eae-14fd-4edb-81fa-c4747b74d4df"
+		"noteID": "kanji_鼈"
 	},
 	{
 		"kanji": "捥",
@@ -61981,7 +61981,7 @@
 			"has::words",
 			"strokes::11"
 		],
-		"noteID": "kanji_3bc0df69-b643-4fd8-ac9f-df834897d490",
+		"noteID": "kanji_捥",
 		"components": [
 			{
 				"component": "扌",
@@ -62059,7 +62059,7 @@
 			"has::words",
 			"strokes::17"
 		],
-		"noteID": "kanji_4fe09b38-83b7-4b72-837d-eb27f1e177aa",
+		"noteID": "kanji_擤",
 		"components": [
 			{
 				"component": "扌",

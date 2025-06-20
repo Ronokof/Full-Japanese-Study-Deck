@@ -42,7 +42,7 @@
 			"grammar::N5"
 		],
 		"id": "725",
-		"noteID": "grammar_b2e5ce5e-fcb7-46a6-915b-81e37190354f"
+		"noteID": "grammar_725"
 	},
 	{
 		"point": "〜に",
@@ -87,7 +87,7 @@
 			"grammar::N5"
 		],
 		"id": "626",
-		"noteID": "grammar_1a5808f8-0540-419d-9086-7e8390f5c081"
+		"noteID": "grammar_626"
 	},
 	{
 		"point": "いくら (幾等)",
@@ -128,7 +128,7 @@
 			"grammar::N5"
 		],
 		"id": "623",
-		"noteID": "grammar_a0758964-ef3b-45df-b989-dbf64f1b9138"
+		"noteID": "grammar_623"
 	},
 	{
 		"point": "〜で",
@@ -169,7 +169,7 @@
 			"grammar::N5"
 		],
 		"id": "624",
-		"noteID": "grammar_edd73ddc-5376-4878-bc63-b447228cc81d"
+		"noteID": "grammar_624"
 	},
 	{
 		"point": "〜が",
@@ -214,7 +214,7 @@
 			"grammar::N5"
 		],
 		"id": "754",
-		"noteID": "grammar_46c52303-19f6-461a-8546-37b1e065861d"
+		"noteID": "grammar_754"
 	},
 	{
 		"point": "何",
@@ -260,7 +260,7 @@
 			"grammar::N5"
 		],
 		"id": "629",
-		"noteID": "grammar_fb8affc6-ee93-4064-a801-7e1e2c70703d"
+		"noteID": "grammar_629"
 	},
 	{
 		"point": "まで",
@@ -301,7 +301,7 @@
 			"grammar::N5"
 		],
 		"id": "719",
-		"noteID": "grammar_32a7ba8c-6c51-46df-bac9-e410288b658c"
+		"noteID": "grammar_719"
 	},
 	{
 		"point": "〜を",
@@ -346,7 +346,7 @@
 			"grammar::N5"
 		],
 		"id": "765",
-		"noteID": "grammar_82549fd0-ab79-487b-86b8-b7294b2060d8"
+		"noteID": "grammar_765"
 	},
 	{
 		"point": "〜も",
@@ -387,7 +387,7 @@
 			"grammar::N5"
 		],
 		"id": "576",
-		"noteID": "grammar_540c6478-9e39-44c7-96ee-6da7f130e374"
+		"noteID": "grammar_576"
 	},
 	{
 		"point": "てから",
@@ -435,7 +435,7 @@
 			"grammar::N5"
 		],
 		"id": "1269",
-		"noteID": "grammar_9b03f774-cb95-4664-9ccf-10e360d92703"
+		"noteID": "grammar_1269"
 	},
 	{
 		"point": "〜に",
@@ -476,7 +476,7 @@
 			"grammar::N5"
 		],
 		"id": "659",
-		"noteID": "grammar_c9a3d102-4d44-4759-9b01-0b6809278af7"
+		"noteID": "grammar_659"
 	},
 	{
 		"point": "〜の",
@@ -521,7 +521,7 @@
 			"grammar::N5"
 		],
 		"id": "574",
-		"noteID": "grammar_d2cec798-f1f7-42fd-8c38-1d87b7d27a15"
+		"noteID": "grammar_574"
 	},
 	{
 		"point": "から",
@@ -565,7 +565,7 @@
 			"grammar::N5"
 		],
 		"id": "1216",
-		"noteID": "grammar_0a794974-13d4-4dea-82df-aa1f18c653c0"
+		"noteID": "grammar_1216"
 	},
 	{
 		"point": "〜たい",
@@ -610,7 +610,7 @@
 			"grammar::N5"
 		],
 		"id": "1538",
-		"noteID": "grammar_bc6a0ec4-85b0-4f50-973d-566a573eae8b"
+		"noteID": "grammar_1538"
 	},
 	{
 		"point": "これ(此・是・之・惟)、それ(其), あれ(彼)",
@@ -651,7 +651,7 @@
 			"grammar::N5"
 		],
 		"id": "580",
-		"noteID": "grammar_f92264bd-3735-4845-a5cd-a3317f7385fe"
+		"noteID": "grammar_580"
 	},
 	{
 		"point": "だけ",
@@ -692,6 +692,6 @@
 			"grammar::N5"
 		],
 		"id": "249",
-		"noteID": "grammar_219f0e23-0649-4721-8d8c-1b43bd0a4e90"
+		"noteID": "grammar_249"
 	}
 ]

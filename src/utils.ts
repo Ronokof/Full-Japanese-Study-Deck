@@ -1,6 +1,5 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
-import { UUID } from 'crypto';
 
 export const deckName: string = 'Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]';
 
@@ -49,7 +48,7 @@ export interface Kanji {
     tags?: string[] | undefined;
     id?: string | undefined;
     source?: string | undefined;
-    noteID?: `kanji_${UUID}` | undefined;
+    noteID?: `kanji_${string}` | undefined;
     doNotCreateNote?: true | undefined;
 }
 
@@ -64,7 +63,7 @@ export interface Radical {
     tags?: string[] | undefined;
     id?: string | undefined;
     sources?: string[] | undefined;
-    noteID?: `radical_${UUID}` | undefined;
+    noteID?: `radical_${string}` | undefined;
 }
 
 export interface Phrase {
@@ -83,7 +82,7 @@ export interface Word {
     image?: string | undefined;
     common?: true | undefined;
     tags?: string[] | undefined;
-    noteID?: `word_${UUID}` | undefined;
+    noteID?: `word_${string}` | undefined;
 }
 
 export interface Kana {
@@ -93,7 +92,7 @@ export interface Kana {
     svg?: string | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
-    noteID?: `kana_${UUID}` | undefined;
+    noteID?: `kana_${string}` | undefined;
 }
 
 export interface GrammarMeaning {
@@ -112,7 +111,7 @@ export interface Grammar {
     audio?: string | undefined;
     tags?: string[] | undefined;
     id?: string | undefined;
-    noteID?: `grammar_${UUID}` | undefined;
+    noteID?: `grammar_${string}` | undefined;
 }
 
 export type Result = Word | Kanji | Radical | Kana | Grammar;
