@@ -85,9 +85,9 @@
 				"translation": "like that, so",
 				"notes": [
 					"Adverb (fukushi)",
-					"こう・1",
-					"そう・1",
-					"どう",
+					"Related: こう・1",
+					"Related: そう・1",
+					"Related: どう",
 					"Used for something or someone distant from both speaker and listener"
 				]
 			}
@@ -139,7 +139,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"愛する"
+					"Related: 愛する"
 				]
 			},
 			{
@@ -154,7 +154,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Christianity",
-					"アガペー・1"
+					"Related: アガペー・1"
 				]
 			},
 			{
@@ -695,7 +695,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Sports",
-					"イン・1"
+					"Related: イン・1"
 				]
 			},
 			{
@@ -703,14 +703,14 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Baseball",
-					"セーフ・1"
+					"Related: セーフ・1"
 				]
 			},
 			{
 				"translation": "outer, external, outside",
 				"notes": [
 					"Noun or verb acting prenominally",
-					"イン・2"
+					"Related: イン・2"
 				]
 			},
 			{
@@ -725,21 +725,21 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Golf",
-					"イン・4"
+					"Related: イン・4"
 				]
 			},
 			{
 				"translation": "no good, unacceptable, out of line, over, finished, disqualified",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"セーフ・3"
+					"Antonym: セーフ・3"
 				]
 			},
 			{
 				"translation": "check-out time",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"チェックアウト",
+					"Related: チェックアウト",
 					"Abbreviation"
 				]
 			}
@@ -1844,7 +1844,7 @@
 					"Meaning restricted to 温める",
 					"Ichidan verb",
 					"Transitive verb",
-					"旧交を温める"
+					"Related: 旧交を温める"
 				]
 			},
 			{
@@ -1969,7 +1969,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Fishing",
-					"魚信",
+					"Related: 魚信",
 					"Also written as 魚信"
 				]
 			},
@@ -2962,7 +2962,7 @@
 				"translation": "good place not many people know about, well-kept secret",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"穴場・1"
+					"Related: 穴場・1"
 				]
 			},
 			{
@@ -2975,7 +2975,7 @@
 				"translation": "(partitioned) box (type of floor seating in a traditional Japanese theatre)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"枡・2",
+					"Related: 枡・2",
 					"Theatre jargon"
 				]
 			},
@@ -3180,9 +3180,9 @@
 				"translation": "that, those, the",
 				"notes": [
 					"Pre-noun adjectival (rentaishi)",
-					"どの",
-					"この・1",
-					"その・1",
+					"Related: どの",
+					"Related: この・1",
+					"Related: その・1",
 					"Someone or something distant from both speaker and listener, or situation unfamiliar to both speaker and listener",
 					"Word usually written using kana alone"
 				]
@@ -3254,7 +3254,7 @@
 				"translation": "oil",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"脂・あぶら"
+					"Related: 脂・あぶら"
 				]
 			}
 		],
@@ -4125,9 +4125,9 @@
 				"translation": "that, that thing",
 				"notes": [
 					"Pronoun",
-					"これ・1",
-					"それ・1",
-					"どれ・1",
+					"Related: これ・1",
+					"Related: それ・1",
+					"Related: どれ・1",
 					"Indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly",
 					"Word usually written using kana alone"
 				]
@@ -4389,7 +4389,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"顔を合わせる・1"
+					"Related: 顔を合わせる・1"
 				]
 			},
 			{
@@ -4404,7 +4404,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"遭う・1"
+					"Related: 遭う・1"
 				]
 			},
 			{
@@ -4508,7 +4508,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Food, cooking",
-					"餡こ・1",
+					"Related: 餡こ・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -4517,7 +4517,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Food, cooking",
-					"葛餡",
+					"Related: 葛餡",
 					"Word usually written using kana alone"
 				]
 			},
@@ -4533,7 +4533,7 @@
 				"translation": "filling, stuffing, inside",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"餡子・2",
+					"Related: 餡子・2",
 					"Word usually written using kana alone"
 				]
 			}
@@ -4872,10 +4872,10 @@
 				"translation": "that sort of, that kind of, like that, such, so",
 				"notes": [
 					"Pre-noun adjectival (rentaishi)",
-					"あんなに",
-					"こんな",
-					"そんな・1",
-					"どんな・1",
+					"Related: あんなに",
+					"Related: こんな",
+					"Related: そんな・1",
+					"Related: どんな・1",
 					"About something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener"
 				]
 			}
@@ -5104,8 +5104,8 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Astronomy",
-					"胃宿",
-					"白虎・びゃっこ・2"
+					"Related: 胃宿",
+					"Related: 白虎・びゃっこ・2"
 				]
 			}
 		],
@@ -5172,7 +5172,7 @@
 				"translation": "good, excellent, fine, nice, pleasant, agreeable",
 				"notes": [
 					"Adjective (keiyoushi) - yoi/ii class",
-					"良い・よい・1",
+					"Related: 良い・よい・1",
 					"Also written 良い, 好い and 善い"
 				]
 			},
@@ -5180,21 +5180,21 @@
 				"translation": "sufficient, enough, ready, prepared",
 				"notes": [
 					"Adjective (keiyoushi) - yoi/ii class",
-					"良い・よい・2"
+					"Related: 良い・よい・2"
 				]
 			},
 			{
 				"translation": "profitable (deal, business offer, etc.), beneficial",
 				"notes": [
 					"Adjective (keiyoushi) - yoi/ii class",
-					"良い・よい・3"
+					"Related: 良い・よい・3"
 				]
 			},
 			{
 				"translation": "OK, all right, fine, no problem",
 				"notes": [
 					"Adjective (keiyoushi) - yoi/ii class",
-					"良い・よい・4",
+					"Related: 良い・よい・4",
 					"As て(も)いい, と(も)いい, etc.; indicates permission or compromise"
 				]
 			}
@@ -5503,7 +5503,7 @@
 				"translation": "concord, harmony, rapport",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"息が合う"
+					"Related: 息が合う"
 				]
 			},
 			{
@@ -6053,7 +6053,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Mathematics",
-					"等号"
+					"Related: 等号"
 				]
 			},
 			{
@@ -6436,7 +6436,7 @@
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"正常"
+					"Antonym: 正常"
 				]
 			}
 		],
@@ -6801,15 +6801,15 @@
 				"translation": "cutting board, chopping board",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"俎板・1"
+					"Related: 俎板・1"
 				]
 			},
 			{
 				"translation": "chef (esp. of high-end Japanese cuisine), cook",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"板前・1",
-					"板場・いたば・2",
+					"Related: 板前・1",
+					"Related: 板場・いたば・2",
 					"Usu. as 板さん",
 					"Abbreviation"
 				]
@@ -7018,7 +7018,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"抱く・だく・1",
+					"Related: 抱く・だく・1",
 					"Formal or literary term"
 				]
 			},
@@ -7285,7 +7285,7 @@
 				"notes": [
 					"Literal meaning",
 					"Expressions (phrases, clauses, etc.)",
-					"頂く・いただく・1",
+					"Related: 頂く・いただく・1",
 					"Word usually written using kana alone"
 				]
 			}
@@ -8539,7 +8539,7 @@
 				"translation": "rather, sooner, preferably",
 				"notes": [
 					"Adverb (fukushi)",
-					"いっそ・1",
+					"Related: いっそ・1",
 					"Obsolete term"
 				]
 			}
@@ -8642,7 +8642,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adverb (fukushi)",
-					"一体に"
+					"Related: 一体に"
 				]
 			}
 		],
@@ -9029,7 +9029,7 @@
 				"translation": "good bye, I'm off, see you later",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"行ってきます",
+					"Related: 行ってきます",
 					"Polite (teineigo) language"
 				]
 			}
@@ -9095,7 +9095,7 @@
 				"translation": "I'm off, see you later",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"行って来る・1",
+					"Related: 行って来る・1",
 					"Often has a response of いってらっしゃい",
 					"Polite (teineigo) language"
 				]
@@ -9341,7 +9341,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"特殊"
+					"Antonym: 特殊"
 				]
 			},
 			{
@@ -9432,7 +9432,7 @@
 				"translation": "on the one hand, on the other hand",
 				"notes": [
 					"Conjunction",
-					"他方・2"
+					"Related: 他方・2"
 				]
 			},
 			{
@@ -9875,7 +9875,7 @@
 				"translation": "cousin (male)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"従姉妹",
+					"Related: 従姉妹",
 					"Word usually written using kana alone"
 				]
 			}
@@ -10036,7 +10036,7 @@
 				"translation": "life, life force",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"生命・3",
+					"Related: 生命・3",
 					"Sometimes written as 生命"
 				]
 			},
@@ -10134,7 +10134,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"違犯・いはん"
+					"Related: 違犯・いはん"
 				]
 			}
 		],
@@ -10715,7 +10715,7 @@
 				"translation": "come, go, stay",
 				"notes": [
 					"Interjection (kandoushi)",
-					"いらっしゃる・1",
+					"Related: いらっしゃる・1",
 					"Used as a polite imperative",
 					"Honorific or respectful (sonkeigo) language"
 				]
@@ -10724,7 +10724,7 @@
 				"translation": "welcome",
 				"notes": [
 					"Interjection (kandoushi)",
-					"いらっしゃいませ"
+					"Related: いらっしゃいませ"
 				]
 			}
 		],
@@ -10960,7 +10960,7 @@
 				"translation": "congratulation, congratulations, celebration, festival",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お祝い・1"
+					"Related: お祝い・1"
 				]
 			},
 			{
@@ -11829,7 +11829,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"含嗽",
+					"Related: 含嗽",
 					"Word usually written using kana alone"
 				]
 			}
@@ -12011,7 +12011,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"浮かぬ顔"
+					"Related: 浮かぬ顔"
 				]
 			},
 			{
@@ -12127,7 +12127,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Food, cooking",
-					"牛肉",
+					"Related: 牛肉",
 					"Usu. ぎゅう"
 				]
 			},
@@ -12137,8 +12137,8 @@
 					"Meaning restricted to ぎゅう",
 					"Noun (common) (futsuumeishi)",
 					"Astronomy",
-					"二十八宿",
-					"玄武・げんぶ・2"
+					"Related: 二十八宿",
+					"Related: 玄武・げんぶ・2"
 				]
 			}
 		],
@@ -12367,8 +12367,8 @@
 				"notes": [
 					"Meaning restricted to 内",
 					"Noun (common) (futsuumeishi)",
-					"そと・3",
-					"よそ・2",
+					"Antonym: そと・3",
+					"Antonym: よそ・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -12377,7 +12377,7 @@
 				"notes": [
 					"Meaning restricted to 内",
 					"Noun (common) (futsuumeishi)",
-					"家・うち・2",
+					"Related: 家・うち・2",
 					"Also 家",
 					"Word usually written using kana alone"
 				]
@@ -12402,7 +12402,7 @@
 				"notes": [
 					"Meaning restricted to 内",
 					"Pronoun",
-					"Kansai-ben",
+					"Dialect: Kansai-ben",
 					"Primarily used by women and children",
 					"Word usually written using kana alone"
 				]
@@ -13213,7 +13213,7 @@
 				"translation": "horse racing",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"競馬"
+					"Related: 競馬"
 				]
 			},
 			{
@@ -13221,7 +13221,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Shogi",
-					"竜馬・2",
+					"Related: 竜馬・2",
 					"Abbreviation"
 				]
 			},
@@ -13457,8 +13457,8 @@
 				"translation": "lowest (of a three-tier ranking system)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"竹・たけ・2",
-					"松・まつ・2"
+					"Related: 竹・たけ・2",
+					"Related: 松・まつ・2"
 				]
 			}
 		],
@@ -14174,7 +14174,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"売る・1"
+					"Related: 売る・1"
 				]
 			},
 			{
@@ -14257,7 +14257,7 @@
 				"translation": "to loiter, to drift, to hang about doing nothing, to wander aimlessly, to be restless",
 				"notes": [
 					"Noun or participle which takes the aux. verb suru",
-					"彷徨く",
+					"Related: 彷徨く",
 					"Onomatopoeic or mimetic word"
 				]
 			},
@@ -14548,7 +14548,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"静止"
+					"Antonym: 静止"
 				]
 			}
 		],
@@ -14877,7 +14877,7 @@
 				"translation": "(artificial) satellite",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"人工衛星",
+					"Related: 人工衛星",
 					"Abbreviation"
 				]
 			}
@@ -15206,7 +15206,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"書く・2"
+					"Related: 書く・2"
 				]
 			},
 			{
@@ -15366,7 +15366,7 @@
 				"translation": "energy source, energy resource",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"エネルギー資源",
+					"Related: エネルギー資源",
 					"Abbreviation"
 				]
 			},
@@ -15438,7 +15438,7 @@
 				"translation": "apron (stage)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"エプロンステージ",
+					"Related: エプロンステージ",
 					"Abbreviation"
 				]
 			}
@@ -16155,6 +16155,15 @@
 					"Noun (common) (futsuumeishi)",
 					"Historical term"
 				]
+			},
+			{
+				"translation": "extended game, overtime, extra time, extra innings",
+				"notes": [
+					"Noun (common) (futsuumeishi)",
+					"Sports",
+					"Related: 延長戦",
+					"Abbreviation"
+				]
 			}
 		],
 		"common": true,
@@ -16235,7 +16244,7 @@
 				"translation": "honorific/polite/humble prefix",
 				"notes": [
 					"Prefix",
-					"御・ご・1",
+					"Related: 御・ご・1",
 					"Usu. before a term with a kun-yomi reading; おん is more formal",
 					"Honorific or respectful (sonkeigo) language",
 					"Polite (teineigo) language",
@@ -16309,8 +16318,8 @@
 				"translation": "nephew",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"甥御",
-					"甥子"
+					"Related: 甥御",
+					"Related: 甥子"
 				]
 			}
 		],
@@ -16583,7 +16592,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
 					"Shogi",
-					"王将・おうしょう・1",
+					"Related: 王将・おうしょう・1",
 					"Abbreviation"
 				]
 			}
@@ -17010,7 +17019,7 @@
 				"translation": "round-trip ticket, return ticket",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"往復切符",
+					"Related: 往復切符",
 					"Abbreviation"
 				]
 			},
@@ -17537,7 +17546,7 @@
 				"translation": "overcoat",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"オーバーコート",
+					"Related: オーバーコート",
 					"Abbreviation"
 				]
 			},
@@ -17561,7 +17570,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Golf",
-					"オーバーパー",
+					"Related: オーバーパー",
 					"Abbreviation"
 				]
 			},
@@ -17570,7 +17579,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Photography",
-					"アンダー・2"
+					"Antonym: アンダー・2"
 				]
 			}
 		],
@@ -17657,7 +17666,7 @@
 				"translation": "about, roughly, approximately",
 				"notes": [
 					"Adverb (fukushi)",
-					"凡そ・およそ・1",
+					"Related: 凡そ・およそ・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -17908,7 +17917,7 @@
 				"translation": "welcome home",
 				"notes": [
 					"Interjection (kandoushi)",
-					"お帰りなさい",
+					"Related: お帰りなさい",
 					"Abbreviation"
 				]
 			}
@@ -18403,7 +18412,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"代わり・4",
+					"Related: 代わり・4",
 					"Word usually written using kana alone"
 				]
 			},
@@ -18411,7 +18420,7 @@
 				"translation": "other paw!",
 				"notes": [
 					"Interjection (kandoushi)",
-					"お手・3",
+					"Related: お手・3",
 					"Dog command",
 					"Word usually written using kana alone"
 				]
@@ -18869,7 +18878,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"抑える・おさえる・2"
+					"Related: 抑える・おさえる・2"
 				]
 			}
 		],
@@ -18977,7 +18986,7 @@
 				"translation": "pardon me for leaving (before you)",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"お先に失礼します",
+					"Related: お先に失礼します",
 					"Abbreviation",
 					"Polite (teineigo) language"
 				]
@@ -19561,7 +19570,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"雌",
+					"Related: 雌",
 					"Word usually written using kana alone"
 				]
 			}
@@ -19789,7 +19798,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
 					"Adverb (fukushi)",
-					"互い",
+					"Related: 互い",
 					"Polite (teineigo) language"
 				]
 			}
@@ -19872,7 +19881,7 @@
 				"translation": "about to start out, just about to leave or go out",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"出掛け・1",
+					"Related: 出掛け・1",
 					"Oft. used as a greeting in the form of お出かけですか？",
 					"Honorific or respectful (sonkeigo) language",
 					"Polite (teineigo) language"
@@ -20071,7 +20080,7 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Transitive verb",
-					"脅す・おどす"
+					"Related: 脅す・おどす"
 				]
 			},
 			{
@@ -20355,7 +20364,7 @@
 				"translation": "spirit of a deceased person",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"亡魂"
+					"Related: 亡魂"
 				]
 			},
 			{
@@ -20370,7 +20379,7 @@
 				"notes": [
 					"Meaning restricted to おに",
 					"Noun (common) (futsuumeishi)",
-					"鬼ごっこ・おにごっこ"
+					"Related: 鬼ごっこ・おにごっこ"
 				]
 			},
 			{
@@ -20379,8 +20388,8 @@
 					"Meaning restricted to き",
 					"Noun (common) (futsuumeishi)",
 					"Astronomy",
-					"二十八宿",
-					"朱雀・すざく・2"
+					"Related: 二十八宿",
+					"Related: 朱雀・すざく・2"
 				]
 			},
 			{
@@ -20388,7 +20397,7 @@
 				"notes": [
 					"Meaning restricted to おに",
 					"Prefix",
-					"超・1",
+					"Related: 超・1",
 					"Slang"
 				]
 			}
@@ -20676,7 +20685,7 @@
 				"translation": "good morning",
 				"notes": [
 					"Interjection (kandoushi)",
-					"おはようございます",
+					"Related: おはようございます",
 					"Used at any time of the day in some industries and workplaces",
 					"Word usually written using kana alone"
 				]
@@ -20785,8 +20794,8 @@
 				"translation": "radio or television program broadcast in the same time slot on all or most days",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"帯番組",
-					"帯ドラマ",
+					"Related: 帯番組",
+					"Related: 帯ドラマ",
 					"Abbreviation"
 				]
 			}
@@ -20932,7 +20941,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"溺れ死ぬ"
+					"Related: 溺れ死ぬ"
 				]
 			},
 			{
@@ -21161,7 +21170,7 @@
 				"translation": "(matter) for congratulations, worthy of celebration, happy (occasion, ending, etc.), joyous, auspicious",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"めでたい・1",
+					"Related: めでたい・1",
 					"Word usually written using kana alone",
 					"Polite (teineigo) language"
 				]
@@ -21424,8 +21433,8 @@
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
 					"Godan verb with 'ru' ending",
-					"会う",
-					"目にかかる",
+					"Related: 会う",
+					"Related: 目にかかる",
 					"Humble (kenjougo) language"
 				]
 			},
@@ -21905,7 +21914,7 @@
 				"translation": "good night",
 				"notes": [
 					"Interjection (kandoushi)",
-					"お休みなさい",
+					"Related: お休みなさい",
 					"Abbreviation",
 					"Word usually written using kana alone"
 				]
@@ -22000,7 +22009,7 @@
 				"translation": "mid-afternoon (around 3 o'clock) snack, afternoon refreshment, afternoon tea",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"八つ時",
+					"Related: 八つ時",
 					"Word usually written using kana alone"
 				]
 			}
@@ -22075,7 +22084,7 @@
 				"translation": "about, roughly, approximately",
 				"notes": [
 					"Adverb (fukushi)",
-					"おおよそ・1",
+					"Related: おおよそ・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -22252,7 +22261,7 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Transitive verb",
-					"堕ろす"
+					"Related: 堕ろす"
 				]
 			},
 			{
@@ -23227,7 +23236,7 @@
 				"translation": "Hui (people)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"回族",
+					"Related: 回族",
 					"Abbreviation"
 				]
 			},
@@ -23235,7 +23244,7 @@
 				"translation": "Islam",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"回教",
+					"Related: 回教",
 					"Abbreviation"
 				]
 			}
@@ -23765,7 +23774,7 @@
 				"translation": "bill (at a restaurant), check",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お会計"
+					"Related: お会計"
 				]
 			},
 			{
@@ -23971,7 +23980,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
 					"Astronomy",
-					"合・4"
+					"Related: 合・4"
 				]
 			}
 		],
@@ -24239,7 +24248,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
 					"Intransitive verb",
-					"終了"
+					"Antonym: 終了"
 				]
 			}
 		],
@@ -25008,7 +25017,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Skiing",
-					"回転競技",
+					"Related: 回転競技",
 					"Abbreviation"
 				]
 			}
@@ -25727,7 +25736,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Intransitive verb",
-					"裏返る・1"
+					"Related: 裏返る・1"
 				]
 			},
 			{
@@ -26266,7 +26275,7 @@
 				"translation": "chemistry",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"科学・かがく・1",
+					"Related: 科学・かがく・1",
 					"ばけがく spoken to avoid confusion with 科学"
 				]
 			}
@@ -28084,7 +28093,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"お隠れになる",
+					"Related: お隠れになる",
 					"As お隠れになる",
 					"Honorific or respectful (sonkeigo) language"
 				]
@@ -28441,7 +28450,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"満ちる・みちる・2",
+					"Antonym: 満ちる・みちる・2",
 					"Also 虧ける"
 				]
 			}
@@ -29123,7 +29132,7 @@
 				"translation": "creditor, method of lending, credit side",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"貸方・かしかた・1",
+					"Related: 貸方・かしかた・1",
 					"Abbreviation"
 				]
 			}
@@ -29276,7 +29285,7 @@
 		],
 		"translations": [
 			{
-				"translation": "certainly!",
+				"translation": "certainly!, very well, with pleasure, understood!",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
 					"In response to a request or instructions from a superior, customer, etc.",
@@ -30197,7 +30206,7 @@
 				"translation": "game cartridge",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ロムカセット"
+					"Related: ロムカセット"
 				]
 			}
 		],
@@ -30255,7 +30264,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
 					"Intransitive verb",
-					"減速"
+					"Antonym: 減速"
 				]
 			}
 		],
@@ -30368,7 +30377,7 @@
 				"translation": "(taxonomical) form",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"品種・2",
+					"Related: 品種・2",
 					"Rare term"
 				]
 			}
@@ -30467,7 +30476,7 @@
 				"translation": "bookish, formal, stuffy",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"砕けた"
+					"Antonym: 砕けた"
 				]
 			}
 		],
@@ -30835,7 +30844,7 @@
 				"translation": "win, victory",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"負け・1"
+					"Antonym: 負け・1"
 				]
 			}
 		],
@@ -31517,7 +31526,7 @@
 				"translation": "moving picture",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"活動写真",
+					"Related: 活動写真",
 					"Abbreviation",
 					"Obsolete term"
 				]
@@ -31928,7 +31937,7 @@
 				"translation": "kana, Japanese syllabaries (i.e. hiragana and katakana)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"真名・1"
+					"Related: 真名・1"
 				]
 			}
 		],
@@ -32274,7 +32283,7 @@
 				"translation": "money",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お金"
+					"Related: お金"
 				]
 			},
 			{
@@ -32791,7 +32800,7 @@
 				"translation": "stock company, corporation, kabushiki kaisha, KK",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"株式会社",
+					"Related: 株式会社",
 					"In company names; written as (株) or ㈱",
 					"Abbreviation"
 				]
@@ -32814,7 +32823,7 @@
 				"translation": "one's forte",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お株",
+					"Related: お株",
 					"Usu. as お株"
 				]
 			}
@@ -33022,7 +33031,7 @@
 				"notes": [
 					"Noun, used as a prefix",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"神対応",
+					"Related: 神対応",
 					"Slang"
 				]
 			},
@@ -33236,7 +33245,7 @@
 				"translation": "chewing gum",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"チューインガム",
+					"Related: チューインガム",
 					"Abbreviation"
 				]
 			},
@@ -33244,7 +33253,7 @@
 				"translation": "gum, rubber",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ゴム・1"
+					"Related: ゴム・1"
 				]
 			}
 		],
@@ -33604,7 +33613,7 @@
 				"translation": "Tuesday",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"火曜日"
+					"Related: 火曜日"
 				]
 			}
 		],
@@ -34233,7 +34242,7 @@
 				"translation": "skin, hide, pelt, fur",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"革"
+					"Related: 革"
 				]
 			},
 			{
@@ -34252,7 +34261,7 @@
 				"translation": "mask (hiding one's true nature), seeming",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"化けの皮"
+					"Related: 化けの皮"
 				]
 			}
 		],
@@ -34588,7 +34597,7 @@
 		],
 		"translations": [
 			{
-				"translation": "roof tile",
+				"translation": "tile (e.g. roof)",
 				"notes": [
 					"Noun (common) (futsuumeishi)"
 				]
@@ -35952,7 +35961,7 @@
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Transitive verb",
 					"Intransitive verb",
-					"感じる・1"
+					"Related: 感じる・1"
 				]
 			},
 			{
@@ -35961,7 +35970,7 @@
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Transitive verb",
 					"Intransitive verb",
-					"感じる・2"
+					"Related: 感じる・2"
 				]
 			},
 			{
@@ -35969,7 +35978,7 @@
 				"notes": [
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Intransitive verb",
-					"感じる・3",
+					"Related: 感じる・3",
 					"Dated term"
 				]
 			}
@@ -36933,8 +36942,8 @@
 				"translation": "traditional cap worn by Shinto clergy and courtiers",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"衣冠",
-					"束帯"
+					"Related: 衣冠",
+					"Related: 束帯"
 				]
 			},
 			{
@@ -36955,7 +36964,7 @@
 				"notes": [
 					"Meaning restricted to かむり",
 					"Noun (common) (futsuumeishi)",
-					"俳諧・1"
+					"Related: 俳諧・1"
 				]
 			},
 			{
@@ -37237,7 +37246,7 @@
 				"translation": "dictionary with Japanese definitions of kanji and kanji compounds, kanji dictionary",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"漢和辞典",
+					"Related: 漢和辞典",
 					"Abbreviation"
 				]
 			}
@@ -37906,7 +37915,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"薬が効く",
+					"Related: 薬が効く",
 					"Usu. 効く"
 				]
 			},
@@ -37915,7 +37924,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"目が利く",
+					"Related: 目が利く",
 					"Usu. 利く for body senses, functions, etc."
 				]
 			},
@@ -37924,7 +37933,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"割引が効く"
+					"Related: 割引が効く"
 				]
 			},
 			{
@@ -37932,7 +37941,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"聞く・8"
+					"Related: 聞く・8"
 				]
 			}
 		],
@@ -38017,7 +38026,7 @@
 				"translation": "time limit, deadline, cutoff (date)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"期限切れ"
+					"Related: 期限切れ"
 				]
 			}
 		],
@@ -38626,7 +38635,7 @@
 				"translation": "disposition, temperament",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"気性",
+					"Related: 気性",
 					"Formal or literary term"
 				]
 			}
@@ -38738,7 +38747,7 @@
 				"translation": "flaw, defect, weakness, weak point",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"玉に疵"
+					"Related: 玉に疵"
 				]
 			},
 			{
@@ -38751,7 +38760,7 @@
 				"translation": "(emotional) hurt, hurt feelings",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"心の傷"
+					"Related: 心の傷"
 				]
 			}
 		],
@@ -40251,7 +40260,7 @@
 				"translation": "sensation, feeling",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"いい気味・いいきみ"
+					"Related: いい気味・いいきみ"
 				]
 			},
 			{
@@ -40259,7 +40268,7 @@
 				"notes": [
 					"Meaning restricted to きみ",
 					"Noun (common) (futsuumeishi)",
-					"気味・ぎみ"
+					"Related: 気味・ぎみ"
 				]
 			}
 		],
@@ -40921,7 +40930,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Prefix",
-					"旧暦",
+					"Related: 旧暦",
 					"Abbreviation"
 				]
 			}
@@ -41006,7 +41015,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Counter",
-					"段・4"
+					"Related: 段・4"
 				]
 			}
 		],
@@ -41080,8 +41089,8 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Mathematics",
-					"球体・2",
-					"球面・2"
+					"Related: 球体・2",
+					"Related: 球面・2"
 				]
 			},
 			{
@@ -42291,7 +42300,7 @@
 				"translation": "manners, behavior, behaviour",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お行儀"
+					"Related: お行儀"
 				]
 			}
 		],
@@ -43539,8 +43548,8 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"郵便局",
-					"放送局",
+					"Related: 郵便局",
+					"Related: 放送局",
 					"Abbreviation"
 				]
 			},
@@ -43892,7 +43901,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"キレる",
+					"Related: キレる",
 					"Colloquial"
 				]
 			},
@@ -43978,7 +43987,7 @@
 				"translation": "kilogram, kilogramme",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"キログラム",
+					"Related: キログラム",
 					"Abbreviation"
 				]
 			},
@@ -43986,7 +43995,7 @@
 				"translation": "kilometre, kilometer",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"キロメートル",
+					"Related: キロメートル",
 					"Abbreviation"
 				]
 			},
@@ -44307,7 +44316,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"銀色"
+					"Related: 銀色"
 				]
 			},
 			{
@@ -44328,7 +44337,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Shogi",
-					"銀将",
+					"Related: 銀将",
 					"Abbreviation"
 				]
 			},
@@ -44336,7 +44345,7 @@
 				"translation": "bank",
 				"notes": [
 					"Suffix",
-					"銀行",
+					"Related: 銀行",
 					"Abbreviation"
 				]
 			},
@@ -44947,7 +44956,7 @@
 				"translation": "early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"明治維新",
+					"Related: 明治維新",
 					"Historical term"
 				]
 			}
@@ -45276,7 +45285,7 @@
 				"translation": "Friday",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"金曜日"
+					"Related: 金曜日"
 				]
 			}
 		],
@@ -45810,9 +45819,11 @@
 		],
 		"translations": [
 			{
-				"translation": "sneeze",
+				"translation": "sneeze, sneezing",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
+					"Noun or participle which takes the aux. verb suru",
+					"Intransitive verb",
 					"Word usually written using kana alone"
 				]
 			},
@@ -46234,7 +46245,7 @@
 				"translation": "concreteness, embodiment",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"抽象"
+					"Antonym: 抽象"
 				]
 			}
 		],
@@ -46431,7 +46442,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"くだけた・2"
+					"Related: くだけた・2"
 				]
 			},
 			{
@@ -46439,7 +46450,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"くだけた・1"
+					"Related: くだけた・1"
 				]
 			},
 			{
@@ -46716,7 +46727,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a prefix",
-					"上り・4"
+					"Antonym: 上り・4"
 				]
 			}
 		],
@@ -47507,7 +47518,7 @@
 				"notes": [
 					"Godan verb with 'mu' ending",
 					"Transitive verb",
-					"酌む・くむ・1"
+					"Related: 酌む・くむ・1"
 				]
 			},
 			{
@@ -47595,7 +47606,7 @@
 				"translation": "government position, court rank",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"位階"
+					"Related: 位階"
 				]
 			},
 			{
@@ -47614,7 +47625,7 @@
 				"translation": "position of a figure (e.g. tens, thousands), digit, (decimal) place",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"桁・2"
+					"Related: 桁・2"
 				]
 			}
 		],
@@ -47770,7 +47781,7 @@
 				"translation": "classical music",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"クラシック音楽",
+					"Related: クラシック音楽",
 					"Abbreviation"
 				]
 			},
@@ -47784,7 +47795,7 @@
 				"translation": "classic (work), the classics",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"古典"
+					"Related: 古典"
 				]
 			}
 		],
@@ -47842,7 +47853,7 @@
 				"translation": "glass (material)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ガラス"
+					"Related: ガラス"
 				]
 			},
 			{
@@ -48006,7 +48017,7 @@
 				"translation": "ice cream",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"アイスクリーム",
+					"Related: アイスクリーム",
 					"Abbreviation"
 				]
 			}
@@ -48258,7 +48269,7 @@
 					"Adverb (fukushi)",
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun, used as a suffix",
-					"明け・1"
+					"Antonym: 明け・1"
 				]
 			},
 			{
@@ -48444,7 +48455,6 @@
 				"notes": [
 					"Ichidan verb - kureru special class",
 					"Transitive verb",
-					"あげる・18",
 					"The receiver is the speaker or someone close to the speaker",
 					"Word usually written using kana alone"
 				]
@@ -48454,7 +48464,7 @@
 				"notes": [
 					"Ichidan verb - kureru special class",
 					"Transitive verb",
-					"くれてやる",
+					"Related: くれてやる",
 					"Often as くれてやる; shows mild disdain for the receiver",
 					"Word usually written using kana alone"
 				]
@@ -48743,7 +48753,7 @@
 				"translation": "knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"疎い・2"
+					"Antonym: 疎い・2"
 				]
 			}
 		],
@@ -48840,21 +48850,21 @@
 				"translation": "army, armed forces, troops",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"軍隊"
+					"Related: 軍隊"
 				]
 			},
 			{
 				"translation": "military authorities",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"軍部"
+					"Related: 軍部"
 				]
 			},
 			{
 				"translation": "team, group, troupe",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"女性軍・じょせいぐん"
+					"Related: 女性軍・じょせいぐん"
 				]
 			}
 		],
@@ -49082,8 +49092,8 @@
 				"translation": "second volume (of two), third volume (of three)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"上・4",
-					"中・6"
+					"Related: 上・4",
+					"Related: 中・6"
 				]
 			}
 		],
@@ -49392,7 +49402,7 @@
 				"translation": "good (economic) times, prosperity, boom",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"好景気"
+					"Related: 好景気"
 				]
 			},
 			{
@@ -50237,7 +50247,7 @@
 				"translation": "longitude",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"緯度"
+					"Related: 緯度"
 				]
 			}
 		],
@@ -50762,7 +50772,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Grammar",
-					"格・4"
+					"Related: 格・4"
 				]
 			}
 		],
@@ -50813,7 +50823,7 @@
 				"translation": "game",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"コンピュータゲーム"
+					"Related: コンピュータゲーム"
 				]
 			}
 		],
@@ -50953,7 +50963,7 @@
 				"translation": "surgery (branch of medicine)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"内科・1"
+					"Related: 内科・1"
 				]
 			},
 			{
@@ -51174,8 +51184,8 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"乗車",
-					"降車"
+					"Antonym: 乗車",
+					"Related: 降車"
 				]
 			}
 		],
@@ -51251,8 +51261,8 @@
 				"translation": "last third of a month, 21st to the last day of a month",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"上旬",
-					"中旬"
+					"Related: 上旬",
+					"Related: 中旬"
 				]
 			}
 		],
@@ -51782,14 +51792,14 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"結局のところ"
+					"Related: 結局のところ"
 				]
 			},
 			{
 				"translation": "end of a game of go, shogi, etc.",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"終局・2"
+					"Related: 終局・2"
 				]
 			}
 		],
@@ -53158,7 +53168,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Buddhism",
-					"現世・1"
+					"Related: 現世・1"
 				]
 			},
 			{
@@ -53348,7 +53358,7 @@
 				"translation": "reality, actuality, hard fact",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"理想"
+					"Related: 理想"
 				]
 			}
 		],
@@ -54220,7 +54230,7 @@
 				"notes": [
 					"Meaning restricted to げんば",
 					"Noun (common) (futsuumeishi)",
-					"撮影現場"
+					"Related: 撮影現場"
 				]
 			}
 		],
@@ -54685,7 +54695,7 @@
 				"translation": "honorific/polite/humble prefix",
 				"notes": [
 					"Prefix",
-					"御・お",
+					"Related: 御・お",
 					"Usu. before a term with an on-yomi reading",
 					"Honorific or respectful (sonkeigo) language",
 					"Polite (teineigo) language",
@@ -54946,9 +54956,9 @@
 				"translation": "in this way, like this, so, thus",
 				"notes": [
 					"Adverb (fukushi)",
-					"そう・1",
-					"ああ",
-					"どう",
+					"Related: そう・1",
+					"Related: ああ",
+					"Related: どう",
 					"Used for something or someone close to the speaker, including the speaker himself, or for the opinions of the speaker",
 					"Word usually written using kana alone"
 				]
@@ -55037,7 +55047,7 @@
 				"translation": "bank clerk",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"銀行員",
+					"Related: 銀行員",
 					"Abbreviation"
 				]
 			}
@@ -55375,7 +55385,7 @@
 				"translation": "effects (e.g. sound effects, visual effects, special effects)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"音響効果・おんきょうこうか・1"
+					"Related: 音響効果・おんきょうこうか・1"
 				]
 			}
 		],
@@ -55860,7 +55870,7 @@
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"低級"
+					"Antonym: 低級"
 				]
 			},
 			{
@@ -56312,7 +56322,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"守備"
+					"Antonym: 守備・1"
 				]
 			},
 			{
@@ -56950,8 +56960,8 @@
 				"translation": "thus, in this way",
 				"notes": [
 					"Conjunction",
-					"どうして・1",
-					"そうして",
+					"Related: どうして・1",
+					"Related: そうして",
 					"Word usually written using kana alone"
 				]
 			}
@@ -57542,7 +57552,7 @@
 				"translation": "highway, freeway, expressway, motorway",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"高速道路",
+					"Related: 高速道路",
 					"Abbreviation"
 				]
 			}
@@ -58178,7 +58188,7 @@
 				"translation": "junior (at work, school, etc.), younger people, younger student",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"先輩・せんぱい"
+					"Related: 先輩・せんぱい"
 				]
 			}
 		],
@@ -58425,7 +58435,7 @@
 				"translation": "headword (in a dictionary, encyclopedia, etc.), entry",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"見出し語"
+					"Related: 見出し語"
 				]
 			}
 		],
@@ -58620,7 +58630,7 @@
 				"translation": "full-course meal, multi-course meal",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"フルコース・1",
+					"Related: フルコース・1",
 					"Abbreviation"
 				]
 			},
@@ -58849,7 +58859,7 @@
 				"translation": "shaved ice (usually served with flavored simple syrup)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"かき氷"
+					"Related: かき氷"
 				]
 			}
 		],
@@ -58946,7 +58956,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
 					"Sports",
-					"ゴールイン・1",
+					"Related: ゴールイン・1",
 					"Abbreviation"
 				]
 			},
@@ -59117,7 +59127,7 @@
 				"translation": "short interval, short pause",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"一呼吸"
+					"Related: 一呼吸"
 				]
 			}
 		],
@@ -59194,7 +59204,7 @@
 				"translation": "hometown, birthplace, native place, one's old home",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"故郷・こきょう",
+					"Related: 故郷・こきょう",
 					"Word usually written using kana alone"
 				]
 			},
@@ -59400,7 +59410,7 @@
 				"translation": "Japanese language (esp. as a school subject in Japan)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"国語科"
+					"Related: 国語科"
 				]
 			},
 			{
@@ -59655,7 +59665,7 @@
 				"translation": "Democratic Party for the People",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"国民民主党",
+					"Related: 国民民主党",
 					"Abbreviation"
 				]
 			}
@@ -59791,9 +59801,9 @@
 				"translation": "here, this place",
 				"notes": [
 					"Pronoun",
-					"そこ・1",
-					"あそこ・1",
-					"どこ・1",
+					"Related: そこ・1",
+					"Related: あそこ・1",
+					"Related: どこ・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -60247,7 +60257,7 @@
 				"translation": "natural person",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"法人"
+					"Related: 法人"
 				]
 			}
 		],
@@ -60412,7 +60422,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"堪える・こたえる・1",
+					"Related: 堪える・こたえる・1",
 					"Occ. written as 徹える"
 				]
 			}
@@ -60724,7 +60734,7 @@
 				"notes": [
 					"Explanation",
 					"Noun (common) (futsuumeishi)",
-					"帝国議会・1",
+					"Related: 帝国議会・1",
 					"Historical term",
 					"Abbreviation"
 				]
@@ -60733,7 +60743,7 @@
 				"translation": "legislative assembly, parliament, congress",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"議会"
+					"Related: 議会"
 				]
 			}
 		],
@@ -61118,7 +61128,7 @@
 				"translation": "nominalizing suffix",
 				"notes": [
 					"Noun, used as a suffix",
-					"事・ごと・1",
+					"Related: 事・ごと・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -61126,7 +61136,7 @@
 				"translation": "pretending to ..., playing make-believe ...",
 				"notes": [
 					"Noun, used as a suffix",
-					"事・ごと・2",
+					"Related: 事・ごと・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -61464,9 +61474,9 @@
 				"translation": "this",
 				"notes": [
 					"Pre-noun adjectival (rentaishi)",
-					"その・1",
-					"あの",
-					"どの",
+					"Related: その・1",
+					"Related: あの",
+					"Related: どの",
 					"Something or someone close to the speaker (including the speaker), or ideas expressed by the speaker",
 					"Word usually written using kana alone"
 				]
@@ -61573,7 +61583,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adverb (fukushi)",
-					"この間・1",
+					"Related: この間・1",
 					"Word usually written using kana alone"
 				]
 			}
@@ -61717,7 +61727,7 @@
 				"translation": "(advertising) slogan",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"キャッチコピー",
+					"Related: キャッチコピー",
 					"Abbreviation"
 				]
 			}
@@ -61773,7 +61783,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"無沙汰"
+					"Related: 無沙汰"
 				]
 			}
 		],
@@ -62213,7 +62223,7 @@
 				"translation": "eraser",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"消しゴム",
+					"Related: 消しゴム",
 					"Abbreviation",
 					"Word usually written using kana alone"
 				]
@@ -62311,7 +62321,7 @@
 				"translation": "I'm sorry, my apologies, excuse me, pardon me",
 				"notes": [
 					"Interjection (kandoushi)",
-					"ごめんなさい",
+					"Related: ごめんなさい",
 					"Word usually written using kana alone"
 				]
 			},
@@ -62319,7 +62329,7 @@
 				"translation": "may I come in?",
 				"notes": [
 					"Interjection (kandoushi)",
-					"ごめんください・1",
+					"Related: ごめんください・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -62752,9 +62762,9 @@
 				"translation": "this, this one",
 				"notes": [
 					"Pronoun",
-					"それ・1",
-					"あれ・1",
-					"どれ・1",
+					"Related: それ・1",
+					"Related: あれ・1",
+					"Related: どれ・1",
 					"Indicating an item near the speaker, the action of the speaker, or the current topic",
 					"Word usually written using kana alone"
 				]
@@ -63129,7 +63139,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Adverb (fukushi)",
 					"Noun, used as a suffix",
-					"食べ頃"
+					"Related: 食べ頃"
 				]
 			},
 			{
@@ -63682,7 +63692,7 @@
 				"translation": "so, like this, in this way, this much, to this extent",
 				"notes": [
 					"Adverb (fukushi)",
-					"こんな"
+					"Related: こんな"
 				]
 			}
 		],
@@ -64253,7 +64263,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Sports",
-					"サーブ・1"
+					"Related: サーブ・1"
 				]
 			}
 		],
@@ -64463,7 +64473,7 @@
 					"Nouns which may take the genitive case particle 'no'",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"最低・2"
+					"Antonym: 最低・2"
 				]
 			},
 			{
@@ -64472,7 +64482,7 @@
 					"Nouns which may take the genitive case particle 'no'",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"最低・1"
+					"Antonym: 最低・1"
 				]
 			}
 		],
@@ -64930,7 +64940,7 @@
 					"Nouns which may take the genitive case particle 'no'",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"最高・2"
+					"Antonym: 最高・2"
 				]
 			},
 			{
@@ -64938,7 +64948,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"最高・1"
+					"Antonym: 最高・1"
 				]
 			},
 			{
@@ -66619,7 +66629,7 @@
 				"translation": "horse meat",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"桜肉",
+					"Related: 桜肉",
 					"Colloquial"
 				]
 			}
@@ -67041,7 +67051,7 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Intransitive verb",
-					"差す・1"
+					"Related: 差す・1"
 				]
 			}
 		],
@@ -67094,7 +67104,7 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Transitive verb",
-					"差す・さす・12",
+					"Related: 差す・さす・12",
 					"Word usually written using kana alone"
 				]
 			},
@@ -67103,7 +67113,7 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Transitive verb",
-					"差す・さす・13",
+					"Related: 差す・さす・13",
 					"Oft. written as 点す",
 					"Word usually written using kana alone"
 				]
@@ -67185,7 +67195,7 @@
 				"translation": "still, all the same, after all",
 				"notes": [
 					"Adverb (fukushi)",
-					"さすがに・2",
+					"Related: さすがに・2",
 					"Usu. as 〜に",
 					"Word usually written using kana alone"
 				]
@@ -68504,7 +68514,7 @@
 				"translation": "farewell, adieu, goodbye, so long",
 				"notes": [
 					"Interjection (kandoushi)",
-					"さよなら・1",
+					"Related: さよなら・1",
 					"Word usually written using kana alone"
 				]
 			}
@@ -69049,7 +69059,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
 					"Nouns which may take the genitive case particle 'no'",
-					"反対・1"
+					"Antonym: 反対・1"
 				]
 			}
 		],
@@ -69270,7 +69280,7 @@
 				"translation": "display model (e.g. plastic food models used by restaurants)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"食品サンプル"
+					"Related: 食品サンプル"
 				]
 			}
 		],
@@ -69991,7 +70001,7 @@
 				"translation": "chairman, presenter, host, moderator, master of ceremonies",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"司会者"
+					"Related: 司会者"
 				]
 			}
 		],
@@ -70519,7 +70529,7 @@
 				"translation": "enforcement regulations (of the ritsuryō legal codes)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"律令",
+					"Related: 律令",
 					"Historical term"
 				]
 			}
@@ -70616,7 +70626,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"直取引"
+					"Related: 直取引"
 				]
 			}
 		],
@@ -71106,7 +71116,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"尻に敷く"
+					"Related: 尻に敷く"
 				]
 			},
 			{
@@ -71564,7 +71574,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"他国・1"
+					"Related: 他国・1"
 				]
 			}
 		],
@@ -71794,7 +71804,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"収入"
+					"Antonym: 収入"
 				]
 			}
 		],
@@ -72831,14 +72841,14 @@
 				"translation": "self-government, autonomy",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"官治"
+					"Related: 官治"
 				]
 			},
 			{
 				"translation": "local (governmental) autonomy",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"地方自治",
+					"Related: 地方自治",
 					"Abbreviation"
 				]
 			}
@@ -73869,7 +73879,7 @@
 				"translation": "indeed, really, absolutely, truly, actually, very, quite",
 				"notes": [
 					"Adverb (fukushi)",
-					"誠に・まことに"
+					"Related: 誠に・まことに"
 				]
 			}
 		],
@@ -74250,7 +74260,7 @@
 				"translation": "arms, force",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"実力行使"
+					"Related: 実力行使"
 				]
 			}
 		],
@@ -74451,7 +74461,7 @@
 				"translation": "branch office, branch store",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"本店・1"
+					"Related: 本店・1"
 				]
 			}
 		],
@@ -74613,7 +74623,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"手動"
+					"Antonym: 手動"
 				]
 			},
 			{
@@ -74622,7 +74632,7 @@
 					"Meaning restricted to 自動",
 					"Noun (common) (futsuumeishi)",
 					"Linguistics",
-					"自動詞",
+					"Related: 自動詞",
 					"Abbreviation"
 				]
 			}
@@ -74793,7 +74803,7 @@
 				"translation": "flirtatiousness, coquetry",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"科を作る",
+					"Related: 科を作る",
 					"Esp. 科",
 					"Word usually written using kana alone"
 				]
@@ -75065,7 +75075,7 @@
 				"translation": "often, again and again, frequently, repeatedly",
 				"notes": [
 					"Adverb (fukushi)",
-					"度々・たびたび",
+					"Related: 度々・たびたび",
 					"Word usually written using kana alone",
 					"Onomatopoeic or mimetic word"
 				]
@@ -75856,7 +75866,7 @@
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"派手"
+					"Antonym: 派手"
 				]
 			},
 			{
@@ -76496,7 +76506,7 @@
 				"translation": "then, well, so, well then",
 				"notes": [
 					"Conjunction",
-					"では・1",
+					"Related: では・1",
 					"From では"
 				]
 			}
@@ -76547,7 +76557,7 @@
 				"translation": "journalist",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"記者・きしゃ"
+					"Related: 記者・きしゃ"
 				]
 			}
 		],
@@ -77101,7 +77111,7 @@
 				"translation": "smartly dressed, stylish, fashion-conscious, refined",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"お洒落・1"
+					"Related: お洒落・1"
 				]
 			}
 		],
@@ -77322,7 +77332,7 @@
 				"translation": "province (of Japan)",
 				"notes": [
 					"Noun, used as a suffix",
-					"国・5",
+					"Related: 国・5",
 					"Historical term"
 				]
 			},
@@ -77734,7 +77744,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"収獲"
+					"Related: 収獲"
 				]
 			}
 		],
@@ -77811,7 +77821,7 @@
 				"translation": "dwelling, house, residence, address",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"住居・じゅうきょ"
+					"Related: 住居・じゅうきょ"
 				]
 			},
 			{
@@ -78834,14 +78844,14 @@
 				"translation": "iteration mark",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"踊り字"
+					"Related: 踊り字"
 				]
 			},
 			{
 				"translation": "colon (punctuation)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"コロン"
+					"Related: コロン"
 				]
 			}
 		],
@@ -78926,7 +78936,7 @@
 				"translation": "income, earnings, revenue, proceeds, takings, receipts",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"支出"
+					"Antonym: 支出"
 				]
 			}
 		],
@@ -79412,7 +79422,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
 					"Intransitive verb",
-					"開始"
+					"Antonym: 開始"
 				]
 			}
 		],
@@ -80068,7 +80078,7 @@
 				"translation": "head (of a household), proprietor (of a store), proprietress, landlord, landlady",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ご主人"
+					"Related: ご主人"
 				]
 			},
 			{
@@ -80388,7 +80398,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"入場"
+					"Antonym: 入場"
 				]
 			},
 			{
@@ -80550,7 +80560,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"欠席"
+					"Antonym: 欠席"
 				]
 			}
 		],
@@ -82089,7 +82099,7 @@
 				"translation": "short month (i.e. having fewer than 31 days)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"小の月",
+					"Related: 小の月",
 					"Abbreviation"
 				]
 			},
@@ -82098,7 +82108,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a prefix",
-					"小学校",
+					"Related: 小学校",
 					"Abbreviation"
 				]
 			},
@@ -82340,7 +82350,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Horse racing",
-					"障害競走",
+					"Related: 障害競走",
 					"Abbreviation"
 				]
 			},
@@ -82348,7 +82358,7 @@
 				"translation": "obstacle race, steeplechase (athletics)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"障害物競走",
+					"Related: 障害物競走",
 					"Abbreviation"
 				]
 			}
@@ -83221,7 +83231,7 @@
 				"translation": "negative, passive, half-hearted, unmotivated",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"積極的・せっきょくてき"
+					"Antonym: 積極的・せっきょくてき"
 				]
 			}
 		],
@@ -83943,8 +83953,8 @@
 				"translation": "first third of a month, first ten days of a month",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"中旬",
-					"下旬"
+					"Related: 中旬",
+					"Related: 下旬"
 				]
 			}
 		],
@@ -84243,7 +84253,7 @@
 				"notes": [
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Transitive verb",
-					"生じる・1",
+					"Related: 生じる・1",
 					"生ずる is more literary than 生じる"
 				]
 			},
@@ -84252,7 +84262,7 @@
 				"notes": [
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Intransitive verb",
-					"生じる・2"
+					"Related: 生じる・2"
 				]
 			}
 		],
@@ -84993,8 +85003,8 @@
 				"translation": "child (esp. one of elementary school age or younger)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"中人・ちゅうにん",
-					"大人・だいにん",
+					"Related: 中人・ちゅうにん",
+					"Related: 大人・だいにん",
 					"Used when indicating admission fees, passenger fares, etc."
 				]
 			}
@@ -87037,7 +87047,7 @@
 				"translation": "calligraphy (esp. Asian calligraphy based on Chinese characters)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"カリグラフィー"
+					"Related: カリグラフィー"
 				]
 			}
 		],
@@ -87169,7 +87179,7 @@
 				"translation": "actress, female actor",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"男優"
+					"Related: 男優"
 				]
 			}
 		],
@@ -87399,7 +87409,7 @@
 				"translation": "news, word, tidings, notice, notification, information",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お知らせ"
+					"Related: お知らせ"
 				]
 			},
 			{
@@ -87741,7 +87751,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"市立・しりつ",
+					"Related: 市立・しりつ",
 					"わたくしりつ spoken to avoid confusion with 市立"
 				]
 			}
@@ -88047,22 +88057,22 @@
 				"translation": "amateur, layman, ordinary person, novice",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"玄人・1"
+					"Antonym: 玄人・1"
 				]
 			},
 			{
 				"translation": "respectable woman (i.e. not a prostitute, hostess, geisha)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"玄人・2"
+					"Related: 玄人・2"
 				]
 			},
 			{
 				"translation": "unlicensed prostitute",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"Kyoto-ben",
-					"私娼",
+					"Dialect: Kyoto-ben",
+					"Related: 私娼",
 					"Archaic"
 				]
 			}
@@ -88156,7 +88166,7 @@
 				"translation": "Gregorian calendar",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"新暦",
+					"Related: 新暦",
 					"Abbreviation"
 				]
 			},
@@ -88626,7 +88636,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"天然・1"
+					"Antonym: 天然・1"
 				]
 			}
 		],
@@ -89860,7 +89870,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"退歩"
+					"Antonym: 退歩"
 				]
 			}
 		],
@@ -90708,7 +90718,7 @@
 				"translation": "(spider's) web",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"蜘蛛の巣"
+					"Related: 蜘蛛の巣"
 				]
 			}
 		],
@@ -91004,7 +91014,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
 					"Nouns which may take the genitive case particle 'no'",
-					"推奨"
+					"Related: 推奨"
 				]
 			}
 		],
@@ -91106,7 +91116,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Railway",
-					"転轍機"
+					"Related: 転轍機"
 				]
 			},
 			{
@@ -91407,7 +91417,7 @@
 				"translation": "Wednesday",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"水曜日"
+					"Related: 水曜日"
 				]
 			}
 		],
@@ -91723,7 +91733,7 @@
 				"translation": "supermarket",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"スーパーマーケット",
+					"Related: スーパーマーケット",
 					"Abbreviation"
 				]
 			},
@@ -91731,7 +91741,7 @@
 				"translation": "subtitles, telop",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"スーパーインポーズ",
+					"Related: スーパーインポーズ",
 					"Abbreviation"
 				]
 			},
@@ -91739,7 +91749,7 @@
 				"translation": "superheterodyne",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"スーパーヘテロダイン",
+					"Related: スーパーヘテロダイン",
 					"Abbreviation"
 				]
 			},
@@ -91862,7 +91872,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"末っ子"
+					"Related: 末っ子"
 				]
 			},
 			{
@@ -91983,7 +91993,7 @@
 				"translation": "form (of a waka)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"和歌"
+					"Related: 和歌"
 				]
 			},
 			{
@@ -92758,7 +92768,7 @@
 				"translation": "reason, logic",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"筋が通る"
+					"Related: 筋が通る"
 				]
 			},
 			{
@@ -92820,7 +92830,7 @@
 				"translation": "gristly fish paste (made of muscle, tendons, skin, etc.)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"筋蒲鉾",
+					"Related: 筋蒲鉾",
 					"Abbreviation"
 				]
 			},
@@ -93286,7 +93296,7 @@
 				"translation": "desk lamp, floor lamp, standard lamp",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"電気スタンド・でんきスタンド",
+					"Related: 電気スタンド・でんきスタンド",
 					"Abbreviation"
 				]
 			},
@@ -93294,7 +93304,7 @@
 				"translation": "station (e.g. gas station)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ガソリンスタンド"
+					"Related: ガソリンスタンド"
 				]
 			}
 		],
@@ -93400,7 +93410,7 @@
 					"Adverb (fukushi)",
 					"Adverb taking the 'to' particle",
 					"Noun or participle which takes the aux. verb suru",
-					"さっぱり・1",
+					"Related: さっぱり・1",
 					"Onomatopoeic or mimetic word"
 				]
 			},
@@ -93426,7 +93436,7 @@
 					"Adverb (fukushi)",
 					"Adverb taking the 'to' particle",
 					"Noun or participle which takes the aux. verb suru",
-					"はっきり・1"
+					"Related: はっきり・1"
 				]
 			},
 			{
@@ -93435,7 +93445,7 @@
 					"Adverb (fukushi)",
 					"Adverb taking the 'to' particle",
 					"Noun or participle which takes the aux. verb suru",
-					"すっかり"
+					"Related: すっかり"
 				]
 			},
 			{
@@ -93444,7 +93454,7 @@
 					"Adverb (fukushi)",
 					"Adverb taking the 'to' particle",
 					"Noun or participle which takes the aux. verb suru",
-					"さっぱり・5"
+					"Related: さっぱり・5"
 				]
 			}
 		],
@@ -94247,7 +94257,7 @@
 				"translation": "excuse me, (I'm) sorry, thank you",
 				"notes": [
 					"Interjection (kandoushi)",
-					"すみません・1",
+					"Related: すみません・1",
 					"Word usually written using kana alone"
 				]
 			}
@@ -94330,7 +94340,7 @@
 				"translation": "sumo wrestler, rikishi",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"相撲取り",
+					"Related: 相撲取り",
 					"Abbreviation"
 				]
 			}
@@ -94449,7 +94459,7 @@
 				"translation": "(microscope) slide",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"スライドガラス",
+					"Related: スライドガラス",
 					"Abbreviation"
 				]
 			},
@@ -94469,7 +94479,7 @@
 				"translation": "to change (with a sliding scale), to index (to), to peg",
 				"notes": [
 					"Noun or participle which takes the aux. verb suru",
-					"スライド制"
+					"Related: スライド制"
 				]
 			}
 		],
@@ -94810,8 +94820,8 @@
 				"notes": [
 					"Auxiliary verb",
 					"Suru verb - included",
-					"お願いします",
-					"御・1",
+					"Related: お願いします",
+					"Related: 御・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -94820,7 +94830,7 @@
 				"notes": [
 					"Auxiliary verb",
 					"Suru verb - included",
-					"とする・1",
+					"Related: とする・1",
 					"As 〜うとする,〜ようとする",
 					"Word usually written using kana alone"
 				]
@@ -95151,7 +95161,7 @@
 				"translation": "shallows, shoal",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"淵・1"
+					"Related: 淵・1"
 				]
 			},
 			{
@@ -95164,7 +95174,7 @@
 				"translation": "position, place",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"立つ瀬"
+					"Related: 立つ瀬"
 				]
 			},
 			{
@@ -95260,7 +95270,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"正本・せいほん",
+					"Related: 正本・せいほん",
 					"Abbreviation"
 				]
 			},
@@ -95270,7 +95280,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
 					"Mathematics",
-					"負・ふ"
+					"Related: 負・ふ"
 				]
 			},
 			{
@@ -95278,8 +95288,8 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Philosophy",
-					"定立",
-					"正反合"
+					"Related: 定立",
+					"Related: 正反合"
 				]
 			}
 		],
@@ -95370,7 +95380,7 @@
 				"notes": [
 					"Meaning restricted to せい",
 					"Noun, used as a suffix",
-					"学生・がくせい",
+					"Related: 学生・がくせい",
 					"Abbreviation"
 				]
 			}
@@ -97881,7 +97891,7 @@
 				"translation": "biology",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"生物学",
+					"Related: 生物学",
 					"Abbreviation"
 				]
 			}
@@ -98119,7 +98129,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"役者生命"
+					"Related: 役者生命"
 				]
 			},
 			{
@@ -98626,7 +98636,7 @@
 				"translation": "kerosene, paraffin",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"灯油",
+					"Related: 灯油",
 					"Colloquial"
 				]
 			}
@@ -98969,7 +98979,7 @@
 				"translation": "positive, assertive, active, proactive, aggressive",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"消極的・しょうきょくてき"
+					"Antonym: 消極的・しょうきょくてき"
 				]
 			}
 		],
@@ -99287,7 +99297,7 @@
 				"translation": "absolutely, definitely, unconditionally",
 				"notes": [
 					"Adverb (fukushi)",
-					"絶対に"
+					"Related: 絶対に"
 				]
 			},
 			{
@@ -99300,7 +99310,7 @@
 				"translation": "absoluteness",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"相対・1"
+					"Antonym: 相対・1"
 				]
 			}
 		],
@@ -99904,7 +99914,7 @@
 				"translation": "seminar",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ゼミナール",
+					"Related: ゼミナール",
 					"Abbreviation"
 				]
 			}
@@ -100103,7 +100113,7 @@
 				"translation": "sewamono (Edo-period drama about contemporary life)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"世話物",
+					"Related: 世話物",
 					"Abbreviation"
 				]
 			}
@@ -100201,7 +100211,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adverb (fukushi)",
-					"前・まえ・2",
+					"Related: 前・まえ・2",
 					"Dated term"
 				]
 			}
@@ -100708,7 +100718,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"顕在"
+					"Antonym: 顕在"
 				]
 			}
 		],
@@ -100941,7 +100951,7 @@
 				"translation": "systemic",
 				"notes": [
 					"Noun or verb acting prenominally",
-					"全身性"
+					"Related: 全身性"
 				]
 			}
 		],
@@ -101020,8 +101030,8 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"後進・2",
-					"後退・1"
+					"Antonym: 後進・2",
+					"Antonym: 後退・1"
 				]
 			}
 		],
@@ -101270,7 +101280,7 @@
 				"translation": "... the heck (e.g. \"what the heck?\"), ... in the world (e.g. \"why in the world?\"), ... on earth (e.g. \"who on earth?\")",
 				"notes": [
 					"Adverb (fukushi)",
-					"一体全体・いったいぜんたい"
+					"Related: 一体全体・いったいぜんたい"
 				]
 			}
 		],
@@ -101536,7 +101546,7 @@
 				"translation": "centimeter, centimetre",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"センチメートル",
+					"Related: センチメートル",
 					"Abbreviation"
 				]
 			},
@@ -101550,7 +101560,7 @@
 				"translation": "sentimental",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"センチメンタル",
+					"Related: センチメンタル",
 					"Abbreviation"
 				]
 			}
@@ -102401,7 +102411,7 @@
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
 					"Intransitive verb",
-					"減少"
+					"Antonym: 減少"
 				]
 			}
 		],
@@ -103043,7 +103053,7 @@
 				"translation": "and, like that",
 				"notes": [
 					"Conjunction",
-					"然して・そして",
+					"Related: 然して・そして",
 					"Word usually written using kana alone"
 				]
 			}
@@ -103502,7 +103512,7 @@
 				"translation": "stage setting",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"舞台装置",
+					"Related: 舞台装置",
 					"Abbreviation"
 				]
 			}
@@ -103605,7 +103615,7 @@
 				"translation": "stealthily, secretly, in secret",
 				"notes": [
 					"Adverb (fukushi)",
-					"こっそり",
+					"Related: こっそり",
 					"Onomatopoeic or mimetic word"
 				]
 			},
@@ -103780,7 +103790,7 @@
 				"translation": "prime minister (as the head of a cabinet government), premier",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"内閣総理大臣"
+					"Related: 内閣総理大臣"
 				]
 			}
 		],
@@ -104319,7 +104329,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Geology",
-					"石理"
+					"Related: 石理"
 				]
 			},
 			{
@@ -104514,7 +104524,7 @@
 				"notes": [
 					"Godan verb with 'gu' ending",
 					"Transitive verb",
-					"注ぐ・つぐ"
+					"Related: 注ぐ・つぐ"
 				]
 			},
 			{
@@ -104550,7 +104560,7 @@
 				"notes": [
 					"Godan verb with 'gu' ending",
 					"Intransitive verb",
-					"降り注ぐ"
+					"Related: 降り注ぐ"
 				]
 			}
 		],
@@ -104964,7 +104974,7 @@
 				"translation": "place, world, environment",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"学びの園"
+					"Related: 学びの園"
 				]
 			}
 		],
@@ -105908,7 +105918,7 @@
 				"translation": "and then, in addition to that, also, even so",
 				"notes": [
 					"Conjunction",
-					"それとも",
+					"Related: それとも",
 					"Word usually written using kana alone"
 				]
 			}
@@ -106783,7 +106793,7 @@
 				"notes": [
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Transitive verb",
-					"存じる・1",
+					"Related: 存じる・1",
 					"Humble (kenjougo) language"
 				]
 			},
@@ -107297,7 +107307,7 @@
 				"translation": "university",
 				"notes": [
 					"Noun, used as a suffix",
-					"大学・1",
+					"Related: 大学・1",
 					"Abbreviation"
 				]
 			},
@@ -107311,7 +107321,7 @@
 				"translation": "long month (i.e. having 31 days)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"大の月",
+					"Related: 大の月",
 					"Abbreviation"
 				]
 			}
@@ -107394,7 +107404,7 @@
 				"translation": "stock (in grafting)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"台木・1"
+					"Related: 台木・1"
 				]
 			},
 			{
@@ -107743,7 +107753,7 @@
 				"translation": "magnanimity, generosity",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"大度"
+					"Related: 大度"
 				]
 			}
 		],
@@ -108724,7 +108734,7 @@
 				"translation": "world war",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"世界大戦",
+					"Related: 世界大戦",
 					"Abbreviation"
 				]
 			}
@@ -109177,7 +109187,7 @@
 				"translation": "switchboard number, main number",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"代表番号",
+					"Related: 代表番号",
 					"Abbreviation"
 				]
 			}
@@ -109263,7 +109273,7 @@
 				"translation": "most part, greater part, majority",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"小部分"
+					"Antonym: 小部分"
 				]
 			}
 		],
@@ -109594,7 +109604,7 @@
 				"translation": "diamond",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ダイヤモンド・1",
+					"Related: ダイヤモンド・1",
 					"Abbreviation"
 				]
 			}
@@ -109890,7 +109900,7 @@
 				"translation": "plateau, tableland, plain",
 				"notes": [
 					"Noun, used as a suffix",
-					"平・だいら",
+					"Related: 平・だいら",
 					"After a place name, usu. だいら"
 				]
 			}
@@ -110305,7 +110315,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"お互い"
+					"Related: お互い"
 				]
 			}
 		],
@@ -110490,8 +110500,8 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"Kansai-ben",
-					"煮る"
+					"Dialect: Kansai-ben",
+					"Related: 煮る"
 				]
 			},
 			{
@@ -110566,8 +110576,8 @@
 				"translation": "middle (of a three-tier ranking system)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"梅・うめ・2",
-					"松・まつ・2"
+					"Related: 梅・うめ・2",
+					"Related: 松・まつ・2"
 				]
 			}
 		],
@@ -110759,7 +110769,7 @@
 				"translation": "I'm home!, I'm back!, it's me!",
 				"notes": [
 					"Interjection (kandoushi)",
-					"ただいま帰りました",
+					"Related: ただいま帰りました",
 					"Word usually written using kana alone",
 					"Abbreviation"
 				]
@@ -111740,7 +111750,7 @@
 				"translation": "(weaving) warp",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"経糸・たていと"
+					"Related: 経糸・たていと"
 				]
 			}
 		],
@@ -111925,7 +111935,7 @@
 				"translation": "another person, other people, others",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"人・ひと・4"
+					"Related: 人・ひと・4"
 				]
 			},
 			{
@@ -112030,7 +112040,7 @@
 				"translation": "paternal blood, lineage",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"胤"
+					"Related: 胤"
 				]
 			},
 			{
@@ -112286,7 +112296,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"シングル・1",
+					"Related: シングル・1",
 					"Sometimes written as \"Ｗ\""
 				]
 			},
@@ -112294,7 +112304,7 @@
 				"translation": "double bed, hotel room with a double bed",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ダブルベッド",
+					"Related: ダブルベッド",
 					"Abbreviation"
 				]
 			},
@@ -112303,7 +112313,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"ダブルブレスト",
+					"Related: ダブルブレスト",
 					"Abbreviation"
 				]
 			},
@@ -112319,7 +112329,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"ダブル幅",
+					"Related: ダブル幅",
 					"Abbreviation"
 				]
 			},
@@ -112328,7 +112338,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Sports",
-					"ダブルス",
+					"Related: ダブルス",
 					"Abbreviation"
 				]
 			},
@@ -112336,7 +112346,7 @@
 				"translation": "biracial person (esp. half-Japanese), person of mixed parentage",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ハーフ・2",
+					"Related: ハーフ・2",
 					"Conceived as a more positive-sounding alternative to ハーフ",
 					"Rare term"
 				]
@@ -112536,7 +112546,7 @@
 				"translation": "ball (i.e. a testicle)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"金玉・きんたま",
+					"Related: 金玉・きんたま",
 					"Esp. 玉",
 					"Slang",
 					"Abbreviation"
@@ -112574,7 +112584,7 @@
 					"Meaning restricted to 玉",
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"玉子・2"
+					"Related: 玉子・2"
 				]
 			},
 			{
@@ -112584,7 +112594,7 @@
 					"Noun, used as a suffix",
 					"Counter",
 					"Food, cooking",
-					"お好み焼き"
+					"Related: お好み焼き"
 				]
 			},
 			{
@@ -112819,7 +112829,7 @@
 				"translation": "occasionally, once in a while, now and then",
 				"notes": [
 					"Adverb (fukushi)",
-					"たまに",
+					"Related: たまに",
 					"Word usually written using kana alone"
 				]
 			}
@@ -113607,7 +113617,7 @@
 				"translation": "stairs",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"階段"
+					"Related: 階段"
 				]
 			}
 		],
@@ -113681,7 +113691,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"長期・ちょうき"
+					"Antonym: 長期・ちょうき"
 				]
 			}
 		],
@@ -113914,7 +113924,7 @@
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"複雑"
+					"Antonym: 複雑"
 				]
 			}
 		],
@@ -114127,7 +114137,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Grammar",
-					"複数・2"
+					"Related: 複数・2"
 				]
 			}
 		],
@@ -114530,7 +114540,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"天地無用"
+					"Related: 天地無用"
 				]
 			},
 			{
@@ -114538,8 +114548,8 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"五大・1",
-					"土・ど・2"
+					"Related: 五大・1",
+					"Related: 土・ど・2"
 				]
 			}
 		],
@@ -114981,7 +114991,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"地上・1"
+					"Antonym: 地上・1"
 				]
 			},
 			{
@@ -115863,7 +115873,7 @@
 				"translation": "father",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"母",
+					"Related: 母",
 					"Humble (kenjougo) language"
 				]
 			}
@@ -116125,7 +116135,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Baseball",
-					"ファウルチップ",
+					"Related: ファウルチップ",
 					"Abbreviation"
 				]
 			},
@@ -116263,7 +116273,7 @@
 				"translation": "the country, countryside, the provinces, rural area",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"中央・2"
+					"Related: 中央・2"
 				]
 			},
 			{
@@ -116407,7 +116417,7 @@
 				"translation": "tea",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お茶・1"
+					"Related: お茶・1"
 				]
 			},
 			{
@@ -116420,14 +116430,14 @@
 				"translation": "tea preparation, making tea",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"茶道"
+					"Related: 茶道"
 				]
 			},
 			{
 				"translation": "brown",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"茶色",
+					"Related: 茶色",
 					"Abbreviation"
 				]
 			},
@@ -116436,7 +116446,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"茶化す",
+					"Related: 茶化す",
 					"Archaic"
 				]
 			}
@@ -116711,15 +116721,15 @@
 				"translation": "second volume (of three)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"上・4",
-					"下・2"
+					"Related: 上・4",
+					"Related: 下・2"
 				]
 			},
 			{
 				"translation": "junior high school, middle school",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"中学校",
+					"Related: 中学校",
 					"Abbreviation"
 				]
 			},
@@ -116727,7 +116737,7 @@
 				"translation": "China",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"中国・1",
+					"Related: 中国・1",
 					"Abbreviation"
 				]
 			}
@@ -116886,7 +116896,7 @@
 				"translation": "capital, seat of government",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"地方・2"
+					"Related: 地方・2"
 				]
 			}
 		],
@@ -116961,7 +116971,7 @@
 				"translation": "junior high school, middle school, lower secondary school",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"中学校",
+					"Related: 中学校",
 					"Abbreviation"
 				]
 			}
@@ -117210,8 +117220,8 @@
 				"translation": "middle ten days of a month, 11th to 20th day of a month",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"上旬",
-					"下旬"
+					"Related: 上旬",
+					"Related: 下旬"
 				]
 			}
 		],
@@ -117774,7 +117784,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"短期・たんき"
+					"Antonym: 短期・たんき"
 				]
 			}
 		],
@@ -118117,7 +118127,7 @@
 				"translation": "strong point, merit, virtue, advantage",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"短所"
+					"Antonym: 短所"
 				]
 			}
 		],
@@ -118945,7 +118955,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
 					"Adverb (fukushi)",
-					"間接・かんせつ"
+					"Related: 間接・かんせつ"
 				]
 			}
 		],
@@ -119439,7 +119449,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Sumo",
-					"塵手水",
+					"Related: 塵手水",
 					"Abbreviation"
 				]
 			}
@@ -120096,7 +120106,7 @@
 				"notes": [
 					"Ichidan verb - zuru verb (alternative form of -jiru verbs)",
 					"Intransitive verb",
-					"通じる・1"
+					"Related: 通じる・1"
 				]
 			},
 			{
@@ -120458,7 +120468,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"通用口"
+					"Related: 通用口"
 				]
 			}
 		],
@@ -120760,7 +120770,7 @@
 				"translation": "(a) moon, natural satellite",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"衛星・1"
+					"Related: 衛星・1"
 				]
 			}
 		],
@@ -121089,7 +121099,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"吐く・はく・1",
+					"Related: 吐く・はく・1",
 					"Word usually written using kana alone"
 				]
 			}
@@ -121160,7 +121170,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"付く・9",
+					"Related: 付く・9",
 					"Word usually written using kana alone"
 				]
 			},
@@ -121335,7 +121345,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"点ける",
+					"Related: 点ける",
 					"Word usually written using kana alone"
 				]
 			},
@@ -121352,7 +121362,7 @@
 				"notes": [
 					"Suffix",
 					"Ichidan verb",
-					"怒鳴りつける",
+					"Related: 怒鳴りつける",
 					"After -masu stem of verb",
 					"Word usually written using kana alone"
 				]
@@ -121462,7 +121472,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"付ける・つける・13",
+					"Related: 付ける・つける・13",
 					"Word usually written using kana alone"
 				]
 			}
@@ -121551,14 +121561,14 @@
 				"translation": "low-quality torinoko-gami (containing mud)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"鳥の子紙"
+					"Related: 鳥の子紙"
 				]
 			},
 			{
 				"translation": "(period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"陰陽道",
+					"Related: 陰陽道",
 					"Also written as 犯土, 椎, 槌"
 				]
 			}
@@ -121883,7 +121893,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Intransitive verb",
-					"血がつながる・ちがつながる",
+					"Related: 血がつながる・ちがつながる",
 					"Word usually written using kana alone"
 				]
 			}
@@ -122096,7 +122106,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"繋ぐ・つなぐ・1",
+					"Related: 繋ぐ・つなぐ・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -122105,7 +122115,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"繋ぐ・つなぐ・2",
+					"Related: 繋ぐ・つなぐ・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -122114,7 +122124,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"繋ぐ・つなぐ・4",
+					"Related: 繋ぐ・つなぐ・4",
 					"Word usually written using kana alone"
 				]
 			}
@@ -122259,8 +122269,8 @@
 					"Meaning restricted to よく",
 					"Noun (common) (futsuumeishi)",
 					"Astronomy",
-					"二十八宿",
-					"朱雀・すざく・2"
+					"Related: 二十八宿",
+					"Related: 朱雀・すざく・2"
 				]
 			},
 			{
@@ -122497,7 +122507,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"飲みつぶれる"
+					"Related: 飲みつぶれる"
 				]
 			}
 		],
@@ -122831,7 +122841,7 @@
 					"Ichidan verb",
 					"Transitive verb",
 					"Intransitive verb",
-					"根を詰める",
+					"Related: 根を詰める",
 					"Usu. as 根を詰める"
 				]
 			},
@@ -122861,7 +122871,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"指を詰める・1",
+					"Related: 指を詰める・1",
 					"The meaning \"to catch one's finger\" is predominantly used in Kansai"
 				]
 			},
@@ -122966,7 +122976,7 @@
 				"translation": "(not) a bit, (not) at all",
 				"notes": [
 					"Adverb (fukushi)",
-					"露聊かも"
+					"Related: 露聊かも"
 				]
 			}
 		],
@@ -123044,7 +123054,7 @@
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
 					"Stock market",
-					"弱気・2"
+					"Antonym: 弱気・2"
 				]
 			}
 		],
@@ -123118,7 +123128,7 @@
 				"translation": "change (for a purchase)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"釣り銭",
+					"Related: 釣り銭",
 					"Word usually written using kana alone",
 					"Abbreviation"
 				]
@@ -123306,7 +123316,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Transitive verb",
-					"首を吊る",
+					"Related: 首を吊る",
 					"In the form 首を吊る"
 				]
 			},
@@ -123839,7 +123849,7 @@
 				"translation": "fixed-term commuter pass",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"定期乗車券",
+					"Related: 定期乗車券",
 					"Abbreviation"
 				]
 			},
@@ -123847,7 +123857,7 @@
 				"translation": "fixed-term deposit",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"定期預金",
+					"Related: 定期預金",
 					"Abbreviation"
 				]
 			},
@@ -123855,7 +123865,7 @@
 				"translation": "futures contracts",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"定期取引",
+					"Related: 定期取引",
 					"Abbreviation"
 				]
 			}
@@ -123957,7 +123967,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Electricity, elec. eng.",
-					"電気抵抗",
+					"Related: 電気抵抗",
 					"Abbreviation"
 				]
 			},
@@ -123966,7 +123976,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Electricity, elec. eng.",
-					"抵抗器",
+					"Related: 抵抗器",
 					"Abbreviation"
 				]
 			}
@@ -124975,7 +124985,7 @@
 				"translation": "so, therefore, accordingly, consequently, on those grounds, that is why, for that reason",
 				"notes": [
 					"Conjunction",
-					"だから・1",
+					"Related: だから・1",
 					"Polite (teineigo) language"
 				]
 			}
@@ -125137,7 +125147,7 @@
 				"translation": "certificate",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"身体障害者手帳",
+					"Related: 身体障害者手帳",
 					"Abbreviation"
 				]
 			},
@@ -125145,7 +125155,7 @@
 				"translation": "identification card",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"警察手帳",
+					"Related: 警察手帳",
 					"Abbreviation"
 				]
 			}
@@ -125240,7 +125250,7 @@
 				"translation": "steel",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"鋼・1"
+					"Related: 鋼・1"
 				]
 			},
 			{
@@ -125256,7 +125266,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
 					"Noun, used as a prefix",
-					"鉄道",
+					"Related: 鉄道",
 					"Abbreviation"
 				]
 			},
@@ -125709,7 +125719,7 @@
 				"translation": "then, well, so, well then",
 				"notes": [
 					"Conjunction",
-					"それでは・1"
+					"Related: それでは・1"
 				]
 			},
 			{
@@ -125729,7 +125739,7 @@
 				"translation": "if not ..., unless ...",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"で",
+					"Related: で",
 					"After a -nai stem",
 					"Archaic"
 				]
@@ -125809,7 +125819,7 @@
 				"translation": "tea-ceremony procedures",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"点前・てまえ"
+					"Related: 点前・てまえ"
 				]
 			},
 			{
@@ -125902,7 +125912,7 @@
 				"translation": "demonstration, protest",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"デモンストレーション・1",
+					"Related: デモンストレーション・1",
 					"Abbreviation"
 				]
 			},
@@ -125910,8 +125920,8 @@
 				"translation": "(giving a) demo, demonstration, presentation",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"デモンストレーション・1",
-					"デモンストレーション・2",
+					"Related: デモンストレーション・1",
+					"Related: デモンストレーション・2",
 					"Abbreviation"
 				]
 			}
@@ -126722,7 +126732,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"人工"
+					"Antonym: 人工"
 				]
 			},
 			{
@@ -126730,7 +126740,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"天然ボケ",
+					"Related: 天然ボケ",
 					"Abbreviation",
 					"Colloquial"
 				]
@@ -126894,7 +126904,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"電波系・でんぱけい",
+					"Related: 電波系・でんぱけい",
 					"Slang"
 				]
 			}
@@ -127311,7 +127321,7 @@
 				"notes": [
 					"Meaning restricted to どう",
 					"Noun (common) (futsuumeishi)",
-					"銅メダル",
+					"Related: 銅メダル",
 					"Abbreviation"
 				]
 			}
@@ -127651,7 +127661,7 @@
 				"notes": [
 					"Meaning restricted to とうざい",
 					"Interjection (kandoushi)",
-					"東西東西",
+					"Related: 東西東西",
 					"Abbreviation"
 				]
 			}
@@ -128151,7 +128161,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"退場・2"
+					"Antonym: 退場・2"
 				]
 			},
 			{
@@ -128893,7 +128903,7 @@
 				"translation": "the East, the Orient, (East) Asia",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"西洋"
+					"Related: 西洋"
 				]
 			},
 			{
@@ -129422,7 +129432,7 @@
 				"translation": "Tokyo Metropolitan Assembly",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"都議会",
+					"Related: 都議会",
 					"Abbreviation"
 				]
 			}
@@ -129921,7 +129931,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"とかす",
+					"Related: とかす",
 					"Also written as 梳く",
 					"Word usually written using kana alone"
 				]
@@ -130201,8 +130211,8 @@
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"一般・2",
-					"普遍"
+					"Antonym: 一般・2",
+					"Antonym: 普遍"
 				]
 			}
 		],
@@ -130877,7 +130887,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Intransitive verb",
-					"解ける・ほどける・1"
+					"Related: 解ける・ほどける・1"
 				]
 			},
 			{
@@ -130968,7 +130978,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"退ける・どける"
+					"Related: 退ける・どける"
 				]
 			},
 			{
@@ -131331,7 +131341,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"下山"
+					"Antonym: 下山"
 				]
 			}
 		],
@@ -132211,7 +132221,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Internet",
-					"トップページ",
+					"Related: トップページ",
 					"Abbreviation"
 				]
 			}
@@ -132795,7 +132805,7 @@
 				"translation": "Saturday",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"土曜日"
+					"Related: 土曜日"
 				]
 			}
 		],
@@ -133071,7 +133081,7 @@
 				"translation": "(non-documentary) television series, TV drama, teledrama, play",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"テレビドラマ",
+					"Related: テレビドラマ",
 					"Abbreviation"
 				]
 			},
@@ -133582,7 +133592,7 @@
 					"Ichidan verb",
 					"Intransitive verb",
 					"Transitive verb",
-					"取る・1",
+					"Related: 取る・1",
 					"Potential form of 取る"
 				]
 			}
@@ -133752,9 +133762,9 @@
 				"translation": "what kind of, what sort of, what",
 				"notes": [
 					"Pre-noun adjectival (rentaishi)",
-					"こんな",
-					"そんな・1",
-					"あんな"
+					"Related: こんな",
+					"Related: そんな・1",
+					"Related: あんな"
 				]
 			},
 			{
@@ -134017,7 +134027,7 @@
 				"translation": "within ..., inside ...",
 				"notes": [
 					"Suffix",
-					"外"
+					"Antonym: 外"
 				]
 			}
 		],
@@ -135019,7 +135029,7 @@
 				"translation": "cancellation",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お流れ",
+					"Related: お流れ",
 					"Usu. as お流れ"
 				]
 			},
@@ -136179,8 +136189,8 @@
 				"translation": "the Antarctic, Antarctica",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"南極圏",
-					"南極大陸"
+					"Related: 南極圏",
+					"Related: 南極大陸"
 				]
 			}
 		],
@@ -136495,7 +136505,7 @@
 				"translation": "number plate, license plate",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ナンバープレート",
+					"Related: ナンバープレート",
 					"Abbreviation"
 				]
 			}
@@ -136537,7 +136547,7 @@
 				"translation": "South America",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"南アメリカ"
+					"Related: 南アメリカ"
 				]
 			}
 		],
@@ -136924,7 +136934,7 @@
 				"translation": "odious, hateful, detestable, horrible",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"憎たらしい"
+					"Related: 憎たらしい"
 				]
 			},
 			{
@@ -137113,7 +137123,7 @@
 				"translation": "Sunday",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"日曜",
+					"Related: 日曜",
 					"Abbreviation"
 				]
 			},
@@ -137133,7 +137143,7 @@
 				"translation": "Japan",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"日本",
+					"Related: 日本",
 					"Abbreviation"
 				]
 			}
@@ -137285,7 +137295,7 @@
 				"translation": "Sunday",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"日曜日"
+					"Related: 日曜日"
 				]
 			}
 		],
@@ -137454,7 +137464,7 @@
 					"Adverb (fukushi)",
 					"Adverb taking the 'to' particle",
 					"Noun or participle which takes the aux. verb suru",
-					"ニコニコ",
+					"Related: ニコニコ",
 					"Onomatopoeic or mimetic word"
 				]
 			}
@@ -137821,7 +137831,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"退場・1"
+					"Antonym: 退場・1"
 				]
 			}
 		],
@@ -137919,7 +137929,7 @@
 				"notes": [
 					"Godan verb with 'mu' ending",
 					"Transitive verb",
-					"睨まれる",
+					"Related: 睨まれる",
 					"Often as 睨まれる",
 					"Word usually written using kana alone"
 				]
@@ -138005,7 +138015,7 @@
 				"translation": "impromptu skit",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"俄狂言",
+					"Related: 俄狂言",
 					"Sometimes written as 仁輪加",
 					"Abbreviation"
 				]
@@ -138014,7 +138024,7 @@
 				"translation": "bandwagon fan, fair-weather fan",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"にわかファン",
+					"Related: にわかファン",
 					"Abbreviation",
 					"Slang",
 					"Word usually written using kana alone"
@@ -138606,7 +138616,7 @@
 				"notes": [
 					"Meaning restricted to ふ",
 					"Noun (common) (futsuumeishi)",
-					"布銭",
+					"Related: 布銭",
 					"Historical term"
 				]
 			}
@@ -139762,7 +139772,7 @@
 				"notes": [
 					"Meaning restricted to の",
 					"Noun, used as a prefix",
-					"野ウサギ・2"
+					"Related: 野ウサギ・2"
 				]
 			},
 			{
@@ -140699,7 +140709,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"臨む・2",
+					"Related: 臨む・2",
 					"Esp. 臨く",
 					"Archaic"
 				]
@@ -141357,7 +141367,7 @@
 				"translation": "occasion, situation",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"その場・1"
+					"Related: その場・1"
 				]
 			},
 			{
@@ -141385,8 +141395,8 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Mahjong",
-					"東場",
-					"南場"
+					"Related: 東場",
+					"Related: 南場"
 				]
 			},
 			{
@@ -141940,7 +141950,7 @@
 				"translation": "actor, actress, player, performer",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"役者・1"
+					"Related: 役者・1"
 				]
 			}
 		],
@@ -142410,7 +142420,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"博士・はくし",
+					"Related: 博士・はくし",
 					"Colloquial"
 				]
 			},
@@ -142425,7 +142435,7 @@
 				"translation": "pitch and length marks (to accompany a Buddhist liturgical chant, etc.)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"墨譜"
+					"Related: 墨譜"
 				]
 			}
 		],
@@ -142740,7 +142750,7 @@
 				"translation": "clapping one's hands in prayer (at a shrine)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"柏手"
+					"Related: 柏手"
 				]
 			}
 		],
@@ -143150,7 +143160,7 @@
 				"translation": "scissors, shears, clippers",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"螯・はさみ",
+					"Related: 螯・はさみ",
 					"Word usually written using kana alone"
 				]
 			},
@@ -143818,7 +143828,7 @@
 				"notes": [
 					"Meaning restricted to はちす",
 					"Noun (common) (futsuumeishi)",
-					"ムクゲ",
+					"Related: ムクゲ",
 					"Word usually written using kana alone"
 				]
 			}
@@ -144025,7 +144035,7 @@
 					"Meaning restricted to 幡",
 					"Noun (common) (futsuumeishi)",
 					"Buddhism",
-					"幡・ばん"
+					"Related: 幡・ばん"
 				]
 			},
 			{
@@ -144130,7 +144140,7 @@
 				"translation": "body (in the context of intimate bodily contact)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"肌を許す"
+					"Related: 肌を許す"
 				]
 			},
 			{
@@ -144145,7 +144155,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun, used as a suffix",
-					"肌が合う"
+					"Related: 肌が合う"
 				]
 			}
 		],
@@ -144239,7 +144249,7 @@
 				"translation": "behavioural pattern, behavioral pattern, predictability, force of habit",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ワンパターン"
+					"Related: ワンパターン"
 				]
 			}
 		],
@@ -144548,7 +144558,7 @@
 				"translation": "x (mark), cross",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"罰点",
+					"Related: 罰点",
 					"Used to indicate an incorrect answer, etc.",
 					"Word usually written using kana alone"
 				]
@@ -144620,7 +144630,7 @@
 				"translation": "reverse (gear)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"バックギア",
+					"Related: バックギア",
 					"Abbreviation"
 				]
 			},
@@ -144643,7 +144653,7 @@
 				"translation": "backstroke (swimming)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"バックストローク",
+					"Related: バックストローク",
 					"Abbreviation"
 				]
 			},
@@ -144652,7 +144662,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Sports",
-					"バックハンド",
+					"Related: バックハンド",
 					"Abbreviation"
 				]
 			},
@@ -144962,7 +144972,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"停車"
+					"Antonym: 停車"
 				]
 			}
 		],
@@ -145311,7 +145321,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Intransitive verb",
-					"発展場"
+					"Related: 発展場"
 				]
 			}
 		],
@@ -145657,7 +145667,7 @@
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"地味・1"
+					"Antonym: 地味・1"
 				]
 			}
 		],
@@ -146023,7 +146033,7 @@
 				"translation": "mother",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"父",
+					"Related: 父",
 					"かか was used by children",
 					"Humble (kenjougo) language"
 				]
@@ -146798,15 +146808,15 @@
 				"translation": "needle, pin",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"鍼・1"
+					"Related: 鍼・1"
 				]
 			},
 			{
 				"translation": "hook",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"鉤・かぎ・1",
-					"釣り針・つりばり"
+					"Related: 鉤・かぎ・1",
+					"Related: 釣り針・つりばり"
 				]
 			},
 			{
@@ -146831,7 +146841,7 @@
 				"translation": "needlework, sewing",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"御針・1"
+					"Related: 御針・1"
 				]
 			},
 			{
@@ -147327,7 +147337,7 @@
 				"translation": "seal (used in lieu of a signature), stamp, chop",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"印鑑",
+					"Related: 印鑑",
 					"Word usually written using kana alone"
 				]
 			}
@@ -147950,7 +147960,7 @@
 				"translation": "belt (clothing)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ベルト・1"
+					"Related: ベルト・1"
 				]
 			},
 			{
@@ -148097,7 +148107,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Internet",
-					"ハンドルネーム"
+					"Related: ハンドルネーム"
 				]
 			}
 		],
@@ -148904,9 +148914,9 @@
 				"translation": "moustache, mustache, beard, whiskers, sideburns",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"口髭",
-					"顎鬚",
-					"頬髯",
+					"Related: 口髭",
+					"Related: 顎鬚",
+					"Related: 頬髯",
 					"In careful usage 髭 for moustache, 鬚 for beard, 髯 for (cheek) whiskers",
 					"Word usually written using kana alone"
 				]
@@ -150034,7 +150044,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Shogi",
-					"必至・2"
+					"Related: 必至・2"
 				]
 			}
 		],
@@ -150193,7 +150203,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"肯定・1"
+					"Antonym: 肯定・1"
 				]
 			},
 			{
@@ -150301,8 +150311,8 @@
 				"translation": "videotape, VHS tape, videocassette",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ビデオテープ",
-					"ビデオカセット",
+					"Related: ビデオテープ",
+					"Related: ビデオカセット",
 					"Abbreviation"
 				]
 			},
@@ -150310,7 +150320,7 @@
 				"translation": "videocassette recorder, VCR",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ビデオテープレコーダー・2",
+					"Related: ビデオテープレコーダー・2",
 					"Abbreviation"
 				]
 			},
@@ -150318,7 +150328,7 @@
 				"translation": "video (short film)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"動画・1"
+					"Related: 動画・1"
 				]
 			}
 		],
@@ -150820,7 +150830,7 @@
 				"notes": [
 					"Meaning restricted to バイナル",
 					"Noun (common) (futsuumeishi)",
-					"ビニール盤",
+					"Related: ビニール盤",
 					"Abbreviation"
 				]
 			}
@@ -151086,7 +151096,7 @@
 				"translation": "sunset",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"日の出・ひので"
+					"Antonym: 日の出・ひので"
 				]
 			}
 		],
@@ -151578,7 +151588,7 @@
 				"translation": "secret (e.g. to success)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"秘訣"
+					"Related: 秘訣"
 				]
 			},
 			{
@@ -152809,7 +152819,7 @@
 					"Adverb (fukushi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"広々とした"
+					"Related: 広々とした"
 				]
 			}
 		],
@@ -153050,7 +153060,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"ピンク映画"
+					"Related: ピンク映画"
 				]
 			}
 		],
@@ -153355,7 +153365,7 @@
 				"translation": "one-tenth of a monme of silver",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"匁・もんめ・1"
+					"Related: 匁・もんめ・1"
 				]
 			}
 		],
@@ -154198,7 +154208,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Grammar",
-					"単数・2"
+					"Related: 単数・2"
 				]
 			}
 		],
@@ -154841,7 +154851,7 @@
 				"notes": [
 					"Godan verb with 'gu' ending",
 					"Intransitive verb",
-					"鬱ぐ・ふさぐ"
+					"Related: 鬱ぐ・ふさぐ"
 				]
 			}
 		],
@@ -155155,7 +155165,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Physics",
-					"腹・9"
+					"Related: 腹・9"
 				]
 			}
 		],
@@ -155308,7 +155318,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adverb (fukushi)",
-					"無事に・1"
+					"Related: 無事に・1"
 				]
 			},
 			{
@@ -155606,7 +155616,7 @@
 				"translation": "woman, lady, adult female",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"紳士",
+					"Related: 紳士",
 					"Sensitive",
 					"Dated term"
 				]
@@ -155858,7 +155868,7 @@
 				"translation": "attached school, affiliated school",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"付属学校",
+					"Related: 付属学校",
 					"Abbreviation"
 				]
 			}
@@ -156770,7 +156780,7 @@
 				"translation": "physics",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"物理学",
+					"Related: 物理学",
 					"Abbreviation"
 				]
 			}
@@ -157471,7 +157481,7 @@
 					"Conjunction",
 					"Prefix",
 					"Suffix",
-					"マイナス・1"
+					"Antonym: マイナス・1"
 				]
 			},
 			{
@@ -157755,7 +157765,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
-					"有利・1"
+					"Related: 有利・1"
 				]
 			}
 		],
@@ -157852,7 +157862,7 @@
 				"translation": "freelancer",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"フリーランサー",
+					"Related: フリーランサー",
 					"Abbreviation"
 				]
 			},
@@ -157861,7 +157871,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"フリーサイズ",
+					"Related: フリーサイズ",
 					"Abbreviation"
 				]
 			},
@@ -157870,7 +157880,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Figure skating",
-					"フリースケーティング",
+					"Related: フリースケーティング",
 					"Abbreviation"
 				]
 			}
@@ -158390,7 +158400,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"プロフェッショナル",
+					"Related: プロフェッショナル",
 					"Abbreviation"
 				]
 			},
@@ -158398,7 +158408,7 @@
 				"translation": "program",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"プログラム・1",
+					"Related: プログラム・1",
 					"Abbreviation"
 				]
 			},
@@ -158406,7 +158416,7 @@
 				"translation": "production",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"プロダクション",
+					"Related: プロダクション",
 					"Abbreviation"
 				]
 			},
@@ -158414,8 +158424,8 @@
 				"translation": "proletarian, proletariat",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"プロレタリア",
-					"プロレタリアート",
+					"Related: プロレタリア",
+					"Related: プロレタリアート",
 					"Abbreviation"
 				]
 			},
@@ -158423,7 +158433,7 @@
 				"translation": "propaganda",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"プロパガンダ",
+					"Related: プロパガンダ",
 					"Abbreviation"
 				]
 			}
@@ -158594,7 +158604,7 @@
 		],
 		"translations": [
 			{
-				"translation": "wrapping cloth, cloth wrapper",
+				"translation": "furoshiki, wrapping cloth, cloth wrapper",
 				"notes": [
 					"Noun (common) (futsuumeishi)"
 				]
@@ -158735,7 +158745,7 @@
 				"translation": "the literary arts (as opposed to the military arts), academia, literature",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"武・1"
+					"Related: 武・1"
 				]
 			},
 			{
@@ -158832,7 +158842,7 @@
 				"translation": "(Earth's) atmosphere",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"大気・1",
+					"Related: 大気・1",
 					"Obsolete term"
 				]
 			}
@@ -159928,7 +159938,7 @@
 				"notes": [
 					"Godan verb with 'mu' ending",
 					"Intransitive verb",
-					"ヘコむ",
+					"Related: ヘコむ",
 					"Colloquial"
 				]
 			},
@@ -160562,7 +160572,7 @@
 				]
 			},
 			{
-				"translation": "experience, lesson (for the future)",
+				"translation": "experience, knowledge, lesson (for the future)",
 				"notes": [
 					"Noun (common) (futsuumeishi)"
 				]
@@ -160931,7 +160941,7 @@
 				"notes": [
 					"Explanation",
 					"Noun (common) (futsuumeishi)",
-					"お弁当"
+					"Related: お弁当"
 				]
 			}
 		],
@@ -161153,7 +161163,7 @@
 				"translation": "spoken monotonously",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"棒読み・1",
+					"Related: 棒読み・1",
 					"Internet slang"
 				]
 			}
@@ -161615,7 +161625,7 @@
 				"translation": "magnetic needle",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"磁針",
+					"Related: 磁針",
 					"Orig. meaning"
 				]
 			}
@@ -162291,7 +162301,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Transitive verb",
-					"放っておく"
+					"Related: 放っておく"
 				]
 			}
 		],
@@ -162659,7 +162669,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Railway",
-					"プラットホーム",
+					"Related: プラットホーム",
 					"Abbreviation"
 				]
 			}
@@ -164025,7 +164035,7 @@
 				"translation": "Obon, Bon Festival, Lantern Festival, Festival of the Dead",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"盂蘭盆",
+					"Related: 盂蘭盆",
 					"Abbreviation"
 				]
 			},
@@ -164380,7 +164390,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"偽物"
+					"Related: 偽物"
 				]
 			}
 		],
@@ -164851,7 +164861,7 @@
 				"translation": "mike, mic, microphone",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"マイクロホン",
+					"Related: マイクロホン",
 					"Abbreviation"
 				]
 			}
@@ -164905,7 +164915,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"プラス・1"
+					"Antonym: プラス・1"
 				]
 			},
 			{
@@ -165113,7 +165123,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"種をまく・2",
+					"Related: 種をまく・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -165122,7 +165132,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Transitive verb",
-					"蒔絵",
+					"Related: 蒔絵",
 					"Word usually written using kana alone"
 				]
 			}
@@ -165198,14 +165208,14 @@
 				"translation": "defeat, loss, losing (a game)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"勝ち・かち"
+					"Antonym: 勝ち・かち"
 				]
 			},
 			{
 				"translation": "failing to live up to (one's name, looks, etc.)",
 				"notes": [
 					"Suffix",
-					"名前負け・なまえまけ"
+					"Related: 名前負け・なまえまけ"
 				]
 			},
 			{
@@ -165345,7 +165355,7 @@
 				"notes": [
 					"Adverb (fukushi)",
 					"Noun or participle which takes the aux. verb suru",
-					"まごつく",
+					"Related: まごつく",
 					"Onomatopoeic or mimetic word"
 				]
 			}
@@ -165379,7 +165389,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"まさかの時",
+					"Related: まさかの時",
 					"Word usually written using kana alone"
 				]
 			},
@@ -165396,7 +165406,7 @@
 				"notes": [
 					"Adverb (fukushi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"本当に",
+					"Related: 本当に",
 					"Word usually written using kana alone",
 					"Rare term"
 				]
@@ -165686,7 +165696,7 @@
 				"translation": "poor, unskillful, unskilful, bungling, clumsy",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"拙い・2",
+					"Related: 拙い・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -165701,7 +165711,7 @@
 				"translation": "awkward, problematic, troublesome, unfavorable, unfavourable, unwise",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"気不味い",
+					"Related: 気不味い",
 					"Word usually written using kana alone"
 				]
 			}
@@ -165862,7 +165872,7 @@
 				"translation": "master (device)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"スレーブ・1"
+					"Related: スレーブ・1"
 				]
 			},
 			{
@@ -166258,7 +166268,7 @@
 				"translation": "powder",
 				"notes": [
 					"Noun, used as a suffix",
-					"粉末"
+					"Related: 粉末"
 				]
 			}
 		],
@@ -166413,7 +166423,7 @@
 				"translation": "good grief",
 				"notes": [
 					"Interjection (kandoushi)",
-					"まったくもう",
+					"Related: まったくもう",
 					"Word usually written using kana alone"
 				]
 			}
@@ -166563,7 +166573,7 @@
 				"translation": "festival, feast, matsuri",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お祭り"
+					"Related: お祭り"
 				]
 			},
 			{
@@ -167484,7 +167494,7 @@
 				"translation": "circle",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"○・まる・1"
+					"Related: ○・まる・1"
 				]
 			},
 			{
@@ -167512,15 +167522,15 @@
 				"translation": "soft-shelled turtle",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"Kansai-ben",
-					"スッポン・1"
+					"Dialect: Kansai-ben",
+					"Related: スッポン・1"
 				]
 			},
 			{
 				"translation": "suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc.",
 				"notes": [
 					"Suffix",
-					"麻呂・3",
+					"Related: 麻呂・3",
 					"Esp. 丸"
 				]
 			}
@@ -167688,7 +167698,7 @@
 				"translation": "rotation",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"周り・1"
+					"Related: 周り・1"
 				]
 			},
 			{
@@ -168445,7 +168455,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"敵・1"
+					"Antonym: 敵・1"
 				]
 			},
 			{
@@ -168890,7 +168900,7 @@
 				"translation": "headword",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"見出し語",
+					"Related: 見出し語",
 					"Abbreviation"
 				]
 			}
@@ -169824,14 +169834,14 @@
 				"translation": "infant formula, formula, baby milk",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"粉ミルク・2"
+					"Related: 粉ミルク・2"
 				]
 			},
 			{
 				"translation": "condensed milk",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"コンデンスミルク",
+					"Related: コンデンスミルク",
 					"Abbreviation"
 				]
 			}
@@ -170514,7 +170524,7 @@
 				"notes": [
 					"Godan verb with 'bu' ending",
 					"Transitive verb",
-					"実を結ぶ"
+					"Related: 実を結ぶ"
 				]
 			},
 			{
@@ -170713,7 +170723,7 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"有料・1"
+					"Antonym: 有料・1"
 				]
 			}
 		],
@@ -170795,7 +170805,7 @@
 				"translation": "germinal disk (in an egg)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"胚盤・1"
+					"Related: 胚盤・1"
 				]
 			}
 		],
@@ -171275,7 +171285,7 @@
 				"translation": "metre (unit of length), meter",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"メートル・1"
+					"Related: メートル・1"
 				]
 			}
 		],
@@ -171729,7 +171739,7 @@
 				"translation": "happy, auspicious, propitious, joyous",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"おめでたい・1",
+					"Related: おめでたい・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -171737,7 +171747,7 @@
 				"translation": "naive",
 				"notes": [
 					"Adjective (keiyoushi)",
-					"おめでたい・2"
+					"Related: おめでたい・2"
 				]
 			}
 		],
@@ -173336,7 +173346,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Intransitive verb",
-					"地下に潜る"
+					"Related: 地下に潜る"
 				]
 			}
 		],
@@ -174384,7 +174394,7 @@
 				"translation": "first three lines of a waka",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"和歌"
+					"Related: 和歌"
 				]
 			},
 			{
@@ -174542,7 +174552,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"買う・1",
+					"Related: 買う・1",
 					"Polite (teineigo) language"
 				]
 			}
@@ -175529,7 +175539,7 @@
 				"translation": "bald head",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"やかん頭",
+					"Related: やかん頭",
 					"Word usually written using kana alone",
 					"Colloquial",
 					"Abbreviation"
@@ -175727,7 +175737,7 @@
 				"translation": "actor, actress",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"俳優"
+					"Related: 俳優"
 				]
 			},
 			{
@@ -176338,7 +176348,7 @@
 				"translation": "opposition party, the opposition",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"与党"
+					"Related: 与党"
 				]
 			}
 		],
@@ -176504,7 +176514,7 @@
 				"translation": "as expected, sure enough, just as one thought",
 				"notes": [
 					"Adverb (fukushi)",
-					"やっぱり・1",
+					"Related: やっぱり・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176512,7 +176522,7 @@
 				"translation": "after all (is said and done), in the end, as one would expect, in any case",
 				"notes": [
 					"Adverb (fukushi)",
-					"やっぱり・2",
+					"Related: やっぱり・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176520,7 +176530,7 @@
 				"translation": "too, also, as well, likewise, (not) either",
 				"notes": [
 					"Adverb (fukushi)",
-					"やっぱり・3",
+					"Related: やっぱり・3",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176528,7 +176538,7 @@
 				"translation": "still, as before",
 				"notes": [
 					"Adverb (fukushi)",
-					"やっぱり・4",
+					"Related: やっぱり・4",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176536,7 +176546,7 @@
 				"translation": "all the same, even so, still, nonetheless",
 				"notes": [
 					"Adverb (fukushi)",
-					"やっぱり・5",
+					"Related: やっぱり・5",
 					"Word usually written using kana alone"
 				]
 			}
@@ -176624,7 +176634,7 @@
 				"translation": "as expected, sure enough, just as one thought",
 				"notes": [
 					"Adverb (fukushi)",
-					"やはり・1",
+					"Related: やはり・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176632,7 +176642,7 @@
 				"translation": "after all (is said and done), in the end, as one would expect, in any case",
 				"notes": [
 					"Adverb (fukushi)",
-					"やはり・2",
+					"Related: やはり・2",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176640,7 +176650,7 @@
 				"translation": "too, also, as well, likewise, (not) either",
 				"notes": [
 					"Adverb (fukushi)",
-					"やはり・3",
+					"Related: やはり・3",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176648,7 +176658,7 @@
 				"translation": "still, as before",
 				"notes": [
 					"Adverb (fukushi)",
-					"やはり・4",
+					"Related: やはり・4",
 					"Word usually written using kana alone"
 				]
 			},
@@ -176656,7 +176666,7 @@
 				"translation": "all the same, even so, still, nonetheless",
 				"notes": [
 					"Adverb (fukushi)",
-					"やはり・5",
+					"Related: やはり・5",
 					"Word usually written using kana alone"
 				]
 			}
@@ -177078,7 +177088,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Transitive verb",
-					"する・1",
+					"Related: する・1",
 					"Word usually written using kana alone",
 					"Colloquial"
 				]
@@ -177136,7 +177146,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Transitive verb",
-					"演る",
+					"Related: 演る",
 					"Word usually written using kana alone"
 				]
 			},
@@ -177153,7 +177163,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Transitive verb",
-					"殺る",
+					"Related: 殺る",
 					"Colloquial",
 					"Word usually written using kana alone"
 				]
@@ -177174,8 +177184,8 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Intransitive verb",
-					"やって行く",
-					"やって来る・1",
+					"Related: やって行く",
+					"Related: やって来る・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -177402,7 +177412,7 @@
 				"translation": "evening edition (of a daily newspaper), evening paper",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"朝刊"
+					"Related: 朝刊"
 				]
 			}
 		],
@@ -177620,7 +177630,7 @@
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"無効"
+					"Antonym: 無効"
 				]
 			},
 			{
@@ -177947,7 +177957,7 @@
 				"translation": "friend",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"友達",
+					"Related: 友達",
 					"More formal than 友達"
 				]
 			}
@@ -178024,7 +178034,7 @@
 				"translation": "evening sun, setting sun",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"朝日"
+					"Related: 朝日"
 				]
 			}
 		],
@@ -178121,7 +178131,7 @@
 				"translation": "mail, postal matter, postal items",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"郵便物",
+					"Related: 郵便物",
 					"Abbreviation"
 				]
 			}
@@ -178259,7 +178269,7 @@
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)",
-					"不利"
+					"Related: 不利"
 				]
 			},
 			{
@@ -178362,14 +178372,14 @@
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
 					"Noun (common) (futsuumeishi)",
-					"無料"
+					"Antonym: 無料"
 				]
 			},
 			{
 				"translation": "toll road",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"有料道路",
+					"Related: 有料道路",
 					"Abbreviation"
 				]
 			}
@@ -178664,7 +178674,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
-					"輸入・1"
+					"Antonym: 輸入・1"
 				]
 			},
 			{
@@ -178672,7 +178682,7 @@
 				"notes": [
 					"Noun or verb acting prenominally",
 					"Biology",
-					"輸入・ゆにゅう・2"
+					"Antonym: 輸入・ゆにゅう・2"
 				]
 			}
 		],
@@ -178998,7 +179008,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"煮る・にる"
+					"Related: 煮る・にる"
 				]
 			},
 			{
@@ -179006,7 +179016,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"たでる・1"
+					"Related: たでる・1"
 				]
 			}
 		],
@@ -179092,7 +179102,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"輸出・1"
+					"Antonym: 輸出・1"
 				]
 			},
 			{
@@ -179100,7 +179110,7 @@
 				"notes": [
 					"Noun or verb acting prenominally",
 					"Biology",
-					"輸出・2"
+					"Antonym: 輸出・2"
 				]
 			}
 		],
@@ -179176,7 +179186,7 @@
 				"translation": "teacup",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"湯呑み茶碗",
+					"Related: 湯呑み茶碗",
 					"Abbreviation"
 				]
 			}
@@ -179274,7 +179284,7 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Transitive verb",
-					"自他ともに許す"
+					"Related: 自他ともに許す"
 				]
 			},
 			{
@@ -179282,8 +179292,8 @@
 				"notes": [
 					"Godan verb with 'su' ending",
 					"Transitive verb",
-					"心を許す",
-					"気を許す"
+					"Related: 心を許す",
+					"Related: 気を許す"
 				]
 			},
 			{
@@ -179385,7 +179395,7 @@
 				"notes": [
 					"Noun, used as a suffix",
 					"Noun (common) (futsuumeishi)",
-					"様だ・1",
+					"Related: 様だ・1",
 					"Usu. after the -masu stem of a verb",
 					"Word usually written using kana alone"
 				]
@@ -179411,7 +179421,7 @@
 				"notes": [
 					"Noun, used as a suffix",
 					"Noun (common) (futsuumeishi)",
-					"様だ・2",
+					"Related: 様だ・2",
 					"Usu. after a noun"
 				]
 			},
@@ -180690,7 +180700,7 @@
 				"translation": "Europe",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"欧州",
+					"Related: 欧州",
 					"Word usually written using kana alone"
 				]
 			}
@@ -181197,7 +181207,7 @@
 				"notes": [
 					"Ichidan verb",
 					"Transitive verb",
-					"Kansai-ben"
+					"Dialect: Kansai-ben"
 				]
 			}
 		],
@@ -181269,7 +181279,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"他所・たしょ・1",
+					"Related: 他所・たしょ・1",
 					"Word usually written using kana alone"
 				]
 			},
@@ -181278,7 +181288,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"内・うち・6",
+					"Antonym: 内・うち・6",
 					"Word usually written using kana alone"
 				]
 			},
@@ -181286,7 +181296,7 @@
 				"translation": "not caring for, being indifferent to, taking little notice of, ignoring, neglecting",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"よそにする",
+					"Related: よそにする",
 					"As 〜をよそに, 〜をよそにして, etc.",
 					"Word usually written using kana alone"
 				]
@@ -181911,7 +181921,7 @@
 				"translation": "reading (of a kanji, esp. kun reading)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"訓・くん・1",
+					"Related: 訓・くん・1",
 					"Also written 訓み"
 				]
 			},
@@ -181993,7 +182003,7 @@
 				"translation": "wife",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"Kansai-ben"
+					"Dialect: Kansai-ben"
 				]
 			}
 		],
@@ -182423,7 +182433,7 @@
 				"translation": "according to (someone)",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"によれば",
+					"Related: によれば",
 					"Word usually written using kana alone"
 				]
 			}
@@ -183042,7 +183052,7 @@
 				"translation": "tank top (worn as an undergarment or sportswear), vest, singlet",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ランニングシャツ",
+					"Related: ランニングシャツ",
 					"Abbreviation"
 				]
 			}
@@ -183092,7 +183102,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"御利益・1",
+					"Related: 御利益・1",
 					"Usu. ご〜"
 				]
 			}
@@ -183169,7 +183179,7 @@
 				"translation": "science (inc. mathematics, medicine, etc.), natural science",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"文科・1"
+					"Related: 文科・1"
 				]
 			},
 			{
@@ -183622,7 +183632,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Nouns which may take the genitive case particle 'no'",
-					"現実"
+					"Related: 現実"
 				]
 			}
 		],
@@ -184200,7 +184210,7 @@
 				"translation": "generosity, magnanimity, tolerance",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"度量・1"
+					"Related: 度量・1"
 				]
 			},
 			{
@@ -184577,7 +184587,7 @@
 				"translation": "thanks, gratitude",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お礼・1"
+					"Related: お礼・1"
 				]
 			},
 			{
@@ -184609,7 +184619,7 @@
 				"translation": "key money",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"礼金・2",
+					"Related: 礼金・2",
 					"Abbreviation"
 				]
 			}
@@ -185910,7 +185920,7 @@
 				"translation": "Labour Party",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"労働党",
+					"Related: 労働党",
 					"Abbreviation"
 				]
 			}
@@ -186005,7 +186015,7 @@
 				"translation": "Latin alphabet, Roman alphabet",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ラテン文字"
+					"Related: ラテン文字"
 				]
 			},
 			{
@@ -186013,7 +186023,7 @@
 				"notes": [
 					"Explanation",
 					"Noun (common) (futsuumeishi)",
-					"ローマ字綴り"
+					"Related: ローマ字綴り"
 				]
 			}
 		],
@@ -186079,7 +186089,7 @@
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru",
 					"Transitive verb",
-					"録画"
+					"Related: 録画"
 				]
 			}
 		],
@@ -186215,13 +186225,6 @@
 				"translation": "locker",
 				"notes": [
 					"Noun (common) (futsuumeishi)"
-				]
-			},
-			{
-				"translation": "rocker",
-				"notes": [
-					"Noun (common) (futsuumeishi)",
-					"ロックスター"
 				]
 			}
 		],
@@ -186477,7 +186480,7 @@
 				"translation": "hoop",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"フープ"
+					"Related: フープ"
 				]
 			},
 			{
@@ -187252,21 +187255,21 @@
 				"translation": "laugh, laughter",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"笑う・1"
+					"Related: 笑う・1"
 				]
 			},
 			{
 				"translation": "smile",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"笑う・2"
+					"Related: 笑う・2"
 				]
 			},
 			{
 				"translation": "sneer",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"笑う・3",
+					"Related: 笑う・3",
 					"Esp. 嗤い"
 				]
 			},
@@ -187371,7 +187374,7 @@
 				"translation": "comparatively",
 				"notes": [
 					"Adverb (fukushi)",
-					"割合・2"
+					"Related: 割合・2"
 				]
 			}
 		],
@@ -187483,7 +187486,7 @@
 				"translation": "comparatively, relatively, fairly, rather, pretty, unexpectedly",
 				"notes": [
 					"Adverb (fukushi)",
-					"割に・1"
+					"Related: 割に・1"
 				]
 			}
 		],
@@ -187978,7 +187981,7 @@
 				"translation": "Asia",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"亜細亜・アジア",
+					"Related: 亜細亜・アジア",
 					"Abbreviation"
 				]
 			},
@@ -187986,7 +187989,7 @@
 				"translation": "Argentina",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"亜爾然丁・アルゼンチン",
+					"Related: 亜爾然丁・アルゼンチン",
 					"Abbreviation"
 				]
 			},
@@ -187994,7 +187997,7 @@
 				"translation": "Arabia",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"亜剌比亜・アラビア",
+					"Related: 亜剌比亜・アラビア",
 					"Abbreviation"
 				]
 			},
@@ -188002,8 +188005,8 @@
 				"translation": "America, American person",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"亜米利加・アメリカ・1",
-					"米・べい",
+					"Related: 亜米利加・アメリカ・1",
+					"Related: 米・べい",
 					"Used in Meiji era, now replaced by 米",
 					"Abbreviation",
 					"Obsolete term"
@@ -188139,7 +188142,7 @@
 				"translation": "dialoging (with another Zen practitioner to ascertain their level of enlightenment)",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"一挨一拶",
+					"Related: 一挨一拶",
 					"Orig. meaning",
 					"Archaic"
 				]
@@ -188357,7 +188360,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Auxiliary verb",
-					"やがる",
+					"Related: やがる",
 					"After -masu base of verb; indicates contempt or disdain for another's actions"
 				]
 			}
@@ -188533,7 +188536,7 @@
 				"notes": [
 					"Godan verb with 'ku' ending",
 					"Intransitive verb",
-					"お腹が空く"
+					"Related: お腹が空く"
 				]
 			}
 		],
@@ -189112,7 +189115,7 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Food, cooking",
-					"ハンバーグステーキ",
+					"Related: ハンバーグステーキ",
 					"Abbreviation"
 				]
 			}
@@ -189365,7 +189368,7 @@
 				"translation": "lock",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"錠・1"
+					"Related: 錠・1"
 				]
 			},
 			{
@@ -189513,7 +189516,7 @@
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Intransitive verb",
-					"毛氈を被る・1",
+					"Related: 毛氈を被る・1",
 					"Of a play, etc.",
 					"Archaic"
 				]
@@ -189609,7 +189612,7 @@
 				"translation": "bath, bathing, bathtub, bathroom",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"お風呂"
+					"Related: お風呂"
 				]
 			},
 			{
@@ -189800,7 +189803,7 @@
 				"translation": "some time (in the future)",
 				"notes": [
 					"Adverb (fukushi)",
-					"Kansai-ben",
+					"Dialect: Kansai-ben",
 					"Word usually written using kana alone"
 				]
 			},
@@ -189808,7 +189811,7 @@
 				"translation": "indirect",
 				"notes": [
 					"Prefix",
-					"又聞き"
+					"Related: 又聞き"
 				]
 			}
 		],
@@ -189906,7 +189909,7 @@
 				"translation": "radio-cassette player",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
-					"ラジオカセット",
+					"Related: ラジオカセット",
 					"Abbreviation"
 				]
 			}

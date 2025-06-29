@@ -8,7 +8,7 @@
 
 ### **Prerequisites**
 - [Install Anki](https://docs.ankiweb.net/getting-started.html#installing--upgrading)
-- [Download the deck](https://docs.ankiweb.net/getting-started.html#shared-decks)
+- Download the deck: the blue "Download" button is located at the end of this description, right after the "Sample (from *X* notes)" section
 - Consult the [Anki Manual](https://docs.ankiweb.net/) if you have other issues or questions regarding Anki
 
 ### Start with the **Kana** subdeck (if you have not learned kana yet)
@@ -24,7 +24,12 @@
 
 ### The other subdecks
 - Use all the *"reference material"* subdecks for a quick search when you need to look up radicals, kana, kanji etc.
-- As for the *"ready-made mining material"* subdecks, all cards are suspended by default. Over time, unsuspend and learn the ones you find useful.
+- As for the *"ready-made mining material"* subdecks, all cards are suspended by default (if they are not, suspend them). Over time, unsuspend and learn the ones you find useful.
+
+### Immersion > Anki
+- The hard fact is that Anki alone won't make you *fluent* in Japanese (or any language).
+- That's why [immersion](https://www.memrise.com/blog/immersion-language-learning-the-best-way-to-learn-a-new-language-top-5-language-immersion-tips) needs to be the top priority. It actually teaches you how to *use* the language in the wild, so prioritize it above everything else.
+- Anki decks should only play a supporting role, boosting your vocabulary, grammar and kanji and making all that immersion and overall experience a lot smoother and enjoyable.
 
 ## **Deck Contents**
 
@@ -34,8 +39,8 @@
 
 ### **JLPT** (intended for learning through spaced repetition)
 - **Vocabulary:** 7,264 words with audio, spanning **N5 to N1**.
-- **Kanji:** 2,118 kanji categorized by JLPT level.
-- Source: [Takoboto's lists](https://takoboto.jp/lists/study)
+- **Kanji:** 2,118 kanji, categorized by JLPT level.
+- Source: [tanos.co.uk JLPT Resources](https://www.tanos.co.uk/jlpt/)
 
 ### **Grammar** (intended for learning through spaced repetition & reference material)
 - **644 grammar points**, organized by JLPT level, with additional non-JLPT ones.
