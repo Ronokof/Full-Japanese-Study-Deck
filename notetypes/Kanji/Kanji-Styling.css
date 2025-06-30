@@ -72,6 +72,10 @@ h3 {
     font-size: 1.3em;
 }
 
+summary {
+    color: #00bfff;
+}
+
 .kanji-nanori {
     background-color: #fff3e0;
     color: #e65100;

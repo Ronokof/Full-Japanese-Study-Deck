@@ -68,6 +68,7 @@ This deck is compiled from and inspired by multiple projects:
 - **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))*
 - **[Tanaka Corpus](https://www.edrdg.org/wiki/index.php/Tanaka_Corpus)** *([CC-BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/))*
 - **[JGram](https://jgram.org)** *([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))*
+- **[tanos.co.uk](https://www.tanos.co.uk/jlpt/)** *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
 - **[KanjiVG](https://kanjivg.tagaini.net/)** *([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))*
 - **[jpdb](https://jpdb.io/)** *([ToS](https://jpdb.io/terms-of-use))*
 - **[Takoboto](https://takoboto.jp/)**

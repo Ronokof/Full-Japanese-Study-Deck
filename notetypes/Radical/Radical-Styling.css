@@ -30,6 +30,12 @@ h3 {
     display: inline-block;
 }
 
+.radical-meanings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .radical-reading {
     background-color: #e3f2fd;
     color: #0d47a1;
@@ -39,12 +45,6 @@ h3 {
     display: inline-block;
     font-size: 1.3em;
     font-style: italic;
-}
-
-.radical-meanings {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
 }
 
 .radical-meaning {
