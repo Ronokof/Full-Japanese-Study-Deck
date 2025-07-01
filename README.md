@@ -8,7 +8,7 @@
 
 ### **Prerequisites**
 - [Install Anki](https://docs.ankiweb.net/getting-started.html#installing--upgrading)
-- Download the deck: the blue "Download" button is located at the end of this description, right after the "Sample (from *X* notes)" section
+- [Download the deck](https://docs.ankiweb.net/getting-started.html#shared-decks): the blue "Download" button is located at the end of this description, right after the "Sample (from *X* notes)" section
 - Consult the [Anki Manual](https://docs.ankiweb.net/) if you have other issues or questions regarding Anki
 
 ### Start with the **Kana** subdeck (if you have not learned kana yet)
