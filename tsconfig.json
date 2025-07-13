@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        // Modules
         "target": "ES6",
         "module": "CommonJS",
         "lib": [
@@ -10,6 +11,8 @@
         ],
         "allowUmdGlobalAccess": true,
         "resolveJsonModule": true,
+
+        // Type checking
         "allowUnreachableCode": false,
         "allowUnusedLabels": false,
         "exactOptionalPropertyTypes": true,
@@ -29,20 +32,33 @@
         "strictFunctionTypes": true,
         "strictNullChecks": true,
         "strictPropertyInitialization": true,
+
+        // Emit
         "declaration": true,
         "declarationMap": true,
         "preserveConstEnums": true,
+
+        // JavaScript support
         "allowJs": false,
         "checkJs": false,
+
+        // Editor support
         "disableSizeLimit": true,
+
+        // Interlop constraints
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
         "preserveSymlinks": true,
+
+        // Output formatting
+        "pretty": true,
+        
+        // Completeness
         "skipDefaultLibCheck": true,
         "skipLibCheck": true
     },
     "include": [
-        "**/*"
+        "src/**/*"
     ],
     "exclude": [
         "node_modules"

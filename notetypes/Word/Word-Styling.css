@@ -22,6 +22,12 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-size: 1.4em;
+    color: #4b88a2;
+    text-align: left;
+}
+
 .word {
     display: inline-block;
     padding: 5px 10px;

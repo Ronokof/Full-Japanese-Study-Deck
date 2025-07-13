@@ -1,4 +1,12 @@
+.vscode/
 node_modules/
 notes/
 package-lock.json
 **/**/*.txt
+**/**/*.xml
+**/**/*.utf
+**/**/*.zip
+**/**/*.gz
+**/**/*.mp3
+**/**/*.svg
+.env

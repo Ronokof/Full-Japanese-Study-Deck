@@ -826,6 +826,16 @@
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Related: 味な"
 				]
+			},
+			{
+				"translation": "aji, position that has some lingering potential that may be exploited later in the game",
+				"notes": [
+					"Explanation",
+					"Noun (common) (futsuumeishi)",
+					"Go (game)",
+					"Shogi",
+					"Related: 味消し"
+				]
 			}
 		],
 		"common": true,
@@ -872,7 +882,9 @@
 		],
 		"tags": [
 			"common_noun",
-			"adjectival_nouns_or_quasi-adjectives"
+			"adjectival_nouns_or_quasi-adjectives",
+			"go",
+			"shogi"
 		],
 		"noteID": "word_1526960"
 	},
@@ -3604,6 +3616,33 @@
 					"exist",
 					"live with"
 				]
+			}
+		],
+		"phrases": [
+			{
+				"phrase": "東京へいらっしゃったときは連絡してください。",
+				"translation": "Please get in touch with me when you come to Tokyo.",
+				"furigana": "とうきょう へ いらっしゃった とき は れんらく し て ください 。"
+			},
+			{
+				"phrase": "東京にいらしたときにお会いするのを楽しみにしています。",
+				"translation": "I hope to see you the next time you are in Tokyo.",
+				"furigana": "とうきょう に いら し た とき に お あい する の を たのしみ に し て い ます 。"
+			},
+			{
+				"phrase": "土曜日は診察していらっしゃいますか。",
+				"translation": "Do you see patients on Saturdays?",
+				"furigana": "どようび は しんさつ し て いらっしゃい ます か 。"
+			},
+			{
+				"phrase": "ご都合の良いときにいらしてください。",
+				"translation": "Please call on me when it is convenient for you.",
+				"furigana": "ご つごう の よい とき に いら し て ください 。"
+			},
+			{
+				"phrase": "都合のよろしいときにいらして下さい。",
+				"translation": "Please come and see me whenever it is convenient for you.",
+				"furigana": "つごう の よろしい とき に いら し て ください 。"
 			}
 		],
 		"tags": [
@@ -16252,13 +16291,22 @@
 				"kanjiForm": "暮れる"
 			},
 			{
-				"kanjiForm": "眩れる"
+				"kanjiForm": "昏れる",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "暗れる"
+				"kanjiForm": "眩れる",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "昏れる"
+				"kanjiForm": "暗れる",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -16271,6 +16319,14 @@
 					"livelihood",
 					"make a living",
 					"spend time"
+				]
+			},
+			{
+				"kanji": "昏",
+				"meanings": [
+					"dark",
+					"evening",
+					"dusk"
 				]
 			},
 			{
@@ -16289,14 +16345,6 @@
 					"informal",
 					"grow dark",
 					"be blinded"
-				]
-			},
-			{
-				"kanji": "昏",
-				"meanings": [
-					"dark",
-					"evening",
-					"dusk"
 				]
 			}
 		],
@@ -16328,6 +16376,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"ichidan_verb",
 			"intransitive_verb"
 		],
@@ -18086,7 +18135,21 @@
 		],
 		"translations": [
 			{
-				"translation": "traffic, transportation, communication, exchange (of ideas, etc.), intercourse",
+				"translation": "traffic, transportation",
+				"notes": [
+					"Noun (common) (futsuumeishi)",
+					"Noun or participle which takes the aux. verb suru"
+				]
+			},
+			{
+				"translation": "communication, exchange (of ideas, etc.)",
+				"notes": [
+					"Noun (common) (futsuumeishi)",
+					"Noun or participle which takes the aux. verb suru"
+				]
+			},
+			{
+				"translation": "intercourse",
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Noun or participle which takes the aux. verb suru"
@@ -20241,7 +20304,7 @@
 				"translation": "no sooner than, once, right after (often having negative consequences)",
 				"notes": [
 					"Expressions (phrases, clauses, etc.)",
-					"After -tara form or -ta form followed by \"ga\""
+					"After -tara form, or -ta form followed by \"ga\""
 				]
 			},
 			{
@@ -20628,6 +20691,12 @@
 				"notes": [
 					"Search-only kanji form"
 				]
+			},
+			{
+				"kanjiForm": "退がる",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -20640,6 +20709,18 @@
 					"give",
 					"low",
 					"inferior"
+				]
+			},
+			{
+				"kanji": "退",
+				"meanings": [
+					"retreat",
+					"withdraw",
+					"retire",
+					"resign",
+					"repel",
+					"expel",
+					"reject"
 				]
 			}
 		],
@@ -21104,7 +21185,10 @@
 				"kanjiForm": "再来月"
 			},
 			{
-				"kanjiForm": "さ来月"
+				"kanjiForm": "さ来月",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -21142,6 +21226,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"common_noun",
 			"adverb"
 		],
@@ -21423,7 +21508,7 @@
 		],
 		"translations": [
 			{
-				"translation": "to touch, to feel",
+				"translation": "to touch, to feel, to handle",
 				"notes": [
 					"Godan verb with 'ru' ending",
 					"Intransitive verb",
@@ -23765,7 +23850,7 @@
 		],
 		"translations": [
 			{
-				"translation": "address, residence, domicile",
+				"translation": "address (of a home, business, etc.), residence, domicile",
 				"notes": [
 					"Noun (common) (futsuumeishi)"
 				]
@@ -35520,7 +35605,7 @@
 		"tags": [
 			"godan::su::verb",
 			"transitive_verb",
-			"kansai-ben",
+			"dialect::kansai-ben",
 			"dated",
 			"suffix",
 			"after::masu_stem"
@@ -40199,19 +40284,28 @@
 				"kanjiForm": "引出し"
 			},
 			{
-				"kanjiForm": "抽き出し"
-			},
-			{
-				"kanjiForm": "抽出し"
+				"kanjiForm": "抽き出し",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
 				"kanjiForm": "抽斗",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Rarely used kanji form"
 				]
 			},
 			{
-				"kanjiForm": "抽匣"
+				"kanjiForm": "抽出し",
+				"notes": [
+					"Search-only kanji form"
+				]
+			},
+			{
+				"kanjiForm": "抽匣",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -40291,7 +40385,8 @@
 			}
 		],
 		"tags": [
-			"out-dated_kanji_form",
+			"rare_kanji_form",
+			"search-only_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1601650"
@@ -40575,8 +40670,8 @@
 			}
 		],
 		"tags": [
-			"adjectival_nouns_or_quasi-adjectives",
 			"noun_takes_no",
+			"adjectival_nouns_or_quasi-adjectives",
 			"common_noun",
 			"expression"
 		],

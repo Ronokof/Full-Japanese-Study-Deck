@@ -1148,6 +1148,12 @@
 			{
 				"reading": "あげる",
 				"audio": "ee407abb-7f9c-47fd-b067-9e1045e0d1df.mp3"
+			},
+			{
+				"reading": "アゲる",
+				"notes": [
+					"Search-only kana form"
+				]
 			}
 		],
 		"translations": [
@@ -1355,10 +1361,10 @@
 				"kanjiForm": "上げる"
 			},
 			{
-				"kanjiForm": "挙げる"
-			},
-			{
-				"kanjiForm": "揚げる"
+				"kanjiForm": "騰げる",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -1370,24 +1376,13 @@
 				]
 			},
 			{
-				"kanji": "挙",
+				"kanji": "騰",
 				"meanings": [
-					"raise",
-					"plan",
-					"project",
-					"behavior",
-					"actions"
-				]
-			},
-			{
-				"kanji": "揚",
-				"meanings": [
-					"raise",
-					"elevate",
-					"hoist",
-					"praise",
-					"extol",
-					"fry in deep fat"
+					"leaping up",
+					"jumping up",
+					"rising",
+					"advancing",
+					"going"
 				]
 			}
 		],
@@ -1419,11 +1414,15 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
+			"search-only_kana_form",
 			"ichidan_verb",
 			"transitive_verb",
 			"teineigo",
 			"usually_in_kana",
+			"colloquialism",
 			"intransitive_verb",
+			"finance",
 			"auxiliary_verb",
 			"after::te_form",
 			"suffix",
@@ -1526,13 +1525,16 @@
 		"common": true,
 		"kanjiForms": [
 			{
-				"kanjiForm": "朝ご飯"
-			},
-			{
 				"kanjiForm": "朝ごはん"
 			},
 			{
-				"kanjiForm": "朝御飯"
+				"kanjiForm": "朝ご飯"
+			},
+			{
+				"kanjiForm": "朝御飯",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -1591,6 +1593,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1586330"
@@ -3620,6 +3623,12 @@
 				"notes": [
 					"Word containing out-dated kanji or kanji usage"
 				]
+			},
+			{
+				"kanjiForm": "剰り",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -3639,6 +3648,13 @@
 					"surplus",
 					"excess",
 					"remainder"
+				]
+			},
+			{
+				"kanji": "剰",
+				"meanings": [
+					"surplus",
+					"besides"
 				]
 			}
 		],
@@ -3671,6 +3687,7 @@
 		],
 		"tags": [
 			"out-dated_kanji_form",
+			"search-only_kanji_form",
 			"common_noun",
 			"noun_takes_no",
 			"usually_in_kana",
@@ -5026,6 +5043,18 @@
 			{
 				"reading": "いたい",
 				"audio": "435aa604-a532-4ad9-ab71-56788a697f68.mp3"
+			},
+			{
+				"reading": "イタイ",
+				"notes": [
+					"Search-only kana form"
+				]
+			},
+			{
+				"reading": "イタい",
+				"notes": [
+					"Search-only kana form"
+				]
 			}
 		],
 		"translations": [
@@ -5104,6 +5133,7 @@
 		],
 		"tags": [
 			"rare_kanji_form",
+			"search-only_kana_form",
 			"adjective",
 			"colloquialism"
 		],
@@ -7429,10 +7459,16 @@
 				"kanjiForm": "産まれる"
 			},
 			{
-				"kanjiForm": "生れる"
+				"kanjiForm": "生れる",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "産れる"
+				"kanjiForm": "産れる",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -7485,6 +7521,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"ichidan_verb",
 			"intransitive_verb"
 		],
@@ -8354,7 +8391,7 @@
 			"search-only_kana_form",
 			"interjection",
 			"noun_or_verb_acting_prenominally",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1001140"
 	},
@@ -9020,6 +9057,12 @@
 			{
 				"reading": "おかあさん",
 				"audio": "4d6d923c-6bba-42aa-abca-908e04cfd558.mp3"
+			},
+			{
+				"reading": "おかーさん",
+				"notes": [
+					"Search-only kana form"
+				]
 			}
 		],
 		"translations": [
@@ -9103,6 +9146,7 @@
 		],
 		"tags": [
 			"search-only_kanji_form",
+			"search-only_kana_form",
 			"common_noun",
 			"sonkeigo",
 			"pronoun",
@@ -18612,13 +18656,22 @@
 				"kanjiForm": "暗い"
 			},
 			{
-				"kanjiForm": "昏い"
+				"kanjiForm": "昏い",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "冥い"
+				"kanjiForm": "冥い",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "闇い"
+				"kanjiForm": "闇い",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -18684,6 +18737,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"adjective"
 		],
 		"noteID": "word_1154330"
@@ -20589,7 +20643,7 @@
 			{
 				"kanjiForm": "午后",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Rarely used kanji form"
 				]
 			}
 		],
@@ -20651,7 +20705,7 @@
 			}
 		],
 		"tags": [
-			"out-dated_kanji_form",
+			"rare_kanji_form",
 			"common_noun",
 			"adverb"
 		],
@@ -24094,7 +24148,7 @@
 		],
 		"tags": [
 			"pronoun",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1318610"
 	},
@@ -26743,7 +26797,10 @@
 				"kanjiForm": "背"
 			},
 			{
-				"kanjiForm": "脊"
+				"kanjiForm": "脊",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -26797,6 +26854,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_2147990"
@@ -30615,7 +30673,7 @@
 			"godan::u::verb",
 			"intransitive_verb",
 			"expression",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1158880"
 	},
@@ -31088,6 +31146,7 @@
 			{
 				"kanjiForm": "鳥渡",
 				"notes": [
+					"Ateji (phonetic) reading",
 					"Rarely used kanji form"
 				]
 			}
@@ -31160,6 +31219,7 @@
 		],
 		"tags": [
 			"rare_kanji_form",
+			"ateji",
 			"adverb",
 			"usually_in_kana",
 			"before::negative_verb",
@@ -35402,7 +35462,7 @@
 			{
 				"kanjiForm": "鄰",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Search-only kanji form"
 				]
 			}
 		],
@@ -35450,7 +35510,7 @@
 		],
 		"tags": [
 			"irregular::okurigana",
-			"out-dated_kanji_form",
+			"search-only_kanji_form",
 			"noun_takes_no",
 			"common_noun"
 		],
@@ -44209,13 +44269,22 @@
 				"kanjiForm": "広い"
 			},
 			{
-				"kanjiForm": "弘い"
+				"kanjiForm": "廣い",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "廣い"
+				"kanjiForm": "宏い",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "宏い"
+				"kanjiForm": "弘い",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -44225,14 +44294,6 @@
 					"wide",
 					"broad",
 					"spacious"
-				]
-			},
-			{
-				"kanji": "弘",
-				"meanings": [
-					"vast",
-					"broad",
-					"wide"
 				]
 			},
 			{
@@ -44248,6 +44309,14 @@
 				"meanings": [
 					"wide",
 					"large"
+				]
+			},
+			{
+				"kanji": "弘",
+				"meanings": [
+					"vast",
+					"broad",
+					"wide"
 				]
 			}
 		],
@@ -44279,6 +44348,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"adjective"
 		],
 		"noteID": "word_1278410"

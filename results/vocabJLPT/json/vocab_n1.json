@@ -470,8 +470,7 @@
 			}
 		],
 		"tags": [
-			"common_noun",
-			"noun_takes_no"
+			"common_noun"
 		],
 		"noteID": "word_1401100"
 	},
@@ -4214,7 +4213,7 @@
 		],
 		"tags": [
 			"common_noun",
-			"kansai-ben",
+			"dialect::kansai-ben",
 			"suffix_noun",
 			"prefix_noun",
 			"suffix",
@@ -13082,7 +13081,16 @@
 				"kanjiForm": "卑しい"
 			},
 			{
-				"kanjiForm": "賤しい"
+				"kanjiForm": "賤しい",
+				"notes": [
+					"Rarely used kanji form"
+				]
+			},
+			{
+				"kanjiForm": "鄙しい",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -13102,6 +13110,15 @@
 					"despise",
 					"low-life",
 					"poverty"
+				]
+			},
+			{
+				"kanji": "鄙",
+				"meanings": [
+					"lowly",
+					"the country",
+					"the countryside",
+					"be countrified"
 				]
 			}
 		],
@@ -13128,6 +13145,8 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
+			"search-only_kanji_form",
 			"adjective"
 		],
 		"noteID": "word_1482660"
@@ -19581,7 +19600,7 @@
 		],
 		"translations": [
 			{
-				"translation": "euphemistic, circumlocutory, roundabout, indirect",
+				"translation": "euphemistic, circumlocutory, periphrastic, roundabout, indirect",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)",
 					"Noun (common) (futsuumeishi)"
@@ -23274,13 +23293,22 @@
 				"kanjiForm": "恐れ"
 			},
 			{
-				"kanjiForm": "虞"
+				"kanjiForm": "怖れ",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "畏れ"
+				"kanjiForm": "虞",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "怖れ"
+				"kanjiForm": "畏れ",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -23290,6 +23318,14 @@
 					"fear",
 					"dread",
 					"awe"
+				]
+			},
+			{
+				"kanji": "怖",
+				"meanings": [
+					"dreadful",
+					"be frightened",
+					"fearful"
 				]
 			},
 			{
@@ -23310,14 +23346,6 @@
 					"majestic",
 					"graciously",
 					"be apprehensive"
-				]
-			},
-			{
-				"kanji": "怖",
-				"meanings": [
-					"dreadful",
-					"be frightened",
-					"fearful"
 				]
 			}
 		],
@@ -23349,6 +23377,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1236660"
@@ -25510,9 +25539,11 @@
 		],
 		"translations": [
 			{
-				"translation": "main, principal, important",
+				"translation": "main, principal, chief, leading, important",
 				"notes": [
-					"Pre-noun adjectival (rentaishi)"
+					"Expressions (phrases, clauses, etc.)",
+					"Pre-noun adjectival (rentaishi)",
+					"Formal or literary term"
 				]
 			}
 		],
@@ -25523,7 +25554,7 @@
 			{
 				"kanjiForm": "重なる",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Rarely used kanji form"
 				]
 			}
 		],
@@ -25580,8 +25611,10 @@
 			}
 		],
 		"tags": [
-			"out-dated_kanji_form",
-			"pre-noun_adjectival"
+			"rare_kanji_form",
+			"expression",
+			"pre-noun_adjectival",
+			"formal_or_literary"
 		],
 		"noteID": "word_1589400"
 	},
@@ -29192,6 +29225,7 @@
 		],
 		"tags": [
 			"common_noun",
+			"electricity",
 			"biology"
 		],
 		"noteID": "word_1199830"
@@ -34535,12 +34569,6 @@
 				]
 			},
 			{
-				"kanjiForm": "曾て",
-				"notes": [
-					"Rarely used kanji form"
-				]
-			},
-			{
 				"kanjiForm": "曽て",
 				"notes": [
 					"Rarely used kanji form"
@@ -34550,6 +34578,12 @@
 				"kanjiForm": "都て",
 				"notes": [
 					"Rarely used kanji form"
+				]
+			},
+			{
+				"kanjiForm": "曾て",
+				"notes": [
+					"Search-only kanji form"
 				]
 			}
 		],
@@ -34574,17 +34608,6 @@
 				]
 			},
 			{
-				"kanji": "曾",
-				"meanings": [
-					"once",
-					"before",
-					"formerly",
-					"ever",
-					"never",
-					"ex-"
-				]
-			},
-			{
 				"kanji": "曽",
 				"meanings": [
 					"formerly",
@@ -34602,6 +34625,17 @@
 					"capital",
 					"all",
 					"everything"
+				]
+			},
+			{
+				"kanji": "曾",
+				"meanings": [
+					"once",
+					"before",
+					"formerly",
+					"ever",
+					"never",
+					"ex-"
 				]
 			}
 		],
@@ -34634,6 +34668,7 @@
 		],
 		"tags": [
 			"rare_kanji_form",
+			"search-only_kanji_form",
 			"adverb",
 			"noun_takes_no",
 			"usually_in_kana"
@@ -35652,7 +35687,16 @@
 		],
 		"kanjiForms": [
 			{
-				"kanjiForm": "気触れる"
+				"kanjiForm": "気触れる",
+				"notes": [
+					"Rarely used kanji form"
+				]
+			},
+			{
+				"kanjiForm": "蚊触れる",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -35676,6 +35720,12 @@
 					"proclaim",
 					"announce",
 					"conflict"
+				]
+			},
+			{
+				"kanji": "蚊",
+				"meanings": [
+					"mosquito"
 				]
 			}
 		],
@@ -35702,6 +35752,8 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
+			"search-only_kanji_form",
 			"ichidan_verb",
 			"intransitive_verb",
 			"usually_in_kana"
@@ -37468,28 +37520,13 @@
 			{
 				"reading": "さむけ",
 				"audio": "2228a677-9a99-4161-acf5-bf2e7ce055ef.mp3"
-			},
-			{
-				"reading": "かんき",
-				"notes": [
-					"Reading restricted to 寒気"
-				],
-				"audio": "c62d98b9-c326-4325-b362-f03f6ffcbfca.mp3"
 			}
 		],
 		"translations": [
 			{
 				"translation": "chill, the shivers, shivering fit",
 				"notes": [
-					"Meaning restricted to さむけ",
 					"Noun (common) (futsuumeishi)"
-				]
-			},
-			{
-				"translation": "cold, coldness, cold air",
-				"notes": [
-					"Noun (common) (futsuumeishi)",
-					"Usu. かんき"
 				]
 			}
 		],
@@ -37499,7 +37536,10 @@
 				"kanjiForm": "寒気"
 			},
 			{
-				"kanjiForm": "寒け"
+				"kanjiForm": "寒け",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -37548,6 +37588,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1210410"
@@ -43280,13 +43321,22 @@
 				"kanjiForm": "利き目"
 			},
 			{
-				"kanjiForm": "きき眼"
+				"kanjiForm": "きき眼",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "効目"
+				"kanjiForm": "効目",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "利目"
+				"kanjiForm": "利目",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -43354,6 +43404,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1591070"
@@ -60222,6 +60273,12 @@
 		"kanjiForms": [
 			{
 				"kanjiForm": "検事"
+			},
+			{
+				"kanjiForm": "檢事",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -60241,6 +60298,13 @@
 					"business",
 					"reason",
 					"possibly"
+				]
+			},
+			{
+				"kanji": "檢",
+				"meanings": [
+					"check",
+					"examine"
 				]
 			}
 		],
@@ -60267,6 +60331,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1257930"
@@ -81474,10 +81539,16 @@
 				"kanjiForm": "仕掛ける"
 			},
 			{
-				"kanjiForm": "仕かける"
+				"kanjiForm": "仕かける",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "し掛ける"
+				"kanjiForm": "し掛ける",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -81530,6 +81601,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"ichidan_verb",
 			"transitive_verb",
 			"mahjong"
@@ -90733,7 +90805,8 @@
 			"common_noun",
 			"noun_or_participle_taking_suru",
 			"transitive_verb",
-			"noun_takes_no"
+			"noun_takes_no",
+			"baseball"
 		],
 		"noteID": "word_1327180"
 	},
@@ -92702,7 +92775,7 @@
 		"tags": [
 			"rare_kanji_form",
 			"common_noun",
-			"brazilian"
+			"dialect::brazilian"
 		],
 		"noteID": "word_1357350"
 	},
@@ -94643,7 +94716,10 @@
 				"kanjiForm": "皺"
 			},
 			{
-				"kanjiForm": "皴"
+				"kanjiForm": "皴",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -94692,6 +94768,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"common_noun",
 			"usually_in_kana"
 		],
@@ -104409,7 +104486,13 @@
 				"kanjiForm": "据え付ける"
 			},
 			{
-				"kanjiForm": "据えつける"
+				"kanjiForm": "据付ける"
+			},
+			{
+				"kanjiForm": "据えつける",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -104435,6 +104518,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"ichidan_verb",
 			"transitive_verb"
 		],
@@ -105237,7 +105321,7 @@
 		],
 		"translations": [
 			{
-				"translation": "lovely, wonderful, nice, great, splendid, marvellous, fantastic, superb",
+				"translation": "lovely, wonderful, charming, enchanting, nice, great, splendid, marvellous (marvelous), fantastic, superb",
 				"notes": [
 					"Adjectival nouns or quasi-adjectives (keiyodoshi)"
 				]
@@ -112731,6 +112815,12 @@
 		"kanjiForms": [
 			{
 				"kanjiForm": "是正"
+			},
+			{
+				"kanjiForm": "証正",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -112751,6 +112841,14 @@
 					"righteous",
 					"10**40"
 				]
+			},
+			{
+				"kanji": "証",
+				"meanings": [
+					"evidence",
+					"proof",
+					"certificate"
+				]
 			}
 		],
 		"phrases": [
@@ -112766,6 +112864,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"common_noun",
 			"noun_or_participle_taking_suru",
 			"transitive_verb"
@@ -127771,7 +127870,10 @@
 				"reading": "ちきしょう"
 			},
 			{
-				"reading": "チクショー"
+				"reading": "チクショー",
+				"notes": [
+					"Search-only kana form"
+				]
 			}
 		],
 		"translations": [
@@ -127839,6 +127941,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kana_form",
 			"interjection",
 			"usually_in_kana",
 			"common_noun",
@@ -131737,6 +131840,9 @@
 			{
 				"reading": "ちりとり",
 				"audio": "0fe13735-a26a-464b-b644-48a7c537b58d.mp3"
+			},
+			{
+				"reading": "チリトリ"
 			}
 		],
 		"translations": [
@@ -131754,10 +131860,25 @@
 				"kanjiForm": "ちり取り"
 			},
 			{
-				"kanjiForm": "ちり取"
+				"kanjiForm": "塵取り"
 			},
 			{
-				"kanjiForm": "塵取り"
+				"kanjiForm": "ちり取",
+				"notes": [
+					"Search-only kanji form"
+				]
+			},
+			{
+				"kanjiForm": "チリ取り",
+				"notes": [
+					"Search-only kanji form"
+				]
+			},
+			{
+				"kanjiForm": "塵取",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -131779,7 +131900,9 @@
 			}
 		],
 		"tags": [
-			"common_noun"
+			"search-only_kanji_form",
+			"common_noun",
+			"usually_in_kana"
 		],
 		"noteID": "word_1369920"
 	},
@@ -133501,6 +133624,12 @@
 				]
 			},
 			{
+				"kanjiForm": "主る",
+				"notes": [
+					"Search-only kanji form"
+				]
+			},
+			{
 				"kanjiForm": "司どる",
 				"notes": [
 					"Search-only kanji form"
@@ -133525,6 +133654,16 @@
 					"rule",
 					"administer",
 					"conduct"
+				]
+			},
+			{
+				"kanji": "主",
+				"meanings": [
+					"lord",
+					"chief",
+					"master",
+					"main thing",
+					"principal"
 				]
 			}
 		],
@@ -134016,7 +134155,7 @@
 					"Suffix",
 					"Godan verb with 'su' ending",
 					"Related: 食べ尽くす",
-					"After masu stem of verb"
+					"After the -masu stem of a verb"
 				]
 			}
 		],
@@ -134026,12 +134165,21 @@
 				"kanjiForm": "尽くす"
 			},
 			{
-				"kanjiForm": "尽す"
+				"kanjiForm": "尽す",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
 				"kanjiForm": "盡す",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Search-only kanji form"
+				]
+			},
+			{
+				"kanjiForm": "竭す",
+				"notes": [
+					"Search-only kanji form"
 				]
 			}
 		],
@@ -134056,6 +134204,13 @@
 					"deplete",
 					"befriend",
 					"serve"
+				]
+			},
+			{
+				"kanji": "竭",
+				"meanings": [
+					"end",
+					"exhaust"
 				]
 			}
 		],
@@ -134087,7 +134242,7 @@
 			}
 		],
 		"tags": [
-			"out-dated_kanji_form",
+			"search-only_kanji_form",
 			"godan::su::verb",
 			"transitive_verb",
 			"intransitive_verb",
@@ -140704,7 +140859,7 @@
 		"phrases": [
 			{
 				"phrase": "てんで役にたたない。",
-				"translation": "It's no use on earth.",
+				"translation": "It's no use at all.",
 				"furigana": "てんで やく に たた ない 。"
 			},
 			{
@@ -140755,7 +140910,7 @@
 			{
 				"kanjiForm": "轉任",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Search-only kanji form"
 				]
 			}
 		],
@@ -140788,7 +140943,7 @@
 			}
 		],
 		"tags": [
-			"out-dated_kanji_form",
+			"search-only_kanji_form",
 			"common_noun",
 			"noun_or_participle_taking_suru",
 			"intransitive_verb"
@@ -141550,7 +141705,10 @@
 				"kanjiForm": "田園"
 			},
 			{
-				"kanjiForm": "田苑"
+				"kanjiForm": "田苑",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -141607,6 +141765,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"out-dated_or_obsolete_kana",
 			"common_noun"
 		],
@@ -147542,7 +147701,6 @@
 				]
 			}
 		],
-		"common": true,
 		"kanjiForms": [
 			{
 				"kanjiForm": "取りあえず"
@@ -147569,6 +147727,7 @@
 				]
 			}
 		],
+		"common": true,
 		"kanji": [
 			{
 				"kanji": "取",
@@ -148327,7 +148486,10 @@
 				"kanjiForm": "取立てる"
 			},
 			{
-				"kanjiForm": "取りたてる"
+				"kanjiForm": "取りたてる",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -148357,6 +148519,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"ichidan_verb",
 			"transitive_verb"
 		],
@@ -166287,6 +166450,18 @@
 				"notes": [
 					"Search-only kanji form"
 				]
+			},
+			{
+				"kanjiForm": "涯",
+				"notes": [
+					"Search-only kanji form"
+				]
+			},
+			{
+				"kanjiForm": "涯て",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -166302,9 +166477,23 @@
 					"finish",
 					"succeed"
 				]
+			},
+			{
+				"kanji": "涯",
+				"meanings": [
+					"horizon",
+					"shore",
+					"limit",
+					"bound"
+				]
 			}
 		],
 		"phrases": [
+			{
+				"phrase": "彼は法律を生涯の仕事に選んだ。",
+				"translation": "He made law his life career.",
+				"furigana": "かれ は ほうりつ を しょうがい の しごと に えらん だ 。"
+			},
 			{
 				"phrase": "彼は父親との約束を果たすことが出来なかった。",
 				"translation": "He couldn't make good on a promise he had made to his father.",
@@ -166324,11 +166513,6 @@
 				"phrase": "彼は当たり前のように本分を果たした。",
 				"translation": "He did his duty as a matter of course.",
 				"furigana": "かれ は あたりまえ の よう に ほんぶん を はたし た 。"
-			},
-			{
-				"phrase": "彼は賭け事で貯金を使い果たした。",
-				"translation": "He cleaned out his saving on betting.",
-				"furigana": "かれ は かけごと で ちょきん を つかいはたし た 。"
 			}
 		],
 		"tags": [
@@ -166888,7 +167072,7 @@
 			"go",
 			"abbreviation",
 			"usually_in_kana",
-			"osaka-ben",
+			"dialect::osaka-ben",
 			"archaism"
 		],
 		"noteID": "word_1490710"
@@ -168773,7 +168957,8 @@
 		"tags": [
 			"common_noun",
 			"noun_or_participle_taking_suru",
-			"intransitive_verb"
+			"intransitive_verb",
+			"chemistry"
 		],
 		"noteID": "word_1480210"
 	},
@@ -177298,7 +177483,10 @@
 				"kanjiForm": "膨れる"
 			},
 			{
-				"kanjiForm": "脹れる"
+				"kanjiForm": "脹れる",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -177334,6 +177522,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"ichidan_verb",
 			"intransitive_verb"
 		],
@@ -193448,10 +193637,16 @@
 				"kanjiForm": "叉"
 			},
 			{
-				"kanjiForm": "胯"
+				"kanjiForm": "胯",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "俣"
+				"kanjiForm": "俣",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -193519,7 +193714,10 @@
 			}
 		],
 		"tags": [
-			"common_noun"
+			"rare_kanji_form",
+			"search-only_kanji_form",
+			"common_noun",
+			"anatomical"
 		],
 		"noteID": "word_1267460"
 	},
@@ -200457,7 +200655,7 @@
 			"adjectival_nouns_or_quasi-adjectives",
 			"common_noun",
 			"adverb",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1530670"
 	},
@@ -205484,7 +205682,7 @@
 				"notes": [
 					"Suffix",
 					"Godan verb with 'su' ending",
-					"After masu stem of verb"
+					"After the -masu stem of verb"
 				]
 			}
 		],
@@ -205544,8 +205742,7 @@
 		"tags": [
 			"godan::su::verb",
 			"transitive_verb",
-			"suffix",
-			"after::masu_stem"
+			"suffix"
 		],
 		"noteID": "word_1605320"
 	},
@@ -221566,6 +221763,7 @@
 		"tags": [
 			"common_noun",
 			"noun_or_participle_taking_suru",
+			"intransitive_verb",
 			"abbreviation"
 		],
 		"noteID": "word_1052410"

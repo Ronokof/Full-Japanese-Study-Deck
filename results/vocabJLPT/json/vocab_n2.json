@@ -3649,7 +3649,8 @@
 			{
 				"translation": "attraction (e.g. magnetic, gravitation), affinity, gravitational pull",
 				"notes": [
-					"Noun (common) (futsuumeishi)"
+					"Noun (common) (futsuumeishi)",
+					"Physics"
 				]
 			},
 			{
@@ -3718,7 +3719,8 @@
 			}
 		],
 		"tags": [
-			"common_noun"
+			"common_noun",
+			"physics"
 		],
 		"noteID": "word_1169720"
 	},
@@ -5803,7 +5805,7 @@
 			"adjective",
 			"usually_in_kana",
 			"adverb",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1155780"
 	},
@@ -18821,7 +18823,7 @@
 		],
 		"tags": [
 			"common_noun",
-			"brazilian"
+			"dialect::brazilian"
 		],
 		"noteID": "word_1280990"
 	},
@@ -33408,7 +33410,8 @@
 			"gikun_or_jukujikun",
 			"common_noun",
 			"usually_in_kana",
-			"food"
+			"food",
+			"abbreviation"
 		],
 		"noteID": "word_1238460"
 	},
@@ -49281,6 +49284,12 @@
 			},
 			{
 				"kanjiForm": "払戻す"
+			},
+			{
+				"kanjiForm": "払いもどす",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -49319,6 +49328,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"godan::su::verb",
 			"transitive_verb"
 		],
@@ -63599,8 +63609,8 @@
 		],
 		"tags": [
 			"adjective",
-			"hokkaido-ben",
-			"touhoku-ben"
+			"dialect::hokkaido-ben",
+			"dialect::touhoku-ben"
 		],
 		"noteID": "word_1214410"
 	},

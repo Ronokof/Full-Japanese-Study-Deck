@@ -47,15 +47,15 @@
 - Source: [JGram](https://jgram.org/)
 
 ### **Kanji Radicals** (reference material)
-- **261 common radicals**, foundational for kanji recognition.
+- **261 radicals**, foundational for kanji recognition.
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **7,096 common words** written entirely in kana.
+- **7,099 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
 - **799 extra kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
-- **33,460 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **33,464 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 
@@ -76,21 +76,6 @@ This deck is compiled from and inspired by multiple projects:
 ## **jpdb.io Notice**
 This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jpdb.io/). If my usage of your content violates your policies or you want your content removed from this deck, please feel free to contact me.
 
-## **Audio Generation**
-This deck contains **audio files generated using [Amazon Polly](https://aws.amazon.com/polly/)**, a Text-to-Speech (TTS) service provided by Amazon Web Services (AWS).
-
-### Voice Configuration
-- Voice: Tomoko
-- Engine: Neural
-
-### Usage Terms for Amazon Polly
-- The generated speech is subject to **Amazon Polly’s Service Terms**:
-  [https://aws.amazon.com/service-terms/](https://aws.amazon.com/service-terms/)
-- You **may use** the included audio for **personal and educational purposes**.
-- You **cannot** extract, resell, or redistribute the generated audio **as a standalone product**.
-- Any use of the audio must comply with **AWS Acceptable Use Policy**:
-  [https://aws.amazon.com/aup/](https://aws.amazon.com/aup/)
-
 ---
 
 ## **Additional Notes**
@@ -102,12 +87,8 @@ This deck contains **audio files generated using [Amazon Polly](https://aws.amaz
 - **Card Errors**
   - If you spot any errors in the cards, please consult the original sources (JMDict, KANJIDIC, JGram etc.) and either make corrections yourself or submit a correction request. I am not responsible for any mistakes in the data I have used. Every now and then I will update the deck with the latest data.
 
-## Donate
-- BTC: bc1q0n600md4qctphy0eql3x5k2m3t68kkftzggt56
-- ETH: 0x5b2C42Ef9D512822D78Ba44035ABec86780f0aB6
-
 ---
 
-This deck is an independent project and **is not affiliated with Amazon Web Services (AWS) or any contributing databases.**
+This deck is an independent project and **is not affiliated with Amazon Web Services (AWS) or any contributing databases and projects**.
 
 Please read the [license](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/LICENSE.md) for more details.

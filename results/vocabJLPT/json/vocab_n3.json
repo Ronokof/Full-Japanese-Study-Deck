@@ -886,9 +886,6 @@
 		"kanjiForms": [
 			{
 				"kanjiForm": "明らか"
-			},
-			{
-				"kanjiForm": "顕らか"
 			}
 		],
 		"kanji": [
@@ -897,13 +894,6 @@
 				"meanings": [
 					"bright",
 					"light"
-				]
-			},
-			{
-				"kanji": "顕",
-				"meanings": [
-					"appear",
-					"existing"
 				]
 			}
 		],
@@ -1918,6 +1908,9 @@
 			{
 				"reading": "あたり",
 				"audio": "c0ae7016-e84e-4c15-aac1-a58075314350.mp3"
+			},
+			{
+				"reading": "アタリ"
 			}
 		],
 		"translations": [
@@ -1958,10 +1951,13 @@
 				]
 			},
 			{
-				"translation": "situation in which a stone or chain of stones may be captured on the next move",
+				"translation": "atari, situation in which a stone or chain of stones may be captured on the next move",
 				"notes": [
+					"Explanation",
 					"Noun (common) (futsuumeishi)",
-					"Go (game)"
+					"Go (game)",
+					"Usu. アタリ",
+					"Word usually written using kana alone"
 				]
 			},
 			{
@@ -2075,6 +2071,7 @@
 			"search-only_kanji_form",
 			"common_noun",
 			"go",
+			"usually_in_kana",
 			"fishing",
 			"suffix"
 		],
@@ -12551,7 +12548,7 @@
 			"adverb",
 			"usually_in_kana",
 			"pronoun",
-			"kansai-ben",
+			"dialect::kansai-ben",
 			"archaism"
 		],
 		"noteID": "word_1457730"
@@ -16224,7 +16221,9 @@
 			"intransitive_verb",
 			"mathematics",
 			"philosophy",
-			"historical"
+			"historical",
+			"sports",
+			"abbreviation"
 		],
 		"noteID": "word_1176510"
 	},
@@ -20808,7 +20807,7 @@
 			{
 				"kanjiForm": "帶",
 				"notes": [
-					"Word containing out-dated kanji or kanji usage"
+					"Search-only kanji form"
 				]
 			}
 		],
@@ -20862,7 +20861,7 @@
 			}
 		],
 		"tags": [
-			"out-dated_kanji_form",
+			"search-only_kanji_form",
 			"common_noun",
 			"anatomical",
 			"zoology",
@@ -21561,13 +21560,28 @@
 				"kanjiForm": "想い出"
 			},
 			{
-				"kanjiForm": "思いで"
+				"kanjiForm": "思いで",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "想いで"
+				"kanjiForm": "想いで",
+				"notes": [
+					"Search-only kanji form"
+				]
 			},
 			{
-				"kanjiForm": "思出"
+				"kanjiForm": "思出",
+				"notes": [
+					"Search-only kanji form"
+				]
+			},
+			{
+				"kanjiForm": "想出",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -21626,6 +21640,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1589340"
@@ -38770,13 +38785,22 @@
 				"kanjiForm": "傷"
 			},
 			{
-				"kanjiForm": "疵"
+				"kanjiForm": "疵",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "瑕"
+				"kanjiForm": "瑕",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			},
 			{
-				"kanjiForm": "創"
+				"kanjiForm": "創",
+				"notes": [
+					"Rarely used kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -38851,6 +38875,7 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
 			"common_noun"
 		],
 		"noteID": "word_1580260"
@@ -45808,10 +45833,16 @@
 				"audio": "dd6bc446-2f31-47e6-8a65-56d9b8ed8e3e.mp3"
 			},
 			{
-				"reading": "くさめ"
+				"reading": "くさめ",
+				"notes": [
+					"Rarely used kana form"
+				]
 			},
 			{
-				"reading": "くっさめ"
+				"reading": "くっさめ",
+				"notes": [
+					"Rarely used kana form"
+				]
 			},
 			{
 				"reading": "クシャミ"
@@ -45895,7 +45926,10 @@
 		],
 		"tags": [
 			"rare_kanji_form",
+			"rare_kana_form",
 			"common_noun",
+			"noun_or_participle_taking_suru",
+			"intransitive_verb",
 			"usually_in_kana",
 			"expression",
 			"idiomatic_expression"
@@ -56868,7 +56902,8 @@
 				"translation": "official, formal",
 				"notes": [
 					"Nouns which may take the genitive case particle 'no'",
-					"Noun (common) (futsuumeishi)"
+					"Noun (common) (futsuumeishi)",
+					"Noun, used as a suffix"
 				]
 			},
 			{
@@ -56880,7 +56915,8 @@
 			{
 				"translation": "official (social media) account (of a company, organization, etc.)",
 				"notes": [
-					"Noun (common) (futsuumeishi)"
+					"Noun (common) (futsuumeishi)",
+					"Noun, used as a suffix"
 				]
 			}
 		],
@@ -56943,7 +56979,8 @@
 		],
 		"tags": [
 			"noun_takes_no",
-			"common_noun"
+			"common_noun",
+			"suffix_noun"
 		],
 		"noteID": "word_1273820"
 	},
@@ -62927,9 +62964,9 @@
 				"furigana": "かれ は へや の なか を あちこち あるい た 。"
 			},
 			{
-				"phrase": "彼は病気である。それが彼がここにいない理由です。",
-				"translation": "He's ill. That's why he's not here.",
-				"furigana": "かれ は びょうき で ある 。 それ が かれ が ここ に い ない りゆう です 。"
+				"phrase": "彼は不思議な生物、例えばヘビのような生物が好きです。",
+				"translation": "He likes strange animals, things like snakes, for example.",
+				"furigana": "かれ は ふしぎ な せいぶつ 、 たとえば ヘビ の よう な せいぶつ が すき です 。"
 			}
 		],
 		"tags": [
@@ -63355,7 +63392,7 @@
 			},
 			{
 				"phrase": "医者は紺のスーツの上に白衣を着ていた。",
-				"translation": "The doctor was in a white gown over a blue suit.",
+				"translation": "The doctor was wearing a white coat over a blue suit.",
 				"furigana": "いしゃ は こん の スーツ の うえ に はくい を き て い た 。"
 			},
 			{
@@ -68386,12 +68423,6 @@
 				"notes": [
 					"Out-dated or obsolete kana usage"
 				]
-			},
-			{
-				"reading": "さう",
-				"notes": [
-					"Out-dated or obsolete kana usage"
-				]
 			}
 		],
 		"translations": [
@@ -68519,12 +68550,27 @@
 				]
 			}
 		],
-		"common": true,
 		"kanjiForms": [
 			{
-				"kanjiForm": "左様なら"
+				"kanjiForm": "左様なら",
+				"notes": [
+					"Rarely used kanji form"
+				]
+			},
+			{
+				"kanjiForm": "然様なら",
+				"notes": [
+					"Rarely used kanji form"
+				]
+			},
+			{
+				"kanjiForm": "左様奈良",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
+		"common": true,
 		"kanji": [
 			{
 				"kanji": "左",
@@ -68540,6 +68586,31 @@
 					"manner",
 					"situation",
 					"polite suffix"
+				]
+			},
+			{
+				"kanji": "然",
+				"meanings": [
+					"sort of thing",
+					"so",
+					"if so",
+					"in that case",
+					"well"
+				]
+			},
+			{
+				"kanji": "奈",
+				"meanings": [
+					"Nara",
+					"what?"
+				]
+			},
+			{
+				"kanji": "良",
+				"meanings": [
+					"good",
+					"pleasing",
+					"skilled"
 				]
 			}
 		],
@@ -68571,6 +68642,8 @@
 			}
 		],
 		"tags": [
+			"rare_kanji_form",
+			"search-only_kanji_form",
 			"search-only_kana_form",
 			"interjection",
 			"usually_in_kana"
@@ -88136,7 +88209,7 @@
 			"gikun_or_jukujikun",
 			"out-dated_or_obsolete_kana",
 			"common_noun",
-			"kyoto-ben",
+			"dialect::kyoto-ben",
 			"archaism"
 		],
 		"noteID": "word_1397270"
@@ -110548,7 +110621,7 @@
 		"tags": [
 			"godan::ku::verb",
 			"transitive_verb",
-			"kansai-ben",
+			"dialect::kansai-ben",
 			"intransitive_verb",
 			"internet_slang"
 		],
@@ -111160,7 +111233,7 @@
 			},
 			{
 				"phrase": "まさしくイギリスと事情は同じで、家を買うことは可能であった。ただし、自分が気に入った家を手頃な値段で買うという考えを捨てれば、という条件が付くのであった。",
-				"translation": "It was quite possible to buy a house, just as it is in England, provided one gives up the idea of buying a home one likes, and at a reasonable price.",
+				"translation": "As in England, it was quite possible to buy a house, provided one gave up on the idea of buying a home one liked at a reasonable price.",
 				"furigana": "まさしく イギリス と じじょう は おなじ で 、 いえ を かう こと は かのう で あっ た 。 ただし 、 じぶん が きにいった いえ を てごろ な ねだん で かう という かんがえ を すてれ ば 、 という じょうけん が つく の で あっ た 。"
 			},
 			{
@@ -120588,13 +120661,13 @@
 			{
 				"kanjiForm": "把む",
 				"notes": [
-					"Rarely used kanji form"
+					"Search-only kanji form"
 				]
 			},
 			{
 				"kanjiForm": "捉む",
 				"notes": [
-					"Rarely used kanji form"
+					"Search-only kanji form"
 				]
 			}
 		],
@@ -120669,6 +120742,7 @@
 		],
 		"tags": [
 			"rare_kanji_form",
+			"search-only_kanji_form",
 			"godan::mu::verb",
 			"transitive_verb",
 			"usually_in_kana"
@@ -128260,7 +128334,7 @@
 			},
 			{
 				"phrase": "どうせ日本文化の粋などは連中には絶対わかるまい。",
-				"translation": "The essence of Japanese culture could never be appreciated by them.",
+				"translation": "They'll never truly understand the essence of Japanese culture anyway.",
 				"furigana": "どうせ にっぽん ぶんか の いき など は れんちゅう に は ぜったい わかる まい 。"
 			},
 			{
@@ -132621,12 +132695,16 @@
 				]
 			}
 		],
-		"common": true,
 		"kanjiForms": [
 			{
-				"kanjiForm": "兎も角"
+				"kanjiForm": "兎も角",
+				"notes": [
+					"Ateji (phonetic) reading",
+					"Rarely used kanji form"
+				]
 			}
 		],
+		"common": true,
 		"kanji": [
 			{
 				"kanji": "兎",
@@ -132674,6 +132752,8 @@
 			}
 		],
 		"tags": [
+			"ateji",
+			"rare_kanji_form",
 			"adverb",
 			"usually_in_kana"
 		],
@@ -158026,7 +158106,10 @@
 				"kanjiForm": "振り向く"
 			},
 			{
-				"kanjiForm": "振向く"
+				"kanjiForm": "振向く",
+				"notes": [
+					"Search-only kanji form"
+				]
 			}
 		],
 		"kanji": [
@@ -158080,6 +158163,7 @@
 			}
 		],
 		"tags": [
+			"search-only_kanji_form",
 			"godan::ku::verb"
 		],
 		"noteID": "word_1361190"
@@ -164680,7 +164764,7 @@
 				]
 			},
 			{
-				"translation": "well..., I think..., it would seem..., you might say..., Hmmm, I guess so...",
+				"translation": "well ..., I think ..., it would seem ..., you might say ..., Hmmm, I guess so ...",
 				"notes": [
 					"Adverb (fukushi)",
 					"When hesitating to express an opinion"
@@ -165697,6 +165781,7 @@
 				"notes": [
 					"Adjective (keiyoushi)",
 					"Related: 拙い・2",
+					"Occ. as 拙い",
 					"Word usually written using kana alone"
 				]
 			},
@@ -167162,7 +167247,7 @@
 		"phrases": [
 			{
 				"phrase": "五次元のマフラーはよい音がする。",
-				"translation": "The 5ZIGEN's exhaust gives a nice sound.",
+				"translation": "The 5ZIGEN exhaust makes a nice sound.",
 				"furigana": "ご じげん の マフラー は よい おと が する 。"
 			},
 			{
@@ -167600,7 +167685,7 @@
 			"common_noun",
 			"prefix_noun",
 			"slang",
-			"kansai-ben",
+			"dialect::kansai-ben",
 			"suffix"
 		],
 		"noteID": "word_1216250"
@@ -170954,7 +171039,18 @@
 				"notes": [
 					"Noun (common) (futsuumeishi)",
 					"Shogi",
-					"Go (game)"
+					"Go (game)",
+					"Related: 名人戦・めいじんせん・1",
+					"Related: 名人戦・めいじんせん・2"
+				]
+			},
+			{
+				"translation": "Meijin (highest title for male players in competitive karuta)",
+				"notes": [
+					"Noun (common) (futsuumeishi)",
+					"Card games",
+					"Related: クイーン・4",
+					"Related: 名人戦・3"
 				]
 			}
 		],
@@ -171011,7 +171107,8 @@
 		"tags": [
 			"common_noun",
 			"shogi",
-			"go"
+			"go",
+			"card_games"
 		],
 		"noteID": "word_1531680"
 	},
@@ -181261,7 +181358,7 @@
 		"tags": [
 			"ichidan_verb",
 			"transitive_verb",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1219560"
 	},
@@ -182092,7 +182189,7 @@
 		"tags": [
 			"rare_kanji_form",
 			"common_noun",
-			"kansai-ben"
+			"dialect::kansai-ben"
 		],
 		"noteID": "word_1191680"
 	},
@@ -189891,7 +189988,7 @@
 			"adverb",
 			"usually_in_kana",
 			"conjunction",
-			"kansai-ben",
+			"dialect::kansai-ben",
 			"prefix"
 		],
 		"noteID": "word_1524930"
