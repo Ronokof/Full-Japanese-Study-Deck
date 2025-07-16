@@ -1,6 +1,6 @@
 {
   "name": "full-japanese-study-deck",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "license": "SEE LICENSE IN LICENSE.md",
   "author": "Ronokof",
   "repository": {
@@ -18,7 +18,7 @@
     "start-with-audio": "ts-node ./src/index.ts --with-audio"
   },
   "dependencies": {
-    "@aws-sdk/client-polly": "^3.844.0",
+    "@aws-sdk/client-polly": "^3.846.0",
     "dotenv": "^17.2.0",
     "iconv-lite": "^0.6.3",
     "jsdom": "^26.1.0",
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@types/jsdom": "^21.1.7",
-    "@types/node": "^24.0.13",
+    "@types/node": "^24.0.14",
     "@types/xml2js": "^0.4.14",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
