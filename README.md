@@ -74,7 +74,12 @@ This deck is compiled from and inspired by multiple projects:
 - **[Takoboto](https://takoboto.jp/)**
 
 ## **jpdb.io Notice**
+
 This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jpdb.io/). If my usage of your content violates your policies or you want your content removed from this deck, please feel free to contact me.
+
+## **Build your own deck**
+
+If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made this deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Before you run the builder, follow the instructions in each subfolder’s *README.md* file.
 
 ---
 

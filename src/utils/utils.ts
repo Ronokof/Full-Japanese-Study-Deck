@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { writeFile } from 'fs/promises';
 import path from 'path';
 
-import { deckName, dictsDir, dictsNames, fileNames, jpdbFile, jpdbRadicalsFile, noteMap, regexps, resultPaths, svgDir } from './constants';
+import { deckName, dictsDir, dictsNames, fileNames, jpdbFile, jpdbRadicalsFile, noteMap, regexps, resultPaths, subDeckNames, svgDir } from './constants';
 import { PollyClient, SynthesizeSpeechCommand, SynthesizeSpeechCommandOutput } from '@aws-sdk/client-polly';
 import libxml from 'libxmljs2';
 import xml from 'xml2js';
@@ -194,6 +194,51 @@ export interface Grammar {
 }
 
 export type Result = Word | Kanji | Radical | Kana | Grammar;
+
+export interface SubDeckNames {
+    kana: {
+        '_': string;
+        hiragana: string;
+        hiraganaExtended: string;
+        katakana: string;
+        katakanaExtended: string;
+    };
+    jlpt: {
+        '_': string;
+        kanji: {
+            '_': string;
+            n5: string;
+            n4: string;
+            n3: string;
+            n2: string;
+            n1: string;
+        };
+        vocab: {
+            '_': string;
+            n5: string;
+            n4: string;
+            n3: string;
+            n2: string;
+            n1: string;
+        };
+    };
+    grammar: {
+        '_': string;
+        n5: string;
+        n4: string;
+        n3: string;
+        n2: string;
+        n1: string;
+        additional: string;
+    };
+    radicals: { '_': string };
+    kanaWords: { '_': string };
+    extraKanji: {
+        '_': string;
+        kanji: string;
+        vocab: string;
+    };
+}
 
 export function capitalizeFirstLetter(value: string): string {
     return value.charAt(0).toUpperCase() + value.slice(1);
@@ -1510,22 +1555,22 @@ export function generateAnkiNotesFile(list: Result[], filename: string): string 
 
         switch (filenameParts.length) {
             case 1:
-                if (filenameParts[0]! === 'hiragana') deck += '0. Kana::Hiragana';
-                else if (filenameParts[0]! === 'katakana') deck += '0. Kana::Katakana';
-                else if (filenameParts[0]! === 'radicals') deck += '3. Kanji radicals (reference)';
+                if (filenameParts[0]! === 'hiragana') deck += `${subDeckNames.kana._}::${subDeckNames.kana.hiragana}`;
+                else if (filenameParts[0]! === 'katakana') deck += `${subDeckNames.kana._}::${subDeckNames.kana.katakana}`;
+                else if (filenameParts[0]! === 'radicals') deck += subDeckNames.radicals._;
 
                 break;
             case 2:
-                if (filenameParts[0]! === 'kana' && filenameParts[1]! === 'words') deck += '4. Vocab with no kanji (mining/reference)';
-                else if (filenameParts[0]! === 'grammar') deck += `2. Grammar::${(filenameParts[1]! === 'additional') ? 'Additional' : filenameParts[1]!.toUpperCase()}`;
-                else if (filenameParts[1]! === 'extended') deck += `0. Kana::${(filenameParts[0]! === 'hiragana') ? 'Hiragana' : (filenameParts[0]! === 'katakana') ? 'Katakana' : ''} extended`;
-                else if (filenameParts[0]! === 'kanji' && filenameParts[1]!.startsWith('n')) deck += `1. JLPT::Kanji::${filenameParts[1]!.toUpperCase()}`;
-                else if (filenameParts[0]! === 'vocab' && filenameParts[1]!.startsWith('n')) deck += `1. JLPT::Vocab::${filenameParts[1]!.toUpperCase()}`;
-                else if (filenameParts[0]! === 'extra' && filenameParts[1]! === 'kanji') deck += '5. Extra kanji (mining/reference)::Kanji';
+                if (filenameParts[0]! === 'kana' && filenameParts[1]! === 'words') deck += subDeckNames.kanaWords._;
+                else if (filenameParts[0]! === 'grammar') deck += `${subDeckNames.grammar._}::${(filenameParts[1]! === 'additional') ? subDeckNames.grammar.additional : subDeckNames.grammar[filenameParts[1]!.toLowerCase() as 'n5' | 'n4' | 'n3' | 'n2' | 'n1']}`;
+                else if (filenameParts[1]! === 'extended') deck += `${subDeckNames.kana._}::${(filenameParts[0]! === 'hiragana') ? subDeckNames.kana.hiraganaExtended : (filenameParts[0]! === 'katakana') ? subDeckNames.kana.katakanaExtended : ''}`;
+                else if (filenameParts[0]! === 'kanji' && filenameParts[1]!.startsWith('n')) deck += `${subDeckNames.jlpt._}::${subDeckNames.jlpt.kanji._}::${subDeckNames.jlpt.kanji[filenameParts[1]!.toLowerCase() as 'n5' | 'n4' | 'n3' | 'n2' | 'n1']}`;
+                else if (filenameParts[0]! === 'vocab' && filenameParts[1]!.startsWith('n')) deck += `${subDeckNames.jlpt._}::${subDeckNames.jlpt.vocab._}::${subDeckNames.jlpt.vocab[filenameParts[1]!.toLowerCase() as 'n5' | 'n4' | 'n3' | 'n2' | 'n1']}`;
+                else if (filenameParts[0]! === 'extra' && filenameParts[1]! === 'kanji') deck += `${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.kanji}`;
 
                 break;
             case 3:
-                if (filenameParts[0]! === 'extra' && filenameParts[1]! === 'kanji' && filenameParts[2]! === 'words') deck += '5. Extra kanji (mining/reference)::Vocab';
+                if (filenameParts[0]! === 'extra' && filenameParts[1]! === 'kanji' && filenameParts[2]! === 'words') deck += `${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.vocab}`;
 
                 break;
             default:

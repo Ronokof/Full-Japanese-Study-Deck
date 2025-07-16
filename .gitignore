@@ -1,7 +1,13 @@
 .vscode/
 node_modules/
 notes/
-package-lock.json
+
+dicts/
+!dicts/README.md
+
+svgs/
+!svgs/README.md
+
 **/**/*.txt
 **/**/*.xml
 **/**/*.utf
@@ -9,4 +15,6 @@ package-lock.json
 **/**/*.gz
 **/**/*.mp3
 **/**/*.svg
+
+package-lock.json
 .env

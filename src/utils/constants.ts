@@ -1,6 +1,53 @@
 import path from "path";
+import { SubDeckNames } from "./utils";
 
 export const deckName: string = 'Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]';
+
+export const subDeckNames: SubDeckNames = {
+	kana: {
+		'_': '0. Kana',
+		hiragana: 'Hiragana',
+		hiraganaExtended: 'Hiragana extended',
+		katakana: 'Katakana',
+		katakanaExtended: 'Katakana extended'
+	},
+	jlpt: {
+		'_': '1. JLPT',
+		kanji: {
+			'_': 'Kanji',
+			n5: 'N5',
+			n4: 'N4',
+			n3: 'N3',
+			n2: 'N2',
+			n1: 'N1'
+		},
+		vocab: {
+			'_': 'Vocab',
+			n5: 'N5',
+			n4: 'N4',
+			n3: 'N3',
+			n2: 'N2',
+			n1: 'N1'
+		}
+	},
+	grammar: {
+		'_': '2. Grammar',
+		n5: 'N5',
+		n4: 'N4',
+		n3: 'N3',
+		n2: 'N2',
+		n1: 'N1',
+		additional: 'Additional'
+	},
+	radicals: { '_': '3. Kanji radicals (reference)' },
+	kanaWords: { '_': '4. Vocab with no kanji (mining/reference)' },
+	extraKanji: {
+		'_': '5. Extra kanji (mining/reference)',
+		kanji: 'Kanji',
+		vocab: 'Vocab'
+	}
+}
+
 export const dictsDir: string = path.resolve('./dicts');
 export const svgDir: string = path.resolve('./svgs');
 export const jpdbFile: string = path.resolve('./results/jpdb.json');
