@@ -36,10 +36,11 @@
 ### **Kana** (reference material)
 - **Basic kana** (Hiragana & Katakana) – 142 characters with readings and audio.
 - **Extended kana** – 230 combinations (*ja, kya, gyu*, etc.), including uncommon ones.
+- **Reversed cards** included.
 
 ### **JLPT** (intended for learning through spaced repetition)
 - **Vocabulary:** 7,264 words with audio, spanning **N5 to N1**.
-- **Kanji:** 2,118 kanji, categorized by JLPT level.
+- **Kanji:** 2,118 kanji, categorized by JLPT level. **Reversed cards** included.
 - Source: [tanos.co.uk JLPT Resources](https://www.tanos.co.uk/jlpt/)
 
 ### **Grammar** (intended for learning through spaced repetition & reference material)
@@ -48,13 +49,14 @@
 
 ### **Kanji Radicals** (reference material)
 - **261 radicals**, foundational for kanji recognition.
+- **Reversed cards** included.
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
 - **7,099 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **799 extra kanji**, sourced from **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)**.
+- **799 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
 - **33,464 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---

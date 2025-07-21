@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { writeFile } from 'fs/promises';
 import path from 'path';
 
-import { deckName, dictsDir, dictsNames, fileNames, jpdbFile, jpdbRadicalsFile, noteMap, regexps, resultPaths, subDeckNames, svgDir } from './constants';
+import { deckName, dictsDir, dictsNames, fileNames, jpdbFile, jpdbRadicalsFile, noteMap, noteTypes, regexps, resultPaths, subDeckNames, svgDir } from './constants';
 import { PollyClient, SynthesizeSpeechCommand, SynthesizeSpeechCommandOutput } from '@aws-sdk/client-polly';
 import libxml from 'libxmljs2';
 import xml from 'xml2js';
@@ -238,6 +238,14 @@ export interface SubDeckNames {
         kanji: string;
         vocab: string;
     };
+}
+
+export interface NoteTypes {
+    grammar: string;
+    kana: string;
+    kanji: string;
+    radical: string;
+    word: string;
 }
 
 export function capitalizeFirstLetter(value: string): string {
@@ -1528,7 +1536,8 @@ export function generateAnkiNote(entry: Result): string[] {
 
     if (isKana(entry)) fields.push(
         createEntry(`<span class="kana kana-character">${entry.kana}</span>`),
-        createEntry(`<span class="kana kana-reading">${entry.reading}${(entry.audio !== undefined) ? `<br>[sound:${entry.audio}]` : ''}<br>${(entry.svg) ? `<img class="kana kana-stroke-order" src="${entry.svg}" alt="${entry.kana} stroke order SVG">` : '(no stroke order SVG available)'}</span>`),
+        createEntry(`<span class="kana kana-reading">${entry.reading}${(entry.audio !== undefined) ? `<br>[sound:${entry.audio}]` : ''}</span>`),
+        (entry.svg) ? createEntry(`<img class="kana kana-stroke-order" src="${entry.svg}" alt="${entry.kana} stroke order SVG">`) : '<span class="kana kana-stroke-order">(no stroke order SVG available)</span>',
         ...(entry.tags && entry.tags.length > 0) ? [entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ')] : []
     );
 
@@ -1585,11 +1594,11 @@ export function generateAnkiNotesFile(list: Result[], filename: string): string 
 
             let noteType: string = '';
 
-            if (isWord(result)) noteType = 'Word';
-            if (isRadical(result)) noteType = 'Radical';
-            if (isKanji(result)) noteType = 'Kanji';
-            if (isKana(result)) noteType = 'Kana';
-            if (isGrammar(result)) noteType = 'Grammar';
+            if (isWord(result)) noteType = noteTypes.word;
+            if (isRadical(result)) noteType = noteTypes.radical;
+            if (isKanji(result)) noteType = noteTypes.kanji;
+            if (isKana(result)) noteType = noteTypes.kana;
+            if (isGrammar(result)) noteType = noteTypes.grammar;
 
             if (noteType.length === 0) throw new Error('Invalid entry');
 

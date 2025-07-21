@@ -1,5 +1,5 @@
 import path from "path";
-import { SubDeckNames } from "./utils";
+import { NoteTypes, SubDeckNames } from "./utils";
 
 export const deckName: string = 'Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]';
 
@@ -46,6 +46,14 @@ export const subDeckNames: SubDeckNames = {
 		kanji: 'Kanji',
 		vocab: 'Vocab'
 	}
+}
+
+export const noteTypes: NoteTypes = {
+	grammar: 'Grammar',
+	kana: 'Kana',
+	kanji: 'Kanji',
+	radical: 'Radical',
+	word: 'Word'
 }
 
 export const dictsDir: string = path.resolve('./dicts');
