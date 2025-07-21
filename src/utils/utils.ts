@@ -1537,7 +1537,7 @@ export function generateAnkiNote(entry: Result): string[] {
     if (isKana(entry)) fields.push(
         createEntry(`<span class="kana kana-character">${entry.kana}</span>`),
         createEntry(`<span class="kana kana-reading">${entry.reading}${(entry.audio !== undefined) ? `<br>[sound:${entry.audio}]` : ''}</span>`),
-        (entry.svg) ? createEntry(`<img class="kana kana-stroke-order" src="${entry.svg}" alt="${entry.kana} stroke order SVG">`) : '<span class="kana kana-stroke-order">(no stroke order SVG available)</span>',
+        (entry.svg) ? createEntry(`<img class="kana kana-stroke-order" src="${entry.svg}" alt="${entry.kana} stroke order SVG">`) : '(no stroke order SVG available)',
         ...(entry.tags && entry.tags.length > 0) ? [entry.tags.map((tag: string) => tag.trim().toLowerCase().replaceAll(' ', '::')).join(' ')] : []
     );
 
