@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    rebase-strategy: "auto"
+    groups:
+      minor-and-patch:
+        patterns: ["*"]
+        update-types: ["minor","patch"]
+      major:
+        patterns: ["*"]
+        update-types: ["major"]
