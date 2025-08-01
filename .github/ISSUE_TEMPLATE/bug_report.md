@@ -1,5 +1,5 @@
 ---
-name: Issue
+name: Report an issue
 about: Report a problem with the deck or the deck builder
 title: "[SHORT DESCRIPTION]"
 labels: bug
