@@ -83,6 +83,10 @@ This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jp
 
 If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made the deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Before you run the builder, follow the instructions in each subfolder’s *README.md* file.
 
+## **Report an issue**
+
+Report any issues regarding the deck by following [this guide](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
+
 ---
 
 ## **Additional Notes**
@@ -91,8 +95,6 @@ If you know how to code in TypeScript (or how to use AI) and you want to tweak t
   - If audio plays repetitively or automatically, turn on the **"Don't play audio automatically"** setting from the deck's options.
 - **AWS Limitations:**
   - Not all entries, particularly in the JLPT vocab subdeck, have accurate or available audio due to AWS constraints.
-- **Card Errors**
-  - If you spot any errors in the cards, please consult the original sources (JMDict, KANJIDIC or Tanaka Corpus) and either make corrections yourself or submit a correction request. I am not responsible for any mistakes in the data I have used. Every now and then I will update the deck with the latest data.
 
 ---
 

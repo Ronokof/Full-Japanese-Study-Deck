@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Submit a PR
+    url: https://github.com/Ronokof/Full-Japanese-Study-Deck/pulls
+    about: If your request/issue involves code changes, note or note type changes, submit a PR instead of opening an issue.
+  - name: Other questions regarding the deck or the deck builder
+    url: https://github.com/Ronokof/Full-Japanese-Study-Deck/discussions
+    about: For general questions about the deck or the deck builder, open a discussion.
+  - name: Found a vulnerability
+    url: https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/SECURITY.md
+    about: Learn how you can report vulnerabilities.
+  - name: How to contribute
+    url: https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md
+    about: Learn how you can contribute to this project.
