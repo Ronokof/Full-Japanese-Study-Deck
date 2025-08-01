@@ -81,11 +81,11 @@ This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jp
 
 ## **Build your own deck**
 
-If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made the deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Before you run the builder, follow the instructions in each subfolder’s *README.md* file.
+If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made the deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Follow the "Setup" section inside [this file](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
 
 ## **Report an issue**
 
-Report any issues regarding the deck by following [this guide](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
+Report any issues regarding the deck [here](https://github.com/Ronokof/Full-Japanese-Study-Deck/issues).
 
 ---
 

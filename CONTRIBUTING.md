@@ -4,17 +4,34 @@ First off, thank you for even thinking about contributing! Whether you’re fixi
 
 ---
 
+## Setup
+
+1. **Clone** the repo and `cd` into the resulting directory.
+2. Copy `.env_template` to `.env` and fill in any AWS details if you want to generate or regenerate audio.
+3. **Install dependencies**
+ ```bash
+ npm install
+ ```
+4. Follow the instructions in each subfolder’s *README.md* file.
+5. (Optional) Make any changes to the code or notes.
+6. **Run the builder (and test if everything works perfectly, if you made changes)**
+ ```bash
+ npm run start
+ # or
+ npm run start-with-audio # if you want to generate audio
+ ```
+
 ## Reporting Issues
 
- - **Note errors**
+### **Note errors**
   - For JMDict and KANJIDIC data: Please consult the original sources and either make corrections yourself or submit a correction request. I am not responsible for any mistakes in the data I have used. Every now and then I will update the deck with the latest data.
   - For Kanji mnemonics, grammar and radicals data: Submit a PR (see [Submitting Pull Requests](#submitting-pull-requests)).
 
- - **Feature requests** (new subdeck, improved filtering, code optimization etc.):
+### **Feature requests** (new subdeck, improved filtering, code optimization etc.)
   - Describe your idea, use-cases, and any preliminary approach.
   - If your request involves code changes, note or note type changes, submit a PR instead of opening an issue (see [Submitting Pull Requests](#submitting-pull-requests)).
 
- - **Security vulnerabilities**
+### **Security vulnerabilities**
   - See [SECURITY.md](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/SECURITY.md).
 
 ---
@@ -34,23 +51,6 @@ First off, thank you for even thinking about contributing! Whether you’re fixi
 - (If applicable) Screenshots or examples of the changes.
 
 ---
-
-## Setup
-
-1. **Clone** your fork and `cd` into the resulting directory.
-2. Copy `.env_template` to `.env` and fill in any AWS details if you want to generate or regenerate audio.
-3. **Install dependencies**
- ```bash
- npm install
- ```
-4. Follow the instructions in each subfolder’s *README.md* file.
-5. (Optional) Make any changes to the code or notes.
-6. **Run the builder (and test if everything works perfectly, if you made changes)**
- ```bash
- npm run start
- # or
- npm run start-with-audio # if you want to generate audio
- ```
 
 ## Discussion & Support
   - For complex questions or roadmap ideas, use [Discussions](https://github.com/Ronokof/Full-Japanese-Study-Deck/discussions).
