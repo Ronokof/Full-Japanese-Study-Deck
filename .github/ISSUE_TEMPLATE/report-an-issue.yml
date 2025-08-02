@@ -1,0 +1,92 @@
+name: Report an issue
+description: Report a problem with the deck or the deck builder.
+title: "[SHORT DESCRIPTION]"
+labels: ["bug"]
+assignees:
+  - Ronokof
+body:
+  - type: markdown
+    id: security_vulnerability
+    attributes:
+      value: |
+        If you are looking to report a security vulnerability, check [Security Policy](https://github.com/Ronokof/Full-Japanese-Study-Deck/security/policy)!
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: Describe the issue
+      description: "Write a clear and concise description of what the problem is."
+    validations:
+      required: true
+  - type: textarea
+    id: issue_steps
+    attributes:
+      label: Steps to reproduce the behavior (if applicable)
+      value: |
+        1. 
+        2. 
+        3. 
+        ...
+      render: bash
+  - type: textarea
+    id: issue_expected_behavior
+    attributes:
+      label: Expected behavior (if applicable)
+      description: "What you expected to happen, or what the card/content should display/be?"
+  - type: textarea
+    id: issue_illustration
+    attributes:
+      label: Screenshots or Recordings (if applicable)
+      description: "Add screenshots or a short screen recording to help illustrate the issue."
+  - type: markdown
+    id: issue_check
+    attributes:
+      value: |
+        Before opening an issue, check if the problem you are having is present in the latest versions of Anki or OS you are using and if the problem is actually deck-related or not.
+  - type: input
+    id: anki
+    attributes:
+      label: Anki app and version
+      placeholder: "e.g. Anki 25.07.5 / AnkiDroid 2.21.1"
+    validations:
+      required: true
+  - type: input
+    id: deck_version
+    attributes:
+      label: Deck version or commit SHA
+      description: "Verify if the problem you are having exists in the latest deck or deck builder version before opening an issue."
+      placeholder: "e.g. v3.2.0 / 6489c84d455c44582a37461b9e9acac8a1b42ef8"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      placeholder: "e.g. Desktop / Google Pixel 9 / iPhone X"
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      placeholder: "e.g. Windows 10 / macOS 12.4 / Android 16 (include the full version number and/or build if you think it's important)"
+    validations:
+      required: true
+  - type: input
+    id: node_js
+    attributes:
+      label: Node.js version (if applicable)
+      placeholder: "e.g. 24.4.1"
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional information (optional)
+      description: "Add any other context about the problem here."
+      placeholder: "e.g. Thrown errors or console output / Related issues or PRs / Workarounds you’ve tried"
+  - type: checkboxes
+    id: issue_valid
+    attributes:
+      label: Is this issue valid?
+      description: "You have read and understood the [CONTRIBUTING.md](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CODE_OF_CONDUCT.md) and [Security Policy](https://github.com/Ronokof/Full-Japanese-Study-Deck/security/policy), and believe this issue is valid?" 
+      options:
+        - label: I agree
+          required: true
