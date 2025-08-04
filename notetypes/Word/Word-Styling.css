@@ -41,19 +41,19 @@ h4 {
     color: #0d47a1;
 }
 
-ruby rt {
+.word-kanjiform ruby rt {
     opacity: 0;
     transition: opacity 0.2s ease-in-out;
     font-size: 1em;
     padding-bottom: 0.5em;
 }
 
-ruby:hover rt {
+.word-kanjiform ruby:hover rt {
     opacity: 1;
     font-size: 1em;
 }
 
-ruby:hover rb {
+.word-kanjiform ruby:hover rb {
     font-size: 1em;
 }
 
@@ -77,8 +77,34 @@ summary {
 }
 
 .word-phrase {
+    font-size: 1.3em;
     background-color: #fce4ec;
     color: #880e4f;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.4;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.word-phrase .word-phrase-furigana {
+    display: none;
+    transition: display 0.2s ease-in-out;
+}
+
+.word-phrase .word-phrase-original {
+    display: inline;
+    transition: display 0.2s ease-in-out;
+}
+
+.word-phrase:hover .word-phrase-original {
+    display: none;
+}
+
+.word-phrase:hover .word-phrase-furigana {
+    display: inline;
 }
 
 .entry {

@@ -76,22 +76,6 @@ summary {
     color: #00bfff;
 }
 
-ruby rt {
-    opacity: 0;
-    transition: opacity 0.2s ease-in-out;
-    font-size: 1em;
-    padding-bottom: 0.5em;
-}
-
-ruby:hover rt {
-    opacity: 1;
-    font-size: 1em;
-}
-
-ruby:hover rb {
-    font-size: 1em;
-}
-
 .grammar-phrase {
     font-size: 1.3em;
     color: #3e2723;
@@ -99,9 +83,28 @@ ruby:hover rb {
     padding: 10px;
     border-radius: 5px;
     margin: 10px 0;
-    display: block;
+    display: inline-block;
+    cursor: pointer;
     line-height: 1.4;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.grammar-phrase .grammar-phrase-furigana {
+    display: none;
+    transition: display 0.2s ease-in-out;
+}
+
+.grammar-phrase .grammar-phrase-original {
+    display: inline;
+    transition: display 0.2s ease-in-out;
+}
+
+.grammar-phrase:hover .grammar-phrase-original {
+    display: none;
+}
+
+.grammar-phrase:hover .grammar-phrase-furigana {
+    display: inline;
 }
 
 .grammar-source {

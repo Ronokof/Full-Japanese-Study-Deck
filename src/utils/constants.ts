@@ -73,7 +73,7 @@ export const fileNames: { kana: string[], vocabJLPT: string[], kanjiJLPT: string
 	kana: ['hiragana', 'hiragana_extended', 'katakana', 'katakana_extended'],
 	vocabJLPT: ['vocab_n5', 'vocab_n4', 'vocab_n3', 'vocab_n2', 'vocab_n1'],
 	kanjiJLPT: ['kanji_n5', 'kanji_n4', 'kanji_n3', 'kanji_n2', 'kanji_n1'],
-	grammar: ['grammar_n5', 'grammar_n4', 'grammar_n3', 'grammar_n2', 'grammar_n1']
+	grammar: ['grammar_n5', 'grammar_n4', 'grammar_n3', 'grammar_n2', 'grammar_n1', 'grammar_additional']
 }
 
 export const resultPaths: { vocabJLPT: string, kanjiJLPT: string, radicals: string, kana: string, grammar: string, extraKanji: string, kanaWords: string } = {

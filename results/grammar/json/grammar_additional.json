@@ -12,29 +12,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "私の先生がそう言うのもごもっともだ。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>がそう<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのもごもっともだ。",
 				"translation": "My teacher is quite absolutely right in saying so.",
-				"furigana": "わたし の せんせい が そう いう の も ご もっとも だ 。"
+				"originalPhrase": "私の先生がそう言うのもごもっともだ。"
 			},
 			{
-				"phrase": "私の先生がそう言うのもごもっともだ。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>がそう<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのもごもっともだ。",
 				"translation": "My teacher is quite absolutely right in saying so.",
-				"furigana": "わたし の せんせい が そう いう の も ご もっとも だ 。"
+				"originalPhrase": "私の先生がそう言うのもごもっともだ。"
 			},
 			{
-				"phrase": "私の先生がそう言うのもごもっともだ。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>がそう<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのもごもっともだ。",
 				"translation": "My teacher is quite absolutely right in saying so.",
-				"furigana": "わたし の せんせい が そう いう の も ご もっとも だ 。"
+				"originalPhrase": "私の先生がそう言うのもごもっともだ。"
 			},
 			{
-				"phrase": "雨が降ってきました。その上悪いことに強い風が吹いてきました。",
+				"phrase": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ってきました。その<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby><ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いことに<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>い<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>が<ruby>吹<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>いてきました。",
 				"translation": "It began rain. To make matters worse, a strong wind was blowing.",
-				"furigana": "あめ が ふって き まし た 。 その うえ わるい こと に つよい かぜ が ふい て き まし た 。"
+				"originalPhrase": "雨が降ってきました。その上悪いことに強い風が吹いてきました。"
 			},
 			{
-				"phrase": "彼は英語を話せる。その上、フランス語も話せる。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる。その<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>、フランス<ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>も<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる。",
 				"translation": "He can speak English. In addition, he can speak French.",
-				"furigana": "かれ は えいご を はなせる 。 その うえ 、 フランスご も はなせる 。"
+				"originalPhrase": "彼は英語を話せる。その上、フランス語も話せる。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1711",
@@ -52,29 +52,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "もしかして、あなたは社長ですか？",
+				"phrase": "もしかして、あなたは<ruby>社長<rp>(</rp><rt>しゃちょう</rt><rp>)</rp></ruby>ですか？",
 				"translation": "Are you the president, by any chance?",
-				"furigana": "もしかして 、 あなた は しゃちょう です か ？"
+				"originalPhrase": "もしかして、あなたは社長ですか？"
 			},
 			{
-				"phrase": "もしかして名案じゃないかな。",
+				"phrase": "もしかして<ruby>名案<rp>(</rp><rt>めいあん</rt><rp>)</rp></ruby>じゃないかな。",
 				"translation": "Maybe it's a great idea.",
-				"furigana": "もしかして めいあん じゃ ない か な 。"
+				"originalPhrase": "もしかして名案じゃないかな。"
 			},
 			{
-				"phrase": "もしかして財布を落としたかも。",
+				"phrase": "もしかして<ruby>財布<rp>(</rp><rt>さいふ</rt><rp>)</rp></ruby>を<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>としたかも。",
 				"translation": "Maybe I dropped down my wallet.",
-				"furigana": "もしかして さいふ を おとし た かも 。"
+				"originalPhrase": "もしかして財布を落としたかも。"
 			},
 			{
-				"phrase": "もしかして鍵を失くしたのですか？",
+				"phrase": "もしかして<ruby>鍵<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>を<ruby>失<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby>くしたのですか？",
 				"translation": "Do you happen to lose your key?",
-				"furigana": "もしかして かぎ を しつ くし た の です か ？"
+				"originalPhrase": "もしかして鍵を失くしたのですか？"
 			},
 			{
-				"phrase": "あなた、もしかして、俳優？",
+				"phrase": "あなた、もしかして、<ruby>俳優<rp>(</rp><rt>はいゆう</rt><rp>)</rp></ruby>？",
 				"translation": "Are you, by any chance , an actor?",
-				"furigana": "あなた 、 もしかして 、 はいゆう ？"
+				"originalPhrase": "あなた、もしかして、俳優？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1722",
@@ -92,29 +92,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "私は宿題をしなければならない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>をしなければならない。",
 				"translation": "I must do my assignment.",
-				"furigana": "わたし は しゅくだい を し なけれ ば なら ない 。"
+				"originalPhrase": "私は宿題をしなければならない。"
 			},
 			{
-				"phrase": "私は日本語を勉強しなければならない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しなければならない。",
 				"translation": "I have to study Japanese.",
-				"furigana": "わたし は にほんご を べんきょう し なけれ ば なら ない 。"
+				"originalPhrase": "私は日本語を勉強しなければならない。"
 			},
 			{
-				"phrase": "私は今週、期末試験を受けなければならない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>今週<rp>(</rp><rt>こんしゅう</rt><rp>)</rp></ruby>、<ruby>期末<rp>(</rp><rt>きまつ</rt><rp>)</rp></ruby><ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>を<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けなければならない。",
 				"translation": "I have to take my final exams this week.",
-				"furigana": "わたし は こんしゅう 、 きまつ しけん を うけ なけれ ば なら ない 。"
+				"originalPhrase": "私は今週、期末試験を受けなければならない。"
 			},
 			{
-				"phrase": "私は朝食を食べなければならない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>朝食<rp>(</rp><rt>ちょうしょく</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べなければならない。",
 				"translation": "I have to eat breakfast.",
-				"furigana": "わたし は ちょうしょく を たべ なけれ ば なら ない 。"
+				"originalPhrase": "私は朝食を食べなければならない。"
 			},
 			{
-				"phrase": "私は10時ごろに出発しなければならない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は10<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ごろに<ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>しなければならない。",
 				"translation": "I have to get going at about 10",
-				"furigana": "わたし は 10 じ ごろ に しゅっぱつ し なけれ ば なら ない 。"
+				"originalPhrase": "私は10時ごろに出発しなければならない。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1709",
@@ -132,29 +132,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "今夜は眠れそうもない。",
+				"phrase": "<ruby>今夜<rp>(</rp><rt>こんや</rt><rp>)</rp></ruby>は<ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>れそうもない。",
 				"translation": "I don't think I can sleep tonight.",
-				"furigana": "こんや は ねむれ そう も ない 。"
+				"originalPhrase": "今夜は眠れそうもない。"
 			},
 			{
-				"phrase": "明日は雪が降りそうもない。",
+				"phrase": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>は<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りそうもない。",
 				"translation": "There is no way it snows tomorrow.",
-				"furigana": "あした は ゆき が おり そう も ない 。"
+				"originalPhrase": "明日は雪が降りそうもない。"
 			},
 			{
-				"phrase": "明日までにこの宿題を終われそうもない。",
+				"phrase": "<ruby>明日<rp>(</rp><rt>あした</rt><rp>)</rp></ruby>までにこの<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>を<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>われそうもない。",
 				"translation": "I don't think I can finish this homework by tomorrow.",
-				"furigana": "あした まで に この しゅくだい を おわれ そう も ない 。"
+				"originalPhrase": "明日までにこの宿題を終われそうもない。"
 			},
 			{
-				"phrase": "あまり期待できそうもない。",
+				"phrase": "あまり<ruby>期待<rp>(</rp><rt>きたい</rt><rp>)</rp></ruby>できそうもない。",
 				"translation": "There is not much hope.",
-				"furigana": "あまり きたい でき そう も ない 。"
+				"originalPhrase": "あまり期待できそうもない。"
 			},
 			{
-				"phrase": "あなたは一度その映画を見たら、忘れそうもないでしょう。",
+				"phrase": "あなたは<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby>その<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たら、<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れそうもないでしょう。",
 				"translation": "Once you see the movie, you will never forget it.",
-				"furigana": "あなた は いちど その えいが を み たら 、 わすれ そう も ない でしょ う 。"
+				"originalPhrase": "あなたは一度その映画を見たら、忘れそうもないでしょう。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1721",
@@ -172,29 +172,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "謝りなさい。さもないと、怒りますよ。",
+				"phrase": "<ruby>謝<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>りなさい。さもないと、<ruby>怒<rp>(</rp><rt>おこ</rt><rp>)</rp></ruby>りますよ。",
 				"translation": "Say you're sorry right now. Otherwise, I will be angry.",
-				"furigana": "あやまり なさい 。 さも ない と 、 おこり ます よ 。"
+				"originalPhrase": "謝りなさい。さもないと、怒りますよ。"
 			},
 			{
-				"phrase": "このバスに乗らなくてはいけない、さもないと学校に遅刻してしまう。",
+				"phrase": "このバスに<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>らなくてはいけない、さもないと<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>遅刻<rp>(</rp><rt>ちこく</rt><rp>)</rp></ruby>してしまう。",
 				"translation": "I have to get on this bus, otherwise I'll be late for school.",
-				"furigana": "この バス に のら なく て は いけ ない 、 さも ない と がっこう に ちこく し て しまう 。"
+				"originalPhrase": "このバスに乗らなくてはいけない、さもないと学校に遅刻してしまう。"
 			},
 			{
-				"phrase": "私は急がなければなりません、さもないと、バスに遅れます。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>がなければなりません、さもないと、バスに<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れます。",
 				"translation": "I have to hurry up, otherwise I'll miss the bus.",
-				"furigana": "わたし は いそが なけれ ば なり ませ ん 、 さも ない と 、 バス に おくれ ます 。"
+				"originalPhrase": "私は急がなければなりません、さもないと、バスに遅れます。"
 			},
 			{
-				"phrase": "ボタンを留めなさい。さもないと、風邪をひきますよ。",
+				"phrase": "ボタンを<ruby>留<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めなさい。さもないと、<ruby>風邪<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>をひきますよ。",
 				"translation": "Button up your coat, otherwise you will catch cold.",
-				"furigana": "ボタン を とめ なさい 。 さも ない と 、 かぜ を ひき ます よ 。"
+				"originalPhrase": "ボタンを留めなさい。さもないと、風邪をひきますよ。"
 			},
 			{
-				"phrase": "英語を勉強しなさい、さもないとテストに落ちますよ。",
+				"phrase": "<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しなさい、さもないとテストに<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>ちますよ。",
 				"translation": "Study English, otherwise you will fail the test.",
-				"furigana": "えいご を べんきょう し なさい 、 さも ない と テスト に おち ます よ 。"
+				"originalPhrase": "英語を勉強しなさい、さもないとテストに落ちますよ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1706",
@@ -217,29 +217,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "コーラか何かおごるよ。",
+				"phrase": "コーラか<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かおごるよ。",
 				"translation": "Let me buy you a coke or something.",
-				"furigana": "コーラ か なに か おごる よ 。"
+				"originalPhrase": "コーラか何かおごるよ。"
 			},
 			{
-				"phrase": "私はアイスクリームかなにか食べたいです。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はアイスクリームかなにか<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいです。",
 				"translation": "I want to eat ice creams or something.",
-				"furigana": "わたし は アイスクリーム か なにか たべ たい です 。"
+				"originalPhrase": "私はアイスクリームかなにか食べたいです。"
 			},
 			{
-				"phrase": "そこには猿か何かいます。",
+				"phrase": "そこには<ruby>猿<rp>(</rp><rt>さる</rt><rp>)</rp></ruby>か<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かいます。",
 				"translation": "There are monkeys or something there.",
-				"furigana": "そこ に は さる か なに かい ます 。"
+				"originalPhrase": "そこには猿か何かいます。"
 			},
 			{
-				"phrase": "冷たい飲み物か何かください。",
+				"phrase": "<ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たい<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>み<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>か<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かください。",
 				"translation": "Please give me a cool drink or something.",
-				"furigana": "つめたい のみもの か なに か ください 。"
+				"originalPhrase": "冷たい飲み物か何かください。"
 			},
 			{
-				"phrase": "野球か何かしたいです。",
+				"phrase": "<ruby>野球<rp>(</rp><rt>やきゅう</rt><rp>)</rp></ruby>か<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>かしたいです。",
 				"translation": "I want to play baseball or something.",
-				"furigana": "やきゅう か なに か し たい です 。"
+				"originalPhrase": "野球か何かしたいです。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1707",
@@ -259,27 +259,27 @@
 			{
 				"phrase": "あれはそんなによかったっけ？",
 				"translation": "Was it that good?",
-				"furigana": "あれ は そんなに よかった っけ ？"
+				"originalPhrase": "あれはそんなによかったっけ？"
 			},
 			{
-				"phrase": "いつ映画を見にいったっけ？",
+				"phrase": "いつ<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>にいったっけ？",
 				"translation": "When did we go to a movie?",
-				"furigana": "いつ えいが を み に いった っけ ？"
+				"originalPhrase": "いつ映画を見にいったっけ？"
 			},
 			{
-				"phrase": "どこまで話したっけ？",
+				"phrase": "どこまで<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>したっけ？",
 				"translation": "Where did I leave off?",
-				"furigana": "どこ まで はなし た っけ ？"
+				"originalPhrase": "どこまで話したっけ？"
 			},
 			{
-				"phrase": "ジョンの家はどこでしたっけ？",
+				"phrase": "ジョンの<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>はどこでしたっけ？",
 				"translation": "Where is John's house again?",
-				"furigana": "ジョン の いえ は どこ でし た っけ ？"
+				"originalPhrase": "ジョンの家はどこでしたっけ？"
 			},
 			{
-				"phrase": "お昼ご飯何食べたっけ？",
+				"phrase": "お<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたっけ？",
 				"translation": "What did I eat lunch today?",
-				"furigana": "おひる ごはん なに たべ た っけ ？"
+				"originalPhrase": "お昼ご飯何食べたっけ？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1710",
@@ -302,29 +302,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "彼はとてもあなたの様に見える。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はとてもあなたの<ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>に<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>える。",
 				"translation": "He looks just like you.",
-				"furigana": "かれ は とても あなた の よう に みえる 。"
+				"originalPhrase": "彼はとてもあなたの様に見える。"
 			},
 			{
-				"phrase": "この店はとても盛況のようだね。",
+				"phrase": "この<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>はとても<ruby>盛況<rp>(</rp><rt>せいきょう</rt><rp>)</rp></ruby>のようだね。",
 				"translation": "This shop looks like it is doing well.",
-				"furigana": "この みせ は とても せいきょう の よう だ ね 。"
+				"originalPhrase": "この店はとても盛況のようだね。"
 			},
 			{
-				"phrase": "彼はまるで王の様だった。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はまるで<ruby>王<rp>(</rp><rt>おう</rt><rp>)</rp></ruby>の<ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>だった。",
 				"translation": "He looked like a　king.",
-				"furigana": "かれ は まるで おう の よう だっ た 。"
+				"originalPhrase": "彼はまるで王の様だった。"
 			},
 			{
-				"phrase": "彼はお疲れの様だ。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はお<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れの<ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>だ。",
 				"translation": "He looks tired.",
-				"furigana": "かれ は お つかれ の よう だ 。"
+				"originalPhrase": "彼はお疲れの様だ。"
 			},
 			{
-				"phrase": "鬼の様な先生だ。",
+				"phrase": "<ruby>鬼<rp>(</rp><rt>おに</rt><rp>)</rp></ruby>の<ruby>様<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>な<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>だ。",
 				"translation": "A teacher look a devil.",
-				"furigana": "おに の よう な せんせい だ 。"
+				"originalPhrase": "鬼の様な先生だ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1713",
@@ -347,29 +347,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "わたしに飲み物を下さいませんか？",
+				"phrase": "わたしに<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>み<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さいませんか？",
 				"translation": "Please give me something to drink?",
-				"furigana": "わたし に のみもの を ください ませ ん か ？"
+				"originalPhrase": "わたしに飲み物を下さいませんか？"
 			},
 			{
-				"phrase": "英語で自己紹介して下さいませんか？",
+				"phrase": "<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>で<ruby>自己<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby><ruby>紹介<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby>して<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さいませんか？",
 				"translation": "Could you tell me about yourself in English?",
-				"furigana": "えいご で じこ しょうかい し て ください ませ ん か ？"
+				"originalPhrase": "英語で自己紹介して下さいませんか？"
 			},
 			{
-				"phrase": "その本を貸して下さいませんか？",
+				"phrase": "その<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>貸<rp>(</rp><rt>か</rt><rp>)</rp></ruby>して<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さいませんか？",
 				"translation": "Could you lend me the book?",
-				"furigana": "その ほん を かし て ください ませ ん か ？"
+				"originalPhrase": "その本を貸して下さいませんか？"
 			},
 			{
-				"phrase": "お代わりを下さいませんか？",
+				"phrase": "お<ruby>代<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わりを<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さいませんか？",
 				"translation": "Could you give me another one?",
-				"furigana": "お かわり を ください ませ ん か ？"
+				"originalPhrase": "お代わりを下さいませんか？"
 			},
 			{
-				"phrase": "もっとはっきり説明して下さいませんか？",
+				"phrase": "もっとはっきり<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>して<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さいませんか？",
 				"translation": "Would you explain that more clearly?",
-				"furigana": "もっと はっきり せつめい し て ください ませ ん か ？"
+				"originalPhrase": "もっとはっきり説明して下さいませんか？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1720",
@@ -387,29 +387,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "このペンをお借りしてもいいですか？",
+				"phrase": "このペンをお<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りしてもいいですか？",
 				"translation": "May I borrow this pen?",
-				"furigana": "この ペン を お かり し て も いい です か ？"
+				"originalPhrase": "このペンをお借りしてもいいですか？"
 			},
 			{
-				"phrase": "家に帰ってもいいですか？",
+				"phrase": "<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってもいいですか？",
 				"translation": "May I go back home?",
-				"furigana": "いえ に かえって も いい です か ？"
+				"originalPhrase": "家に帰ってもいいですか？"
 			},
 			{
-				"phrase": "机の上のりんごを食べてもいいですか？",
+				"phrase": "<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>のりんごを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べてもいいですか？",
 				"translation": "May I eat these apples on the table?",
-				"furigana": "つくえ の うえ の りんご を たべ て も いい です か ？"
+				"originalPhrase": "机の上のりんごを食べてもいいですか？"
 			},
 			{
-				"phrase": "ここに座ってもいいですか？",
+				"phrase": "ここに<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>ってもいいですか？",
 				"translation": "Do you mind if I sit here?",
-				"furigana": "ここ に すわって も いい です か ？"
+				"originalPhrase": "ここに座ってもいいですか？"
 			},
 			{
-				"phrase": "先生に話してもいいですか？",
+				"phrase": "<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>してもいいですか？",
 				"translation": "Can I talk to my teacher?",
-				"furigana": "せんせい に はなし て も いい です か ？"
+				"originalPhrase": "先生に話してもいいですか？"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1723",
@@ -427,29 +427,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "どうぞお座りください。",
+				"phrase": "どうぞお<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>りください。",
 				"translation": "Please sit down.",
-				"furigana": "どうぞ お すわり ください 。"
+				"originalPhrase": "どうぞお座りください。"
 			},
 			{
-				"phrase": "スナック菓子をご自由にどうぞ。",
+				"phrase": "スナック<ruby>菓子<rp>(</rp><rt>がし</rt><rp>)</rp></ruby>をご<ruby>自由<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>にどうぞ。",
 				"translation": "Help yourself to a snack.",
-				"furigana": "スナックがし を ご じゆう に どうぞ 。"
+				"originalPhrase": "スナック菓子をご自由にどうぞ。"
 			},
 			{
-				"phrase": "どうぞ座ったままで結構です。",
+				"phrase": "どうぞ<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>ったままで<ruby>結構<rp>(</rp><rt>けっこう</rt><rp>)</rp></ruby>です。",
 				"translation": "Please keep your seats.",
-				"furigana": "どうぞ すわった まま で けっこう です 。"
+				"originalPhrase": "どうぞ座ったままで結構です。"
 			},
 			{
 				"phrase": "どうぞごゆっくりしていってください。",
 				"translation": "You can stay as long as you like.",
-				"furigana": "どうぞ ご ゆっくり し て いって ください 。"
+				"originalPhrase": "どうぞごゆっくりしていってください。"
 			},
 			{
 				"phrase": "どうぞ、おっしゃってください。",
 				"translation": "Go ahead and say it.",
-				"furigana": "どうぞ 、 おっしゃって ください 。"
+				"originalPhrase": "どうぞ、おっしゃってください。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1717",
@@ -472,29 +472,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "時間がたつのも忘れちゃったよ",
+				"phrase": "<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がたつのも<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れちゃったよ",
 				"translation": "I lost track of time.",
-				"furigana": "じかん が たつ の も わすれ ちゃった よ"
+				"originalPhrase": "時間がたつのも忘れちゃったよ"
 			},
 			{
-				"phrase": "私は時間がたつのを待った。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がたつのを<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>った。",
 				"translation": "I waited for time to pass .",
-				"furigana": "わたし は じかん が たつ の を まった 。"
+				"originalPhrase": "私は時間がたつのを待った。"
 			},
 			{
-				"phrase": "忙しいときは時間がたつのが早い。",
+				"phrase": "<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しいときは<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がたつのが<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>い。",
 				"translation": "Time passes quickly when you're busy.",
-				"furigana": "いそがしい とき は じかん が たつ の が はやい 。"
+				"originalPhrase": "忙しいときは時間がたつのが早い。"
 			},
 			{
-				"phrase": "楽しいとき、時間がたつのは早い。",
+				"phrase": "<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいとき、<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がたつのは<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>い。",
 				"translation": "Time flies when you are having fun.",
-				"furigana": "たのしい とき 、 じかん が たつ の は はやい 。"
+				"originalPhrase": "楽しいとき、時間がたつのは早い。"
 			},
 			{
-				"phrase": "コンデンサは時間がたつと電荷を失う。",
+				"phrase": "コンデンサは<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>がたつと<ruby>電荷<rp>(</rp><rt>でんか</rt><rp>)</rp></ruby>を<ruby>失<rp>(</rp><rt>うしな</rt><rp>)</rp></ruby>う。",
 				"translation": "Capacitors lose their charge over time.",
-				"furigana": "コンデンサ は じかん が たつ と でんか を うしなう 。"
+				"originalPhrase": "コンデンサは時間がたつと電荷を失う。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1719",
@@ -512,29 +512,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "彼女は一日中泣いてました。",
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>いてました。",
 				"translation": "She cried all day.",
-				"furigana": "かのじょ は いち にち ちゅう ない て まし た 。"
+				"originalPhrase": "彼女は一日中泣いてました。"
 			},
 			{
-				"phrase": "その犬は一晩中ほえ続けた。",
+				"phrase": "その<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>ほえ<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けた。",
 				"translation": "The dog kept barking all night.",
-				"furigana": "その いぬ は いち ばん ちゅう ほえ つづけ た 。"
+				"originalPhrase": "その犬は一晩中ほえ続けた。"
 			},
 			{
-				"phrase": "会議中（ちゅう）にお腹がグーグー鳴っていて困ったよ。",
+				"phrase": "<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>（ちゅう）にお<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>がグーグー<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>っていて<ruby>困<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>ったよ。",
 				"translation": "My stomach started growling right there in the meeting. It was embarrassing.",
-				"furigana": "かいぎ ちゅう （ ち ゅう ） に おなか が グーグー なって い て こまった よ 。"
+				"originalPhrase": "会議中（ちゅう）にお腹がグーグー鳴っていて困ったよ。"
 			},
 			{
-				"phrase": "冬中暖房無しで過ごした。",
+				"phrase": "<ruby>冬<rp>(</rp><rt>ふゆ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby><ruby>暖房<rp>(</rp><rt>だんぼう</rt><rp>)</rp></ruby><ruby>無<rp>(</rp><rt>な</rt><rp>)</rp></ruby>しで<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ごした。",
 				"translation": "I did without heating all through the winter.",
-				"furigana": "ふゆ ちゅう だんぼう なし で すごし た 。"
+				"originalPhrase": "冬中暖房無しで過ごした。"
 			},
 			{
-				"phrase": "家内は海外旅行中（ちゅう）よく電話をかけてきた。",
+				"phrase": "<ruby>家内<rp>(</rp><rt>かない</rt><rp>)</rp></ruby>は<ruby>海外<rp>(</rp><rt>かいがい</rt><rp>)</rp></ruby><ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>（ちゅう）よく<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>をかけてきた。",
 				"translation": "My wife often rang me up during her travel abroad.",
-				"furigana": "かない は かいがい りょこう ちゅう （ ち ゅう ） よく でんわ を かけ て き た 。"
+				"originalPhrase": "家内は海外旅行中（ちゅう）よく電話をかけてきた。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/739",
@@ -552,29 +552,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "上例のように使えば、いいと思います。",
+				"phrase": "<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby><ruby>例<rp>(</rp><rt>れい</rt><rp>)</rp></ruby>のように<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>えば、いいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
 				"translation": "I think it is alright if you use it like the example above",
-				"furigana": "うえ れい の よう に つかえ ば 、 いい と おもい ます 。"
+				"originalPhrase": "上例のように使えば、いいと思います。"
 			},
 			{
-				"phrase": "忘れ物をしないようにご注意して下さい。",
+				"phrase": "<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>をしないようにご<ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>して<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい。",
 				"translation": "In order not to leave things, please take care (often heard on trains)",
-				"furigana": "わすれもの を し ない よう に ご ちゅうい し て ください 。"
+				"originalPhrase": "忘れ物をしないようにご注意して下さい。"
 			},
 			{
-				"phrase": "この度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。",
+				"phrase": "この<ruby>度<rp>(</rp><rt>たび</rt><rp>)</rp></ruby>の<ruby>流出<rp>(</rp><rt>りゅうしゅつ</rt><rp>)</rp></ruby>したデータを<ruby>入手<rp>(</rp><rt>にゅうしゅ</rt><rp>)</rp></ruby>された<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>はお<ruby>手数<rp>(</rp><rt>てかず</rt><rp>)</rp></ruby>ですが<ruby>削除<rp>(</rp><rt>さくじょ</rt><rp>)</rp></ruby>いただけますようお<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>い<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げます。",
 				"translation": "Please excuse us for the bother, but could those people who have acquired the data erroneously disseminated on this occasion please delete them.",
-				"furigana": "この たび の りゅうしゅつ し た データ を にゅうしゅ さ れ た ほう は おてかず です が さくじょ いただけ ます よう おねがい もうしあげ ます 。"
+				"originalPhrase": "この度の流出したデータを入手された方はお手数ですが削除いただけますようお願い申し上げます。"
 			},
 			{
-				"phrase": "あなたが元気になりますように",
+				"phrase": "あなたが<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>になりますように",
 				"translation": "I pray you get better soon.",
-				"furigana": "あなた が げんき に なり ます よう に"
+				"originalPhrase": "あなたが元気になりますように"
 			},
 			{
-				"phrase": "パソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。",
+				"phrase": "パソコン<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>が<ruby>煩雑<rp>(</rp><rt>はんざつ</rt><rp>)</rp></ruby>になってきましたので、<ruby>管理<rp>(</rp><rt>かんり</rt><rp>)</rp></ruby>しやすいように<ruby>徐々に<rp>(</rp><rt>じょじょに</rt><rp>)</rp></ruby><ruby>変更<rp>(</rp><rt>へんこう</rt><rp>)</rp></ruby>していきます。",
 				"translation": "The computer admin has become really tricky, so in order to make it easier to do, I'll be changing things bit by bit",
-				"furigana": "パソコン かんり が はんざつ に なって き まし た ので 、 かんり し やすい よう に じょじょに へんこう し て いき ます 。"
+				"originalPhrase": "パソコン管理が煩雑になってきましたので、管理しやすいように徐々に変更していきます。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1268",
@@ -592,29 +592,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "できるだけ早く参ります。",
+				"phrase": "できるだけ<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>参<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>ります。",
 				"translation": "I'll come as soon as I can.",
-				"furigana": "できるだけ はやく まいり ます 。"
+				"originalPhrase": "できるだけ早く参ります。"
 			},
 			{
-				"phrase": "この本はできるだけ早く返してくれ。",
+				"phrase": "この<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>はできるだけ<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>してくれ。",
 				"translation": "Return this book as soon as you can.",
-				"furigana": "この ほん は できるだけ はやく かえし て くれ 。"
+				"originalPhrase": "この本はできるだけ早く返してくれ。"
 			},
 			{
-				"phrase": "できるだけ早く起きなさい。",
+				"phrase": "できるだけ<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きなさい。",
 				"translation": "Get up as early as you can.",
-				"furigana": "できるだけ はやく おき なさい 。"
+				"originalPhrase": "できるだけ早く起きなさい。"
 			},
 			{
-				"phrase": "できるだけ速く走ったので、友人に追いつけた。",
+				"phrase": "できるだけ<ruby>速<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>ったので、<ruby>友人<rp>(</rp><rt>ゆうじん</rt><rp>)</rp></ruby>に<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いつけた。",
 				"translation": "Running as fast as I could, I was able to catch up with my friend.",
-				"furigana": "できるだけ はやく はしった ので 、 ゆうじん に おいつけ た 。"
+				"originalPhrase": "できるだけ速く走ったので、友人に追いつけた。"
 			},
 			{
-				"phrase": "彼はできるだけ長く生きたいと思っている。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はできるだけ<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>く<ruby>生<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っている。",
 				"translation": "He wants to live as long as he can.",
-				"furigana": "かれ は できるだけ ながく いき たい と おもって いる 。"
+				"originalPhrase": "彼はできるだけ長く生きたいと思っている。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1473",
@@ -632,29 +632,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "関係者は真実を明らかにせねばならない",
+				"phrase": "<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>は<ruby>真実<rp>(</rp><rt>しんじつ</rt><rp>)</rp></ruby>を<ruby>明<rp>(</rp><rt>あき</rt><rp>)</rp></ruby>らかにせねばならない",
 				"translation": "Those involved must tell the truth",
-				"furigana": "かんけい しゃ は しんじつ を あきらか に せ ね ば なら ない"
+				"originalPhrase": "関係者は真実を明らかにせねばならない"
 			},
 			{
-				"phrase": "これらの製品の新たなる販路を開拓せねばならない。",
+				"phrase": "これらの<ruby>製品<rp>(</rp><rt>せいひん</rt><rp>)</rp></ruby>の<ruby>新<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>たなる<ruby>販路<rp>(</rp><rt>はんろ</rt><rp>)</rp></ruby>を<ruby>開拓<rp>(</rp><rt>かいたく</rt><rp>)</rp></ruby>せねばならない。",
 				"translation": "We have to find a new market for these products.",
-				"furigana": "これら の せいひん の あらた なる はんろ を かいたく せ ね ば なら ない 。"
+				"originalPhrase": "これらの製品の新たなる販路を開拓せねばならない。"
 			},
 			{
-				"phrase": "是非とも目標を達成せねばならない。",
+				"phrase": "<ruby>是非<rp>(</rp><rt>ぜひ</rt><rp>)</rp></ruby>とも<ruby>目標<rp>(</rp><rt>もくひょう</rt><rp>)</rp></ruby>を<ruby>達成<rp>(</rp><rt>たっせい</rt><rp>)</rp></ruby>せねばならない。",
 				"translation": "I have to attain my purpose at all costs.",
-				"furigana": "ぜひ とも もくひょう を たっせい せ ね ば なら ない 。"
+				"originalPhrase": "是非とも目標を達成せねばならない。"
 			},
 			{
-				"phrase": "老人を尊敬せねばならない。",
+				"phrase": "<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>を<ruby>尊敬<rp>(</rp><rt>そんけい</rt><rp>)</rp></ruby>せねばならない。",
 				"translation": "You have to respect the old.",
-				"furigana": "ろうじん を そんけい せ ね ば なら ない 。"
+				"originalPhrase": "老人を尊敬せねばならない。"
 			},
 			{
-				"phrase": "私は彼に遅れをとらないように一生懸命勉強せねばならない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>に<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れをとらないように<ruby>一生懸命<rp>(</rp><rt>いっしょうけんめい</rt><rp>)</rp></ruby><ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>せねばならない。",
 				"translation": "I must study hard in order to keep up of him.",
-				"furigana": "わたし は かれ に おくれ を とら ない よう に いっしょうけんめい べんきょう せ ね ば なら ない 。"
+				"originalPhrase": "私は彼に遅れをとらないように一生懸命勉強せねばならない。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1519",
@@ -672,29 +672,29 @@
 		},
 		"phrases": [
 			{
-				"phrase": "それを自分に対して、ましてや他人に対して認めるのは、とても難しいことだ。",
+				"phrase": "それを<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して、ましてや<ruby>他人<rp>(</rp><rt>たにん</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して<ruby>認<rp>(</rp><rt>みと</rt><rp>)</rp></ruby>めるのは、とても<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいことだ。",
 				"translation": "It's very hard to admit that to yourself let alone to other people.",
-				"furigana": "それ を じぶん にたいして 、 ましてや たにん にたいして みとめる の は 、 とても むずかしい こと だ 。"
+				"originalPhrase": "それを自分に対して、ましてや他人に対して認めるのは、とても難しいことだ。"
 			},
 			{
-				"phrase": "私はギターを弾くことはできない。ましてやバイオリンは弾けない。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はギターを<ruby>弾<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>くことはできない。ましてやバイオリンは<ruby>弾<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>けない。",
 				"translation": "I can't play the guitar, much less the violin.",
-				"furigana": "わたし は ギター を ひく こと は でき ない 。 ましてや バイオリン は ひけ ない 。"
+				"originalPhrase": "私はギターを弾くことはできない。ましてやバイオリンは弾けない。"
 			},
 			{
-				"phrase": "私は誰にもこの時計を貸すつもりはありません。ましてや手放すつもりなど毛頭ありません。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>にもこの<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>を<ruby>貸<rp>(</rp><rt>か</rt><rp>)</rp></ruby>すつもりはありません。ましてや<ruby>手放<rp>(</rp><rt>てばな</rt><rp>)</rp></ruby>すつもりなど<ruby>毛頭<rp>(</rp><rt>もうとう</rt><rp>)</rp></ruby>ありません。",
 				"translation": "I have no intention of lending this watch to anyone, much less parting with it.",
-				"furigana": "わたし は だれ に も この とけい を かす つもり は あり ませ ん 。 ましてや てばなす つもり など もうとう あり ませ ん 。"
+				"originalPhrase": "私は誰にもこの時計を貸すつもりはありません。ましてや手放すつもりなど毛頭ありません。"
 			},
 			{
-				"phrase": "私は中古車を買う余裕などなく、ましてや新車などはもってのほかだ。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>中古<rp>(</rp><rt>ちゅうこ</rt><rp>)</rp></ruby><ruby>車<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>う<ruby>余裕<rp>(</rp><rt>よゆう</rt><rp>)</rp></ruby>などなく、ましてや<ruby>新車<rp>(</rp><rt>しんしゃ</rt><rp>)</rp></ruby>などはもってのほかだ。",
 				"translation": "I can't afford to buy a used car, much less a new car.",
-				"furigana": "わたし は ちゅうこ しゃ を かう よゆう など なく 、 ましてや しんしゃ など は もってのほか だ 。"
+				"originalPhrase": "私は中古車を買う余裕などなく、ましてや新車などはもってのほかだ。"
 			},
 			{
-				"phrase": "彼は、フランス語を話せる、ましてや英語も話せる。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は、フランス<ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>を<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる、ましてや<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>も<ruby>話<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>せる。",
 				"translation": "He can speak French, still more English.",
-				"furigana": "かれ は 、 フランスご を はなせる 、 ましてや えいご も はなせる 。"
+				"originalPhrase": "彼は、フランス語を話せる、ましてや英語も話せる。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1520",
@@ -720,29 +720,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "レンズを通して町を眺める。",
+				"phrase": "レンズを<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>して<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>を<ruby>眺<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>める。",
 				"translation": "View the town through a camera lens",
-				"furigana": "レンズ をとおして まち を ながめる 。"
+				"originalPhrase": "レンズを通して町を眺める。"
 			},
 			{
-				"phrase": "この目を通して見た現実。",
+				"phrase": "この<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>を<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>して<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>た<ruby>現実<rp>(</rp><rt>げんじつ</rt><rp>)</rp></ruby>。",
 				"translation": "Reality as seen with one's own eyes [through one's own eyes]",
-				"furigana": "この め をとおして み た げんじつ 。"
+				"originalPhrase": "この目を通して見た現実。"
 			},
 			{
-				"phrase": "紹介者を通して発注する。",
+				"phrase": "<ruby>紹介<rp>(</rp><rt>しょうかい</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>を<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>して<ruby>発注<rp>(</rp><rt>はっちゅう</rt><rp>)</rp></ruby>する。",
 				"translation": "Place an order through an intermediary",
-				"furigana": "しょうかい しゃ をとおして はっちゅう する 。"
+				"originalPhrase": "紹介者を通して発注する。"
 			},
 			{
-				"phrase": "通訳を通して会談する。",
+				"phrase": "<ruby>通訳<rp>(</rp><rt>つうやく</rt><rp>)</rp></ruby>を<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>して<ruby>会談<rp>(</rp><rt>かいだん</rt><rp>)</rp></ruby>する。",
 				"translation": "Hold discussions with the aid of [using the services of, through] an interpreter",
-				"furigana": "つうやく をとおして かいだん する 。"
+				"originalPhrase": "通訳を通して会談する。"
 			},
 			{
-				"phrase": "彼女の評判は田中さんを通して知っている。",
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>の<ruby>評判<rp>(</rp><rt>ひょうばん</rt><rp>)</rp></ruby>は<ruby>田中<rp>(</rp><rt>たなか</rt><rp>)</rp></ruby>さんを<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>して<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>っている。",
 				"translation": "I know of her reputation via [from] Mrs. Tanaka",
-				"furigana": "かのじょ の ひょうばん は たなか さん をとおして しって いる 。"
+				"originalPhrase": "彼女の評判は田中さんを通して知っている。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1679",
@@ -761,24 +761,24 @@
 		},
 		"phrases": [
 			{
-				"phrase": "あなたはたくさんお金をもっているが、私は少しも（お金を）持ってない。",
+				"phrase": "あなたはたくさんお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>をもっているが、<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しも（お<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>を）<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ってない。",
 				"translation": "You have a lot of money, and I have none.",
-				"furigana": "あなた は たくさん おかね を もって いる が 、 わたし は すこし も （ おかね を ） もって ない 。"
+				"originalPhrase": "あなたはたくさんお金をもっているが、私は少しも（お金を）持ってない。"
 			},
 			{
-				"phrase": "あなたは少しも幸せではない。",
+				"phrase": "あなたは<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しも<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せではない。",
 				"translation": "You are not in the least happy.",
-				"furigana": "あなた は すこし も しあわせ で は ない 。"
+				"originalPhrase": "あなたは少しも幸せではない。"
 			},
 			{
-				"phrase": "あなたは少しも眠れないことがある。",
+				"phrase": "あなたは<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しも<ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>れないことがある。",
 				"translation": "Sometimes you can't sleep at all.",
-				"furigana": "あなた は すこし も ねむれ ない こと が ある 。"
+				"originalPhrase": "あなたは少しも眠れないことがある。"
 			},
 			{
-				"phrase": "いいえ、少しも（ありません）。",
+				"phrase": "いいえ、<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>しも（ありません）。",
 				"translation": "Not at all.",
-				"furigana": "いいえ 、 すこし も （ あり ませ ん ） 。"
+				"originalPhrase": "いいえ、少しも（ありません）。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1478",
@@ -796,24 +796,24 @@
 		},
 		"phrases": [
 			{
-				"phrase": "だからこそ気になるものだ",
+				"phrase": "だからこそ<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>になるものだ",
 				"translation": "precisely what is so worrisome",
-				"furigana": "だからこそ き に なる もの だ"
+				"originalPhrase": "だからこそ気になるものだ"
 			},
 			{
-				"phrase": "だからこそ私は本当に〜したい。",
+				"phrase": "だからこそ<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>に〜したい。",
 				"translation": "and that's exactly why I would really like to...",
-				"furigana": "だからこそ わたし は ほんとうに 〜 し たい 。"
+				"originalPhrase": "だからこそ私は本当に〜したい。"
 			},
 			{
-				"phrase": "だからこそ注意しないといけないんだよ。",
+				"phrase": "だからこそ<ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>しないといけないんだよ。",
 				"translation": "All the more reason to be careful.",
-				"furigana": "だからこそ ちゅうい し ない と いけ ない ん だ よ 。"
+				"originalPhrase": "だからこそ注意しないといけないんだよ。"
 			},
 			{
-				"phrase": "あなたが来いと言ったからこそ私は来たんです。",
+				"phrase": "あなたが<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>いと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ったからこそ<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>たんです。",
 				"translation": "I came especially because you said to.",
-				"furigana": "あなた が こい と いった から こそ わたし は き た ん です 。"
+				"originalPhrase": "あなたが来いと言ったからこそ私は来たんです。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1494",
@@ -831,24 +831,24 @@
 		},
 		"phrases": [
 			{
-				"phrase": "本当にいくの? 行くってば！",
+				"phrase": "<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>にいくの? <ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くってば！",
 				"translation": "Will you really go there? I said I would go!",
-				"furigana": "ほんとうに いく の ?   いく って ば ！"
+				"originalPhrase": "本当にいくの? 行くってば！"
 			},
 			{
-				"phrase": "早く帰りなさいってば！",
+				"phrase": "<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りなさいってば！",
 				"translation": "I told you go home at once!",
-				"furigana": "はやく かえり なさい って ば ！"
+				"originalPhrase": "早く帰りなさいってば！"
 			},
 			{
-				"phrase": "何だってば！",
+				"phrase": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>だってば！",
 				"translation": "I say what’s that!",
-				"furigana": "なに だって ば ！"
+				"originalPhrase": "何だってば！"
 			},
 			{
 				"phrase": "マールでいいってば！",
 				"translation": "I'm telling you , Marle's fine!",
-				"furigana": "マール で いい って ば ！"
+				"originalPhrase": "マールでいいってば！"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1516",
@@ -871,24 +871,24 @@
 		],
 		"phrases": [
 			{
-				"phrase": "昔は新婚旅行といえばハワイだったが、今ではトルコやエジプトも珍しくない。",
+				"phrase": "<ruby>昔<rp>(</rp><rt>むかし</rt><rp>)</rp></ruby>は<ruby>新婚<rp>(</rp><rt>しんこん</rt><rp>)</rp></ruby><ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>といえばハワイだったが、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>ではトルコやエジプトも<ruby>珍<rp>(</rp><rt>めずら</rt><rp>)</rp></ruby>しくない。",
 				"translation": "Long ago, if mentioning honeymoon travel, you would think of Hawaii, but now Turkey and Egypt are also not unusual.",
-				"furigana": "むかし は しんこん りょこう と いえ ば ハワイ だっ た が 、 いま で は トルコ や エジプト も めずらしく ない 。"
+				"originalPhrase": "昔は新婚旅行といえばハワイだったが、今ではトルコやエジプトも珍しくない。"
 			},
 			{
-				"phrase": "おじは今では安楽に暮らしている。",
+				"phrase": "おじは<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>では<ruby>安楽<rp>(</rp><rt>あんらく</rt><rp>)</rp></ruby>に<ruby>暮<rp>(</rp><rt>く</rt><rp>)</rp></ruby>らしている。",
 				"translation": "My uncle now lives in comfort.",
-				"furigana": "おじ は いま で は あんらく に くらし て いる 。"
+				"originalPhrase": "おじは今では安楽に暮らしている。"
 			},
 			{
-				"phrase": "この型のカメラは今では流行遅れである。",
+				"phrase": "この<ruby>型<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>のカメラは<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>では<ruby>流行<rp>(</rp><rt>りゅうこう</rt><rp>)</rp></ruby><ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れである。",
 				"translation": "This type of camera is now out of fashion.",
-				"furigana": "この かた の カメラ は いま で は りゅうこう おくれ で ある 。"
+				"originalPhrase": "この型のカメラは今では流行遅れである。"
 			},
 			{
-				"phrase": "この言葉は今では用いられない。",
+				"phrase": "この<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>は<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>では<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いられない。",
 				"translation": "This word has gone out of use.",
-				"furigana": "この ことば は いま で は もちい られ ない 。"
+				"originalPhrase": "この言葉は今では用いられない。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1585",
@@ -909,14 +909,14 @@
 		],
 		"phrases": [
 			{
-				"phrase": "久しぶりに田舎へ帰りました。",
+				"phrase": "<ruby>久<rp>(</rp><rt>ひさ</rt><rp>)</rp></ruby>しぶりに<ruby>田舎<rp>(</rp><rt>いなか</rt><rp>)</rp></ruby>へ<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りました。",
 				"translation": "After a long time I returned back to my hometown.",
-				"furigana": "ひさしぶり に いなか へ かえり まし た 。"
+				"originalPhrase": "久しぶりに田舎へ帰りました。"
 			},
 			{
-				"phrase": "３年ぶりに日本に帰ってきました！",
+				"phrase": "３<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>ぶりに<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってきました！",
 				"translation": "I'm back to Japan after 3 years!",
-				"furigana": "３ ねん ぶり に にっぽん に かえって き まし た ！"
+				"originalPhrase": "３年ぶりに日本に帰ってきました！"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1686",
@@ -935,19 +935,19 @@
 		},
 		"phrases": [
 			{
-				"phrase": "どちらかと言えば海に行きたい。",
+				"phrase": "どちらかと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>えば<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたい。",
 				"translation": "If I had my druthers, I would like to go to the sea.",
-				"furigana": "どちら か と いえ ば うみ に いき たい 。"
+				"originalPhrase": "どちらかと言えば海に行きたい。"
 			},
 			{
-				"phrase": "どちらかといえば泳ぎはうまい方でした。",
+				"phrase": "どちらかといえば<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>ぎはうまい<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>でした。",
 				"translation": "He was, if anything, a good swimmer.",
-				"furigana": "どちら か と いえ ば およぎ は うまい ほう でし た 。"
+				"originalPhrase": "どちらかといえば泳ぎはうまい方でした。"
 			},
 			{
-				"phrase": "どちらかといえば今日はあの人に会いたくない。",
+				"phrase": "どちらかといえば<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>はあの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いたくない。",
 				"translation": "I would rather not see him(her) today.",
-				"furigana": "どちら か と いえ ば きょう は あの ひと に あい たく ない 。"
+				"originalPhrase": "どちらかといえば今日はあの人に会いたくない。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1477",
@@ -970,19 +970,19 @@
 		],
 		"phrases": [
 			{
-				"phrase": "したい放題にする",
+				"phrase": "したい<ruby>放題<rp>(</rp><rt>ほうだい</rt><rp>)</rp></ruby>にする",
 				"translation": "Do as you like.",
-				"furigana": "したい ほうだい に する"
+				"originalPhrase": "したい放題にする"
 			},
 			{
-				"phrase": "飲み放題",
+				"phrase": "<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>み<ruby>放題<rp>(</rp><rt>ほうだい</rt><rp>)</rp></ruby>",
 				"translation": "all you can drink",
-				"furigana": "のみ ほうだい"
+				"originalPhrase": "飲み放題"
 			},
 			{
-				"phrase": "食べ放題",
+				"phrase": "<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>放題<rp>(</rp><rt>ほうだい</rt><rp>)</rp></ruby>",
 				"translation": "all you can eat",
-				"furigana": "たべ ほうだい"
+				"originalPhrase": "食べ放題"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1651",
@@ -1005,19 +1005,19 @@
 		],
 		"phrases": [
 			{
-				"phrase": "第一回目試験を落第したから、受け直すつもりだよ。dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.",
+				"phrase": "<ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby><ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>を<ruby>落第<rp>(</rp><rt>らくだい</rt><rp>)</rp></ruby>したから、<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>け<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>すつもりだよ。dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo.",
 				"translation": "Since (I) failed the test the first time, (I'm) planning on re-taking it.",
-				"furigana": "だい いち かい め しけん を らくだい し た から 、 うけ なおす つもり だ よ 。 dai   ikkai   me   shiken   wo   rakudai   shita   kara ,   uke - naosu   tsumori   da   yo ."
+				"originalPhrase": "第一回目試験を落第したから、受け直すつもりだよ。dai ikkai me shiken wo rakudai shita kara, uke-naosu tsumori da yo."
 			},
 			{
 				"phrase": "やりなおす。",
 				"translation": "(I) will redo it.",
-				"furigana": "やりなおす 。"
+				"originalPhrase": "やりなおす。"
 			},
 			{
-				"phrase": "聞き直したがまだわからない。",
+				"phrase": "<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>き<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>したがまだわからない。",
 				"translation": "(I) listened to it again but I still don't understand it.",
-				"furigana": "きき なおし た が まだ わから ない 。"
+				"originalPhrase": "聞き直したがまだわからない。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1685",
@@ -1035,14 +1035,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "９時に彼女らと会うのか？そうするとビールを飲む時間はないんだよ！ くそ！",
+				"phrase": "９<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>らと<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>うのか？そうするとビールを<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>む<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>はないんだよ！ くそ！",
 				"translation": "We're meeting the girls at 9? That means there's no time to drink beer! Damnit!",
-				"furigana": "９ じ に かのじょら と あう の か ？ そうすると ビール を のむ じかん は ない ん だ よ ！   くそ ！"
+				"originalPhrase": "９時に彼女らと会うのか？そうするとビールを飲む時間はないんだよ！ くそ！"
 			},
 			{
-				"phrase": "そうするといやが上にも美しく見える。",
+				"phrase": "そうするといやが<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>にも<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しく<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>える。",
 				"translation": "That makes you much more attractive still.",
-				"furigana": "そうすると いや が うえ に も うつくしく みえる 。"
+				"originalPhrase": "そうするといやが上にも美しく見える。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1407",
@@ -1060,14 +1060,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "あの人はなんとなく母を想いださせる。",
+				"phrase": "あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>はなんとなく<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>を<ruby>想<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いださせる。",
 				"translation": "She vaguely resembles my mother.",
-				"furigana": "あの ひと は なんとなく はは を おもい ださ せる 。"
+				"originalPhrase": "あの人はなんとなく母を想いださせる。"
 			},
 			{
-				"phrase": "なんとなく京都に行きたくなった。",
+				"phrase": "なんとなく<ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたくなった。",
 				"translation": "Somehow I wanted to go to Kyoto.",
-				"furigana": "なんとなく きょうと に いき たく なった 。"
+				"originalPhrase": "なんとなく京都に行きたくなった。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1475",
@@ -1085,14 +1085,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "日本のソフトクリームとは、ラベンダーひとつとっても様々な珍しい味が楽しめる商品だ。",
+				"phrase": "<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>のソフトクリームとは、ラベンダーひとつとっても<ruby>様々<rp>(</rp><rt>さまざま</rt><rp>)</rp></ruby>な<ruby>珍<rp>(</rp><rt>めずら</rt><rp>)</rp></ruby>しい<ruby>味<rp>(</rp><rt>あじ</rt><rp>)</rp></ruby>が<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しめる<ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby>だ。",
 				"translation": "Japanese soft-serve ice cream is a product you can enjoy in a variety of exotic flavors, such as Lavender.",
-				"furigana": "にっぽん の ソフトクリーム と は 、 ラベンダー ひとつ とっても さまざま な めずらしい あじ が たのしめる しょうひん だ 。"
+				"originalPhrase": "日本のソフトクリームとは、ラベンダーひとつとっても様々な珍しい味が楽しめる商品だ。"
 			},
 			{
-				"phrase": "部屋探しひとつとっても外国人として日本に生活を始めるのが難しいと言われる。",
+				"phrase": "<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby><ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しひとつとっても<ruby>外国<rp>(</rp><rt>がいこく</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>として<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めるのが<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われる。",
 				"translation": "It is said that it is hard to start living in Japan as a foreigner; take the search for an apartment as an example.",
-				"furigana": "へや さがし ひとつ とっても がいこく じん として にっぽん に せいかつ を はじめる の が むずかしい と いわ れる 。"
+				"originalPhrase": "部屋探しひとつとっても外国人として日本に生活を始めるのが難しいと言われる。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1497",
@@ -1110,14 +1110,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "今日の天気が昨日のような天気だったら良かった。のに",
+				"phrase": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>のような<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>だったら<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>かった。のに",
 				"translation": "I wish today's weather had been as nice as yesterday's. のに",
-				"furigana": "きょう の てんき が きのう の よう な てんき だっ たら よかった 。 のに"
+				"originalPhrase": "今日の天気が昨日のような天気だったら良かった。のに"
 			},
 			{
-				"phrase": "雨さえやめばいいのになあ。",
+				"phrase": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>さえやめばいいのになあ。",
 				"translation": "If only it would stop raining!",
-				"furigana": "あめ さえ やめ ば いい のに なあ 。"
+				"originalPhrase": "雨さえやめばいいのになあ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1593",
@@ -1140,14 +1140,14 @@
 		],
 		"phrases": [
 			{
-				"phrase": "あなたは未だとても若い。未だ",
+				"phrase": "あなたは<ruby>未<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>だとても<ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>い。<ruby>未<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>だ",
 				"translation": "you are still very young still",
-				"furigana": "あなた は いまだ とても わかい 。 いまだ"
+				"originalPhrase": "あなたは未だとても若い。未だ"
 			},
 			{
-				"phrase": "宿題を未だ終わっていない。",
+				"phrase": "<ruby>宿題<rp>(</rp><rt>しゅくだい</rt><rp>)</rp></ruby>を<ruby>未<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>だ<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わっていない。",
 				"translation": "I still haven`t finished my homework.",
-				"furigana": "しゅくだい を いまだ おわって い ない 。"
+				"originalPhrase": "宿題を未だ終わっていない。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1624",
@@ -1165,14 +1165,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "とっさの機転で、災難を逃れることができた。",
+				"phrase": "とっさの<ruby>機転<rp>(</rp><rt>きてん</rt><rp>)</rp></ruby>で、<ruby>災難<rp>(</rp><rt>さいなん</rt><rp>)</rp></ruby>を<ruby>逃<rp>(</rp><rt>のが</rt><rp>)</rp></ruby>れることができた。",
 				"translation": "Due to my (instinctive) quick wits, I was able to escape the calamity.",
-				"furigana": "とっさ の きてん で 、 さいなん を のがれる こと が でき た 。"
+				"originalPhrase": "とっさの機転で、災難を逃れることができた。"
 			},
 			{
-				"phrase": "彼の反応はとっさに出たものだ。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>反応<rp>(</rp><rt>はんのう</rt><rp>)</rp></ruby>はとっさに<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>たものだ。",
 				"translation": "His response is automatic.",
-				"furigana": "かれ の はんのう は とっさ に で た もの だ 。"
+				"originalPhrase": "彼の反応はとっさに出たものだ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1631",
@@ -1208,14 +1208,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "何よりも、満員電車に乗らなくてもすむのはうれしい。",
+				"phrase": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>よりも、<ruby>満員<rp>(</rp><rt>まんいん</rt><rp>)</rp></ruby><ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>に<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>らなくてもすむのはうれしい。",
 				"translation": "Above anything, employees are happy for not having to ride on overcrowded trains.",
-				"furigana": "なに より も 、 まんいん でんしゃ に のら なく て も すむ の は うれしい 。"
+				"originalPhrase": "何よりも、満員電車に乗らなくてもすむのはうれしい。"
 			},
 			{
-				"phrase": "今度の試験は易しいから、あまり勉強しなくてもすむ。",
+				"phrase": "<ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>の<ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>は<ruby>易<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しいから、あまり<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しなくてもすむ。",
 				"translation": "The upcoming test should be easy, so I think I can get by without studying much.",
-				"furigana": "こんど の しけん は やさしい から 、 あまり べんきょう し なく て も すむ 。"
+				"originalPhrase": "今度の試験は易しいから、あまり勉強しなくてもすむ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1673",
@@ -1233,14 +1233,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "うちの息子ときたら、全然勉強しないで、ゲームばっかりしてるのよ。",
+				"phrase": "うちの<ruby>息子<rp>(</rp><rt>むすこ</rt><rp>)</rp></ruby>ときたら、<ruby>全然<rp>(</rp><rt>ぜんぜん</rt><rp>)</rp></ruby><ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>しないで、ゲームばっかりしてるのよ。",
 				"translation": "Speaking of my son, he is always playing games without studying.",
-				"furigana": "うち の むすこ とき たら 、 ぜんぜん べんきょう し ない で 、 ゲーム ばっかり し てる の よ 。"
+				"originalPhrase": "うちの息子ときたら、全然勉強しないで、ゲームばっかりしてるのよ。"
 			},
 			{
-				"phrase": "私ときたら、料理はまったくだめなのよ。",
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>ときたら、<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>はまったくだめなのよ。",
 				"translation": "I really can't cook at all.",
-				"furigana": "わたし と き たら 、 りょうり は まったく だめ な の よ 。"
+				"originalPhrase": "私ときたら、料理はまったくだめなのよ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1678",
@@ -1258,14 +1258,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "それは母体に良く、ひいてはお腹の赤ちゃんにも良い。",
+				"phrase": "それは<ruby>母体<rp>(</rp><rt>ぼたい</rt><rp>)</rp></ruby>に<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>く、ひいてはお<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>ちゃんにも<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>い。",
 				"translation": "It is good for the mother's body, which in turn is good for her coming baby.",
-				"furigana": "それ は ぼたい に よく 、 ひいては おなか の あかちゃん に も よい 。"
+				"originalPhrase": "それは母体に良く、ひいてはお腹の赤ちゃんにも良い。"
 			},
 			{
-				"phrase": "ひいては国際化に繋がるのだ ろうか?",
+				"phrase": "ひいては<ruby>国際<rp>(</rp><rt>こくさい</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>に<ruby>繋<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>がるのだ ろうか?",
 				"translation": "ENG Will this in turn lead to internationalization?",
-				"furigana": "ひいては こくさい か に つながる の だ   ろう か ?"
+				"originalPhrase": "ひいては国際化に繋がるのだ ろうか?"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1681",
@@ -1283,14 +1283,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "今年の収支は赤字であるからして、来年はなんとか黒字にしよう。",
+				"phrase": "<ruby>今年<rp>(</rp><rt>ことし</rt><rp>)</rp></ruby>の<ruby>収支<rp>(</rp><rt>しゅうし</rt><rp>)</rp></ruby>は<ruby>赤字<rp>(</rp><rt>あかじ</rt><rp>)</rp></ruby>であるからして、<ruby>来年<rp>(</rp><rt>らいねん</rt><rp>)</rp></ruby>はなんとか<ruby>黒字<rp>(</rp><rt>くろじ</rt><rp>)</rp></ruby>にしよう。",
 				"translation": "Our balance sheet is in the red this year; consequently ,let's try to somehow come out on top next year.",
-				"furigana": "ことし の しゅうし は あかじ で ある から し て 、 らいねん は なんとか くろじ に しよう 。"
+				"originalPhrase": "今年の収支は赤字であるからして、来年はなんとか黒字にしよう。"
 			},
 			{
-				"phrase": "そういう噂からして、あの二人は近々結婚するだろう。",
+				"phrase": "そういう<ruby>噂<rp>(</rp><rt>うわさ</rt><rp>)</rp></ruby>からして、あの<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>は<ruby>近々<rp>(</rp><rt>ちかぢか</rt><rp>)</rp></ruby><ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>するだろう。",
 				"translation": "Since that sort of rumor is going around, consequently, it's likely that those two will get married soon.",
-				"furigana": "そういう うわさ から し て 、 あの に にん は ちかぢか けっこん する だろ う 。"
+				"originalPhrase": "そういう噂からして、あの二人は近々結婚するだろう。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1778",
@@ -1308,14 +1308,14 @@
 		},
 		"phrases": [
 			{
-				"phrase": "iPadが欲しい。ミニだろうがエアーだろうが欲しい。",
+				"phrase": "iPadが<ruby>欲<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>しい。ミニだろうがエアーだろうが<ruby>欲<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>しい。",
 				"translation": "I want an iPad. Doesn't matter if Mini or Air, in any case I want it",
-				"furigana": "iPad が ほしい 。 ミニ だろ う が エアー だろ う が ほしい 。"
+				"originalPhrase": "iPadが欲しい。ミニだろうがエアーだろうが欲しい。"
 			},
 			{
-				"phrase": "住みやすかろうが住みにくかろうが、大事なのは家賃が低いことです",
+				"phrase": "<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>みやすかろうが<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>みにくかろうが、<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>なのは<ruby>家賃<rp>(</rp><rt>やちん</rt><rp>)</rp></ruby>が<ruby>低<rp>(</rp><rt>ひく</rt><rp>)</rp></ruby>いことです",
 				"translation": "Doesn't matter if it's nice to live there or not (nice to live), the important thing is a cheap rent",
-				"furigana": "すみ やすかろ う が すみ にくかろ う が 、 だいじ な の は やちん が ひくい こと です"
+				"originalPhrase": "住みやすかろうが住みにくかろうが、大事なのは家賃が低いことです"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1781",
@@ -1333,9 +1333,9 @@
 		},
 		"phrases": [
 			{
-				"phrase": "２人っきりでデート・・もとい、ＯＦＦ会だと思ったけど、そこまで甘くもないよな。",
+				"phrase": "２<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>っきりでデート・・もとい、ＯＦＦ<ruby>会<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>だと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>ったけど、そこまで<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>くもないよな。",
 				"translation": "So I thought my date er rather offline-meeting was going to be just me and her but I things aren't that easy.",
-				"furigana": "２ にん っきり で デート ・ ・ もと い 、 ＯＦＦ かい だ と おもった けど 、 そこ まで あまく も ない よ な 。"
+				"originalPhrase": "２人っきりでデート・・もとい、ＯＦＦ会だと思ったけど、そこまで甘くもないよな。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1587",
@@ -1358,9 +1358,9 @@
 		],
 		"phrases": [
 			{
-				"phrase": "彼におめでとうと伝えていただけませんか。",
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>におめでとうと<ruby>伝<rp>(</rp><rt>つた</rt><rp>)</rp></ruby>えていただけませんか。",
 				"translation": "Please tell him congratulations from me.",
-				"furigana": "かれ に おめでとう と つたえ て い た だけ ませ ん か 。"
+				"originalPhrase": "彼におめでとうと伝えていただけませんか。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1598",
@@ -1380,7 +1380,7 @@
 			{
 				"phrase": "The city that I live in is small,and moreover, it is very quiet.",
 				"translation": "住んでいる市は小さいし、それにとても静かな市です。",
-				"furigana": "The   city   that   I   live   in   is   small , and   moreover ,   it   is   very   quiet ."
+				"originalPhrase": "The city that I live in is small,and moreover, it is very quiet."
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1637",
@@ -1398,9 +1398,9 @@
 		},
 		"phrases": [
 			{
-				"phrase": "会社のメールに山田さんよりのレポートがあります。",
+				"phrase": "<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>のメールに<ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby>さんよりのレポートがあります。",
 				"translation": "There is a report from Mr. Yamada in the company's e-mail.",
-				"furigana": "かいしゃ の メール に やまだ さん より の レポート が あり ます 。"
+				"originalPhrase": "会社のメールに山田さんよりのレポートがあります。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1650",
@@ -1423,9 +1423,9 @@
 		],
 		"phrases": [
 			{
-				"phrase": "夜が次第に長くなる.",
+				"phrase": "<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby>が<ruby>次第<rp>(</rp><rt>しだい</rt><rp>)</rp></ruby>に<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>くなる.",
 				"translation": "The nights are gaining on the day.",
-				"furigana": "よる が しだいに ながく なる ."
+				"originalPhrase": "夜が次第に長くなる."
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1667",
@@ -1448,9 +1448,9 @@
 		],
 		"phrases": [
 			{
-				"phrase": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。",
+				"phrase": "<ruby>被疑<rp>(</rp><rt>ひぎ</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>が<ruby>検察官<rp>(</rp><rt>けんさつかん</rt><rp>)</rp></ruby>の、<ruby>自白<rp>(</rp><rt>じはく</rt><rp>)</rp></ruby>をすれば<ruby>起訴<rp>(</rp><rt>きそ</rt><rp>)</rp></ruby><ruby>猶予<rp>(</rp><rt>ゆうよ</rt><rp>)</rp></ruby>する<ruby>旨<rp>(</rp><rt>むね</rt><rp>)</rp></ruby>のことばを<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じた。",
 				"translation": "The suspect believed in the prosecutor's words THAT the prosecution would be delayed if he confessed.",
-				"furigana": "ひぎ しゃ が けんさつかん の 、 じはく を すれ ば きそ ゆうよ する むね の ことば を しんじ た 。"
+				"originalPhrase": "被疑者が検察官の、自白をすれば起訴猶予する旨のことばを信じた。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1669",
@@ -1473,9 +1473,9 @@
 		],
 		"phrases": [
 			{
-				"phrase": "Wikipediaはブリタニカ並みに正確だ。",
+				"phrase": "Wikipediaはブリタニカ<ruby>並<rp>(</rp><rt>な</rt><rp>)</rp></ruby>みに<ruby>正確<rp>(</rp><rt>せいかく</rt><rp>)</rp></ruby>だ。",
 				"translation": "Wikipedia is as accurate as Britannica",
-				"furigana": "Wikipedia は ブリタニカ なみ に せいかく だ 。"
+				"originalPhrase": "Wikipediaはブリタニカ並みに正確だ。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1682",
@@ -1495,7 +1495,7 @@
 			{
 				"phrase": "A contract with that company is worth next to nothing.",
 				"translation": "あの会社との契約はあってなきに等しいものです。",
-				"furigana": "A   contract   with   that   company   is   worth   next   to   nothing ."
+				"originalPhrase": "A contract with that company is worth next to nothing."
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1687",
@@ -1518,9 +1518,9 @@
 		],
 		"phrases": [
 			{
-				"phrase": "たばこを止めることにしました。",
+				"phrase": "たばこを<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めることにしました。",
 				"translation": "I have decided to quit smoking.",
-				"furigana": "たばこ を とめる こと に し まし た 。"
+				"originalPhrase": "たばこを止めることにしました。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1769",
@@ -1545,7 +1545,7 @@
 			{
 				"phrase": "Q. ピクニックは どこが　いいですか？　A. どこでも いいです。",
 				"translation": "Q. Where is the best spot for a picnic? A. Anywhere will do. (Whenever will be okay)",
-				"furigana": "Q .   ピクニック は   どこ が 　 いい です か ？ 　 A .   どこ でも   いい です 。"
+				"originalPhrase": "Q. ピクニックは どこが　いいですか？　A. どこでも いいです。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1771",
@@ -1563,9 +1563,9 @@
 		},
 		"phrases": [
 			{
-				"phrase": "能力のなさ",
+				"phrase": "<ruby>能力<rp>(</rp><rt>のうりょく</rt><rp>)</rp></ruby>のなさ",
 				"translation": "lack of ability",
-				"furigana": "のうりょく の な さ"
+				"originalPhrase": "能力のなさ"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1785",
@@ -1583,9 +1583,9 @@
 		},
 		"phrases": [
 			{
-				"phrase": "こんな大きなケーキをよくもひとりで食べられるものだ",
+				"phrase": "こんな<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きなケーキをよくもひとりで<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べられるものだ",
 				"translation": "How the hell could he eat a cake that big all by himself?",
-				"furigana": "こんな おおきな ケーキ を よくも ひとり で たべ られる もの だ"
+				"originalPhrase": "こんな大きなケーキをよくもひとりで食べられるものだ"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/1787",
@@ -1712,29 +1712,29 @@
 		],
 		"phrases": [
 			{
-				"phrase": "両親に相談したあげくに、彼と離婚することにした。",
+				"phrase": "<ruby>両親<rp>(</rp><rt>りょうしん</rt><rp>)</rp></ruby>に<ruby>相談<rp>(</rp><rt>そうだん</rt><rp>)</rp></ruby>したあげくに、<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>と<ruby>離婚<rp>(</rp><rt>りこん</rt><rp>)</rp></ruby>することにした。",
 				"translation": "After talking with both (his) parents the end result was that I decided to divorce him.",
-				"furigana": "りょうしん に そうだん し た あげく に 、 かれ と りこん する こと に し た 。"
+				"originalPhrase": "両親に相談したあげくに、彼と離婚することにした。"
 			},
 			{
-				"phrase": "挙げ句の果てに彼は刑務所行きになった。",
+				"phrase": "<ruby>挙<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げ<ruby>句<rp>(</rp><rt>く</rt><rp>)</rp></ruby>の<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>てに<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>刑務所<rp>(</rp><rt>けいむしょ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きになった。",
 				"translation": "In the end he landed up in jail.",
-				"furigana": "あげく の はて に かれ は けいむしょ いき に なった 。"
+				"originalPhrase": "挙げ句の果てに彼は刑務所行きになった。"
 			},
 			{
-				"phrase": "4頭の象が酔っ払った挙句の果てに高圧線に襲い掛かって感電死。",
+				"phrase": "4<ruby>頭<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>の<ruby>象<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>が<ruby>酔<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>っ<ruby>払<rp>(</rp><rt>ぱら</rt><rp>)</rp></ruby>った<ruby>挙句<rp>(</rp><rt>あげく</rt><rp>)</rp></ruby>の<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>てに<ruby>高圧線<rp>(</rp><rt>こうあつせん</rt><rp>)</rp></ruby>に<ruby>襲<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>い<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>かって<ruby>感電<rp>(</rp><rt>かんでん</rt><rp>)</rp></ruby><ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>。",
 				"translation": "Four elephants get drunk and in the end crashed into high-voltage power lines, electrocuted.",
-				"furigana": "4 とう の ぞう が よっぱらった あげく の はて に こうあつせん に おそい かかって かんでん し 。"
+				"originalPhrase": "4頭の象が酔っ払った挙句の果てに高圧線に襲い掛かって感電死。"
 			},
 			{
-				"phrase": "散々考えた挙げ句その計画を実行にうつした",
+				"phrase": "<ruby>散々<rp>(</rp><rt>さんざん</rt><rp>)</rp></ruby><ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えた<ruby>挙<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げ<ruby>句<rp>(</rp><rt>く</rt><rp>)</rp></ruby>その<ruby>計画<rp>(</rp><rt>けいかく</rt><rp>)</rp></ruby>を<ruby>実行<rp>(</rp><rt>じっこう</rt><rp>)</rp></ruby>にうつした",
 				"translation": "After hard thinking , I carried out the plan",
-				"furigana": "さんざん かんがえ た あげく その けいかく を じっこう に うつし た"
+				"originalPhrase": "散々考えた挙げ句その計画を実行にうつした"
 			},
 			{
-				"phrase": "彼女はみんなにさんざん迷惑をかけたあげく、あいさつもしないで会社をやめていった。",
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>はみんなにさんざん<ruby>迷惑<rp>(</rp><rt>めいわく</rt><rp>)</rp></ruby>をかけたあげく、あいさつもしないで<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>をやめていった。",
 				"translation": "After she gave people a great deal of trouble, she left the company without even saying good-bye.",
-				"furigana": "かのじょ は みんな に さんざん めいわく を かけ た あげく 、 あいさつ も し ない で かいしゃ を やめ て いった 。"
+				"originalPhrase": "彼女はみんなにさんざん迷惑をかけたあげく、あいさつもしないで会社をやめていった。"
 			}
 		],
 		"source": "https://takoboto.jp/bunpo/978",
