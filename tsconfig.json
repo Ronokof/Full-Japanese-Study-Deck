@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         // Modules
-        "target": "ES6",
+        "target": "esnext",
         "module": "CommonJS",
         "lib": [
             "ES2019",

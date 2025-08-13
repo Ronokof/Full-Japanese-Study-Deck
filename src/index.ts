@@ -13,7 +13,7 @@ async function getVocabEntries(): Promise<void> {
   return await new Promise<void>(async (resolve: (value: void | PromiseLike<void>) => void, reject: (reason?: any) => void) => {
     try {
       if (existsSync(resultPaths.vocabJLPT!)) {
-        let vocabFiles: string[] = readdirSync(resultPaths.vocabJLPT!, 'utf-8');
+        const vocabFiles: string[] = readdirSync(resultPaths.vocabJLPT!, 'utf-8');
 
         if (vocabFiles.length > 0) {
           if (!vocabFiles.every((file: string) => fileNames.vocabJLPT.some((name: string) => name === path.parse(file).name.trim())))
@@ -33,7 +33,7 @@ async function getKanjiEntries(): Promise<void> {
   return await new Promise<void>(async (resolve: (value: void | PromiseLike<void>) => void, reject: (reason?: any) => void) => {
     try {
       if (existsSync(resultPaths.kanjiJLPT!)) {
-        let kanjiFiles: string[] = readdirSync(resultPaths.kanjiJLPT!, 'utf-8');
+        const kanjiFiles: string[] = readdirSync(resultPaths.kanjiJLPT!, 'utf-8');
 
         if (kanjiFiles.length > 0) {
           if (!kanjiFiles.every((file: string) => fileNames.kanjiJLPT.some((name: string) => name === path.parse(file).name.trim())))
@@ -53,7 +53,7 @@ async function getRadicalEntries(): Promise<void> {
   return await new Promise<void>(async (resolve: (value: void | PromiseLike<void>) => void, reject: (reason?: any) => void) => {
     try {
       if (existsSync(resultPaths.radicals!)) {
-        let radicalsFiles: string[] = readdirSync(resultPaths.radicals!, 'utf-8');
+        const radicalsFiles: string[] = readdirSync(resultPaths.radicals!, 'utf-8');
 
         if (!radicalsFiles.includes('radicals.txt')) getRadicals();
       } else getRadicals();
@@ -70,7 +70,7 @@ async function getKanaEntries(): Promise<void> {
   return await new Promise<void>(async (resolve: (value: void | PromiseLike<void>) => void, reject: (reason?: any) => void) => {
     try {
       if (existsSync(resultPaths.kana!)) {
-        let kanaFiles: string[] = readdirSync(resultPaths.kana!, 'utf-8');
+        const kanaFiles: string[] = readdirSync(resultPaths.kana!, 'utf-8');
 
         if (kanaFiles.length > 0) {
           if (!kanaFiles.every((file: string) => fileNames.kana.some((name: string) => name === path.parse(file).name.trim())))
@@ -90,7 +90,7 @@ async function getGrammarEntries(): Promise<void> {
   return await new Promise<void>(async (resolve: (value: void | PromiseLike<void>) => void, reject: (reason?: any) => void) => {
     try {
       if (existsSync(resultPaths.grammar!)) {
-        let grammarFiles: string[] = readdirSync(resultPaths.grammar!, 'utf-8');
+        const grammarFiles: string[] = readdirSync(resultPaths.grammar!, 'utf-8');
 
         if (grammarFiles.length > 0) {
           if (!grammarFiles.every((file: string) => fileNames.grammar.some((name: string) => name === path.parse(file).name.trim())))

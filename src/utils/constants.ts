@@ -58,8 +58,8 @@ export const noteTypes: NoteTypes = {
 
 export const dictsDir: string = path.resolve('./dicts');
 export const svgDir: string = path.resolve('./svgs');
-export const jpdbFile: string = path.resolve('./results/jpdb.json');
-export const jpdbRadicalsFile: string = path.resolve('./results/jpdb-radicals.json');
+export const kanjiInfoFile: string = path.resolve('./results/kanji-info.json');
+export const radicalInfoFile: string = path.resolve('./results/radical-info.json');
 
 export const dictsNames: { jmdict: string, kanjidic: string, tanaka: string, radk: string, krad: string } = {
 	jmdict: 'JMdict_e',
@@ -86,11 +86,23 @@ export const resultPaths: { vocabJLPT: string, kanjiJLPT: string, radicals: stri
 	kanaWords: path.resolve('./results/kana-words')
 };
 
-export const regexps: { hiragana: RegExp, katakana: RegExp, kanji: RegExp } = {
+export const regexps: { hiragana: RegExp, katakana: RegExp, kanji: RegExp, scriptSplit: RegExp, regExChars: RegExp, tanakaID: RegExp, tanakaPart: RegExp, tanakaReferenceID: RegExp } = {
 	hiragana: /[\u{3040}-\u{309F}]/u,
 	katakana: /[\u{30A0}-\u{30FF}]/u,
-	kanji: /([\u{4E00}-\u{9FFF}\u{3400}-\u{4DBF}\u{20000}-\u{2A6DF}\u{2A700}-\u{2B73F}\u{2B740}-\u{2B81F}\u{2B820}-\u{2CEA1}\u{2CEB0}-\u{2EBE0}\u{30000}-\u{3134A}\u{31350}-\u{323AF}\u{2EBF0}-\u{2EE5F}\u{F900}-\u{FAFF}\u{2F800}-\u{2FA1F}]{1})/u
+	kanji: /([\u{4E00}-\u{9FFF}\u{3400}-\u{4DBF}\u{20000}-\u{2A6DF}\u{2A700}-\u{2B73F}\u{2B740}-\u{2B81F}\u{2B820}-\u{2CEA1}\u{2CEB0}-\u{2EBE0}\u{30000}-\u{3134A}\u{31350}-\u{323AF}\u{2EBF0}-\u{2EE5F}\u{F900}-\u{FAFF}\u{2F800}-\u{2FA1F}]{1})/u,
+	scriptSplit: /([\p{sc=Han}]+|[\p{sc=Hiragana}]+|[\p{sc=Katakana}]+|[^\p{sc=Han}\p{sc=Hiragana}\p{sc=Katakana}]+)/u,
+	regExChars: /[-\/\\^$*+?.()|[\]{}]/,
+	tanakaID: /#ID=\d+_\d+$/,
+	tanakaPart: /(?<base>[^()\[\]\{\}\s]+)(?:\((?<reading>[\S]+)\))?(?:\[(?<glossnum>[\S]+)\])?(?:\{(?<inflection>[\S]+)\})?/,
+	tanakaReferenceID: /#([\d]+)/
 };
+
+export const notSearchedForms: Set<string> = new Set<string>([
+	'Search-only kana form',
+	'Rarely used kana form',
+	'Out-dated or obsolete kana usage',
+	'Word containing out-dated kanji or kanji usage'
+]);
 
 export const noteMap: Map<string, string> = new Map<string, string>([
 	["dialect: brazilian", "dialect::brazilian"],
