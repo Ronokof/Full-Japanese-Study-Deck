@@ -9,7 +9,7 @@
 ### **Prerequisites**
 - [Install Anki](https://docs.ankiweb.net/getting-started.html#installing--upgrading)
 - [Download the deck](https://docs.ankiweb.net/getting-started.html#shared-decks): the blue "Download" button is located at the end of this description, right after the "Sample (from *X* notes)" section
-- Rememeber to enable the **[Don’t play audio automatically](https://docs.ankiweb.net/deck-options.html#audio)** setting from the [deck's options](https://docs.ankiweb.net/deck-options.html).
+- Remember to enable the **[Don’t play audio automatically](https://docs.ankiweb.net/deck-options.html#audio)** setting from the [deck's options](https://docs.ankiweb.net/deck-options.html).
 - Consult the [Anki Manual](https://docs.ankiweb.net/) if you have other issues or questions regarding Anki
 
 ### Start with the **Kana** subdeck (if you have not learned kana yet)
