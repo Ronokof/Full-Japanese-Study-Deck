@@ -26,7 +26,7 @@
   "dependencies": {
     "@aws-sdk/client-polly": "^3.864.0",
     "dotenv": "^17.2.1",
-    "iconv-lite": "^0.6.3",
+    "iconv-lite": "^0.7.0",
     "jsdom": "^26.1.0",
     "kuroshiro": "^1.2.0",
     "kuroshiro-analyzer-kuromoji": "^1.1.0",
