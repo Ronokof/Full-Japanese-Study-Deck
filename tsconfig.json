@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         // Modules
-        "target": "esnext",
+        "target": "es2024",
         "module": "CommonJS",
         "lib": [
             "ES2019",

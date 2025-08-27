@@ -1,6 +1,6 @@
 {
   "name": "full-japanese-study-deck",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Raw Anki notes and a notes build script for the Full Japanese Study Deck",
   "keywords": ["fjsd", "japanese", "japanese-language", "japanese-learning", "anki-cards", "anki-deck", "anki", "katakana", "hiragana", "kana", "kanji", "japanese-grammar", "jlpt"],
   "license": "SEE LICENSE IN LICENSE.md",
@@ -24,7 +24,7 @@
     "start-with-audio": "ts-node ./src/index.ts --with-audio"
   },
   "dependencies": {
-    "@aws-sdk/client-polly": "^3.864.0",
+    "@aws-sdk/client-polly": "^3.876.0",
     "dotenv": "^17.2.1",
     "iconv-lite": "^0.7.0",
     "jsdom": "^26.1.0",
@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@types/jsdom": "^21.1.7",
-    "@types/node": "^24.2.1",
+    "@types/node": "^24.3.0",
     "@types/xml2js": "^0.4.14",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"

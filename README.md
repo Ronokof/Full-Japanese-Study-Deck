@@ -57,8 +57,8 @@
 - **5,774 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **756 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
-- **30,920 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **896 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
+- **29,511 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 
@@ -80,11 +80,11 @@ This deck is compiled from and inspired by multiple projects:
 
 This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jpdb.io/). If my usage of your content violates your policies or you want your content removed from this deck, please feel free to contact me.
 
-## **Build your own deck**
+## **Build Your Own Deck**
 
 If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made the deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Follow the "Setup" section inside [this file](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
 
-## **Report an issue or contribute**
+## **Report an Issue or Contribute**
 
 Contribute or report any issues [here](https://github.com/Ronokof/Full-Japanese-Study-Deck/issues).
 
