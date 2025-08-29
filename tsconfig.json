@@ -2,14 +2,9 @@
     "compilerOptions": {
         // Modules
         "target": "es2024",
-        "module": "CommonJS",
-        "lib": [
-            "ES2019",
-            "ES2020",
-            "ES2021",
-            "DOM"
-        ],
+        "module": "node20",
         "allowUmdGlobalAccess": true,
+        "moduleResolution": "node16",
         "resolveJsonModule": true,
 
         // Type checking
