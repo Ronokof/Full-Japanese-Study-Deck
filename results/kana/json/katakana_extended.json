@@ -8,7 +8,9 @@
 		],
 		"id": "84148224",
 		"svg": "030f0.svg",
-		"noteID": "kana_ヰ"
+		"noteID": "kana_ヰ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヱ",
@@ -19,7 +21,9 @@
 		],
 		"id": "84148225",
 		"svg": "030f1.svg",
-		"noteID": "kana_ヱ"
+		"noteID": "kana_ヱ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "キャ",
@@ -29,7 +33,9 @@
 			"katakana_extended"
 		],
 		"id": "84148226",
-		"noteID": "kana_キャ"
+		"noteID": "kana_キャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "キュ",
@@ -39,7 +45,9 @@
 			"katakana_extended"
 		],
 		"id": "84148227",
-		"noteID": "kana_キュ"
+		"noteID": "kana_キュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "キュウ",
@@ -49,7 +57,9 @@
 			"katakana_extended"
 		],
 		"id": "84148228",
-		"noteID": "kana_キュウ"
+		"noteID": "kana_キュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "キョ",
@@ -59,7 +69,9 @@
 			"katakana_extended"
 		],
 		"id": "84148229",
-		"noteID": "kana_キョ"
+		"noteID": "kana_キョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "キョウ",
@@ -69,7 +81,9 @@
 			"katakana_extended"
 		],
 		"id": "84148230",
-		"noteID": "kana_キョウ"
+		"noteID": "kana_キョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "シャ",
@@ -79,7 +93,9 @@
 			"katakana_extended"
 		],
 		"id": "84148231",
-		"noteID": "kana_シャ"
+		"noteID": "kana_シャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "シュ",
@@ -89,7 +105,9 @@
 			"katakana_extended"
 		],
 		"id": "84148232",
-		"noteID": "kana_シュ"
+		"noteID": "kana_シュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "シュウ",
@@ -99,7 +117,9 @@
 			"katakana_extended"
 		],
 		"id": "84148233",
-		"noteID": "kana_シュウ"
+		"noteID": "kana_シュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ショ",
@@ -109,7 +129,9 @@
 			"katakana_extended"
 		],
 		"id": "84148234",
-		"noteID": "kana_ショ"
+		"noteID": "kana_ショ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ショウ",
@@ -119,7 +141,9 @@
 			"katakana_extended"
 		],
 		"id": "84148235",
-		"noteID": "kana_ショウ"
+		"noteID": "kana_ショウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "チャ",
@@ -129,7 +153,9 @@
 			"katakana_extended"
 		],
 		"id": "84148236",
-		"noteID": "kana_チャ"
+		"noteID": "kana_チャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "チュ",
@@ -139,7 +165,9 @@
 			"katakana_extended"
 		],
 		"id": "84148237",
-		"noteID": "kana_チュ"
+		"noteID": "kana_チュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "チュウ",
@@ -149,7 +177,9 @@
 			"katakana_extended"
 		],
 		"id": "84148238",
-		"noteID": "kana_チュウ"
+		"noteID": "kana_チュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "チョ",
@@ -159,7 +189,9 @@
 			"katakana_extended"
 		],
 		"id": "84148239",
-		"noteID": "kana_チョ"
+		"noteID": "kana_チョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "チョウ",
@@ -169,7 +201,9 @@
 			"katakana_extended"
 		],
 		"id": "84148240",
-		"noteID": "kana_チョウ"
+		"noteID": "kana_チョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ニャ",
@@ -179,7 +213,9 @@
 			"katakana_extended"
 		],
 		"id": "84148241",
-		"noteID": "kana_ニャ"
+		"noteID": "kana_ニャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ニュ",
@@ -189,7 +225,9 @@
 			"katakana_extended"
 		],
 		"id": "84148242",
-		"noteID": "kana_ニュ"
+		"noteID": "kana_ニュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ニュウ",
@@ -199,7 +237,9 @@
 			"katakana_extended"
 		],
 		"id": "84148243",
-		"noteID": "kana_ニュウ"
+		"noteID": "kana_ニュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ニョ",
@@ -209,7 +249,9 @@
 			"katakana_extended"
 		],
 		"id": "84148244",
-		"noteID": "kana_ニョ"
+		"noteID": "kana_ニョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ニョウ",
@@ -219,7 +261,9 @@
 			"katakana_extended"
 		],
 		"id": "84148245",
-		"noteID": "kana_ニョウ"
+		"noteID": "kana_ニョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヒャ",
@@ -229,7 +273,9 @@
 			"katakana_extended"
 		],
 		"id": "84148246",
-		"noteID": "kana_ヒャ"
+		"noteID": "kana_ヒャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヒュ",
@@ -239,7 +285,9 @@
 			"katakana_extended"
 		],
 		"id": "84148247",
-		"noteID": "kana_ヒュ"
+		"noteID": "kana_ヒュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヒュウ",
@@ -249,7 +297,9 @@
 			"katakana_extended"
 		],
 		"id": "84148248",
-		"noteID": "kana_ヒュウ"
+		"noteID": "kana_ヒュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヒョ",
@@ -259,7 +309,9 @@
 			"katakana_extended"
 		],
 		"id": "84148249",
-		"noteID": "kana_ヒョ"
+		"noteID": "kana_ヒョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヒョウ",
@@ -269,7 +321,9 @@
 			"katakana_extended"
 		],
 		"id": "84148250",
-		"noteID": "kana_ヒョウ"
+		"noteID": "kana_ヒョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ミャ",
@@ -279,7 +333,9 @@
 			"katakana_extended"
 		],
 		"id": "84148251",
-		"noteID": "kana_ミャ"
+		"noteID": "kana_ミャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ミュ",
@@ -289,7 +345,9 @@
 			"katakana_extended"
 		],
 		"id": "84148252",
-		"noteID": "kana_ミュ"
+		"noteID": "kana_ミュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ミュウ",
@@ -299,7 +357,9 @@
 			"katakana_extended"
 		],
 		"id": "84148253",
-		"noteID": "kana_ミュウ"
+		"noteID": "kana_ミュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ミョ",
@@ -309,7 +369,9 @@
 			"katakana_extended"
 		],
 		"id": "84148254",
-		"noteID": "kana_ミョ"
+		"noteID": "kana_ミョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ミョウ",
@@ -319,7 +381,9 @@
 			"katakana_extended"
 		],
 		"id": "84148255",
-		"noteID": "kana_ミョウ"
+		"noteID": "kana_ミョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "リャ",
@@ -329,7 +393,9 @@
 			"katakana_extended"
 		],
 		"id": "84148256",
-		"noteID": "kana_リャ"
+		"noteID": "kana_リャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "リュ",
@@ -339,7 +405,9 @@
 			"katakana_extended"
 		],
 		"id": "84148257",
-		"noteID": "kana_リュ"
+		"noteID": "kana_リュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "リュウ",
@@ -349,7 +417,9 @@
 			"katakana_extended"
 		],
 		"id": "84148258",
-		"noteID": "kana_リュウ"
+		"noteID": "kana_リュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "リョ",
@@ -359,7 +429,9 @@
 			"katakana_extended"
 		],
 		"id": "84148259",
-		"noteID": "kana_リョ"
+		"noteID": "kana_リョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "リョウ",
@@ -369,7 +441,9 @@
 			"katakana_extended"
 		],
 		"id": "84148260",
-		"noteID": "kana_リョウ"
+		"noteID": "kana_リョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ギャ",
@@ -379,7 +453,9 @@
 			"katakana_extended"
 		],
 		"id": "84148261",
-		"noteID": "kana_ギャ"
+		"noteID": "kana_ギャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ギュ",
@@ -389,7 +465,9 @@
 			"katakana_extended"
 		],
 		"id": "84148262",
-		"noteID": "kana_ギュ"
+		"noteID": "kana_ギュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ギュウ",
@@ -399,7 +477,9 @@
 			"katakana_extended"
 		],
 		"id": "84148263",
-		"noteID": "kana_ギュウ"
+		"noteID": "kana_ギュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ギョ",
@@ -409,7 +489,9 @@
 			"katakana_extended"
 		],
 		"id": "84148264",
-		"noteID": "kana_ギョ"
+		"noteID": "kana_ギョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ギョウ",
@@ -419,7 +501,9 @@
 			"katakana_extended"
 		],
 		"id": "84148265",
-		"noteID": "kana_ギョウ"
+		"noteID": "kana_ギョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ジャ",
@@ -429,7 +513,9 @@
 			"katakana_extended"
 		],
 		"id": "84148266",
-		"noteID": "kana_ジャ"
+		"noteID": "kana_ジャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ジュ",
@@ -439,7 +525,9 @@
 			"katakana_extended"
 		],
 		"id": "84148267",
-		"noteID": "kana_ジュ"
+		"noteID": "kana_ジュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ジュウ",
@@ -449,7 +537,9 @@
 			"katakana_extended"
 		],
 		"id": "84148268",
-		"noteID": "kana_ジュウ"
+		"noteID": "kana_ジュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ジョ",
@@ -459,7 +549,9 @@
 			"katakana_extended"
 		],
 		"id": "84148269",
-		"noteID": "kana_ジョ"
+		"noteID": "kana_ジョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ジョウ",
@@ -469,7 +561,9 @@
 			"katakana_extended"
 		],
 		"id": "84148270",
-		"noteID": "kana_ジョウ"
+		"noteID": "kana_ジョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヂャ",
@@ -479,7 +573,9 @@
 			"katakana_extended"
 		],
 		"id": "84148271",
-		"noteID": "kana_ヂャ"
+		"noteID": "kana_ヂャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヂュ",
@@ -489,7 +585,9 @@
 			"katakana_extended"
 		],
 		"id": "84148272",
-		"noteID": "kana_ヂュ"
+		"noteID": "kana_ヂュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヂュウ",
@@ -499,7 +597,9 @@
 			"katakana_extended"
 		],
 		"id": "84148273",
-		"noteID": "kana_ヂュウ"
+		"noteID": "kana_ヂュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヂョ",
@@ -509,7 +609,9 @@
 			"katakana_extended"
 		],
 		"id": "84148274",
-		"noteID": "kana_ヂョ"
+		"noteID": "kana_ヂョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヂョウ",
@@ -519,7 +621,9 @@
 			"katakana_extended"
 		],
 		"id": "84148275",
-		"noteID": "kana_ヂョウ"
+		"noteID": "kana_ヂョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ビャ",
@@ -529,7 +633,9 @@
 			"katakana_extended"
 		],
 		"id": "84148276",
-		"noteID": "kana_ビャ"
+		"noteID": "kana_ビャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ビュ",
@@ -539,7 +645,9 @@
 			"katakana_extended"
 		],
 		"id": "84148277",
-		"noteID": "kana_ビュ"
+		"noteID": "kana_ビュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ビュウ",
@@ -549,7 +657,9 @@
 			"katakana_extended"
 		],
 		"id": "84148278",
-		"noteID": "kana_ビュウ"
+		"noteID": "kana_ビュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ビョ",
@@ -559,7 +669,9 @@
 			"katakana_extended"
 		],
 		"id": "84148279",
-		"noteID": "kana_ビョ"
+		"noteID": "kana_ビョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ビョウ",
@@ -569,7 +681,9 @@
 			"katakana_extended"
 		],
 		"id": "84148280",
-		"noteID": "kana_ビョウ"
+		"noteID": "kana_ビョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ピャ",
@@ -579,7 +693,9 @@
 			"katakana_extended"
 		],
 		"id": "84148281",
-		"noteID": "kana_ピャ"
+		"noteID": "kana_ピャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ピュ",
@@ -589,7 +705,9 @@
 			"katakana_extended"
 		],
 		"id": "84148282",
-		"noteID": "kana_ピュ"
+		"noteID": "kana_ピュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ピュウ",
@@ -599,7 +717,9 @@
 			"katakana_extended"
 		],
 		"id": "84148283",
-		"noteID": "kana_ピュウ"
+		"noteID": "kana_ピュウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ピョ",
@@ -609,7 +729,9 @@
 			"katakana_extended"
 		],
 		"id": "84148284",
-		"noteID": "kana_ピョ"
+		"noteID": "kana_ピョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ピョウ",
@@ -619,7 +741,9 @@
 			"katakana_extended"
 		],
 		"id": "84148285",
-		"noteID": "kana_ピョウ"
+		"noteID": "kana_ピョウ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "キェ",
@@ -629,7 +753,9 @@
 			"katakana_extended"
 		],
 		"id": "84148286",
-		"noteID": "kana_キェ"
+		"noteID": "kana_キェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "クヮ",
@@ -639,7 +765,9 @@
 			"katakana_extended"
 		],
 		"id": "84148287",
-		"noteID": "kana_クヮ"
+		"noteID": "kana_クヮ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "クィ",
@@ -649,7 +777,9 @@
 			"katakana_extended"
 		],
 		"id": "84148288",
-		"noteID": "kana_クィ"
+		"noteID": "kana_クィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "クェ",
@@ -659,7 +789,9 @@
 			"katakana_extended"
 		],
 		"id": "84148289",
-		"noteID": "kana_クェ"
+		"noteID": "kana_クェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "クォ",
@@ -669,7 +801,9 @@
 			"katakana_extended"
 		],
 		"id": "84148290",
-		"noteID": "kana_クォ"
+		"noteID": "kana_クォ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ギェ",
@@ -679,7 +813,9 @@
 			"katakana_extended"
 		],
 		"id": "84148291",
-		"noteID": "kana_ギェ"
+		"noteID": "kana_ギェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "グヮ",
@@ -689,7 +825,9 @@
 			"katakana_extended"
 		],
 		"id": "84148292",
-		"noteID": "kana_グヮ"
+		"noteID": "kana_グヮ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "グィ",
@@ -699,7 +837,9 @@
 			"katakana_extended"
 		],
 		"id": "84148293",
-		"noteID": "kana_グィ"
+		"noteID": "kana_グィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "グェ",
@@ -709,7 +849,9 @@
 			"katakana_extended"
 		],
 		"id": "84148294",
-		"noteID": "kana_グェ"
+		"noteID": "kana_グェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "グォ",
@@ -719,7 +861,9 @@
 			"katakana_extended"
 		],
 		"id": "84148295",
-		"noteID": "kana_グォ"
+		"noteID": "kana_グォ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "スィ",
@@ -729,7 +873,9 @@
 			"katakana_extended"
 		],
 		"id": "84148296",
-		"noteID": "kana_スィ"
+		"noteID": "kana_スィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "シェ",
@@ -739,7 +885,9 @@
 			"katakana_extended"
 		],
 		"id": "84148297",
-		"noteID": "kana_シェ"
+		"noteID": "kana_シェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ズィ",
@@ -749,7 +897,9 @@
 			"katakana_extended"
 		],
 		"id": "84148298",
-		"noteID": "kana_ズィ"
+		"noteID": "kana_ズィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ジェ",
@@ -759,7 +909,9 @@
 			"katakana_extended"
 		],
 		"id": "84148299",
-		"noteID": "kana_ジェ"
+		"noteID": "kana_ジェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ティ",
@@ -769,7 +921,9 @@
 			"katakana_extended"
 		],
 		"id": "84148300",
-		"noteID": "kana_ティ"
+		"noteID": "kana_ティ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "トゥ/テュ",
@@ -779,7 +933,9 @@
 			"katakana_extended"
 		],
 		"id": "84148301",
-		"noteID": "kana_トゥ/テュ"
+		"noteID": "kana_トゥ/テュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "チェ",
@@ -789,7 +945,9 @@
 			"katakana_extended"
 		],
 		"id": "84148302",
-		"noteID": "kana_チェ"
+		"noteID": "kana_チェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ツァ",
@@ -799,7 +957,9 @@
 			"katakana_extended"
 		],
 		"id": "84148303",
-		"noteID": "kana_ツァ"
+		"noteID": "kana_ツァ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ツィ",
@@ -809,7 +969,9 @@
 			"katakana_extended"
 		],
 		"id": "84148304",
-		"noteID": "kana_ツィ"
+		"noteID": "kana_ツィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ツェ",
@@ -819,7 +981,9 @@
 			"katakana_extended"
 		],
 		"id": "84148305",
-		"noteID": "kana_ツェ"
+		"noteID": "kana_ツェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ツォ",
@@ -829,7 +993,9 @@
 			"katakana_extended"
 		],
 		"id": "84148306",
-		"noteID": "kana_ツォ"
+		"noteID": "kana_ツォ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ディ",
@@ -839,7 +1005,9 @@
 			"katakana_extended"
 		],
 		"id": "84148307",
-		"noteID": "kana_ディ"
+		"noteID": "kana_ディ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ドゥ/デュ",
@@ -849,7 +1017,9 @@
 			"katakana_extended"
 		],
 		"id": "84148308",
-		"noteID": "kana_ドゥ/デュ"
+		"noteID": "kana_ドゥ/デュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ニェ",
@@ -859,7 +1029,9 @@
 			"katakana_extended"
 		],
 		"id": "84148309",
-		"noteID": "kana_ニェ"
+		"noteID": "kana_ニェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ホゥ",
@@ -869,7 +1041,9 @@
 			"katakana_extended"
 		],
 		"id": "84148310",
-		"noteID": "kana_ホゥ"
+		"noteID": "kana_ホゥ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヒェ",
@@ -879,7 +1053,9 @@
 			"katakana_extended"
 		],
 		"id": "84148311",
-		"noteID": "kana_ヒェ"
+		"noteID": "kana_ヒェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ファ",
@@ -889,7 +1065,9 @@
 			"katakana_extended"
 		],
 		"id": "84148312",
-		"noteID": "kana_ファ"
+		"noteID": "kana_ファ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フィ",
@@ -899,7 +1077,9 @@
 			"katakana_extended"
 		],
 		"id": "84148313",
-		"noteID": "kana_フィ"
+		"noteID": "kana_フィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フェ",
@@ -909,7 +1089,9 @@
 			"katakana_extended"
 		],
 		"id": "84148314",
-		"noteID": "kana_フェ"
+		"noteID": "kana_フェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フォ",
@@ -919,7 +1101,9 @@
 			"katakana_extended"
 		],
 		"id": "84148315",
-		"noteID": "kana_フォ"
+		"noteID": "kana_フォ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フャ",
@@ -929,7 +1113,9 @@
 			"katakana_extended"
 		],
 		"id": "84148316",
-		"noteID": "kana_フャ"
+		"noteID": "kana_フャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フュ",
@@ -939,7 +1125,9 @@
 			"katakana_extended"
 		],
 		"id": "84148317",
-		"noteID": "kana_フュ"
+		"noteID": "kana_フュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フィェ",
@@ -949,7 +1137,9 @@
 			"katakana_extended"
 		],
 		"id": "84148318",
-		"noteID": "kana_フィェ"
+		"noteID": "kana_フィェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "フョ",
@@ -959,7 +1149,9 @@
 			"katakana_extended"
 		],
 		"id": "84148319",
-		"noteID": "kana_フョ"
+		"noteID": "kana_フョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ビェ",
@@ -969,7 +1161,9 @@
 			"katakana_extended"
 		],
 		"id": "84148320",
-		"noteID": "kana_ビェ"
+		"noteID": "kana_ビェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ピェ",
@@ -979,7 +1173,9 @@
 			"katakana_extended"
 		],
 		"id": "84148321",
-		"noteID": "kana_ピェ"
+		"noteID": "kana_ピェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ミェ",
@@ -989,7 +1185,9 @@
 			"katakana_extended"
 		],
 		"id": "84148322",
-		"noteID": "kana_ミェ"
+		"noteID": "kana_ミェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "イィ",
@@ -999,7 +1197,9 @@
 			"katakana_extended"
 		],
 		"id": "84148323",
-		"noteID": "kana_イィ"
+		"noteID": "kana_イィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "イェ",
@@ -1009,7 +1209,9 @@
 			"katakana_extended"
 		],
 		"id": "84148324",
-		"noteID": "kana_イェ"
+		"noteID": "kana_イェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "リェ",
@@ -1019,7 +1221,9 @@
 			"katakana_extended"
 		],
 		"id": "84148325",
-		"noteID": "kana_リェ"
+		"noteID": "kana_リェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ウィ",
@@ -1029,7 +1233,9 @@
 			"katakana_extended"
 		],
 		"id": "84148326",
-		"noteID": "kana_ウィ"
+		"noteID": "kana_ウィ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ウゥ/ウュ",
@@ -1039,7 +1245,9 @@
 			"katakana_extended"
 		],
 		"id": "84148327",
-		"noteID": "kana_ウゥ/ウュ"
+		"noteID": "kana_ウゥ/ウュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ウェ",
@@ -1049,7 +1257,9 @@
 			"katakana_extended"
 		],
 		"id": "84148328",
-		"noteID": "kana_ウェ"
+		"noteID": "kana_ウェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ウォ",
@@ -1059,7 +1269,9 @@
 			"katakana_extended"
 		],
 		"id": "84148329",
-		"noteID": "kana_ウォ"
+		"noteID": "kana_ウォ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴァ(ヷ)",
@@ -1069,7 +1281,9 @@
 			"katakana_extended"
 		],
 		"id": "84148330",
-		"noteID": "kana_ヴァ(ヷ)"
+		"noteID": "kana_ヴァ(ヷ)",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴィ(ヸ)",
@@ -1079,7 +1293,9 @@
 			"katakana_extended"
 		],
 		"id": "84148331",
-		"noteID": "kana_ヴィ(ヸ)"
+		"noteID": "kana_ヴィ(ヸ)",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴ",
@@ -1090,7 +1306,9 @@
 		],
 		"id": "84148332",
 		"svg": "030f4.svg",
-		"noteID": "kana_ヴ"
+		"noteID": "kana_ヴ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴェ",
@@ -1100,7 +1318,9 @@
 			"katakana_extended"
 		],
 		"id": "84148333",
-		"noteID": "kana_ヴェ"
+		"noteID": "kana_ヴェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴォ",
@@ -1110,7 +1330,9 @@
 			"katakana_extended"
 		],
 		"id": "84148334",
-		"noteID": "kana_ヴォ"
+		"noteID": "kana_ヴォ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴャ",
@@ -1120,7 +1342,9 @@
 			"katakana_extended"
 		],
 		"id": "84148335",
-		"noteID": "kana_ヴャ"
+		"noteID": "kana_ヴャ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴュ",
@@ -1130,7 +1354,9 @@
 			"katakana_extended"
 		],
 		"id": "84148336",
-		"noteID": "kana_ヴュ"
+		"noteID": "kana_ヴュ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴィェ",
@@ -1140,7 +1366,9 @@
 			"katakana_extended"
 		],
 		"id": "84148337",
-		"noteID": "kana_ヴィェ"
+		"noteID": "kana_ヴィェ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	},
 	{
 		"kana": "ヴョ",
@@ -1150,6 +1378,8 @@
 			"katakana_extended"
 		],
 		"id": "84148338",
-		"noteID": "kana_ヴョ"
+		"noteID": "kana_ヴョ",
+		"noteTypeName": "Kana",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::0. Kana::Katakana extended"
 	}
 ]

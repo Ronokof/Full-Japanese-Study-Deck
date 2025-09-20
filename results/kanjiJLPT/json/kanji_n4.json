@@ -2,6 +2,10 @@
 	{
 		"kanji": "会",
 		"strokes": "6",
+		"grade": "4",
+		"noteID": "kanji_会",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あい",
 			"い"
@@ -85,7 +89,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_会",
 		"components": [
 			{
 				"component": "人",
@@ -96,12 +99,15 @@
 				"meaning": "quote"
 			}
 		],
-		"mnemonic": "In a meeting one person often has to quote other people to get their point across.",
-		"source": "https://jpdb.io/kanji/会#a"
+		"mnemonic": "In a meeting one person often has to quote other people to get their point across."
 	},
 	{
 		"kanji": "同",
 		"strokes": "6",
+		"grade": "15",
+		"noteID": "kanji_同",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ドウ"
 		],
@@ -174,7 +180,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_同",
 		"components": [
 			{
 				"component": "冂",
@@ -189,12 +194,15 @@
 				"meaning": "mouth"
 			}
 		],
-		"mnemonic": "When it's under an upside-down box one mouth is going to feel the same as any other.\nThere is a certain traditional wedding game in Eastern Europe where a blindfolded groom gropes the legs of women in search for his wife; he wins if he can find his wife by touch alone. Imagine a similar game, but instead of blindfolding the groom we put all of the women in cardboard boxes, and then he just reaches with his hands underneath the box and gropes their mouths instlead of legs. Would you be able to tell one person from another just by touching their mouth?",
-		"source": "https://jpdb.io/kanji/同#a"
+		"mnemonic": "When it's under an upside-down box one mouth is going to feel the same as any other.\nThere is a certain traditional wedding game in Eastern Europe where a blindfolded groom gropes the legs of women in search for his wife; he wins if he can find his wife by touch alone. Imagine a similar game, but instead of blindfolding the groom we put all of the women in cardboard boxes, and then he just reaches with his hands underneath the box and gropes their mouths instlead of legs. Would you be able to tell one person from another just by touching their mouth?"
 	},
 	{
 		"kanji": "事",
 		"strokes": "8",
+		"grade": "18",
+		"noteID": "kanji_事",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ろ"
 		],
@@ -277,7 +285,6 @@
 			"has::mnemonic",
 			"components::4"
 		],
-		"noteID": "kanji_事",
 		"components": [
 			{
 				"component": "一",
@@ -296,12 +303,15 @@
 				"meaning": "hook"
 			}
 		],
-		"mnemonic": "What a strange occurence! I was just fishing with my trusty fishing hook, and look at what I've managed to pull out of water with it at the same time! A trident, an old rectangular cardboard box, and a horizontal wooden stick. What the hell?!",
-		"source": "https://jpdb.io/kanji/事#a"
+		"mnemonic": "What a strange occurence! I was just fishing with my trusty fishing hook, and look at what I've managed to pull out of water with it at the same time! A trident, an old rectangular cardboard box, and a horizontal wooden stick. What the hell?!"
 	},
 	{
 		"kanji": "自",
 		"strokes": "6",
+		"grade": "19",
+		"noteID": "kanji_自",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"より"
 		],
@@ -379,7 +389,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_自",
 		"components": [
 			{
 				"component": "丶",
@@ -390,12 +399,15 @@
 				"meaning": "eye"
 			}
 		],
-		"mnemonic": "When your eye burns and itches it's time to self-medicate and put a drop of eyedrops in you eye.",
-		"source": "https://jpdb.io/kanji/自#a"
+		"mnemonic": "When your eye burns and itches it's time to self-medicate and put a drop of eyedrops in you eye."
 	},
 	{
 		"kanji": "社",
 		"strokes": "7",
+		"grade": "21",
+		"noteID": "kanji_社",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"こそ"
 		],
@@ -474,7 +486,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_社",
 		"components": [
 			{
 				"component": "礻",
@@ -485,12 +496,15 @@
 				"meaning": "earth"
 			}
 		],
-		"mnemonic": "When you join a Japanese company it's like joining a cult. You'll have to worship the earth on which your boss walks on, and treat the meeting room table like a sacred altar, or else you'll get violently bullied and ostracized.",
-		"source": "https://jpdb.io/kanji/社#a"
+		"mnemonic": "When you join a Japanese company it's like joining a cult. You'll have to worship the earth on which your boss walks on, and treat the meeting room table like a sacred altar, or else you'll get violently bullied and ostracized."
 	},
 	{
 		"kanji": "発",
 		"strokes": "9",
+		"grade": "32",
+		"noteID": "kanji_発",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ば",
 			"わ"
@@ -577,7 +591,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_発",
 		"components": [
 			{
 				"component": "癶",
@@ -592,12 +605,15 @@
 				"meaning": "legs"
 			}
 		],
-		"mnemonic": "You're climbing Mount Everest. There is a huge blizzard raging outside. It's cold. Freezing cold. You're sitting in your tent, curled into a ball, clutching your legs with your two hands. As the cold air rushes through the walls of your tent your body shudders and you suddenly let out a loud groan. You're going to freeze to death here. You just know it.",
-		"source": "https://jpdb.io/kanji/発#a"
+		"mnemonic": "You're climbing Mount Everest. There is a huge blizzard raging outside. It's cold. Freezing cold. You're sitting in your tent, curled into a ball, clutching your legs with your two hands. As the cold air rushes through the walls of your tent your body shudders and you suddenly let out a loud groan. You're going to freeze to death here. You just know it."
 	},
 	{
 		"kanji": "者",
 		"strokes": "8",
+		"grade": "38",
+		"noteID": "kanji_者",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シャ"
 		],
@@ -669,7 +685,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_者",
 		"components": [
 			{
 				"component": "耂",
@@ -680,12 +695,15 @@
 				"meaning": "sun"
 			}
 		],
-		"mnemonic": "Someone who was put inside of an old grave will never see the light of the sun again.",
-		"source": "https://jpdb.io/kanji/者#a"
+		"mnemonic": "Someone who was put inside of an old grave will never see the light of the sun again."
 	},
 	{
 		"kanji": "地",
 		"strokes": "6",
+		"grade": "40",
+		"noteID": "kanji_地",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"どま"
 		],
@@ -760,7 +778,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_地",
 		"components": [
 			{
 				"component": "土",
@@ -771,12 +788,15 @@
 				"meaning": "to be (archaic)"
 			}
 		],
-		"mnemonic": "To be in the earth is to be under ground.",
-		"source": "https://jpdb.io/kanji/地#a"
+		"mnemonic": "To be in the earth is to be under ground."
 	},
 	{
 		"kanji": "業",
 		"strokes": "13",
+		"grade": "43",
+		"noteID": "kanji_業",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"なり",
 			"のぶ"
@@ -855,7 +875,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_業",
 		"components": [
 			{
 				"component": "业",
@@ -869,12 +888,15 @@
 				"component": "未",
 				"meaning": "not yet"
 			}
-		],
-		"source": "https://jpdb.io/kanji/業#a"
+		]
 	},
 	{
 		"kanji": "方",
 		"strokes": "4",
+		"grade": "46",
+		"noteID": "kanji_方",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"から",
 			"な",
@@ -960,7 +982,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_方",
 		"components": [
 			{
 				"component": "丨",
@@ -971,12 +992,15 @@
 				"meaning": "ten thousand"
 			}
 		],
-		"mnemonic": "How did primitive humans mark the way to go? They didn't have language, so they couldn't speak, and they couldn't write. They used sticks! Ten thousand of them to be exact. Just drop a stick every few steps, and everyone will know the way to go!",
-		"source": "https://jpdb.io/kanji/方#a"
+		"mnemonic": "How did primitive humans mark the way to go? They didn't have language, so they couldn't speak, and they couldn't write. They used sticks! Ten thousand of them to be exact. Just drop a stick every few steps, and everyone will know the way to go!"
 	},
 	{
 		"kanji": "新",
 		"strokes": "13",
+		"grade": "51",
+		"noteID": "kanji_新",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あせ",
 			"あたらし",
@@ -1060,7 +1084,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_新",
 		"components": [
 			{
 				"component": "立",
@@ -1075,12 +1098,15 @@
 				"meaning": "axe"
 			}
 		],
-		"mnemonic": "A new axe is going to be sharp. So sharp that it might not leave any tree standing up.",
-		"source": "https://jpdb.io/kanji/新#a"
+		"mnemonic": "A new axe is going to be sharp. So sharp that it might not leave any tree standing up."
 	},
 	{
 		"kanji": "場",
 		"strokes": "12",
+		"grade": "52",
+		"noteID": "kanji_場",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ジョウ",
 			"チョウ"
@@ -1153,7 +1179,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_場",
 		"components": [
 			{
 				"component": "土",
@@ -1164,12 +1189,15 @@
 				"meaning": "light of the sun"
 			}
 		],
-		"mnemonic": "If you want to know the precise location of a floating clump of earth (an asteroid) you need to look at the light of the sun that is reflected off of it.",
-		"source": "https://jpdb.io/kanji/場#a"
+		"mnemonic": "If you want to know the precise location of a floating clump of earth (an asteroid) you need to look at the light of the sun that is reflected off of it."
 	},
 	{
 		"kanji": "員",
 		"strokes": "10",
+		"grade": "54",
+		"noteID": "kanji_員",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"いな",
 			"かず"
@@ -1246,7 +1274,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_員",
 		"components": [
 			{
 				"component": "口",
@@ -1257,12 +1284,15 @@
 				"meaning": "shellfish"
 			}
 		],
-		"mnemonic": "Every member of our company will have to put a raw shellfish in their mouth and eat it!\n(Imagine a strict Japanese boss of a traditional Japanese company forcing his employees to eat disgusting raw seafood to prove their loyalty.)",
-		"source": "https://jpdb.io/kanji/員#a"
+		"mnemonic": "Every member of our company will have to put a raw shellfish in their mouth and eat it!\n(Imagine a strict Japanese boss of a traditional Japanese company forcing his employees to eat disgusting raw seafood to prove their loyalty.)"
 	},
 	{
 		"kanji": "立",
 		"strokes": "5",
+		"grade": "58",
+		"noteID": "kanji_立",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"たち",
 			"たっ",
@@ -1355,7 +1385,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_立",
 		"components": [
 			{
 				"component": "亠",
@@ -1370,12 +1399,15 @@
 				"meaning": "one"
 			}
 		],
-		"mnemonic": "A pictograph of a lid which is standing up placed on a pair of horns protruding from the ground. Wait, what?",
-		"source": "https://jpdb.io/kanji/立#a"
+		"mnemonic": "A pictograph of a lid which is standing up placed on a pair of horns protruding from the ground. Wait, what?"
 	},
 	{
 		"kanji": "開",
 		"strokes": "12",
+		"grade": "59",
+		"noteID": "kanji_開",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"はる",
 			"か",
@@ -1459,7 +1491,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_開",
 		"components": [
 			{
 				"component": "門",
@@ -1470,12 +1501,15 @@
 				"meaning": "oriental lantern"
 			}
 		],
-		"mnemonic": "When you peek through the gate you can see a beautiful oriental lantern inside. The lantern is a little bit too bright so you can't see anything else; for that you'd need to open the gate and go inside.",
-		"source": "https://jpdb.io/kanji/開#a"
+		"mnemonic": "When you peek through the gate you can see a beautiful oriental lantern inside. The lantern is a little bit too bright so you can't see anything else; for that you'd need to open the gate and go inside."
 	},
 	{
 		"kanji": "手",
 		"strokes": "4",
+		"grade": "60",
+		"noteID": "kanji_手",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シュ",
 			"ズ"
@@ -1550,7 +1584,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_手",
 		"components": [
 			{
 				"component": "千",
@@ -1561,12 +1594,15 @@
 				"meaning": "one"
 			}
 		],
-		"mnemonic": "A human hand is truly a magnificent body part; it's definitely useful for at least a thousand and one different things!",
-		"source": "https://jpdb.io/kanji/手#a"
+		"mnemonic": "A human hand is truly a magnificent body part; it's definitely useful for at least a thousand and one different things!"
 	},
 	{
 		"kanji": "力",
 		"strokes": "2",
+		"grade": "62",
+		"noteID": "kanji_力",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"じから",
 			"つとむ"
@@ -1649,7 +1685,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_力",
 		"components": [
 			{
 				"component": "丿",
@@ -1660,12 +1695,15 @@
 				"meaning": "clothes hanger"
 			}
 		],
-		"mnemonic": "You need a lot of power to be able to slash through a clothes hanger.",
-		"source": "https://jpdb.io/kanji/力#a"
+		"mnemonic": "You need a lot of power to be able to slash through a clothes hanger."
 	},
 	{
 		"kanji": "問",
 		"strokes": "11",
+		"grade": "64",
+		"noteID": "kanji_問",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"はる"
 		],
@@ -1744,7 +1782,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_問",
 		"components": [
 			{
 				"component": "門",
@@ -1755,12 +1792,15 @@
 				"meaning": "mouth"
 			}
 		],
-		"mnemonic": "If you have a question Just go through the gate, open your mouth and ask!",
-		"source": "https://jpdb.io/kanji/問#a"
+		"mnemonic": "If you have a question Just go through the gate, open your mouth and ask!"
 	},
 	{
 		"kanji": "代",
 		"strokes": "5",
+		"grade": "66",
+		"noteID": "kanji_代",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"す"
 		],
@@ -1854,7 +1894,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_代",
 		"components": [
 			{
 				"component": "亻",
@@ -1865,12 +1904,15 @@
 				"meaning": "shoot with a bow"
 			}
 		],
-		"mnemonic": "How do you become someone's substitute? You shoot that person with a bow. Then you hide the body and pretend you're them. Flawless!",
-		"source": "https://jpdb.io/kanji/代#a"
+		"mnemonic": "How do you become someone's substitute? You shoot that person with a bow. Then you hide the body and pretend you're them. Flawless!"
 	},
 	{
 		"kanji": "明",
 		"strokes": "8",
+		"grade": "67",
+		"noteID": "kanji_明",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あきら",
 			"あけ",
@@ -1967,7 +2009,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_明",
 		"components": [
 			{
 				"component": "日",
@@ -1978,12 +2019,15 @@
 				"meaning": "moon"
 			}
 		],
-		"mnemonic": "With the moon and the sun shining at the same time it will surely be bright in here.",
-		"source": "https://jpdb.io/kanji/明#a"
+		"mnemonic": "With the moon and the sun shining at the same time it will surely be bright in here."
 	},
 	{
 		"kanji": "動",
 		"strokes": "11",
+		"grade": "73",
+		"noteID": "kanji_動",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"るぎ"
 		],
@@ -2064,7 +2108,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_動",
 		"components": [
 			{
 				"component": "重",
@@ -2075,12 +2118,15 @@
 				"meaning": "power"
 			}
 		],
-		"mnemonic": "It takes much power to get something that is heavy to move.",
-		"source": "https://jpdb.io/kanji/動#a"
+		"mnemonic": "It takes much power to get something that is heavy to move."
 	},
 	{
 		"kanji": "京",
 		"strokes": "8",
+		"grade": "74",
+		"noteID": "kanji_京",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"たか"
 		],
@@ -2157,7 +2203,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_京",
 		"components": [
 			{
 				"component": "亠",
@@ -2171,12 +2216,15 @@
 				"component": "小",
 				"meaning": "small"
 			}
-		],
-		"source": "https://jpdb.io/kanji/京#a"
+		]
 	},
 	{
 		"kanji": "目",
 		"strokes": "5",
+		"grade": "76",
+		"noteID": "kanji_目",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さかん",
 			"さがん",
@@ -2262,13 +2310,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_目",
-		"mnemonic": "A stylized pictograph of an eye. The two lines in the middle is the iris.",
-		"source": "https://jpdb.io/kanji/目#a"
+		"mnemonic": "A stylized pictograph of an eye. The two lines in the middle is the iris."
 	},
 	{
 		"kanji": "通",
 		"strokes": "10",
+		"grade": "80",
+		"noteID": "kanji_通",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"とん",
 			"どうし",
@@ -2358,7 +2408,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_通",
 		"components": [
 			{
 				"component": "甬",
@@ -2369,12 +2418,15 @@
 				"meaning": "road"
 			}
 		],
-		"mnemonic": "You're on the road and you see this huge, rusty old bell, ringing. \"Look — they're ringing the bell because they're closing the gates! Let's go! Quickly! We need to pass through before the bell stops ringing and they shut the gates!\"",
-		"source": "https://jpdb.io/kanji/通#a"
+		"mnemonic": "You're on the road and you see this huge, rusty old bell, ringing. \"Look — they're ringing the bell because they're closing the gates! Let's go! Quickly! We need to pass through before the bell stops ringing and they shut the gates!\""
 	},
 	{
 		"kanji": "言",
 		"strokes": "7",
+		"grade": "83",
+		"noteID": "kanji_言",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"とき"
 		],
@@ -2451,13 +2503,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_言",
-		"mnemonic": "A cryptic pictograph of a face trying to say something.\nWe have a mouth at the bottom, then we have two short lines signifying a nose (this person has a really long nose, hence two lines), then one long line for the eyes (this person has an eye visor just like RoboCop), and then the final line at the top to represent the forehead.",
-		"source": "https://jpdb.io/kanji/言#a"
+		"mnemonic": "A cryptic pictograph of a face trying to say something.\nWe have a mouth at the bottom, then we have two short lines signifying a nose (this person has a really long nose, hence two lines), then one long line for the eyes (this person has an eye visor just like RoboCop), and then the final line at the top to represent the forehead."
 	},
 	{
 		"kanji": "理",
 		"strokes": "11",
+		"grade": "86",
+		"noteID": "kanji_理",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あや",
 			"おさむ",
@@ -2551,7 +2605,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_理",
 		"components": [
 			{
 				"component": "王",
@@ -2562,12 +2615,15 @@
 				"meaning": "home village"
 			}
 		],
-		"mnemonic": "A pictograph of a king living in his castle (on the left) which overlooks his home village (on the right).\nEvery day after he wakes up the first thing the king sees through the huge window in his chambers is that damn village. He was born there. He was raised there. He really misses that place and wants to go back. But he can't. The hard logic dictates that doing such a thing would be extremely dangerous. The moment he peeks his nose outside of the castle gates he'll get assasinated. He knows it. So the only thing he can do is to look through the window, and sigh.",
-		"source": "https://jpdb.io/kanji/理#a"
+		"mnemonic": "A pictograph of a king living in his castle (on the left) which overlooks his home village (on the right).\nEvery day after he wakes up the first thing the king sees through the huge window in his chambers is that damn village. He was born there. He was raised there. He really misses that place and wants to go back. But he can't. The hard logic dictates that doing such a thing would be extremely dangerous. The moment he peeks his nose outside of the castle gates he'll get assasinated. He knows it. So the only thing he can do is to look through the window, and sigh."
 	},
 	{
 		"kanji": "体",
 		"strokes": "7",
+		"grade": "88",
+		"noteID": "kanji_体",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"なり"
 		],
@@ -2648,7 +2704,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_体",
 		"components": [
 			{
 				"component": "亻",
@@ -2659,12 +2714,15 @@
 				"meaning": "book"
 			}
 		],
-		"mnemonic": "A thin person is a weakling who needs to read books on how to get their body fat and strong again.\nImagine you're weakling loser who doesn't go out too much, has no friends and never had any interest in sports or fitness, but suddenly you want to get fit so that the girl you fell in love with likes you back. What do you do? Obviously you need to read a few fitness books on how to build up your body and get that sexy six-pack!",
-		"source": "https://jpdb.io/kanji/体#a"
+		"mnemonic": "A thin person is a weakling who needs to read books on how to get their body fat and strong again.\nImagine you're weakling loser who doesn't go out too much, has no friends and never had any interest in sports or fitness, but suddenly you want to get fit so that the girl you fell in love with likes you back. What do you do? Obviously you need to read a few fitness books on how to build up your body and get that sexy six-pack!"
 	},
 	{
 		"kanji": "田",
 		"strokes": "5",
+		"grade": "90",
+		"noteID": "kanji_田",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"いなか",
 			"おか",
@@ -2744,13 +2802,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_田",
-		"mnemonic": "A pictograph of a rice field, seen from the top.",
-		"source": "https://jpdb.io/kanji/田#a"
+		"mnemonic": "A pictograph of a rice field, seen from the top."
 	},
 	{
 		"kanji": "主",
 		"strokes": "5",
+		"grade": "95",
+		"noteID": "kanji_主",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"かず",
 			"ず",
@@ -2835,7 +2895,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_主",
 		"components": [
 			{
 				"component": "丶",
@@ -2846,12 +2905,15 @@
 				"meaning": "king"
 			}
 		],
-		"mnemonic": "Have you ever seen a king with even a single drop of sweat on his head? Of course not. A king is the master of everything and everyone in his realm. There's no way he's going to do any kind of work that gets him sweaty.",
-		"source": "https://jpdb.io/kanji/主#a"
+		"mnemonic": "Have you ever seen a king with even a single drop of sweat on his head? Of course not. A king is the master of everything and everyone in his realm. There's no way he's going to do any kind of work that gets him sweaty."
 	},
 	{
 		"kanji": "題",
 		"strokes": "18",
+		"grade": "96",
+		"noteID": "kanji_題",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ダイ"
 		],
@@ -2920,7 +2982,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_題",
 		"components": [
 			{
 				"component": "頁",
@@ -2930,12 +2991,15 @@
 				"component": "是",
 				"meaning": "go with"
 			}
-		],
-		"source": "https://jpdb.io/kanji/題#a"
+		]
 	},
 	{
 		"kanji": "意",
 		"strokes": "13",
+		"grade": "99",
+		"noteID": "kanji_意",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"もと",
 			"よし"
@@ -3016,7 +3080,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_意",
 		"components": [
 			{
 				"component": "音",
@@ -3027,12 +3090,15 @@
 				"meaning": "heart"
 			}
 		],
-		"mnemonic": "When you come up with a great idea you get so excited that your heart starts beating so fast and so hard that you can hear the sound of your own heartbeat.",
-		"source": "https://jpdb.io/kanji/意#a"
+		"mnemonic": "When you come up with a great idea you get so excited that your heart starts beating so fast and so hard that you can hear the sound of your own heartbeat."
 	},
 	{
 		"kanji": "不",
 		"strokes": "4",
+		"grade": "101",
+		"noteID": "kanji_不",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"フ",
 			"ブ"
@@ -3105,13 +3171,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_不",
-		"mnemonic": "You know how we use the height above the sea level to measure the elevation of a given piece of land, and everything below the sea level has a negative elevation? Here we have a pictograph of the sea level (the stroke at the top), and an arrow pointing to it from below.",
-		"source": "https://jpdb.io/kanji/不#a"
+		"mnemonic": "You know how we use the height above the sea level to measure the elevation of a given piece of land, and everything below the sea level has a negative elevation? Here we have a pictograph of the sea level (the stroke at the top), and an arrow pointing to it from below."
 	},
 	{
 		"kanji": "作",
 		"strokes": "7",
+		"grade": "103",
+		"noteID": "kanji_作",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"くり",
 			"さか",
@@ -3199,7 +3267,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_作",
 		"components": [
 			{
 				"component": "亻",
@@ -3210,12 +3277,15 @@
 				"meaning": "while"
 			}
 		],
-		"mnemonic": "While you're a really thin person, weak and feeble, you can still make things. Sure, you might not be able to do carpentry, or anything else that requires significant strength, but you can still make paper planes or something like that.",
-		"source": "https://jpdb.io/kanji/作#a"
+		"mnemonic": "While you're a really thin person, weak and feeble, you can still make things. Sure, you might not be able to do carpentry, or anything else that requires significant strength, but you can still make paper planes or something like that."
 	},
 	{
 		"kanji": "用",
 		"strokes": "5",
+		"grade": "107",
+		"noteID": "kanji_用",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"たから"
 		],
@@ -3294,7 +3364,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_用",
 		"components": [
 			{
 				"component": "冂",
@@ -3309,12 +3378,15 @@
 				"meaning": "stick"
 			}
 		],
-		"mnemonic": "It looks like a trap used used for catching mice. You have an upside-down box propped on a stick, and some tasty cheese hiden inside to lure any nearby rodent.",
-		"source": "https://jpdb.io/kanji/用#a"
+		"mnemonic": "It looks like a trap used used for catching mice. You have an upside-down box propped on a stick, and some tasty cheese hiden inside to lure any nearby rodent."
 	},
 	{
 		"kanji": "度",
 		"strokes": "9",
+		"grade": "110",
+		"noteID": "kanji_度",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"のり"
 		],
@@ -3397,7 +3469,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_度",
 		"components": [
 			{
 				"component": "广",
@@ -3412,12 +3483,15 @@
 				"meaning": "once again"
 			}
 		],
-		"mnemonic": "Once again the temperature dropped to negative twenty degrees and we had to stay inside our house on a cliff.",
-		"source": "https://jpdb.io/kanji/度#a"
+		"mnemonic": "Once again the temperature dropped to negative twenty degrees and we had to stay inside our house on a cliff."
 	},
 	{
 		"kanji": "強",
 		"strokes": "11",
+		"grade": "112",
+		"noteID": "kanji_強",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"すね"
 		],
@@ -3497,7 +3571,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_強",
 		"components": [
 			{
 				"component": "弓",
@@ -3512,12 +3585,15 @@
 				"meaning": "insect"
 			}
 		],
-		"mnemonic": "A mutated insect with an arm of a bodybuilder instead of its head... Yes, this horryfing creature is probably going to be strong enough to pull on a bow.",
-		"source": "https://jpdb.io/kanji/強#a"
+		"mnemonic": "A mutated insect with an arm of a bodybuilder instead of its head... Yes, this horryfing creature is probably going to be strong enough to pull on a bow."
 	},
 	{
 		"kanji": "公",
 		"strokes": "4",
+		"grade": "118",
+		"noteID": "kanji_公",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あきら",
 			"き",
@@ -3604,7 +3680,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_公",
 		"components": [
 			{
 				"component": "ハ",
@@ -3615,12 +3690,15 @@
 				"meaning": "arm of a bodybuilder"
 			}
 		],
-		"mnemonic": "If you're a really short but incredibly jacked bodybuilder then you'll want to show off your muscular arm to the public, and hide your short legs in the background.\n(The arm is on the bottom because it's in the foreground, and the legs are in the background.)",
-		"source": "https://jpdb.io/kanji/公#a"
+		"mnemonic": "If you're a really short but incredibly jacked bodybuilder then you'll want to show off your muscular arm to the public, and hide your short legs in the background.\n(The arm is on the bottom because it's in the foreground, and the legs are in the background.)"
 	},
 	{
 		"kanji": "持",
 		"strokes": "9",
+		"grade": "119",
+		"noteID": "kanji_持",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"もち",
 			"もつ"
@@ -3699,7 +3777,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_持",
 		"components": [
 			{
 				"component": "扌",
@@ -3710,12 +3787,15 @@
 				"meaning": "Buddhist temple"
 			}
 		],
-		"mnemonic": "Some of the monks at a certain Buddhist temple in Japan are so dedicated to their training that they absolutely refuse to use their right hand. Instead they exclusively use their left hand to do whatever task is necessary, until they have reached enlightenment.",
-		"source": "https://jpdb.io/kanji/持#a"
+		"mnemonic": "Some of the monks at a certain Buddhist temple in Japan are so dedicated to their training that they absolutely refuse to use their right hand. Instead they exclusively use their left hand to do whatever task is necessary, until they have reached enlightenment."
 	},
 	{
 		"kanji": "野",
 		"strokes": "11",
+		"grade": "120",
+		"noteID": "kanji_野",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ずけ",
 			"つけ",
@@ -3797,7 +3877,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_野",
 		"components": [
 			{
 				"component": "里",
@@ -3808,12 +3887,15 @@
 				"meaning": "in advance"
 			}
 		],
-		"mnemonic": "In advance of making your home village you need to clear a field.",
-		"source": "https://jpdb.io/kanji/野#a"
+		"mnemonic": "In advance of making your home village you need to clear a field."
 	},
 	{
 		"kanji": "以",
 		"strokes": "5",
+		"grade": "126",
+		"noteID": "kanji_以",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"もち"
 		],
@@ -3891,7 +3973,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_以",
 		"components": [
 			{
 				"component": "𠄌",
@@ -3906,12 +3987,15 @@
 				"meaning": "person"
 			}
 		],
-		"mnemonic": "A pictograph of a sweaty person running away from someone who wants to kick their ass, by means of literally launching their leg in the direction of that person's butt.",
-		"source": "https://jpdb.io/kanji/以#a"
+		"mnemonic": "A pictograph of a sweaty person running away from someone who wants to kick their ass, by means of literally launching their leg in the direction of that person's butt."
 	},
 	{
 		"kanji": "思",
 		"strokes": "9",
+		"grade": "132",
+		"noteID": "kanji_思",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -3984,7 +4068,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_思",
 		"components": [
 			{
 				"component": "田",
@@ -3995,12 +4078,15 @@
 				"meaning": "heart"
 			}
 		],
-		"mnemonic": "If you really think that something is true then even a whole rice field worth of evidence might not be enough to change your heart. People are really stubborn, you know?",
-		"source": "https://jpdb.io/kanji/思#a"
+		"mnemonic": "If you really think that something is true then even a whole rice field worth of evidence might not be enough to change your heart. People are really stubborn, you know?"
 	},
 	{
 		"kanji": "家",
 		"strokes": "10",
+		"grade": "133",
+		"noteID": "kanji_家",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あり",
 			"え",
@@ -4087,7 +4173,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_家",
 		"components": [
 			{
 				"component": "宀",
@@ -4098,12 +4183,15 @@
 				"meaning": "wild pig"
 			}
 		],
-		"mnemonic": "A nice house with a roof with a chimney is not a place to keep a wild pig.",
-		"source": "https://jpdb.io/kanji/家#a"
+		"mnemonic": "A nice house with a roof with a chimney is not a place to keep a wild pig."
 	},
 	{
 		"kanji": "世",
 		"strokes": "5",
+		"grade": "135",
+		"noteID": "kanji_世",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"とし",
 			"ゆ",
@@ -4185,7 +4273,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_世",
 		"components": [
 			{
 				"component": "𠃊",
@@ -4196,12 +4283,15 @@
 				"meaning": "twenty"
 			}
 		],
-		"mnemonic": "At the start of the twentieth century we had two huge world wars which claimed a lot of lives. You can still see how the world was back then by looking at the pictures from that era, pictures that sit now in a picture frame.",
-		"source": "https://jpdb.io/kanji/世#a"
+		"mnemonic": "At the start of the twentieth century we had two huge world wars which claimed a lot of lives. You can still see how the world was back then by looking at the pictures from that era, pictures that sit now in a picture frame."
 	},
 	{
 		"kanji": "多",
 		"strokes": "6",
+		"grade": "139",
+		"noteID": "kanji_多",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"タ"
 		],
@@ -4276,7 +4366,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_多",
 		"components": [
 			{
 				"component": "夕",
@@ -4287,12 +4376,15 @@
 				"meaning": "evening (before sunset)"
 			}
 		],
-		"mnemonic": "You will live to see many evenings.",
-		"source": "https://jpdb.io/kanji/多#a"
+		"mnemonic": "You will live to see many evenings."
 	},
 	{
 		"kanji": "正",
 		"strokes": "5",
+		"grade": "143",
+		"noteID": "kanji_正",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"おお",
 			"くに",
@@ -4378,7 +4470,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_正",
 		"components": [
 			{
 				"component": "一",
@@ -4389,12 +4480,15 @@
 				"meaning": "stop"
 			}
 		],
-		"mnemonic": "You stop once you get one correct answer.",
-		"source": "https://jpdb.io/kanji/正#a"
+		"mnemonic": "You stop once you get one correct answer."
 	},
 	{
 		"kanji": "安",
 		"strokes": "6",
+		"grade": "144",
+		"noteID": "kanji_安",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あす",
@@ -4482,7 +4576,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_安",
 		"components": [
 			{
 				"component": "宀",
@@ -4493,12 +4586,15 @@
 				"meaning": "woman"
 			}
 		],
-		"mnemonic": "If you have a nice house with a roof with a chimney, and a woman living there who's waiting for you to come home from work, who loves you and keeps you warm at night, well, that brings a certain piece of mind when you think about it, doesn't it?",
-		"source": "https://jpdb.io/kanji/安#a"
+		"mnemonic": "If you have a nice house with a roof with a chimney, and a woman living there who's waiting for you to come home from work, who loves you and keeps you warm at night, well, that brings a certain piece of mind when you think about it, doesn't it?"
 	},
 	{
 		"kanji": "院",
 		"strokes": "10",
+		"grade": "150",
+		"noteID": "kanji_院",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"イン"
 		],
@@ -4571,7 +4667,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_院",
 		"components": [
 			{
 				"component": "阝",
@@ -4582,12 +4677,15 @@
 				"meaning": "complete"
 			}
 		],
-		"mnemonic": "We visited an institution in a small village and found it to be complete.",
-		"source": "https://jpdb.io/kanji/院#a"
+		"mnemonic": "We visited an institution in a small village and found it to be complete."
 	},
 	{
 		"kanji": "心",
 		"strokes": "4",
+		"grade": "157",
+		"noteID": "kanji_心",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シン"
 		],
@@ -4661,13 +4759,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_心",
-		"mnemonic": "A pictograph of a heart.",
-		"source": "https://jpdb.io/kanji/心#a"
+		"mnemonic": "A pictograph of a heart."
 	},
 	{
 		"kanji": "界",
 		"strokes": "9",
+		"grade": "158",
+		"noteID": "kanji_界",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"カイ"
 		],
@@ -4737,7 +4837,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_界",
 		"components": [
 			{
 				"component": "田",
@@ -4748,12 +4847,15 @@
 				"meaning": "mediate"
 			}
 		],
-		"mnemonic": "A rice field is a quiet, serene place, where you can just sit down where you can mediate with another realm, be it the realm of the gods, or the realm of the dead.",
-		"source": "https://jpdb.io/kanji/界#a"
+		"mnemonic": "A rice field is a quiet, serene place, where you can just sit down where you can mediate with another realm, be it the realm of the gods, or the realm of the dead."
 	},
 	{
 		"kanji": "教",
 		"strokes": "11",
+		"grade": "166",
+		"noteID": "kanji_教",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"のり",
 			"ひさ"
@@ -4832,7 +4934,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_教",
 		"components": [
 			{
 				"component": "孝",
@@ -4843,12 +4944,15 @@
 				"meaning": "folding chair"
 			}
 		],
-		"mnemonic": "\"Fullfill your duty to your parents by sitting on this damn folding chair, and just let me teach you!\" said the teacher to a rowdy kid in his class.\nIn Asian cultures it's very important that you fulfill your duty to your parents. And when you're a kid you do that by paying attention at school and getting good grades.",
-		"source": "https://jpdb.io/kanji/教#a"
+		"mnemonic": "\"Fullfill your duty to your parents by sitting on this damn folding chair, and just let me teach you!\" said the teacher to a rowdy kid in his class.\nIn Asian cultures it's very important that you fulfill your duty to your parents. And when you're a kid you do that by paying attention at school and getting good grades."
 	},
 	{
 		"kanji": "文",
 		"strokes": "4",
+		"grade": "190",
+		"noteID": "kanji_文",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"かざり",
 			"ふ",
@@ -4934,7 +5038,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_文",
 		"components": [
 			{
 				"component": "亠",
@@ -4945,12 +5048,15 @@
 				"meaning": "folding chair legs"
 			}
 		],
-		"mnemonic": "You have homework to do. You need to write an essay — a bunch of sentences strung together into one coherent story. But you don't have anything to sit on... Your only folding chair broke, and you only have the folding chair legs... Hey, I know! Just put a lid on it and you should be able to sit down! Yeah, the handle of the lid might might be a little bit uncomfortable when you sit on it, but what else can do you?",
-		"source": "https://jpdb.io/kanji/文#a"
+		"mnemonic": "You have homework to do. You need to write an essay — a bunch of sentences strung together into one coherent story. But you don't have anything to sit on... Your only folding chair broke, and you only have the folding chair legs... Hey, I know! Just put a lid on it and you should be able to sit down! Yeah, the handle of the lid might might be a little bit uncomfortable when you sit on it, but what else can do you?"
 	},
 	{
 		"kanji": "元",
 		"strokes": "4",
+		"grade": "192",
+		"noteID": "kanji_元",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ちか",
 			"はじめ",
@@ -5032,7 +5138,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_元",
 		"components": [
 			{
 				"component": "一",
@@ -5043,12 +5148,15 @@
 				"meaning": "high and steep"
 			}
 		],
-		"mnemonic": "On this one high and steep mountain peak is where you'll find the origin of the mountain spring.",
-		"source": "https://jpdb.io/kanji/元#a"
+		"mnemonic": "On this one high and steep mountain peak is where you'll find the origin of the mountain spring."
 	},
 	{
 		"kanji": "重",
 		"strokes": "9",
+		"grade": "193",
+		"noteID": "kanji_重",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さね",
 			"しげ",
@@ -5139,7 +5247,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_重",
 		"components": [
 			{
 				"component": "千",
@@ -5150,12 +5257,15 @@
 				"meaning": "home village"
 			}
 		],
-		"mnemonic": "Over a thousand folk call this their home village, it must be a heavy responsibility for the village chief to take care of it.",
-		"source": "https://jpdb.io/kanji/重#a"
+		"mnemonic": "Over a thousand folk call this their home village, it must be a heavy responsibility for the village chief to take care of it."
 	},
 	{
 		"kanji": "近",
 		"strokes": "7",
+		"grade": "194",
+		"noteID": "kanji_近",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"おう",
 			"おお",
@@ -5236,7 +5346,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_近",
 		"components": [
 			{
 				"component": "斤",
@@ -5247,12 +5356,15 @@
 				"meaning": "road"
 			}
 		],
-		"mnemonic": "If you see a bloody axe left on the road in the middle of the night then the killer is probably near.",
-		"source": "https://jpdb.io/kanji/近#a"
+		"mnemonic": "If you see a bloody axe left on the road in the middle of the night then the killer is probably near."
 	},
 	{
 		"kanji": "考",
 		"strokes": "6",
+		"grade": "196",
+		"noteID": "kanji_考",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"たか"
 		],
@@ -5329,7 +5441,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_考",
 		"components": [
 			{
 				"component": "耂",
@@ -5340,12 +5451,15 @@
 				"meaning": "be unable to breathe"
 			}
 		],
-		"mnemonic": "If you think about being put in an old grave, being under all of that earth with no way out and eventually not being able to breathe due to running out of air... that's a terrifying thought, isn't it?\nThis kanji depicts this situation in a pictographic way — at the top we have the grave itself, and underneath is you, unable to breath.",
-		"source": "https://jpdb.io/kanji/考#a"
+		"mnemonic": "If you think about being put in an old grave, being under all of that earth with no way out and eventually not being able to breathe due to running out of air... that's a terrifying thought, isn't it?\nThis kanji depicts this situation in a pictographic way — at the top we have the grave itself, and underneath is you, unable to breath."
 	},
 	{
 		"kanji": "画",
 		"strokes": "8",
+		"grade": "199",
+		"noteID": "kanji_画",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ガ",
 			"カク",
@@ -5423,7 +5537,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_画",
 		"components": [
 			{
 				"component": "一",
@@ -5437,12 +5550,15 @@
 				"component": "由",
 				"meaning": "reason"
 			}
-		],
-		"source": "https://jpdb.io/kanji/画#a"
+		]
 	},
 	{
 		"kanji": "海",
 		"strokes": "9",
+		"grade": "200",
+		"noteID": "kanji_海",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あま",
@@ -5532,7 +5648,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_海",
 		"components": [
 			{
 				"component": "氵",
@@ -5543,12 +5658,15 @@
 				"meaning": "every"
 			}
 		],
-		"mnemonic": "Eventually every drop of water ends up in the sea.",
-		"source": "https://jpdb.io/kanji/海#a"
+		"mnemonic": "Eventually every drop of water ends up in the sea."
 	},
 	{
 		"kanji": "売",
 		"strokes": "7",
+		"grade": "202",
+		"noteID": "kanji_売",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"うり",
 			"うる",
@@ -5626,7 +5744,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_売",
 		"components": [
 			{
 				"component": "士",
@@ -5641,12 +5758,15 @@
 				"meaning": "legs"
 			}
 		],
-		"mnemonic": "A professional is someone who goes out and sells his services to those who'd rather rest their legs underneath their cozy roof instead of doing the work themselves.",
-		"source": "https://jpdb.io/kanji/売#a"
+		"mnemonic": "A professional is someone who goes out and sells his services to those who'd rather rest their legs underneath their cozy roof instead of doing the work themselves."
 	},
 	{
 		"kanji": "知",
 		"strokes": "8",
+		"grade": "205",
+		"noteID": "kanji_知",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さと",
 			"さとる",
@@ -5728,7 +5848,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_知",
 		"components": [
 			{
 				"component": "矢",
@@ -5739,12 +5858,15 @@
 				"meaning": "mouth"
 			}
 		],
-		"mnemonic": "If you know an answer to something then that information will fly from your mouth like an arrow.",
-		"source": "https://jpdb.io/kanji/知#a"
+		"mnemonic": "If you know an answer to something then that information will fly from your mouth like an arrow."
 	},
 	{
 		"kanji": "道",
 		"strokes": "12",
+		"grade": "207",
+		"noteID": "kanji_道",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さ",
 			"じ",
@@ -5830,7 +5952,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_道",
 		"components": [
 			{
 				"component": "首",
@@ -5840,12 +5961,15 @@
 				"component": "⻌",
 				"meaning": "road"
 			}
-		],
-		"source": "https://jpdb.io/kanji/道#a"
+		]
 	},
 	{
 		"kanji": "集",
 		"strokes": "12",
+		"grade": "210",
+		"noteID": "kanji_集",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あつまり",
 			"ず"
@@ -5927,7 +6051,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_集",
 		"components": [
 			{
 				"component": "隹",
@@ -5938,12 +6061,15 @@
 				"meaning": "tree"
 			}
 		],
-		"mnemonic": "Sometimes old birds like to gather together on top of a tree and poop on anyone unfortunate enough to walk under that tree.",
-		"source": "https://jpdb.io/kanji/集#a"
+		"mnemonic": "Sometimes old birds like to gather together on top of a tree and poop on anyone unfortunate enough to walk under that tree."
 	},
 	{
 		"kanji": "別",
 		"strokes": "7",
+		"grade": "214",
+		"noteID": "kanji_別",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"べっ"
 		],
@@ -6025,7 +6151,6 @@
 			"has::mnemonic",
 			"components::4"
 		],
-		"noteID": "kanji_別",
 		"components": [
 			{
 				"component": "口",
@@ -6044,12 +6169,15 @@
 				"meaning": "knife"
 			}
 		],
-		"mnemonic": "A mouth holding a ten thousand yen bill. \"Damn it, give it back! I'll to use my knife to separate it if I have to!\"",
-		"source": "https://jpdb.io/kanji/別#a"
+		"mnemonic": "A mouth holding a ten thousand yen bill. \"Damn it, give it back! I'll to use my knife to separate it if I have to!\""
 	},
 	{
 		"kanji": "物",
 		"strokes": "8",
+		"grade": "215",
+		"noteID": "kanji_物",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ブツ",
 			"モツ"
@@ -6124,7 +6252,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_物",
 		"components": [
 			{
 				"component": "牛",
@@ -6135,12 +6262,15 @@
 				"meaning": "must not"
 			}
 		],
-		"mnemonic": "In India you must not harm any cows nor treat them like things.",
-		"source": "https://jpdb.io/kanji/物#a"
+		"mnemonic": "In India you must not harm any cows nor treat them like things."
 	},
 	{
 		"kanji": "使",
 		"strokes": "8",
+		"grade": "219",
+		"noteID": "kanji_使",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -6219,7 +6349,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_使",
 		"components": [
 			{
 				"component": "亻",
@@ -6229,12 +6358,15 @@
 				"component": "吏",
 				"meaning": "government official"
 			}
-		],
-		"source": "https://jpdb.io/kanji/使#a"
+		]
 	},
 	{
 		"kanji": "品",
 		"strokes": "9",
+		"grade": "225",
+		"noteID": "kanji_品",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ヒン",
 			"ホン"
@@ -6309,7 +6441,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_品",
 		"components": [
 			{
 				"component": "口",
@@ -6319,12 +6450,15 @@
 				"component": "吅",
 				"meaning": "two mouths"
 			}
-		],
-		"source": "https://jpdb.io/kanji/品#a"
+		]
 	},
 	{
 		"kanji": "計",
 		"strokes": "9",
+		"grade": "228",
+		"noteID": "kanji_計",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"え",
 			"かず",
@@ -6405,7 +6539,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_計",
 		"components": [
 			{
 				"component": "言",
@@ -6416,12 +6549,15 @@
 				"meaning": "ten"
 			}
 		],
-		"mnemonic": "After you measure something say it out loud ten times so you don't forget it.\n(You know how you have to constantly repeat a long number to yourself so that you don't immediately forget it? This is it.)",
-		"source": "https://jpdb.io/kanji/計#a"
+		"mnemonic": "After you measure something say it out loud ten times so you don't forget it.\n(You know how you have to constantly repeat a long number to yourself so that you don't immediately forget it? This is it.)"
 	},
 	{
 		"kanji": "死",
 		"strokes": "6",
+		"grade": "229",
+		"noteID": "kanji_死",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -6494,7 +6630,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_死",
 		"components": [
 			{
 				"component": "歹",
@@ -6505,12 +6640,15 @@
 				"meaning": "spoon"
 			}
 		],
-		"mnemonic": "Long after your death the only thing left of you will be your bone remains. And maybe your spoon, if it was made out of metal.",
-		"source": "https://jpdb.io/kanji/死#a"
+		"mnemonic": "Long after your death the only thing left of you will be your bone remains. And maybe your spoon, if it was made out of metal."
 	},
 	{
 		"kanji": "特",
 		"strokes": "10",
+		"grade": "234",
+		"noteID": "kanji_特",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"トク"
 		],
@@ -6579,7 +6717,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_特",
 		"components": [
 			{
 				"component": "牛",
@@ -6590,12 +6727,15 @@
 				"meaning": "Buddhist temple"
 			}
 		],
-		"mnemonic": "Only the most special cow is invited to the Buddhist temple.",
-		"source": "https://jpdb.io/kanji/特#a"
+		"mnemonic": "Only the most special cow is invited to the Buddhist temple."
 	},
 	{
 		"kanji": "私",
 		"strokes": "7",
+		"grade": "242",
+		"noteID": "kanji_私",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -6669,7 +6809,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_私",
 		"components": [
 			{
 				"component": "禾",
@@ -6680,12 +6819,15 @@
 				"meaning": "arm of a bodybuilder"
 			}
 		],
-		"mnemonic": "Bodybuilders eat a lot of grains in private; that's why their arms are so jacked!",
-		"source": "https://jpdb.io/kanji/私#a"
+		"mnemonic": "Bodybuilders eat a lot of grains in private; that's why their arms are so jacked!"
 	},
 	{
 		"kanji": "始",
 		"strokes": "8",
+		"grade": "244",
+		"noteID": "kanji_始",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"もと"
 		],
@@ -6763,7 +6905,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_始",
 		"components": [
 			{
 				"component": "女",
@@ -6774,12 +6915,15 @@
 				"meaning": "pedestal"
 			}
 		],
-		"mnemonic": "The woman standing next to a pedestal at the race waves the flag, signalling when to begin.",
-		"source": "https://jpdb.io/kanji/始#a"
+		"mnemonic": "The woman standing next to a pedestal at the race waves the flag, signalling when to begin."
 	},
 	{
 		"kanji": "朝",
 		"strokes": "12",
+		"grade": "248",
+		"noteID": "kanji_朝",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あそ",
@@ -6863,7 +7007,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_朝",
 		"components": [
 			{
 				"component": "十",
@@ -6878,12 +7021,15 @@
 				"meaning": "moon"
 			}
 		],
-		"mnemonic": "When I woke up this morning I saw the moon. I guess I woke up really early, so I went back to sleep and... crap! It's ten o'clock already! I overslept!",
-		"source": "https://jpdb.io/kanji/朝#a"
+		"mnemonic": "When I woke up this morning I saw the moon. I guess I woke up really early, so I went back to sleep and... crap! It's ten o'clock already! I overslept!"
 	},
 	{
 		"kanji": "運",
 		"strokes": "12",
+		"grade": "255",
+		"noteID": "kanji_運",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ウン"
 		],
@@ -6961,7 +7107,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_運",
 		"components": [
 			{
 				"component": "軍",
@@ -6972,12 +7117,15 @@
 				"meaning": "road"
 			}
 		],
-		"mnemonic": "An army on the road carrying weapons and supplies.",
-		"source": "https://jpdb.io/kanji/運#a"
+		"mnemonic": "An army on the road carrying weapons and supplies."
 	},
 	{
 		"kanji": "終",
 		"strokes": "11",
+		"grade": "256",
+		"noteID": "kanji_終",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ばて"
 		],
@@ -7058,7 +7206,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_終",
 		"components": [
 			{
 				"component": "糸",
@@ -7069,12 +7216,15 @@
 				"meaning": "winter"
 			}
 		],
-		"mnemonic": "In winter you will need to wrap yourself in some warm threads, otherwise it will be the end of you.",
-		"source": "https://jpdb.io/kanji/終#a"
+		"mnemonic": "In winter you will need to wrap yourself in some warm threads, otherwise it will be the end of you."
 	},
 	{
 		"kanji": "台",
 		"strokes": "5",
+		"grade": "262",
+		"noteID": "kanji_台",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ダイ",
 			"タイ"
@@ -7150,7 +7300,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_台",
 		"components": [
 			{
 				"component": "厶",
@@ -7161,12 +7310,15 @@
 				"meaning": "mouth"
 			}
 		],
-		"mnemonic": "A pictograph of an arm of a bodybuilder on top of a rectangular pedestal waiting to arm-wrestle someone.",
-		"source": "https://jpdb.io/kanji/台#a"
+		"mnemonic": "A pictograph of an arm of a bodybuilder on top of a rectangular pedestal waiting to arm-wrestle someone."
 	},
 	{
 		"kanji": "広",
 		"strokes": "5",
+		"grade": "263",
+		"noteID": "kanji_広",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"コウ"
 		],
@@ -7242,7 +7394,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_広",
 		"components": [
 			{
 				"component": "广",
@@ -7252,12 +7403,15 @@
 				"component": "厶",
 				"meaning": "arm of a bodybuilder"
 			}
-		],
-		"source": "https://jpdb.io/kanji/広#a"
+		]
 	},
 	{
 		"kanji": "住",
 		"strokes": "7",
+		"grade": "270",
+		"noteID": "kanji_住",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"し",
 			"じゅ",
@@ -7340,7 +7494,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_住",
 		"components": [
 			{
 				"component": "亻",
@@ -7350,12 +7503,15 @@
 				"component": "主",
 				"meaning": "(one's) master"
 			}
-		],
-		"source": "https://jpdb.io/kanji/住#a"
+		]
 	},
 	{
 		"kanji": "真",
 		"strokes": "10",
+		"grade": "279",
+		"noteID": "kanji_真",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さな",
 			"さね",
@@ -7448,7 +7604,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_真",
 		"components": [
 			{
 				"component": "十",
@@ -7459,12 +7614,15 @@
 				"meaning": "tool"
 			}
 		],
-		"mnemonic": "If you use ten different tools to measure something, and you still get the same result — well, whatever you've measured the first time must have been the truth.",
-		"source": "https://jpdb.io/kanji/真#a"
+		"mnemonic": "If you use ten different tools to measure something, and you still get the same result — well, whatever you've measured the first time must have been the truth."
 	},
 	{
 		"kanji": "有",
 		"strokes": "6",
+		"grade": "282",
+		"noteID": "kanji_有",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あら",
@@ -7550,7 +7708,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_有",
 		"components": [
 			{
 				"component": "𠂇",
@@ -7560,12 +7717,15 @@
 				"component": "月",
 				"meaning": "moon"
 			}
-		],
-		"source": "https://jpdb.io/kanji/有#a"
+		]
 	},
 	{
 		"kanji": "口",
 		"strokes": "3",
+		"grade": "284",
+		"noteID": "kanji_口",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"コウ",
 			"ク"
@@ -7636,13 +7796,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_口",
-		"mnemonic": "A pictograph of an open mouth.",
-		"source": "https://jpdb.io/kanji/口#a"
+		"mnemonic": "A pictograph of an open mouth."
 	},
 	{
 		"kanji": "少",
 		"strokes": "4",
+		"grade": "287",
+		"noteID": "kanji_少",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ショウ"
 		],
@@ -7715,7 +7877,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_少",
 		"components": [
 			{
 				"component": "小",
@@ -7726,12 +7887,15 @@
 				"meaning": "slash left"
 			}
 		],
-		"mnemonic": "If you take something that is already small and slash at it a few times to break it into chunks, well, at the end you're going to end up only with a few pieces. If you'd had something bigger you could have broken it up into more chunks, but alas.",
-		"source": "https://jpdb.io/kanji/少#a"
+		"mnemonic": "If you take something that is already small and slash at it a few times to break it into chunks, well, at the end you're going to end up only with a few pieces. If you'd had something bigger you could have broken it up into more chunks, but alas."
 	},
 	{
 		"kanji": "町",
 		"strokes": "7",
+		"grade": "292",
+		"noteID": "kanji_町",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"チョウ"
 		],
@@ -7805,7 +7969,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_町",
 		"components": [
 			{
 				"component": "田",
@@ -7816,12 +7979,15 @@
 				"meaning": "street"
 			}
 		],
-		"mnemonic": "Along this street past the rice field on your left you'll find our town.",
-		"source": "https://jpdb.io/kanji/町#a"
+		"mnemonic": "Along this street past the rice field on your left you'll find our town."
 	},
 	{
 		"kanji": "料",
 		"strokes": "10",
+		"grade": "295",
+		"noteID": "kanji_料",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"リョウ"
 		],
@@ -7891,7 +8057,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_料",
 		"components": [
 			{
 				"component": "米",
@@ -7902,12 +8067,15 @@
 				"meaning": "18 litres"
 			}
 		],
-		"mnemonic": "The ingredients for this dish consist of 18 litres of rice, what the hell!",
-		"source": "https://jpdb.io/kanji/料#a"
+		"mnemonic": "The ingredients for this dish consist of 18 litres of rice, what the hell!"
 	},
 	{
 		"kanji": "工",
 		"strokes": "3",
+		"grade": "299",
+		"noteID": "kanji_工",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"もく"
 		],
@@ -7983,13 +8151,15 @@
 			"has::words",
 			"has::mnemonic"
 		],
-		"noteID": "kanji_工",
-		"mnemonic": "A pictograph of a steel I-beam used during construction.",
-		"source": "https://jpdb.io/kanji/工#a"
+		"mnemonic": "A pictograph of a steel I-beam used during construction."
 	},
 	{
 		"kanji": "建",
 		"strokes": "9",
+		"grade": "300",
+		"noteID": "kanji_建",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"たけ",
 			"たつ",
@@ -8069,7 +8239,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_建",
 		"components": [
 			{
 				"component": "聿",
@@ -8079,12 +8248,15 @@
 				"component": "廴",
 				"meaning": "long stride"
 			}
-		],
-		"source": "https://jpdb.io/kanji/建#a"
+		]
 	},
 	{
 		"kanji": "空",
 		"strokes": "8",
+		"grade": "304",
+		"noteID": "kanji_空",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"うつ",
 			"き",
@@ -8172,7 +8344,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_空",
 		"components": [
 			{
 				"component": "穴",
@@ -8183,12 +8354,15 @@
 				"meaning": "construction"
 			}
 		],
-		"mnemonic": "If you make a hole during construction it will be filled with empty air.",
-		"source": "https://jpdb.io/kanji/空#a"
+		"mnemonic": "If you make a hole during construction it will be filled with empty air."
 	},
 	{
 		"kanji": "急",
 		"strokes": "9",
+		"grade": "309",
+		"noteID": "kanji_急",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"キュウ"
 		],
@@ -8263,7 +8437,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_急",
 		"components": [
 			{
 				"component": "𠂊",
@@ -8277,12 +8450,15 @@
 				"component": "心",
 				"meaning": "heart"
 			}
-		],
-		"source": "https://jpdb.io/kanji/急#a"
+		]
 	},
 	{
 		"kanji": "止",
 		"strokes": "4",
+		"grade": "310",
+		"noteID": "kanji_止",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"どめ"
 		],
@@ -8371,7 +8547,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_止",
 		"components": [
 			{
 				"component": "丨",
@@ -8382,12 +8557,15 @@
 				"meaning": "above"
 			}
 		],
-		"mnemonic": "If you encounter a giant stick stuck above the ground you'll surely have to stop or you'll crash into it.",
-		"source": "https://jpdb.io/kanji/止#a"
+		"mnemonic": "If you encounter a giant stick stuck above the ground you'll surely have to stop or you'll crash into it."
 	},
 	{
 		"kanji": "送",
 		"strokes": "9",
+		"grade": "311",
+		"noteID": "kanji_送",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ソウ"
 		],
@@ -8458,7 +8636,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_送",
 		"components": [
 			{
 				"component": "丷",
@@ -8472,12 +8649,15 @@
 				"component": "⻌",
 				"meaning": "road"
 			}
-		],
-		"source": "https://jpdb.io/kanji/送#a"
+		]
 	},
 	{
 		"kanji": "切",
 		"strokes": "4",
+		"grade": "324",
+		"noteID": "kanji_切",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"きつ",
 			"きり",
@@ -8566,7 +8746,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_切",
 		"components": [
 			{
 				"component": "七",
@@ -8577,12 +8756,15 @@
 				"meaning": "katana"
 			}
 		],
-		"mnemonic": "The katana is the best weapon to cut through seven things at once. Sharp!",
-		"source": "https://jpdb.io/kanji/切#a"
+		"mnemonic": "The katana is the best weapon to cut through seven things at once. Sharp!"
 	},
 	{
 		"kanji": "転",
 		"strokes": "11",
+		"grade": "327",
+		"noteID": "kanji_転",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"テン"
 		],
@@ -8662,7 +8844,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_転",
 		"components": [
 			{
 				"component": "車",
@@ -8673,12 +8854,15 @@
 				"meaning": "quote"
 			}
 		],
-		"mnemonic": "To quote my favorite vehicle related poem, the wheels on the bus go round and round... in other words they roll around.",
-		"source": "https://jpdb.io/kanji/転#a"
+		"mnemonic": "To quote my favorite vehicle related poem, the wheels on the bus go round and round... in other words they roll around."
 	},
 	{
 		"kanji": "研",
 		"strokes": "9",
+		"grade": "336",
+		"noteID": "kanji_研",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"のり"
 		],
@@ -8755,7 +8939,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_研",
 		"components": [
 			{
 				"component": "石",
@@ -8766,12 +8949,15 @@
 				"meaning": "oriental lantern"
 			}
 		],
-		"mnemonic": "If you'd like to refine your Japanese garden and make it more classy consider adding a stone trail and a fancy oriental lantern next to it.",
-		"source": "https://jpdb.io/kanji/研#a"
+		"mnemonic": "If you'd like to refine your Japanese garden and make it more classy consider adding a stone trail and a fancy oriental lantern next to it."
 	},
 	{
 		"kanji": "足",
 		"strokes": "7",
+		"grade": "343",
+		"noteID": "kanji_足",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あす",
@@ -8855,7 +9041,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_足",
 		"components": [
 			{
 				"component": "口",
@@ -8866,12 +9051,15 @@
 				"meaning": "running shoes"
 			}
 		],
-		"mnemonic": "Gross! Do not put your mouth in your running shoes! That's where your foot goes, right?!",
-		"source": "https://jpdb.io/kanji/足#a"
+		"mnemonic": "Gross! Do not put your mouth in your running shoes! That's where your foot goes, right?!"
 	},
 	{
 		"kanji": "究",
 		"strokes": "7",
+		"grade": "368",
+		"noteID": "kanji_究",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"きゅ"
 		],
@@ -8948,7 +9136,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_究",
 		"components": [
 			{
 				"component": "穴",
@@ -8959,12 +9146,15 @@
 				"meaning": "nine"
 			}
 		],
-		"mnemonic": "Archeologists dig a lot of holes. This one has dug nine holes for research.",
-		"source": "https://jpdb.io/kanji/究#a"
+		"mnemonic": "Archeologists dig a lot of holes. This one has dug nine holes for research."
 	},
 	{
 		"kanji": "楽",
 		"strokes": "13",
+		"grade": "373",
+		"noteID": "kanji_楽",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さ",
 			"た",
@@ -9048,7 +9238,6 @@
 			"has::mnemonic",
 			"components::4"
 		],
-		"noteID": "kanji_楽",
 		"components": [
 			{
 				"component": "丷",
@@ -9067,12 +9256,15 @@
 				"meaning": "tree"
 			}
 		],
-		"mnemonic": "A pictograph of a tree with a white glowing ornament at the top. It's a tree which gives comfort to millions of people around the world each year when they see it in their homes. Yes, that's a Christmas tree!",
-		"source": "https://jpdb.io/kanji/楽#a"
+		"mnemonic": "A pictograph of a tree with a white glowing ornament at the top. It's a tree which gives comfort to millions of people around the world each year when they see it in their homes. Yes, that's a Christmas tree!"
 	},
 	{
 		"kanji": "起",
 		"strokes": "10",
+		"grade": "374",
+		"noteID": "kanji_起",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"キ"
 		],
@@ -9149,7 +9341,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_起",
 		"components": [
 			{
 				"component": "己",
@@ -9160,12 +9351,15 @@
 				"meaning": "run"
 			}
 		],
-		"mnemonic": "If you run without paying too much attention an accident is bound to occur, usually to oneself.\n(Imagine literally running into oneself reflected in a mirror.)",
-		"source": "https://jpdb.io/kanji/起#a"
+		"mnemonic": "If you run without paying too much attention an accident is bound to occur, usually to oneself.\n(Imagine literally running into oneself reflected in a mirror.)"
 	},
 	{
 		"kanji": "着",
 		"strokes": "12",
+		"grade": "376",
+		"noteID": "kanji_着",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"チャク",
 			"ジャク"
@@ -9243,7 +9437,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_着",
 		"components": [
 			{
 				"component": "𦍌",
@@ -9258,12 +9451,15 @@
 				"meaning": "eye"
 			}
 		],
-		"mnemonic": "Why do people wear protective equipment? So that they eye doesn't get slashed by a force of nature they're working with, say, a wild animal like a bear or an explosive chemical reaction. Better be safe than sorry!\n(This kanji is usually used to mean \"wear\" from the shoulders down, so it excludes various form of facewear and eye protection, however you can imagine a full-body kevlar-reinforced body suit that would also cover your face.)",
-		"source": "https://jpdb.io/kanji/着#a"
+		"mnemonic": "Why do people wear protective equipment? So that they eye doesn't get slashed by a force of nature they're working with, say, a wild animal like a bear or an explosive chemical reaction. Better be safe than sorry!\n(This kanji is usually used to mean \"wear\" from the shoulders down, so it excludes various form of facewear and eye protection, however you can imagine a full-body kevlar-reinforced body suit that would also cover your face.)"
 	},
 	{
 		"kanji": "店",
 		"strokes": "8",
+		"grade": "378",
+		"noteID": "kanji_店",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"テン"
 		],
@@ -9336,7 +9532,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_店",
 		"components": [
 			{
 				"component": "广",
@@ -9347,12 +9542,15 @@
 				"meaning": "fortune-telling"
 			}
 		],
-		"mnemonic": "See that house on a cliff? That's a shop where you can go for some fortune-telling.",
-		"source": "https://jpdb.io/kanji/店#a"
+		"mnemonic": "See that house on a cliff? That's a shop where you can go for some fortune-telling."
 	},
 	{
 		"kanji": "病",
 		"strokes": "10",
+		"grade": "384",
+		"noteID": "kanji_病",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ビョウ",
 			"ヘイ"
@@ -9426,7 +9624,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_病",
 		"components": [
 			{
 				"component": "疒",
@@ -9440,12 +9637,15 @@
 				"component": "内",
 				"meaning": "inside"
 			}
-		],
-		"source": "https://jpdb.io/kanji/病#a"
+		]
 	},
 	{
 		"kanji": "質",
 		"strokes": "15",
+		"grade": "389",
+		"noteID": "kanji_質",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シツ",
 			"シチ",
@@ -9524,7 +9724,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_質",
 		"components": [
 			{
 				"component": "斤",
@@ -9539,12 +9738,15 @@
 				"meaning": "shellfish"
 			}
 		],
-		"mnemonic": "You know the shellfish is pure quality when you've tried to crack it open with two different axes and it still won't budge.",
-		"source": "https://jpdb.io/kanji/質#a"
+		"mnemonic": "You know the shellfish is pure quality when you've tried to crack it open with two different axes and it still won't budge."
 	},
 	{
 		"kanji": "待",
 		"strokes": "9",
+		"grade": "391",
+		"noteID": "kanji_待",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"まち",
 			"まつ"
@@ -9622,7 +9824,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_待",
 		"components": [
 			{
 				"component": "彳",
@@ -9633,12 +9834,15 @@
 				"meaning": "Buddhist temple"
 			}
 		],
-		"mnemonic": "If you need a good place to wait then a Buddhist temple is going to be the perfect place to go to and stand still for a while among all of the meditating Buddhist monks.",
-		"source": "https://jpdb.io/kanji/待#a"
+		"mnemonic": "If you need a good place to wait then a Buddhist temple is going to be the perfect place to go to and stand still for a while among all of the meditating Buddhist monks."
 	},
 	{
 		"kanji": "試",
 		"strokes": "13",
+		"grade": "392",
+		"noteID": "kanji_試",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -9714,7 +9918,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_試",
 		"components": [
 			{
 				"component": "言",
@@ -9725,12 +9928,15 @@
 				"meaning": "ceremony"
 			}
 		],
-		"mnemonic": "What's a ceremony when you are supposed say the correct answers? It's a test! They're testing you out.",
-		"source": "https://jpdb.io/kanji/試#a"
+		"mnemonic": "What's a ceremony when you are supposed say the correct answers? It's a test! They're testing you out."
 	},
 	{
 		"kanji": "族",
 		"strokes": "11",
+		"grade": "393",
+		"noteID": "kanji_族",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"つぎ"
 		],
@@ -9804,7 +10010,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_族",
 		"components": [
 			{
 				"component": "方",
@@ -9819,12 +10024,15 @@
 				"meaning": "arrow"
 			}
 		],
-		"mnemonic": "\"This way! Shoot that cow head over there with your arrows!\" said the tribe's chief.",
-		"source": "https://jpdb.io/kanji/族#a"
+		"mnemonic": "\"This way! Shoot that cow head over there with your arrows!\" said the tribe's chief."
 	},
 	{
 		"kanji": "銀",
 		"strokes": "14",
+		"grade": "395",
+		"noteID": "kanji_銀",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"うん",
 			"かな",
@@ -9901,7 +10109,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_銀",
 		"components": [
 			{
 				"component": "金",
@@ -9912,12 +10119,15 @@
 				"meaning": "almost good"
 			}
 		],
-		"mnemonic": "Silver is almost as good as gold.",
-		"source": "https://jpdb.io/kanji/銀#a"
+		"mnemonic": "Silver is almost as good as gold."
 	},
 	{
 		"kanji": "早",
 		"strokes": "6",
+		"grade": "402",
+		"noteID": "kanji_早",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"さか",
 			"さわ",
@@ -10002,7 +10212,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_早",
 		"components": [
 			{
 				"component": "日",
@@ -10013,12 +10222,15 @@
 				"meaning": "ten"
 			}
 		],
-		"mnemonic": "The sun rises early in the morning, waaay before ten o'clock.",
-		"source": "https://jpdb.io/kanji/早#a"
+		"mnemonic": "The sun rises early in the morning, waaay before ten o'clock."
 	},
 	{
 		"kanji": "映",
 		"strokes": "9",
+		"grade": "404",
+		"noteID": "kanji_映",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あきら",
 			"え",
@@ -10099,7 +10311,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_映",
 		"components": [
 			{
 				"component": "日",
@@ -10109,12 +10320,15 @@
 				"component": "央",
 				"meaning": "center"
 			}
-		],
-		"source": "https://jpdb.io/kanji/映#a"
+		]
 	},
 	{
 		"kanji": "親",
 		"strokes": "16",
+		"grade": "406",
+		"noteID": "kanji_親",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ぎ",
 			"ちか",
@@ -10198,7 +10412,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_親",
 		"components": [
 			{
 				"component": "立",
@@ -10213,12 +10426,15 @@
 				"meaning": "see"
 			}
 		],
-		"mnemonic": "A parent is standing on top of a tree to see what their kid is doing.\n(Imagine that their kid is a teenager, and he has his girlfriend over in his room, and the parent promised not to interrupt. So the parent had no other choice than to get on top of the tree outside of his son's bedroom and try to see what's going on in there from the outside.)",
-		"source": "https://jpdb.io/kanji/親#a"
+		"mnemonic": "A parent is standing on top of a tree to see what their kid is doing.\n(Imagine that their kid is a teenager, and he has his girlfriend over in his room, and the parent promised not to interrupt. So the parent had no other choice than to get on top of the tree outside of his son's bedroom and try to see what's going on in there from the outside.)"
 	},
 	{
 		"kanji": "験",
 		"strokes": "18",
+		"grade": "410",
+		"noteID": "kanji_験",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ケン",
 			"ゲン"
@@ -10294,7 +10510,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_験",
 		"components": [
 			{
 				"component": "馬",
@@ -10304,12 +10519,15 @@
 				"component": "㑒",
 				"meaning": "consensus"
 			}
-		],
-		"source": "https://jpdb.io/kanji/験#a"
+		]
 	},
 	{
 		"kanji": "英",
 		"strokes": "8",
+		"grade": "430",
+		"noteID": "kanji_英",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あい",
@@ -10396,7 +10614,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_英",
 		"components": [
 			{
 				"component": "艹",
@@ -10407,12 +10624,15 @@
 				"meaning": "center"
 			}
 		],
-		"mnemonic": "In the center of England there is a lot of grass.",
-		"source": "https://jpdb.io/kanji/英#a"
+		"mnemonic": "In the center of England there is a lot of grass."
 	},
 	{
 		"kanji": "医",
 		"strokes": "7",
+		"grade": "437",
+		"noteID": "kanji_医",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"イ"
 		],
@@ -10485,7 +10705,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_医",
 		"components": [
 			{
 				"component": "匚",
@@ -10495,12 +10714,15 @@
 				"component": "矢",
 				"meaning": "arrow"
 			}
-		],
-		"source": "https://jpdb.io/kanji/医#a"
+		]
 	},
 	{
 		"kanji": "仕",
 		"strokes": "5",
+		"grade": "439",
+		"noteID": "kanji_仕",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ",
 			"ジ"
@@ -10575,7 +10797,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_仕",
 		"components": [
 			{
 				"component": "亻",
@@ -10586,12 +10807,15 @@
 				"meaning": "professional"
 			}
 		],
-		"mnemonic": "A professional is a person who serves his clients or his boss for money. Even if he's a thin weakling, as a proper professional he will do his job!",
-		"source": "https://jpdb.io/kanji/仕#a"
+		"mnemonic": "A professional is a person who serves his clients or his boss for money. Even if he's a thin weakling, as a proper professional he will do his job!"
 	},
 	{
 		"kanji": "去",
 		"strokes": "5",
+		"grade": "440",
+		"noteID": "kanji_去",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"い"
 		],
@@ -10674,7 +10898,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_去",
 		"components": [
 			{
 				"component": "土",
@@ -10685,12 +10908,15 @@
 				"meaning": "arm of a bodybuilder"
 			}
 		],
-		"mnemonic": "The great bodybuilders of the past are buried underneath the earth.",
-		"source": "https://jpdb.io/kanji/去#a"
+		"mnemonic": "The great bodybuilders of the past are buried underneath the earth."
 	},
 	{
 		"kanji": "味",
 		"strokes": "8",
+		"grade": "442",
+		"noteID": "kanji_味",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ミ"
 		],
@@ -10763,7 +10989,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_味",
 		"components": [
 			{
 				"component": "口",
@@ -10774,12 +10999,15 @@
 				"meaning": "not yet"
 			}
 		],
-		"mnemonic": "Not yet! I know you really want to put it in your mouth and just gulp it down, but wait! You need to go slow and really enjoy the flavor.",
-		"source": "https://jpdb.io/kanji/味#a"
+		"mnemonic": "Not yet! I know you really want to put it in your mouth and just gulp it down, but wait! You need to go slow and really enjoy the flavor."
 	},
 	{
 		"kanji": "写",
 		"strokes": "5",
+		"grade": "453",
+		"noteID": "kanji_写",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シャ",
 			"ジャ"
@@ -10855,7 +11083,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_写",
 		"components": [
 			{
 				"component": "冖",
@@ -10865,12 +11092,15 @@
 				"component": "与",
 				"meaning": "bestow upon"
 			}
-		],
-		"source": "https://jpdb.io/kanji/写#a"
+		]
 	},
 	{
 		"kanji": "字",
 		"strokes": "6",
+		"grade": "485",
+		"noteID": "kanji_字",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ジ"
 		],
@@ -10945,7 +11175,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_字",
 		"components": [
 			{
 				"component": "宀",
@@ -10955,12 +11184,15 @@
 				"component": "子",
 				"meaning": "child"
 			}
-		],
-		"source": "https://jpdb.io/kanji/字#a"
+		]
 	},
 	{
 		"kanji": "答",
 		"strokes": "12",
+		"grade": "486",
+		"noteID": "kanji_答",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"どう"
 		],
@@ -11037,7 +11269,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_答",
 		"components": [
 			{
 				"component": "竹",
@@ -11048,12 +11279,15 @@
 				"meaning": "come together"
 			}
 		],
-		"mnemonic": "To get the answer to your question you need to come together with me and have a discussion about it in our bamboo office.",
-		"source": "https://jpdb.io/kanji/答#a"
+		"mnemonic": "To get the answer to your question you need to come together with me and have a discussion about it in our bamboo office."
 	},
 	{
 		"kanji": "夜",
 		"strokes": "8",
+		"grade": "487",
+		"noteID": "kanji_夜",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ヤ"
 		],
@@ -11126,7 +11360,6 @@
 			"has::mnemonic",
 			"components::4"
 		],
-		"noteID": "kanji_夜",
 		"components": [
 			{
 				"component": "亠",
@@ -11145,12 +11378,15 @@
 				"meaning": "droplet"
 			}
 		],
-		"mnemonic": "At night we put a lid on the troubles of the day and rest. Picture the thin person wrapped up snugly in the cozy late winter blankets like a tiny droplet.",
-		"source": "https://jpdb.io/kanji/夜#a"
+		"mnemonic": "At night we put a lid on the troubles of the day and rest. Picture the thin person wrapped up snugly in the cozy late winter blankets like a tiny droplet."
 	},
 	{
 		"kanji": "音",
 		"strokes": "9",
+		"grade": "491",
+		"noteID": "kanji_音",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"お",
 			"と"
@@ -11230,7 +11466,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_音",
 		"components": [
 			{
 				"component": "立",
@@ -11241,12 +11476,15 @@
 				"meaning": "sun"
 			}
 		],
-		"mnemonic": "Imagine physically standing on the surface a sun. I'd be so hot that the only sound you'd be making is a horrific scream. \"Aaaaaaaaaaaaah! IT BURNS!\"",
-		"source": "https://jpdb.io/kanji/音#a"
+		"mnemonic": "Imagine physically standing on the surface a sun. I'd be so hot that the only sound you'd be making is a horrific scream. \"Aaaaaaaaaaaaah! IT BURNS!\""
 	},
 	{
 		"kanji": "注",
 		"strokes": "8",
+		"grade": "497",
+		"noteID": "kanji_注",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"チュウ"
 		],
@@ -11325,7 +11563,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_注",
 		"components": [
 			{
 				"component": "氵",
@@ -11335,12 +11572,15 @@
 				"component": "主",
 				"meaning": "(one's) master"
 			}
-		],
-		"source": "https://jpdb.io/kanji/注#a"
+		]
 	},
 	{
 		"kanji": "帰",
 		"strokes": "10",
+		"grade": "504",
+		"noteID": "kanji_帰",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"キ"
 		],
@@ -11417,7 +11657,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_帰",
 		"components": [
 			{
 				"component": "リ",
@@ -11428,12 +11667,15 @@
 				"meaning": "broom"
 			}
 		],
-		"mnemonic": "When you return home after a long vacation you'll have to grab a broom and clean up the whole place. And since you're returning from a vacation in Japan you'd use the katakana to spell \"return\" as リターン with an リ.",
-		"source": "https://jpdb.io/kanji/帰#a"
+		"mnemonic": "When you return home after a long vacation you'll have to grab a broom and clean up the whole place. And since you're returning from a vacation in Japan you'd use the katakana to spell \"return\" as リターン with an リ."
 	},
 	{
 		"kanji": "古",
 		"strokes": "5",
+		"grade": "509",
+		"noteID": "kanji_古",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ふゆ"
 		],
@@ -11510,7 +11752,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_古",
 		"components": [
 			{
 				"component": "十",
@@ -11521,12 +11762,15 @@
 				"meaning": "mouth"
 			}
 		],
-		"mnemonic": "A pictograph of an old gravestone.",
-		"source": "https://jpdb.io/kanji/古#a"
+		"mnemonic": "A pictograph of an old gravestone."
 	},
 	{
 		"kanji": "歌",
 		"strokes": "14",
+		"grade": "519",
+		"noteID": "kanji_歌",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"カ"
 		],
@@ -11598,7 +11842,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_歌",
 		"components": [
 			{
 				"component": "可",
@@ -11612,12 +11855,15 @@
 				"component": "欠",
 				"meaning": "lack of"
 			}
-		],
-		"source": "https://jpdb.io/kanji/歌#a"
+		]
 	},
 	{
 		"kanji": "買",
 		"strokes": "12",
+		"grade": "520",
+		"noteID": "kanji_買",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"バイ"
 		],
@@ -11688,7 +11934,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_買",
 		"components": [
 			{
 				"component": "罒",
@@ -11699,12 +11944,15 @@
 				"meaning": "shellfish"
 			}
 		],
-		"mnemonic": "The fisherman's small net is full of live shellfish! Will you buy some?",
-		"source": "https://jpdb.io/kanji/買#a"
+		"mnemonic": "The fisherman's small net is full of live shellfish! Will you buy some?"
 	},
 	{
 		"kanji": "悪",
 		"strokes": "11",
+		"grade": "530",
+		"noteID": "kanji_悪",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"アク",
 			"オ"
@@ -11789,7 +12037,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_悪",
 		"components": [
 			{
 				"component": "亜",
@@ -11800,12 +12047,15 @@
 				"meaning": "heart"
 			}
 		],
-		"mnemonic": "The heart of Asia is apparently in Afghanistan, where a lot of bad things are happening. War. Poverty. Terrorism. Corruption.",
-		"source": "https://jpdb.io/kanji/悪#a"
+		"mnemonic": "The heart of Asia is apparently in Afghanistan, where a lot of bad things are happening. War. Poverty. Terrorism. Corruption."
 	},
 	{
 		"kanji": "図",
 		"strokes": "7",
+		"grade": "539",
+		"noteID": "kanji_図",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"づ"
 		],
@@ -11886,7 +12136,6 @@
 			"has::mnemonic",
 			"components::4"
 		],
-		"noteID": "kanji_図",
 		"components": [
 			{
 				"component": "囗",
@@ -11905,12 +12154,15 @@
 				"meaning": "cross"
 			}
 		],
-		"mnemonic": "A pictograph of a diagram which shows you place where the treasure is hidden, with a cross marking the spot where it is buried, and two drops of ink showing the directions to go.",
-		"source": "https://jpdb.io/kanji/図#a"
+		"mnemonic": "A pictograph of a diagram which shows you place where the treasure is hidden, with a cross marking the spot where it is buried, and two drops of ink showing the directions to go."
 	},
 	{
 		"kanji": "週",
 		"strokes": "11",
+		"grade": "540",
+		"noteID": "kanji_週",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シュウ"
 		],
@@ -11978,7 +12230,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_週",
 		"components": [
 			{
 				"component": "周",
@@ -11988,12 +12239,15 @@
 				"component": "⻌",
 				"meaning": "road"
 			}
-		],
-		"source": "https://jpdb.io/kanji/週#a"
+		]
 	},
 	{
 		"kanji": "室",
 		"strokes": "9",
+		"grade": "550",
+		"noteID": "kanji_室",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シツ"
 		],
@@ -12067,7 +12321,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_室",
 		"components": [
 			{
 				"component": "宀",
@@ -12077,12 +12330,15 @@
 				"component": "至",
 				"meaning": "apex"
 			}
-		],
-		"source": "https://jpdb.io/kanji/室#a"
+		]
 	},
 	{
 		"kanji": "歩",
 		"strokes": "8",
+		"grade": "554",
+		"noteID": "kanji_歩",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"ゆき",
@@ -12163,7 +12419,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_歩",
 		"components": [
 			{
 				"component": "止",
@@ -12174,12 +12429,15 @@
 				"meaning": "few"
 			}
 		],
-		"mnemonic": "If you don't stop after a few steps then you're talking a walk.",
-		"source": "https://jpdb.io/kanji/歩#a"
+		"mnemonic": "If you don't stop after a few steps then you're talking a walk."
 	},
 	{
 		"kanji": "風",
 		"strokes": "9",
+		"grade": "558",
+		"noteID": "kanji_風",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"い",
 			"え"
@@ -12260,7 +12518,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_風",
 		"components": [
 			{
 				"component": "几",
@@ -12275,12 +12532,15 @@
 				"meaning": "insect"
 			}
 		],
-		"mnemonic": "When there's an insect under your desk you need to quickly slash it with your fly swatter! Oh wait, that wasn't an insect that touched your leg; it was just the wind...",
-		"source": "https://jpdb.io/kanji/風#a"
+		"mnemonic": "When there's an insect under your desk you need to quickly slash it with your fly swatter! Oh wait, that wasn't an insect that touched your leg; it was just the wind..."
 	},
 	{
 		"kanji": "紙",
 		"strokes": "10",
+		"grade": "559",
+		"noteID": "kanji_紙",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -12351,7 +12611,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_紙",
 		"components": [
 			{
 				"component": "糸",
@@ -12362,12 +12621,15 @@
 				"meaning": "family name"
 			}
 		],
-		"mnemonic": "You want to sign a piece of paper, but you don't want anyone to be able to easily erase your signature? Just get you family name sewed into the paper with a piece of thread!",
-		"source": "https://jpdb.io/kanji/紙#a"
+		"mnemonic": "You want to sign a piece of paper, but you don't want anyone to be able to easily erase your signature? Just get you family name sewed into the paper with a piece of thread!"
 	},
 	{
 		"kanji": "黒",
 		"strokes": "11",
+		"grade": "573",
+		"noteID": "kanji_黒",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"コク"
 		],
@@ -12440,7 +12702,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_黒",
 		"components": [
 			{
 				"component": "里",
@@ -12451,12 +12712,15 @@
 				"meaning": "fire sparks"
 			}
 		],
-		"mnemonic": "The bandits set a fire under my home village burning it to the ground, leaving behind nothing but black smoke and ashes.",
-		"source": "https://jpdb.io/kanji/黒#a"
+		"mnemonic": "The bandits set a fire under my home village burning it to the ground, leaving behind nothing but black smoke and ashes."
 	},
 	{
 		"kanji": "花",
 		"strokes": "7",
+		"grade": "578",
+		"noteID": "kanji_花",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"わ"
 		],
@@ -12532,7 +12796,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_花",
 		"components": [
 			{
 				"component": "艹",
@@ -12543,12 +12806,15 @@
 				"meaning": "transformation"
 			}
 		],
-		"mnemonic": "These blades of glass will someday transform into a beautiful flower.",
-		"source": "https://jpdb.io/kanji/花#a"
+		"mnemonic": "These blades of glass will someday transform into a beautiful flower."
 	},
 	{
 		"kanji": "春",
 		"strokes": "9",
+		"grade": "579",
+		"noteID": "kanji_春",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あずま",
 			"かす",
@@ -12628,7 +12894,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_春",
 		"components": [
 			{
 				"component": "𡗗",
@@ -12639,12 +12904,15 @@
 				"meaning": "sun"
 			}
 		],
-		"mnemonic": "Spring is when three people can come together and enjoy the sun, especially when it's low on the horizon and dyes everything orange.",
-		"source": "https://jpdb.io/kanji/春#a"
+		"mnemonic": "Spring is when three people can come together and enjoy the sun, especially when it's low on the horizon and dyes everything orange."
 	},
 	{
 		"kanji": "赤",
 		"strokes": "7",
+		"grade": "584",
+		"noteID": "kanji_赤",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あ",
 			"あこ",
@@ -12726,7 +12994,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_赤",
 		"components": [
 			{
 				"component": "一",
@@ -12737,12 +13004,15 @@
 				"meaning": "bloody knife"
 			}
 		],
-		"mnemonic": "A bloody knife stained the earth red with all of the blood dripping from it.",
-		"source": "https://jpdb.io/kanji/赤#a"
+		"mnemonic": "A bloody knife stained the earth red with all of the blood dripping from it."
 	},
 	{
 		"kanji": "青",
 		"strokes": "8",
+		"grade": "589",
+		"noteID": "kanji_青",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"お"
 		],
@@ -12821,7 +13091,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_青",
 		"components": [
 			{
 				"component": "龶",
@@ -12832,12 +13101,15 @@
 				"meaning": "moon"
 			}
 		],
-		"mnemonic": "If a king with a hat would live on the moon, he would certainly appear blue due to all of the blue light reflected off Earth.",
-		"source": "https://jpdb.io/kanji/青#a"
+		"mnemonic": "If a king with a hat would live on the moon, he would certainly appear blue due to all of the blue light reflected off Earth."
 	},
 	{
 		"kanji": "館",
 		"strokes": "16",
+		"grade": "613",
+		"noteID": "kanji_館",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"たち"
 		],
@@ -12915,7 +13187,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_館",
 		"components": [
 			{
 				"component": "飠",
@@ -12925,12 +13196,15 @@
 				"component": "官",
 				"meaning": "bureaucrat"
 			}
-		],
-		"source": "https://jpdb.io/kanji/館#a"
+		]
 	},
 	{
 		"kanji": "屋",
 		"strokes": "9",
+		"grade": "616",
+		"noteID": "kanji_屋",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"た"
 		],
@@ -13009,7 +13283,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_屋",
 		"components": [
 			{
 				"component": "尸",
@@ -13020,12 +13293,15 @@
 				"meaning": "apex"
 			}
 		],
-		"mnemonic": "\"Hey, there is a corpse on the apex (the highest point) of our roof... Should we maybe call the police...?\"",
-		"source": "https://jpdb.io/kanji/屋#a"
+		"mnemonic": "\"Hey, there is a corpse on the apex (the highest point) of our roof... Should we maybe call the police...?\""
 	},
 	{
 		"kanji": "色",
 		"strokes": "6",
+		"grade": "621",
+		"noteID": "kanji_色",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"しか",
 			"しこ"
@@ -13102,7 +13378,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_色",
 		"components": [
 			{
 				"component": "𠂊",
@@ -13113,12 +13388,15 @@
 				"meaning": "swirly pattern"
 			}
 		],
-		"mnemonic": "You want to color your hook? Just dip it into that that liquid over there which looks like a swirly pattern. That's paint. Lots of paints mixed together. That's why it's swirly.",
-		"source": "https://jpdb.io/kanji/色#a"
+		"mnemonic": "You want to color your hook? Just dip it into that that liquid over there which looks like a swirly pattern. That's paint. Lots of paints mixed together. That's why it's swirly."
 	},
 	{
 		"kanji": "走",
 		"strokes": "7",
+		"grade": "626",
+		"noteID": "kanji_走",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"はしり"
 		],
@@ -13193,7 +13471,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_走",
 		"components": [
 			{
 				"component": "土",
@@ -13204,12 +13481,15 @@
 				"meaning": "running shoes"
 			}
 		],
-		"mnemonic": "Running barefoot is a dangerous business. You can get splinters in your foot from stepping on the rocks and bare earth. So be sure to wear your running shoes before you go for a run!",
-		"source": "https://jpdb.io/kanji/走#a"
+		"mnemonic": "Running barefoot is a dangerous business. You can get splinters in your foot from stepping on the rocks and bare earth. So be sure to wear your running shoes before you go for a run!"
 	},
 	{
 		"kanji": "秋",
 		"strokes": "9",
+		"grade": "635",
+		"noteID": "kanji_秋",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"あい"
 		],
@@ -13285,7 +13565,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_秋",
 		"components": [
 			{
 				"component": "禾",
@@ -13296,12 +13575,15 @@
 				"meaning": "fire"
 			}
 		],
-		"mnemonic": "When the last of the grain plants is harvested in autumn, it's time to set fire to the fields to prepare them for the next batch of crops.\n(This is something that farmers actually used to do in the past, and are still doing in certain parts of the world.)",
-		"source": "https://jpdb.io/kanji/秋#a"
+		"mnemonic": "When the last of the grain plants is harvested in autumn, it's time to set fire to the fields to prepare them for the next batch of crops.\n(This is something that farmers actually used to do in the past, and are still doing in certain parts of the world.)"
 	},
 	{
 		"kanji": "夏",
 		"strokes": "10",
+		"grade": "659",
+		"noteID": "kanji_夏",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"カ",
 			"ガ",
@@ -13374,7 +13656,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_夏",
 		"components": [
 			{
 				"component": "一",
@@ -13389,12 +13670,15 @@
 				"meaning": "late winter"
 			}
 		],
-		"mnemonic": "It's still summer. You want to relax, but it's so damn hot. It's going to be a late winter this year too. It's all because of global warming. And you have no one but yourself to blame, for all of the electricity you waste, the meat you eat, the trash you throw away. It's all your fault, so deal with it.",
-		"source": "https://jpdb.io/kanji/夏#a"
+		"mnemonic": "It's still summer. You want to relax, but it's so damn hot. It's going to be a late winter this year too. It's all because of global warming. And you have no one but yourself to blame, for all of the electricity you waste, the meat you eat, the trash you throw away. It's all your fault, so deal with it."
 	},
 	{
 		"kanji": "習",
 		"strokes": "11",
+		"grade": "706",
+		"noteID": "kanji_習",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シュウ",
 			"ジュ"
@@ -13466,7 +13750,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_習",
 		"components": [
 			{
 				"component": "羽",
@@ -13476,12 +13759,15 @@
 				"component": "白",
 				"meaning": "white"
 			}
-		],
-		"source": "https://jpdb.io/kanji/習#a"
+		]
 	},
 	{
 		"kanji": "駅",
 		"strokes": "14",
+		"grade": "724",
+		"noteID": "kanji_駅",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"エキ"
 		],
@@ -13550,7 +13836,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_駅",
 		"components": [
 			{
 				"component": "馬",
@@ -13561,12 +13846,15 @@
 				"meaning": "measuring ruler"
 			}
 		],
-		"mnemonic": "Using a measuring ruler I measured how fast my horse is and... it would be faster to just go to the train station.",
-		"source": "https://jpdb.io/kanji/駅#a"
+		"mnemonic": "Using a measuring ruler I measured how fast my horse is and... it would be faster to just go to the train station."
 	},
 	{
 		"kanji": "洋",
 		"strokes": "9",
+		"grade": "763",
+		"noteID": "kanji_洋",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"なだ",
 			"ひろ",
@@ -13645,7 +13933,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_洋",
 		"components": [
 			{
 				"component": "氵",
@@ -13655,12 +13942,15 @@
 				"component": "羊",
 				"meaning": "sheep"
 			}
-		],
-		"source": "https://jpdb.io/kanji/洋#a"
+		]
 	},
 	{
 		"kanji": "旅",
 		"strokes": "10",
+		"grade": "783",
+		"noteID": "kanji_旅",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"リョ"
 		],
@@ -13732,7 +14022,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_旅",
 		"components": [
 			{
 				"component": "方",
@@ -13747,12 +14036,15 @@
 				"meaning": "chair with a splinter sticking out"
 			}
 		],
-		"mnemonic": "A decapitated cow head lying on a chair with a splinter sticking out will point you the way you should travel.",
-		"source": "https://jpdb.io/kanji/旅#a"
+		"mnemonic": "A decapitated cow head lying on a chair with a splinter sticking out will point you the way you should travel."
 	},
 	{
 		"kanji": "服",
 		"strokes": "8",
+		"grade": "873",
+		"noteID": "kanji_服",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"はっ",
 			"はつ",
@@ -13829,7 +14121,6 @@
 			"has::words",
 			"components::3"
 		],
-		"noteID": "kanji_服",
 		"components": [
 			{
 				"component": "月",
@@ -13843,12 +14134,15 @@
 				"component": "又",
 				"meaning": "once again"
 			}
-		],
-		"source": "https://jpdb.io/kanji/服#a"
+		]
 	},
 	{
 		"kanji": "夕",
 		"strokes": "3",
+		"grade": "924",
+		"noteID": "kanji_夕",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ゆ"
 		],
@@ -13923,7 +14217,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_夕",
 		"components": [
 			{
 				"component": "𠂊",
@@ -13934,12 +14227,15 @@
 				"meaning": "droplet"
 			}
 		],
-		"mnemonic": "A pictograph of a warped reflection of the sun on water, in the evening, right before the sunset.\nDo not confuse with 晩 which is also \"evening\", however it is the part of the evening after the sunset.",
-		"source": "https://jpdb.io/kanji/夕#a"
+		"mnemonic": "A pictograph of a warped reflection of the sun on water, in the evening, right before the sunset.\nDo not confuse with 晩 which is also \"evening\", however it is the part of the evening after the sunset."
 	},
 	{
 		"kanji": "借",
 		"strokes": "10",
+		"grade": "932",
+		"noteID": "kanji_借",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シャク"
 		],
@@ -14010,7 +14306,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_借",
 		"components": [
 			{
 				"component": "亻",
@@ -14020,12 +14315,15 @@
 				"component": "昔",
 				"meaning": "long ago"
 			}
-		],
-		"source": "https://jpdb.io/kanji/借#a"
+		]
 	},
 	{
 		"kanji": "曜",
 		"strokes": "18",
+		"grade": "940",
+		"noteID": "kanji_曜",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"てる"
 		],
@@ -14097,7 +14395,6 @@
 			"has::words",
 			"components::4"
 		],
-		"noteID": "kanji_曜",
 		"components": [
 			{
 				"component": "日",
@@ -14115,12 +14412,15 @@
 				"component": "隹",
 				"meaning": "old bird"
 			}
-		],
-		"source": "https://jpdb.io/kanji/曜#a"
+		]
 	},
 	{
 		"kanji": "飲",
 		"strokes": "12",
+		"grade": "969",
+		"noteID": "kanji_飲",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"イン",
 			"オン"
@@ -14194,7 +14494,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_飲",
 		"components": [
 			{
 				"component": "飠",
@@ -14204,12 +14503,15 @@
 				"component": "欠",
 				"meaning": "lack of"
 			}
-		],
-		"source": "https://jpdb.io/kanji/飲#a"
+		]
 	},
 	{
 		"kanji": "肉",
 		"strokes": "6",
+		"grade": "986",
+		"noteID": "kanji_肉",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ニク"
 		],
@@ -14280,7 +14582,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_肉",
 		"components": [
 			{
 				"component": "内",
@@ -14291,12 +14592,15 @@
 				"meaning": "person"
 			}
 		],
-		"mnemonic": "There is meat inside of every person.",
-		"source": "https://jpdb.io/kanji/肉#a"
+		"mnemonic": "There is meat inside of every person."
 	},
 	{
 		"kanji": "貸",
 		"strokes": "12",
+		"grade": "995",
+		"noteID": "kanji_貸",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"タイ"
 		],
@@ -14368,7 +14672,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_貸",
 		"components": [
 			{
 				"component": "代",
@@ -14378,12 +14681,15 @@
 				"component": "貝",
 				"meaning": "shellfish"
 			}
-		],
-		"source": "https://jpdb.io/kanji/貸#a"
+		]
 	},
 	{
 		"kanji": "堂",
 		"strokes": "11",
+		"grade": "1010",
+		"noteID": "kanji_堂",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ドウ"
 		],
@@ -14452,7 +14758,6 @@
 			"has::words",
 			"components::4"
 		],
-		"noteID": "kanji_堂",
 		"components": [
 			{
 				"component": "⺌",
@@ -14470,12 +14775,15 @@
 				"component": "土",
 				"meaning": "earth"
 			}
-		],
-		"source": "https://jpdb.io/kanji/堂#a"
+		]
 	},
 	{
 		"kanji": "鳥",
 		"strokes": "11",
+		"grade": "1043",
+		"noteID": "kanji_鳥",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"か",
 			"と",
@@ -14552,7 +14860,6 @@
 			"has::words",
 			"components::4"
 		],
-		"noteID": "kanji_鳥",
 		"components": [
 			{
 				"component": "白",
@@ -14570,12 +14877,15 @@
 				"component": "灬",
 				"meaning": "fire sparks"
 			}
-		],
-		"source": "https://jpdb.io/kanji/鳥#a"
+		]
 	},
 	{
 		"kanji": "飯",
 		"strokes": "12",
+		"grade": "1046",
+		"noteID": "kanji_飯",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"い",
 			"いい",
@@ -14653,7 +14963,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_飯",
 		"components": [
 			{
 				"component": "飠",
@@ -14663,12 +14972,15 @@
 				"component": "反",
 				"meaning": "be against"
 			}
-		],
-		"source": "https://jpdb.io/kanji/飯#a"
+		]
 	},
 	{
 		"kanji": "勉",
 		"strokes": "10",
+		"grade": "1066",
+		"noteID": "kanji_勉",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ひこ",
 			"やつ"
@@ -14749,7 +15061,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_勉",
 		"components": [
 			{
 				"component": "力",
@@ -14760,12 +15071,15 @@
 				"meaning": "be exempt"
 			}
 		],
-		"mnemonic": "Those that have power are exempt from needing to try hard.",
-		"source": "https://jpdb.io/kanji/勉#a"
+		"mnemonic": "Those that have power are exempt from needing to try hard."
 	},
 	{
 		"kanji": "冬",
 		"strokes": "5",
+		"grade": "1090",
+		"noteID": "kanji_冬",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"トウ"
 		],
@@ -14836,7 +15150,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_冬",
 		"components": [
 			{
 				"component": "夂",
@@ -14851,12 +15164,15 @@
 				"meaning": "droplet"
 			}
 		],
-		"mnemonic": "We were suppossed to have a really late winter this year due to global warming, but no, look at those two drops of snow! It's snowing already! Winter is coming fast after all.",
-		"source": "https://jpdb.io/kanji/冬#a"
+		"mnemonic": "We were suppossed to have a really late winter this year due to global warming, but no, look at those two drops of snow! It's snowing already! Winter is coming fast after all."
 	},
 	{
 		"kanji": "昼",
 		"strokes": "9",
+		"grade": "1115",
+		"noteID": "kanji_昼",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"チュウ"
 		],
@@ -14927,7 +15243,6 @@
 			"has::words",
 			"components::2"
 		],
-		"noteID": "kanji_昼",
 		"components": [
 			{
 				"component": "尺",
@@ -14937,12 +15252,15 @@
 				"component": "旦",
 				"meaning": "start of a day"
 			}
-		],
-		"source": "https://jpdb.io/kanji/昼#a"
+		]
 	},
 	{
 		"kanji": "茶",
 		"strokes": "9",
+		"grade": "1116",
+		"noteID": "kanji_茶",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"ちや"
 		],
@@ -15015,7 +15333,6 @@
 			"has::words",
 			"components::4"
 		],
-		"noteID": "kanji_茶",
 		"components": [
 			{
 				"component": "艹",
@@ -15033,12 +15350,15 @@
 				"component": "ハ",
 				"meaning": "short legs"
 			}
-		],
-		"source": "https://jpdb.io/kanji/茶#a"
+		]
 	},
 	{
 		"kanji": "弟",
 		"strokes": "7",
+		"grade": "1161",
+		"noteID": "kanji_弟",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"て"
 		],
@@ -15116,7 +15436,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_弟",
 		"components": [
 			{
 				"component": "丷",
@@ -15131,12 +15450,15 @@
 				"meaning": "slash left"
 			}
 		],
-		"mnemonic": "Oh, you have a younger brother? And he's like a little devil with horns because he keeps slashing you? My condolences.",
-		"source": "https://jpdb.io/kanji/弟#a"
+		"mnemonic": "Oh, you have a younger brother? And he's like a little devil with horns because he keeps slashing you? My condolences."
 	},
 	{
 		"kanji": "牛",
 		"strokes": "4",
+		"grade": "1202",
+		"noteID": "kanji_牛",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"うじ",
 			"ご"
@@ -15212,7 +15534,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_牛",
 		"components": [
 			{
 				"component": "𠂉",
@@ -15223,12 +15544,15 @@
 				"meaning": "ten"
 			}
 		],
-		"mnemonic": "A pictograph of a cow grazing. The 𠂉 is a cow's head in the background, and the 十 signifies a fence through which you're looking at that cow.\nDo not confuse with 午, whose fourth stroke is slightly shorter.",
-		"source": "https://jpdb.io/kanji/牛#a"
+		"mnemonic": "A pictograph of a cow grazing. The 𠂉 is a cow's head in the background, and the 十 signifies a fence through which you're looking at that cow.\nDo not confuse with 午, whose fourth stroke is slightly shorter."
 	},
 	{
 		"kanji": "魚",
 		"strokes": "11",
+		"grade": "1208",
+		"noteID": "kanji_魚",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"い"
 		],
@@ -15305,7 +15629,6 @@
 			"has::mnemonic",
 			"components::3"
 		],
-		"noteID": "kanji_魚",
 		"components": [
 			{
 				"component": "𠂊",
@@ -15320,12 +15643,15 @@
 				"meaning": "fire sparks"
 			}
 		],
-		"mnemonic": "You know how dead fish always rise to the surface? Let's set the rice field on fire and then use our hook to grab all of the fish! What do you mean there are no fish swimming in the rice fields? But it's full of water!",
-		"source": "https://jpdb.io/kanji/魚#a"
+		"mnemonic": "You know how dead fish always rise to the surface? Let's set the rice field on fire and then use our hook to grab all of the fish! What do you mean there are no fish swimming in the rice fields? But it's full of water!"
 	},
 	{
 		"kanji": "兄",
 		"strokes": "5",
+		"grade": "1219",
+		"noteID": "kanji_兄",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"え",
 			"せ",
@@ -15404,7 +15730,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_兄",
 		"components": [
 			{
 				"component": "口",
@@ -15415,12 +15740,15 @@
 				"meaning": "legs"
 			}
 		],
-		"mnemonic": "Contrary to many young women's beliefs, an older brother is not merely an annoying creature that only consist of a mouth and a pair of legs.",
-		"source": "https://jpdb.io/kanji/兄#a"
+		"mnemonic": "Contrary to many young women's beliefs, an older brother is not merely an annoying creature that only consist of a mouth and a pair of legs."
 	},
 	{
 		"kanji": "犬",
 		"strokes": "4",
+		"grade": "1326",
+		"noteID": "kanji_犬",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"ケン"
 		],
@@ -15492,7 +15820,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_犬",
 		"components": [
 			{
 				"component": "丶",
@@ -15503,12 +15830,15 @@
 				"meaning": "large"
 			}
 		],
-		"mnemonic": "Hm... what's that large drop over there in the distance... it's a plane... it's a bird... no, it's a dog!",
-		"source": "https://jpdb.io/kanji/犬#a"
+		"mnemonic": "Hm... what's that large drop over there in the distance... it's a plane... it's a bird... no, it's a dog!"
 	},
 	{
 		"kanji": "妹",
 		"strokes": "8",
+		"grade": "1446",
+		"noteID": "kanji_妹",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"す",
 			"せ",
@@ -15585,7 +15915,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_妹",
 		"components": [
 			{
 				"component": "女",
@@ -15596,12 +15925,15 @@
 				"meaning": "not yet"
 			}
 		],
-		"mnemonic": "A younger sister is someone that has not yet become a woman.",
-		"source": "https://jpdb.io/kanji/妹#a"
+		"mnemonic": "A younger sister is someone that has not yet become a woman."
 	},
 	{
 		"kanji": "姉",
 		"strokes": "8",
+		"grade": "1473",
+		"noteID": "kanji_姉",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"onyomi": [
 			"シ"
 		],
@@ -15673,7 +16005,6 @@
 			"has::mnemonic",
 			"components::2"
 		],
-		"noteID": "kanji_姉",
 		"components": [
 			{
 				"component": "女",
@@ -15684,12 +16015,15 @@
 				"meaning": "city"
 			}
 		],
-		"mnemonic": "My older sister lives in a city only for women.",
-		"source": "https://jpdb.io/kanji/姉#a"
+		"mnemonic": "My older sister lives in a city only for women."
 	},
 	{
 		"kanji": "漢",
 		"strokes": "13",
+		"grade": "1487",
+		"noteID": "kanji_漢",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N4",
 		"nanori": [
 			"はん"
 		],
@@ -15762,7 +16096,6 @@
 			"has::words",
 			"components::4"
 		],
-		"noteID": "kanji_漢",
 		"components": [
 			{
 				"component": "氵",
@@ -15780,7 +16113,6 @@
 				"component": "夫",
 				"meaning": "husband"
 			}
-		],
-		"source": "https://jpdb.io/kanji/漢#a"
+		]
 	}
 ]

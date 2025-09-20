@@ -60,7 +60,7 @@
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
 - **896 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
-- **29,511 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **29,513 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 
