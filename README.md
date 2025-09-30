@@ -86,6 +86,8 @@ This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jp
 
 If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made the deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Follow the "Setup" section inside [this file](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
 
+Also, check out the [Henkan](https://www.npmjs.com/package/henkan) npm library if you want to convert and use dictionary entries more freely.
+
 ## **Report an Issue or Contribute**
 
 Contribute or report any issues [here](https://github.com/Ronokof/Full-Japanese-Study-Deck/issues).
