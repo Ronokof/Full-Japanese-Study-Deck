@@ -17,6 +17,8 @@ import {
   convertTanakaCorpus,
   Dict,
   DictKanji,
+  DictKanjiReadingMeaning,
+  DictKanjiReadingMeaningGroup,
   DictKanjiWithRadicals,
   DictRadical,
   DictWord,
@@ -120,6 +122,32 @@ export async function convertDicts(): Promise<void> {
 
         console.log("\nConverting dictionary files\n");
 
+        let tanakaArray: TanakaExample[] | undefined = undefined;
+
+        {
+          const tanakaPath: string = `${dictsDir}/examples.utf`;
+          const outputPath: string = `${dictsDir}/json/tanaka_examples.json`;
+
+          if (existsSync(outputPath)) {
+            console.log("Already converted examples.utf");
+            tanakaArray = getDict("tanaka") as TanakaExample[];
+          } else if (existsSync(tanakaPath)) {
+            console.log("Converting examples.utf");
+
+            tanakaArray = await convertTanakaCorpus(
+              readFileSync(tanakaPath, "utf-8"),
+              true,
+            );
+
+            if (tanakaArray.length > 0)
+              writeFileSync(
+                outputPath,
+                JSON.stringify(tanakaArray, undefined, "\t"),
+                "utf-8",
+              );
+          }
+        }
+
         {
           const outputPath: string = `${dictsDir}/json/JMdict_e.json`;
 
@@ -131,7 +159,7 @@ export async function convertDicts(): Promise<void> {
               `${dictsDir}/JMdict_e.xml`,
               "utf-8",
             );
-            const jmDict: DictWord[] = convertJMdict(dictFile);
+            const jmDict: DictWord[] = convertJMdict(dictFile, tanakaArray);
 
             if (jmDict.length > 0)
               writeFileSync(
@@ -160,29 +188,6 @@ export async function convertDicts(): Promise<void> {
               writeFileSync(
                 outputPath,
                 JSON.stringify(kanjiDic, undefined, "\t"),
-                "utf-8",
-              );
-          }
-        }
-
-        {
-          const tanakaPath: string = `${dictsDir}/examples.utf`;
-          const outputPath: string = `${dictsDir}/json/tanaka_examples.json`;
-
-          if (existsSync(outputPath))
-            console.log("Already converted examples.utf");
-          else if (existsSync(tanakaPath)) {
-            console.log("Converting examples.utf");
-
-            const tanakaArray: TanakaExample[] = await convertTanakaCorpus(
-              readFileSync(tanakaPath, "utf-8"),
-              true,
-            );
-
-            if (tanakaArray.length > 0)
-              writeFileSync(
-                outputPath,
-                JSON.stringify(tanakaArray, undefined, "\t"),
                 "utf-8",
               );
           }
@@ -1014,8 +1019,6 @@ export function getExtraKanji(): void {
       return;
     }
 
-    const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
-    const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
     const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
       getDict("tanaka") as TanakaExample[],
     ).filter((ex: TanakaExample) => ex.furigana);
@@ -1025,23 +1028,52 @@ export function getExtraKanji(): void {
       DictWord[]
     >();
     const ids: Set<string> = new Set<string>();
+    const kanji: Kanji[] = [];
+    const kanjiWords: Word[] = [];
+
+    loadEntries(resultPaths.vocabJLPT, fileNames.vocabJLPT, undefined, ids);
+
+    if (
+      checkExistenceOfResults(
+        resultPaths.extraKanji,
+        ["extra_kanji-incomplete", "extra_kanji_words-incomplete"],
+        true,
+      )
+    ) {
+      loadEntries(resultPaths.extraKanji, "extra_kanji-incomplete", kanji);
+      loadEntries(
+        resultPaths.extraKanji,
+        "extra_kanji_words-incomplete",
+        kanjiWords,
+        ids,
+      );
+    }
+
+    const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
+      (word: DictWord) =>
+        !ids.has(word.id) &&
+        word.kanjiForms &&
+        (word.isCommon === true || word.hasPhrases === true),
+    );
+
+    const kanjiToDelete: string[] = kanji.map((char: Kanji) => char.kanji);
 
     for (const word of jmDict)
-      if (word.kanjiForms)
-        for (const kanjiForm of word.kanjiForms) {
-          const kanjiChars: string[] = kanjiForm.form.split("");
+      for (const kanjiForm of word.kanjiForms!) {
+        const kanjiChars: string[] = kanjiForm.form.split("");
 
-          for (const char of kanjiChars) {
-            if (!kanjiToWordsMap.has(char)) kanjiToWordsMap.set(char, []);
+        for (const char of kanjiChars) {
+          if (kanjiToDelete.includes(char)) continue;
+          if (!kanjiToWordsMap.has(char)) kanjiToWordsMap.set(char, []);
 
-            if (!ids.has(word.id)) {
-              kanjiToWordsMap.get(char)!.push(word);
-              ids.add(word.id);
-            }
+          if (!ids.has(word.id)) {
+            kanjiToWordsMap.get(char)!.push(word);
+            ids.add(word.id);
           }
         }
+      }
 
-    const kanjiToDelete: string[] = [];
+    kanjiToDelete.length = 0;
 
     for (const [kanji, words] of kanjiToWordsMap.entries())
       if (words.length === 0) kanjiToDelete.push(kanji);
@@ -1050,9 +1082,6 @@ export function getExtraKanji(): void {
     kanjiToDelete.length = 0;
     ids.clear();
 
-    const kanji: Kanji[] = [];
-    const kanjiWords: Word[] = [];
-
     let jlptKanji: Kanji[] | Set<string> = [];
 
     loadEntries(
@@ -1060,7 +1089,6 @@ export function getExtraKanji(): void {
       fileNames.kanjiJLPT,
       jlptKanji as Kanji[],
     );
-    loadEntries(resultPaths.vocabJLPT, fileNames.vocabJLPT, undefined, ids);
 
     jlptKanji = new Set<string>(
       (jlptKanji as Kanji[]).map((kanji: Kanji) => kanji.kanji),
@@ -1073,15 +1101,41 @@ export function getExtraKanji(): void {
       readFileSync(kanjiInfoFile, "utf-8"),
     ) as Kanji[];
 
-    let kanjiCount: number = 0;
-    const kanjiDicLength: number = kanjiDic.length;
-
     const kanjiDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.kanji}`;
     const vocabDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.vocab}`;
+
+    const existingKanji: Set<string> = new Set<string>(
+      kanji.map((char: Kanji) => char.kanji),
+    );
+
+    const kanjiDic: DictKanji[] = (getDict("Kanjidic") as DictKanji[]).filter(
+      (char: DictKanji) =>
+        !existingKanji.has(char.kanji) &&
+        char.readingMeaning.length > 0 &&
+        char.readingMeaning.some(
+          (pair: DictKanjiReadingMeaning) =>
+            pair.groups.length > 0 &&
+            pair.groups.some(
+              (group: DictKanjiReadingMeaningGroup) =>
+                group.meanings.length > 0 && group.readings.length > 0,
+            ),
+        ),
+    );
+
+    let kanjiCount: number = existingKanji.size;
+
+    const kanjiDicLength: number = kanjiDic.length;
+
+    let progress2: number = Math.round((kanjiCount / kanjiDicLength) * 100);
 
     for (let i: number = 0; i < kanjiDicLength; i++) {
       const kanjiEntry: DictKanji | undefined = kanjiDic[i];
       if (!kanjiEntry) throw new Error("Invalid KANJIDIC file");
+      if (!kanjiToWordsMap.has(kanjiEntry.kanji)) {
+        kanjiCount++;
+        kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
+        continue;
+      }
 
       let kanjiInfo: Kanji | undefined = undefined;
 
@@ -1125,18 +1179,22 @@ export function getExtraKanji(): void {
         ((!kanjiObj.onyomi && !kanjiObj.kunyomi) || !kanjiObj.meanings)
       ) {
         kanjiCount++;
+        kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
         continue;
       }
 
+      const progress: number = Math.round((kanjiCount / kanjiDicLength) * 100);
+
       console.log(
-        `${((kanjiCount / kanjiDicLength) * 100).toFixed()}% Searching: ${!kanjiObj ? `${kanjiEntry.kanji} (from JLPT list; not added to extra_kanji)` : `${kanjiEntry.kanji}`}`,
+        `${progress.toFixed()}% Searching: ${!kanjiObj ? `${kanjiEntry.kanji} (from JLPT list; not creating note for it)` : `${kanjiEntry.kanji}`}`,
       );
 
       const wordsForKanji: DictWord[] | undefined = kanjiToWordsMap.get(
         kanjiEntry.kanji,
       );
-      if (!wordsForKanji) {
+      if (!wordsForKanji || wordsForKanji.length === 0) {
         kanjiCount++;
+        kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
         continue;
       }
 
@@ -1168,8 +1226,28 @@ export function getExtraKanji(): void {
       }
 
       if (foundWord && kanjiObj) kanji.push(kanjiObj);
+      else kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
 
       kanjiCount++;
+
+      kanjiToWordsMap.delete(kanjiEntry.kanji);
+
+      if (progress - progress2 >= 5) {
+        saveEntries(
+          kanji,
+          "extra_kanji-incomplete",
+          resultPaths.extraKanji,
+          true,
+        );
+        saveEntries(
+          kanjiWords,
+          "extra_kanji_words-incomplete",
+          resultPaths.extraKanji,
+          true,
+        );
+
+        progress2 = progress;
+      }
     }
 
     if (kanji.length > 0)
@@ -1199,6 +1277,22 @@ export function getKanaWords(): void {
 
     const wordList: Word[] = [];
 
+    if (
+      checkExistenceOfResults(
+        resultPaths.kanaWords,
+        "kana_words-incomplete",
+        true,
+      )
+    )
+      loadEntries(
+        resultPaths.kanaWords,
+        "kana_words-incomplete",
+        wordList,
+        ids,
+      );
+
+    let wordCount: number = ids.size;
+
     if (checkExistenceOfResults(resultPaths.extraKanji, "extra_kanji_words"))
       loadEntries(resultPaths.extraKanji, "extra_kanji_words", undefined, ids);
     if (checkExistenceOfResults(resultPaths.vocabJLPT, fileNames.vocabJLPT))
@@ -1206,21 +1300,24 @@ export function getKanaWords(): void {
 
     const deck: string = `${deckName}::${subDeckNames.kanaWords._}`;
 
-    const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
+    const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
+      (word: DictWord) =>
+        !ids.has(word.id) &&
+        (word.isCommon === true || word.hasPhrases === true),
+    );
 
-    let wordCount: number = 0;
     const jmDictLength: number = jmDict.length;
+
+    let progress2: number = Math.round((wordCount / jmDictLength) * 100);
 
     for (let i: number = 0; i < jmDictLength; i++) {
       const dictWord: DictWord | undefined = jmDict[i];
-      if (!dictWord || ids.has(dictWord.id)) {
-        wordCount++;
-        continue;
-      }
+      if (!dictWord) throw new Error("Invalid JMDict file");
+      if (ids.has(dictWord.id)) continue;
 
-      console.log(
-        `${((wordCount / jmDictLength) * 100).toFixed()}% Searching: ${dictWord.id}`,
-      );
+      const progress: number = Math.round((wordCount / jmDictLength) * 100);
+
+      console.log(`${progress}% Searching: ${dictWord.id}`);
 
       const word: Word = getWord(
         undefined,
@@ -1237,8 +1334,21 @@ export function getKanaWords(): void {
         (word.common === true || (word.phrases && word.phrases.length > 0))
       )
         wordList.push(word);
+      else
+        wordList.push({ id: dictWord.id, readings: [], doNotCreateNote: true });
 
       wordCount++;
+
+      if (progress - progress2 >= 5) {
+        saveEntries(
+          wordList,
+          "kana_words-incomplete",
+          resultPaths.kanaWords,
+          true,
+        );
+
+        progress2 = progress;
+      }
     }
 
     if (wordList.length > 0)

@@ -20,6 +20,7 @@
 
 ### Move on to the **JLPT** subdeck
 - Go through each JLPT N5-N1 subdeck (vocab and kanji) one by one.
+- It can be considered a *"core deck"* as well, as it contains common/essential words and kanji used in everyday Japanese (both in real life and in anime/manga).
 
 ### Learn **Grammar**
 - As with the JLPT subdeck, go over each subdeck one at a time.
@@ -28,6 +29,18 @@
 ### The other subdecks
 - Use all the *"reference material"* subdecks for a quick search when you need to look up radicals, kana, kanji etc.
 - As for the *"ready-made mining material"* subdecks, all cards are suspended by default (if they are not, suspend them). Over time, unsuspend and learn the ones you find useful.
+
+### Tags
+- Every card/note from every subdeck is tagged with their field of application, part of speech and other miscellaneous information regarding it.
+- Use those tags to find the entries you need, especially in the *"ready-made mining material"* subdecks.
+
+### Updating
+- If you are updating from a version before [v2.3.0](https://github.com/Ronokof/Full-Japanese-Study-Deck/releases/tag/2.3.0) (June 20 2025), check out [this workaround](https://github.com/Ronokof/Full-Japanese-Study-Deck/discussions/6#discussioncomment-13530156)!
+- Otherwise, simply import the new deck over the old one with the following options set (**ALWAYS KEEP BACKUPS!**):
+  * "Import any learning progress" ---> *Disabled*
+  * "Import any deck presets" ---> *Disabled*
+  * "Merge note types" ---> *Enabled*
+  * "Update notes" and "Update note types" ---> *"Always"*
 
 ### Immersion > Anki
 - The hard fact is that Anki alone won't make you *fluent* in Japanese (or any language).
@@ -56,11 +69,11 @@
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **5,774 common words** written entirely in kana.
+- **5,773 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
 - **896 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
-- **29,513 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **29,521 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 
