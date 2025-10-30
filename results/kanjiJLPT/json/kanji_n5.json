@@ -90,11 +90,14 @@
 		],
 		"svg": "065e5.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::12",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a sun, which makes a day.\nIn the ancient times this character was once written as a circle with a dot inside, but over time it became rectangular and the dot in the middle morphed into a line."
 	},
@@ -185,11 +188,14 @@
 		],
 		"svg": "04e00.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::1",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::11",
+			"kanji::strokes::1",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a one line."
 	},
@@ -268,12 +274,14 @@
 		],
 		"svg": "056fd.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -368,11 +376,14 @@
 		],
 		"svg": "04eba.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::5",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a headless, armless person."
 	},
@@ -451,12 +462,14 @@
 		],
 		"svg": "05e74.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -560,12 +573,14 @@
 		],
 		"svg": "05927.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::13",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -668,11 +683,14 @@
 		],
 		"svg": "05341.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::3",
+			"kanji::nanori::12",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a cross, which signifies the number ten. You know, like the ten commandments?"
 	},
@@ -762,12 +780,14 @@
 		],
 		"svg": "04e8c.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::9",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -862,12 +882,14 @@
 		],
 		"svg": "0672c.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -962,12 +984,14 @@
 		],
 		"svg": "04e2d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::2",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1065,12 +1089,14 @@
 		],
 		"svg": "09577.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::7",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1175,12 +1201,14 @@
 		],
 		"svg": "051fa.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::6",
+			"kanji::nanori::7",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1285,12 +1313,14 @@
 		],
 		"svg": "04e09.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::15",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1381,12 +1411,14 @@
 		],
 		"svg": "06642.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1495,12 +1527,14 @@
 		],
 		"svg": "0884c.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::8",
+			"kanji::nanori::6",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1593,11 +1627,14 @@
 		],
 		"svg": "0898b.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1691,11 +1728,14 @@
 		],
 		"svg": "06708.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::5",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a moon, whose full cycle takes approximately a month.\nIn the ancient times this character looked more like a crescent moon, but over time it morphed into being drawn like this."
 	},
@@ -1783,12 +1823,14 @@
 		],
 		"svg": "05f8c.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::5",
+			"kanji::nanori::4",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1884,12 +1926,14 @@
 		],
 		"svg": "0524d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::3",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2021,12 +2065,14 @@
 		],
 		"svg": "0751f.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::18",
+			"kanji::nanori::25",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2121,11 +2167,14 @@
 		],
 		"svg": "04e94.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::7",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "It has five lines. It looks like a 5. It's a five."
 	},
@@ -2210,12 +2259,14 @@
 		],
 		"svg": "09593.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::4",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2329,12 +2380,14 @@
 		],
 		"svg": "04e0a.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::15",
+			"kanji::nanori::10",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2432,12 +2485,14 @@
 		],
 		"svg": "06771.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::11",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2530,11 +2585,13 @@
 		],
 		"svg": "056db.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::3",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2622,12 +2679,14 @@
 		],
 		"svg": "04eca.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2723,12 +2782,14 @@
 		],
 		"svg": "091d1.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::3",
+			"kanji::nanori::5",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2821,10 +2882,13 @@
 		],
 		"svg": "04e5d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::4",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0"
 		]
 	},
 	{
@@ -2912,11 +2976,14 @@
 		],
 		"svg": "05165.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::6",
+			"kanji::nanori::5",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a person with one hand over his head pointing to the entrance on the left. Over there, enter over there!"
 	},
@@ -2997,12 +3064,14 @@
 		],
 		"svg": "05b66.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3104,12 +3173,14 @@
 		],
 		"svg": "09ad8.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"has::mnemonic",
-			"components::4"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::5",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3214,11 +3285,14 @@
 		],
 		"svg": "05186.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::4",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A circular one yen coin. This character looks like one of those bank teller windows where you can obtain such coins, with the upper two rectangles being the glass windows through which you can see the teller, and the lower part being where you put your hand through to take the money.\nInternationally we use the \"¥\" sign to denote the Japanese yen, however domestically the Japanese actually use this kanji as the sign for their currency."
 	},
@@ -3308,12 +3382,14 @@
 		],
 		"svg": "05b50.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::3",
+			"kanji::nanori::6",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3412,12 +3488,14 @@
 		],
 		"svg": "05916.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::5",
+			"kanji::nanori::3",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3518,10 +3596,13 @@
 		],
 		"svg": "0516b.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::4",
+			"kanji::nanori::5",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0"
 		]
 	},
 	{
@@ -3605,11 +3686,13 @@
 		],
 		"svg": "0516d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::4",
+			"kanji::nanori::4",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -3714,12 +3797,14 @@
 		],
 		"svg": "04e0b.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::12",
+			"kanji::nanori::2",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3821,12 +3906,14 @@
 		],
 		"svg": "06765.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::7",
+			"kanji::nanori::4",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3917,11 +4004,14 @@
 		],
 		"svg": "06c17.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4017,12 +4107,14 @@
 		],
 		"svg": "05c0f.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::5",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4115,11 +4207,14 @@
 		],
 		"svg": "04e03.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::4",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "If you flip it upside-down and left-to-right it looks like a seven."
 	},
@@ -4200,11 +4295,14 @@
 		],
 		"svg": "05c71.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a mountain."
 	},
@@ -4281,11 +4379,14 @@
 		],
 		"svg": "08a71.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4380,11 +4481,14 @@
 		],
 		"svg": "05973.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::2",
+			"kanji::nanori::4",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "This kanji can be decomposed into three strokes:\n\n\"く\" (\"ku\" in hiragana),\n\"ノ\" (\"no\" in katakana),\n\"一\" (\"ichi\" in kanji),\n\nwhich gives us くノ一 (\"kunoichi\") — a female ninja."
 	},
@@ -4465,11 +4569,14 @@
 		],
 		"svg": "05317.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::4",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a bird's eye view of a road leading north."
 	},
@@ -4547,11 +4654,14 @@
 		],
 		"svg": "05348.svg",
 		"tags": [
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4648,11 +4758,13 @@
 		],
 		"svg": "0767e.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::9",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4741,12 +4853,14 @@
 		],
 		"svg": "066f8.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::1",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4839,12 +4953,14 @@
 		],
 		"svg": "05148.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4937,12 +5053,14 @@
 		],
 		"svg": "0540d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5034,11 +5152,14 @@
 		],
 		"svg": "05ddd.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a bird's eye view of a river."
 	},
@@ -5117,12 +5238,14 @@
 		],
 		"svg": "05343.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5219,12 +5342,14 @@
 		],
 		"svg": "06c34.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::4"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::9",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5324,12 +5449,14 @@
 		],
 		"svg": "0534a.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5423,12 +5550,14 @@
 		],
 		"svg": "07537.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5521,11 +5650,13 @@
 		],
 		"svg": "0897f.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5606,12 +5737,14 @@
 		],
 		"svg": "096fb.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5705,13 +5838,14 @@
 		],
 		"svg": "06821.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::0",
+			"kanji::nanori::1",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5799,11 +5933,14 @@
 		],
 		"svg": "08a9e.svg",
 		"tags": [
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5901,12 +6038,14 @@
 		],
 		"svg": "0571f.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5999,11 +6138,14 @@
 		],
 		"svg": "06728.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::3",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a tree, any kind of a tree."
 	},
@@ -6082,11 +6224,14 @@
 		],
 		"svg": "0805e.svg",
 		"tags": [
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6179,12 +6324,14 @@
 		],
 		"svg": "098df.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6273,11 +6420,14 @@
 		],
 		"svg": "08eca.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a vehicle, show from a bird's-eye view. You have the front wheels at the top, the back wheels at the bottom, and the middle is where you put stuff in, be it people or goods."
 	},
@@ -6358,12 +6508,14 @@
 		],
 		"svg": "04f55.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6455,11 +6607,13 @@
 		],
 		"svg": "05357.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::4"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::4",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4"
 		],
 		"components": [
 			{
@@ -6558,12 +6712,14 @@
 		],
 		"svg": "04e07.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6656,12 +6812,14 @@
 		],
 		"svg": "06bce.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6754,12 +6912,14 @@
 		],
 		"svg": "0767d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::3",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6856,12 +7016,14 @@
 		],
 		"svg": "05929.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::6",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6947,10 +7109,14 @@
 		],
 		"svg": "06bcd.svg",
 		"tags": [
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of woman's breasts with nipples, turned on its side."
 	},
@@ -7027,11 +7193,14 @@
 		],
 		"svg": "0706b.svg",
 		"tags": [
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7121,11 +7290,13 @@
 		],
 		"svg": "053f3.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7215,12 +7386,14 @@
 		],
 		"svg": "08aad.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7310,12 +7483,14 @@
 		],
 		"svg": "053cb.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7404,11 +7579,13 @@
 		],
 		"svg": "05de6.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7497,11 +7674,14 @@
 		],
 		"svg": "04f11.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7586,11 +7766,14 @@
 		],
 		"svg": "07236.svg",
 		"tags": [
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7677,10 +7860,14 @@
 		],
 		"svg": "096e8.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a window through which you can see the rain."
 	}

@@ -155,10 +155,10 @@ export async function convertDicts(): Promise<void> {
           else {
             console.log("Converting JMdict_e");
 
-            const dictFile: string = readFileSync(
-              `${dictsDir}/JMdict_e.xml`,
-              "utf-8",
-            );
+            let dictPath: string = `${dictsDir}/JMdict_e`;
+            if (!existsSync(dictPath)) dictPath += ".xml";
+
+            const dictFile: string = readFileSync(dictPath, "utf-8");
             const jmDict: DictWord[] = convertJMdict(dictFile, tanakaArray);
 
             if (jmDict.length > 0)

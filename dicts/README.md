@@ -5,7 +5,6 @@
  - [kradzip](http://ftp.edrdg.org/pub/Nihongo/kradzip.zip)
 # Extract every file from those archives in this folder
 ## JMdict_e.gz: JMdict.e
- - Rename "JMdict_e" to "JMdict_e.xml"
 ## kanjidic2.xml.gz: kanjidic2.xml
 ## examples.utf.gz: examples.utf
 ## kradzip.zip

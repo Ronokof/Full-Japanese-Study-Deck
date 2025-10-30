@@ -73,10 +73,13 @@
 		],
 		"svg": "0515a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -167,10 +170,13 @@
 		],
 		"svg": "09769.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -264,10 +270,13 @@
 		],
 		"svg": "06e1b.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -361,10 +370,13 @@
 		],
 		"svg": "088dc.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -449,11 +461,13 @@
 		],
 		"svg": "057df.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -542,11 +556,13 @@
 		],
 		"svg": "06b27.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -634,10 +650,13 @@
 		],
 		"svg": "062c5.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -735,11 +754,13 @@
 		],
 		"svg": "088ab.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -825,11 +846,14 @@
 		],
 		"svg": "08133.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -924,10 +948,13 @@
 		],
 		"svg": "0542b.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -1026,11 +1053,13 @@
 		],
 		"svg": "08535.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::6",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -1121,10 +1150,13 @@
 		],
 		"svg": "06cc1.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -1214,11 +1246,13 @@
 		],
 		"svg": "091dd.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -1305,11 +1339,14 @@
 		],
 		"svg": "05c02.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1408,11 +1445,13 @@
 		],
 		"svg": "05175.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -1498,10 +1537,13 @@
 		],
 		"svg": "06e7e.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -1586,11 +1628,13 @@
 		],
 		"svg": "05238.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -1678,10 +1722,13 @@
 		],
 		"svg": "0635c.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -1776,11 +1823,13 @@
 		],
 		"svg": "08d85.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -1879,12 +1928,14 @@
 		],
 		"svg": "04e26.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::5",
+			"kanji::nanori::1",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -1967,11 +2018,13 @@
 		],
 		"svg": "07642.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::17",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::17",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2058,10 +2111,13 @@
 		],
 		"svg": "063a1.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2149,13 +2205,14 @@
 		],
 		"svg": "04ecb.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::2",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2243,11 +2300,13 @@
 		],
 		"svg": "08ca9.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2351,11 +2410,13 @@
 		],
 		"svg": "05c06.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::5",
+			"kanji::nanori::5",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -2444,10 +2505,13 @@
 		],
 		"svg": "05e45.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2533,11 +2597,13 @@
 		],
 		"svg": "0822c.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2627,10 +2693,13 @@
 		],
 		"svg": "088c5.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2717,10 +2786,13 @@
 		],
 		"svg": "08af8.svg",
 		"tags": [
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -2802,12 +2874,14 @@
 		],
 		"svg": "05287.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -2903,10 +2977,13 @@
 		],
 		"svg": "063db.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::5"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::5"
 		],
 		"components": [
 			{
@@ -3010,10 +3087,13 @@
 		],
 		"svg": "066b4.svg",
 		"tags": [
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -3114,12 +3194,14 @@
 		],
 		"svg": "05360.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::3",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3205,12 +3287,13 @@
 		],
 		"svg": "05104.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::1",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -3303,10 +3386,13 @@
 		],
 		"svg": "05727.svg",
 		"tags": [
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -3389,11 +3475,13 @@
 		],
 		"svg": "07f72.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -3488,11 +3576,13 @@
 		],
 		"svg": "04f38.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::2",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -3579,11 +3669,14 @@
 		],
 		"svg": "07206.svg",
 		"tags": [
-			"has::svg",
-			"strokes::19",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::19",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3677,11 +3770,13 @@
 		],
 		"svg": "05ef6.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::3",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -3781,11 +3876,13 @@
 		],
 		"svg": "04e71.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::6",
+			"kanji::nanori::1",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -3877,12 +3974,14 @@
 		],
 		"svg": "0666e.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -3968,10 +4067,13 @@
 		],
 		"svg": "09f62.svg",
 		"tags": [
-			"has::svg",
-			"strokes::17",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::17",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4061,10 +4163,13 @@
 		],
 		"svg": "08efd.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4149,13 +4254,14 @@
 		],
 		"svg": "04e86.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::2",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::1",
+			"kanji::strokes::2",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -4241,10 +4347,13 @@
 		],
 		"svg": "05e81.svg",
 		"tags": [
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4342,11 +4451,13 @@
 		],
 		"svg": "057ce.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::11",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4436,11 +4547,13 @@
 		],
 		"svg": "060a3.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4525,11 +4638,13 @@
 		],
 		"svg": "05c64.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4616,10 +4731,13 @@
 		],
 		"svg": "07d61.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4707,10 +4825,13 @@
 		],
 		"svg": "052df.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4803,10 +4924,13 @@
 		],
 		"svg": "088cf.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -4898,11 +5022,13 @@
 		],
 		"svg": "06607.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -4995,11 +5121,13 @@
 		],
 		"svg": "06c38.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::5",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -5100,10 +5228,13 @@
 		],
 		"svg": "08457.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5185,11 +5316,13 @@
 		],
 		"svg": "08a8c.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5284,11 +5417,13 @@
 		],
 		"svg": "09999.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::4",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5378,12 +5513,13 @@
 		],
 		"svg": "05b87.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::4",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5473,11 +5609,13 @@
 		],
 		"svg": "05de8.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::4",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0"
 		]
 	},
 	{
@@ -5558,10 +5696,13 @@
 		],
 		"svg": "09707.svg",
 		"tags": [
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5653,11 +5794,14 @@
 		],
 		"svg": "089e6.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -5751,11 +5895,13 @@
 		],
 		"svg": "04f9d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -5838,11 +5984,13 @@
 		],
 		"svg": "07c4d.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::20",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::20",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -5939,11 +6087,14 @@
 		],
 		"svg": "06c5a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::6",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -6034,12 +6185,13 @@
 		],
 		"svg": "0679a.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::0",
+			"kanji::nanori::1",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6121,11 +6273,13 @@
 		],
 		"svg": "090f5.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6212,10 +6366,13 @@
 		],
 		"svg": "09aa8.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6310,10 +6467,13 @@
 		],
 		"svg": "050be.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6404,10 +6564,13 @@
 		],
 		"svg": "05c4a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6502,10 +6665,13 @@
 		],
 		"svg": "05dfb.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6593,10 +6759,13 @@
 		],
 		"svg": "071c3.svg",
 		"tags": [
-			"has::svg",
-			"strokes::16",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::16",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6683,10 +6852,13 @@
 		],
 		"svg": "08de1.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6769,11 +6941,13 @@
 		],
 		"svg": "099d0.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -6861,10 +7035,13 @@
 		],
 		"svg": "05f31.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::4"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4"
 		],
 		"components": [
 			{
@@ -6958,12 +7135,13 @@
 		],
 		"svg": "07d39.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::1",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7048,10 +7226,13 @@
 		],
 		"svg": "096c7.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7143,11 +7324,13 @@
 		],
 		"svg": "066ff.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::1",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -7239,11 +7422,14 @@
 		],
 		"svg": "09810.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7331,11 +7517,14 @@
 		],
 		"svg": "07c21.svg",
 		"tags": [
-			"has::svg",
-			"strokes::18",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::18",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -7426,10 +7615,13 @@
 		],
 		"svg": "081d3.svg",
 		"tags": [
-			"has::svg",
-			"strokes::19",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::19",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7520,12 +7712,13 @@
 		],
 		"svg": "05f8b.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::3",
+			"kanji::kunyomi::0",
+			"kanji::nanori::2",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7615,10 +7808,13 @@
 		],
 		"svg": "08d08.svg",
 		"tags": [
-			"has::svg",
-			"strokes::18",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::18",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7711,11 +7907,13 @@
 		],
 		"svg": "07167.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::2",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -7810,10 +8008,13 @@
 		],
 		"svg": "08584.svg",
 		"tags": [
-			"has::svg",
-			"strokes::16",
-			"has::words",
-			"components::6"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::9",
+			"kanji::nanori::0",
+			"kanji::strokes::16",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::6"
 		],
 		"components": [
 			{
@@ -7928,12 +8129,14 @@
 		],
 		"svg": "07fa4.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::5",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -8015,12 +8218,14 @@
 		],
 		"svg": "079d2.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -8115,11 +8320,13 @@
 		],
 		"svg": "05965.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::4"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::5",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4"
 		],
 		"components": [
 			{
@@ -8225,11 +8432,13 @@
 		],
 		"svg": "08a70.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::5",
+			"kanji::nanori::2",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -8322,11 +8531,13 @@
 		],
 		"svg": "053cc.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -8419,10 +8630,13 @@
 		],
 		"svg": "0523a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -8517,12 +8731,13 @@
 		],
 		"svg": "07d14.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::5",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -8604,11 +8819,13 @@
 		],
 		"svg": "07fcc.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -8696,10 +8913,14 @@
 		],
 		"svg": "07247.svg",
 		"tags": [
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0",
+			"kanji::has_mnemonic"
 		],
 		"mnemonic": "A pictograph of a chair under a table with a single lit candle on it. It's only one of a pair. There's also a second char that isn't pictured here, and on which your date is going to sit during your candlelit dinner date."
 	},
@@ -8789,12 +9010,14 @@
 		],
 		"svg": "0656c.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::9",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -8890,10 +9113,13 @@
 		],
 		"svg": "060a9.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -8990,12 +9216,14 @@
 		],
 		"svg": "06cc9.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::6",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -9091,11 +9319,13 @@
 		],
 		"svg": "08352.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::4"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::6",
+			"kanji::nanori::1",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4"
 		],
 		"components": [
 			{
@@ -9188,10 +9418,13 @@
 		],
 		"svg": "0786c.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9282,10 +9515,13 @@
 		],
 		"svg": "057cb.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::6",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9372,10 +9608,13 @@
 		],
 		"svg": "067f1.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9467,11 +9706,13 @@
 		],
 		"svg": "0888b.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::3",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9560,11 +9801,13 @@
 		],
 		"svg": "05b9d.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9647,11 +9890,13 @@
 		],
 		"svg": "05c01.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9740,10 +9985,13 @@
 		],
 		"svg": "080f8.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9832,11 +10080,13 @@
 		],
 		"svg": "07802.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -9935,11 +10185,13 @@
 		],
 		"svg": "08ce2.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::16",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::10",
+			"kanji::strokes::16",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -10025,11 +10277,14 @@
 		],
 		"svg": "08155.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -10119,11 +10374,14 @@
 		],
 		"svg": "05e8a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -10221,11 +10479,13 @@
 		],
 		"svg": "05c0a.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::4",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -10319,12 +10579,14 @@
 		],
 		"svg": "067d4.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -10420,11 +10682,13 @@
 		],
 		"svg": "06bbf.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -10518,11 +10782,13 @@
 		],
 		"svg": "06fc3.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::16",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::16",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -10611,10 +10877,13 @@
 		],
 		"svg": "08863.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -10698,10 +10967,13 @@
 		],
 		"svg": "080a9.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -10791,11 +11063,14 @@
 		],
 		"svg": "096f6.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -10885,11 +11160,13 @@
 		],
 		"svg": "05e7c.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -10980,12 +11257,14 @@
 		],
 		"svg": "06cca.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -11076,11 +11355,13 @@
 		],
 		"svg": "09ec4.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -11178,11 +11459,13 @@
 		],
 		"svg": "07518.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11274,11 +11557,13 @@
 		],
 		"svg": "06d45.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11367,12 +11652,14 @@
 		],
 		"svg": "06383.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -11462,11 +11749,13 @@
 		],
 		"svg": "06398.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11555,10 +11844,13 @@
 		],
 		"svg": "06368.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11643,10 +11935,13 @@
 		],
 		"svg": "08edf.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11739,11 +12034,13 @@
 		],
 		"svg": "06c88.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11836,11 +12133,13 @@
 		],
 		"svg": "051cd.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::1",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -11926,10 +12225,13 @@
 		],
 		"svg": "04e73.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -12023,11 +12325,14 @@
 		],
 		"svg": "0604b.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -12120,12 +12425,14 @@
 		],
 		"svg": "07d05.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::2",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -12209,11 +12516,13 @@
 		],
 		"svg": "090ca.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -12303,11 +12612,13 @@
 		],
 		"svg": "08170.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -12394,11 +12705,14 @@
 		],
 		"svg": "08e0a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -12486,9 +12800,13 @@
 		],
 		"svg": "0518a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::5",
-			"has::words"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0"
 		]
 	},
 	{
@@ -12565,10 +12883,13 @@
 		],
 		"svg": "068b0.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -12658,11 +12979,13 @@
 		],
 		"svg": "073cd.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -12753,10 +13076,13 @@
 		],
 		"svg": "05375.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -12848,10 +13174,13 @@
 		],
 		"svg": "055ab.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -12946,12 +13275,14 @@
 		],
 		"svg": "05e72.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::3",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::1",
+			"kanji::strokes::3",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -13040,11 +13371,14 @@
 		],
 		"svg": "06eb6.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -13130,10 +13464,13 @@
 		],
 		"svg": "09271.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -13219,10 +13556,13 @@
 		],
 		"svg": "06d99.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -13309,11 +13649,14 @@
 		],
 		"svg": "05339.svg",
 		"tags": [
-			"has::svg",
-			"strokes::4",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::4",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -13406,12 +13749,14 @@
 		],
 		"svg": "092ed.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -13502,10 +13847,13 @@
 		],
 		"svg": "05857.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -13595,10 +13943,13 @@
 		],
 		"svg": "08ed2.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -13685,11 +14036,13 @@
 		],
 		"svg": "06bd2.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -13775,10 +14128,13 @@
 		],
 		"svg": "053eb.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -13865,10 +14221,13 @@
 		],
 		"svg": "062dd.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -13966,11 +14325,14 @@
 		],
 		"svg": "04e7e.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"has::mnemonic",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::5",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -14061,11 +14423,13 @@
 		],
 		"svg": "068d2.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -14154,11 +14518,13 @@
 		],
 		"svg": "07948.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -14247,10 +14613,13 @@
 		],
 		"svg": "062fe.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -14338,10 +14707,13 @@
 		],
 		"svg": "07c89.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -14426,10 +14798,13 @@
 		],
 		"svg": "06c57.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -14519,10 +14894,13 @@
 		],
 		"svg": "06e7f.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -14620,11 +14998,13 @@
 		],
 		"svg": "074f6.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -14718,11 +15098,13 @@
 		],
 		"svg": "054b2.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::2",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -14819,11 +15201,14 @@
 		],
 		"svg": "053ec.svg",
 		"tags": [
-			"has::svg",
-			"strokes::5",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::5",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -14914,11 +15299,13 @@
 		],
 		"svg": "07f36.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -15008,12 +15395,14 @@
 		],
 		"svg": "096bb.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -15104,10 +15493,13 @@
 		],
 		"svg": "08102.svg",
 		"tags": [
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -15198,10 +15590,13 @@
 		],
 		"svg": "084b8.svg",
 		"tags": [
-			"has::svg",
-			"strokes::13",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::13",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -15292,10 +15687,13 @@
 		],
 		"svg": "0808c.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -15384,11 +15782,13 @@
 		],
 		"svg": "08015.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::1",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -15479,10 +15879,13 @@
 		],
 		"svg": "0920d.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -15576,11 +15979,13 @@
 		],
 		"svg": "06ce5.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::4",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -15665,10 +16070,13 @@
 		],
 		"svg": "09685.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -15759,11 +16167,14 @@
 		],
 		"svg": "0706f.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::5",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -15854,11 +16265,14 @@
 		],
 		"svg": "08f9b.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -15951,11 +16365,13 @@
 		],
 		"svg": "078e8.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::16",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::1",
+			"kanji::strokes::16",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16040,10 +16456,13 @@
 		],
 		"svg": "09ea6.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16125,11 +16544,13 @@
 		],
 		"svg": "059d3.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16217,10 +16638,13 @@
 		],
 		"svg": "07b52.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16306,11 +16730,14 @@
 		],
 		"svg": "07c92.svg",
 		"tags": [
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -16397,10 +16824,13 @@
 		],
 		"svg": "08a5e.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16491,10 +16921,13 @@
 		],
 		"svg": "07573.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -16583,10 +17016,13 @@
 		],
 		"svg": "0673a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16674,10 +17110,13 @@
 		],
 		"svg": "0819a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::15",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::15",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -16765,10 +17204,13 @@
 		],
 		"svg": "06fef.svg",
 		"tags": [
-			"has::svg",
-			"strokes::17",
-			"has::words",
-			"components::4"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::17",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::4"
 		],
 		"components": [
 			{
@@ -16859,11 +17301,13 @@
 		],
 		"svg": "05854.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -16956,10 +17400,13 @@
 		],
 		"svg": "06cb8.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17045,10 +17492,13 @@
 		],
 		"svg": "07070.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17131,11 +17581,13 @@
 		],
 		"svg": "083d3.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17222,11 +17674,14 @@
 		],
 		"svg": "05e3d.svg",
 		"tags": [
-			"has::svg",
-			"strokes::12",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::12",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -17315,10 +17770,13 @@
 		],
 		"svg": "067af.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17411,11 +17869,13 @@
 		],
 		"svg": "06dbc.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::6",
+			"kanji::nanori::1",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17502,9 +17962,13 @@
 		],
 		"svg": "0821f.svg",
 		"tags": [
-			"has::svg",
-			"strokes::6",
-			"has::words"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::3",
+			"kanji::nanori::0",
+			"kanji::strokes::6",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::0"
 		]
 	},
 	{
@@ -17578,11 +18042,14 @@
 		],
 		"svg": "08c9d.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"has::mnemonic",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2",
+			"kanji::has_mnemonic"
 		],
 		"components": [
 			{
@@ -17668,11 +18135,13 @@
 		],
 		"svg": "07b26.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::11",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::11",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17760,10 +18229,13 @@
 		],
 		"svg": "0618e.svg",
 		"tags": [
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17849,10 +18321,13 @@
 		],
 		"svg": "080af.svg",
 		"tags": [
-			"has::svg",
-			"strokes::8",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::8",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -17937,10 +18412,13 @@
 		],
 		"svg": "071e5.svg",
 		"tags": [
-			"has::svg",
-			"strokes::17",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::17",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -18022,11 +18500,13 @@
 		],
 		"svg": "0755c.svg",
 		"tags": [
-			"no::kunyomi",
-			"has::svg",
-			"strokes::10",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::strokes::10",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -18115,10 +18595,13 @@
 		],
 		"svg": "0631f.svg",
 		"tags": [
-			"has::svg",
-			"strokes::9",
-			"has::words",
-			"components::3"
+			"kanji::onyomi::2",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::strokes::9",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::3"
 		],
 		"components": [
 			{
@@ -18211,11 +18694,13 @@
 		],
 		"svg": "066c7.svg",
 		"tags": [
-			"has::nanori",
-			"has::svg",
-			"strokes::16",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::2",
+			"kanji::strokes::16",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -18301,10 +18786,13 @@
 		],
 		"svg": "06ef4.svg",
 		"tags": [
-			"has::svg",
-			"strokes::14",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::strokes::14",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
@@ -18393,10 +18881,13 @@
 		],
 		"svg": "04f3a.svg",
 		"tags": [
-			"has::svg",
-			"strokes::7",
-			"has::words",
-			"components::2"
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::strokes::7",
+			"kanji::words::3",
+			"kanji::has_svg",
+			"kanji::components::2"
 		],
 		"components": [
 			{
