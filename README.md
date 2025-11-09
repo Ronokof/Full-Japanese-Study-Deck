@@ -34,9 +34,9 @@
 - Every card/note from every subdeck is tagged with their field of application, part of speech and other miscellaneous information regarding it.
 - Use those tags to find the entries you need, especially in the *"ready-made mining material"* subdecks.
 
-### Updating
+### Updating (**ALWAYS KEEP BACKUPS!**)
 - If you are updating from a version before [v2.3.0](https://github.com/Ronokof/Full-Japanese-Study-Deck/releases/tag/2.3.0) (June 20 2025), check out [this workaround](https://github.com/Ronokof/Full-Japanese-Study-Deck/discussions/6#discussioncomment-13530156)!
-- Otherwise, simply import the new deck over the old one with the following options set (**ALWAYS KEEP BACKUPS!**):
+- Otherwise, simply import the new deck over the old one with the following options set (unsuspend any suspended cards beforehand if you want to update every card):
   * "Import any learning progress" ---> *Disabled*
   * "Import any deck presets" ---> *Disabled*
   * "Merge note types" ---> *Enabled*
@@ -69,11 +69,11 @@
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **5,773 common words** written entirely in kana.
+- **4,301 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **893 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
-- **29,512 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **1024 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
+- **29,962 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 

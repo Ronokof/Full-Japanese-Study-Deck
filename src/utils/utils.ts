@@ -1033,22 +1033,6 @@ export function getExtraKanji(): void {
 
     loadEntries(resultPaths.vocabJLPT, fileNames.vocabJLPT, undefined, ids);
 
-    if (
-      checkExistenceOfResults(
-        resultPaths.extraKanji,
-        ["extra_kanji-incomplete", "extra_kanji_words-incomplete"],
-        true,
-      )
-    ) {
-      loadEntries(resultPaths.extraKanji, "extra_kanji-incomplete", kanji);
-      loadEntries(
-        resultPaths.extraKanji,
-        "extra_kanji_words-incomplete",
-        kanjiWords,
-        ids,
-      );
-    }
-
     const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
       (word: DictWord) =>
         !ids.has(word.id) &&
@@ -1056,14 +1040,11 @@ export function getExtraKanji(): void {
         (word.isCommon === true || word.hasPhrases === true),
     );
 
-    const kanjiToDelete: string[] = kanji.map((char: Kanji) => char.kanji);
-
     for (const word of jmDict)
       for (const kanjiForm of word.kanjiForms!) {
         const kanjiChars: string[] = kanjiForm.form.split("");
 
         for (const char of kanjiChars) {
-          if (kanjiToDelete.includes(char)) continue;
           if (!kanjiToWordsMap.has(char)) kanjiToWordsMap.set(char, []);
 
           if (!ids.has(word.id)) {
@@ -1073,7 +1054,7 @@ export function getExtraKanji(): void {
         }
       }
 
-    kanjiToDelete.length = 0;
+    const kanjiToDelete: string[] = [];
 
     for (const [kanji, words] of kanjiToWordsMap.entries())
       if (words.length === 0) kanjiToDelete.push(kanji);
@@ -1104,13 +1085,8 @@ export function getExtraKanji(): void {
     const kanjiDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.kanji}`;
     const vocabDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.vocab}`;
 
-    const existingKanji: Set<string> = new Set<string>(
-      kanji.map((char: Kanji) => char.kanji),
-    );
-
     const kanjiDic: DictKanji[] = (getDict("Kanjidic") as DictKanji[]).filter(
       (char: DictKanji) =>
-        !existingKanji.has(char.kanji) &&
         char.readingMeaning.length > 0 &&
         char.readingMeaning.some(
           (pair: DictKanjiReadingMeaning) =>
@@ -1122,18 +1098,15 @@ export function getExtraKanji(): void {
         ),
     );
 
-    let kanjiCount: number = existingKanji.size;
+    let kanjiCount: number = 0;
 
     const kanjiDicLength: number = kanjiDic.length;
-
-    let progress2: number = Math.round((kanjiCount / kanjiDicLength) * 100);
 
     for (let i: number = 0; i < kanjiDicLength; i++) {
       const kanjiEntry: DictKanji | undefined = kanjiDic[i];
       if (!kanjiEntry) throw new Error("Invalid KANJIDIC file");
       if (!kanjiToWordsMap.has(kanjiEntry.kanji)) {
         kanjiCount++;
-        kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
         continue;
       }
 
@@ -1156,37 +1129,34 @@ export function getExtraKanji(): void {
       const kanjiObj: Kanji | undefined = !jlptKanji.has(kanjiEntry.kanji)
         ? kanjiInfo
           ? getKanjiExtended(
-              kanjiEntry.kanji,
-              kanjiInfo,
-              kanjiDic,
-              true,
-              jmDict,
-              undefined,
-              noteTypes.kanji,
-              kanjiDeck,
-            )
+            kanjiEntry.kanji,
+            kanjiInfo,
+            kanjiDic,
+            true,
+            jmDict,
+            undefined,
+            noteTypes.kanji,
+            kanjiDeck,
+          )
           : getKanji(
-              kanjiEntry.kanji,
-              kanjiDic,
-              jmDict,
-              undefined,
-              noteTypes.kanji,
-              kanjiDeck,
-            )
+            kanjiEntry.kanji,
+            kanjiDic,
+            jmDict,
+            undefined,
+            noteTypes.kanji,
+            kanjiDeck,
+          )
         : undefined;
       if (
         kanjiObj &&
         ((!kanjiObj.onyomi && !kanjiObj.kunyomi) || !kanjiObj.meanings)
       ) {
         kanjiCount++;
-        kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
         continue;
       }
 
-      const progress: number = Math.round((kanjiCount / kanjiDicLength) * 100);
-
       console.log(
-        `${progress.toFixed()}% Searching: ${!kanjiObj ? `${kanjiEntry.kanji} (from JLPT list; not creating note for it)` : `${kanjiEntry.kanji}`}`,
+        `${Math.round((kanjiCount / kanjiDicLength) * 100)}% Searching: ${!kanjiObj ? `${kanjiEntry.kanji} (from JLPT list; not creating note for it)` : `${kanjiEntry.kanji}`}`,
       );
 
       const wordsForKanji: DictWord[] | undefined = kanjiToWordsMap.get(
@@ -1194,7 +1164,6 @@ export function getExtraKanji(): void {
       );
       if (!wordsForKanji || wordsForKanji.length === 0) {
         kanjiCount++;
-        kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
         continue;
       }
 
@@ -1226,28 +1195,10 @@ export function getExtraKanji(): void {
       }
 
       if (foundWord && kanjiObj) kanji.push(kanjiObj);
-      else kanji.push({ kanji: kanjiEntry.kanji, doNotCreateNote: true });
 
       kanjiCount++;
 
       kanjiToWordsMap.delete(kanjiEntry.kanji);
-
-      if (progress - progress2 >= 5) {
-        saveEntries(
-          kanji,
-          "extra_kanji-incomplete",
-          resultPaths.extraKanji,
-          true,
-        );
-        saveEntries(
-          kanjiWords,
-          "extra_kanji_words-incomplete",
-          resultPaths.extraKanji,
-          true,
-        );
-
-        progress2 = progress;
-      }
     }
 
     if (kanji.length > 0)
@@ -1277,22 +1228,6 @@ export function getKanaWords(): void {
 
     const wordList: Word[] = [];
 
-    if (
-      checkExistenceOfResults(
-        resultPaths.kanaWords,
-        "kana_words-incomplete",
-        true,
-      )
-    )
-      loadEntries(
-        resultPaths.kanaWords,
-        "kana_words-incomplete",
-        wordList,
-        ids,
-      );
-
-    let wordCount: number = ids.size;
-
     if (checkExistenceOfResults(resultPaths.extraKanji, "extra_kanji_words"))
       loadEntries(resultPaths.extraKanji, "extra_kanji_words", undefined, ids);
     if (checkExistenceOfResults(resultPaths.vocabJLPT, fileNames.vocabJLPT))
@@ -1307,17 +1242,14 @@ export function getKanaWords(): void {
     );
 
     const jmDictLength: number = jmDict.length;
-
-    let progress2: number = Math.round((wordCount / jmDictLength) * 100);
+    let wordCount: number = 0;
 
     for (let i: number = 0; i < jmDictLength; i++) {
       const dictWord: DictWord | undefined = jmDict[i];
       if (!dictWord) throw new Error("Invalid JMDict file");
       if (ids.has(dictWord.id)) continue;
 
-      const progress: number = Math.round((wordCount / jmDictLength) * 100);
-
-      console.log(`${progress}% Searching: ${dictWord.id}`);
+      console.log(`${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`);
 
       const word: Word = getWord(
         undefined,
@@ -1334,21 +1266,8 @@ export function getKanaWords(): void {
         (word.common === true || (word.phrases && word.phrases.length > 0))
       )
         wordList.push(word);
-      else
-        wordList.push({ id: dictWord.id, readings: [], doNotCreateNote: true });
 
       wordCount++;
-
-      if (progress - progress2 >= 5) {
-        saveEntries(
-          wordList,
-          "kana_words-incomplete",
-          resultPaths.kanaWords,
-          true,
-        );
-
-        progress2 = progress;
-      }
     }
 
     if (wordList.length > 0)
