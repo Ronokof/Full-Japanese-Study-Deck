@@ -61,6 +61,14 @@ summary {
     color: #00bfff;
 }
 
+.word-index {
+    font-size: 1em;
+}
+
+.gloss-specific {
+    color: #00E5FF;
+}
+
 .word-reading {
     background-color: #fff8e1;
     color: #bf360c;

@@ -8,7 +8,6 @@ import {
 import path from "path";
 import { writeFile } from "fs/promises";
 import { randomUUID, UUID } from "crypto";
-import { PollyClient } from "@aws-sdk/client-polly";
 import {
   convertJMdict,
   convertKanjiDic,
@@ -196,7 +195,7 @@ export async function convertDicts(): Promise<void> {
         const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
 
         {
-          const radkfile2Path: string = `${dictsDir}/kradzip/radkfile2`;
+          const radkfile2Path: string = `${dictsDir}/radkfile2`;
           const outputPath: string = `${dictsDir}/json/radkfile2.json`;
 
           if (existsSync(outputPath))
@@ -219,16 +218,16 @@ export async function convertDicts(): Promise<void> {
         }
 
         {
-          const kradfile2Path: string = `${dictsDir}/kradzip/kradfile2`;
+          const katakana: Kana[] = [];
+          loadEntries(resultPaths.kana, "katakana", katakana);
+
+          const kradfile2Path: string = `${dictsDir}/kradfile2`;
           const outputPath: string = `${dictsDir}/json/kradfile2.json`;
 
           if (existsSync(outputPath))
             console.log("Already converted kradfile2");
           else if (existsSync(kradfile2Path)) {
             console.log("Converting kradfile2");
-
-            const katakana: Kana[] = [];
-            loadEntries(resultPaths.kana, "katakana", katakana);
 
             const kanjiWithRadicals: DictKanjiWithRadicals[] = convertKradFile(
               readFileSync(kradfile2Path),
@@ -242,10 +241,12 @@ export async function convertDicts(): Promise<void> {
                 JSON.stringify(kanjiWithRadicals, undefined, "\t"),
                 "utf-8",
               );
-
-            katakana.length = 0;
           }
+
+          katakana.length = 0;
         }
+
+        kanjiDic.length = 0;
 
         resolve();
       } catch (err: unknown) {
@@ -294,7 +295,7 @@ export function getDict(dict: DictName): Dict {
   }
 }
 
-export async function generateAudio(client: PollyClient): Promise<void> {
+export async function generateAudio(apiKey: string): Promise<void> {
   return new Promise<void>(
     async (
       resolve: (value: void | PromiseLike<void>) => void,
@@ -303,11 +304,18 @@ export async function generateAudio(client: PollyClient): Promise<void> {
       try {
         let count: number = 0;
 
+        const kanaAudioPath: string = `${resultPaths.kana}/audio`;
+        if (!existsSync(kanaAudioPath))
+          mkdirSync(kanaAudioPath, { recursive: true });
+
         for (const kanaPath of fileNames.kana) {
           const kana: Kana[] = [];
           loadEntries(resultPaths.kana, kanaPath, kana);
 
           for (const char of kana) {
+            if (char.audio && existsSync(`${kanaAudioPath}/${char.audio}`))
+              continue;
+
             const ssml: string = makeSSML(
               char.kana.replace("/", "・"),
               char.kana.replace("/", "・"),
@@ -316,27 +324,25 @@ export async function generateAudio(client: PollyClient): Promise<void> {
             const id: UUID = randomUUID();
 
             const audioBuffer: Buffer<ArrayBuffer> | null =
-              await synthesizeSpeech(client, ssml, {
-                OutputFormat: "mp3",
-                VoiceId: "Tomoko",
-                Engine: "neural",
-                LanguageCode: "ja-JP",
+              await synthesizeSpeech(ssml, apiKey, {
+                voiceService: "servicegoo",
+                voiceID: "ja-JP-Neural2-D",
               }).catch((err: any) => {
                 throw err;
               });
 
             if (!audioBuffer) throw new Error(`Invalid audio: ${char.kana}`);
 
-            await writeFile(`${resultPaths.kana}/${id}.mp3`, audioBuffer);
+            await writeFile(`${kanaAudioPath}/${id}.mp3`, audioBuffer);
 
             char.audio = `${id}.mp3`;
 
             count++;
 
-            if (count === 40)
+            if (count === 100)
               await new Promise((resolve: (value: unknown) => void) => {
                 count = 0;
-                setTimeout(resolve, 1000);
+                setTimeout(resolve, 60000);
               });
 
             kana[
@@ -347,11 +353,23 @@ export async function generateAudio(client: PollyClient): Promise<void> {
           saveEntries(kana, kanaPath, resultPaths.kana);
         }
 
+        const jlptAudioPath: string = `${resultPaths.vocabJLPT}/audio`;
+        if (!existsSync(jlptAudioPath))
+          mkdirSync(jlptAudioPath, { recursive: true });
+
+        const readingsWithAudio: Word[] = [];
+
         for (const vocabPath of fileNames.vocabJLPT) {
           const vocab: Word[] = [];
           loadEntries(resultPaths.vocabJLPT, vocabPath, vocab);
 
           for (const word of vocab) {
+            const readingsWithAudioWord: Word = {
+              noteID: word.noteID,
+              readings: [],
+              translations: [],
+            };
+
             if (
               word.kanjiForms &&
               word.translations &&
@@ -366,7 +384,12 @@ export async function generateAudio(client: PollyClient): Promise<void> {
               const form: KanjiForm | undefined = word.kanjiForms[0];
               const firstReading: Reading | undefined = word.readings[0];
 
-              if (form && firstReading) {
+              if (
+                form &&
+                firstReading &&
+                (firstReading.audio === undefined ||
+                  !existsSync(`${jlptAudioPath}/${firstReading.audio}`))
+              ) {
                 const ssml: string = makeSSML(
                   form.kanjiForm,
                   firstReading.reading,
@@ -375,11 +398,9 @@ export async function generateAudio(client: PollyClient): Promise<void> {
                 const id: UUID = randomUUID();
 
                 const audioBuffer: Buffer<ArrayBuffer> | null =
-                  await synthesizeSpeech(client, ssml, {
-                    OutputFormat: "mp3",
-                    VoiceId: "Tomoko",
-                    Engine: "neural",
-                    LanguageCode: "ja-JP",
+                  await synthesizeSpeech(ssml, apiKey, {
+                    voiceService: "servicegoo",
+                    voiceID: "ja-JP-Neural2-D",
                   }).catch((err: any) => {
                     throw err;
                   });
@@ -389,19 +410,18 @@ export async function generateAudio(client: PollyClient): Promise<void> {
                     `Invalid audio: ${form.kanjiForm}-${firstReading.reading}`,
                   );
 
-                await writeFile(
-                  `${resultPaths.vocabJLPT}/${id}.mp3`,
-                  audioBuffer,
-                );
+                await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
 
                 word.readings[0]!.audio = `${id}.mp3`;
 
+                readingsWithAudioWord.readings.push(word.readings[0]!);
+
                 count++;
 
-                if (count === 40)
+                if (count === 100)
                   await new Promise((resolve: (value: unknown) => void) => {
                     count = 0;
-                    setTimeout(resolve, 1000);
+                    setTimeout(resolve, 60000);
                   });
               }
 
@@ -410,7 +430,9 @@ export async function generateAudio(client: PollyClient): Promise<void> {
                   reading.notes &&
                   reading.notes.some((note: string) =>
                     note.startsWith("Reading restricted to "),
-                  ),
+                  ) &&
+                  (reading.audio === undefined ||
+                    !existsSync(`${jlptAudioPath}/${reading.audio}`)),
               );
 
               for (const rr of restrictedReadings) {
@@ -426,11 +448,9 @@ export async function generateAudio(client: PollyClient): Promise<void> {
                   const id: UUID = randomUUID();
 
                   const audioBuffer: Buffer<ArrayBuffer> | null =
-                    await synthesizeSpeech(client, ssml, {
-                      OutputFormat: "mp3",
-                      VoiceId: "Tomoko",
-                      Engine: "neural",
-                      LanguageCode: "ja-JP",
+                    await synthesizeSpeech(ssml, apiKey, {
+                      voiceService: "servicegoo",
+                      voiceID: "ja-JP-Neural2-D",
                     }).catch((err: any) => {
                       throw err;
                     });
@@ -440,39 +460,44 @@ export async function generateAudio(client: PollyClient): Promise<void> {
                       `Invalid audio: ${kanjiForm}-${rr.reading}`,
                     );
 
-                  await writeFile(
-                    `${resultPaths.vocabJLPT}/${id}.mp3`,
-                    audioBuffer,
+                  await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
+
+                  const readingIndex: number = word.readings.findIndex(
+                    (wordReading: Reading) =>
+                      wordReading.reading === rr.reading,
                   );
 
-                  word.readings[
-                    word.readings.findIndex(
-                      (wordReading: Reading) =>
-                        wordReading.reading === rr.reading,
-                    )
-                  ]!.audio = `${id}.mp3`;
+                  word.readings[readingIndex]!.audio = `${id}.mp3`;
+
+                  readingsWithAudioWord.readings.push(
+                    word.readings[readingIndex]!,
+                  );
 
                   count++;
 
-                  if (count === 40)
+                  if (count === 100)
                     await new Promise((resolve: (value: unknown) => void) => {
                       count = 0;
-                      setTimeout(resolve, 1000);
+                      setTimeout(resolve, 60000);
                     });
                 }
               }
             } else
               for (const reading of word.readings) {
+                if (
+                  reading.audio &&
+                  existsSync(`${jlptAudioPath}/${reading.audio}`)
+                )
+                  continue;
+
                 const ssml: string = makeSSML(reading.reading, reading.reading);
 
                 const id: UUID = randomUUID();
 
                 const audioBuffer: Buffer<ArrayBuffer> | null =
-                  await synthesizeSpeech(client, ssml, {
-                    OutputFormat: "mp3",
-                    VoiceId: "Tomoko",
-                    Engine: "neural",
-                    LanguageCode: "ja-JP",
+                  await synthesizeSpeech(ssml, apiKey, {
+                    voiceService: "servicegoo",
+                    voiceID: "ja-JP-Neural2-D",
                   }).catch((err: any) => {
                     throw err;
                   });
@@ -480,34 +505,46 @@ export async function generateAudio(client: PollyClient): Promise<void> {
                 if (!audioBuffer)
                   throw new Error(`Invalid audio: ${reading.reading}`);
 
-                await writeFile(
-                  `${resultPaths.vocabJLPT}/${id}.mp3`,
-                  audioBuffer,
+                await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
+
+                const readingIndex: number = word.readings.findIndex(
+                  (wordReading: Reading) =>
+                    wordReading.reading === reading.reading,
                 );
 
-                word.readings[
-                  word.readings.findIndex(
-                    (wordReading: Reading) =>
-                      wordReading.reading === reading.reading,
-                  )
-                ]!.audio = `${id}.mp3`;
+                word.readings[readingIndex]!.audio = `${id}.mp3`;
+
+                readingsWithAudioWord.readings.push(
+                  word.readings[readingIndex]!,
+                );
 
                 count++;
 
-                if (count === 40)
+                if (count === 100)
                   await new Promise((resolve: (value: unknown) => void) => {
                     count = 0;
-                    setTimeout(resolve, 1000);
+                    setTimeout(resolve, 60000);
                   });
               }
 
             vocab[
               vocab.findIndex((vocabWord: Word) => vocabWord.id === word.id)
             ] = word;
+
+            if (readingsWithAudioWord.readings.length > 0)
+              readingsWithAudio.push(readingsWithAudioWord);
           }
 
           saveEntries(vocab, vocabPath, resultPaths.vocabJLPT);
         }
+
+        if (readingsWithAudio.length > 0)
+          saveEntries(
+            readingsWithAudio,
+            "readings_with_audio",
+            resultPaths.vocabJLPT,
+            true,
+          );
 
         resolve();
       } catch (err: unknown) {
@@ -698,7 +735,6 @@ export function getJLPTVocab(): void {
       )
     )
       loadEntries(resultPaths.vocabJLPT, "readings_with_audio", audioReadings);
-    else throw new Error("readings_with_audio JSON file does not exist");
 
     const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
     const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
@@ -756,21 +792,23 @@ export function getJLPTVocab(): void {
           deck,
         );
 
-        const audioReadingsWord: Word | undefined = audioReadings.find(
-          (audioWord: Word) => audioWord.noteID === word.noteID,
-        );
+        if (audioReadings.length > 0) {
+          const audioReadingsWord: Word | undefined = audioReadings.find(
+            (audioWord: Word) => audioWord.noteID === word.noteID,
+          );
 
-        if (audioReadingsWord)
-          word.readings = word.readings.map((reading: Reading) => {
-            const audioReading: Reading | undefined =
-              audioReadingsWord.readings.find(
-                (rd: Reading) => rd.reading === reading.reading,
-              );
+          if (audioReadingsWord)
+            word.readings = word.readings.map((reading: Reading) => {
+              const audioReading: Reading | undefined =
+                audioReadingsWord.readings.find(
+                  (rd: Reading) => rd.reading === reading.reading,
+                );
 
-            if (audioReading) reading.audio = audioReading.audio;
+              if (audioReading) reading.audio = audioReading.audio;
 
-            return reading;
-          });
+              return reading;
+            });
+        }
 
         words.push(word);
 
@@ -1129,23 +1167,23 @@ export function getExtraKanji(): void {
       const kanjiObj: Kanji | undefined = !jlptKanji.has(kanjiEntry.kanji)
         ? kanjiInfo
           ? getKanjiExtended(
-            kanjiEntry.kanji,
-            kanjiInfo,
-            kanjiDic,
-            true,
-            jmDict,
-            undefined,
-            noteTypes.kanji,
-            kanjiDeck,
-          )
+              kanjiEntry.kanji,
+              kanjiInfo,
+              kanjiDic,
+              true,
+              jmDict,
+              undefined,
+              noteTypes.kanji,
+              kanjiDeck,
+            )
           : getKanji(
-            kanjiEntry.kanji,
-            kanjiDic,
-            jmDict,
-            undefined,
-            noteTypes.kanji,
-            kanjiDeck,
-          )
+              kanjiEntry.kanji,
+              kanjiDic,
+              jmDict,
+              undefined,
+              noteTypes.kanji,
+              kanjiDeck,
+            )
         : undefined;
       if (
         kanjiObj &&
@@ -1249,7 +1287,9 @@ export function getKanaWords(): void {
       if (!dictWord) throw new Error("Invalid JMDict file");
       if (ids.has(dictWord.id)) continue;
 
-      console.log(`${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`);
+      console.log(
+        `${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`,
+      );
 
       const word: Word = getWord(
         undefined,

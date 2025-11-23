@@ -1,5 +1,4 @@
 import dotenv from "dotenv";
-import { PollyClient } from "@aws-sdk/client-polly";
 
 import { convertDicts, generateAudio, getEntries } from "./utils/utils";
 
@@ -34,24 +33,12 @@ convertDicts()
     getEntries();
 
     if (process.argv.slice(2).includes("--with-audio")) {
-      if (
-        process.env.AWS_REGION === undefined ||
-        process.env.AWS_ACCESS_KEY === undefined ||
-        process.env.AWS_SECRET === undefined
-      )
-        throw new Error("Invalid AWS info");
+      if (process.env.TTSFREE_APIKEY === undefined)
+        throw new Error("Invalid TTSFree.com API key");
 
       console.log("\nGenerating audio");
 
-      await generateAudio(
-        new PollyClient({
-          region: process.env.AWS_REGION,
-          credentials: {
-            accessKeyId: process.env.AWS_ACCESS_KEY,
-            secretAccessKey: process.env.AWS_SECRET,
-          },
-        }),
-      )
+      await generateAudio(process.env.TTSFREE_APIKEY)
         .then(() => console.log("\nAudio generated"))
         .catch((err: any) => {
           throw err;

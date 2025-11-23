@@ -7,7 +7,7 @@ First off, thank you for even thinking about contributing! Whether you’re fixi
 ## Setup
 
 1. **Clone** the repo and `cd` into the resulting directory.
-2. Copy `.env_template` to `.env` and fill in any AWS details if you want to generate or regenerate audio.
+2. Copy `.env_template` to `.env` and fill in the TTSFree.com API key if you want to generate or regenerate audio.
 3. **Install dependencies**
  ```bash
  npm install
