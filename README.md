@@ -111,8 +111,8 @@ Contribute or report any issues [here](https://github.com/Ronokof/Full-Japanese-
 
 - **Audio Playback Settings:**
   - If audio plays repetitively or automatically, turn on the **[Don’t play audio automatically](https://docs.ankiweb.net/deck-options.html#audio)** setting from the [deck's options](https://docs.ankiweb.net/deck-options.html).
-- **TTS Limitations:**
-  - Not all entries, particularly in the JLPT vocab subdeck, have accurate or available audio due to TTSFree.com constraints.
+- **AWS Limitations:**
+  - Not all entries, particularly in the JLPT vocab subdeck, have accurate or available audio due to AWS constraints.
 
 ---
 

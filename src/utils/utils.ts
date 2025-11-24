@@ -30,14 +30,12 @@ import {
   Kana,
   Kanji,
   KanjiForm,
-  makeSSML,
   Radical,
   Reading,
   Result,
   shuffleArray,
   synthesizeSpeech,
   TanakaExample,
-  Translation,
   Word,
 } from "henkan";
 
@@ -53,6 +51,7 @@ import {
   subDeckNames,
   svgDir,
 } from "./constants";
+import { PollyClient } from "@aws-sdk/client-polly";
 
 export type DictName = "JMDict" | "Kanjidic" | "tanaka" | "radk" | "krad";
 
@@ -295,7 +294,7 @@ export function getDict(dict: DictName): Dict {
   }
 }
 
-export async function generateAudio(apiKey: string): Promise<void> {
+export async function generateAudio(client: PollyClient): Promise<void> {
   return new Promise<void>(
     async (
       resolve: (value: void | PromiseLike<void>) => void,
@@ -316,20 +315,27 @@ export async function generateAudio(apiKey: string): Promise<void> {
             if (char.audio && existsSync(`${kanaAudioPath}/${char.audio}`))
               continue;
 
-            const ssml: string = makeSSML(
-              char.kana.replace("/", "・"),
-              char.kana.replace("/", "・"),
-            );
-
             const id: UUID = randomUUID();
 
-            const audioBuffer: Buffer<ArrayBuffer> | null =
-              await synthesizeSpeech(ssml, apiKey, {
-                voiceService: "servicegoo",
-                voiceID: "ja-JP-Neural2-D",
-              }).catch((err: any) => {
-                throw err;
-              });
+            const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${char.kana.replace("/", "・")}">${char.kana.replace("/", "・")}</phoneme>`;
+
+            let audioBuffer: Buffer<ArrayBuffer> | null = null;
+
+            while (audioBuffer === null) {
+              try {
+                audioBuffer = await synthesizeSpeech(client, ssml, {
+                  TextType: "ssml",
+                  OutputFormat: "mp3",
+                  VoiceId: "Tomoko",
+                  Engine: "neural",
+                  LanguageCode: "ja-JP",
+                }).catch((err: any) => {
+                  throw err;
+                });
+              } catch (err: unknown) {
+                console.log(err);
+              }
+            }
 
             if (!audioBuffer) throw new Error(`Invalid audio: ${char.kana}`);
 
@@ -339,10 +345,10 @@ export async function generateAudio(apiKey: string): Promise<void> {
 
             count++;
 
-            if (count === 100)
+            if (count === 40)
               await new Promise((resolve: (value: unknown) => void) => {
                 count = 0;
-                setTimeout(resolve, 60000);
+                setTimeout(resolve, 1000);
               });
 
             kana[
@@ -358,6 +364,18 @@ export async function generateAudio(apiKey: string): Promise<void> {
           mkdirSync(jlptAudioPath, { recursive: true });
 
         const readingsWithAudio: Word[] = [];
+        if (
+          checkExistenceOfResults(
+            resultPaths.vocabJLPT,
+            "readings_with_audio",
+            true,
+          )
+        )
+          loadEntries(
+            resultPaths.vocabJLPT,
+            "readings_with_audio",
+            readingsWithAudio,
+          );
 
         for (const vocabPath of fileNames.vocabJLPT) {
           const vocab: Word[] = [];
@@ -370,17 +388,7 @@ export async function generateAudio(apiKey: string): Promise<void> {
               translations: [],
             };
 
-            if (
-              word.kanjiForms &&
-              word.translations &&
-              !word.translations.every(
-                (translation: Translation) =>
-                  translation.notes &&
-                  translation.notes.includes(
-                    "Usually written using kana alone",
-                  ),
-              )
-            ) {
+            if (word.kanjiForms) {
               const form: KanjiForm | undefined = word.kanjiForms[0];
               const firstReading: Reading | undefined = word.readings[0];
 
@@ -390,20 +398,27 @@ export async function generateAudio(apiKey: string): Promise<void> {
                 (firstReading.audio === undefined ||
                   !existsSync(`${jlptAudioPath}/${firstReading.audio}`))
               ) {
-                const ssml: string = makeSSML(
-                  form.kanjiForm,
-                  firstReading.reading,
-                );
-
                 const id: UUID = randomUUID();
 
-                const audioBuffer: Buffer<ArrayBuffer> | null =
-                  await synthesizeSpeech(ssml, apiKey, {
-                    voiceService: "servicegoo",
-                    voiceID: "ja-JP-Neural2-D",
-                  }).catch((err: any) => {
-                    throw err;
-                  });
+                const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${firstReading.reading}">${form.kanjiForm}</phoneme>`;
+
+                let audioBuffer: Buffer<ArrayBuffer> | null = null;
+
+                while (audioBuffer === null) {
+                  try {
+                    audioBuffer = await synthesizeSpeech(client, ssml, {
+                      TextType: "ssml",
+                      OutputFormat: "mp3",
+                      VoiceId: "Tomoko",
+                      Engine: "neural",
+                      LanguageCode: "ja-JP",
+                    }).catch((err: any) => {
+                      throw err;
+                    });
+                  } catch (err: unknown) {
+                    console.log(err);
+                  }
+                }
 
                 if (!audioBuffer)
                   throw new Error(
@@ -418,10 +433,10 @@ export async function generateAudio(apiKey: string): Promise<void> {
 
                 count++;
 
-                if (count === 100)
+                if (count === 40)
                   await new Promise((resolve: (value: unknown) => void) => {
                     count = 0;
-                    setTimeout(resolve, 60000);
+                    setTimeout(resolve, 1000);
                   });
               }
 
@@ -443,17 +458,27 @@ export async function generateAudio(apiKey: string): Promise<void> {
                   .split(" to ")[1];
 
                 if (kanjiForm) {
-                  const ssml: string = makeSSML(kanjiForm, rr.reading);
-
                   const id: UUID = randomUUID();
 
-                  const audioBuffer: Buffer<ArrayBuffer> | null =
-                    await synthesizeSpeech(ssml, apiKey, {
-                      voiceService: "servicegoo",
-                      voiceID: "ja-JP-Neural2-D",
-                    }).catch((err: any) => {
-                      throw err;
-                    });
+                  const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${rr.reading}">${kanjiForm}</phoneme>`;
+
+                  let audioBuffer: Buffer<ArrayBuffer> | null = null;
+
+                  while (audioBuffer === null) {
+                    try {
+                      audioBuffer = await synthesizeSpeech(client, ssml, {
+                        TextType: "ssml",
+                        OutputFormat: "mp3",
+                        VoiceId: "Tomoko",
+                        Engine: "neural",
+                        LanguageCode: "ja-JP",
+                      }).catch((err: any) => {
+                        throw err;
+                      });
+                    } catch (err: unknown) {
+                      console.log(err);
+                    }
+                  }
 
                   if (!audioBuffer)
                     throw new Error(
@@ -475,10 +500,10 @@ export async function generateAudio(apiKey: string): Promise<void> {
 
                   count++;
 
-                  if (count === 100)
+                  if (count === 40)
                     await new Promise((resolve: (value: unknown) => void) => {
                       count = 0;
-                      setTimeout(resolve, 60000);
+                      setTimeout(resolve, 1000);
                     });
                 }
               }
@@ -490,17 +515,27 @@ export async function generateAudio(apiKey: string): Promise<void> {
                 )
                   continue;
 
-                const ssml: string = makeSSML(reading.reading, reading.reading);
-
                 const id: UUID = randomUUID();
 
-                const audioBuffer: Buffer<ArrayBuffer> | null =
-                  await synthesizeSpeech(ssml, apiKey, {
-                    voiceService: "servicegoo",
-                    voiceID: "ja-JP-Neural2-D",
-                  }).catch((err: any) => {
-                    throw err;
-                  });
+                const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${reading.reading}">${reading.reading}</phoneme>`;
+
+                let audioBuffer: Buffer<ArrayBuffer> | null = null;
+
+                while (audioBuffer === null) {
+                  try {
+                    audioBuffer = await synthesizeSpeech(client, ssml, {
+                      TextType: "ssml",
+                      OutputFormat: "mp3",
+                      VoiceId: "Tomoko",
+                      Engine: "neural",
+                      LanguageCode: "ja-JP",
+                    }).catch((err: any) => {
+                      throw err;
+                    });
+                  } catch (err: unknown) {
+                    console.log(err);
+                  }
+                }
 
                 if (!audioBuffer)
                   throw new Error(`Invalid audio: ${reading.reading}`);
@@ -520,12 +555,19 @@ export async function generateAudio(apiKey: string): Promise<void> {
 
                 count++;
 
-                if (count === 100)
+                if (count === 40)
                   await new Promise((resolve: (value: unknown) => void) => {
                     count = 0;
-                    setTimeout(resolve, 60000);
+                    setTimeout(resolve, 1000);
                   });
               }
+
+            word.readings = word.readings.map((r: Reading) => {
+              if (r.audio && !existsSync(`${jlptAudioPath}/${r.audio}`))
+                delete r.audio;
+
+              return r;
+            });
 
             vocab[
               vocab.findIndex((vocabWord: Word) => vocabWord.id === word.id)
@@ -536,15 +578,15 @@ export async function generateAudio(apiKey: string): Promise<void> {
           }
 
           saveEntries(vocab, vocabPath, resultPaths.vocabJLPT);
-        }
 
-        if (readingsWithAudio.length > 0)
-          saveEntries(
-            readingsWithAudio,
-            "readings_with_audio",
-            resultPaths.vocabJLPT,
-            true,
-          );
+          if (readingsWithAudio.length > 0)
+            saveEntries(
+              readingsWithAudio,
+              "readings_with_audio",
+              resultPaths.vocabJLPT,
+              true,
+            );
+        }
 
         resolve();
       } catch (err: unknown) {
