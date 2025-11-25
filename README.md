@@ -69,11 +69,11 @@
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **5,745 common words** written entirely in kana.
+- **5,714 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **876 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
-- **29,421 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **841 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
+- **29,234 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 ---
 

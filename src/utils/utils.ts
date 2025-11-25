@@ -778,11 +778,25 @@ export function getJLPTVocab(): void {
     )
       loadEntries(resultPaths.vocabJLPT, "readings_with_audio", audioReadings);
 
+    const audioReadingIDs: Set<`word_${string}`> = new Set<`word_${string}`>(
+      audioReadings.map((word: Word) => word.noteID!),
+    );
+
     const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
     const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
     const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
       getDict("tanaka") as TanakaExample[],
     ).filter((ex: TanakaExample) => ex.furigana);
+
+    const wordAudio: Map<string, Word> = new Map<string, Word>();
+
+    for (const word of jmDict.filter((word: DictWord) =>
+      audioReadingIDs.has(`word_${word.id}`),
+    ))
+      wordAudio.set(
+        word.id,
+        audioReadings.find((w: Word) => w.noteID === `word_${word.id}`)!,
+      );
 
     for (const filename of fileNames.vocabJLPT) {
       if (checkExistenceOfResults(resultPaths.vocabJLPT, filename)) {
@@ -834,10 +848,8 @@ export function getJLPTVocab(): void {
           deck,
         );
 
-        if (audioReadings.length > 0) {
-          const audioReadingsWord: Word | undefined = audioReadings.find(
-            (audioWord: Word) => audioWord.noteID === word.noteID,
-          );
+        if (wordAudio.size > 0) {
+          const audioReadingsWord: Word | undefined = wordAudio.get(id);
 
           if (audioReadingsWord)
             word.readings = word.readings.map((reading: Reading) => {
