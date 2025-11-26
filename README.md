@@ -40,7 +40,7 @@
   * "Import any learning progress" ---> *Disabled*
   * "Import any deck presets" ---> *Disabled*
   * "Merge note types" ---> *Enabled*
-  * "Update notes" and "Update note types" ---> *"Always"*
+  * "Update notes" and (**optional; you will lose custom changes if set**) "Update note types" ---> *"Always"*
 
 ### Immersion > Anki
 - The hard fact is that Anki alone won't make you *fluent* in Japanese (or any language).
@@ -68,12 +68,14 @@
 - **Reversed cards** included.
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
-### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **5,714 common words** written entirely in kana.
+### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
+- **5,715 common words** written entirely in kana.
 
-### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)
-- **841 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
-- **29,234 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
+- **837 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project). **Reversed cards** included.
+- **29,190 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+
+"*" - the number of entries will always change with dictionary updates
 
 ---
 

@@ -38,9 +38,9 @@
     "lint": "eslint 'src/**/*.{ts,tsx}' --fix"
   },
   "dependencies": {
-    "@aws-sdk/client-polly": "^3.939.0",
+    "@aws-sdk/client-polly": "^3.940.0",
     "dotenv": "^17.2.3",
-    "henkan": "^0.9.2",
+    "henkan": "^0.9.3",
     "libxmljs2": "^0.37.0"
   },
   "devDependencies": {
