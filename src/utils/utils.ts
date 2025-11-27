@@ -16,6 +16,7 @@ import {
   convertTanakaCorpus,
   Dict,
   DictKanji,
+  DictKanjiForm,
   DictKanjiReadingMeaning,
   DictKanjiReadingMeaningGroup,
   DictKanjiWithRadicals,
@@ -32,6 +33,7 @@ import {
   KanjiForm,
   Radical,
   Reading,
+  regexps,
   Result,
   shuffleArray,
   synthesizeSpeech,
@@ -785,8 +787,10 @@ export function getJLPTVocab(): void {
     const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
     const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
     const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
-      getDict("tanaka") as TanakaExample[],
-    ).filter((ex: TanakaExample) => ex.furigana);
+      (getDict("tanaka") as TanakaExample[]).filter(
+        (ex: TanakaExample) => ex.furigana,
+      ),
+    );
 
     const wordAudio: Map<string, Word> = new Map<string, Word>();
 
@@ -1112,8 +1116,10 @@ export function getExtraKanji(): void {
     }
 
     const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
-      getDict("tanaka") as TanakaExample[],
-    ).filter((ex: TanakaExample) => ex.furigana);
+      (getDict("tanaka") as TanakaExample[]).filter(
+        (ex: TanakaExample) => ex.furigana,
+      ),
+    );
 
     const kanjiToWordsMap: Map<string, DictWord[]> = new Map<
       string,
@@ -1125,35 +1131,47 @@ export function getExtraKanji(): void {
 
     loadEntries(resultPaths.vocabJLPT, fileNames.vocabJLPT, undefined, ids);
 
+    const kanjiDic: DictKanji[] = (getDict("Kanjidic") as DictKanji[]).filter(
+      (char: DictKanji) =>
+        char.readingMeaning.length > 0 &&
+        char.readingMeaning.some(
+          (pair: DictKanjiReadingMeaning) =>
+            pair.groups.length > 0 &&
+            pair.groups.some(
+              (group: DictKanjiReadingMeaningGroup) =>
+                group.meanings.length > 0 && group.readings.length > 0,
+            ),
+        ),
+    );
+
+    const dictKanji: Set<string> = new Set<string>(
+      kanjiDic.map((entry: DictKanji) => entry.kanji),
+    );
+
     const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
       (word: DictWord) =>
         !ids.has(word.id) &&
+        (word.isCommon === true || word.hasPhrases === true) &&
         word.kanjiForms &&
-        (word.isCommon === true || word.hasPhrases === true),
+        word.kanjiForms.some((kf: DictKanjiForm) =>
+          kf.form.split("").some((char: string) => dictKanji.has(char)),
+        ),
     );
 
     for (const word of jmDict)
       for (const kanjiForm of word.kanjiForms!) {
-        const kanjiChars: string[] = kanjiForm.form.split("");
+        const kanjiChars: string[] = kanjiForm.form
+          .split("")
+          .filter((char: string) => dictKanji.has(char));
 
-        for (const char of kanjiChars) {
-          if (!kanjiToWordsMap.has(char)) kanjiToWordsMap.set(char, []);
-
+        for (const char of kanjiChars)
           if (!ids.has(word.id)) {
+            if (!kanjiToWordsMap.has(char)) kanjiToWordsMap.set(char, []);
+
             kanjiToWordsMap.get(char)!.push(word);
             ids.add(word.id);
           }
-        }
       }
-
-    const kanjiToDelete: string[] = [];
-
-    for (const [kanji, words] of kanjiToWordsMap.entries())
-      if (words.length === 0) kanjiToDelete.push(kanji);
-    for (const kanji of kanjiToDelete) kanjiToWordsMap.delete(kanji);
-
-    kanjiToDelete.length = 0;
-    ids.clear();
 
     let jlptKanji: Kanji[] | Set<string> = [];
 
@@ -1177,22 +1195,12 @@ export function getExtraKanji(): void {
     const kanjiDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.kanji}`;
     const vocabDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.vocab}`;
 
-    const kanjiDic: DictKanji[] = (getDict("Kanjidic") as DictKanji[]).filter(
-      (char: DictKanji) =>
-        char.readingMeaning.length > 0 &&
-        char.readingMeaning.some(
-          (pair: DictKanjiReadingMeaning) =>
-            pair.groups.length > 0 &&
-            pair.groups.some(
-              (group: DictKanjiReadingMeaningGroup) =>
-                group.meanings.length > 0 && group.readings.length > 0,
-            ),
-        ),
-    );
-
     let kanjiCount: number = 0;
 
     const kanjiDicLength: number = kanjiDic.length;
+
+    dictKanji.clear();
+    ids.clear();
 
     for (let i: number = 0; i < kanjiDicLength; i++) {
       const kanjiEntry: DictKanji | undefined = kanjiDic[i];
@@ -1315,8 +1323,10 @@ export function getKanaWords(): void {
 
     const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
     const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
-      getDict("tanaka") as TanakaExample[],
-    ).filter((ex: TanakaExample) => ex.furigana);
+      (getDict("tanaka") as TanakaExample[]).filter(
+        (ex: TanakaExample) => ex.furigana,
+      ),
+    );
 
     const wordList: Word[] = [];
 
@@ -1330,7 +1340,11 @@ export function getKanaWords(): void {
     const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
       (word: DictWord) =>
         !ids.has(word.id) &&
-        (word.isCommon === true || word.hasPhrases === true),
+        (word.isCommon === true || word.hasPhrases === true) &&
+        (word.kanjiForms === undefined ||
+          word.kanjiForms.every(
+            (kf: DictKanjiForm) => !regexps.kanji.test(kf.form),
+          )),
     );
 
     const jmDictLength: number = jmDict.length;
