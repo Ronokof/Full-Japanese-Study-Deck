@@ -40,7 +40,7 @@
   "dependencies": {
     "@aws-sdk/client-polly": "^3.940.0",
     "dotenv": "^17.2.3",
-    "henkan": "^0.9.3",
+    "henkan": "^1.1.2",
     "libxmljs2": "^0.37.0"
   },
   "devDependencies": {
