@@ -87,6 +87,7 @@ This deck is compiled from and inspired by multiple projects:
 - **[Tanaka Corpus](https://www.edrdg.org/wiki/index.php/Tanaka_Corpus)** *([CC-BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/))*
 - **[JGram](https://jgram.org)** *([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))*
 - **[tanos.co.uk](https://www.tanos.co.uk/jlpt/)** *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
+- **[ja.wiktionary.org](https://ja.wiktionary.org/wiki/Wiktionary:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)** *([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja))*
 - **[KanjiVG](https://kanjivg.tagaini.net/)** *([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))*
 - **[jpdb](https://jpdb.io/)** *([ToS](https://jpdb.io/terms-of-use))*
 - **[Takoboto](https://takoboto.jp/)**
@@ -97,7 +98,7 @@ This Anki deck includes kanji components and mnemonics from [jpdb.io](https://jp
 
 ## **Build Your Own Deck**
 
-If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made the deck from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Follow the "Setup" section inside [this file](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
+If you know how to code in TypeScript (or how to use AI) and you want to tweak this deck in any way, shape or form to fit your needs, download my deck builder with which I have made it from [my GitHub repository](https://github.com/Ronokof/Full-Japanese-Study-Deck). Follow the "Setup" section inside [this file](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md).
 
 Also, check out the [Henkan](https://www.npmjs.com/package/henkan) npm library if you want to convert and use dictionary entries more freely.
 
