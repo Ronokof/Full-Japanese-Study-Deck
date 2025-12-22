@@ -28,7 +28,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a one line.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "丨",
@@ -59,7 +59,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a wooden stick.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "丶",
@@ -90,7 +90,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a droplet of some kind of a liquid.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "丿",
@@ -121,7 +121,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a single slash to the left, probably with some kind of a blade.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "乙",
@@ -133,7 +133,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "乚",
@@ -164,7 +164,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an umbrella handle. It's bent to the right because most people are right-handed, so they hold an umbrella with their right hand.\nDo not confuse with 亅, which is bent to the left.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "亅",
@@ -195,7 +195,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a fishing hook.\nDo not confuse with 乚, which is bent to the right.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "二",
@@ -226,7 +226,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of two lines.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "亠",
@@ -257,7 +257,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a lid. You know, the thing you put on a pot?",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "人",
@@ -288,7 +288,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a headless, armless person.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "亻",
@@ -319,11 +319,11 @@
 			}
 		],
 		"mnemonic": "A variant of 人, which is a character for person. This one is thin, so it's a thin person.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𠆢",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "儿",
@@ -354,7 +354,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a pair of legs.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "入",
@@ -385,7 +385,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a person with one hand over his head pointing to the entrance on the left. Over there, enter over there!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "八",
@@ -412,7 +412,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "冂",
@@ -443,7 +443,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an upside-down box that someone flipped over.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "冖",
@@ -474,7 +474,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a roof without a chimney.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "冫",
@@ -505,7 +505,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of two icicles.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "几",
@@ -536,11 +536,11 @@
 			}
 		],
 		"mnemonic": "It's a desk with a pair of legs and a countertop.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𠘨",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "凵",
@@ -571,7 +571,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an open box.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "刀",
@@ -602,7 +602,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a handle of a katana.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "刂",
@@ -633,7 +633,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a blade of a knife.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "力",
@@ -664,7 +664,7 @@
 			}
 		],
 		"mnemonic": "You need a lot of power to be able to slash through a clothes hanger.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "勹",
@@ -695,7 +695,7 @@
 			}
 		],
 		"mnemonic": "A translucent plastic wrapper, like the ones used for candy.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "匕",
@@ -726,7 +726,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a very peculiar spoon. The top part is the handle which you hold, the horizontal stroke is the crossguard (it's a spoon made out of a bent dagger!), and the bottom part is the part which you use to scoop something out with it.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "匚",
@@ -756,11 +756,11 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "匸",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "十",
@@ -791,7 +791,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a cross, which signifies the number ten. You know, like the ten commandments?",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "卜",
@@ -822,7 +822,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a crooked divining rod, a magical tool used to find ground water, buried metals, ores, gemstones and many other objects and materials without the use of a proper scientific apparatus.\nIt's crooked since it gives slightly... fishy results. Instead of finding precious metals and water it will most likely only find you garbage.\nDo not confuse with ⺊ which is also a divining rod, however that one is straight and this one's not.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "卩",
@@ -852,7 +852,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "厂",
@@ -883,7 +883,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a cliff,",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "厶",
@@ -914,7 +914,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an arm of a bodybuilder, full of muscles and ready to arm wrestle.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "又",
@@ -945,7 +945,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a proper folding chair. Even after you've used it once you can just fold it back up, and use it once again at a later date. It's reusable!\nDo not confuse with 攵 or 夂.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "口",
@@ -976,7 +976,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an open mouth.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "囗",
@@ -1007,7 +1007,7 @@
 			}
 		],
 		"mnemonic": "Pictograph of a closed box.\nDo not confuse with 口, which is a mouth. These two look very similar, however unlike the mouth the closed box is usually used to enclose something in it.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "土",
@@ -1038,7 +1038,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a cross planted into the earth. The lower stroke is longer since it signifies the ground, or the horizon, which infinitely stretches in every direction.\nDo not confuse with 士 where the upper stroke is longer.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "士",
@@ -1069,7 +1069,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a crosshair (the 十 in the middle) attached to a gun (the ー at the bottom) through which a certain kind of a professional looks through to find his target... yes, a professional who kills people for money! An assasin! Perhaps even Leon the Professional!\nDo not confuse with 土 where the upper stroke is shorter.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "夂",
@@ -1100,7 +1100,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an almost complete folding chair. Making folding chairs is a lot of work, so it's going to take until late winter until it's finished!\nDo not confuse with 攵, which depicts an already finished folding chair, hence the second stroke is slightly longer there.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "夊",
@@ -1124,7 +1124,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "夕",
@@ -1155,7 +1155,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a warped reflection of the sun on water, in the evening, right before the sunset.\nDo not confuse with 晩 which is also \"evening\", however it is the part of the evening after the sunset.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "大",
@@ -1186,7 +1186,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a person with their hands stretched out. Why is he doing that? Who knows. He's really large, so it's not like you can do anything about him; he'll beat you up anyway.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "女",
@@ -1217,7 +1217,7 @@
 			}
 		],
 		"mnemonic": "This kanji can be decomposed into three strokes:\n\n\"く\" (\"ku\" in hiragana),\n\"ノ\" (\"no\" in katakana),\n\"一\" (\"ichi\" in kanji),\n\nwhich gives us くノ一 (\"kunoichi\") — a female ninja.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "子",
@@ -1248,7 +1248,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a child. He's wearing a bright red Mario cap, and he has his arms outstretched to give you a hug. So cute!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "宀",
@@ -1279,7 +1279,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a roof with a chimney.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "寸",
@@ -1310,7 +1310,7 @@
 			}
 		],
 		"mnemonic": "It only takes one hook clumsily cast during fishing (you know, when you're taking a swing backwards with your fishing rod) to pierce the skin of another nearby fisherman and result in a few droplets of blood and a nasty few centimeters wide gash on his skin.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "小",
@@ -1341,7 +1341,7 @@
 			}
 		],
 		"mnemonic": "We see here a pair of short legs and a fishing hook between them. Yes, that must be a pretty small fisherman if his fishing hook is longer than his legs!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "⺌",
@@ -1372,7 +1372,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of three rays of light.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "尢",
@@ -1390,7 +1390,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "尸",
@@ -1421,7 +1421,7 @@
 			}
 		],
 		"mnemonic": "Imagine a battlefield. A pile of corpses. Everyone's dead. And there is a single flag stuck into the ground among all of those corpses, fluttering in the wind, with one of the corpses still tightly holding onto the flag's pole, even after their death. Yes, a corpse with a flag.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "屮",
@@ -1452,7 +1452,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a young plant sprout, just starting its life as a plant.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "山",
@@ -1483,7 +1483,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a mountain.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "巛",
@@ -1513,7 +1513,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "川",
@@ -1544,7 +1544,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a bird's eye view of a river.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "工",
@@ -1575,7 +1575,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a steel I-beam used during construction.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "己",
@@ -1606,7 +1606,7 @@
 			}
 		],
 		"mnemonic": "The letter S stands for \"self\", and I made it personal for oneself by flipping it!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "巾",
@@ -1637,7 +1637,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a piece of fabric punctured by a stick.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "干",
@@ -1668,7 +1668,7 @@
 			}
 		],
 		"mnemonic": "Two sticks can be used to make a clothes stand where clothes can be left to dry.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "幺",
@@ -1699,7 +1699,7 @@
 			}
 		],
 		"mnemonic": "A stylized pictograph of a thread spool used for sewing.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "广",
@@ -1730,7 +1730,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a house on a cliff.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "廴",
@@ -1760,7 +1760,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "廾",
@@ -1791,7 +1791,7 @@
 			}
 		],
 		"mnemonic": "A simplified pictograph of both hands.\nA long time ago this character actually looked like a drawing of two hands.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "弋",
@@ -1822,7 +1822,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a bowstring (the vertical line) being drawn with an arrow (the horizontal line), and with a droplet of sweat, perhaps from the person who's drawing the bow. Shoot with a bow!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "弓",
@@ -1853,7 +1853,7 @@
 			}
 		],
 		"mnemonic": "A stylized pictograph of a bow.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "彐",
@@ -1884,7 +1884,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a sideways partially buried broken trident, a three-pronged spear used by the God of the Sea, Poseidon. It's leftmost prong is buried in the ground.\nNot to be confused with ヨ, which isn't partially buried.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "⺕",
@@ -1915,7 +1915,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a trident, a three-pronged spear used by the God of the Sea, Poseidon.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "彑",
@@ -1943,7 +1943,7 @@
 			}
 		],
 		"mnemonic": "A pig's head attached to a stick which is protruding from the ground.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "彡",
@@ -1974,7 +1974,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a patch of hair.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "彳",
@@ -2005,7 +2005,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a thin person who is standing still under a teeny-weeny roof. Why? It's raining outside. If he moves even a little bit he'll get wet. And he really doesn't want to get wet. So he's standing really still.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "艹",
@@ -2036,7 +2036,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of blades of grass, with the horizontal line being the ground, and the upper part of the vertical lines being the grass, and the lower part being the grass' roots.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "辶",
@@ -2066,7 +2066,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "阝",
@@ -2097,7 +2097,7 @@
 			}
 		],
 		"mnemonic": "It's the letter \"B\", short for a \"building\". A small village is not going to have too many buildings. If it's really small then perhaps in only has one building, THE building where everyone in the village gathers to socialize.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "阝",
@@ -2128,7 +2128,7 @@
 			}
 		],
 		"mnemonic": "It's the letter \"B\", short for a \"building\". A small village is not going to have too many buildings. If it's really small then perhaps in only has one building, THE building where everyone in the village gathers to socialize.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𭕄",
@@ -2159,7 +2159,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a bunch of tiny hairs.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "忄",
@@ -2190,7 +2190,7 @@
 			}
 		],
 		"mnemonic": "A variant of 心, which is a character for heart, so it's a weak heart, since it's so thin.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "扌",
@@ -2221,7 +2221,7 @@
 			}
 		],
 		"mnemonic": "A variant of 手, which is a character for hand. This one always appears on the left of every kanji in which it's in, so it's a left hand.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "氵",
@@ -2252,7 +2252,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of three water drops.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "犭",
@@ -2282,7 +2282,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "心",
@@ -2313,11 +2313,11 @@
 			}
 		],
 		"mnemonic": "A pictograph of a heart.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "㣺",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "戈",
@@ -2348,11 +2348,11 @@
 			}
 		],
 		"mnemonic": "If someone is trying to shoot you with a bow then you can slash them to the left with your dagger-axe, a type of a halberd-like weapon used in ancient China.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "戶",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "手",
@@ -2383,7 +2383,7 @@
 			}
 		],
 		"mnemonic": "A human hand is truly a magnificent body part; it's definitely useful for at least a thousand and one different things!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "支",
@@ -2414,7 +2414,7 @@
 			}
 		],
 		"mnemonic": "Once again it's the tenth (day of the month); I need to support my child with alimony.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "攴",
@@ -2435,7 +2435,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "攵",
@@ -2466,7 +2466,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a folding chair, with an extra handle on the left onto which you can hold on to. You know, in case of earthquakes, so that you don't fall off? After all it's a Japanese folding chair and they do have earthquakes there.\nDo not confuse with 夂, where the second stroke is slightly shorter.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "文",
@@ -2497,7 +2497,7 @@
 			}
 		],
 		"mnemonic": "You have homework to do. You need to write an essay — a bunch of sentences strung together into one coherent story. But you don't have anything to sit on... Your only folding chair broke, and you only have the folding chair legs... Hey, I know! Just put a lid on it and you should be able to sit down! Yeah, the handle of the lid might might be a little bit uncomfortable when you sit on it, but what else can do you?",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "斗",
@@ -2528,7 +2528,7 @@
 			}
 		],
 		"mnemonic": "Those two drops are certainly going to flow to the left because of the slope. Perhaps it leads to an 18 liter container.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "斤",
@@ -2559,7 +2559,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an axe. The top part is the handle, and the bottom part is the blade.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "方",
@@ -2590,11 +2590,11 @@
 			}
 		],
 		"mnemonic": "How did primitive humans mark the way to go? They didn't have language, so they couldn't speak, and they couldn't write. They used sticks! Ten thousand of them to be exact. Just drop a stick every few steps, and everyone will know the way to go!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "无",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "日",
@@ -2625,11 +2625,11 @@
 			}
 		],
 		"mnemonic": "A pictograph of a sun, which makes a day.\nIn the ancient times this character was once written as a circle with a dot inside, but over time it became rectangular and the dot in the middle morphed into a line.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "曰",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "月",
@@ -2660,7 +2660,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a moon, whose full cycle takes approximately a month.\nIn the ancient times this character looked more like a crescent moon, but over time it morphed into being drawn like this.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "月",
@@ -2691,7 +2691,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a moon, whose full cycle takes approximately a month.\nIn the ancient times this character looked more like a crescent moon, but over time it morphed into being drawn like this.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "木",
@@ -2722,7 +2722,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a tree, any kind of a tree.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "欠",
@@ -2753,7 +2753,7 @@
 			}
 		],
 		"mnemonic": "This person has a hook claw instead of a head. Normal people need a head, but this is a zombie, so the lack of a head doesn't bother it in the slightest.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "止",
@@ -2784,7 +2784,7 @@
 			}
 		],
 		"mnemonic": "If you encounter a giant stick stuck above the ground you'll surely have to stop or you'll crash into it.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "歹",
@@ -2815,7 +2815,7 @@
 			}
 		],
 		"mnemonic": "A bunch of bone remains which were stripped of flesh a long time ago, with one bone especially glistening in the evening sunset.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "殳",
@@ -2846,7 +2846,7 @@
 			}
 		],
 		"mnemonic": "I once again took the desk, raised it over my head and used it as a weapon!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "毋",
@@ -2864,7 +2864,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "比",
@@ -2895,7 +2895,7 @@
 			}
 		],
 		"mnemonic": "You look at the two spoons to compare them. The left one is a bit different but they are generally of the same type.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "毛",
@@ -2922,7 +2922,7 @@
 				"kanji": "毟"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "氏",
@@ -2953,7 +2953,7 @@
 			}
 		],
 		"mnemonic": "A highly stylized letter \"F\", short for family name, with an extra vertical stroke representing the concept of family name continuity. As Tywin Lannister said, it's the family name that lives on, it's all that lives on, even when we're all dead and rotting in the ground.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "气",
@@ -2984,7 +2984,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a river flowing to the right and suddenly turning into a waterfall, which always gives rise to a lot of vapor. (Which is why the bottom stroke is slighty curved — that's the vapor rising into the air.)",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "水",
@@ -3015,7 +3015,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a bird's eye view of water in a river and two of its banks on each side.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "火",
@@ -3046,7 +3046,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a person on fire.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "灬",
@@ -3077,7 +3077,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of fire sparks.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "爪",
@@ -3101,7 +3101,7 @@
 				"kanji": "抓"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "爫",
@@ -3132,7 +3132,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a claw.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "爫",
@@ -3163,7 +3163,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a claw.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "父",
@@ -3194,7 +3194,7 @@
 			}
 		],
 		"mnemonic": "Traditionally when it's time to punish a child it's usually the father who doles out the punishment. And how to better punish a child than to have him sit his short legs on bare folding chair legs? Folding chairs usually have a piece of cloth on the top on which you can sit, but if you remove that and only leave the metal legs... ouch!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "爻",
@@ -3224,7 +3224,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "爿",
@@ -3248,7 +3248,7 @@
 				"kanji": "牆"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "片",
@@ -3279,7 +3279,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a chair under a table with a single lit candle on it. It's only one of a pair. There's also a second char that isn't pictured here, and on which your date is going to sit during your candlelit dinner date.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "牛",
@@ -3310,7 +3310,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a cow grazing. The 𠂉 is a cow's head in the background, and the 十 signifies a fence through which you're looking at that cow.\nDo not confuse with 午, whose fourth stroke is slightly shorter.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "犬",
@@ -3341,7 +3341,7 @@
 			}
 		],
 		"mnemonic": "Hm... what's that large drop over there in the distance... it's a plane... it's a bird... no, it's a dog!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "礻",
@@ -3372,11 +3372,11 @@
 			}
 		],
 		"mnemonic": "A pictograph of a Shinto altar.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "㓁",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "耂",
@@ -3407,7 +3407,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of what looks like a really old grave. Many years ago some asshole has slashed the gravestone with his machete which made it crumble, and now the grave is so old that all of the stone that it was made of was whittled down by the elements and only a pile of earth remains.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "玄",
@@ -3438,7 +3438,7 @@
 			}
 		],
 		"mnemonic": "A dark and mysterious figure as seen from the back, with a lid on his head and a threaded cloak that hides most of his body.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "玉",
@@ -3469,7 +3469,7 @@
 			}
 		],
 		"mnemonic": "A king likes to play with his balls, especially with that one tiny droplet in his pants.... What?! He's a king! He can do whatever he wants!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "瓦",
@@ -3499,7 +3499,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "甘",
@@ -3529,7 +3529,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "生",
@@ -3560,7 +3560,7 @@
 			}
 		],
 		"mnemonic": "That decapitated cow head you have over there will eventually return to the earth, be slowly absorbed, and will be transformed into nutrients that will nurture new life. Ah, the cycle of life.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "用",
@@ -3588,7 +3588,7 @@
 			}
 		],
 		"mnemonic": "It looks like a trap used used for catching mice. You have an upside-down box propped on a stick, and some tasty cheese hiden inside to lure any nearby rodent.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "田",
@@ -3619,7 +3619,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a rice field, seen from the top.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "疋",
@@ -3650,11 +3650,11 @@
 			}
 		],
 		"mnemonic": "If you only see a Mario cap lying on top of a pair of running shoes then perhaps something has turned Mario into a prehistoric small animal, and he's still in there under the cap?\nDo not confuse with 匹, which is the modern counter for small animals.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𤴔",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "疒",
@@ -3685,7 +3685,7 @@
 			}
 		],
 		"mnemonic": "Everyone living in the house on the cliff has died of sickness, so now it's abandoned with only a bunch of icicles growing on its walls.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "癶",
@@ -3715,7 +3715,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "白",
@@ -3746,7 +3746,7 @@
 			}
 		],
 		"mnemonic": "We are very fortunate that the Sun is approximately 150 million kilometres apart from us. If you'd take only a single drop of the Sun, and put it here on Earth, it'd be so bright you'd see nothing but white.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "皮",
@@ -3777,7 +3777,7 @@
 			}
 		],
 		"mnemonic": "The skin is an organ which supports an animal. As long as the skin is intact the animal will live, but once it's slashed the animal won't be able to survive anymore.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "皿",
@@ -3808,7 +3808,7 @@
 			}
 		],
 		"mnemonic": "A sideways pictograph of one of those racks that is used for dishwashing, signifying a dish you'd use to eat your dinner on. This one can hold three dish plates.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "目",
@@ -3839,7 +3839,7 @@
 			}
 		],
 		"mnemonic": "A stylized pictograph of an eye. The two lines in the middle is the iris.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "矛",
@@ -3867,7 +3867,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a halberd, with the halberd blade on the top, a guard in the middle, a handle on the bottom, and a decorative piece of fabric on the left.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "矢",
@@ -3898,7 +3898,7 @@
 			}
 		],
 		"mnemonic": "You see that large decapitated cow head over there? Come on! Shoot it with your arrow! Target practice!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "石",
@@ -3929,7 +3929,7 @@
 			}
 		],
 		"mnemonic": "A stone landed to the left of his mouth and slashed his face with a sharp edge leaving one very nasty gash...",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "示",
@@ -3960,11 +3960,11 @@
 			}
 		],
 		"mnemonic": "It only takes one person with short legs to demonstrate that the street sign is too low. If even he hits his head on it constantly then surely it must be raised.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "禸",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "禾",
@@ -3995,7 +3995,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a single grain plant, probably rice, or wheat.\nDo not confuse it with 未.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "穴",
@@ -4026,7 +4026,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a volcano-like hole in the ground that was covered with a roof with a chimney.\nImagine a huge hole similar to the Darvaza gas crater. Let's say you'd like to cover it up, you know, so that no one accidentally falls in there and dies. So how'd you do it? Simple — just build a roof over it! And add a chimney so that the burning gasses can escape.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "立",
@@ -4057,7 +4057,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a lid which is standing up placed on a pair of horns protruding from the ground. Wait, what?",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "氺",
@@ -4088,7 +4088,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a hook being suddenly thrown into the water, which results in a water splash.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "罒",
@@ -4119,11 +4119,11 @@
 			}
 		],
 		"mnemonic": "A pictograph of a small net.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𦉰",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "衤",
@@ -4154,7 +4154,7 @@
 			}
 		],
 		"mnemonic": "See that extra stroke on the altar? Those are some altar clothes that somebody left there.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "旡",
@@ -4175,7 +4175,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "竹",
@@ -4206,11 +4206,11 @@
 			}
 		],
 		"mnemonic": "A pictograph of two bamboo trees.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𥫗",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "米",
@@ -4241,7 +4241,7 @@
 			}
 		],
 		"mnemonic": "A pair of horns growing out of a tree.... wait, those are not horns, those are grains of rice!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "糸",
@@ -4272,7 +4272,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a thread spool at the top with a small needle stuck into it on the bottom. That's a lot of thread!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "缶",
@@ -4302,7 +4302,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "网",
@@ -4323,7 +4323,7 @@
 				"kanji": "䍞"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "羊",
@@ -4354,7 +4354,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a ram — a male sheep — behind a fence. Since the fence is in the way you can only see its horns.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𦍌",
@@ -4385,7 +4385,7 @@
 			}
 		],
 		"mnemonic": "The raw force of nature is unstoppable, and inevitable. Do you see those antlers on a wall hanging over there? Eventually the wall they're using for support will rot and collapse, and then the antlers themselves with crumble, turning into dust and becoming the earth from which they came from. Nothing can stop nature.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "羽",
@@ -4416,7 +4416,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of two feathers.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "羽",
@@ -4447,7 +4447,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of two feathers.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "老",
@@ -4471,7 +4471,7 @@
 				"kanji": "蛯"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "而",
@@ -4495,7 +4495,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "耒",
@@ -4525,7 +4525,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "耳",
@@ -4556,7 +4556,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a rectangular ear.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "聿",
@@ -4586,7 +4586,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "肉",
@@ -4605,7 +4605,7 @@
 			}
 		],
 		"mnemonic": "There is meat inside of every person.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "臣",
@@ -4635,7 +4635,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "自",
@@ -4666,7 +4666,7 @@
 			}
 		],
 		"mnemonic": "When your eye burns and itches it's time to self-medicate and put a drop of eyedrops in you eye.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "至",
@@ -4697,7 +4697,7 @@
 			}
 		],
 		"mnemonic": "There can be only one elite bodybuilder on this earth. He's at the apex of his form, and he's the best - his name is Arnold Schwarzenegger! Imagine him flexing all of his muscles standing on a pile of earth.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "臼",
@@ -4727,7 +4727,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "舌",
@@ -4758,7 +4758,7 @@
 			}
 		],
 		"mnemonic": "If you'd pick a thousand people at random, and looked into their mouth you will find that each one of them has a tongue inside.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "舛",
@@ -4789,7 +4789,7 @@
 			}
 		],
 		"mnemonic": "I spent almost a year dancing around in the evening before sunset before I got my dancing legs and really learned how to dance.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "舟",
@@ -4819,7 +4819,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "艮",
@@ -4850,7 +4850,7 @@
 			}
 		],
 		"mnemonic": "When the sun shines on your bare long legs it's almost good for you. You're getting that beneficial vitamin D which is produced by the body in response to skin being exposed to sunlight, but you're also receiving UV light which causes cancer. So remember to apply that sunscreen!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "色",
@@ -4875,11 +4875,11 @@
 			}
 		],
 		"mnemonic": "You want to color your hook? Just dip it into that that liquid over there which looks like a swirly pattern. That's paint. Lots of paints mixed together. That's why it's swirly.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "艸",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "虍",
@@ -4909,7 +4909,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "虫",
@@ -4940,7 +4940,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of an arm of a bodybuilder being bitten by an insect.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "血",
@@ -4971,7 +4971,7 @@
 			}
 		],
 		"mnemonic": "It's easy to slash one of your fingers on a chipped dish. Ouch! There's blood coming out of my finger!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "行",
@@ -4990,7 +4990,7 @@
 			}
 		],
 		"mnemonic": "Every journey starts the same: first you take a single small step and stop standing still, and then you go!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "衣",
@@ -5020,7 +5020,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "襾",
@@ -5050,7 +5050,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "覀",
@@ -5081,7 +5081,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a helicopter.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "瓜",
@@ -5111,7 +5111,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "見",
@@ -5142,7 +5142,7 @@
 			}
 		],
 		"mnemonic": "A walking eye with legs attached; surely its main purpose is to see.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "角",
@@ -5170,7 +5170,7 @@
 			}
 		],
 		"mnemonic": "A hook claw is used for grabbing things, even things which are laying at an angle. (Imagine grabbing a teddy bear laying on its side in a claw crane.)\n(The 丨 in 用 is missing here since it's not necessary to support whatever's being grabbed anymore.)",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "言",
@@ -5201,7 +5201,7 @@
 			}
 		],
 		"mnemonic": "A cryptic pictograph of a face trying to say something.\nWe have a mouth at the bottom, then we have two short lines signifying a nose (this person has a really long nose, hence two lines), then one long line for the eyes (this person has an eye visor just like RoboCop), and then the final line at the top to represent the forehead.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "谷",
@@ -5232,7 +5232,7 @@
 			}
 		],
 		"mnemonic": "Pictograph of a small house in a valley. The outline of the surrounding mountains can be seen above.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "豆",
@@ -5262,7 +5262,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "豕",
@@ -5293,7 +5293,7 @@
 			}
 		],
 		"mnemonic": "One must not beat a wild pig with a divining rod. Not only you'll probably break your divining rod, but you'll piss of the pig and it'll eat all of your crops in revenge.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "豸",
@@ -5323,7 +5323,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "貝",
@@ -5354,7 +5354,7 @@
 			}
 		],
 		"mnemonic": "A shellfish with one really big eye and a pair of short legs.\nDo not confuse with 見, where the legs are longer.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "赤",
@@ -5382,7 +5382,7 @@
 			}
 		],
 		"mnemonic": "A bloody knife stained the earth red with all of the blood dripping from it.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "走",
@@ -5413,7 +5413,7 @@
 			}
 		],
 		"mnemonic": "Running barefoot is a dangerous business. You can get splinters in your foot from stepping on the rocks and bare earth. So be sure to wear your running shoes before you go for a run!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "足",
@@ -5444,7 +5444,7 @@
 			}
 		],
 		"mnemonic": "Gross! Do not put your mouth in your running shoes! That's where your foot goes, right?!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "𧾷",
@@ -5474,7 +5474,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "身",
@@ -5505,7 +5505,7 @@
 			}
 		],
 		"mnemonic": "One's body is where you can nurture a self-made talent.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "車",
@@ -5536,7 +5536,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a vehicle, show from a bird's-eye view. You have the front wheels at the top, the back wheels at the bottom, and the middle is where you put stuff in, be it people or goods.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "辛",
@@ -5567,7 +5567,7 @@
 			}
 		],
 		"mnemonic": "The food was so spicy that I had to stand up ten times and go take a sip of water before I finished it all.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "辰",
@@ -5598,11 +5598,11 @@
 			}
 		],
 		"mnemonic": "There are only two pairs of long legs left under the cliff, with the upper torso completely missing, burned away by something... It's a definite sign of a dragon. A very pissed fire-breathing one at that. Those poor adventurers never stood a chance...\n(Imagine the dragon completely vaporizing the adventurers' torsos with his breath leaving only the legs, and then flying away in search of another prey.)",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "辵",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "邑",
@@ -5626,7 +5626,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "酉",
@@ -5656,7 +5656,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "釆",
@@ -5687,7 +5687,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of rice that was slashed from the top with a sickle.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "里",
@@ -5718,7 +5718,7 @@
 			}
 		],
 		"mnemonic": "My home village is famous for its turtle outer shell soup, we eat two every day!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "臣",
@@ -5748,7 +5748,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "麦",
@@ -5772,7 +5772,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "金",
@@ -5803,7 +5803,7 @@
 			}
 		],
 		"mnemonic": "Money and gold is known to make people corrupt. Even if it's not obvious, even if someone doesn't have a pair of horns growing out of their head and instead they're hiding those horns in their pants, you can still tell their whole existence is corrupt.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "長",
@@ -5831,7 +5831,7 @@
 			}
 		],
 		"mnemonic": "A hair comb with really long legs (also called \"teeth\" — you know, the part which you actually use to brush your hair with?) is a fashion accessory that's not going to be seen often. It may be long, but it certainly isn't practical!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "門",
@@ -5862,7 +5862,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a gate. This kanji looks just like those wild west saloon doors, doesn't it? A gate into the saloon!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "阜",
@@ -5874,11 +5874,11 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "隶",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "隹",
@@ -5909,7 +5909,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a very proud, old bird.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "雨",
@@ -5940,7 +5940,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a window through which you can see the rain.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "雨",
@@ -5971,11 +5971,11 @@
 			}
 		],
 		"mnemonic": "A pictograph of a window through which you can see the rain.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "靑",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "青",
@@ -6006,7 +6006,7 @@
 			}
 		],
 		"mnemonic": "If a king with a hat would live on the moon, he would certainly appear blue due to all of the blue light reflected off Earth.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "非",
@@ -6037,7 +6037,7 @@
 			}
 		],
 		"mnemonic": "Pictograph of an ugly centipede, such a creation definitely goes against the will of God and was created by the devil himself. Even its lower left leg is crooked!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "飠",
@@ -6067,7 +6067,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "斉",
@@ -6086,7 +6086,7 @@
 			}
 		],
 		"mnemonic": "You can't simultaneously look down writing sentences in your notebook and look up at the moon at the same time. Well, maybe you can if you'd hold your notebook up with one hand covering part of the moon with it and write with your other hand.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "面",
@@ -6117,7 +6117,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a screen showing a ladder hanging from the ceiling on a piece of string or a rope. It's the surface of a projector screen. Someone's showing a PowerPoint presetation on it about ladders.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "革",
@@ -6147,7 +6147,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "韭",
@@ -6177,7 +6177,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "音",
@@ -6208,7 +6208,7 @@
 			}
 		],
 		"mnemonic": "Imagine physically standing on the surface a sun. I'd be so hot that the only sound you'd be making is a horrific scream. \"Aaaaaaaaaaaaah! IT BURNS!\"",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "頁",
@@ -6239,7 +6239,7 @@
 			}
 		],
 		"mnemonic": "If you'd take one shellfish how much text do you think you'd be able to scribble on its shell? If you'd use a really tiny font probably one page worth of text?",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "風",
@@ -6270,7 +6270,7 @@
 			}
 		],
 		"mnemonic": "When there's an insect under your desk you need to quickly slash it with your fly swatter! Oh wait, that wasn't an insect that touched your leg; it was just the wind...",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "飛",
@@ -6282,7 +6282,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "食",
@@ -6313,7 +6313,7 @@
 			}
 		],
 		"mnemonic": "A good person will eat everything that their momma puts on their plate.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "首",
@@ -6334,7 +6334,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "香",
@@ -6349,7 +6349,7 @@
 				"kanji": "馥"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "馬",
@@ -6379,7 +6379,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "骨",
@@ -6409,7 +6409,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "高",
@@ -6440,7 +6440,7 @@
 			}
 		],
 		"mnemonic": "That is a really high two-story building. We have the mouth on the bottom being the entrance, the upside-down-box being the first floor, another mouth being the second floor widow, and a lid at the top being its roof.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "髟",
@@ -6468,7 +6468,7 @@
 			}
 		],
 		"mnemonic": "A bodybuilder is holding a hair comb and is using it on his last remaining patch of hair to comb it. If he keeps on using all of those steroids it won't be long before he goes completely bald and won't be able to do it anymore...",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鬥",
@@ -6495,11 +6495,11 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鬯",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鬲",
@@ -6529,7 +6529,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鬼",
@@ -6560,7 +6560,7 @@
 			}
 		],
 		"mnemonic": "The oni are demonic, fearsome creatures of legend. Even though this one's face was badly slashed on its left side it is powerul enough to plow through a whole rice field and eat all of the farmers working on it, running on its strong legs, and having a whole arm of a bodybuilder inside of its belly that it consumed a while ago.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "韋",
@@ -6590,7 +6590,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "魚",
@@ -6621,7 +6621,7 @@
 			}
 		],
 		"mnemonic": "You know how dead fish always rise to the surface? Let's set the rice field on fire and then use our hook to grab all of the fish! What do you mean there are no fish swimming in the rice fields? But it's full of water!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鳥",
@@ -6651,7 +6651,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鹵",
@@ -6675,7 +6675,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鹿",
@@ -6706,7 +6706,7 @@
 			}
 		],
 		"mnemonic": "Under a house on a cliff I used a small net to catch two deer and then compare them, for science!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "麥",
@@ -6736,7 +6736,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "麻",
@@ -6767,7 +6767,7 @@
 			}
 		],
 		"mnemonic": "A pictograph of a house on a cliff overlooking a bunch of trees. Wait... those are not trees... that's hemp! The bastard who lives in that house is planting cannabis!\n(In case you didn't know the word \"trees\" is actually a slang term for cannabis.)",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黄",
@@ -6779,7 +6779,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黒",
@@ -6798,15 +6798,15 @@
 			}
 		],
 		"mnemonic": "The bandits set a fire under my home village burning it to the ground, leaving behind nothing but black smoke and ashes.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "亀",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黃",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黍",
@@ -6818,7 +6818,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黑",
@@ -6842,7 +6842,7 @@
 				"kanji": "黯"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黹",
@@ -6863,7 +6863,7 @@
 				"kanji": "𪓐"
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "歯",
@@ -6881,7 +6881,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "黽",
@@ -6908,11 +6908,11 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鼎",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鼓",
@@ -6930,7 +6930,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鼠",
@@ -6961,7 +6961,7 @@
 			}
 		],
 		"mnemonic": "A highly stylized pictograph of a mouse.\nThe top part is the head, in the bottom left corner we can see two of its legs, with four patches of fur, and on the right is its tail.",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "鼻",
@@ -6991,7 +6991,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "齊",
@@ -7018,7 +7018,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "齒",
@@ -7048,7 +7048,7 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "龍",
@@ -7079,7 +7079,7 @@
 			}
 		],
 		"mnemonic": "On the right side we can see a pictograph of an ancient dragon who is standing up. He's so huge his head is higher in the sky than the moon!",
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "龜",
@@ -7091,10 +7091,10 @@
 				]
 			}
 		],
-		"fromJpdb": true
+		"externalInfo": true
 	},
 	{
 		"radical": "龠",
-		"fromJpdb": true
+		"externalInfo": true
 	}
 ]

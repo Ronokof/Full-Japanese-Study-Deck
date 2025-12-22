@@ -30,7 +30,7 @@ dotenv.config();
 
 convertDicts()
   .then(async () => {
-    getEntries();
+    if (!process.argv.slice(2).includes("--only-convert-dicts")) getEntries();
 
     if (process.argv.slice(2).includes("--with-audio")) {
       if (

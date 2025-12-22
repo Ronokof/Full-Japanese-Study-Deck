@@ -111,6 +111,41 @@ summary {
     display: inline;
 }
 
+.mnba {
+    opacity: 50%;
+}
+
+.word-definition {
+    font-size: 1.3em;
+    background-color: #f3f4f6;
+    color: #1f2937;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 1.4;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.word-definition .word-definition-furigana {
+    display: none;
+    transition: display 0.2s ease-in-out;
+}
+
+.word-definition .word-definition-original {
+    display: inline;
+    transition: display 0.2s ease-in-out;
+}
+
+.word-definition:hover .word-definition-original {
+    display: none;
+}
+
+.word-definition:hover .word-definition-furigana {
+    display: inline;
+}
+
 .entry {
     margin-bottom: 15px;
     padding: 10px;

@@ -1,6 +1,13 @@
 import path from "path";
 
 import { NoteTypes, SubDeckNames } from "./utils";
+import {
+  Definition,
+  DictKanji,
+  DictWord,
+  TanakaExample,
+  WordDefinitionPair,
+} from "henkan";
 
 export const deckName: string =
   "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]";
@@ -71,13 +78,43 @@ export const dictsNames: {
   tanaka: string;
   radk: string;
   krad: string;
+  wordDefs: string;
 } = {
   jmdict: "JMdict_e",
   kanjidic: "kanjidic2",
   tanaka: "tanaka_examples",
   radk: "radkfile2",
   krad: "kradfile2",
+  wordDefs: "word_definitions",
 };
+
+export const dicts: {
+  jmDict?:
+    | {
+        array: readonly DictWord[];
+        kanjiWordsMap: Map<string, readonly DictWord[]>;
+      }
+    | undefined;
+  kanjiDic?:
+    | {
+        array: readonly DictKanji[];
+        charKanjiMap: Map<string, readonly DictKanji[]>;
+      }
+    | undefined;
+  tanakaCorpus?:
+    | {
+        array: readonly TanakaExample[];
+        wordExamplesMap: Map<string, readonly TanakaExample[]>;
+      }
+    | undefined;
+  wordDefs?:
+    | {
+        array: readonly WordDefinitionPair[];
+        wordDefinitionsMap: Map<string, readonly Definition[]>;
+      }
+    | undefined;
+  svg_list?: { array: readonly string[] } | undefined;
+} = {};
 
 export const fileNames: {
   kana: string[];

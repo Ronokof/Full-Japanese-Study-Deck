@@ -1,4 +1,5 @@
 import {
+  createReadStream,
   existsSync,
   mkdirSync,
   readdirSync,
@@ -9,40 +10,38 @@ import path from "path";
 import { writeFile } from "fs/promises";
 import { randomUUID, UUID } from "crypto";
 import {
+  convertJawiktionaryAsync,
   convertJMdict,
   convertKanjiDic,
-  convertKradFile,
-  convertRadkFile,
-  convertTanakaCorpus,
-  Dict,
+  convertTanakaCorpusWithFurigana,
+  Definition,
   DictKanji,
   DictKanjiForm,
-  DictKanjiReadingMeaning,
-  DictKanjiReadingMeaningGroup,
-  DictKanjiWithRadicals,
-  DictRadical,
+  DictReading,
   DictWord,
   generateAnkiNotesFile,
   getKanji,
   getKanjiExtended,
   getWord,
+  getWordDefinitionsWithFurigana,
   Grammar,
-  isValidArray,
+  JaWiktionaryEntry,
   Kana,
   Kanji,
   KanjiForm,
+  notSearchedForms,
   Radical,
   Reading,
   regexps,
   Result,
-  shuffleArray,
-  synthesizeSpeech,
   TanakaExample,
   Word,
+  WordDefinitionPair,
 } from "henkan";
 
 import {
   deckName,
+  dicts,
   dictsDir,
   dictsNames,
   fileNames,
@@ -53,9 +52,12 @@ import {
   subDeckNames,
   svgDir,
 } from "./constants";
-import { PollyClient } from "@aws-sdk/client-polly";
-
-export type DictName = "JMDict" | "Kanjidic" | "tanaka" | "radk" | "krad";
+import {
+  PollyClient,
+  SynthesizeSpeechCommand,
+  SynthesizeSpeechCommandInput,
+  SynthesizeSpeechCommandOutput,
+} from "@aws-sdk/client-polly";
 
 export interface SubDeckNames {
   kana: {
@@ -122,21 +124,22 @@ export async function convertDicts(): Promise<void> {
 
         console.log("\nConverting dictionary files\n");
 
-        let tanakaArray: TanakaExample[] | undefined = undefined;
+        let tanakaArray: readonly TanakaExample[] | undefined = undefined;
 
         {
           const tanakaPath: string = `${dictsDir}/examples.utf`;
-          const outputPath: string = `${dictsDir}/json/tanaka_examples.json`;
+          const outputPath: string = `${dictsDir}/json/${dictsNames.tanaka}.json`;
 
           if (existsSync(outputPath)) {
             console.log("Already converted examples.utf");
-            tanakaArray = getDict("tanaka") as TanakaExample[];
+            tanakaArray = JSON.parse(
+              readFileSync(outputPath, "utf-8"),
+            ) as readonly TanakaExample[];
           } else if (existsSync(tanakaPath)) {
             console.log("Converting examples.utf");
 
-            tanakaArray = await convertTanakaCorpus(
+            tanakaArray = await convertTanakaCorpusWithFurigana(
               readFileSync(tanakaPath, "utf-8"),
-              true,
             );
 
             if (tanakaArray.length > 0)
@@ -148,18 +151,26 @@ export async function convertDicts(): Promise<void> {
           }
         }
 
-        {
-          const outputPath: string = `${dictsDir}/json/JMdict_e.json`;
+        let jmDict: readonly DictWord[] | undefined = undefined;
 
-          if (existsSync(outputPath)) console.log("Already converted JMdict_e");
-          else {
+        {
+          let jmdictPath: string = `${dictsDir}/JMdict_e`;
+          const outputPath: string = `${dictsDir}/json/${dictsNames.jmdict}.json`;
+
+          if (existsSync(outputPath)) {
+            console.log("Already converted JMdict_e");
+            jmDict = JSON.parse(
+              readFileSync(outputPath, "utf-8"),
+            ) as readonly DictWord[];
+          } else {
             console.log("Converting JMdict_e");
 
-            let dictPath: string = `${dictsDir}/JMdict_e`;
-            if (!existsSync(dictPath)) dictPath += ".xml";
+            if (!existsSync(jmdictPath)) jmdictPath += ".xml";
 
-            const dictFile: string = readFileSync(dictPath, "utf-8");
-            const jmDict: DictWord[] = convertJMdict(dictFile, tanakaArray);
+            jmDict = convertJMdict(
+              readFileSync(jmdictPath, "utf-8"),
+              tanakaArray,
+            );
 
             if (jmDict.length > 0)
               writeFileSync(
@@ -170,19 +181,21 @@ export async function convertDicts(): Promise<void> {
           }
         }
 
-        {
-          const outputPath: string = `${dictsDir}/json/kanjidic2.json`;
+        let kanjiDic: readonly DictKanji[] | undefined = undefined;
 
-          if (existsSync(outputPath))
+        {
+          const kanjiDicPath: string = `${dictsDir}/kanjidic2.xml`;
+          const outputPath: string = `${dictsDir}/json/${dictsNames.kanjidic}.json`;
+
+          if (existsSync(outputPath)) {
             console.log("Already converted kanjidic2");
-          else {
+            kanjiDic = JSON.parse(
+              readFileSync(outputPath, "utf-8"),
+            ) as readonly DictKanji[];
+          } else {
             console.log("Converting kanjidic2");
 
-            const dictFile: string = readFileSync(
-              `${dictsDir}/kanjidic2.xml`,
-              "utf-8",
-            );
-            const kanjiDic: DictKanji[] = convertKanjiDic(dictFile);
+            kanjiDic = convertKanjiDic(readFileSync(kanjiDicPath, "utf-8"));
 
             if (kanjiDic.length > 0)
               writeFileSync(
@@ -193,61 +206,258 @@ export async function convertDicts(): Promise<void> {
           }
         }
 
-        const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
+        let wordDefs: readonly WordDefinitionPair[] | undefined = undefined;
 
         {
-          const radkfile2Path: string = `${dictsDir}/radkfile2`;
-          const outputPath: string = `${dictsDir}/json/radkfile2.json`;
+          const jaWiktionaryPath: string = `${dictsDir}/raw-wiktextract-data.jsonl`;
+          const outputPath: string = `${dictsDir}/json/${dictsNames.wordDefs}.json`;
 
-          if (existsSync(outputPath))
-            console.log("Already converted radkfile2");
-          else if (existsSync(radkfile2Path)) {
-            console.log("Converting radkfile2");
+          if (existsSync(outputPath)) {
+            console.log("Already converted jawiktionary");
+            wordDefs = JSON.parse(
+              readFileSync(outputPath, "utf-8"),
+            ) as readonly WordDefinitionPair[];
+          } else if (existsSync(jaWiktionaryPath)) {
+            console.log("Converting jawiktionary");
 
-            const radicals: DictRadical[] = convertRadkFile(
-              readFileSync(radkfile2Path),
-              kanjiDic,
+            const entries: JaWiktionaryEntry[] = await convertJawiktionaryAsync(
+              createReadStream(jaWiktionaryPath, "utf-8"),
             );
 
-            if (radicals.length > 0)
-              writeFileSync(
-                outputPath,
-                JSON.stringify(radicals, undefined, "\t"),
-                "utf-8",
-              );
+            if (entries.length > 0) {
+              wordDefs = await getWordDefinitionsWithFurigana(entries, jmDict);
+
+              if (wordDefs.length > 0)
+                writeFileSync(
+                  outputPath,
+                  JSON.stringify(wordDefs, undefined, "\t"),
+                  "utf-8",
+                );
+            }
+
+            entries.length = 0;
           }
         }
 
+        if (process.argv.slice(2).includes("--only-convert-dicts")) return;
+
+        const kanjiMap: Map<string, DictKanji> = new Map<string, DictKanji>();
+
+        for (const kanji of kanjiDic) kanjiMap.set(kanji.kanji, kanji);
+
         {
-          const katakana: Kana[] = [];
-          loadEntries(resultPaths.kana, "katakana", katakana);
+          const kanjiWordsMap: Map<string, DictWord[]> = new Map<
+            string,
+            DictWord[]
+          >();
 
-          const kradfile2Path: string = `${dictsDir}/kradfile2`;
-          const outputPath: string = `${dictsDir}/json/kradfile2.json`;
-
-          if (existsSync(outputPath))
-            console.log("Already converted kradfile2");
-          else if (existsSync(kradfile2Path)) {
-            console.log("Converting kradfile2");
-
-            const kanjiWithRadicals: DictKanjiWithRadicals[] = convertKradFile(
-              readFileSync(kradfile2Path),
-              kanjiDic,
-              katakana,
-            );
-
-            if (kanjiWithRadicals.length > 0)
-              writeFileSync(
-                outputPath,
-                JSON.stringify(kanjiWithRadicals, undefined, "\t"),
-                "utf-8",
-              );
+          for (const word of jmDict) {
+            if (word.kanjiForms)
+              for (const kf of word.kanjiForms)
+                for (const char of kf.form.split(""))
+                  if (kanjiMap.has(char))
+                    if (!kanjiWordsMap.has(char))
+                      kanjiWordsMap.set(char, [word]);
+                    else kanjiWordsMap.get(char)!.push(word);
           }
 
-          katakana.length = 0;
+          dicts.jmDict = { array: jmDict, kanjiWordsMap: kanjiWordsMap };
         }
 
-        kanjiDic.length = 0;
+        {
+          const charKanjiMap: Map<string, DictKanji[]> = new Map<
+            string,
+            DictKanji[]
+          >();
+
+          const wordsWithKanjiForms: Set<string> = new Set<string>();
+
+          for (const word of jmDict) {
+            if (word.kanjiForms) {
+              for (const kf of word.kanjiForms)
+                for (const char of kf.form
+                  .split("")
+                  .filter((c: string) => regexps.kanji.test(c))) {
+                  const kanjiObj: DictKanji | undefined = kanjiMap.get(char);
+
+                  wordsWithKanjiForms.add(word.id);
+
+                  if (!charKanjiMap.has(char))
+                    charKanjiMap.set(char, kanjiObj ? [kanjiObj] : []);
+                  else if (kanjiObj) charKanjiMap.get(char)!.push(kanjiObj);
+                }
+            }
+          }
+
+          const wordExamplesMap: Map<string, TanakaExample[]> = new Map<
+            string,
+            TanakaExample[]
+          >();
+
+          if (tanakaArray) {
+            const entryParts: Set<string> = new Set<string>();
+            const wordPartsMap: Map<string, Set<string>> = new Map<
+              string,
+              Set<string>
+            >();
+
+            for (const word of jmDict) {
+              let localPartParts: Set<string> = new Set<string>();
+
+              for (const reading of word.readings.filter(
+                (reading: DictReading) =>
+                  (reading.notes === undefined ||
+                    !reading.notes.some((note: string) =>
+                      notSearchedForms.has(note),
+                    )) &&
+                  (word.isCommon === undefined ||
+                    reading.commonness !== undefined),
+              )) {
+                entryParts.add(reading.reading);
+                localPartParts.add(reading.reading);
+              }
+
+              if (word.kanjiForms !== undefined) {
+                const existValidKf: boolean = word.kanjiForms.some(
+                  (kf: DictKanjiForm) =>
+                    (kf.notes === undefined ||
+                      !kf.notes.some((note: string) =>
+                        notSearchedForms.has(note),
+                      )) &&
+                    (word.isCommon === undefined ||
+                      kf.commonness !== undefined),
+                );
+
+                for (const kanjiForm of word.kanjiForms.filter(
+                  (kanjiForm: DictKanjiForm) => {
+                    if (existValidKf === true)
+                      return (
+                        (kanjiForm.notes === undefined ||
+                          !kanjiForm.notes.some((note: string) =>
+                            notSearchedForms.has(note),
+                          )) &&
+                        (word.isCommon === undefined ||
+                          kanjiForm.commonness !== undefined)
+                      );
+                    else return true;
+                  },
+                )) {
+                  entryParts.add(kanjiForm.form);
+                  localPartParts.add(kanjiForm.form);
+                }
+              }
+
+              entryParts.add(word.id);
+              localPartParts.add(word.id);
+
+              wordPartsMap.set(word.id, localPartParts);
+            }
+
+            const partExamplesMap: Map<string, TanakaExample[]> = new Map<
+              string,
+              TanakaExample[]
+            >();
+
+            for (const ex of tanakaArray) {
+              for (const part of ex.parts) {
+                if (entryParts.has(part.baseForm)) {
+                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
+                    part.baseForm,
+                  );
+                  if (!exList) {
+                    exList = [];
+                    partExamplesMap.set(part.baseForm, exList);
+                  }
+
+                  exList.push(ex);
+                }
+                if (part.reading && entryParts.has(part.reading)) {
+                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
+                    part.reading,
+                  );
+                  if (!exList) {
+                    exList = [];
+                    partExamplesMap.set(part.reading, exList);
+                  }
+
+                  exList.push(ex);
+                }
+                if (part.inflectedForm && entryParts.has(part.inflectedForm)) {
+                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
+                    part.inflectedForm,
+                  );
+                  if (!exList) {
+                    exList = [];
+                    partExamplesMap.set(part.inflectedForm, exList);
+                  }
+
+                  exList.push(ex);
+                }
+
+                if (part.referenceID && entryParts.has(part.referenceID)) {
+                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
+                    part.referenceID,
+                  );
+                  if (!exList) {
+                    exList = [];
+                    partExamplesMap.set(part.referenceID, exList);
+                  }
+
+                  exList.push(ex);
+                }
+              }
+            }
+
+            for (const word of jmDict) {
+              const entryParts: Set<string> | undefined = wordPartsMap.get(
+                word.id,
+              );
+              if (!entryParts) continue;
+
+              const seenEx: Set<string> = new Set<string>();
+              const validExamples: TanakaExample[] = [];
+
+              for (const p of entryParts) {
+                const examplesForPart: TanakaExample[] | undefined =
+                  partExamplesMap.get(p);
+                if (!examplesForPart) continue;
+
+                for (const ex of examplesForPart)
+                  if (!seenEx.has(ex.id)) {
+                    seenEx.add(ex.id);
+                    validExamples.push(ex);
+                  }
+              }
+
+              if (validExamples.length > 0)
+                wordExamplesMap.set(word.id, validExamples);
+            }
+          }
+
+          dicts.kanjiDic = { array: kanjiDic, charKanjiMap: charKanjiMap };
+          if (tanakaArray)
+            dicts.tanakaCorpus = {
+              array: tanakaArray,
+              wordExamplesMap: wordExamplesMap,
+            };
+        }
+
+        if (wordDefs) {
+          const wordDefsMap: Map<string, readonly Definition[]> = new Map<
+            string,
+            readonly Definition[]
+          >();
+
+          for (const pair of wordDefs)
+            wordDefsMap.set(pair.wordID, [...pair.definitions]);
+
+          dicts.wordDefs = { array: wordDefs, wordDefinitionsMap: wordDefsMap };
+        }
+
+        {
+          if (existsSync(svgDir))
+            dicts.svg_list = { array: readdirSync(svgDir, "utf-8") };
+        }
 
         resolve();
       } catch (err: unknown) {
@@ -257,43 +467,38 @@ export async function convertDicts(): Promise<void> {
   );
 }
 
-export function getDict(dict: DictName): Dict {
-  try {
-    let name: string = "";
+export async function synthesizeSpeech(
+  client: PollyClient,
+  input: string,
+  options: Omit<SynthesizeSpeechCommandInput, "Text">,
+): Promise<Buffer<ArrayBuffer> | null> {
+  return await new Promise<Buffer<ArrayBuffer> | null>(
+    async (
+      resolve: (
+        value:
+          | Buffer<ArrayBuffer>
+          | null
+          | PromiseLike<Buffer<ArrayBuffer> | null>,
+      ) => void,
+      reject: (reason?: any) => void,
+    ) => {
+      try {
+        const command: SynthesizeSpeechCommand = new SynthesizeSpeechCommand({
+          Text: input,
+          ...options,
+        });
+        const response: SynthesizeSpeechCommandOutput =
+          await client.send(command);
+        const stream: Buffer<ArrayBuffer> | null = response.AudioStream
+          ? Buffer.from(await response.AudioStream.transformToByteArray())
+          : null;
 
-    switch (dict) {
-      case "JMDict":
-        name = dictsNames.jmdict;
-        break;
-      case "Kanjidic":
-        name = dictsNames.kanjidic;
-        break;
-      case "tanaka":
-        name = dictsNames.tanaka;
-        break;
-      case "radk":
-        name = dictsNames.radk;
-        break;
-      case "krad":
-        name = dictsNames.krad;
-        break;
-    }
-
-    const dictPath: string = `${dictsDir}/json/${name}.json`;
-
-    if (existsSync(dictPath)) {
-      const content: string = readFileSync(dictPath, "utf-8");
-
-      if (content.length > 0) {
-        const obj: any = JSON.parse(content);
-
-        if (isValidArray(obj)) return obj as Dict;
-        else throw new Error(`Invalid ${dict} file`);
-      } else throw new Error(`Empty ${dict} file`);
-    } else throw new Error(`${dict} file does not exist`);
-  } catch (err) {
-    throw err;
-  }
+        resolve(stream);
+      } catch (err: unknown) {
+        reject(err);
+      }
+    },
+  );
 }
 
 export async function generateAudio(client: PollyClient): Promise<void> {
@@ -781,100 +986,114 @@ export function getJLPTVocab(): void {
       loadEntries(resultPaths.vocabJLPT, "readings_with_audio", audioReadings);
 
     const audioReadingIDs: Set<`word_${string}`> = new Set<`word_${string}`>(
-      audioReadings.map((word: Word) => word.noteID!),
+      audioReadings.map((word: Word) => word.noteID! as `word_${string}`),
     );
 
-    const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
-    const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
-    const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
-      (getDict("tanaka") as TanakaExample[]).filter(
-        (ex: TanakaExample) => ex.furigana,
-      ),
-    );
+    const tanaka: Map<string, readonly TanakaExample[]> = new Map<
+      string,
+      readonly TanakaExample[]
+    >();
 
-    const wordAudio: Map<string, Word> = new Map<string, Word>();
-
-    for (const word of jmDict.filter((word: DictWord) =>
-      audioReadingIDs.has(`word_${word.id}`),
-    ))
-      wordAudio.set(
-        word.id,
-        audioReadings.find((w: Word) => w.noteID === `word_${word.id}`)!,
+    for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
+      tanaka.set(
+        id,
+        exes.filter((ex: TanakaExample) => ex.furigana),
       );
 
-    for (const filename of fileNames.vocabJLPT) {
-      if (checkExistenceOfResults(resultPaths.vocabJLPT, filename)) {
-        console.log(`Already got ${filename}`);
-        continue;
-      }
+    const wordAudio: Map<string, Word> = new Map<string, Word>();
+    const jmDict: readonly DictWord[] | undefined = dicts.jmDict?.array;
 
-      console.log(`Parsing ${filename}`);
-
-      const idFilePath: string = `${idsPath}/${filename}.json`;
-      if (!existsSync(idFilePath))
-        throw new Error(`ID file does not exist: ${idFilePath}`);
-
-      const idList: string[] = JSON.parse(
-        readFileSync(idFilePath, "utf-8"),
-      ) as string[];
-
-      const words: Word[] = [];
-
-      let deck: string = `${deckName}::${subDeckNames.jlpt._}::${subDeckNames.jlpt.vocab._}::`;
-
-      if (filename.endsWith("n5")) deck += subDeckNames.jlpt.vocab.n5;
-      else if (filename.endsWith("n4")) deck += subDeckNames.jlpt.vocab.n4;
-      else if (filename.endsWith("n3")) deck += subDeckNames.jlpt.vocab.n3;
-      else if (filename.endsWith("n2")) deck += subDeckNames.jlpt.vocab.n2;
-      else if (filename.endsWith("n1")) deck += subDeckNames.jlpt.vocab.n1;
-
-      if (deck.endsWith("::")) throw new Error("Invalid deck name");
-
-      let wordCount: number = 0;
-      const idListLength: number = idList.length;
-
-      for (let i: number = 0; i < idListLength; i++) {
-        const id: string | undefined = idList[i];
-        if (typeof id !== "string")
-          throw new Error(`Invalid ID file: ${idFilePath}`);
-
-        console.log(
-          `${((wordCount / idListLength) * 100).toFixed()}% Searching: ${id}`,
+    if (jmDict)
+      for (const word of jmDict.filter((word: DictWord) =>
+        audioReadingIDs.has(`word_${word.id}`),
+      ))
+        wordAudio.set(
+          word.id,
+          audioReadings.find((w: Word) => w.noteID === `word_${word.id}`)!,
         );
 
-        const word: Word = getWord(
-          jmDict,
-          id,
-          kanjiDic,
-          tanaka,
-          undefined,
-          noteTypes.word,
-          deck,
-        );
+    const kanjiDic: Map<string, readonly DictKanji[]> | undefined =
+      dicts.kanjiDic?.charKanjiMap;
+    const wordDefs: Map<string, readonly Definition[]> | undefined =
+      dicts.wordDefs?.wordDefinitionsMap;
 
-        if (wordAudio.size > 0) {
-          const audioReadingsWord: Word | undefined = wordAudio.get(id);
-
-          if (audioReadingsWord)
-            word.readings = word.readings.map((reading: Reading) => {
-              const audioReading: Reading | undefined =
-                audioReadingsWord.readings.find(
-                  (rd: Reading) => rd.reading === reading.reading,
-                );
-
-              if (audioReading) reading.audio = audioReading.audio;
-
-              return reading;
-            });
+    if (jmDict && tanaka.size > 0 && kanjiDic && wordDefs)
+      for (const filename of fileNames.vocabJLPT) {
+        if (checkExistenceOfResults(resultPaths.vocabJLPT, filename)) {
+          console.log(`Already got ${filename}`);
+          continue;
         }
 
-        words.push(word);
+        console.log(`Parsing ${filename}`);
 
-        wordCount++;
+        const idFilePath: string = `${idsPath}/${filename}.json`;
+        if (!existsSync(idFilePath))
+          throw new Error(`ID file does not exist: ${idFilePath}`);
+
+        const idList: `${number}`[] = JSON.parse(
+          readFileSync(idFilePath, "utf-8"),
+        ) as `${number}`[];
+
+        const words: Word[] = [];
+
+        let deck: string = `${deckName}::${subDeckNames.jlpt._}::${subDeckNames.jlpt.vocab._}::`;
+
+        if (filename.endsWith("n5")) deck += subDeckNames.jlpt.vocab.n5;
+        else if (filename.endsWith("n4")) deck += subDeckNames.jlpt.vocab.n4;
+        else if (filename.endsWith("n3")) deck += subDeckNames.jlpt.vocab.n3;
+        else if (filename.endsWith("n2")) deck += subDeckNames.jlpt.vocab.n2;
+        else if (filename.endsWith("n1")) deck += subDeckNames.jlpt.vocab.n1;
+
+        if (deck.endsWith("::")) throw new Error("Invalid deck name");
+
+        let wordCount: number = 0;
+        const idListLength: number = idList.length;
+
+        for (const id of idList) {
+          if (
+            typeof id !== "string" ||
+            !Number.isSafeInteger(Number.parseInt(id))
+          )
+            throw new Error(`Invalid ID file: ${idFilePath}`);
+
+          console.log(
+            `${((wordCount / idListLength) * 100).toFixed()}% Searching: ${id}`,
+          );
+
+          const word: Word | undefined = getWord(
+            id,
+            jmDict,
+            kanjiDic,
+            tanaka,
+            wordDefs,
+            noteTypes.word,
+            deck,
+          );
+          if (!word) throw new Error(`Invalid word: ${id}`);
+
+          if (wordAudio.size > 0) {
+            const audioReadingsWord: Word | undefined = wordAudio.get(id);
+
+            if (audioReadingsWord)
+              word.readings = word.readings.map((reading: Reading) => {
+                const audioReading: Reading | undefined =
+                  audioReadingsWord.readings.find(
+                    (rd: Reading) => rd.reading === reading.reading,
+                  );
+
+                if (audioReading) reading.audio = audioReading.audio;
+
+                return reading;
+              });
+          }
+
+          words.push(word);
+
+          wordCount++;
+        }
+
+        saveEntries(words, filename, resultPaths.vocabJLPT);
       }
-
-      saveEntries(words, filename, resultPaths.vocabJLPT);
-    }
   } catch (err: unknown) {
     throw err;
   }
@@ -884,105 +1103,104 @@ export function getJLPTKanji(): void {
   try {
     console.log("\nBuilding JLPT kanji");
 
-    const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
-    const jmDict: DictWord[] = getDict("JMDict") as DictWord[];
-
     const kanjiPath: string = `${resultPaths.kanjiJLPT}/kanji`;
 
     if (!existsSync(kanjiPath))
       throw new Error("There are no JLPT kanji files");
     if (!existsSync(kanjiInfoFile))
       throw new Error("The kanji file does not exist");
-    if (!existsSync(svgDir)) throw new Error("The SVG folder does not exist");
 
-    const kanjiInfoList: Kanji[] = JSON.parse(
+    const kanjiInfoList: Map<string, Kanji> = new Map<string, Kanji>();
+
+    for (const kanji of JSON.parse(
       readFileSync(kanjiInfoFile, "utf-8"),
-    ) as Kanji[];
-    const svgList: string[] = readdirSync(svgDir, "utf-8");
+    ) as Kanji[])
+      kanjiInfoList.set(kanji.kanji, kanji);
 
-    for (const filename of fileNames.kanjiJLPT) {
-      if (checkExistenceOfResults(resultPaths.kanjiJLPT, filename)) {
-        console.log(`Already got ${filename}`);
-        continue;
-      }
+    const kanjiDic: readonly DictKanji[] | undefined = dicts.kanjiDic?.array;
+    const jmDict: Map<string, readonly DictWord[]> | undefined =
+      dicts.jmDict?.kanjiWordsMap;
+    const svg_list: readonly string[] | undefined = dicts.svg_list?.array;
 
-      console.log(`Parsing ${filename}`);
+    if (kanjiDic && jmDict && svg_list)
+      for (const filename of fileNames.kanjiJLPT) {
+        if (checkExistenceOfResults(resultPaths.kanjiJLPT, filename)) {
+          console.log(`Already got ${filename}`);
+          continue;
+        }
 
-      const kanjiFilePath: string = `${kanjiPath}/${filename}.json`;
-      if (!existsSync(kanjiFilePath))
-        throw new Error(`Kanji file does not exist: ${kanjiFilePath}`);
+        console.log(`Parsing ${filename}`);
 
-      const kanjiList: string[] = JSON.parse(
-        readFileSync(kanjiFilePath, "utf-8"),
-      ) as string[];
+        const kanjiFilePath: string = `${kanjiPath}/${filename}.json`;
+        if (!existsSync(kanjiFilePath))
+          throw new Error(`Kanji file does not exist: ${kanjiFilePath}`);
 
-      const kanjis: Kanji[] = [];
+        const kanjiList: string[] = JSON.parse(
+          readFileSync(kanjiFilePath, "utf-8"),
+        ) as string[];
 
-      let deck: string = `${deckName}::${subDeckNames.jlpt._}::${subDeckNames.jlpt.kanji._}::`;
+        const kanjis: Kanji[] = [];
 
-      if (filename.endsWith("n5")) deck += subDeckNames.jlpt.kanji.n5;
-      else if (filename.endsWith("n4")) deck += subDeckNames.jlpt.kanji.n4;
-      else if (filename.endsWith("n3")) deck += subDeckNames.jlpt.kanji.n3;
-      else if (filename.endsWith("n2")) deck += subDeckNames.jlpt.kanji.n2;
-      else if (filename.endsWith("n1")) deck += subDeckNames.jlpt.kanji.n1;
+        let deck: string = `${deckName}::${subDeckNames.jlpt._}::${subDeckNames.jlpt.kanji._}::`;
 
-      if (deck.endsWith("::")) throw new Error("Invalid deck name");
+        if (filename.endsWith("n5")) deck += subDeckNames.jlpt.kanji.n5;
+        else if (filename.endsWith("n4")) deck += subDeckNames.jlpt.kanji.n4;
+        else if (filename.endsWith("n3")) deck += subDeckNames.jlpt.kanji.n3;
+        else if (filename.endsWith("n2")) deck += subDeckNames.jlpt.kanji.n2;
+        else if (filename.endsWith("n1")) deck += subDeckNames.jlpt.kanji.n1;
 
-      let kanjiCount: number = 0;
-      const kanjiListLength: number = kanjiList.length;
+        if (deck.endsWith("::")) throw new Error("Invalid deck name");
 
-      for (let i: number = 0; i < kanjiListLength; i++) {
-        const char: string | undefined = kanjiList[i];
-        if (typeof char !== "string")
-          throw new Error(`Invalid ID file: ${kanjiFilePath}`);
+        let kanjiCount: number = 0;
+        const kanjiListLength: number = kanjiList.length;
 
-        console.log(
-          `${((kanjiCount / kanjiListLength) * 100).toFixed()}% Searching: ${char}`,
-        );
+        for (const char of kanjiList) {
+          if (typeof char !== "string")
+            throw new Error(`Invalid kanji file: ${kanjiFilePath}`);
 
-        let kanji: Kanji | undefined = undefined;
+          console.log(
+            `${((kanjiCount / kanjiListLength) * 100).toFixed()}% Searching: ${char}`,
+          );
 
-        const kanjiInfo: Kanji | undefined = kanjiInfoList.find(
-          (kanji: Kanji) => {
-            if (kanji.kanji === undefined)
-              throw new Error("Invalid kanji info file");
+          let kanji: Kanji | undefined = undefined;
 
-            return (
-              kanji.kanji === char &&
-              (kanji.components || kanji.mnemonic || kanji.words)
+          const kanjiInfo: Kanji | undefined = kanjiInfoList.get(char);
+
+          if (
+            kanjiInfo &&
+            (kanjiInfo.components || kanjiInfo.mnemonic || kanjiInfo.words)
+          )
+            kanji = getKanjiExtended(
+              kanjiInfo,
+              char,
+              kanjiDic,
+              true,
+              jmDict,
+              svg_list,
+              noteTypes.kanji,
+              deck,
+              `https://jpdb.io/kanji/${char}`,
             );
-          },
-        );
+          else
+            kanji = getKanji(
+              char,
+              kanjiDic,
+              jmDict,
+              svg_list,
+              noteTypes.kanji,
+              deck,
+            );
 
-        if (kanjiInfo)
-          kanji = getKanjiExtended(
-            char,
-            kanjiInfo,
-            kanjiDic,
-            true,
-            jmDict,
-            svgList,
-            noteTypes.kanji,
-            deck,
-          );
-        else
-          kanji = getKanji(
-            char,
-            kanjiDic,
-            jmDict,
-            svgList,
-            noteTypes.kanji,
-            deck,
-          );
+          if (!kanji) throw new Error(`Invalid kanji: ${char}`);
 
-        if ((kanji.onyomi || kanji.kunyomi) && kanji.meanings)
-          kanjis.push(kanji);
+          if ((kanji.onyomi || kanji.kunyomi) && kanji.meanings)
+            kanjis.push(kanji);
 
-        kanjiCount++;
+          kanjiCount++;
+        }
+
+        saveEntries(kanjis, filename, resultPaths.kanjiJLPT);
       }
-
-      saveEntries(kanjis, filename, resultPaths.kanjiJLPT);
-    }
   } catch (err: unknown) {
     throw err;
   }
@@ -1115,63 +1333,46 @@ export function getExtraKanji(): void {
       return;
     }
 
-    const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
-      (getDict("tanaka") as TanakaExample[]).filter(
-        (ex: TanakaExample) => ex.furigana,
-      ),
-    );
-
-    const kanjiToWordsMap: Map<string, DictWord[]> = new Map<
+    const tanaka: Map<string, readonly TanakaExample[]> = new Map<
       string,
-      DictWord[]
+      readonly TanakaExample[]
     >();
+
+    for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
+      tanaka.set(
+        id,
+        exes.filter((ex: TanakaExample) => ex.furigana),
+      );
+
     const ids: Set<string> = new Set<string>();
-    const kanji: Kanji[] = [];
-    const kanjiWords: Word[] = [];
 
     loadEntries(resultPaths.vocabJLPT, fileNames.vocabJLPT, undefined, ids);
 
-    const kanjiDic: DictKanji[] = (getDict("Kanjidic") as DictKanji[]).filter(
-      (char: DictKanji) =>
-        char.readingMeaning.length > 0 &&
-        char.readingMeaning.some(
-          (pair: DictKanjiReadingMeaning) =>
-            pair.groups.length > 0 &&
-            pair.groups.some(
-              (group: DictKanjiReadingMeaningGroup) =>
-                group.meanings.length > 0 && group.readings.length > 0,
+    const dictKanji: Set<string> = new Set<string>(
+      dicts.kanjiDic!.array.map((entry: DictKanji) => entry.kanji),
+    );
+
+    const jmDict: Map<string, readonly DictWord[]> = new Map<
+      string,
+      readonly DictWord[]
+    >();
+
+    for (const [kanji, words] of dicts.jmDict?.kanjiWordsMap!)
+      jmDict.set(
+        kanji,
+        words.filter(
+          (word: DictWord) =>
+            !ids.has(word.id) &&
+            (word.isCommon === true || word.hasPhrases === true) &&
+            word.kanjiForms &&
+            word.kanjiForms.some((kf: DictKanjiForm) =>
+              kf.form.split("").some((char: string) => dictKanji.has(char)),
             ),
         ),
-    );
+      );
 
-    const dictKanji: Set<string> = new Set<string>(
-      kanjiDic.map((entry: DictKanji) => entry.kanji),
-    );
-
-    const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
-      (word: DictWord) =>
-        !ids.has(word.id) &&
-        (word.isCommon === true || word.hasPhrases === true) &&
-        word.kanjiForms &&
-        word.kanjiForms.some((kf: DictKanjiForm) =>
-          kf.form.split("").some((char: string) => dictKanji.has(char)),
-        ),
-    );
-
-    for (const word of jmDict)
-      for (const kanjiForm of word.kanjiForms!) {
-        const kanjiChars: string[] = kanjiForm.form
-          .split("")
-          .filter((char: string) => dictKanji.has(char));
-
-        for (const char of kanjiChars)
-          if (!ids.has(word.id)) {
-            if (!kanjiToWordsMap.has(char)) kanjiToWordsMap.set(char, []);
-
-            kanjiToWordsMap.get(char)!.push(word);
-            ids.add(word.id);
-          }
-      }
+    const kanji: Kanji[] = [];
+    const kanjiWords: Word[] = [];
 
     let jlptKanji: Kanji[] | Set<string> = [];
 
@@ -1188,118 +1389,113 @@ export function getExtraKanji(): void {
     if (!existsSync(kanjiInfoFile))
       throw new Error("The kanji info file does not exist");
 
-    const kanjiInfoList: Kanji[] = JSON.parse(
+    const kanjiInfoList: Map<string, Kanji> = new Map<string, Kanji>();
+
+    for (const kanji of JSON.parse(
       readFileSync(kanjiInfoFile, "utf-8"),
-    ) as Kanji[];
+    ) as Kanji[])
+      kanjiInfoList.set(kanji.kanji, kanji);
 
     const kanjiDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.kanji}`;
     const vocabDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.vocab}`;
 
     let kanjiCount: number = 0;
 
-    const kanjiDicLength: number = kanjiDic.length;
+    const kanjiDicLength: number = dicts.kanjiDic!.array.length;
 
-    dictKanji.clear();
     ids.clear();
 
-    for (let i: number = 0; i < kanjiDicLength; i++) {
-      const kanjiEntry: DictKanji | undefined = kanjiDic[i];
-      if (!kanjiEntry) throw new Error("Invalid KANJIDIC file");
-      if (!kanjiToWordsMap.has(kanjiEntry.kanji)) {
-        kanjiCount++;
-        continue;
-      }
+    const kanjiDic: Map<string, readonly DictKanji[]> | undefined =
+      dicts.kanjiDic?.charKanjiMap;
+    const wordDefs: Map<string, readonly Definition[]> | undefined =
+      dicts.wordDefs?.wordDefinitionsMap;
 
-      let kanjiInfo: Kanji | undefined = undefined;
-
-      for (let j: number = 0; j < kanjiInfoList.length; j++) {
-        const kanji: Kanji | undefined = kanjiInfoList[j];
-        if (!kanji || kanji.kanji === undefined)
-          throw new Error("Invalid kanji info file");
-
-        if (
-          kanji.kanji === kanjiEntry.kanji &&
-          (kanji.components || kanji.mnemonic || kanji.words)
-        ) {
-          kanjiInfo = kanji;
-          break;
+    if (jmDict.size > 0 && tanaka.size > 0 && kanjiDic && wordDefs)
+      for (const kanjiEntry of dicts.kanjiDic!.array) {
+        if (!jmDict.has(kanjiEntry.kanji)) {
+          kanjiCount++;
+          continue;
         }
-      }
 
-      const kanjiObj: Kanji | undefined = !jlptKanji.has(kanjiEntry.kanji)
-        ? kanjiInfo
-          ? getKanjiExtended(
-              kanjiEntry.kanji,
+        const kanjiInfo: Kanji | undefined = kanjiInfoList.get(
+          kanjiEntry.kanji,
+        );
+
+        const kanjiObj: Kanji | undefined = !jlptKanji.has(kanjiEntry.kanji)
+          ? kanjiInfo &&
+            (kanjiInfo.components || kanjiInfo.mnemonic || kanjiInfo.words)
+            ? getKanjiExtended(
               kanjiInfo,
-              kanjiDic,
+              kanjiEntry,
+              undefined,
               true,
               jmDict,
               undefined,
               noteTypes.kanji,
               kanjiDeck,
+              `https://jpdb.io/kanji/${kanjiEntry.kanji}`,
             )
-          : getKanji(
-              kanjiEntry.kanji,
-              kanjiDic,
+            : getKanji(
+              kanjiEntry,
+              undefined,
               jmDict,
               undefined,
               noteTypes.kanji,
               kanjiDeck,
             )
-        : undefined;
-      if (
-        kanjiObj &&
-        ((!kanjiObj.onyomi && !kanjiObj.kunyomi) || !kanjiObj.meanings)
-      ) {
-        kanjiCount++;
-        continue;
-      }
+          : undefined;
+        if (
+          kanjiObj &&
+          ((!kanjiObj.onyomi && !kanjiObj.kunyomi) || !kanjiObj.meanings)
+        ) {
+          kanjiCount++;
+          continue;
+        }
 
-      console.log(
-        `${Math.round((kanjiCount / kanjiDicLength) * 100)}% Searching: ${!kanjiObj ? `${kanjiEntry.kanji} (from JLPT list; not creating note for it)` : `${kanjiEntry.kanji}`}`,
-      );
-
-      const wordsForKanji: DictWord[] | undefined = kanjiToWordsMap.get(
-        kanjiEntry.kanji,
-      );
-      if (!wordsForKanji || wordsForKanji.length === 0) {
-        kanjiCount++;
-        continue;
-      }
-
-      let foundWord: boolean = false;
-
-      for (let j: number = 0; j < wordsForKanji.length; j++) {
-        const dictWord: DictWord | undefined = wordsForKanji[j];
-        if (!dictWord || ids.has(dictWord.id)) continue;
-
-        const word: Word = getWord(
-          undefined,
-          undefined,
-          kanjiDic,
-          tanaka,
-          dictWord,
-          noteTypes.word,
-          vocabDeck,
+        console.log(
+          `${Math.round((kanjiCount / kanjiDicLength) * 100)}% Searching: ${!kanjiObj ? `${kanjiEntry.kanji} (from JLPT list; not creating note for it)` : `${kanjiEntry.kanji}`}`,
         );
 
-        if (
-          (word.common === true || (word.phrases && word.phrases.length > 0)) &&
-          word.id
-        ) {
-          if (!foundWord) foundWord = true;
-
-          ids.add(word.id);
-          kanjiWords.push(word);
+        const wordsForKanji: readonly DictWord[] | undefined = jmDict.get(
+          kanjiEntry.kanji,
+        );
+        if (!wordsForKanji || wordsForKanji.length === 0) {
+          kanjiCount++;
+          continue;
         }
+
+        let foundWord: boolean = false;
+
+        for (const dictWord of wordsForKanji) {
+          if (ids.has(dictWord.id)) continue;
+
+          const word: Word | undefined = getWord(
+            dictWord,
+            undefined,
+            kanjiDic,
+            tanaka,
+            wordDefs,
+            noteTypes.word,
+            vocabDeck,
+          );
+          if (!word) throw new Error(`Invalid word: ${dictWord.id}`);
+
+          if (
+            (word.common === true ||
+              (word.phrases && word.phrases.length > 0)) &&
+            word.id
+          ) {
+            if (!foundWord) foundWord = true;
+
+            ids.add(word.id);
+            kanjiWords.push(word);
+          }
+        }
+
+        if (foundWord && kanjiObj) kanji.push(kanjiObj);
+
+        kanjiCount++;
       }
-
-      if (foundWord && kanjiObj) kanji.push(kanjiObj);
-
-      kanjiCount++;
-
-      kanjiToWordsMap.delete(kanjiEntry.kanji);
-    }
 
     if (kanji.length > 0)
       saveEntries(kanji, "extra_kanji", resultPaths.extraKanji);
@@ -1321,12 +1517,16 @@ export function getKanaWords(): void {
 
     const ids: Set<string> = new Set<string>();
 
-    const kanjiDic: DictKanji[] = getDict("Kanjidic") as DictKanji[];
-    const tanaka: TanakaExample[] = shuffleArray<TanakaExample>(
-      (getDict("tanaka") as TanakaExample[]).filter(
-        (ex: TanakaExample) => ex.furigana,
-      ),
-    );
+    const tanaka: Map<string, readonly TanakaExample[]> = new Map<
+      string,
+      readonly TanakaExample[]
+    >();
+
+    for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
+      tanaka.set(
+        id,
+        exes.filter((ex: TanakaExample) => ex.furigana),
+      );
 
     const wordList: Word[] = [];
 
@@ -1337,7 +1537,7 @@ export function getKanaWords(): void {
 
     const deck: string = `${deckName}::${subDeckNames.kanaWords._}`;
 
-    const jmDict: DictWord[] = (getDict("JMDict") as DictWord[]).filter(
+    const jmDict: DictWord[] | undefined = dicts.jmDict?.array.filter(
       (word: DictWord) =>
         !ids.has(word.id) &&
         (word.isCommon === true || word.hasPhrases === true) &&
@@ -1347,40 +1547,46 @@ export function getKanaWords(): void {
           )),
     );
 
-    const jmDictLength: number = jmDict.length;
-    let wordCount: number = 0;
+    const kanjiDic: Map<string, readonly DictKanji[]> | undefined =
+      dicts.kanjiDic?.charKanjiMap;
+    const wordDefs: Map<string, readonly Definition[]> | undefined =
+      dicts.wordDefs?.wordDefinitionsMap;
 
-    for (let i: number = 0; i < jmDictLength; i++) {
-      const dictWord: DictWord | undefined = jmDict[i];
-      if (!dictWord) throw new Error("Invalid JMDict file");
-      if (ids.has(dictWord.id)) continue;
+    if (jmDict && tanaka.size > 0 && kanjiDic && wordDefs) {
+      const jmDictLength: number = jmDict.length;
+      let wordCount: number = 0;
 
-      console.log(
-        `${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`,
-      );
+      for (const dictWord of jmDict) {
+        if (ids.has(dictWord.id)) continue;
 
-      const word: Word = getWord(
-        undefined,
-        undefined,
-        kanjiDic,
-        tanaka,
-        dictWord,
-        noteTypes.word,
-        deck,
-      );
+        console.log(
+          `${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`,
+        );
 
-      if (
-        word.kanji === undefined &&
-        (word.common === true || (word.phrases && word.phrases.length > 0))
-      )
-        wordList.push(word);
+        const word: Word | undefined = getWord(
+          dictWord,
+          undefined,
+          kanjiDic,
+          tanaka,
+          wordDefs,
+          noteTypes.word,
+          deck,
+        );
+        if (!word) throw new Error(`Invalid word: ${dictWord.id}`);
 
-      wordCount++;
+        if (
+          word.kanji === undefined &&
+          (word.common === true || (word.phrases && word.phrases.length > 0))
+        )
+          wordList.push(word);
+
+        wordCount++;
+      }
+
+      if (wordList.length > 0)
+        saveEntries(wordList, "kana_words", resultPaths.kanaWords);
+      else throw new Error("Empty kana words list");
     }
-
-    if (wordList.length > 0)
-      saveEntries(wordList, "kana_words", resultPaths.kanaWords);
-    else throw new Error("Empty kana words list");
   } catch (err: unknown) {
     throw err;
   }
