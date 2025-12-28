@@ -14,29 +14,35 @@ import {
   convertJMdict,
   convertKanjiDic,
   convertTanakaCorpusWithFurigana,
-  Definition,
+  createEntryMaps,
   DictKanji,
   DictKanjiForm,
-  DictReading,
   DictWord,
+  EntryMaps,
   generateAnkiNotesFile,
   getKanji,
   getKanjiExtended,
+  getValidForms,
   getWord,
   getWordDefinitionsWithFurigana,
   Grammar,
   JaWiktionaryEntry,
   Kana,
   Kanji,
-  KanjiForm,
-  notSearchedForms,
+  KanjiEntryMap,
+  KanjiWordsMap,
   Radical,
   Reading,
+  ReadingsKanjiFormsPair,
   regexps,
   Result,
+  StringNumber,
   TanakaExample,
   Word,
   WordDefinitionPair,
+  WordDefinitionsMap,
+  WordExamplesMap,
+  WordIDEntryMap,
 } from "henkan";
 
 import {
@@ -124,7 +130,7 @@ export async function convertDicts(): Promise<void> {
 
         console.log("\nConverting dictionary files\n");
 
-        let tanakaArray: readonly TanakaExample[] | undefined = undefined;
+        let tanakaArray: readonly TanakaExample[] = [];
 
         {
           const tanakaPath: string = `${dictsDir}/examples.utf`;
@@ -151,7 +157,7 @@ export async function convertDicts(): Promise<void> {
           }
         }
 
-        let jmDict: readonly DictWord[] | undefined = undefined;
+        let jmDict: readonly DictWord[] = [];
 
         {
           let jmdictPath: string = `${dictsDir}/JMdict_e`;
@@ -181,7 +187,7 @@ export async function convertDicts(): Promise<void> {
           }
         }
 
-        let kanjiDic: readonly DictKanji[] | undefined = undefined;
+        let kanjiDic: readonly DictKanji[] = [];
 
         {
           const kanjiDicPath: string = `${dictsDir}/kanjidic2.xml`;
@@ -206,7 +212,7 @@ export async function convertDicts(): Promise<void> {
           }
         }
 
-        let wordDefs: readonly WordDefinitionPair[] | undefined = undefined;
+        let wordDefs: readonly WordDefinitionPair[] = [];
 
         {
           const jaWiktionaryPath: string = `${dictsDir}/raw-wiktextract-data.jsonl`;
@@ -241,223 +247,55 @@ export async function convertDicts(): Promise<void> {
 
         if (process.argv.slice(2).includes("--only-convert-dicts")) return;
 
-        const kanjiMap: Map<string, DictKanji> = new Map<string, DictKanji>();
+        if (!existsSync(svgDir)) throw new Error(`${svgDir} does not exist`);
 
-        for (const kanji of kanjiDic) kanjiMap.set(kanji.kanji, kanji);
+        const svg_list: string[] = readdirSync(svgDir, "utf-8");
 
-        {
-          const kanjiWordsMap: Map<string, DictWord[]> = new Map<
-            string,
-            DictWord[]
-          >();
+        if (svg_list.length === 0) throw new Error(`${svgDir} is empty`);
 
-          for (const word of jmDict) {
-            if (word.kanjiForms)
-              for (const kf of word.kanjiForms)
-                for (const char of kf.form.split(""))
-                  if (kanjiMap.has(char))
-                    if (!kanjiWordsMap.has(char))
-                      kanjiWordsMap.set(char, [word]);
-                    else kanjiWordsMap.get(char)!.push(word);
-          }
+        const entryMaps: EntryMaps = createEntryMaps(
+          jmDict,
+          kanjiDic,
+          tanakaArray,
+          wordDefs,
+          svg_list,
+        );
 
-          dicts.jmDict = { array: jmDict, kanjiWordsMap: kanjiWordsMap };
-        }
-
-        {
-          const charKanjiMap: Map<string, DictKanji[]> = new Map<
-            string,
-            DictKanji[]
-          >();
-
-          const wordsWithKanjiForms: Set<string> = new Set<string>();
-
-          for (const word of jmDict) {
-            if (word.kanjiForms) {
-              for (const kf of word.kanjiForms)
-                for (const char of kf.form
-                  .split("")
-                  .filter((c: string) => regexps.kanji.test(c))) {
-                  const kanjiObj: DictKanji | undefined = kanjiMap.get(char);
-
-                  wordsWithKanjiForms.add(word.id);
-
-                  if (!charKanjiMap.has(char))
-                    charKanjiMap.set(char, kanjiObj ? [kanjiObj] : []);
-                  else if (kanjiObj) charKanjiMap.get(char)!.push(kanjiObj);
-                }
-            }
-          }
-
-          const wordExamplesMap: Map<string, TanakaExample[]> = new Map<
-            string,
-            TanakaExample[]
-          >();
-
-          if (tanakaArray) {
-            const entryParts: Set<string> = new Set<string>();
-            const wordPartsMap: Map<string, Set<string>> = new Map<
-              string,
-              Set<string>
-            >();
-
-            for (const word of jmDict) {
-              let localPartParts: Set<string> = new Set<string>();
-
-              for (const reading of word.readings.filter(
-                (reading: DictReading) =>
-                  (reading.notes === undefined ||
-                    !reading.notes.some((note: string) =>
-                      notSearchedForms.has(note),
-                    )) &&
-                  (word.isCommon === undefined ||
-                    reading.commonness !== undefined),
-              )) {
-                entryParts.add(reading.reading);
-                localPartParts.add(reading.reading);
-              }
-
-              if (word.kanjiForms !== undefined) {
-                const existValidKf: boolean = word.kanjiForms.some(
-                  (kf: DictKanjiForm) =>
-                    (kf.notes === undefined ||
-                      !kf.notes.some((note: string) =>
-                        notSearchedForms.has(note),
-                      )) &&
-                    (word.isCommon === undefined ||
-                      kf.commonness !== undefined),
-                );
-
-                for (const kanjiForm of word.kanjiForms.filter(
-                  (kanjiForm: DictKanjiForm) => {
-                    if (existValidKf === true)
-                      return (
-                        (kanjiForm.notes === undefined ||
-                          !kanjiForm.notes.some((note: string) =>
-                            notSearchedForms.has(note),
-                          )) &&
-                        (word.isCommon === undefined ||
-                          kanjiForm.commonness !== undefined)
-                      );
-                    else return true;
-                  },
-                )) {
-                  entryParts.add(kanjiForm.form);
-                  localPartParts.add(kanjiForm.form);
-                }
-              }
-
-              entryParts.add(word.id);
-              localPartParts.add(word.id);
-
-              wordPartsMap.set(word.id, localPartParts);
-            }
-
-            const partExamplesMap: Map<string, TanakaExample[]> = new Map<
-              string,
-              TanakaExample[]
-            >();
-
-            for (const ex of tanakaArray) {
-              for (const part of ex.parts) {
-                if (entryParts.has(part.baseForm)) {
-                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
-                    part.baseForm,
-                  );
-                  if (!exList) {
-                    exList = [];
-                    partExamplesMap.set(part.baseForm, exList);
-                  }
-
-                  exList.push(ex);
-                }
-                if (part.reading && entryParts.has(part.reading)) {
-                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
-                    part.reading,
-                  );
-                  if (!exList) {
-                    exList = [];
-                    partExamplesMap.set(part.reading, exList);
-                  }
-
-                  exList.push(ex);
-                }
-                if (part.inflectedForm && entryParts.has(part.inflectedForm)) {
-                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
-                    part.inflectedForm,
-                  );
-                  if (!exList) {
-                    exList = [];
-                    partExamplesMap.set(part.inflectedForm, exList);
-                  }
-
-                  exList.push(ex);
-                }
-
-                if (part.referenceID && entryParts.has(part.referenceID)) {
-                  let exList: TanakaExample[] | undefined = partExamplesMap.get(
-                    part.referenceID,
-                  );
-                  if (!exList) {
-                    exList = [];
-                    partExamplesMap.set(part.referenceID, exList);
-                  }
-
-                  exList.push(ex);
-                }
-              }
-            }
-
-            for (const word of jmDict) {
-              const entryParts: Set<string> | undefined = wordPartsMap.get(
-                word.id,
-              );
-              if (!entryParts) continue;
-
-              const seenEx: Set<string> = new Set<string>();
-              const validExamples: TanakaExample[] = [];
-
-              for (const p of entryParts) {
-                const examplesForPart: TanakaExample[] | undefined =
-                  partExamplesMap.get(p);
-                if (!examplesForPart) continue;
-
-                for (const ex of examplesForPart)
-                  if (!seenEx.has(ex.id)) {
-                    seenEx.add(ex.id);
-                    validExamples.push(ex);
-                  }
-              }
-
-              if (validExamples.length > 0)
-                wordExamplesMap.set(word.id, validExamples);
-            }
-          }
-
-          dicts.kanjiDic = { array: kanjiDic, charKanjiMap: charKanjiMap };
-          if (tanakaArray)
-            dicts.tanakaCorpus = {
-              array: tanakaArray,
-              wordExamplesMap: wordExamplesMap,
-            };
-        }
-
-        if (wordDefs) {
-          const wordDefsMap: Map<string, readonly Definition[]> = new Map<
-            string,
-            readonly Definition[]
-          >();
-
-          for (const pair of wordDefs)
-            wordDefsMap.set(pair.wordID, [...pair.definitions]);
-
-          dicts.wordDefs = { array: wordDefs, wordDefinitionsMap: wordDefsMap };
-        }
-
-        {
-          if (existsSync(svgDir))
-            dicts.svg_list = { array: readdirSync(svgDir, "utf-8") };
-        }
+        if (
+          entryMaps.kanjiEntryMap &&
+          entryMaps.kanjiSVGMap &&
+          entryMaps.kanjiWordsMap &&
+          entryMaps.wordDefinitionsMap &&
+          entryMaps.wordExamplesMap &&
+          entryMaps.wordIDEntryMap &&
+          jmDict.length > 0 &&
+          kanjiDic.length > 0 &&
+          tanakaArray.length > 0 &&
+          wordDefs.length > 0 &&
+          svg_list.length > 0
+        ) {
+          dicts.jmDict = {
+            array: jmDict,
+            idEntryMap: entryMaps.wordIDEntryMap,
+            kanjiWordsMap: entryMaps.kanjiWordsMap,
+          };
+          dicts.kanjiDic = {
+            array: kanjiDic,
+            kanjiEntryMap: entryMaps.kanjiEntryMap,
+          };
+          dicts.tanakaCorpus = {
+            array: tanakaArray,
+            wordExamplesMap: entryMaps.wordExamplesMap,
+          };
+          dicts.wordDefs = {
+            array: wordDefs,
+            wordDefinitionsMap: entryMaps.wordDefinitionsMap,
+          };
+          dicts.svg_list = {
+            array: svg_list,
+            kanjiSVGMap: entryMaps.kanjiSVGMap,
+          };
+        } else throw new Error("Invalid dicts");
 
         resolve();
       } catch (err: unknown) {
@@ -584,216 +422,167 @@ export async function generateAudio(client: PollyClient): Promise<void> {
             readingsWithAudio,
           );
 
-        for (const vocabPath of fileNames.vocabJLPT) {
-          const vocab: Word[] = [];
-          loadEntries(resultPaths.vocabJLPT, vocabPath, vocab);
+        const jmDict: WordIDEntryMap | undefined = dicts.jmDict?.idEntryMap;
 
-          for (const word of vocab) {
-            const readingsWithAudioWord: Word = {
-              noteID: word.noteID,
-              readings: [],
-              translations: [],
-            };
+        if (jmDict)
+          for (const vocabPath of fileNames.vocabJLPT) {
+            const vocab: Word[] = [];
+            loadEntries(resultPaths.vocabJLPT, vocabPath, vocab);
 
-            if (word.kanjiForms) {
-              const form: KanjiForm | undefined = word.kanjiForms[0];
-              const firstReading: Reading | undefined = word.readings[0];
+            for (const word of vocab) {
+              const dictWord: DictWord | undefined = jmDict.get(word.id!);
+              if (!dictWord) throw new Error(`Invalid word: ${word.id}`);
 
-              if (
-                form &&
-                firstReading &&
-                (firstReading.audio === undefined ||
-                  !existsSync(`${jlptAudioPath}/${firstReading.audio}`))
-              ) {
-                const id: UUID = randomUUID();
+              const readingsWithAudioWord: Word = {
+                id: word.id,
+                readings: [],
+                translations: [],
+              };
 
-                const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${firstReading.reading}">${form.kanjiForm}</phoneme>`;
-
-                let audioBuffer: Buffer<ArrayBuffer> | null = null;
-
-                while (audioBuffer === null) {
-                  try {
-                    audioBuffer = await synthesizeSpeech(client, ssml, {
-                      TextType: "ssml",
-                      OutputFormat: "mp3",
-                      VoiceId: "Tomoko",
-                      Engine: "neural",
-                      LanguageCode: "ja-JP",
-                    }).catch((err: any) => {
-                      throw err;
-                    });
-                  } catch (err: unknown) {
-                    console.log(err);
-                  }
-                }
-
-                if (!audioBuffer)
-                  throw new Error(
-                    `Invalid audio: ${form.kanjiForm}-${firstReading.reading}`,
-                  );
-
-                await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
-
-                word.readings[0]!.audio = `${id}.mp3`;
-
-                readingsWithAudioWord.readings.push(word.readings[0]!);
-
-                count++;
-
-                if (count === 40)
-                  await new Promise((resolve: (value: unknown) => void) => {
-                    count = 0;
-                    setTimeout(resolve, 1000);
-                  });
-              }
-
-              const restrictedReadings: Reading[] = word.readings.filter(
-                (reading: Reading) =>
-                  reading.notes &&
-                  reading.notes.some((note: string) =>
-                    note.startsWith("Reading restricted to "),
-                  ) &&
-                  (reading.audio === undefined ||
-                    !existsSync(`${jlptAudioPath}/${reading.audio}`)),
+              const rkf: ReadingsKanjiFormsPair = getValidForms(
+                dictWord.readings,
+                dictWord.kanjiForms,
+                dictWord.isCommon,
               );
 
-              for (const rr of restrictedReadings) {
-                const kanjiForm: string | undefined = rr
-                  .notes!.find((note: string) =>
-                    note.startsWith("Reading restricted to "),
-                  )!
-                  .split(" to ")[1];
+              for (const validReading of rkf.readings) {
+                let readingIndex: number = NaN;
+                const wordReading: Reading | undefined = word.readings.find(
+                  (r: Reading, index: number) => {
+                    if (r.reading === validReading.reading) {
+                      readingIndex = index;
+                      return true;
+                    } else return false;
+                  },
+                );
+                const kanjiForm: DictKanjiForm | undefined = rkf.kanjiForms
+                  ? (rkf.kanjiForms.find(
+                      (kf: DictKanjiForm) =>
+                        validReading.kanjiFormRestrictions &&
+                        validReading.kanjiFormRestrictions.some(
+                          (r: string) => r === kf.form,
+                        ),
+                    ) ?? rkf.kanjiForms[0])
+                  : undefined;
 
-                if (kanjiForm) {
-                  const id: UUID = randomUUID();
+                if (
+                  wordReading &&
+                  (wordReading.audio === undefined ||
+                    !existsSync(`${jlptAudioPath}/${wordReading.audio}`))
+                ) {
+                  if (kanjiForm) {
+                    const id: UUID = randomUUID();
 
-                  const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${rr.reading}">${kanjiForm}</phoneme>`;
+                    const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${wordReading.reading}">${kanjiForm.form}</phoneme>`;
 
-                  let audioBuffer: Buffer<ArrayBuffer> | null = null;
+                    let audioBuffer: Buffer<ArrayBuffer> | null = null;
 
-                  while (audioBuffer === null) {
-                    try {
-                      audioBuffer = await synthesizeSpeech(client, ssml, {
-                        TextType: "ssml",
-                        OutputFormat: "mp3",
-                        VoiceId: "Tomoko",
-                        Engine: "neural",
-                        LanguageCode: "ja-JP",
-                      }).catch((err: any) => {
-                        throw err;
-                      });
-                    } catch (err: unknown) {
-                      console.log(err);
+                    while (audioBuffer === null) {
+                      try {
+                        audioBuffer = await synthesizeSpeech(client, ssml, {
+                          TextType: "ssml",
+                          OutputFormat: "mp3",
+                          VoiceId: "Tomoko",
+                          Engine: "neural",
+                          LanguageCode: "ja-JP",
+                        }).catch((err: any) => {
+                          throw err;
+                        });
+                      } catch (err: unknown) {
+                        console.log(err);
+                      }
                     }
-                  }
 
-                  if (!audioBuffer)
-                    throw new Error(
-                      `Invalid audio: ${kanjiForm}-${rr.reading}`,
+                    if (!audioBuffer)
+                      throw new Error(
+                        `Invalid audio: ${kanjiForm.form}-${wordReading.reading}`,
+                      );
+
+                    await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
+
+                    word.readings[readingIndex]!.audio = `${id}.mp3`;
+
+                    readingsWithAudioWord.readings.push(
+                      word.readings[readingIndex]!,
                     );
 
-                  await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
+                    count++;
 
-                  const readingIndex: number = word.readings.findIndex(
-                    (wordReading: Reading) =>
-                      wordReading.reading === rr.reading,
-                  );
+                    if (count === 40)
+                      await new Promise((resolve: (value: unknown) => void) => {
+                        count = 0;
+                        setTimeout(resolve, 1000);
+                      });
+                  } else {
+                    const id: UUID = randomUUID();
 
-                  word.readings[readingIndex]!.audio = `${id}.mp3`;
+                    const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${wordReading.reading}">${wordReading.reading}</phoneme>`;
 
-                  readingsWithAudioWord.readings.push(
-                    word.readings[readingIndex]!,
-                  );
+                    let audioBuffer: Buffer<ArrayBuffer> | null = null;
 
-                  count++;
+                    while (audioBuffer === null) {
+                      try {
+                        audioBuffer = await synthesizeSpeech(client, ssml, {
+                          TextType: "ssml",
+                          OutputFormat: "mp3",
+                          VoiceId: "Tomoko",
+                          Engine: "neural",
+                          LanguageCode: "ja-JP",
+                        }).catch((err: any) => {
+                          throw err;
+                        });
+                      } catch (err: unknown) {
+                        console.log(err);
+                      }
+                    }
 
-                  if (count === 40)
-                    await new Promise((resolve: (value: unknown) => void) => {
-                      count = 0;
-                      setTimeout(resolve, 1000);
-                    });
-                }
-              }
-            } else
-              for (const reading of word.readings) {
-                if (
-                  reading.audio &&
-                  existsSync(`${jlptAudioPath}/${reading.audio}`)
-                )
-                  continue;
+                    if (!audioBuffer)
+                      throw new Error(`Invalid audio: ${wordReading.reading}`);
 
-                const id: UUID = randomUUID();
+                    await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
 
-                const ssml: string = `<phoneme alphabet="x-amazon-yomigana" ph="${reading.reading}">${reading.reading}</phoneme>`;
+                    word.readings[readingIndex]!.audio = `${id}.mp3`;
 
-                let audioBuffer: Buffer<ArrayBuffer> | null = null;
+                    readingsWithAudioWord.readings.push(
+                      word.readings[readingIndex]!,
+                    );
 
-                while (audioBuffer === null) {
-                  try {
-                    audioBuffer = await synthesizeSpeech(client, ssml, {
-                      TextType: "ssml",
-                      OutputFormat: "mp3",
-                      VoiceId: "Tomoko",
-                      Engine: "neural",
-                      LanguageCode: "ja-JP",
-                    }).catch((err: any) => {
-                      throw err;
-                    });
-                  } catch (err: unknown) {
-                    console.log(err);
+                    count++;
+
+                    if (count === 40)
+                      await new Promise((resolve: (value: unknown) => void) => {
+                        count = 0;
+                        setTimeout(resolve, 1000);
+                      });
                   }
                 }
-
-                if (!audioBuffer)
-                  throw new Error(`Invalid audio: ${reading.reading}`);
-
-                await writeFile(`${jlptAudioPath}/${id}.mp3`, audioBuffer);
-
-                const readingIndex: number = word.readings.findIndex(
-                  (wordReading: Reading) =>
-                    wordReading.reading === reading.reading,
-                );
-
-                word.readings[readingIndex]!.audio = `${id}.mp3`;
-
-                readingsWithAudioWord.readings.push(
-                  word.readings[readingIndex]!,
-                );
-
-                count++;
-
-                if (count === 40)
-                  await new Promise((resolve: (value: unknown) => void) => {
-                    count = 0;
-                    setTimeout(resolve, 1000);
-                  });
               }
 
-            word.readings = word.readings.map((r: Reading) => {
-              if (r.audio && !existsSync(`${jlptAudioPath}/${r.audio}`))
-                delete r.audio;
+              word.readings = word.readings.map((r: Reading) => {
+                if (r.audio && !existsSync(`${jlptAudioPath}/${r.audio}`))
+                  delete r.audio;
 
-              return r;
-            });
+                return r;
+              });
 
-            vocab[
-              vocab.findIndex((vocabWord: Word) => vocabWord.id === word.id)
-            ] = word;
+              vocab[
+                vocab.findIndex((vocabWord: Word) => vocabWord.id === word.id)
+              ] = word;
 
-            if (readingsWithAudioWord.readings.length > 0)
-              readingsWithAudio.push(readingsWithAudioWord);
+              if (readingsWithAudioWord.readings.length > 0)
+                readingsWithAudio.push(readingsWithAudioWord);
+            }
+
+            saveEntries(vocab, vocabPath, resultPaths.vocabJLPT);
           }
 
-          saveEntries(vocab, vocabPath, resultPaths.vocabJLPT);
-
-          if (readingsWithAudio.length > 0)
-            saveEntries(
-              readingsWithAudio,
-              "readings_with_audio",
-              resultPaths.vocabJLPT,
-              true,
-            );
-        }
+        if (readingsWithAudio.length > 0)
+          saveEntries(
+            readingsWithAudio,
+            "readings_with_audio",
+            resultPaths.vocabJLPT,
+            true,
+          );
 
         resolve();
       } catch (err: unknown) {
@@ -985,14 +774,11 @@ export function getJLPTVocab(): void {
     )
       loadEntries(resultPaths.vocabJLPT, "readings_with_audio", audioReadings);
 
-    const audioReadingIDs: Set<`word_${string}`> = new Set<`word_${string}`>(
-      audioReadings.map((word: Word) => word.noteID! as `word_${string}`),
+    const audioReadingIDs: Set<StringNumber> = new Set<StringNumber>(
+      audioReadings.map((word: Word) => word.id!),
     );
 
-    const tanaka: Map<string, readonly TanakaExample[]> = new Map<
-      string,
-      readonly TanakaExample[]
-    >();
+    const tanaka: WordExamplesMap = new Map<StringNumber, TanakaExample[]>();
 
     for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
       tanaka.set(
@@ -1001,20 +787,19 @@ export function getJLPTVocab(): void {
       );
 
     const wordAudio: Map<string, Word> = new Map<string, Word>();
-    const jmDict: readonly DictWord[] | undefined = dicts.jmDict?.array;
+    const jmDict: WordIDEntryMap | undefined = dicts.jmDict?.idEntryMap;
 
     if (jmDict)
-      for (const word of jmDict.filter((word: DictWord) =>
-        audioReadingIDs.has(`word_${word.id}`),
+      for (const word of Array.from(jmDict.values()).filter((word: DictWord) =>
+        audioReadingIDs.has(word.id),
       ))
         wordAudio.set(
           word.id,
-          audioReadings.find((w: Word) => w.noteID === `word_${word.id}`)!,
+          audioReadings.find((w: Word) => w.id === word.id)!,
         );
 
-    const kanjiDic: Map<string, readonly DictKanji[]> | undefined =
-      dicts.kanjiDic?.charKanjiMap;
-    const wordDefs: Map<string, readonly Definition[]> | undefined =
+    const kanjiDic: KanjiEntryMap | undefined = dicts.kanjiDic?.kanjiEntryMap;
+    const wordDefs: WordDefinitionsMap | undefined =
       dicts.wordDefs?.wordDefinitionsMap;
 
     if (jmDict && tanaka.size > 0 && kanjiDic && wordDefs)
@@ -1117,9 +902,8 @@ export function getJLPTKanji(): void {
     ) as Kanji[])
       kanjiInfoList.set(kanji.kanji, kanji);
 
-    const kanjiDic: readonly DictKanji[] | undefined = dicts.kanjiDic?.array;
-    const jmDict: Map<string, readonly DictWord[]> | undefined =
-      dicts.jmDict?.kanjiWordsMap;
+    const kanjiDic: KanjiEntryMap | undefined = dicts.kanjiDic?.kanjiEntryMap;
+    const jmDict: KanjiWordsMap | undefined = dicts.jmDict?.kanjiWordsMap;
     const svg_list: readonly string[] | undefined = dicts.svg_list?.array;
 
     if (kanjiDic && jmDict && svg_list)
@@ -1333,10 +1117,7 @@ export function getExtraKanji(): void {
       return;
     }
 
-    const tanaka: Map<string, readonly TanakaExample[]> = new Map<
-      string,
-      readonly TanakaExample[]
-    >();
+    const tanaka: WordExamplesMap = new Map<StringNumber, TanakaExample[]>();
 
     for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
       tanaka.set(
@@ -1352,10 +1133,11 @@ export function getExtraKanji(): void {
       dicts.kanjiDic!.array.map((entry: DictKanji) => entry.kanji),
     );
 
-    const jmDict: Map<string, readonly DictWord[]> = new Map<
-      string,
-      readonly DictWord[]
-    >();
+    const kanjiDic: KanjiEntryMap | undefined = dicts.kanjiDic?.kanjiEntryMap;
+    const wordDefs: WordDefinitionsMap | undefined =
+      dicts.wordDefs?.wordDefinitionsMap;
+
+    const jmDict: KanjiWordsMap = new Map<string, DictWord[]>();
 
     for (const [kanji, words] of dicts.jmDict?.kanjiWordsMap!)
       jmDict.set(
@@ -1405,11 +1187,6 @@ export function getExtraKanji(): void {
 
     ids.clear();
 
-    const kanjiDic: Map<string, readonly DictKanji[]> | undefined =
-      dicts.kanjiDic?.charKanjiMap;
-    const wordDefs: Map<string, readonly Definition[]> | undefined =
-      dicts.wordDefs?.wordDefinitionsMap;
-
     if (jmDict.size > 0 && tanaka.size > 0 && kanjiDic && wordDefs)
       for (const kanjiEntry of dicts.kanjiDic!.array) {
         if (!jmDict.has(kanjiEntry.kanji)) {
@@ -1425,24 +1202,24 @@ export function getExtraKanji(): void {
           ? kanjiInfo &&
             (kanjiInfo.components || kanjiInfo.mnemonic || kanjiInfo.words)
             ? getKanjiExtended(
-              kanjiInfo,
-              kanjiEntry,
-              undefined,
-              true,
-              jmDict,
-              undefined,
-              noteTypes.kanji,
-              kanjiDeck,
-              `https://jpdb.io/kanji/${kanjiEntry.kanji}`,
-            )
+                kanjiInfo,
+                kanjiEntry,
+                undefined,
+                true,
+                jmDict,
+                undefined,
+                noteTypes.kanji,
+                kanjiDeck,
+                `https://jpdb.io/kanji/${kanjiEntry.kanji}`,
+              )
             : getKanji(
-              kanjiEntry,
-              undefined,
-              jmDict,
-              undefined,
-              noteTypes.kanji,
-              kanjiDeck,
-            )
+                kanjiEntry,
+                undefined,
+                jmDict,
+                undefined,
+                noteTypes.kanji,
+                kanjiDeck,
+              )
           : undefined;
         if (
           kanjiObj &&
@@ -1517,10 +1294,7 @@ export function getKanaWords(): void {
 
     const ids: Set<string> = new Set<string>();
 
-    const tanaka: Map<string, readonly TanakaExample[]> = new Map<
-      string,
-      readonly TanakaExample[]
-    >();
+    const tanaka: WordExamplesMap = new Map<StringNumber, TanakaExample[]>();
 
     for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
       tanaka.set(
@@ -1537,6 +1311,10 @@ export function getKanaWords(): void {
 
     const deck: string = `${deckName}::${subDeckNames.kanaWords._}`;
 
+    const kanjiDic: KanjiEntryMap | undefined = dicts.kanjiDic?.kanjiEntryMap;
+    const wordDefs: WordDefinitionsMap | undefined =
+      dicts.wordDefs?.wordDefinitionsMap;
+
     const jmDict: DictWord[] | undefined = dicts.jmDict?.array.filter(
       (word: DictWord) =>
         !ids.has(word.id) &&
@@ -1547,18 +1325,11 @@ export function getKanaWords(): void {
           )),
     );
 
-    const kanjiDic: Map<string, readonly DictKanji[]> | undefined =
-      dicts.kanjiDic?.charKanjiMap;
-    const wordDefs: Map<string, readonly Definition[]> | undefined =
-      dicts.wordDefs?.wordDefinitionsMap;
-
     if (jmDict && tanaka.size > 0 && kanjiDic && wordDefs) {
       const jmDictLength: number = jmDict.length;
       let wordCount: number = 0;
 
       for (const dictWord of jmDict) {
-        if (ids.has(dictWord.id)) continue;
-
         console.log(
           `${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`,
         );

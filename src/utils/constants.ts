@@ -2,11 +2,16 @@ import path from "path";
 
 import { NoteTypes, SubDeckNames } from "./utils";
 import {
-  Definition,
   DictKanji,
   DictWord,
+  KanjiEntryMap,
+  KanjiSVGMap,
+  KanjiWordsMap,
   TanakaExample,
   WordDefinitionPair,
+  WordDefinitionsMap,
+  WordExamplesMap,
+  WordIDEntryMap,
 } from "henkan";
 
 export const deckName: string =
@@ -92,28 +97,29 @@ export const dicts: {
   jmDict?:
     | {
         array: readonly DictWord[];
-        kanjiWordsMap: Map<string, readonly DictWord[]>;
+        idEntryMap: WordIDEntryMap;
+        kanjiWordsMap: KanjiWordsMap;
       }
     | undefined;
   kanjiDic?:
     | {
         array: readonly DictKanji[];
-        charKanjiMap: Map<string, readonly DictKanji[]>;
+        kanjiEntryMap: KanjiEntryMap;
       }
     | undefined;
   tanakaCorpus?:
     | {
         array: readonly TanakaExample[];
-        wordExamplesMap: Map<string, readonly TanakaExample[]>;
+        wordExamplesMap: WordExamplesMap;
       }
     | undefined;
   wordDefs?:
     | {
         array: readonly WordDefinitionPair[];
-        wordDefinitionsMap: Map<string, readonly Definition[]>;
+        wordDefinitionsMap: WordDefinitionsMap;
       }
     | undefined;
-  svg_list?: { array: readonly string[] } | undefined;
+  svg_list?: { array: readonly string[]; kanjiSVGMap: KanjiSVGMap } | undefined;
 } = {};
 
 export const fileNames: {

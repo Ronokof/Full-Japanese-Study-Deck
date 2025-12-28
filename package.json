@@ -1,6 +1,6 @@
 {
   "name": "full-japanese-study-deck",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "description": "Raw Anki notes and a notes build script for the Full Japanese Study Deck",
   "keywords": [
     "fjsd",
@@ -34,20 +34,20 @@
   "main": "./src/index.ts",
   "scripts": {
     "start": "ts-node ./src/index.ts",
-    "start-with-audio": "ts-node ./src/index.ts --with-audio",
-    "start-only-conversion": "ts-node ./src/index.ts --only-convert-dicts",
-    "sync-node-types": "ts-node ./scripts/sync-node-types.ts",
+    "generate-audio": "ts-node ./src/index.ts --with-audio",
+    "dict-conversion": "ts-node ./src/index.ts --only-convert-dicts",
+    "update:pkgs": "ts-node ./scripts/update-packages.ts",
     "lint": "eslint src --ext .ts,.tsx --fix --fix-type problem,suggestion,layout"
   },
   "dependencies": {
-    "@aws-sdk/client-polly": "^3.956.0",
+    "@aws-sdk/client-polly": "^3.958.0",
     "dotenv": "^17.2.3",
-    "henkan": "^2.0.4"
+    "henkan": "^2.2.4"
   },
   "devDependencies": {
     "@types/node": "^24.10.4",
-    "@typescript-eslint/eslint-plugin": "^8.50.0",
-    "@typescript-eslint/parser": "^8.50.0",
+    "@typescript-eslint/eslint-plugin": "^8.50.1",
+    "@typescript-eslint/parser": "^8.50.1",
     "eslint": "^9.39.2",
     "eslint-plugin-prettier": "^5.5.4",
     "prettier": "^3.7.4",

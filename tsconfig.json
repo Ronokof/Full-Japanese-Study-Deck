@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         // Modules
-        "target": "es2024",
+        "target": "esnext",
         "module": "node20",
         "allowUmdGlobalAccess": true,
         "moduleResolution": "node16",
@@ -52,10 +52,5 @@
         "skipDefaultLibCheck": true,
         "skipLibCheck": true
     },
-    "include": [
-        "src/**/*"
-    ],
-    "exclude": [
-        "node_modules"
-    ]
+    "include": ["src"]
 }
