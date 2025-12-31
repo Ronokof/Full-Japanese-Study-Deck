@@ -7,18 +7,16 @@ const originalConsoleLog: {
   (message?: any, ...optionalParams: any[]): void;
 } = console.log.bind(console);
 
-console.log = (...args: any[]) => {
+console.log = (...args: any[]): void => {
   if (args.length === 0) {
     originalConsoleLog();
     return;
   }
 
-  const firstArg: any = args[0];
-
   const newLine: boolean =
-    typeof firstArg === "string" && firstArg.startsWith("\n");
+    typeof args[0] === "string" && args[0].startsWith("\n");
 
-  if (newLine) args[0] = (args[0] as string).substring(1);
+  if (newLine) args[0] = String(args[0]).substring(1);
 
   originalConsoleLog(
     `${newLine ? "\n" : ""}${new Date().toLocaleString()}:`,
@@ -53,7 +51,9 @@ convertDicts()
           },
         }),
       )
-        .then(() => console.log("\nAudio generated"))
+        .then(() => {
+          console.log("\nAudio generated");
+        })
         .catch((err: any) => {
           throw err;
         });

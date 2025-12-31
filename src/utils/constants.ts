@@ -1,6 +1,5 @@
 import path from "path";
 
-import { NoteTypes, SubDeckNames } from "./utils";
 import {
   DictKanji,
   DictWord,
@@ -13,6 +12,7 @@ import {
   WordExamplesMap,
   WordIDEntryMap,
 } from "henkan";
+import { NoteTypes, SubDeckNames } from "./utils";
 
 export const deckName: string =
   "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]";

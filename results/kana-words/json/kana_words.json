@@ -3174,6 +3174,10 @@
 			{
 				"definition": "言動などが滑らかでない。",
 				"furigana": "<ruby>言動<rp>(</rp><rt>げんどう</rt><rp>)</rp></ruby>などが<ruby>滑<rp>(</rp><rt>なめ</rt><rp>)</rp></ruby>らかでない。"
+			},
+			{
+				"definition": "「ぎこちない」の表記ゆれ。",
+				"furigana": "「ぎこちない」の<ruby>表記<rp>(</rp><rt>ひょうき</rt><rp>)</rp></ruby>ゆれ。"
 			}
 		]
 	},
@@ -3672,7 +3676,7 @@
 			},
 			{
 				"definition": "死ぬ。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ぬ。"
 			}
 		]
@@ -5448,11 +5452,11 @@
 		"definitions": [
 			{
 				"definition": "（使役）勧めたり命じたりして行う・従うようにする。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			},
 			{
 				"definition": "（許可・放任）そのようにすることを許す、あるいは、そのままにして置く。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			}
 		]
 	},
@@ -6910,24 +6914,18 @@
 		"id": "1006350",
 		"readings": [
 			{
+				"reading": "ズケズケ"
+			},
+			{
 				"reading": "ずけずけ"
-			},
-			{
-				"reading": "つけつけ"
-			},
-			{
-				"reading": "づけづけ",
-				"notes": [
-					"Out-dated or obsolete kana usage"
-				]
 			}
 		],
 		"translations": [
 			{
-				"translation": "(speak) bluntly; frankly",
+				"translation": "(speaking) bluntly; frankly; straightforwardly; openly; directly; unhesitantingly; without reserve; outspokenly",
 				"notes": [
-					"Adverb taking the 'と' particle",
 					"Adverb",
+					"Adverb taking the 'と' particle",
 					"Onomatopoeic or mimetic word"
 				]
 			}
@@ -6936,9 +6934,8 @@
 		"noteTypeName": "Word",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::4. Vocab with no kanji (mining/reference)",
 		"tags": [
-			"word::out-dated_or_obsolete_kana",
-			"word::takes::to",
 			"word::adverb",
+			"word::takes::to",
 			"word::onomatopoeic_or_mimetic",
 			"word::has_phrases"
 		],
@@ -7050,7 +7047,7 @@
 			},
 			{
 				"definition": "叱る。責める。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>叱<rp>(</rp><rt>しか</rt><rp>)</rp></ruby>る。<ruby>責<rp>(</rp><rt>せ</rt><rp>)</rp></ruby>める。"
 			}
 		]
@@ -8843,6 +8840,64 @@
 				"phrase": "<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>はちんちんをやめて<ruby>四<rp>(</rp><rt>よっ</rt><rp>)</rp></ruby>つ<ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>に<ruby>戻<rp>(</rp><rt>もど</rt><rp>)</rp></ruby>った。",
 				"translation": "The dog stopped begging and went back on all fours.",
 				"originalPhrase": "犬はちんちんをやめて四つ足に戻った。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "（幼児語）陰茎。",
+				"furigana": "（<ruby>幼児<rp>(</rp><rt>ようじ</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>）<ruby>陰茎<rp>(</rp><rt>いんけい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "犬が後ろ足のみで立つ芸。",
+				"furigana": "<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>が<ruby>後<rp>(</rp><rt>うし</rt><rp>)</rp></ruby>ろ<ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>のみで<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>つ<ruby>芸<rp>(</rp><rt>げい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "ちんちんかもかもの略。",
+				"furigana": "ちんちんかもかもの<ruby>略<rp>(</rp><rt>りゃく</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "ちんちんもがもがの略。片足跳び。けんけん。",
+				"furigana": "ちんちんもがもがの<ruby>略<rp>(</rp><rt>りゃく</rt><rp>)</rp></ruby>。<ruby>片足<rp>(</rp><rt>かたあし</rt><rp>)</rp></ruby><ruby>跳<rp>(</rp><rt>と</rt><rp>)</rp></ruby>び。けんけん。"
+			},
+			{
+				"definition": "嫉妬。",
+				"furigana": "<ruby>嫉妬<rp>(</rp><rt>しっと</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "守備陣を翻弄すること。守備陣が翻弄されること。",
+				"furigana": "<ruby>守備<rp>(</rp><rt>しゅび</rt><rp>)</rp></ruby><ruby>陣<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>を<ruby>翻弄<rp>(</rp><rt>ほんろう</rt><rp>)</rp></ruby>すること。<ruby>守備<rp>(</rp><rt>しゅび</rt><rp>)</rp></ruby><ruby>陣<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>が<ruby>翻弄<rp>(</rp><rt>ほんろう</rt><rp>)</rp></ruby>されること。"
+			},
+			{
+				"definition": "沸騰して熱くなっていること。",
+				"furigana": "<ruby>沸騰<rp>(</rp><rt>ふっとう</rt><rp>)</rp></ruby>して<ruby>熱<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>くなっていること。"
+			},
+			{
+				"definition": "正座。",
+				"furigana": "<ruby>正座<rp>(</rp><rt>せいざ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "なかよし。",
+				"furigana": "なかよし。"
+			},
+			{
+				"definition": "金属製のものを叩いた時に出る高い音を表す語。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>金属<rp>(</rp><rt>きんぞく</rt><rp>)</rp></ruby><ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>のものを<ruby>叩<rp>(</rp><rt>たた</rt><rp>)</rp></ruby>いた<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>に<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>る<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>い<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す<ruby>語<rp>(</rp><rt>かたり</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "鉄瓶などの湯がわくさま。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>鉄瓶<rp>(</rp><rt>てつびん</rt><rp>)</rp></ruby>などの<ruby>湯<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>がわくさま。"
+			},
+			{
+				"definition": "手などがかじかむさま。肌を刺すように寒さを感じるさま。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>などがかじかむさま。<ruby>肌<rp>(</rp><rt>はだ</rt><rp>)</rp></ruby>を<ruby>刺<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>すように<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>さを<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じるさま。"
+			},
+			{
+				"definition": "「沈沈」 参照",
+				"mayNotBeAccurate": 2,
+				"furigana": "「<ruby>沈沈<rp>(</rp><rt>ちんちん</rt><rp>)</rp></ruby>」 <ruby>参照<rp>(</rp><rt>さんしょう</rt><rp>)</rp></ruby>"
 			}
 		]
 	},
@@ -11159,6 +11214,10 @@
 			{
 				"definition": "隠しごとが他人に知られてしまう。秘密が露見する。",
 				"furigana": "<ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>しごとが<ruby>他人<rp>(</rp><rt>たにん</rt><rp>)</rp></ruby>に<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られてしまう。<ruby>秘密<rp>(</rp><rt>ひみつ</rt><rp>)</rp></ruby>が<ruby>露見<rp>(</rp><rt>ろけん</rt><rp>)</rp></ruby>する。"
+			},
+			{
+				"definition": "（釣り）釣り針に掛かった魚が逃げる。魚に逃げられる。",
+				"furigana": "（<ruby>釣<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>り）<ruby>釣<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>り<ruby>針<rp>(</rp><rt>ばり</rt><rp>)</rp></ruby>に<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>かった<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>が<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げる。<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>に<ruby>逃<rp>(</rp><rt>に</rt><rp>)</rp></ruby>げられる。"
 			}
 		]
 	},
@@ -12852,7 +12911,7 @@
 			},
 			{
 				"definition": "当てもなく歩き回る。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>てもなく<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>き<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>る。"
 			}
 		]
@@ -15764,7 +15823,21 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "建築学。",
+				"furigana": "<ruby>建築<rp>(</rp><rt>けんちく</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "建築の様式。構造。",
+				"furigana": "<ruby>建築<rp>(</rp><rt>けんちく</rt><rp>)</rp></ruby>の<ruby>様式<rp>(</rp><rt>ようしき</rt><rp>)</rp></ruby>。<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "コンピューターシステムの基本的な設計の構造。",
+				"furigana": "コンピューターシステムの<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>設計<rp>(</rp><rt>せっけい</rt><rp>)</rp></ruby>の<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1013450",
@@ -17376,7 +17449,17 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "マメ科アカシア族の常緑樹の総称。オーストラリアによく生えている",
+				"furigana": "マメ<ruby>科<rp>(</rp><rt>か</rt><rp>)</rp></ruby>アカシア<ruby>族<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>の<ruby>常緑樹<rp>(</rp><rt>じょうりょくじゅ</rt><rp>)</rp></ruby>の<ruby>総称<rp>(</rp><rt>そうしょう</rt><rp>)</rp></ruby>。オーストラリアによく<ruby>生<rp>(</rp><rt>は</rt><rp>)</rp></ruby>えている"
+			},
+			{
+				"definition": "ハリエンジュの別称。",
+				"furigana": "ハリエンジュの<ruby>別称<rp>(</rp><rt>べっしょう</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1014990",
@@ -18836,7 +18919,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "硬くて箱型をしたブリーフケース。",
+				"furigana": "<ruby>硬<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>くて<ruby>箱<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>をしたブリーフケース。"
+			}
+		]
 	},
 	{
 		"id": "1016440",
@@ -19597,7 +19686,21 @@
 			"word::common_noun",
 			"word::sports"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "反則を受けたチームが有利となる時に罰則を適用しないこと。",
+				"furigana": "<ruby>反則<rp>(</rp><rt>はんそく</rt><rp>)</rp></ruby>を<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けたチームが<ruby>有利<rp>(</rp><rt>ゆうり</rt><rp>)</rp></ruby>となる<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>に<ruby>罰則<rp>(</rp><rt>ばっそく</rt><rp>)</rp></ruby>を<ruby>適用<rp>(</rp><rt>てきよう</rt><rp>)</rp></ruby>しないこと。"
+			},
+			{
+				"definition": "硬式テニスで、デュース後に、いずれかが一点を得ること。",
+				"furigana": "<ruby>硬式<rp>(</rp><rt>こうしき</rt><rp>)</rp></ruby>テニスで、デュース<ruby>後<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>に、いずれかが<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>点<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>を<ruby>得<rp>(</rp><rt>え</rt><rp>)</rp></ruby>ること。"
+			},
+			{
+				"definition": "優位性。",
+				"furigana": "<ruby>優位<rp>(</rp><rt>ゆうい</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1017150",
@@ -20377,6 +20480,20 @@
 					"glossNumber": 4
 				}
 			}
+		],
+		"definitions": [
+			{
+				"definition": "人々の心に訴えること。",
+				"furigana": "<ruby>人々<rp>(</rp><rt>ひとびと</rt><rp>)</rp></ruby>の<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>に<ruby>訴<rp>(</rp><rt>うった</rt><rp>)</rp></ruby>えること。"
+			},
+			{
+				"definition": "審判の判定に異議を申し立てること。",
+				"furigana": "<ruby>審判<rp>(</rp><rt>しんぱん</rt><rp>)</rp></ruby>の<ruby>判定<rp>(</rp><rt>はんてい</rt><rp>)</rp></ruby>に<ruby>異議<rp>(</rp><rt>いぎ</rt><rp>)</rp></ruby>を<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てること。"
+			},
+			{
+				"definition": "魅力、人を惹きつける力。",
+				"furigana": "<ruby>魅力<rp>(</rp><rt>みりょく</rt><rp>)</rp></ruby>、<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>を<ruby>惹<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>きつける<ruby>力<rp>(</rp><rt>ちから</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -20778,7 +20895,21 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "大通り。",
+				"furigana": "<ruby>大通<rp>(</rp><rt>おおどお</rt><rp>)</rp></ruby>り。"
+			},
+			{
+				"definition": "並木道。",
+				"furigana": "<ruby>並木道<rp>(</rp><rt>なみきみち</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "南北に走る大通り。",
+				"furigana": "<ruby>南北<rp>(</rp><rt>なんぼく</rt><rp>)</rp></ruby>に<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>る<ruby>大通<rp>(</rp><rt>おおどお</rt><rp>)</rp></ruby>り。"
+			}
+		]
 	},
 	{
 		"id": "1018330",
@@ -21170,7 +21301,17 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "アメーボゾアツブリナ綱ツブリナ目アメーバ科アメーバ属に分類される原生生物の一群。単細胞であり、鞭毛や繊毛を持たず、仮足で移動する。寄生するものもありアメーバ赤痢などを引き起こす。",
+				"furigana": "アメーボゾアツブリナ<ruby>綱<rp>(</rp><rt>つな</rt><rp>)</rp></ruby>ツブリナ<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>アメーバ<ruby>科<rp>(</rp><rt>か</rt><rp>)</rp></ruby>アメーバ<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>に<ruby>分類<rp>(</rp><rt>ぶんるい</rt><rp>)</rp></ruby>される<ruby>原生<rp>(</rp><rt>げんせい</rt><rp>)</rp></ruby><ruby>生物<rp>(</rp><rt>せいぶつ</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>群<rp>(</rp><rt>ぐん</rt><rp>)</rp></ruby>。<ruby>単細胞<rp>(</rp><rt>たんさいぼう</rt><rp>)</rp></ruby>であり、<ruby>鞭<rp>(</rp><rt>むち</rt><rp>)</rp></ruby><ruby>毛<rp>(</rp><rt>け</rt><rp>)</rp></ruby>や<ruby>繊毛<rp>(</rp><rt>せんもう</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>たず、<ruby>仮<rp>(</rp><rt>かり</rt><rp>)</rp></ruby><ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>で<ruby>移動<rp>(</rp><rt>いどう</rt><rp>)</rp></ruby>する。<ruby>寄生<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>するものもありアメーバ<ruby>赤痢<rp>(</rp><rt>せきり</rt><rp>)</rp></ruby>などを<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>き<ruby>起<rp>(</rp><rt>お</rt><rp>)</rp></ruby>こす。"
+			},
+			{
+				"definition": "1の分類に限らず、アメーバ様生物の総称。",
+				"furigana": "1の<ruby>分類<rp>(</rp><rt>ぶんるい</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>らず、アメーバ<ruby>様<rp>(</rp><rt>さま</rt><rp>)</rp></ruby><ruby>生物<rp>(</rp><rt>せいぶつ</rt><rp>)</rp></ruby>の<ruby>総称<rp>(</rp><rt>そうしょう</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1018750",
@@ -21421,7 +21562,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "全知全能の唯一神。",
+				"furigana": "<ruby>全知全能<rp>(</rp><rt>ぜんちぜんのう</rt><rp>)</rp></ruby>の<ruby>唯一<rp>(</rp><rt>ゆいいつ</rt><rp>)</rp></ruby><ruby>神<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1018990",
@@ -23760,7 +23907,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "トルコ（トルコ共和国）の都市。",
+				"furigana": "トルコ（トルコ<ruby>共和<rp>(</rp><rt>きょうわ</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>）の<ruby>都市<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1021310",
@@ -23815,6 +23968,20 @@
 				"phrase": "イスラム<ruby>系<rp>(</rp><rt>けい</rt><rp>)</rp></ruby><ruby>共和<rp>(</rp><rt>きょうわ</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>が<ruby>独立<rp>(</rp><rt>どくりつ</rt><rp>)</rp></ruby><ruby>国家<rp>(</rp><rt>こっか</rt><rp>)</rp></ruby><ruby>共同<rp>(</rp><rt>きょうどう</rt><rp>)</rp></ruby><ruby>体<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>に<ruby>参加<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>しない<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>、それらの<ruby>国々<rp>(</rp><rt>くにぐに</rt><rp>)</rp></ruby>は<ruby>独自<rp>(</rp><rt>どくじ</rt><rp>)</rp></ruby>の<ruby>勢力<rp>(</rp><rt>せいりょく</rt><rp>)</rp></ruby>を<ruby>形成<rp>(</rp><rt>けいせい</rt><rp>)</rp></ruby>し、<ruby>一触即発<rp>(</rp><rt>いっしょくそくはつ</rt><rp>)</rp></ruby>の<ruby>民族<rp>(</rp><rt>みんぞく</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>、<ruby>宗教<rp>(</rp><rt>しゅうきょう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>亀裂<rp>(</rp><rt>きれつ</rt><rp>)</rp></ruby>を<ruby>生<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>じかねない、とソ<ruby>連<rp>(</rp><rt>れん</rt><rp>)</rp></ruby>、<ruby>西側<rp>(</rp><rt>にしがわ</rt><rp>)</rp></ruby>の<ruby>消息筋<rp>(</rp><rt>しょうそくすじ</rt><rp>)</rp></ruby>は<ruby>警告<rp>(</rp><rt>けいこく</rt><rp>)</rp></ruby>しています。",
 				"translation": "Soviet and Western observers have warned that if the Muslim republics do not join the commonwealth, they may from a separate group, setting up a volatile ethnic and religious split.",
 				"originalPhrase": "イスラム系共和国が独立国家共同体に参加しない場合、それらの国々は独自の勢力を形成し、一触即発の民族的、宗教的な亀裂を生じかねない、とソ連、西側の消息筋は警告しています。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "「イスラーム」に同じ。",
+				"furigana": "「イスラーム」に<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ。"
+			},
+			{
+				"definition": "イスラム教が基本原理となっている文明。",
+				"furigana": "イスラム<ruby>教<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>が<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>原理<rp>(</rp><rt>げんり</rt><rp>)</rp></ruby>となっている<ruby>文明<rp>(</rp><rt>ぶんめい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "イスラム教の略。",
+				"furigana": "イスラム<ruby>教<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby>略<rp>(</rp><rt>りゃく</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -24059,7 +24226,7 @@
 		"definitions": [
 			{
 				"definition": "頭文字。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>頭文字<rp>(</rp><rt>かしらもじ</rt><rp>)</rp></ruby>。"
 			}
 		]
@@ -25572,6 +25739,20 @@
 				"translation": "John claimed that the dishonest salesman had tricked him into buying a useless piece of machinery.",
 				"originalPhrase": "インチキなセールスマンに騙されて、役立たずの機械を買わされたとジョンは主張した。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "賭け事等での不正。いかさま。ずる。",
+				"furigana": "<ruby>賭<rp>(</rp><rt>か</rt><rp>)</rp></ruby>け<ruby>事<rp>(</rp><rt>ごと</rt><rp>)</rp></ruby><ruby>等<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>での<ruby>不正<rp>(</rp><rt>ふせい</rt><rp>)</rp></ruby>。いかさま。ずる。"
+			},
+			{
+				"definition": "にせもの（偽物、贋物）。まがいもの。",
+				"furigana": "にせもの（<ruby>偽物<rp>(</rp><rt>にせもの</rt><rp>)</rp></ruby>、<ruby>贋物<rp>(</rp><rt>にせもの</rt><rp>)</rp></ruby>）。まがいもの。"
+			},
+			{
+				"definition": "まやかしやごまかしの多いさま。でたらめであるさま。",
+				"furigana": "まやかしやごまかしの<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>いさま。でたらめであるさま。"
+			}
 		]
 	},
 	{
@@ -26493,7 +26674,19 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "弱いこと。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>いこと。"
+			},
+			{
+				"definition": "週間。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>週間<rp>(</rp><rt>しゅうかん</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1025040",
@@ -27091,6 +27284,12 @@
 				"phrase": "「あなたを<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>しているのよ」と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>わんばかりに<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>にウィンクした。",
 				"translation": "She winked at me, as much as to say, I love you.",
 				"originalPhrase": "「あなたを愛しているのよ」と言わんばかりに彼女は僕にウィンクした。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "片目で瞬きをする合図。",
+				"furigana": "<ruby>片目<rp>(</rp><rt>かため</rt><rp>)</rp></ruby>で<ruby>瞬<rp>(</rp><rt>まばた</rt><rp>)</rp></ruby>きをする<ruby>合図<rp>(</rp><rt>あいず</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -28212,6 +28411,12 @@
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>らはウォッカをまぜたオレンジジュースのグラスを<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>に<ruby>与<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>えた。",
 				"translation": "They gave him a glass of orange juice laced with vodka.",
 				"originalPhrase": "彼らはウォッカをまぜたオレンジジュースのグラスを彼に与えた。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "ロシアで生産される蒸留酒の一種。小麦、ライ麦などを原料とし、アルコール度数が高い。",
+				"furigana": "ロシアで<ruby>生産<rp>(</rp><rt>せいさん</rt><rp>)</rp></ruby>される<ruby>蒸留<rp>(</rp><rt>じょうりゅう</rt><rp>)</rp></ruby><ruby>酒<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>の<ruby>一種<rp>(</rp><rt>いっしゅ</rt><rp>)</rp></ruby>。<ruby>小麦<rp>(</rp><rt>こむぎ</rt><rp>)</rp></ruby>、ライ<ruby>麦<rp>(</rp><rt>むぎ</rt><rp>)</rp></ruby>などを<ruby>原料<rp>(</rp><rt>げんりょう</rt><rp>)</rp></ruby>とし、アルコール<ruby>度数<rp>(</rp><rt>どすう</rt><rp>)</rp></ruby>が<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>い。"
 			}
 		]
 	},
@@ -31170,7 +31375,17 @@
 			"word::computing",
 			"word::abbreviation"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "編集者、主筆。",
+				"furigana": "<ruby>編集<rp>(</rp><rt>へんしゅう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>、<ruby>主筆<rp>(</rp><rt>しゅひつ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "編集機。文書編集ソフトウェア。",
+				"furigana": "<ruby>編集<rp>(</rp><rt>へんしゅう</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>。<ruby>文書<rp>(</rp><rt>ぶんしょ</rt><rp>)</rp></ruby><ruby>編集<rp>(</rp><rt>へんしゅう</rt><rp>)</rp></ruby>ソフトウェア。"
+			}
+		]
 	},
 	{
 		"id": "1029260",
@@ -32300,7 +32515,17 @@
 			"word::philosophy",
 			"word::astronomy"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "性愛。",
+				"furigana": "<ruby>性愛<rp>(</rp><rt>せいあい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "神のような完璧な存在を目指し、精神を上昇させていこうと努力することにより実現される愛。",
+				"furigana": "<ruby>神<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>のような<ruby>完璧<rp>(</rp><rt>かんぺき</rt><rp>)</rp></ruby>な<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>を<ruby>目指<rp>(</rp><rt>めざ</rt><rp>)</rp></ruby>し、<ruby>精神<rp>(</rp><rt>せいしん</rt><rp>)</rp></ruby>を<ruby>上昇<rp>(</rp><rt>じょうしょう</rt><rp>)</rp></ruby>させていこうと<ruby>努力<rp>(</rp><rt>どりょく</rt><rp>)</rp></ruby>することにより<ruby>実現<rp>(</rp><rt>じつげん</rt><rp>)</rp></ruby>される<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1030780",
@@ -32328,7 +32553,13 @@
 			"word::common",
 			"word::na-adjective"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "性的な関心をそそるさま。色っぽい。",
+				"furigana": "<ruby>性的<rp>(</rp><rt>せいてき</rt><rp>)</rp></ruby>な<ruby>関心<rp>(</rp><rt>かんしん</rt><rp>)</rp></ruby>をそそるさま。<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>っぽい。"
+			}
+		]
 	},
 	{
 		"id": "1030800",
@@ -34770,7 +35001,17 @@
 			"word::common_noun",
 			"word::music"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "音楽で内包する半音が12である8度音程。完全8度。音波の振動数が1:2となるような2音間の関係。",
+				"furigana": "<ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp></ruby>で<ruby>内包<rp>(</rp><rt>ないほう</rt><rp>)</rp></ruby>する<ruby>半音<rp>(</rp><rt>はんおん</rt><rp>)</rp></ruby>が12である8<ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby><ruby>音程<rp>(</rp><rt>おんてい</rt><rp>)</rp></ruby>。<ruby>完全<rp>(</rp><rt>かんぜん</rt><rp>)</rp></ruby>8<ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>。<ruby>音波<rp>(</rp><rt>おんぱ</rt><rp>)</rp></ruby>の<ruby>振動<rp>(</rp><rt>しんどう</rt><rp>)</rp></ruby><ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby>が1:2となるような2<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>の<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "8度。",
+				"furigana": "8<ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1034270",
@@ -37467,6 +37708,28 @@
 				"phrase": "<ruby>日本航空<rp>(</rp><rt>にほんこうくう</rt><rp>)</rp></ruby>のカウンターはどこですか。",
 				"translation": "Where is the Japan Airlines counter?",
 				"originalPhrase": "日本航空のカウンターはどこですか。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "物の数や回数を数える装置。計算器。",
+				"furigana": "<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>の<ruby>数<rp>(</rp><rt>かず</rt><rp>)</rp></ruby>や<ruby>回数<rp>(</rp><rt>かいすう</rt><rp>)</rp></ruby>を<ruby>数<rp>(</rp><rt>かぞ</rt><rp>)</rp></ruby>える<ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>。<ruby>計算<rp>(</rp><rt>けいさん</rt><rp>)</rp></ruby><ruby>器<rp>(</rp><rt>き</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "銀行などで、従業員と客の間を仕切る細長い台で、従業員が客に応対する場となるもの。",
+				"furigana": "<ruby>銀行<rp>(</rp><rt>ぎんこう</rt><rp>)</rp></ruby>などで、<ruby>従業<rp>(</rp><rt>じゅうぎょう</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>と<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>の<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>を<ruby>仕切<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>る<ruby>細長<rp>(</rp><rt>ほそなが</rt><rp>)</rp></ruby>い<ruby>台<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>で、<ruby>従業<rp>(</rp><rt>じゅうぎょう</rt><rp>)</rp></ruby><ruby>員<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>が<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>に<ruby>応対<rp>(</rp><rt>おうたい</rt><rp>)</rp></ruby>する<ruby>場<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>となるもの。"
+			},
+			{
+				"definition": "飲食店などで、調理場と客席の間を仕切る細長いテーブルで、客が飲食するために用いるもの。",
+				"furigana": "<ruby>飲食<rp>(</rp><rt>いんしょく</rt><rp>)</rp></ruby><ruby>店<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>などで、<ruby>調理場<rp>(</rp><rt>ちょうりば</rt><rp>)</rp></ruby>と<ruby>客席<rp>(</rp><rt>きゃくせき</rt><rp>)</rp></ruby>の<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>を<ruby>仕切<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>る<ruby>細長<rp>(</rp><rt>ほそなが</rt><rp>)</rp></ruby>いテーブルで、<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>が<ruby>飲食<rp>(</rp><rt>いんしょく</rt><rp>)</rp></ruby>するために<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いるもの。"
+			},
+			{
+				"definition": "カウンターパンチ、カウンターブロー、カウンターアタックの略。",
+				"furigana": "カウンターパンチ、カウンターブロー、カウンターアタックの<ruby>略<rp>(</rp><rt>りゃく</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "「ノーマル→フィンガーレスリバース」のコンボ。",
+				"furigana": "「ノーマル→フィンガーレスリバース」のコンボ。"
 			}
 		]
 	},
@@ -41548,6 +41811,11 @@
 				"translation": "I never see her without wanting to kiss her.",
 				"originalPhrase": "会えば必ずキスしたくなる。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "愛情表現として、相手の唇・頬・手などに自分の唇をつけること。くちづけ。接吻。"
+			}
 		]
 	},
 	{
@@ -42682,6 +42950,12 @@
 				"translation": "Can I have seconds on rice and cabbage?",
 				"originalPhrase": "ライスとキャベツをお代わりお願いします。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "アブラナ科の植物で、甘藍（かんらん）、玉菜（たまな）とも呼ばれる結球型の野菜。",
+				"furigana": "アブラナ<ruby>科<rp>(</rp><rt>か</rt><rp>)</rp></ruby>の<ruby>植物<rp>(</rp><rt>しょくぶつ</rt><rp>)</rp></ruby>で、<ruby>甘藍<rp>(</rp><rt>かんらん</rt><rp>)</rp></ruby>（かんらん）、<ruby>玉菜<rp>(</rp><rt>たまな</rt><rp>)</rp></ruby>（たまな）とも<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれる<ruby>結球<rp>(</rp><rt>けっきゅう</rt><rp>)</rp></ruby><ruby>型<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>の<ruby>野菜<rp>(</rp><rt>やさい</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -43741,6 +44015,19 @@
 				"translation": "When I speak to a Westerner, I have to shift mental gears, so to speak.",
 				"originalPhrase": "西洋人と話をするとき、私はいわば頭の中のギヤを入れ換えなければならない。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "歯車。",
+				"furigana": "<ruby>歯車<rp>(</rp><rt>はぐるま</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "歯車式の変速装置・伝動装置。"
+			},
+			{
+				"definition": "（複合語で）道具、用具。",
+				"furigana": "（<ruby>複合語<rp>(</rp><rt>ふくごうご</rt><rp>)</rp></ruby>で）<ruby>道具<rp>(</rp><rt>どうぐ</rt><rp>)</rp></ruby>、<ruby>用具<rp>(</rp><rt>ようぐ</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -44176,7 +44463,17 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "青少年。男の子。",
+				"furigana": "<ruby>青少年<rp>(</rp><rt>せいしょうねん</rt><rp>)</rp></ruby>。<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "男の給仕。",
+				"furigana": "<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>給仕<rp>(</rp><rt>きゅうじ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1043130",
@@ -44641,7 +44938,21 @@
 			"word::common_noun",
 			"word::card_games"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "一般に、女王。",
+				"furigana": "<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby>に、<ruby>女王<rp>(</rp><rt>じょおう</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "トランプのQに当たるカード。数価は十二。",
+				"furigana": "トランプのQに<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たるカード。<ruby>数<rp>(</rp><rt>すう</rt><rp>)</rp></ruby><ruby>価<rp>(</rp><rt>か</rt><rp>)</rp></ruby>は<ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "チェスの駒の一つ。将棋の角行と飛車を組み合わせたような動きをする（付録:チェスの駒を参照）。",
+				"furigana": "チェスの<ruby>駒<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ。<ruby>将棋<rp>(</rp><rt>しょうぎ</rt><rp>)</rp></ruby>の<ruby>角行<rp>(</rp><rt>かっこう</rt><rp>)</rp></ruby>と<ruby>飛車<rp>(</rp><rt>ひしゃ</rt><rp>)</rp></ruby>を<ruby>組<rp>(</rp><rt>く</rt><rp>)</rp></ruby>み<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わせたような<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>きをする（<ruby>付録<rp>(</rp><rt>ふろく</rt><rp>)</rp></ruby>:チェスの<ruby>駒<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>を<ruby>参照<rp>(</rp><rt>さんしょう</rt><rp>)</rp></ruby>）。"
+			}
+		]
 	},
 	{
 		"id": "1043450",
@@ -44927,7 +45238,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "質、品質。",
+				"furigana": "<ruby>質<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby>、<ruby>品質<rp>(</rp><rt>ひんしつ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1043760",
@@ -47045,6 +47362,12 @@
 				"translation": "Then the wild beasts start wanting to go crazy.",
 				"originalPhrase": "それから野獣がクレイジーになりたがり始める。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "狂気の。正気とは思えない。",
+				"furigana": "<ruby>狂気<rp>(</rp><rt>きょうき</rt><rp>)</rp></ruby>の。<ruby>正気<rp>(</rp><rt>しょうき</rt><rp>)</rp></ruby>とは<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>えない。"
+			}
 		]
 	},
 	{
@@ -47119,7 +47442,10 @@
 				"common": true
 			},
 			{
-				"reading": "クレイム"
+				"reading": "クレイム",
+				"notes": [
+					"Search-only kana form"
+				]
 			}
 		],
 		"translations": [
@@ -47141,6 +47467,7 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::4. Vocab with no kanji (mining/reference)",
 		"tags": [
 			"word::common",
+			"word::search-only_kana_form",
 			"word::common_noun"
 		],
 		"common": true
@@ -50585,7 +50912,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "螺旋状の針金をコルク栓に捩じ込んで開ける栓抜き。",
+				"furigana": "<ruby>螺旋<rp>(</rp><rt>らせん</rt><rp>)</rp></ruby><ruby>状<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>の<ruby>針金<rp>(</rp><rt>はりがね</rt><rp>)</rp></ruby>をコルク<ruby>栓<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>に<ruby>捩<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>じ<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んで<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ける<ruby>栓<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>き。"
+			}
+		]
 	},
 	{
 		"id": "1048860",
@@ -54328,7 +54661,17 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "容器。",
+				"furigana": "<ruby>容器<rp>(</rp><rt>ようき</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "貨物輸送に使用される金属製の大型の容器。",
+				"furigana": "<ruby>貨物<rp>(</rp><rt>かもつ</rt><rp>)</rp></ruby><ruby>輸送<rp>(</rp><rt>ゆそう</rt><rp>)</rp></ruby>に<ruby>使用<rp>(</rp><rt>しよう</rt><rp>)</rp></ruby>される<ruby>金属<rp>(</rp><rt>きんぞく</rt><rp>)</rp></ruby><ruby>製<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>の<ruby>大型<rp>(</rp><rt>おおがた</rt><rp>)</rp></ruby>の<ruby>容器<rp>(</rp><rt>ようき</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1052660",
@@ -63335,7 +63678,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "第一次世界大戦後のフランスでおきた芸術運動。超現実主義。",
+				"furigana": "<ruby>第<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>次<rp>(</rp><rt>じ</rt><rp>)</rp></ruby><ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby><ruby>大戦<rp>(</rp><rt>たいせん</rt><rp>)</rp></ruby><ruby>後<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>のフランスでおきた<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby><ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>。<ruby>超<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>現実<rp>(</rp><rt>げんじつ</rt><rp>)</rp></ruby><ruby>主義<rp>(</rp><rt>しゅぎ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1062040",
@@ -63559,6 +63908,12 @@
 				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>がまさにその<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>を<ruby>去<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>ろうとしたとき、ショーウィンドーの<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しいドレスが<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>った。",
 				"translation": "Just as she was about to leave the store, she saw a beautiful dress in the window.",
 				"originalPhrase": "彼女がまさにその店を去ろうとしたとき、ショーウィンドーの美しいドレスが目に入った。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "小売店で商品を陳列し外側から見られるようにした窓。陳列窓。",
+				"furigana": "<ruby>小売<rp>(</rp><rt>こうり</rt><rp>)</rp></ruby><ruby>店<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>で<ruby>商品<rp>(</rp><rt>しょうひん</rt><rp>)</rp></ruby>を<ruby>陳列<rp>(</rp><rt>ちんれつ</rt><rp>)</rp></ruby>し<ruby>外側<rp>(</rp><rt>そとがわ</rt><rp>)</rp></ruby>から<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>られるようにした<ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>。<ruby>陳列<rp>(</rp><rt>ちんれつ</rt><rp>)</rp></ruby><ruby>窓<rp>(</rp><rt>まど</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -66022,6 +66377,16 @@
 				"translation": "And of course, a speaker usually communicates in two ways, orally as well as through gestures.",
 				"originalPhrase": "それに、もちろん、話をする人は、普通言葉の他にジェスチャーという、２つの方法によって意志の伝達をしているのである。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "身振り。手振り。",
+				"furigana": "<ruby>身振<rp>(</rp><rt>みぶ</rt><rp>)</rp></ruby>り。<ruby>手振<rp>(</rp><rt>てぶ</rt><rp>)</rp></ruby>り。"
+			},
+			{
+				"definition": "素振り。見せかけ。",
+				"furigana": "<ruby>素振<rp>(</rp><rt>そぶ</rt><rp>)</rp></ruby>り。<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せかけ。"
+			}
 		]
 	},
 	{
@@ -66086,7 +66451,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "世代。その世代に属する人たち。",
+				"furigana": "<ruby>世代<rp>(</rp><rt>せだい</rt><rp>)</rp></ruby>。その<ruby>世代<rp>(</rp><rt>せだい</rt><rp>)</rp></ruby>に<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>する<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>たち。"
+			}
+		]
 	},
 	{
 		"id": "1064410",
@@ -68556,7 +68927,33 @@
 			"word::na-adjective",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ホテルで寝室・居間・浴室ひと揃いの部屋。スイートルーム。",
+				"mayNotBeAccurate": 1
+			},
+			{
+				"definition": "甘いこと。甘美なこと。快いこと。またそのさま。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>いこと。<ruby>甘美<rp>(</rp><rt>かんび</rt><rp>)</rp></ruby>なこと。<ruby>快<rp>(</rp><rt>こころよ</rt><rp>)</rp></ruby>いこと。またそのさま。"
+			},
+			{
+				"definition": "ひと組。ひと揃い。",
+				"mayNotBeAccurate": 2,
+				"furigana": "ひと<ruby>組<rp>(</rp><rt>くみ</rt><rp>)</rp></ruby>。ひと<ruby>揃<rp>(</rp><rt>そろ</rt><rp>)</rp></ruby>い。"
+			},
+			{
+				"definition": "複数のソフトウェアをひと揃いとしてまとめたもの。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>のソフトウェアをひと<ruby>揃<rp>(</rp><rt>そろ</rt><rp>)</rp></ruby>いとしてまとめたもの。"
+			},
+			{
+				"definition": "汗。スウェット。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>汗<rp>(</rp><rt>あせ</rt><rp>)</rp></ruby>。スウェット。"
+			}
+		]
 	},
 	{
 		"id": "1067160",
@@ -68813,6 +69210,28 @@
 					"wordId": "1067330",
 					"glossNumber": 1
 				}
+			}
+		],
+		"definitions": [
+			{
+				"definition": "振り動かすこと。",
+				"furigana": "<ruby>振<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>り<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>かすこと。"
+			},
+			{
+				"definition": "打者がバットを振ること。",
+				"furigana": "<ruby>打者<rp>(</rp><rt>だしゃ</rt><rp>)</rp></ruby>がバットを<ruby>振<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ること。"
+			},
+			{
+				"definition": "クラブを振ること。",
+				"furigana": "クラブを<ruby>振<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>ること。"
+			},
+			{
+				"definition": "ジャズ特有の躍動的な調子やリズム感。",
+				"furigana": "ジャズ<ruby>特有<rp>(</rp><rt>とくゆう</rt><rp>)</rp></ruby>の<ruby>躍動<rp>(</rp><rt>やくどう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>やリズム<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "旋盤で切削できる最大直径。",
+				"furigana": "<ruby>旋盤<rp>(</rp><rt>せんばん</rt><rp>)</rp></ruby>で<ruby>切削<rp>(</rp><rt>せっさく</rt><rp>)</rp></ruby>できる<ruby>最大<rp>(</rp><rt>さいだい</rt><rp>)</rp></ruby><ruby>直径<rp>(</rp><rt>ちょっけい</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -69122,7 +69541,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "奨学金。",
+				"furigana": "<ruby>奨学<rp>(</rp><rt>しょうがく</rt><rp>)</rp></ruby><ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1067710",
@@ -74894,6 +75319,12 @@
 				"translation": "With most of the arts, if you don't get the basics down properly then it is difficult to acquire further skills.",
 				"originalPhrase": "大抵の学芸は、最初に基礎をしっかりやっておかないと、その先スムーズに身に付けることができません。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "滑らか、流暢、円滑。",
+				"furigana": "<ruby>滑<rp>(</rp><rt>なめ</rt><rp>)</rp></ruby>らか、<ruby>流暢<rp>(</rp><rt>りゅうちょう</rt><rp>)</rp></ruby>、<ruby>円滑<rp>(</rp><rt>えんかつ</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -75898,7 +76329,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ヨーロッパ中部の国。首都はブラチスラヴァ。",
+				"furigana": "ヨーロッパ<ruby>中部<rp>(</rp><rt>ちゅうぶ</rt><rp>)</rp></ruby>の<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>。<ruby>首都<rp>(</rp><rt>しゅと</rt><rp>)</rp></ruby>はブラチスラヴァ。"
+			}
+		]
 	},
 	{
 		"id": "1074110",
@@ -75926,7 +76363,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ヨーロッパ中部の国。首都はリュブリャナ。",
+				"furigana": "ヨーロッパ<ruby>中部<rp>(</rp><rt>ちゅうぶ</rt><rp>)</rp></ruby>の<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>。<ruby>首都<rp>(</rp><rt>しゅと</rt><rp>)</rp></ruby>はリュブリャナ。"
+			}
+		]
 	},
 	{
 		"id": "1074140",
@@ -78842,7 +79285,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "時間を自由に旅行できる仮想的な乗り物。",
+				"furigana": "<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>を<ruby>自由<rp>(</rp><rt>じゆう</rt><rp>)</rp></ruby>に<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>できる<ruby>仮想<rp>(</rp><rt>かそう</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>な<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>り<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1076100",
@@ -85423,7 +85872,13 @@
 			"word::common_noun",
 			"word::computing"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "悪魔。鬼神。悪霊。",
+				"furigana": "<ruby>悪魔<rp>(</rp><rt>あくま</rt><rp>)</rp></ruby>。<ruby>鬼神<rp>(</rp><rt>きじん</rt><rp>)</rp></ruby>。<ruby>悪霊<rp>(</rp><rt>あくりょう</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1081510",
@@ -86110,7 +86565,17 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "細部、詳細。",
+				"furigana": "<ruby>細部<rp>(</rp><rt>さいぶ</rt><rp>)</rp></ruby>、<ruby>詳細<rp>(</rp><rt>しょうさい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "詳細図。",
+				"furigana": "<ruby>詳細<rp>(</rp><rt>しょうさい</rt><rp>)</rp></ruby><ruby>図<rp>(</rp><rt>ず</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1082120",
@@ -86663,6 +87128,16 @@
 				"phrase": "その<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>の<ruby>流行<rp>(</rp><rt>りゅうこう</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>はデジタルで、<ruby>例<rp>(</rp><rt>たと</rt><rp>)</rp></ruby>えばデジタル<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>、デジタルマイクロウエーブオーブンとか、デジタルペンであった。",
 				"translation": "That year's buzzword was digital: digital clocks, digital microwave ovens, even digital pens.",
 				"originalPhrase": "その年の流行語はデジタルで、例えばデジタル時計、デジタルマイクロウエーブオーブンとか、デジタルペンであった。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "連続する量を細かく区切り、整数などに置き換えて表現すること。",
+				"furigana": "<ruby>連続<rp>(</rp><rt>れんぞく</rt><rp>)</rp></ruby>する<ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>を<ruby>細<rp>(</rp><rt>こま</rt><rp>)</rp></ruby>かく<ruby>区切<rp>(</rp><rt>くぎ</rt><rp>)</rp></ruby>り、<ruby>整数<rp>(</rp><rt>せいすう</rt><rp>)</rp></ruby>などに<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>き<ruby>換<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えて<ruby>表現<rp>(</rp><rt>ひょうげん</rt><rp>)</rp></ruby>すること。"
+			},
+			{
+				"definition": "情報関連機器。",
+				"furigana": "<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>関連<rp>(</rp><rt>かんれん</rt><rp>)</rp></ruby><ruby>機器<rp>(</rp><rt>きき</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -87360,7 +87835,17 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "開発者。特に大規模な宅地造成を行う事業者。",
+				"furigana": "<ruby>開発<rp>(</rp><rt>かいはつ</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>規模<rp>(</rp><rt>きぼ</rt><rp>)</rp></ruby>な<ruby>宅地<rp>(</rp><rt>たくち</rt><rp>)</rp></ruby><ruby>造成<rp>(</rp><rt>ぞうせい</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>う<ruby>事業<rp>(</rp><rt>じぎょう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "現像液。",
+				"furigana": "<ruby>現像<rp>(</rp><rt>げんぞう</rt><rp>)</rp></ruby><ruby>液<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1083890",
@@ -90259,6 +90744,16 @@
 				"translation": "The printer needs paper.",
 				"originalPhrase": "給紙トレーに紙が入ってないよ。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "（洋風の）盆。",
+				"furigana": "（<ruby>洋風<rp>(</rp><rt>ようふう</rt><rp>)</rp></ruby>の）<ruby>盆<rp>(</rp><rt>ぼん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "浅い箱。",
+				"furigana": "<ruby>浅<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>い<ruby>箱<rp>(</rp><rt>はこ</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -90967,6 +91462,15 @@
 				"translation": "Many of Europe's metropolises are plagued by the doughnut phenomenon.",
 				"originalPhrase": "ヨーロッパの主要都市の多くはドーナツ化現象に悩まされている。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "洋菓子の一種でドウと呼ばれる小麦粉に砂糖・卵・牛乳・ベーキングパウダーなどを混ぜてこねたパン生地を油で揚げたもの。中央に穴の開いた円環状のリングドーナツが代表的だが、他の形状のものもある。"
+			},
+			{
+				"definition": "（比喩的に）輪環、円環、わっか。",
+				"furigana": "（<ruby>比喩<rp>(</rp><rt>ひゆ</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に）<ruby>輪<rp>(</rp><rt>はなわ</rt><rp>)</rp></ruby><ruby>環<rp>(</rp><rt>たまき</rt><rp>)</rp></ruby>、<ruby>円<rp>(</rp><rt>まどか</rt><rp>)</rp></ruby><ruby>環<rp>(</rp><rt>たまき</rt><rp>)</rp></ruby>、わっか。"
+			}
 		]
 	},
 	{
@@ -91434,7 +91938,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "一般的には、2チームに分かれ、敵にボールを当て、そのボールが地面につくと自陣から出、片方の陣から全員が出るか、一定の時間に自陣に残った人数で勝敗を決めるもの。",
+				"furigana": "<ruby>一般<rp>(</rp><rt>いっぱん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>には、2チームに<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かれ、<ruby>敵<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>にボールを<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>て、そのボールが<ruby>地面<rp>(</rp><rt>じめん</rt><rp>)</rp></ruby>につくと<ruby>自陣<rp>(</rp><rt>じじん</rt><rp>)</rp></ruby>から<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>、<ruby>片方<rp>(</rp><rt>かたほう</rt><rp>)</rp></ruby>の<ruby>陣<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>から<ruby>全員<rp>(</rp><rt>ぜんいん</rt><rp>)</rp></ruby>が<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>るか、<ruby>一定<rp>(</rp><rt>いってい</rt><rp>)</rp></ruby>の<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>に<ruby>自陣<rp>(</rp><rt>じじん</rt><rp>)</rp></ruby>に<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>った<ruby>人数<rp>(</rp><rt>にんずう</rt><rp>)</rp></ruby>で<ruby>勝敗<rp>(</rp><rt>しょうはい</rt><rp>)</rp></ruby>を<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めるもの。"
+			}
+		]
 	},
 	{
 		"id": "1088320",
@@ -91902,7 +92412,13 @@
 			"word::common",
 			"word::na-adjective"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "（あたかも芝居の ごとく、見る）人の心を奪い、心を揺さぶる激しい ありさま。劇的。",
+				"furigana": "（あたかも<ruby>芝居<rp>(</rp><rt>しばい</rt><rp>)</rp></ruby>の ごとく、<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>る）<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>の<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>を<ruby>奪<rp>(</rp><rt>うば</rt><rp>)</rp></ruby>い、<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>を<ruby>揺<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>さぶる<ruby>激<rp>(</rp><rt>はげ</rt><rp>)</rp></ruby>しい ありさま。<ruby>劇的<rp>(</rp><rt>げきてき</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1088890",
@@ -97175,7 +97691,25 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "「ハレム」に同じ。",
+				"furigana": "「ハレム」に<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ。"
+			},
+			{
+				"definition": "イスラム教国の王宮の後宮。",
+				"furigana": "イスラム<ruby>教<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>の<ruby>王宮<rp>(</rp><rt>おうきゅう</rt><rp>)</rp></ruby>の<ruby>後宮<rp>(</rp><rt>こうきゅう</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "上流イスラム教徒の邸内の愛妾の部屋。",
+				"furigana": "<ruby>上流<rp>(</rp><rt>じょうりゅう</rt><rp>)</rp></ruby>イスラム<ruby>教徒<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>の<ruby>邸<rp>(</rp><rt>やしき</rt><rp>)</rp></ruby><ruby>内<rp>(</rp><rt>ない</rt><rp>)</rp></ruby>の<ruby>愛妾<rp>(</rp><rt>あいしょう</rt><rp>)</rp></ruby>の<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "一人の男性が好みの多数の女性を侍らせる場所。",
+				"furigana": "<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>の<ruby>男性<rp>(</rp><rt>だんせい</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>みの<ruby>多数<rp>(</rp><rt>たすう</rt><rp>)</rp></ruby>の<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>を<ruby>侍<rp>(</rp><rt>はべ</rt><rp>)</rp></ruby>らせる<ruby>場所<rp>(</rp><rt>ばしょ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1094900",
@@ -97252,7 +97786,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "高速道路。",
+				"furigana": "<ruby>高速<rp>(</rp><rt>こうそく</rt><rp>)</rp></ruby><ruby>道路<rp>(</rp><rt>どうろ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1095000",
@@ -99781,7 +100321,25 @@
 			"word::common_noun",
 			"word::noun_or_verb_acting_prenominally"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "処女。",
+				"furigana": "<ruby>処女<rp>(</rp><rt>しょじょ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "最初の。",
+				"furigana": "<ruby>最初<rp>(</rp><rt>さいしょ</rt><rp>)</rp></ruby>の。"
+			},
+			{
+				"definition": "未使用の。",
+				"furigana": "<ruby>未<rp>(</rp><rt>み</rt><rp>)</rp></ruby><ruby>使用<rp>(</rp><rt>しよう</rt><rp>)</rp></ruby>の。"
+			},
+			{
+				"definition": "純粋の。",
+				"furigana": "<ruby>純粋<rp>(</rp><rt>じゅんすい</rt><rp>)</rp></ruby>の。"
+			}
+		]
 	},
 	{
 		"id": "1097140",
@@ -100479,7 +101037,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "バイオリンの演奏者。",
+				"furigana": "バイオリンの<ruby>演奏<rp>(</rp><rt>えんそう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1097800",
@@ -100540,6 +101104,16 @@
 				"phrase": "バイキングのほうがコロンブスより<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>にアメリカを<ruby>発見<rp>(</rp><rt>はっけん</rt><rp>)</rp></ruby>したと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われている。",
 				"translation": "It is said that the Vikings preceded Columbus in discovering America.",
 				"originalPhrase": "バイキングのほうがコロンブスより先にアメリカを発見したと言われている。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "8世紀から11世紀ごろにかけてスカンディナヴィア半島やバルト海沿岸を拠点に海からヨーロッパ各地に進出したノルマン人の別称で、交易の他に略奪などの海賊行為を行った武装船団。",
+				"furigana": "8<ruby>世紀<rp>(</rp><rt>せいき</rt><rp>)</rp></ruby>から11<ruby>世紀<rp>(</rp><rt>せいき</rt><rp>)</rp></ruby>ごろにかけてスカンディナヴィア<ruby>半島<rp>(</rp><rt>はんとう</rt><rp>)</rp></ruby>やバルト<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>沿岸<rp>(</rp><rt>えんがん</rt><rp>)</rp></ruby>を<ruby>拠点<rp>(</rp><rt>きょてん</rt><rp>)</rp></ruby>に<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>からヨーロッパ<ruby>各地<rp>(</rp><rt>かくち</rt><rp>)</rp></ruby>に<ruby>進出<rp>(</rp><rt>しんしゅつ</rt><rp>)</rp></ruby>したノルマン<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>の<ruby>別称<rp>(</rp><rt>べっしょう</rt><rp>)</rp></ruby>で、<ruby>交易<rp>(</rp><rt>こうえき</rt><rp>)</rp></ruby>の<ruby>他<rp>(</rp><rt>ほか</rt><rp>)</rp></ruby>に<ruby>略奪<rp>(</rp><rt>りゃくだつ</rt><rp>)</rp></ruby>などの<ruby>海賊<rp>(</rp><rt>かいぞく</rt><rp>)</rp></ruby><ruby>行為<rp>(</rp><rt>こうい</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>った<ruby>武装<rp>(</rp><rt>ぶそう</rt><rp>)</rp></ruby><ruby>船団<rp>(</rp><rt>せんだん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "多数の料理を食卓に並べ、客が自分が好きなものを好きなだけ皿に取り分け好きなだけ食べる形式の料理。バイキング料理。",
+				"furigana": "<ruby>多数<rp>(</rp><rt>たすう</rt><rp>)</rp></ruby>の<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を<ruby>食卓<rp>(</rp><rt>しょくたく</rt><rp>)</rp></ruby>に<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べ、<ruby>客<rp>(</rp><rt>きゃく</rt><rp>)</rp></ruby>が<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>が<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなものを<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなだけ<ruby>皿<rp>(</rp><rt>さら</rt><rp>)</rp></ruby>に<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>り<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>け<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなだけ<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>形式<rp>(</rp><rt>けいしき</rt><rp>)</rp></ruby>の<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>。バイキング<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -100647,7 +101221,17 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "活力。生命力。活動力。",
+				"furigana": "<ruby>活力<rp>(</rp><rt>かつりょく</rt><rp>)</rp></ruby>。<ruby>生命<rp>(</rp><rt>せいめい</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>。<ruby>活動<rp>(</rp><rt>かつどう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "活気。",
+				"furigana": "<ruby>活気<rp>(</rp><rt>かっき</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1097870",
@@ -100872,7 +101456,13 @@
 			"word::common_noun",
 			"word::food"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "棒に繰り返し生地を塗りつけて焼くことで作られる、いくつもの円筒状の層から成るケーキ。輪切りにすると木の年輪のような模様が現れる。",
+				"furigana": "<ruby>棒<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>に<ruby>繰<rp>(</rp><rt>く</rt><rp>)</rp></ruby>り<ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>し<ruby>生地<rp>(</rp><rt>きじ</rt><rp>)</rp></ruby>を<ruby>塗<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>りつけて<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>くことで<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>られる、いくつもの<ruby>円筒<rp>(</rp><rt>えんとう</rt><rp>)</rp></ruby><ruby>状<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>の<ruby>層<rp>(</rp><rt>そう</rt><rp>)</rp></ruby>から<ruby>成<rp>(</rp><rt>な</rt><rp>)</rp></ruby>るケーキ。<ruby>輪切<rp>(</rp><rt>わぎ</rt><rp>)</rp></ruby>りにすると<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>の<ruby>年輪<rp>(</rp><rt>ねんりん</rt><rp>)</rp></ruby>のような<ruby>模様<rp>(</rp><rt>もよう</rt><rp>)</rp></ruby>が<ruby>現<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>れる。"
+			}
+		]
 	},
 	{
 		"id": "1098130",
@@ -102666,7 +103256,21 @@
 			"word::common_noun",
 			"word::abbreviation"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "多様性。多種多様。",
+				"furigana": "<ruby>多様<rp>(</rp><rt>たよう</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>。<ruby>多種<rp>(</rp><rt>たしゅ</rt><rp>)</rp></ruby><ruby>多様<rp>(</rp><rt>たよう</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "動植物などの変種。",
+				"furigana": "<ruby>動植物<rp>(</rp><rt>どうしょくぶつ</rt><rp>)</rp></ruby>などの<ruby>変種<rp>(</rp><rt>へんしゅ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "「バラエティーショー」の略。",
+				"furigana": "「バラエティーショー」の<ruby>略<rp>(</rp><rt>りゃく</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1099650",
@@ -103416,6 +104020,11 @@
 				"translation": "It is a silly practice for non-Christians to send chocolates on St. Valentine's Day.",
 				"originalPhrase": "キリスト教徒でもない人がバレンタインデーにチョコレートを送るのはくだらない習慣だ。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "聖ヴァレンティヌスの祝日。2月14日。国・地域によってはこの日に恋する人に贈り物をする習慣がある。なお、女性から男性へチョコレートを贈るのは日本発祥の東アジアに特有な習慣。"
+			}
 		]
 	},
 	{
@@ -103496,6 +104105,16 @@
 				"phrase": "<ruby>血圧<rp>(</rp><rt>けつあつ</rt><rp>)</rp></ruby>は<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>のバロメーターとして<ruby>重要<rp>(</rp><rt>じゅうよう</rt><rp>)</rp></ruby>である。",
 				"translation": "Blood pressure is important as a barometer of health.",
 				"originalPhrase": "血圧は健康のバロメーターとして重要である。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "気圧計。",
+				"furigana": "<ruby>気圧<rp>(</rp><rt>きあつ</rt><rp>)</rp></ruby><ruby>計<rp>(</rp><rt>けい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "指標。",
+				"furigana": "<ruby>指標<rp>(</rp><rt>しひょう</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -103781,7 +104400,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "フード付きのジャケット。",
+				"furigana": "フード<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>きのジャケット。"
+			}
+		]
 	},
 	{
 		"id": "1100400",
@@ -104031,7 +104656,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "人格。性格。個性。",
+				"furigana": "<ruby>人格<rp>(</rp><rt>じんかく</rt><rp>)</rp></ruby>。<ruby>性格<rp>(</rp><rt>せいかく</rt><rp>)</rp></ruby>。<ruby>個性<rp>(</rp><rt>こせい</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1100640",
@@ -106417,7 +107048,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "逆説。",
+				"furigana": "<ruby>逆説<rp>(</rp><rt>ぎゃくせつ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1102580",
@@ -106920,7 +107557,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "よく知られた文学作品や芸術作品の形式や文体を真似て風刺したり滑稽化したりしたもの。",
+				"furigana": "よく<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>られた<ruby>文学<rp>(</rp><rt>ぶんがく</rt><rp>)</rp></ruby><ruby>作品<rp>(</rp><rt>さくひん</rt><rp>)</rp></ruby>や<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby><ruby>作品<rp>(</rp><rt>さくひん</rt><rp>)</rp></ruby>の<ruby>形式<rp>(</rp><rt>けいしき</rt><rp>)</rp></ruby>や<ruby>文体<rp>(</rp><rt>ぶんたい</rt><rp>)</rp></ruby>を<ruby>真似<rp>(</rp><rt>まね</rt><rp>)</rp></ruby>て<ruby>風刺<rp>(</rp><rt>ふうし</rt><rp>)</rp></ruby>したり<ruby>滑稽<rp>(</rp><rt>こっけい</rt><rp>)</rp></ruby><ruby>化<rp>(</rp><rt>か</rt><rp>)</rp></ruby>したりしたもの。"
+			}
+		]
 	},
 	{
 		"id": "1102990",
@@ -107370,6 +108013,12 @@
 				"phrase": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>さんがそう<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うなら、ブラジャーとパンティーも<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってってやろう。",
 				"translation": "Now that you mention it, she also needs a bra and panties.",
 				"originalPhrase": "店員さんがそう言うなら、ブラジャーとパンティーも買ってってやろう。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "下腹部から股のあたりを覆う女性用の肌着。",
+				"furigana": "<ruby>下腹<rp>(</rp><rt>かふく</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>から<ruby>股<rp>(</rp><rt>また</rt><rp>)</rp></ruby>のあたりを<ruby>覆<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>う<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>の<ruby>肌着<rp>(</rp><rt>はだぎ</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -108734,7 +109383,7 @@
 			},
 			{
 				"definition": "金星。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>金星<rp>(</rp><rt>かなぼし</rt><rp>)</rp></ruby>。"
 			}
 		]
@@ -108947,7 +109596,17 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ルネッサンス期から18世紀にかけてヨーロッパで発達した、弓でこすって音を出す弦楽器。",
+				"furigana": "ルネッサンス<ruby>期<rp>(</rp><rt>き</rt><rp>)</rp></ruby>から18<ruby>世紀<rp>(</rp><rt>せいき</rt><rp>)</rp></ruby>にかけてヨーロッパで<ruby>発達<rp>(</rp><rt>はったつ</rt><rp>)</rp></ruby>した、<ruby>弓<rp>(</rp><rt>ゆみ</rt><rp>)</rp></ruby>でこすって<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>を<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>す<ruby>弦楽器<rp>(</rp><rt>げんがっき</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "バイオリンよりやや低い音を出すバイオリン属の弦楽器。バイオリンよりも一回り大きい。4本の弦を5度に調弦し、肩で楽器をはさみ、左手で弦を抑えながら、主として右手で持った弓を使って弦を擦ることによって音を出す。オーケストラや弦楽では中音部を担当し、その音域はCから上に4オクターブ程度。しばしばVla、Vaと略記する。",
+				"furigana": "バイオリンよりやや<ruby>低<rp>(</rp><rt>ひく</rt><rp>)</rp></ruby>い<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>を<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>すバイオリン<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>の<ruby>弦楽器<rp>(</rp><rt>げんがっき</rt><rp>)</rp></ruby>。バイオリンよりも<ruby>一回<rp>(</rp><rt>ひとまわ</rt><rp>)</rp></ruby>り<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きい。4<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>の<ruby>弦<rp>(</rp><rt>つる</rt><rp>)</rp></ruby>を5<ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>に<ruby>調<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby><ruby>弦<rp>(</rp><rt>つる</rt><rp>)</rp></ruby>し、<ruby>肩<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>で<ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>をはさみ、<ruby>左手<rp>(</rp><rt>ひだりて</rt><rp>)</rp></ruby>で<ruby>弦<rp>(</rp><rt>つる</rt><rp>)</rp></ruby>を<ruby>抑<rp>(</rp><rt>おさ</rt><rp>)</rp></ruby>えながら、<ruby>主<rp>(</rp><rt>しゅ</rt><rp>)</rp></ruby>として<ruby>右手<rp>(</rp><rt>みぎて</rt><rp>)</rp></ruby>で<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>った<ruby>弓<rp>(</rp><rt>ゆみ</rt><rp>)</rp></ruby>を<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>って<ruby>弦<rp>(</rp><rt>つる</rt><rp>)</rp></ruby>を<ruby>擦<rp>(</rp><rt>こす</rt><rp>)</rp></ruby>ることによって<ruby>音<rp>(</rp><rt>おと</rt><rp>)</rp></ruby>を<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>す。オーケストラや<ruby>弦楽<rp>(</rp><rt>げんがく</rt><rp>)</rp></ruby>では<ruby>中音<rp>(</rp><rt>ちゅうおん</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>を<ruby>担当<rp>(</rp><rt>たんとう</rt><rp>)</rp></ruby>し、その<ruby>音域<rp>(</rp><rt>おんいき</rt><rp>)</rp></ruby>はCから<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に4オクターブ<ruby>程度<rp>(</rp><rt>ていど</rt><rp>)</rp></ruby>。しばしばVla、Vaと<ruby>略記<rp>(</rp><rt>りゃっき</rt><rp>)</rp></ruby>する。"
+			}
+		]
 	},
 	{
 		"id": "1104660",
@@ -109456,6 +110115,16 @@
 				"phrase": "あなたは<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の<ruby>将来<rp>(</rp><rt>しょうらい</rt><rp>)</rp></ruby>のビジョンを<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>っていますか。",
 				"translation": "Do you have a vision of your future?",
 				"originalPhrase": "あなたは自分の将来のビジョンを持っていますか。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "幻影。",
+				"furigana": "<ruby>幻影<rp>(</rp><rt>げんえい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "未来像、理想像。",
+				"furigana": "<ruby>未来<rp>(</rp><rt>みらい</rt><rp>)</rp></ruby><ruby>像<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>、<ruby>理想<rp>(</rp><rt>りそう</rt><rp>)</rp></ruby><ruby>像<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -112289,7 +112958,13 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "火。炎。",
+				"furigana": "<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>。<ruby>炎<rp>(</rp><rt>ほのお</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1107680",
@@ -112882,7 +113557,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "素早く簡単にできる食事や食品。",
+				"furigana": "<ruby>素早<rp>(</rp><rt>すばや</rt><rp>)</rp></ruby>く<ruby>簡単<rp>(</rp><rt>かんたん</rt><rp>)</rp></ruby>にできる<ruby>食事<rp>(</rp><rt>しょくじ</rt><rp>)</rp></ruby>や<ruby>食品<rp>(</rp><rt>しょくひん</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1108180",
@@ -113175,6 +113856,28 @@
 				"translation": "Two books stand out among the dozens recently published on the Royal Family.",
 				"originalPhrase": "最近王室ファミリーについて出された本で二冊が傑出している。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "家族。家庭。",
+				"furigana": "<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>。<ruby>家庭<rp>(</rp><rt>かてい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "一門。一族。",
+				"furigana": "<ruby>一門<rp>(</rp><rt>いちもん</rt><rp>)</rp></ruby>。<ruby>一族<rp>(</rp><rt>いちぞく</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "同じ仕事を行ったり、番組に出演したりする芸能人の仲間。",
+				"furigana": "<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>を<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>ったり、<ruby>番組<rp>(</rp><rt>ばんぐみ</rt><rp>)</rp></ruby>に<ruby>出演<rp>(</rp><rt>しゅつえん</rt><rp>)</rp></ruby>したりする<ruby>芸能人<rp>(</rp><rt>げいのうじん</rt><rp>)</rp></ruby>の<ruby>仲間<rp>(</rp><rt>なかま</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "統一された骨格とエレメントのフォントから、ウェイトを段階的に変えて作ったグループのこと。",
+				"furigana": "<ruby>統一<rp>(</rp><rt>とういつ</rt><rp>)</rp></ruby>された<ruby>骨格<rp>(</rp><rt>こっかく</rt><rp>)</rp></ruby>とエレメントのフォントから、ウェイトを<ruby>段階<rp>(</rp><rt>だんかい</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>に<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>えて<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったグループのこと。"
+			},
+			{
+				"definition": "家庭的な。家族向けな。",
+				"furigana": "<ruby>家庭的<rp>(</rp><rt>かていてき</rt><rp>)</rp></ruby>な。<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby><ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>けな。"
+			}
 		]
 	},
 	{
@@ -113456,7 +114159,17 @@
 			"word::common_noun",
 			"word::art/aesthetics"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "体形を整えるための女性用下着類。",
+				"furigana": "<ruby>体形<rp>(</rp><rt>たいけい</rt><rp>)</rp></ruby>を<ruby>整<rp>(</rp><rt>ととの</rt><rp>)</rp></ruby>えるための<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby><ruby>下着<rp>(</rp><rt>したぎ</rt><rp>)</rp></ruby><ruby>類<rp>(</rp><rt>るい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "化粧品の一種。",
+				"furigana": "<ruby>化粧<rp>(</rp><rt>けしょう</rt><rp>)</rp></ruby><ruby>品<rp>(</rp><rt>ひん</rt><rp>)</rp></ruby>の<ruby>一種<rp>(</rp><rt>いっしゅ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1108740",
@@ -115486,7 +116199,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ベトナム料理で用いられる平たいライスヌードル。",
+				"furigana": "ベトナム<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>で<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いられる<ruby>平<rp>(</rp><rt>ひら</rt><rp>)</rp></ruby>たいライスヌードル。"
+			}
+		]
 	},
 	{
 		"id": "1110430",
@@ -117636,6 +118355,16 @@
 				"translation": "Bob plays not only the guitar but also the flute.",
 				"originalPhrase": "ボブはギターだけでなくフルートも演奏します。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。",
+				"furigana": "リードのない、<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くのキーを<ruby>備<rp>(</rp><rt>そな</rt><rp>)</rp></ruby>えた<ruby>横笛<rp>(</rp><rt>よこぶえ</rt><rp>)</rp></ruby>タイプの<ruby>木管<rp>(</rp><rt>もっかん</rt><rp>)</rp></ruby><ruby>楽器<rp>(</rp><rt>がっき</rt><rp>)</rp></ruby>の<ruby>一種<rp>(</rp><rt>いっしゅ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "輸送用に設計された帆船。",
+				"furigana": "<ruby>輸送<rp>(</rp><rt>ゆそう</rt><rp>)</rp></ruby><ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>に<ruby>設計<rp>(</rp><rt>せっけい</rt><rp>)</rp></ruby>された<ruby>帆船<rp>(</rp><rt>はんせん</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -119347,7 +120076,17 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "スロバキアの首都。日本政府における公的な表記。",
+				"furigana": "スロバキアの<ruby>首都<rp>(</rp><rt>しゅと</rt><rp>)</rp></ruby>。<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby><ruby>政府<rp>(</rp><rt>せいふ</rt><rp>)</rp></ruby>における<ruby>公的<rp>(</rp><rt>こうてき</rt><rp>)</rp></ruby>な<ruby>表記<rp>(</rp><rt>ひょうき</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "スロバキアの首都。",
+				"furigana": "スロバキアの<ruby>首都<rp>(</rp><rt>しゅと</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1113780",
@@ -122493,7 +123232,13 @@
 			"word::irregular::kana",
 			"word::na-adjective"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "可愛いさま。",
+				"furigana": "<ruby>可愛<rp>(</rp><rt>かわい</rt><rp>)</rp></ruby>いさま。"
+			}
+		]
 	},
 	{
 		"id": "1116190",
@@ -122798,7 +123543,17 @@
 			"word::common_noun",
 			"word::sports"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "試合で同点または引き分けの際に勝敗を決めるための試合。延長戦。決勝戦。",
+				"furigana": "<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>で<ruby>同点<rp>(</rp><rt>どうてん</rt><rp>)</rp></ruby>または<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>き<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>けの<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>に<ruby>勝敗<rp>(</rp><rt>しょうはい</rt><rp>)</rp></ruby>を<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めるための<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>。<ruby>延長<rp>(</rp><rt>えんちょう</rt><rp>)</rp></ruby><ruby>戦<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。<ruby>決勝<rp>(</rp><rt>けっしょう</rt><rp>)</rp></ruby><ruby>戦<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "リーグ制のスポーツでリーグ戦終了後にその優勝者同士が行う決勝戦。",
+				"furigana": "リーグ<ruby>制<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>のスポーツでリーグ<ruby>戦<rp>(</rp><rt>せん</rt><rp>)</rp></ruby><ruby>終了<rp>(</rp><rt>しゅうりょう</rt><rp>)</rp></ruby><ruby>後<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>にその<ruby>優勝<rp>(</rp><rt>ゆうしょう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>同士<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby>が<ruby>行<rp>(</rp><rt>おこな</rt><rp>)</rp></ruby>う<ruby>決勝<rp>(</rp><rt>けっしょう</rt><rp>)</rp></ruby><ruby>戦<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1116470",
@@ -123689,7 +124444,17 @@
 			"word::common_noun",
 			"word::computing"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "演算処理装置。",
+				"furigana": "<ruby>演算<rp>(</rp><rt>えんざん</rt><rp>)</rp></ruby><ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "処理プログラム。",
+				"furigana": "<ruby>処理<rp>(</rp><rt>しょり</rt><rp>)</rp></ruby>プログラム。"
+			}
+		]
 	},
 	{
 		"id": "1117380",
@@ -125044,7 +125809,17 @@
 			"word::sports",
 			"word::boxing"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ひたいの辺りでボールを受けたり、打ったりすること。",
+				"furigana": "ひたいの<ruby>辺<rp>(</rp><rt>あた</rt><rp>)</rp></ruby>りでボールを<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>けたり、<ruby>打<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ったりすること。"
+			},
+			{
+				"definition": "見出し。標題。",
+				"furigana": "<ruby>見出<rp>(</rp><rt>みだ</rt><rp>)</rp></ruby>し。<ruby>標題<rp>(</rp><rt>ひょうだい</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1118600",
@@ -125121,6 +125896,24 @@
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はあしたヘビー<ruby>級<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby>チャンピオンと<ruby>対戦<rp>(</rp><rt>たいせん</rt><rp>)</rp></ruby>する。",
 				"translation": "He will fight the heavyweight champion tomorrow.",
 				"originalPhrase": "彼はあしたヘビー級チャンピオンと対戦する。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "重いさま。",
+				"furigana": "<ruby>重<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いさま。"
+			},
+			{
+				"definition": "厳しいさま。強烈であるさま。",
+				"furigana": "<ruby>厳<rp>(</rp><rt>きび</rt><rp>)</rp></ruby>しいさま。<ruby>強烈<rp>(</rp><rt>きょうれつ</rt><rp>)</rp></ruby>であるさま。"
+			},
+			{
+				"definition": "程度や量が普通以上であるさま。",
+				"furigana": "<ruby>程度<rp>(</rp><rt>ていど</rt><rp>)</rp></ruby>や<ruby>量<rp>(</rp><rt>りょう</rt><rp>)</rp></ruby>が<ruby>普通<rp>(</rp><rt>ふつう</rt><rp>)</rp></ruby><ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>であるさま。"
+			},
+			{
+				"definition": "馬力をかけること。スパート。",
+				"furigana": "<ruby>馬力<rp>(</rp><rt>ばりき</rt><rp>)</rp></ruby>をかけること。スパート。"
 			}
 		]
 	},
@@ -126711,6 +127504,16 @@
 				"translation": "Keep an eye on the baby for a while.",
 				"originalPhrase": "しばらくの間、ベビーをみていてね。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "赤ん坊。赤ちゃん。",
+				"furigana": "<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>ん<ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>。<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>ちゃん。"
+			},
+			{
+				"definition": "語の前後について、「赤ん坊の」「赤ちゃん用の」「小型の」などの意を表す。",
+				"furigana": "<ruby>語<rp>(</rp><rt>かたり</rt><rp>)</rp></ruby>の<ruby>前後<rp>(</rp><rt>ぜんご</rt><rp>)</rp></ruby>について、「<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>ん<ruby>坊<rp>(</rp><rt>ぼう</rt><rp>)</rp></ruby>の」「<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>ちゃん<ruby>用<rp>(</rp><rt>よう</rt><rp>)</rp></ruby>の」「<ruby>小型<rp>(</rp><rt>こがた</rt><rp>)</rp></ruby>の」などの<ruby>意<rp>(</rp><rt>い</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す。"
+			}
 		]
 	},
 	{
@@ -127965,7 +128768,17 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "罰、罰金、刑罰。",
+				"furigana": "<ruby>罰<rp>(</rp><rt>ばち</rt><rp>)</rp></ruby>、<ruby>罰金<rp>(</rp><rt>ばっきん</rt><rp>)</rp></ruby>、<ruby>刑罰<rp>(</rp><rt>けいばつ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "罰則。",
+				"furigana": "<ruby>罰則<rp>(</rp><rt>ばっそく</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1121180",
@@ -131231,7 +132044,12 @@
 			"word::common_noun",
 			"word::music"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "音楽のジャンルの一つ。1950年代のブラジルで、ジャズやサンバの融合・発展から誕生した。ラテン音楽の代表の一つ。"
+			}
+		]
 	},
 	{
 		"id": "1123840",
@@ -133420,6 +134238,16 @@
 					"glossNumber": 1
 				}
 			}
+		],
+		"definitions": [
+			{
+				"definition": "腔腸動物で物に固着して生活し、体は管や杯の形をして触手で餌を捕るもの。",
+				"furigana": "<ruby>腔腸動物<rp>(</rp><rt>こうちょうどうぶつ</rt><rp>)</rp></ruby>で<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>に<ruby>固着<rp>(</rp><rt>こちゃく</rt><rp>)</rp></ruby>して<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>し、<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>は<ruby>管<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>や<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>の<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>をして<ruby>触手<rp>(</rp><rt>しょくしゅ</rt><rp>)</rp></ruby>で<ruby>餌<rp>(</rp><rt>えさ</rt><rp>)</rp></ruby>を<ruby>捕<rp>(</rp><rt>と</rt><rp>)</rp></ruby>るもの。"
+			},
+			{
+				"definition": "皮膚や粘膜に茎を持ち、球形に近い形の腫瘍の総称。",
+				"furigana": "<ruby>皮膚<rp>(</rp><rt>ひふ</rt><rp>)</rp></ruby>や<ruby>粘膜<rp>(</rp><rt>ねんまく</rt><rp>)</rp></ruby>に<ruby>茎<rp>(</rp><rt>くき</rt><rp>)</rp></ruby>を<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ち、<ruby>球形<rp>(</rp><rt>きゅうけい</rt><rp>)</rp></ruby>に<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>い<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>の<ruby>腫瘍<rp>(</rp><rt>しゅよう</rt><rp>)</rp></ruby>の<ruby>総称<rp>(</rp><rt>そうしょう</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -134720,6 +135548,12 @@
 					"wordId": "1597110",
 					"glossNumber": 1
 				}
+			}
+		],
+		"definitions": [
+			{
+				"definition": "少数。少数派。",
+				"furigana": "<ruby>少数<rp>(</rp><rt>しょうすう</rt><rp>)</rp></ruby>。<ruby>少数<rp>(</rp><rt>しょうすう</rt><rp>)</rp></ruby><ruby>派<rp>(</rp><rt>は</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -142186,7 +143020,17 @@
 			"word::common_noun",
 			"word::computing"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "記憶。思い出。",
+				"furigana": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby>。<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "記憶装置。",
+				"furigana": "<ruby>記憶<rp>(</rp><rt>きおく</rt><rp>)</rp></ruby><ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1133880",
@@ -142839,7 +143683,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "維持、保全、整備。",
+				"furigana": "<ruby>維持<rp>(</rp><rt>いじ</rt><rp>)</rp></ruby>、<ruby>保全<rp>(</rp><rt>ほぜん</rt><rp>)</rp></ruby>、<ruby>整備<rp>(</rp><rt>せいび</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1134430",
@@ -144334,7 +145184,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "東ヨーロッパにある国。正式名称はモルドバ共和国。首都はキシナウ（キシニョフ）。",
+				"furigana": "<ruby>東<rp>(</rp><rt>ひがし</rt><rp>)</rp></ruby>ヨーロッパにある<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>。<ruby>正式<rp>(</rp><rt>せいしき</rt><rp>)</rp></ruby><ruby>名称<rp>(</rp><rt>めいしょう</rt><rp>)</rp></ruby>はモルドバ<ruby>共和<rp>(</rp><rt>きょうわ</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>。<ruby>首都<rp>(</rp><rt>しゅと</rt><rp>)</rp></ruby>はキシナウ（キシニョフ）。"
+			}
+		]
 	},
 	{
 		"id": "1135970",
@@ -144902,6 +145758,21 @@
 				"translation": "Yugoslavia says it's not responsible for the actions of Serbian militias in Bosnia which have killed thousands, ruined cities, and turned 1.3 million people into refugees over the last three months.",
 				"originalPhrase": "ユーゴスラビアは、過去３ヶ月にわたって数千人を殺害し、諸都市を破壊して、１３０万人を難民へと追いやったボスニアのセルビア人武装勢力の行動は、同国の責任ではないとしています。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "1929年から2003年までバルカン半島に存在した国家。",
+				"furigana": "1929<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>から2003<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>までバルカン<ruby>半島<rp>(</rp><rt>はんとう</rt><rp>)</rp></ruby>に<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>した<ruby>国家<rp>(</rp><rt>こっか</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "南スラヴ人による統一国家構想（ユーゴスラブ主義、ユーゴスラブ運動）上の国家名。",
+				"furigana": "<ruby>南<rp>(</rp><rt>みなみ</rt><rp>)</rp></ruby>スラヴ<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>による<ruby>統一<rp>(</rp><rt>とういつ</rt><rp>)</rp></ruby><ruby>国家<rp>(</rp><rt>こっか</rt><rp>)</rp></ruby><ruby>構想<rp>(</rp><rt>こうそう</rt><rp>)</rp></ruby>（ユーゴスラブ<ruby>主義<rp>(</rp><rt>しゅぎ</rt><rp>)</rp></ruby>、ユーゴスラブ<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>）<ruby>上<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>の<ruby>国家<rp>(</rp><rt>こっか</rt><rp>)</rp></ruby><ruby>名<rp>(</rp><rt>めい</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "小惑星の一つ。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>小惑星<rp>(</rp><rt>しょうわくせい</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ。"
+			}
 		]
 	},
 	{
@@ -144951,6 +145822,12 @@
 					"wordId": "1343100",
 					"glossNumber": 6
 				}
+			}
+		],
+		"definitions": [
+			{
+				"definition": "使用者、利用者、需要者。",
+				"furigana": "<ruby>使用<rp>(</rp><rt>しよう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>、<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>、<ruby>需要<rp>(</rp><rt>じゅよう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -146507,7 +147384,34 @@
 			"word::common_noun",
 			"word::computing"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "図書館。",
+				"furigana": "<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "資料館。",
+				"furigana": "<ruby>資料<rp>(</rp><rt>しりょう</rt><rp>)</rp></ruby><ruby>館<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "出版物のシリーズ。叢書。文庫。",
+				"furigana": "<ruby>出版<rp>(</rp><rt>しゅっぱん</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>ぶつ</rt><rp>)</rp></ruby>のシリーズ。<ruby>叢書<rp>(</rp><rt>そうしょ</rt><rp>)</rp></ruby>。<ruby>文庫<rp>(</rp><rt>ぶんこ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "ある機能を一纏まりにしたプログラム群。",
+				"furigana": "ある<ruby>機能<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>を<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>纏<rp>(</rp><rt>まと</rt><rp>)</rp></ruby>まりにしたプログラム<ruby>群<rp>(</rp><rt>ぐん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "「ライブラリー」の表記揺れ。特に情報分野における表記。",
+				"furigana": "「ライブラリー」の<ruby>表記<rp>(</rp><rt>ひょうき</rt><rp>)</rp></ruby><ruby>揺<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>れ。<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby><ruby>分野<rp>(</rp><rt>ぶんや</rt><rp>)</rp></ruby>における<ruby>表記<rp>(</rp><rt>ひょうき</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "蔵書。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>蔵書<rp>(</rp><rt>ぞうしょ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1138360",
@@ -147028,7 +147932,17 @@
 			"word::irregular::kana",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "蒸気、温水などの熱を利用した暖房器具で暖かい熱を放射する部分。",
+				"furigana": "<ruby>蒸気<rp>(</rp><rt>じょうき</rt><rp>)</rp></ruby>、<ruby>温水<rp>(</rp><rt>おんすい</rt><rp>)</rp></ruby>などの<ruby>熱<rp>(</rp><rt>ねつ</rt><rp>)</rp></ruby>を<ruby>利用<rp>(</rp><rt>りよう</rt><rp>)</rp></ruby>した<ruby>暖房<rp>(</rp><rt>だんぼう</rt><rp>)</rp></ruby><ruby>器具<rp>(</rp><rt>きぐ</rt><rp>)</rp></ruby>で<ruby>暖<rp>(</rp><rt>あたた</rt><rp>)</rp></ruby>かい<ruby>熱<rp>(</rp><rt>ねつ</rt><rp>)</rp></ruby>を<ruby>放射<rp>(</rp><rt>ほうしゃ</rt><rp>)</rp></ruby>する<ruby>部分<rp>(</rp><rt>ぶぶん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "水冷式のエンジンで熱を放熱し、冷却する装置。。",
+				"furigana": "<ruby>水冷<rp>(</rp><rt>すいれい</rt><rp>)</rp></ruby><ruby>式<rp>(</rp><rt>しき</rt><rp>)</rp></ruby>のエンジンで<ruby>熱<rp>(</rp><rt>ねつ</rt><rp>)</rp></ruby>を<ruby>放熱<rp>(</rp><rt>ほうねつ</rt><rp>)</rp></ruby>し、<ruby>冷却<rp>(</rp><rt>れいきゃく</rt><rp>)</rp></ruby>する<ruby>装置<rp>(</rp><rt>そうち</rt><rp>)</rp></ruby>。。"
+			}
+		]
 	},
 	{
 		"id": "1138980",
@@ -147661,7 +148575,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ヨーロッパ北東部にある国。バルト海沿岸に面する。正式名称はラトビア共和国。首都はリガ。",
+				"furigana": "ヨーロッパ<ruby>北東<rp>(</rp><rt>ほくとう</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>にある<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>。バルト<ruby>海<rp>(</rp><rt>かい</rt><rp>)</rp></ruby><ruby>沿岸<rp>(</rp><rt>えんがん</rt><rp>)</rp></ruby>に<ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby>する。<ruby>正式<rp>(</rp><rt>せいしき</rt><rp>)</rp></ruby><ruby>名称<rp>(</rp><rt>めいしょう</rt><rp>)</rp></ruby>はラトビア<ruby>共和<rp>(</rp><rt>きょうわ</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>。<ruby>首都<rp>(</rp><rt>しゅと</rt><rp>)</rp></ruby>はリガ。"
+			}
+		]
 	},
 	{
 		"id": "1139380",
@@ -151994,7 +152914,13 @@
 			"word::takes::suru",
 			"word::transitive_verb"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "既存の作品や製品を作り直すこと。また、その作り直されたもの。",
+				"furigana": "<ruby>既存<rp>(</rp><rt>きそん</rt><rp>)</rp></ruby>の<ruby>作品<rp>(</rp><rt>さくひん</rt><rp>)</rp></ruby>や<ruby>製品<rp>(</rp><rt>せいひん</rt><rp>)</rp></ruby>を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>すこと。また、その<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>り<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>されたもの。"
+			}
+		]
 	},
 	{
 		"id": "1143070",
@@ -155362,7 +156288,13 @@
 			"word::common_noun",
 			"word::sports"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "競技や試合で審判をするもの。また、審判をする責任者。",
+				"furigana": "<ruby>競技<rp>(</rp><rt>きょうぎ</rt><rp>)</rp></ruby>や<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>で<ruby>審判<rp>(</rp><rt>しんぱん</rt><rp>)</rp></ruby>をするもの。また、<ruby>審判<rp>(</rp><rt>しんぱん</rt><rp>)</rp></ruby>をする<ruby>責任<rp>(</rp><rt>せきにん</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1145840",
@@ -155501,6 +156433,20 @@
 				"phrase": "リポーターは<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われたことをすべて<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>き<ruby>留<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めた。",
 				"translation": "The reporter took down everything that was said.",
 				"originalPhrase": "リポーターは言われたことをすべて書き留めた。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "報告者。",
+				"furigana": "<ruby>報告<rp>(</rp><rt>ほうこく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "非合法組織などの連絡者。レポ。",
+				"furigana": "<ruby>非合法<rp>(</rp><rt>ひごうほう</rt><rp>)</rp></ruby><ruby>組織<rp>(</rp><rt>そしき</rt><rp>)</rp></ruby>などの<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>。レポ。"
+			},
+			{
+				"definition": "報道機関の現場の記者。",
+				"furigana": "<ruby>報道<rp>(</rp><rt>ほうどう</rt><rp>)</rp></ruby><ruby>機関<rp>(</rp><rt>きかん</rt><rp>)</rp></ruby>の<ruby>現場<rp>(</rp><rt>げんば</rt><rp>)</rp></ruby>の<ruby>記者<rp>(</rp><rt>きしゃ</rt><rp>)</rp></ruby>。"
 			}
 		]
 	},
@@ -156318,7 +157264,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "索道。",
+				"furigana": "<ruby>索道<rp>(</rp><rt>さくどう</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1146820",
@@ -156750,7 +157702,23 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "特許権・商標権・著作権などの使用料。印税。",
+				"mayNotBeAccurate": 2
+			},
+			{
+				"definition": "［原義］　忠実。忠誠、忠誠心。",
+				"mayNotBeAccurate": 2,
+				"furigana": "［<ruby>原義<rp>(</rp><rt>げんぎ</rt><rp>)</rp></ruby>］　<ruby>忠実<rp>(</rp><rt>ちゅうじつ</rt><rp>)</rp></ruby>。<ruby>忠誠<rp>(</rp><rt>ちゅうせい</rt><rp>)</rp></ruby>、<ruby>忠誠<rp>(</rp><rt>ちゅうせい</rt><rp>)</rp></ruby><ruby>心<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "顧客から企業や店などに向けられる親密性や信頼性。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>顧客<rp>(</rp><rt>こきゃく</rt><rp>)</rp></ruby>から<ruby>企業<rp>(</rp><rt>きぎょう</rt><rp>)</rp></ruby>や<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>などに<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>けられる<ruby>親密<rp>(</rp><rt>しんみつ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>や<ruby>信頼<rp>(</rp><rt>しんらい</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1147080",
@@ -158610,7 +159578,22 @@
 			"word::common_noun",
 			"word::abbreviation"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "針金。",
+				"furigana": "<ruby>針金<rp>(</rp><rt>はりがね</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "ワイヤロープ。",
+				"furigana": "ワイヤロープ。"
+			},
+			{
+				"definition": "電線。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>電線<rp>(</rp><rt>でんせん</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1148810",
@@ -159854,6 +160837,12 @@
 				"translation": "I want to buy a Czech sweater.",
 				"originalPhrase": "チェコスロバキア製のセーターが買いたいのです。"
 			}
+		],
+		"definitions": [
+			{
+				"definition": "1918年から1992年まで中央ヨーロッパに存在したチェコとスロバキアによる統一国家。",
+				"furigana": "1918<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>から1992<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>まで<ruby>中央<rp>(</rp><rt>ちゅうおう</rt><rp>)</rp></ruby>ヨーロッパに<ruby>存在<rp>(</rp><rt>そんざい</rt><rp>)</rp></ruby>したチェコとスロバキアによる<ruby>統一<rp>(</rp><rt>とういつ</rt><rp>)</rp></ruby><ruby>国家<rp>(</rp><rt>こっか</rt><rp>)</rp></ruby>。"
+			}
 		]
 	},
 	{
@@ -159920,26 +160909,27 @@
 		"definitions": [
 			{
 				"definition": "そうです。ねやよ、よね、かなどと共に用いるか、「でしょ（う）」などの形で用いる。",
+				"mayNotBeAccurate": 1,
 				"furigana": "そうです。ねやよ、よね、かなどと<ruby>共<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>に<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いるか、「でしょ（う）」などの<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>で<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いる。"
 			},
 			{
 				"definition": "「だ」の丁寧語。名詞、用言および用言に準ずるもの、一部の助詞に接続する。「だ」と同様に用言の連体形に「の」または「ん」を伴う形で接続することができるが、形容詞や形容詞的助動詞の連体形、形容動詞や形容動詞的助動詞の語幹には「の」「ん」を伴わずにもつく。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "「だ」の<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby>、<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>および<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>に<ruby>準<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>ずるもの、<ruby>一部<rp>(</rp><rt>いちぶ</rt><rp>)</rp></ruby>の<ruby>助詞<rp>(</rp><rt>じょし</rt><rp>)</rp></ruby>に<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>する。「だ」と<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>に<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>に「の」または「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>で<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>することができるが、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>や<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>、<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby>や<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>語幹<rp>(</rp><rt>ごかん</rt><rp>)</rp></ruby>には「の」「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>わずにもつく。"
 			},
 			{
 				"definition": "「だ」の丁寧語。名詞、用言および用言に準ずるもの、一部の助詞に接続する。「だ」と同様に用言の連体形に「の」または「ん」を伴う形で接続することができるが、形容詞や形容詞的助動詞の連体形、形容動詞や形容動詞的助動詞の語幹には「の」「ん」を伴わずにもつく。断定の意を表す。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "「だ」の<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby>、<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>および<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>に<ruby>準<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>ずるもの、<ruby>一部<rp>(</rp><rt>いちぶ</rt><rp>)</rp></ruby>の<ruby>助詞<rp>(</rp><rt>じょし</rt><rp>)</rp></ruby>に<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>する。「だ」と<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>に<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>に「の」または「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>で<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>することができるが、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>や<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>、<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby>や<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>語幹<rp>(</rp><rt>ごかん</rt><rp>)</rp></ruby>には「の」「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>わずにもつく。<ruby>断定<rp>(</rp><rt>だんてい</rt><rp>)</rp></ruby>の<ruby>意<rp>(</rp><rt>い</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す。"
 			},
 			{
 				"definition": "「だ」の丁寧語。名詞、用言および用言に準ずるもの、一部の助詞に接続する。「だ」と同様に用言の連体形に「の」または「ん」を伴う形で接続することができるが、形容詞や形容詞的助動詞の連体形、形容動詞や形容動詞的助動詞の語幹には「の」「ん」を伴わずにもつく。述部の動詞、形容詞または動詞接尾辞のするを省略した文において、代わりに名詞述語文を成立させるために用いる丁寧な助動詞。この構造はうなぎ文と呼ばれる。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "「だ」の<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby>、<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>および<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>に<ruby>準<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>ずるもの、<ruby>一部<rp>(</rp><rt>いちぶ</rt><rp>)</rp></ruby>の<ruby>助詞<rp>(</rp><rt>じょし</rt><rp>)</rp></ruby>に<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>する。「だ」と<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>に<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>に「の」または「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>で<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>することができるが、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>や<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>、<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby>や<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>語幹<rp>(</rp><rt>ごかん</rt><rp>)</rp></ruby>には「の」「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>わずにもつく。<ruby>述<rp>(</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>の<ruby>動詞<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby>、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>または<ruby>動詞<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby><ruby>接尾<rp>(</rp><rt>せつび</rt><rp>)</rp></ruby><ruby>辞<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>のするを<ruby>省略<rp>(</rp><rt>しょうりゃく</rt><rp>)</rp></ruby>した<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>において、<ruby>代<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わりに<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby><ruby>述語<rp>(</rp><rt>じゅつご</rt><rp>)</rp></ruby><ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>を<ruby>成立<rp>(</rp><rt>せいりつ</rt><rp>)</rp></ruby>させるために<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いる<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby>な<ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>。この<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>はうなぎ<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれる。"
 			},
 			{
 				"definition": "「だ」の丁寧語。名詞、用言および用言に準ずるもの、一部の助詞に接続する。「だ」と同様に用言の連体形に「の」または「ん」を伴う形で接続することができるが、形容詞や形容詞的助動詞の連体形、形容動詞や形容動詞的助動詞の語幹には「の」「ん」を伴わずにもつく。会話などにおける疑問文の文末について、疑問の語気を表す丁寧語。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "「だ」の<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby>、<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>および<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>に<ruby>準<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>ずるもの、<ruby>一部<rp>(</rp><rt>いちぶ</rt><rp>)</rp></ruby>の<ruby>助詞<rp>(</rp><rt>じょし</rt><rp>)</rp></ruby>に<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>する。「だ」と<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>に<ruby>用言<rp>(</rp><rt>ようげん</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>に「の」または「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>う<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>で<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>することができるが、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>や<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>連体<rp>(</rp><rt>れんたい</rt><rp>)</rp></ruby><ruby>形<rp>(</rp><rt>がた</rt><rp>)</rp></ruby>、<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby>や<ruby>形容動詞<rp>(</rp><rt>けいようどうし</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>の<ruby>語幹<rp>(</rp><rt>ごかん</rt><rp>)</rp></ruby>には「の」「ん」を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>わずにもつく。<ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby>などにおける<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby><ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>の<ruby>文末<rp>(</rp><rt>ぶんまつ</rt><rp>)</rp></ruby>について、<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby>の<ruby>語気<rp>(</rp><rt>ごき</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す<ruby>丁寧<rp>(</rp><rt>ていねい</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>。"
 			}
 		]
@@ -162521,7 +163511,17 @@
 			"word::search-only_kana_form",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "吸血鬼。",
+				"furigana": "<ruby>吸血鬼<rp>(</rp><rt>きゅうけつき</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "妖婦。毒婦。",
+				"furigana": "<ruby>妖婦<rp>(</rp><rt>ようふ</rt><rp>)</rp></ruby>。<ruby>毒婦<rp>(</rp><rt>どくふ</rt><rp>)</rp></ruby>。"
+			}
+		]
 	},
 	{
 		"id": "1659530",
@@ -164081,7 +165081,7 @@
 			},
 			{
 				"definition": "殺す。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>殺<rp>(</rp><rt>ころ</rt><rp>)</rp></ruby>す。"
 			}
 		]
@@ -164286,6 +165286,12 @@
 				"phrase": "ファイアーウォールがインターネットの<ruby>安全<rp>(</rp><rt>あんぜん</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby>を<ruby>保証<rp>(</rp><rt>ほしょう</rt><rp>)</rp></ruby>する。",
 				"translation": "A firewall will guarantee Internet security.",
 				"originalPhrase": "ファイアーウォールがインターネットの安全性を保証する。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "コンピュータやネットワークへの不法な侵入を防ぐソフトウェアやハードウェア。",
+				"furigana": "コンピュータやネットワークへの<ruby>不法<rp>(</rp><rt>ふほう</rt><rp>)</rp></ruby>な<ruby>侵入<rp>(</rp><rt>しんにゅう</rt><rp>)</rp></ruby>を<ruby>防<rp>(</rp><rt>ふせ</rt><rp>)</rp></ruby>ぐソフトウェアやハードウェア。"
 			}
 		]
 	},
@@ -172124,7 +173130,7 @@
 			},
 			{
 				"definition": "当てもなく歩き回る。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>てもなく<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>き<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>る。"
 			}
 		]
@@ -173035,7 +174041,7 @@
 		"definitions": [
 			{
 				"definition": "（口語、主に東京）「てしまう」（補助動詞）の転「ちまう」がさらに訛ったもの。動作・作用が完了すること、特に元に戻らない結果を残すことを表現し、そのことを嫌う（場合によっては逆に喜ぶ）気持をも含意する、一種の助動詞として用いられる。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			}
 		]
 	},
@@ -173076,7 +174082,7 @@
 		"definitions": [
 			{
 				"definition": "（口語、主に東京）「てしまう」（補助動詞）の転「ちまう」がさらに訛ったもの。動作・作用が完了すること、特に元に戻らない結果を残すことを表現し、そのことを嫌う（場合によっては逆に喜ぶ）気持をも含意する、一種の助動詞として用いられる。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			}
 		]
 	},
@@ -179561,7 +180567,7 @@
 			},
 			{
 				"definition": "死ぬ。くたばる。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>ぬ。くたばる。"
 			}
 		]
@@ -182908,34 +183914,36 @@
 		"definitions": [
 			{
 				"definition": "次に続く文に対する理由を表す。だから。",
+				"mayNotBeAccurate": 1,
 				"furigana": "<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>に<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>く<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>する<ruby>理由<rp>(</rp><rt>りゆう</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す。だから。"
 			},
 			{
 				"definition": "そうだ。ねやよ、よね、ななどと共に用いるか、「だろ（う）」などの形で用いる。",
+				"mayNotBeAccurate": 1,
 				"furigana": "そうだ。ねやよ、よね、ななどと<ruby>共<rp>(</rp><rt>とも</rt><rp>)</rp></ruby>に<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いるか、「だろ（う）」などの<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>で<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いる。"
 			},
 			{
 				"definition": "断定の意を表わす。体言、副詞及び一部の助詞・助動詞（接続形は）に接続する。なお、形容動詞を独立の品詞として認めない立場においては、語幹とされる名詞等に本助動詞が接続したものと説く。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			},
 			{
 				"definition": "述部の動詞、形容詞または動詞接尾辞のするを省略した文において、代わりに名詞述語文を成立させるために用いる助動詞。この構造はうなぎ文と呼ばれる。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>述<rp>(</rp><rt>じゅつ</rt><rp>)</rp></ruby><ruby>部<rp>(</rp><rt>ぶ</rt><rp>)</rp></ruby>の<ruby>動詞<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby>、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>または<ruby>動詞<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby><ruby>接尾<rp>(</rp><rt>せつび</rt><rp>)</rp></ruby><ruby>辞<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>のするを<ruby>省略<rp>(</rp><rt>しょうりゃく</rt><rp>)</rp></ruby>した<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>において、<ruby>代<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わりに<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby><ruby>述語<rp>(</rp><rt>じゅつご</rt><rp>)</rp></ruby><ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>を<ruby>成立<rp>(</rp><rt>せいりつ</rt><rp>)</rp></ruby>させるために<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いる<ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>。この<ruby>構造<rp>(</rp><rt>こうぞう</rt><rp>)</rp></ruby>はうなぎ<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれる。"
 			},
 			{
 				"definition": "会話などにおける疑問詞疑問文の文末について、疑問の語気を表す。のまたはんに後置するが、方言ではそのまま用いることもある。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>会話<rp>(</rp><rt>かいわ</rt><rp>)</rp></ruby>などにおける<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby><ruby>詞<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby><ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby><ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>の<ruby>文末<rp>(</rp><rt>ぶんまつ</rt><rp>)</rp></ruby>について、<ruby>疑問<rp>(</rp><rt>ぎもん</rt><rp>)</rp></ruby>の<ruby>語気<rp>(</rp><rt>ごき</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す。のまたはんに<ruby>後<rp>(</rp><rt>こう</rt><rp>)</rp></ruby><ruby>置<rp>(</rp><rt>置</rt><rp>)</rp></ruby>するが、<ruby>方言<rp>(</rp><rt>ほうげん</rt><rp>)</rp></ruby>ではそのまま<ruby>用<rp>(</rp><rt>もち</rt><rp>)</rp></ruby>いることもある。"
 			},
 			{
 				"definition": "（主語を置かない修辞的構文として）強調や詠嘆を表す。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "（<ruby>主語<rp>(</rp><rt>しゅご</rt><rp>)</rp></ruby>を<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>かない<ruby>修辞<rp>(</rp><rt>しゅうじ</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>構文<rp>(</rp><rt>こうぶん</rt><rp>)</rp></ruby>として）<ruby>強調<rp>(</rp><rt>きょうちょう</rt><rp>)</rp></ruby>や<ruby>詠嘆<rp>(</rp><rt>えいたん</rt><rp>)</rp></ruby>を<ruby>表<rp>(</rp><rt>あらわ</rt><rp>)</rp></ruby>す。"
 			},
 			{
 				"definition": "過去および完了の助動詞「た」が、イ音便の一部と撥音便に付く場合の形。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>過去<rp>(</rp><rt>かこ</rt><rp>)</rp></ruby>および<ruby>完了<rp>(</rp><rt>かんりょう</rt><rp>)</rp></ruby>の<ruby>助動詞<rp>(</rp><rt>じょどうし</rt><rp>)</rp></ruby>「た」が、イ<ruby>音便<rp>(</rp><rt>おんびん</rt><rp>)</rp></ruby>の<ruby>一部<rp>(</rp><rt>いちぶ</rt><rp>)</rp></ruby>と<ruby>撥音便<rp>(</rp><rt>はつおんびん</rt><rp>)</rp></ruby>に<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>く<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>の<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>。"
 			}
 		]
@@ -183555,27 +184563,27 @@
 		"definitions": [
 			{
 				"definition": "ふざける。たわむれる。はしゃぐ。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "ふざける。たわむれる。はしゃぐ。"
 			},
 			{
 				"definition": "すぐれた趣がある。しゃれている。風流である。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "すぐれた<ruby>趣<rp>(</rp><rt>おもむき</rt><rp>)</rp></ruby>がある。しゃれている。<ruby>風流<rp>(</rp><rt>ふうりゅう</rt><rp>)</rp></ruby>である。"
 			},
 			{
 				"definition": "気がきいている。物わかりがよく気転がきく。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がきいている。<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>わかりがよく<ruby>気転<rp>(</rp><rt>きてん</rt><rp>)</rp></ruby>がきく。"
 			},
 			{
 				"definition": "世慣れている。気がきく。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>世慣<rp>(</rp><rt>よな</rt><rp>)</rp></ruby>れている。<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がきく。"
 			},
 			{
 				"definition": "あだめいている。色めいている。くだけた感じがする。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "あだめいている。<ruby>色<rp>(</rp><rt>いろ</rt><rp>)</rp></ruby>めいている。くだけた<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じがする。"
 			}
 		]
@@ -186605,7 +187613,13 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ニドウイルス目コロナウイルス科に属し、一本鎖+RNAをゲノムとして持つウイルス。",
+				"furigana": "ニドウイルス<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>コロナウイルス<ruby>科<rp>(</rp><rt>か</rt><rp>)</rp></ruby>に<ruby>属<rp>(</rp><rt>ぞく</rt><rp>)</rp></ruby>し、<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby><ruby>鎖<rp>(</rp><rt>くさり</rt><rp>)</rp></ruby>+RNAをゲノムとして<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>つウイルス。"
+			}
+		]
 	},
 	{
 		"id": "2126080",
@@ -190692,6 +191706,16 @@
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はさよならも<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>わずに<ruby>出発<rp>(</rp><rt>しゅっぱつ</rt><rp>)</rp></ruby>した。",
 				"translation": "He departed without so much as saying good bye.",
 				"originalPhrase": "彼はさよならも言わずに出発した。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "別れること。",
+				"furigana": "<ruby>別<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>れること。"
+			},
+			{
+				"definition": "得点を取った時点で規定により勝敗が決したものとみなし、イニング裏の途中で試合が終了すること。",
+				"furigana": "<ruby>得点<rp>(</rp><rt>とくてん</rt><rp>)</rp></ruby>を<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>った<ruby>時点<rp>(</rp><rt>じてん</rt><rp>)</rp></ruby>で<ruby>規定<rp>(</rp><rt>きてい</rt><rp>)</rp></ruby>により<ruby>勝敗<rp>(</rp><rt>しょうはい</rt><rp>)</rp></ruby>が<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>したものとみなし、イニング<ruby>裏<rp>(</rp><rt>うら</rt><rp>)</rp></ruby>の<ruby>途中<rp>(</rp><rt>とちゅう</rt><rp>)</rp></ruby>で<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>が<ruby>終了<rp>(</rp><rt>しゅうりょう</rt><rp>)</rp></ruby>すること。"
 			}
 		]
 	},
@@ -200381,11 +201405,11 @@
 		"definitions": [
 			{
 				"definition": "動作・状態などの打消の意を作る。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			},
 			{
 				"definition": "語義1より、反語的用法として、勧誘の意を作る。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>語義<rp>(</rp><rt>ごぎ</rt><rp>)</rp></ruby>1より、<ruby>反語<rp>(</rp><rt>はんご</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>用法<rp>(</rp><rt>ようほう</rt><rp>)</rp></ruby>として、<ruby>勧誘<rp>(</rp><rt>かんゆう</rt><rp>)</rp></ruby>の<ruby>意<rp>(</rp><rt>い</rt><rp>)</rp></ruby>を<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>る。"
 			}
 		]
@@ -204615,36 +205639,36 @@
 		"definitions": [
 			{
 				"definition": "競争する。二者以上が互いに競い合う。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>する。<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby><ruby>以上<rp>(</rp><rt>いじょう</rt><rp>)</rp></ruby>が<ruby>互<rp>(</rp><rt>たが</rt><rp>)</rp></ruby>いに<ruby>競<rp>(</rp><rt>きそ</rt><rp>)</rp></ruby>い<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>う。"
 			},
 			{
 				"definition": "互角に近い競争や戦いをする。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>互角<rp>(</rp><rt>ごかく</rt><rp>)</rp></ruby>に<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>い<ruby>競争<rp>(</rp><rt>きょうそう</rt><rp>)</rp></ruby>や<ruby>戦<rp>(</rp><rt>たたか</rt><rp>)</rp></ruby>いをする。"
 			},
 			{
 				"definition": "競売において買い手が価格を高くし合う。",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "<ruby>競売<rp>(</rp><rt>きょうばい</rt><rp>)</rp></ruby>において<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>い<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>が<ruby>価格<rp>(</rp><rt>かかく</rt><rp>)</rp></ruby>を<ruby>高<rp>(</rp><rt>たか</rt><rp>)</rp></ruby>くし<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>う。"
 			},
 			{
 				"definition": "じりじりと動く",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "じりじりと<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>く"
 			},
 			{
 				"definition": "せまる",
-				"mayNotBeAccurate": true,
+				"mayNotBeAccurate": 2,
 				"furigana": "せまる"
 			},
 			{
 				"definition": "（使役）勧めたり命じたりして行う・従うようにする。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			},
 			{
 				"definition": "（許可・放任）そのようにすることを許す、あるいは、そのままにして置く。",
-				"mayNotBeAccurate": true
+				"mayNotBeAccurate": 2
 			}
 		]
 	},
@@ -208018,7 +209042,8 @@
 		],
 		"definitions": [
 			{
-				"definition": "東南アジア・インドシナ半島東部にある国。正式名称はベトナム社会主義共和国。首都はハノイ。"
+				"definition": "東南アジア・インドシナ半島東部にある国。正式名称はベトナム社会主義共和国。首都はハノイ。",
+				"mayNotBeAccurate": 1
 			}
 		]
 	},
@@ -210117,6 +211142,20 @@
 					"wordId": "2845215",
 					"glossNumber": 1
 				}
+			}
+		],
+		"definitions": [
+			{
+				"definition": "十字架。",
+				"furigana": "<ruby>十字架<rp>(</rp><rt>じゅうじか</rt><rp>)</rp></ruby>。"
+			},
+			{
+				"definition": "交差すること。",
+				"furigana": "<ruby>交差<rp>(</rp><rt>こうさ</rt><rp>)</rp></ruby>すること。"
+			},
+			{
+				"definition": "シュートさせるために、ゴール付近の味方選手にサイドからボールをパスすること。",
+				"furigana": "シュートさせるために、ゴール<ruby>付近<rp>(</rp><rt>ふきん</rt><rp>)</rp></ruby>の<ruby>味方<rp>(</rp><rt>みかた</rt><rp>)</rp></ruby><ruby>選手<rp>(</rp><rt>せんしゅ</rt><rp>)</rp></ruby>にサイドからボールをパスすること。"
 			}
 		]
 	},
@@ -212339,7 +213378,14 @@
 			"word::common",
 			"word::common_noun"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ビール。",
+				"mayNotBeAccurate": 2,
+				"furigana": "ビール。"
+			}
+		]
 	},
 	{
 		"id": "2852767",
@@ -216363,7 +217409,33 @@
 			"word::common_noun",
 			"word::music"
 		],
-		"common": true
+		"common": true,
+		"definitions": [
+			{
+				"definition": "ホテルで寝室・居間・浴室ひと揃いの部屋。スイートルーム。",
+				"mayNotBeAccurate": 1
+			},
+			{
+				"definition": "甘いこと。甘美なこと。快いこと。またそのさま。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>いこと。<ruby>甘美<rp>(</rp><rt>かんび</rt><rp>)</rp></ruby>なこと。<ruby>快<rp>(</rp><rt>こころよ</rt><rp>)</rp></ruby>いこと。またそのさま。"
+			},
+			{
+				"definition": "ひと組。ひと揃い。",
+				"mayNotBeAccurate": 2,
+				"furigana": "ひと<ruby>組<rp>(</rp><rt>くみ</rt><rp>)</rp></ruby>。ひと<ruby>揃<rp>(</rp><rt>そろ</rt><rp>)</rp></ruby>い。"
+			},
+			{
+				"definition": "複数のソフトウェアをひと揃いとしてまとめたもの。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>複数<rp>(</rp><rt>ふくすう</rt><rp>)</rp></ruby>のソフトウェアをひと<ruby>揃<rp>(</rp><rt>そろ</rt><rp>)</rp></ruby>いとしてまとめたもの。"
+			},
+			{
+				"definition": "汗。スウェット。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>汗<rp>(</rp><rt>あせ</rt><rp>)</rp></ruby>。スウェット。"
+			}
+		]
 	},
 	{
 		"id": "2862692",
@@ -217600,6 +218672,7 @@
 		"definitions": [
 			{
 				"definition": "ローマ神話の主神。女神ユーノーの夫。英語音ジュピター。",
+				"mayNotBeAccurate": 1,
 				"furigana": "ローマ<ruby>神話<rp>(</rp><rt>しんわ</rt><rp>)</rp></ruby>の<ruby>主神<rp>(</rp><rt>しゅしん</rt><rp>)</rp></ruby>。<ruby>女神<rp>(</rp><rt>めがみ</rt><rp>)</rp></ruby>ユーノーの<ruby>夫<rp>(</rp><rt>おっと</rt><rp>)</rp></ruby>。<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby><ruby>音<rp>(</rp><rt>おん</rt><rp>)</rp></ruby>ジュピター。"
 			}
 		]

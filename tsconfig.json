@@ -2,6 +2,7 @@
     "compilerOptions": {
         // Modules
         "target": "esnext",
+        "lib": ["ESNext"],
         "module": "node20",
         "allowUmdGlobalAccess": true,
         "moduleResolution": "node16",
@@ -52,5 +53,5 @@
         "skipDefaultLibCheck": true,
         "skipLibCheck": true
     },
-    "include": ["src"]
+    "include": ["src", "scripts"]
 }
