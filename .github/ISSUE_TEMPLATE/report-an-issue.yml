@@ -42,6 +42,18 @@ body:
     attributes:
       value: |
         Before opening an issue, check if the problem you are having is present in the latest versions of Anki or OS you are using and if the problem is actually deck-related or not.
+  - type: dropdown
+    id: deck_version
+    attributes:
+      label: I am using the latest deck version
+      description: "Verify if the problem you are having exists in the latest deck or deck builder version before opening an issue!"
+      options:
+        - Downloaded from AnkiWeb
+        - Manually imported the note files from the latest release
+        - Built the note files using the latest deck builder version and imported them
+      default: 0
+    validations:
+      required: true
   - type: input
     id: anki
     attributes:
@@ -50,31 +62,19 @@ body:
     validations:
       required: true
   - type: input
-    id: deck_version
-    attributes:
-      label: Deck version or commit SHA
-      description: "Verify if the problem you are having exists in the latest deck or deck builder version before opening an issue."
-      placeholder: "e.g. v3.2.0 / 6489c84d455c44582a37461b9e9acac8a1b42ef8"
-    validations:
-      required: true
-  - type: input
     id: device
     attributes:
-      label: Device
+      label: Device (if relevant)
       placeholder: "e.g. Desktop / Google Pixel 9 / iPhone X"
-    validations:
-      required: true
   - type: input
     id: os
     attributes:
-      label: Operating system
+      label: Operating system (if relevant)
       placeholder: "e.g. Windows 10 / macOS 12.4 / Android 16 (include the full version number and/or build if you think it's important)"
-    validations:
-      required: true
   - type: input
     id: node_js
     attributes:
-      label: Node.js version (if applicable)
+      label: Node.js version (if relevant)
       placeholder: "e.g. 24.4.1"
   - type: textarea
     id: additional_info
