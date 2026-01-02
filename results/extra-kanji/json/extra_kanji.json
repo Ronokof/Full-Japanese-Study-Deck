@@ -282,6 +282,39 @@
 		"source": "https://jpdb.io/kanji/穐"
 	},
 	{
+		"kanji": "葦",
+		"strokes": "13",
+		"grade": "9",
+		"frequency": "2343",
+		"noteID": "kanji_葦",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::13",
+			"kanji::frequency::2343",
+			"kanji::grade::9",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::6",
+			"kanji::nanori::0",
+			"kanji::words::0"
+		],
+		"meanings": [
+			"reed",
+			"bullrush"
+		],
+		"onyomi": [
+			"イ"
+		],
+		"kunyomi": [
+			"あし",
+			"よし",
+			"しお.れる",
+			"しな.びる",
+			"しぼ.む",
+			"な.える"
+		]
+	},
+	{
 		"kanji": "斡",
 		"strokes": "14",
 		"grade": "9",
@@ -585,7 +618,7 @@
 			"kanji::onyomi::1",
 			"kanji::kunyomi::1",
 			"kanji::nanori::0",
-			"kanji::words::2"
+			"kanji::words::3"
 		],
 		"meanings": [
 			"gadfly",
@@ -598,6 +631,23 @@
 			"あぶ"
 		],
 		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "虻"
+					}
+				],
+				"readings": [
+					{
+						"reading": "あぶ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "horsefly"
+					}
+				]
+			},
 			{
 				"kanjiForms": [
 					{
@@ -2607,16 +2657,6 @@
 			"うかが.う",
 			"のぞく"
 		],
-		"components": [
-			{
-				"component": "穴",
-				"meaning": "hole"
-			},
-			{
-				"component": "規",
-				"meaning": "criteria"
-			}
-		],
 		"words": [
 			{
 				"kanjiForms": [
@@ -2668,6 +2708,16 @@
 						"translation": "to watch for an unguarded moment"
 					}
 				]
+			}
+		],
+		"components": [
+			{
+				"component": "穴",
+				"meaning": "hole"
+			},
+			{
+				"component": "規",
+				"meaning": "criteria"
 			}
 		],
 		"source": "https://jpdb.io/kanji/窺"
@@ -17430,7 +17480,7 @@
 			"kanji::onyomi::1",
 			"kanji::kunyomi::1",
 			"kanji::nanori::0",
-			"kanji::words::1"
+			"kanji::words::2"
 		],
 		"meanings": [
 			"heron"
@@ -17456,6 +17506,23 @@
 				"translations": [
 					{
 						"translation": "heron with all-white plumage (incl. egrets)"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "鷺"
+					}
+				],
+				"readings": [
+					{
+						"reading": "さぎ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "heron (Ardeidae)"
 					}
 				]
 			}
@@ -31767,6 +31834,86 @@
 		"source": "https://jpdb.io/kanji/嚢"
 	},
 	{
+		"kanji": "膿",
+		"strokes": "17",
+		"noteID": "kanji_膿",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::17",
+			"kanji::onyomi::2",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::words::3"
+		],
+		"meanings": [
+			"pus",
+			"fester",
+			"discharge"
+		],
+		"onyomi": [
+			"ノウ",
+			"ドウ"
+		],
+		"kunyomi": [
+			"う.む",
+			"うみ"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "化膿"
+					}
+				],
+				"readings": [
+					{
+						"reading": "かのう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "suppuration"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "歯槽膿漏"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しそうのうろう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "periodontitis"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "蓄膿症"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ちくのうしょう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "empyema"
+					}
+				]
+			}
+		]
+	},
+	{
 		"kanji": "琶",
 		"strokes": "12",
 		"grade": "9",
@@ -42515,6 +42662,99 @@
 		"source": "https://jpdb.io/kanji/抉"
 	},
 	{
+		"kanji": "抓",
+		"strokes": "7",
+		"noteID": "kanji_抓",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::7",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::4",
+			"kanji::nanori::0",
+			"kanji::words::3",
+			"kanji::components::2"
+		],
+		"meanings": [
+			"pick",
+			"pinch",
+			"summarize"
+		],
+		"onyomi": [
+			"ソウ"
+		],
+		"kunyomi": [
+			"つ.ねる",
+			"つ.める",
+			"つね.る",
+			"つま.む"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "抓る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つねる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to pinch, to nip"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "抓む"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つまむ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to pinch, to hold (between one's fingers), to pick up and eat, to snack on, to pick out (the main point), to summarize"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "狐に抓まれる"
+					}
+				],
+				"readings": [
+					{
+						"reading": "きつねにつままれる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to be bewitched by a fox, to be confused"
+					}
+				]
+			}
+		],
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "爪",
+				"meaning": "claw"
+			}
+		],
+		"source": "https://jpdb.io/kanji/抓"
+	},
+	{
 		"kanji": "拗",
 		"strokes": "8",
 		"noteID": "kanji_拗",
@@ -42797,6 +43037,95 @@
 			}
 		],
 		"source": "https://jpdb.io/kanji/拵"
+	},
+	{
+		"kanji": "掏",
+		"strokes": "11",
+		"noteID": "kanji_掏",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::11",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::words::3",
+			"kanji::components::2"
+		],
+		"meanings": [
+			"pickpocket"
+		],
+		"onyomi": [
+			"トウ"
+		],
+		"kunyomi": [
+			"す.る",
+			"えら.ぶ"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "掏摸"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pickpocket"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "掏る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "する"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to pickpocket, to steal"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "掏児"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すり"
+					}
+				],
+				"translations": [
+					{
+						"translation": "pickpocket"
+					}
+				]
+			}
+		],
+		"components": [
+			{
+				"component": "扌",
+				"meaning": "left hand"
+			},
+			{
+				"component": "匋",
+				"meaning": "tin can in a bag"
+			}
+		],
+		"source": "https://jpdb.io/kanji/掏"
 	},
 	{
 		"kanji": "掟",
@@ -43452,7 +43781,7 @@
 			"kanji::onyomi::1",
 			"kanji::kunyomi::2",
 			"kanji::nanori::0",
-			"kanji::words::1"
+			"kanji::words::2"
 		],
 		"meanings": [
 			"crooked",
@@ -43466,6 +43795,23 @@
 			"ひ.く"
 		],
 		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "攣る"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to cramp"
+					}
+				]
+			},
 			{
 				"kanjiForms": [
 					{
@@ -43948,6 +44294,49 @@
 		"source": "https://jpdb.io/kanji/梳"
 	},
 	{
+		"kanji": "梟",
+		"strokes": "11",
+		"noteID": "kanji_梟",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::11",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::words::1"
+		],
+		"meanings": [
+			"owl",
+			"expose"
+		],
+		"onyomi": [
+			"キョウ"
+		],
+		"kunyomi": [
+			"ふくろう"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "梟"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ふくろう"
+					}
+				],
+				"translations": [
+					{
+						"translation": "owl (esp. the Ural owl, Strix uralensis)"
+					}
+				]
+			}
+		]
+	},
+	{
 		"kanji": "樅",
 		"strokes": "15",
 		"noteID": "kanji_樅",
@@ -43984,6 +44373,53 @@
 				"translations": [
 					{
 						"translation": "Japanese fir (Abies firma)"
+					}
+				]
+			}
+		]
+	},
+	{
+		"kanji": "橇",
+		"strokes": "16",
+		"noteID": "kanji_橇",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::16",
+			"kanji::onyomi::3",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::words::1"
+		],
+		"meanings": [
+			"sled",
+			"sleigh",
+			"snowshoes"
+		],
+		"onyomi": [
+			"キョウ",
+			"ゼイ",
+			"セイ"
+		],
+		"kunyomi": [
+			"そり",
+			"かんじき"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "橇"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ソリ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "sleigh"
 					}
 				]
 			}
@@ -45630,6 +46066,140 @@
 			}
 		],
 		"source": "https://jpdb.io/kanji/痒"
+	},
+	{
+		"kanji": "痞",
+		"strokes": "12",
+		"noteID": "kanji_痞",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::12",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::words::3"
+		],
+		"meanings": [
+			"constipation",
+			"costiveness in chest or intestines"
+		],
+		"onyomi": [
+			"ヒ"
+		],
+		"kunyomi": [
+			"つかえ"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "痞え"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つかえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "load on one's chest"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "痞え"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つかえ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "load on one's chest"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "痞える"
+					}
+				],
+				"readings": [
+					{
+						"reading": "つかえる"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to feel blocked (of one's chest or throat, due to grief, anxiety, illness, etc.)"
+					}
+				]
+			}
+		]
+	},
+	{
+		"kanji": "痰",
+		"strokes": "13",
+		"noteID": "kanji_痰",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::13",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::0",
+			"kanji::words::2"
+		],
+		"meanings": [
+			"sputum",
+			"phlegm"
+		],
+		"onyomi": [
+			"タン"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "痰"
+					}
+				],
+				"readings": [
+					{
+						"reading": "たん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "phlegm"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "血痰"
+					}
+				],
+				"readings": [
+					{
+						"reading": "けったん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "bloody phlegm"
+					}
+				]
+			}
+		]
 	},
 	{
 		"kanji": "痺",
@@ -48601,6 +49171,51 @@
 		"source": "https://jpdb.io/kanji/蚓"
 	},
 	{
+		"kanji": "蛆",
+		"strokes": "11",
+		"noteID": "kanji_蛆",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::11",
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::words::1"
+		],
+		"meanings": [
+			"worm",
+			"grub",
+			"maggot"
+		],
+		"onyomi": [
+			"ソ",
+			"ショ"
+		],
+		"kunyomi": [
+			"うじ"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "蛆"
+					}
+				],
+				"readings": [
+					{
+						"reading": "うじ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "maggot"
+					}
+				]
+			}
+		]
+	},
+	{
 		"kanji": "蛉",
 		"strokes": "11",
 		"noteID": "kanji_蛉",
@@ -50340,6 +50955,94 @@
 		"source": "https://jpdb.io/kanji/躅"
 	},
 	{
+		"kanji": "躾",
+		"strokes": "16",
+		"noteID": "kanji_躾",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::kokuji",
+			"kanji::strokes::16",
+			"kanji::onyomi::0",
+			"kanji::kunyomi::2",
+			"kanji::nanori::0",
+			"kanji::words::3",
+			"kanji::components::2"
+		],
+		"meanings": [
+			"training"
+		],
+		"kunyomi": [
+			"しつ.ける",
+			"しつけ"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "不躾"
+					}
+				],
+				"readings": [
+					{
+						"reading": "ぶしつけ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "ill-bred, impolite, rude, impudent, insolent, blunt"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "躾"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しつけ"
+					}
+				],
+				"translations": [
+					{
+						"translation": "discipline, training, teaching manners"
+					}
+				]
+			},
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "躾ける"
+					}
+				],
+				"readings": [
+					{
+						"reading": "しつける"
+					}
+				],
+				"translations": [
+					{
+						"translation": "to train, to discipline, to teach manners"
+					}
+				]
+			}
+		],
+		"kokuji": true,
+		"components": [
+			{
+				"component": "身",
+				"meaning": "one's body"
+			},
+			{
+				"component": "美",
+				"meaning": "beauty"
+			}
+		],
+		"source": "https://jpdb.io/kanji/躾"
+	},
+	{
 		"kanji": "軋",
 		"strokes": "8",
 		"noteID": "kanji_軋",
@@ -51826,6 +52529,50 @@
 			}
 		],
 		"source": "https://jpdb.io/kanji/靡"
+	},
+	{
+		"kanji": "鼈",
+		"strokes": "25",
+		"noteID": "kanji_鼈",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::25",
+			"kanji::onyomi::2",
+			"kanji::kunyomi::1",
+			"kanji::nanori::0",
+			"kanji::words::1"
+		],
+		"meanings": [
+			"snapping turtle",
+			"fresh-water turtle"
+		],
+		"onyomi": [
+			"ベツ",
+			"ヘツ"
+		],
+		"kunyomi": [
+			"すっぽん"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "鼈"
+					}
+				],
+				"readings": [
+					{
+						"reading": "すっぽん"
+					}
+				],
+				"translations": [
+					{
+						"translation": "Chinese soft-shelled turtle (Pelodiscus sinensis)"
+					}
+				]
+			}
+		]
 	},
 	{
 		"kanji": "捥",

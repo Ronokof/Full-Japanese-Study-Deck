@@ -54,7 +54,7 @@
 - **Extended kana** – 230 combinations (*ja, kya, gyu*, etc.), including uncommon ones.
 
 ### **JLPT** (intended for learning through spaced repetition)
-- **Vocabulary:** 7,459 words with audio, spanning **N5 to N1**.
+- **Vocabulary:** 7,239 words with audio, spanning **N5 to N1**.
 - **Kanji:** 2,216 kanji, categorized by JLPT level.
 - Source: [tanos.co.uk JLPT Resources](https://www.tanos.co.uk/jlpt/)
 
@@ -70,8 +70,8 @@
 - **5,555 common words** written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
-- **597 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project).
-- **30,915 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **608 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project).
+- **30,975 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 "*" - The number of entries will always change due to dictionary updates or selection logic modifications.
 
