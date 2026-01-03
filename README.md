@@ -50,30 +50,30 @@
 ## **Deck Contents**
 
 ### **Kana** (reference material)
-- **Basic kana** (Hiragana & Katakana) – 142 characters with readings and audio.
-- **Extended kana** – 230 combinations (*ja, kya, gyu*, etc.), including uncommon ones.
+- **Basic kana** (Hiragana & Katakana) — 142 characters with readings and audio.
+- **Extended kana** — 230 combinations (*ja, kya, gyu*, etc.), including uncommon ones.
 
 ### **JLPT** (intended for learning through spaced repetition)
-- **Vocabulary:** 8,095 words with audio, spanning **N5 to N1**.
-- **Kanji:** 2,216 kanji, categorized by JLPT level.
+- **Vocabulary** — 8,095 words with audio, spanning **N5 to N1**.
+- **Kanji** — 2,216 kanji, categorized by JLPT level.
 - Source: [tanos.co.uk JLPT Resources](https://www.tanos.co.uk/jlpt/)
 
 ### **Grammar** (intended for learning through spaced repetition & reference material)
-- **644 grammar points**, organized by JLPT level, with additional non-JLPT ones.
+- **644 grammar points** — organized by JLPT level, with additional non-JLPT ones.
 - Source: [JGram](https://jgram.org/)
 
 ### **Kanji Radicals** (reference material)
-- **261 radicals**, foundational for kanji recognition.
+- **261 radicals** — foundational for kanji recognition.
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
-- **5,552 common words** written entirely in kana.
+- **5,552 common words** — written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
-- **587 extra kanji**, sourced from [KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project).
-- **30,150 words**, each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **587 extra kanji** — found in frequently used words.
+- **30,150 words** — each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
-"*" - The number of entries will always change due to dictionary updates or selection logic modifications.
+"*" — The number of entries will always change due to dictionary updates or selection logic modifications.
 
 ---
 
@@ -81,16 +81,16 @@
 
 This deck is compiled from and inspired by multiple projects:
 
-- **[Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)** *([SIL Open Font License Version 1.1](https://openfontlicense.org/open-font-license-official-text/))*
-- **[JMDICT](https://www.edrdg.org/jmdict/j_jmdict.html)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))*
-- **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))*
-- **[Tanaka Corpus](https://www.edrdg.org/wiki/index.php/Tanaka_Corpus)** *([CC-BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/))*
-- **[JGram](https://jgram.org)** *([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))*
-- **[tanos.co.uk](https://www.tanos.co.uk/jlpt/)** *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
-- **[ja.wiktionary.org](https://ja.wiktionary.org/wiki/Wiktionary:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)** *([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja))*
-- **[KanjiVG](https://kanjivg.tagaini.net/)** *([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))*
-- **[jpdb](https://jpdb.io/)** *([ToS](https://jpdb.io/terms-of-use))*
-- **[Takoboto](https://takoboto.jp/)**
+- **[Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP)** *([SIL Open Font License Version 1.1](https://openfontlicense.org/open-font-license-official-text/))* — used text font
+- **[JMDICT](https://www.edrdg.org/jmdict/j_jmdict.html)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))* — Japanese vocabulary information
+- **[KANJIDIC](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)** *([EDRDG License](https://www.edrdg.org/edrdg/licence.html))* — Kanji information
+- **[Tanaka Corpus](https://www.edrdg.org/wiki/index.php/Tanaka_Corpus)** *([CC-BY 2.0 FR](https://creativecommons.org/licenses/by/2.0/fr/))* — Japanese phrases
+- **[JGram](https://jgram.org)** *([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))* — Grammar points
+- **[tanos.co.uk](https://www.tanos.co.uk/jlpt/)** *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))* — JLPT level-specific vocabulary and kanji lists
+- **[ja.wiktionary.org](https://ja.wiktionary.org/wiki/Wiktionary:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)** *([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja))* — Japanese definitions (定義) for words
+- **[KanjiVG](https://kanjivg.tagaini.net/)** *([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))* — SVG files for kanji
+- **[jpdb](https://jpdb.io/)** *([ToS](https://jpdb.io/terms-of-use))* — Additional kanji information
+- **[Takoboto](https://takoboto.jp/)** — Kanji radicals & *inspiration*
 
 ## **jpdb.io Notice**
 
@@ -108,15 +108,6 @@ Contribute or report any issues [here](https://github.com/Ronokof/Full-Japanese-
 
 ---
 
-## **Additional Notes**
-
-- **Audio Playback Settings:**
-  - If audio plays repetitively or automatically, turn on the **[Don’t play audio automatically](https://docs.ankiweb.net/deck-options.html#audio)** setting from the [deck's options](https://docs.ankiweb.net/deck-options.html).
-- **AWS Limitations:**
-  - Not all entries, particularly in the JLPT vocab subdeck, have accurate or available audio due to AWS constraints.
-
----
-
-This deck is an independent project and **is not affiliated with any contributing databases and projects**.
+This deck is an independent project and **is not affiliated with any contributing databases or projects**.
 
 Please read the [license](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/LICENSE.md) for more details.
