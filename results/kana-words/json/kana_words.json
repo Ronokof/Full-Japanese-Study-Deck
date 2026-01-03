@@ -16974,123 +16974,6 @@
 		"common": true
 	},
 	{
-		"id": "1014680",
-		"readings": [
-			{
-				"reading": "アウト",
-				"common": true
-			}
-		],
-		"translations": [
-			{
-				"translation": "out (of a ball; in tennis, etc.); outside the line",
-				"notes": [
-					"Common noun",
-					"Sports term",
-					"Related: イン・1"
-				]
-			},
-			{
-				"translation": "out; putout",
-				"notes": [
-					"Common noun",
-					"Baseball term",
-					"Related: セーフ・1"
-				]
-			},
-			{
-				"translation": "outer; external; outside",
-				"notes": [
-					"Noun or verb acting prenominally",
-					"Related: イン・2"
-				]
-			},
-			{
-				"translation": "exit; exit here",
-				"notes": [
-					"Unclassified",
-					"On (parking) exit signs"
-				]
-			},
-			{
-				"translation": "front nine",
-				"notes": [
-					"Common noun",
-					"Golf term",
-					"Related: イン・4"
-				]
-			},
-			{
-				"translation": "no good; unacceptable; out of line; over; finished; disqualified",
-				"notes": [
-					"な-adjective",
-					"Antonym: セーフ・3"
-				]
-			},
-			{
-				"translation": "check-out time",
-				"notes": [
-					"Common noun",
-					"Related: チェックアウト",
-					"Abbreviation"
-				]
-			}
-		],
-		"noteID": "word_1014680",
-		"noteTypeName": "Word",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::4. Vocab with no kanji (mining/reference)",
-		"tags": [
-			"word::common",
-			"word::common_noun",
-			"word::sports",
-			"word::baseball",
-			"word::noun_or_verb_acting_prenominally",
-			"word::unclassified",
-			"word::golf",
-			"word::na-adjective",
-			"word::abbreviation",
-			"word::has_phrases",
-			"word::has_meaning-specific_phrases"
-		],
-		"common": true,
-		"kanjiForms": [
-			{
-				"kanjiForm": "ＯＵＴ"
-			}
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>最初<rp>(</rp><rt>さいしょ</rt><rp>)</rp></ruby>の<ruby>打者<rp>(</rp><rt>だしゃ</rt><rp>)</rp></ruby>はアウトになった。",
-				"translation": "The first batter was caught out.",
-				"originalPhrase": "最初の打者はアウトになった。",
-				"glossNumber": {
-					"wordId": "1014680",
-					"glossNumber": 2
-				}
-			},
-			{
-				"phrase": "<ruby>打者<rp>(</rp><rt>だしゃ</rt><rp>)</rp></ruby>はアウトになった。",
-				"translation": "The batter was out.",
-				"originalPhrase": "打者はアウトになった。"
-			},
-			{
-				"phrase": "<ruby>審判<rp>(</rp><rt>しんぱん</rt><rp>)</rp></ruby>は<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>にアウトを<ruby>宣<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>した。",
-				"translation": "The umpire said that he was out.",
-				"originalPhrase": "審判は彼にアウトを宣した。"
-			},
-			{
-				"phrase": "<ruby>走者<rp>(</rp><rt>そうしゃ</rt><rp>)</rp></ruby>は<ruby>三塁<rp>(</rp><rt>さんるい</rt><rp>)</rp></ruby>でアウトになった。",
-				"translation": "The runner was called out at third.",
-				"originalPhrase": "走者は三塁でアウトになった。"
-			},
-			{
-				"phrase": "<ruby>審判<rp>(</rp><rt>しんぱん</rt><rp>)</rp></ruby>は<ruby>打者<rp>(</rp><rt>だしゃ</rt><rp>)</rp></ruby>にアウトを<ruby>宣<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>した。",
-				"translation": "The umpire called the batter out.",
-				"originalPhrase": "審判は打者にアウトを宣した。"
-			}
-		]
-	},
-	{
 		"id": "1014750",
 		"readings": [
 			{
@@ -33505,131 +33388,6 @@
 		"common": true
 	},
 	{
-		"id": "1031600",
-		"readings": [
-			{
-				"reading": "オッケー",
-				"common": true
-			},
-			{
-				"reading": "オーケー",
-				"common": true
-			},
-			{
-				"reading": "おっけー",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "オッケイ",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "オッケ",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "おっけい",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "おーけー",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "オーケイ",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "オッケィ",
-				"notes": [
-					"Search-only kana form"
-				]
-			},
-			{
-				"reading": "おっけ",
-				"notes": [
-					"Search-only kana form"
-				]
-			}
-		],
-		"translations": [
-			{
-				"translation": "OK; okay",
-				"notes": [
-					"Interjection",
-					"Common noun",
-					"Takes the aux. verb 'する'",
-					"Transitive verb",
-					"Intransitive verb"
-				]
-			},
-			{
-				"translation": "fine (without); not needed; unnecessary; all right",
-				"notes": [
-					"Common noun"
-				]
-			}
-		],
-		"noteID": "word_1031600",
-		"noteTypeName": "Word",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::4. Vocab with no kanji (mining/reference)",
-		"tags": [
-			"word::common",
-			"word::search-only_kana_form",
-			"word::interjection",
-			"word::common_noun",
-			"word::takes::suru",
-			"word::transitive_verb",
-			"word::intransitive_verb",
-			"word::has_phrases"
-		],
-		"common": true,
-		"kanjiForms": [
-			{
-				"kanjiForm": "ＯＫ"
-			}
-		],
-		"phrases": [
-			{
-				"phrase": "すべてオーケーだ。",
-				"translation": "Everything is OK.",
-				"originalPhrase": "すべてオーケーだ。"
-			},
-			{
-				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>さえオッケーなら<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>はいい。",
-				"translation": "I'm quite all right if you have no objection to it.",
-				"originalPhrase": "君さえオッケーなら僕はいい。"
-			},
-			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はＯＫのしぐさをして<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えた。",
-				"translation": "He responded by giving the \"OK\" gesture.",
-				"originalPhrase": "彼はＯＫのしぐさをして答えた。"
-			},
-			{
-				"phrase": "ＯＫ！<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みを<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ってお<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>におごるよ。",
-				"translation": "OK. I'll take a day off and treat you.",
-				"originalPhrase": "ＯＫ！休みを取ってお前におごるよ。"
-			},
-			{
-				"phrase": "ＯＫ。<ruby>隣<rp>(</rp><rt>となり</rt><rp>)</rp></ruby>にいるから、<ruby>言質<rp>(</rp><rt>げんち</rt><rp>)</rp></ruby>とれたら<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて。",
-				"translation": "OK. I'm just next door so if you can get that assurance let me know.",
-				"originalPhrase": "ＯＫ。隣にいるから、言質とれたら教えて。"
-			}
-		]
-	},
-	{
 		"id": "1031640",
 		"readings": [
 			{
@@ -43368,8 +43126,8 @@
 				"translation": "Groaning strangely she is hurling her overflowing passion onto the canvas!",
 				"originalPhrase": "なにやら唸りながら、ほとばしるパッションをキャンバスにぶつけている！",
 				"glossNumber": {
-					"wordId": "1565300",
-					"glossNumber": 1
+					"wordId": "1188500",
+					"glossNumber": 2
 				}
 			}
 		],
@@ -113566,79 +113324,6 @@
 		]
 	},
 	{
-		"id": "1108180",
-		"readings": [
-			{
-				"reading": "ファックス",
-				"common": true
-			},
-			{
-				"reading": "ファクス",
-				"common": true
-			}
-		],
-		"translations": [
-			{
-				"translation": "fax; facsimile",
-				"notes": [
-					"Common noun",
-					"Takes the aux. verb 'する'",
-					"Transitive verb",
-					"Related: ファクシミリ・2"
-				]
-			},
-			{
-				"translation": "fax machine",
-				"notes": [
-					"Common noun"
-				]
-			}
-		],
-		"noteID": "word_1108180",
-		"noteTypeName": "Word",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::4. Vocab with no kanji (mining/reference)",
-		"tags": [
-			"word::common",
-			"word::common_noun",
-			"word::takes::suru",
-			"word::transitive_verb",
-			"word::has_phrases"
-		],
-		"common": true,
-		"kanjiForms": [
-			{
-				"kanjiForm": "ＦＡＸ"
-			}
-		],
-		"phrases": [
-			{
-				"phrase": "それを<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にファックスしてください。",
-				"translation": "Please send it to me by fax.",
-				"originalPhrase": "それを私にファックスしてください。"
-			},
-			{
-				"phrase": "この<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>はファックスにつながっている。",
-				"translation": "This telephone is connected to the fax machine.",
-				"originalPhrase": "この電話はファックスにつながっている。"
-			},
-			{
-				"phrase": "<ruby>申込<rp>(</rp><rt>もうしこみ</rt><rp>)</rp></ruby><ruby>書<rp>(</rp><rt>しょ</rt><rp>)</rp></ruby>をファックスで<ruby>送<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>ってくれませんか。",
-				"translation": "Please fax me the application form.",
-				"originalPhrase": "申込書をファックスで送ってくれませんか。"
-			},
-			{
-				"phrase": "この<ruby>手紙<rp>(</rp><rt>てがみ</rt><rp>)</rp></ruby>を<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>までファックスしてください。",
-				"translation": "I'd like to fax this to Japan.",
-				"originalPhrase": "この手紙を日本までファックスしてください。"
-			},
-			{
-				"phrase": "これを<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>のこの<ruby>番号<rp>(</rp><rt>ばんごう</rt><rp>)</rp></ruby>にファックスしてください。",
-				"translation": "Fax this to this number in Tokyo, please.",
-				"originalPhrase": "これを東京のこの番号にファックスしてください。"
-			}
-		]
-	},
-	{
 		"id": "1108190",
 		"readings": [
 			{
@@ -176678,7 +176363,7 @@
 				"translation": "There she blows!",
 				"originalPhrase": "潮を吹いたぞ。",
 				"glossNumber": {
-					"wordId": "1428620",
+					"wordId": "2866951",
 					"glossNumber": 1
 				}
 			},
@@ -185207,6 +184892,18 @@
 				"phrase": "<ruby>青天白日<rp>(</rp><rt>せいてんはくじつ</rt><rp>)</rp></ruby>の<ruby>身<rp>(</rp><rt>み</rt><rp>)</rp></ruby>となった。",
 				"translation": "He was completely cleared of the charge against him.",
 				"originalPhrase": "青天白日の身となった。"
+			}
+		],
+		"definitions": [
+			{
+				"definition": "互いに連続して並ぶ。隣に位置する。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>互<rp>(</rp><rt>たが</rt><rp>)</rp></ruby>いに<ruby>連続<rp>(</rp><rt>れんぞく</rt><rp>)</rp></ruby>して<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>ぶ。<ruby>隣<rp>(</rp><rt>となり</rt><rp>)</rp></ruby>に<ruby>位置<rp>(</rp><rt>いち</rt><rp>)</rp></ruby>する。"
+			},
+			{
+				"definition": "区域などの境界が接する。",
+				"mayNotBeAccurate": 2,
+				"furigana": "<ruby>区域<rp>(</rp><rt>くいき</rt><rp>)</rp></ruby>などの<ruby>境界<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>が<ruby>接<rp>(</rp><rt>せっ</rt><rp>)</rp></ruby>する。"
 			}
 		]
 	},
