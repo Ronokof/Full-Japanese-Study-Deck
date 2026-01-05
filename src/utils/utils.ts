@@ -556,12 +556,12 @@ export async function generateAudio(client: PollyClient): Promise<void> {
           const kanjiForm: DictKanjiForm | undefined =
             rkf.kanjiForms !== undefined
               ? (rkf.kanjiForms.find(
-                (kf: DictKanjiForm) =>
-                  validReading.kanjiFormRestrictions !== undefined &&
-                  validReading.kanjiFormRestrictions.some(
-                    (r: string) => r === kf.form,
-                  ),
-              ) ?? rkf.kanjiForms[0])
+                  (kf: DictKanjiForm) =>
+                    validReading.kanjiFormRestrictions !== undefined &&
+                    validReading.kanjiFormRestrictions.some(
+                      (r: string) => r === kf.form,
+                    ),
+                ) ?? rkf.kanjiForms[0])
               : undefined;
 
           if (
@@ -673,7 +673,9 @@ export async function generateAudio(client: PollyClient): Promise<void> {
 
   if (readingsWithAudio.length > 0)
     saveEntries(
-      readingsWithAudio.toSorted((a: Word, b: Word) => Number(a.id!) - Number(b.id!)),
+      readingsWithAudio.toSorted(
+        (a: Word, b: Word) => Number(a.id!) - Number(b.id!),
+      ),
       "readings_with_audio",
       resultPaths.vocabJLPT,
       true,
@@ -1124,24 +1126,24 @@ export function getExtraKanji(): void {
             kanjiInfo.mnemonic !== undefined ||
             kanjiInfo.words !== undefined)
           ? getKanjiExtended(
-            kanjiInfo,
-            kanjiEntry,
-            undefined,
-            true,
-            jmDict,
-            undefined,
-            noteTypes.kanji,
-            kanjiDeck,
-            `https://jpdb.io/kanji/${kanjiEntry.kanji}`,
-          )
+              kanjiInfo,
+              kanjiEntry,
+              undefined,
+              true,
+              jmDict,
+              undefined,
+              noteTypes.kanji,
+              kanjiDeck,
+              `https://jpdb.io/kanji/${kanjiEntry.kanji}`,
+            )
           : getKanji(
-            kanjiEntry,
-            undefined,
-            jmDict,
-            undefined,
-            noteTypes.kanji,
-            kanjiDeck,
-          )
+              kanjiEntry,
+              undefined,
+              jmDict,
+              undefined,
+              noteTypes.kanji,
+              kanjiDeck,
+            )
         : undefined;
       if (
         kanjiObj !== undefined &&
