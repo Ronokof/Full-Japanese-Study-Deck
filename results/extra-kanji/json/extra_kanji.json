@@ -10265,6 +10265,50 @@
 		"source": "https://jpdb.io/kanji/灸"
 	},
 	{
+		"kanji": "笈",
+		"strokes": "9",
+		"grade": "9",
+		"noteID": "kanji_笈",
+		"noteTypeName": "Kanji",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::5. Extra kanji (mining/reference)::Kanji",
+		"tags": [
+			"kanji::strokes::9",
+			"kanji::grade::9",
+			"kanji::onyomi::1",
+			"kanji::kunyomi::0",
+			"kanji::nanori::1",
+			"kanji::words::1"
+		],
+		"meanings": [
+			"backpack bookcase"
+		],
+		"nanori": [
+			"おい"
+		],
+		"onyomi": [
+			"キュウ"
+		],
+		"words": [
+			{
+				"kanjiForms": [
+					{
+						"kanjiForm": "笈"
+					}
+				],
+				"readings": [
+					{
+						"reading": "おい"
+					}
+				],
+				"translations": [
+					{
+						"translation": "wooden box carried on one's back to store items for a pilgrimage"
+					}
+				]
+			}
+		]
+	},
+	{
 		"kanji": "鋸",
 		"strokes": "16",
 		"grade": "9",

@@ -53,8 +53,8 @@
 - **Basic kana** (Hiragana & Katakana) — 142 characters with readings and audio.
 - **Extended kana** — 230 combinations (*ja, kya, gyu*, etc.), including uncommon ones.
 
-### **JLPT** (intended for learning through spaced repetition)
-- **Vocabulary** — 8,095 words with audio, spanning **N5 to N1**.
+### **JLPT**/**Core** (intended for learning through spaced repetition)
+- **Vocabulary** — 8,095 words with audio, spanning **N5 to N1** + other common/useful/*"good to know"* ones.
 - **Kanji** — 2,216 kanji, categorized by JLPT level.
 - Source: [tanos.co.uk JLPT Resources](https://www.tanos.co.uk/jlpt/)
 
@@ -67,11 +67,11 @@
 - Source: [Takoboto's radicals list](https://takoboto.jp/lists/study/radicals/)
 
 ### **Kana-Only Vocabulary** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
-- **5,552 common words** — written entirely in kana.
+- **5,625 common words** — written entirely in kana.
 
 ### **Extra Common Kanji Collection** (reference & [ready-made](https://www.youtube.com/watch?v=jg09lNupc1s) mining material)*
-- **587 extra kanji** — found in frequently used words.
-- **30,150 words** — each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
+- **588 extra kanji** — found in frequently used words.
+- **30,249 words** — each linked to relevant kanji from both the extra kanji collection and JLPT kanji deck.
 
 "*" — The number of entries will always change due to dictionary updates or selection logic modifications.
 
