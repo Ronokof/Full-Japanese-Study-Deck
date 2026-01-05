@@ -4136,11 +4136,6 @@
 				"phrase": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>はおさないときに<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>をしゃぶり、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きくなって<ruby>父親<rp>(</rp><rt>ちちおや</rt><rp>)</rp></ruby>をしゃぶる。",
 				"translation": "Children suck the mother when they are young, and the father when they are old.",
 				"originalPhrase": "子供はおさないときに母をしゃぶり、大きくなって父親をしゃぶる。"
-			},
-			{
-				"phrase": "<ruby>子供<rp>(</rp><rt>こども</rt><rp>)</rp></ruby>はおさないときに<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>をしゃぶり、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きくなって<ruby>父親<rp>(</rp><rt>ちちおや</rt><rp>)</rp></ruby>をしゃぶる。",
-				"translation": "Children suck the mother when they are young, and the father when they are old.",
-				"originalPhrase": "子供はおさないときに母をしゃぶり、大きくなって父親をしゃぶる。"
 			}
 		],
 		"definitions": [
@@ -22016,11 +22011,6 @@
 				"phrase": "この<ruby>企画<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>にぴったりのライターを、<ruby>草<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>の<ruby>根<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>けてでも<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しだして<ruby>欲<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>しい。",
 				"translation": "I want you to search high and low for a writer who's just right for this project. Leave no stone unturned.",
 				"originalPhrase": "この企画にぴったりのライターを、草の根分けてでも探しだして欲しい。"
-			},
-			{
-				"phrase": "この<ruby>企画<rp>(</rp><rt>きかく</rt><rp>)</rp></ruby>にぴったりのライターを、<ruby>草<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>の<ruby>根<rp>(</rp><rt>ね</rt><rp>)</rp></ruby><ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>けてでも<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しだして<ruby>欲<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>しい。",
-				"translation": "I want you to search high and low for a writer who's just right for this project. Leave no stone unturned.",
-				"originalPhrase": "この企画にぴったりのライターを、草の根分けてでも探しだして欲しい。"
 			}
 		]
 	},
@@ -23860,9 +23850,9 @@
 				"originalPhrase": "ただの風のいたずらだよ。"
 			},
 			{
-				"phrase": "ただの<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>のいたずらだよ。",
-				"translation": "It's just a trick of the wind.",
-				"originalPhrase": "ただの風のいたずらだよ。"
+				"phrase": "それはひどいいたずらだ。",
+				"translation": "That's very naughty of you.",
+				"originalPhrase": "それはひどいいたずらだ。"
 			}
 		],
 		"definitions": [
@@ -30196,11 +30186,6 @@
 				"originalPhrase": "頭隠して尻隠さず。"
 			},
 			{
-				"phrase": "<ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby><ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>して<ruby>尻<rp>(</rp><rt>しり</rt><rp>)</rp></ruby><ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>さず。",
-				"translation": "Protect yourself at all points.",
-				"originalPhrase": "頭隠して尻隠さず。"
-			},
-			{
 				"phrase": "<ruby>雲<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>が<ruby>太陽<rp>(</rp><rt>たいよう</rt><rp>)</rp></ruby>を<ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>した。",
 				"translation": "The clouds hid the sun.",
 				"originalPhrase": "雲が太陽を隠した。"
@@ -30214,6 +30199,11 @@
 				"phrase": "<ruby>濃<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>い<ruby>茂<rp>(</rp><rt>しげ</rt><rp>)</rp></ruby>みが<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>を<ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>した。",
 				"translation": "Dense bushes concealed him.",
 				"originalPhrase": "濃い茂みが彼を隠した。"
+			},
+			{
+				"phrase": "<ruby>誤<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>りを<ruby>隠<rp>(</rp><rt>かく</rt><rp>)</rp></ruby>すことないよ。",
+				"translation": "You don't have to cover your mistake.",
+				"originalPhrase": "誤りを隠すことないよ。"
 			}
 		],
 		"definitions": [
@@ -48653,11 +48643,6 @@
 				"originalPhrase": "勘定は勘定。"
 			},
 			{
-				"phrase": "<ruby>勘定<rp>(</rp><rt>かんじょう</rt><rp>)</rp></ruby>は<ruby>勘定<rp>(</rp><rt>かんじょう</rt><rp>)</rp></ruby>。",
-				"translation": "Business is business.",
-				"originalPhrase": "勘定は勘定。"
-			},
-			{
 				"phrase": "お<ruby>勘定<rp>(</rp><rt>かんじょう</rt><rp>)</rp></ruby>です。",
 				"translation": "Here is your bill.",
 				"originalPhrase": "お勘定です。"
@@ -48671,6 +48656,11 @@
 				"phrase": "お<ruby>勘定<rp>(</rp><rt>かんじょう</rt><rp>)</rp></ruby>して<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい。",
 				"translation": "Check, please.",
 				"originalPhrase": "お勘定して下さい。"
+			},
+			{
+				"phrase": "<ruby>勘定<rp>(</rp><rt>かんじょう</rt><rp>)</rp></ruby>は<ruby>経費<rp>(</rp><rt>けいひ</rt><rp>)</rp></ruby>で<ruby>落<rp>(</rp><rt>お</rt><rp>)</rp></ruby>とした。",
+				"translation": "I paid the bill out of my expense account.",
+				"originalPhrase": "勘定は経費で落とした。"
 			}
 		],
 		"definitions": [
@@ -56273,11 +56263,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "<ruby>機長<rp>(</rp><rt>きちょう</rt><rp>)</rp></ruby>は<ruby>気象<rp>(</rp><rt>きしょう</rt><rp>)</rp></ruby><ruby>訓示<rp>(</rp><rt>くんじ</rt><rp>)</rp></ruby>を<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ける<ruby>為<rp>(</rp><rt>ため</rt><rp>)</rp></ruby>に<ruby>気象<rp>(</rp><rt>きしょう</rt><rp>)</rp></ruby><ruby>室<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く。",
-				"translation": "The captain will go to the meteorological office to get a weather briefing.",
-				"originalPhrase": "機長は気象訓示を受ける為に気象室へ行く。"
-			},
 			{
 				"phrase": "<ruby>機長<rp>(</rp><rt>きちょう</rt><rp>)</rp></ruby>は<ruby>気象<rp>(</rp><rt>きしょう</rt><rp>)</rp></ruby><ruby>訓示<rp>(</rp><rt>くんじ</rt><rp>)</rp></ruby>を<ruby>受<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ける<ruby>為<rp>(</rp><rt>ため</rt><rp>)</rp></ruby>に<ruby>気象<rp>(</rp><rt>きしょう</rt><rp>)</rp></ruby><ruby>室<rp>(</rp><rt>しつ</rt><rp>)</rp></ruby>へ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く。",
 				"translation": "The captain will go to the meteorological office to get a weather briefing.",
@@ -64432,19 +64417,19 @@
 				"originalPhrase": "それはごく平凡な物語だ。"
 			},
 			{
-				"phrase": "それはごく<ruby>平凡<rp>(</rp><rt>へいぼん</rt><rp>)</rp></ruby>な<ruby>物語<rp>(</rp><rt>ものがたり</rt><rp>)</rp></ruby>だ。",
-				"translation": "It's just another story.",
-				"originalPhrase": "それはごく平凡な物語だ。"
-			},
-			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>みはごく<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たり<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>さ。",
 				"translation": "My taste is quite normal.",
 				"originalPhrase": "私の好みはごく当たり前さ。"
 			},
 			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>みはごく<ruby>当<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>たり<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>さ。",
-				"translation": "My taste is quite normal.",
-				"originalPhrase": "私の好みはごく当たり前さ。"
+				"phrase": "ごく<ruby>内輪<rp>(</rp><rt>うちわ</rt><rp>)</rp></ruby>の<ruby>集<rp>(</rp><rt>あつ</rt><rp>)</rp></ruby>まりなのです。",
+				"translation": "It's quite an informal meeting.",
+				"originalPhrase": "ごく内輪の集まりなのです。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>がそういうのはごく<ruby>普通<rp>(</rp><rt>ふつう</rt><rp>)</rp></ruby>の<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>だ。",
+				"translation": "It is quite common for him to say so.",
+				"originalPhrase": "彼がそういうのはごく普通の事だ。"
 			}
 		],
 		"definitions": [
@@ -72184,11 +72169,6 @@
 				"originalPhrase": "芸術のための芸術。"
 			},
 			{
-				"phrase": "<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby>のための<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby>。",
-				"translation": "Art for art's sake.",
-				"originalPhrase": "芸術のための芸術。"
-			},
-			{
 				"phrase": "<ruby>当時<rp>(</rp><rt>とうじ</rt><rp>)</rp></ruby>、<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby>は<ruby>全盛<rp>(</rp><rt>ぜんせい</rt><rp>)</rp></ruby>でした。",
 				"translation": "Art was then at its best.",
 				"originalPhrase": "当時、芸術は全盛でした。"
@@ -72202,6 +72182,11 @@
 				"phrase": "<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>一生<rp>(</rp><rt>いっしょう</rt><rp>)</rp></ruby>の<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>だ。",
 				"translation": "Art is my lifework.",
 				"originalPhrase": "芸術は私の一生の仕事だ。"
+			},
+			{
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby><ruby>畑<rp>(</rp><rt>はたけ</rt><rp>)</rp></ruby>で<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>いています。",
+				"translation": "I work in the field of art.",
+				"originalPhrase": "私は芸術畑で働いています。"
 			}
 		]
 	},
@@ -74901,9 +74886,9 @@
 				"originalPhrase": "剣を取る者は皆剣で滅びる。"
 			},
 			{
-				"phrase": "<ruby>剣<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>を<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>る<ruby>者<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>は<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby><ruby>剣<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>で<ruby>滅<rp>(</rp><rt>ほろ</rt><rp>)</rp></ruby>びる。",
-				"translation": "All who take up the sword will perish by the sword.",
-				"originalPhrase": "剣を取る者は皆剣で滅びる。"
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はすきを<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>てて<ruby>剣<rp>(</rp><rt>けん</rt><rp>)</rp></ruby>を<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>った。",
+				"translation": "He exchanged a plough for a sword.",
+				"originalPhrase": "彼はすきを捨てて剣を取った。"
 			}
 		],
 		"definitions": [
@@ -98843,9 +98828,9 @@
 				"originalPhrase": "日時は指定されたが、場所は指定されていない。"
 			},
 			{
-				"phrase": "<ruby>日時<rp>(</rp><rt>にちじ</rt><rp>)</rp></ruby>は<ruby>指定<rp>(</rp><rt>してい</rt><rp>)</rp></ruby>されたが、<ruby>場所<rp>(</rp><rt>ばしょ</rt><rp>)</rp></ruby>は<ruby>指定<rp>(</rp><rt>してい</rt><rp>)</rp></ruby>されていない。",
-				"translation": "The date has been appointed but the place has not.",
-				"originalPhrase": "日時は指定されたが、場所は指定されていない。"
+				"phrase": "<ruby>切符<rp>(</rp><rt>きっぷ</rt><rp>)</rp></ruby>を<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>込<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>まれる<ruby>際<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>は<ruby>代替<rp>(</rp><rt>だいたい</rt><rp>)</rp></ruby><ruby>日<rp>(</rp><rt>び</rt><rp>)</rp></ruby>もご<ruby>指定<rp>(</rp><rt>してい</rt><rp>)</rp></ruby>ください。",
+				"translation": "When applying for tickets, please give alternative dates.",
+				"originalPhrase": "切符を申し込まれる際は代替日もご指定ください。"
 			}
 		],
 		"definitions": [
@@ -111119,9 +111104,9 @@
 				"originalPhrase": "彼の言うことはくさい。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うことはくさい。",
-				"translation": "I doubt the truth of his statement.",
-				"originalPhrase": "彼の言うことはくさい。"
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>がしたおならは<ruby>臭<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>い。",
+				"translation": "The wind he gave off smells.",
+				"originalPhrase": "彼がしたおならは臭い。"
 			}
 		],
 		"definitions": [
@@ -116660,9 +116645,9 @@
 				"originalPhrase": "書籍が学問に従うべく、学問が書籍に従うべからず。"
 			},
 			{
-				"phrase": "<ruby>書籍<rp>(</rp><rt>しょせき</rt><rp>)</rp></ruby>が<ruby>学問<rp>(</rp><rt>がくもん</rt><rp>)</rp></ruby>に<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>うべく、<ruby>学問<rp>(</rp><rt>がくもん</rt><rp>)</rp></ruby>が<ruby>書籍<rp>(</rp><rt>しょせき</rt><rp>)</rp></ruby>に<ruby>従<rp>(</rp><rt>したが</rt><rp>)</rp></ruby>うべからず。",
-				"translation": "Books must follow sciences, and not sciences books.",
-				"originalPhrase": "書籍が学問に従うべく、学問が書籍に従うべからず。"
+				"phrase": "<ruby>外国<rp>(</rp><rt>がいこく</rt><rp>)</rp></ruby>の<ruby>書籍<rp>(</rp><rt>しょせき</rt><rp>)</rp></ruby>や<ruby>定期<rp>(</rp><rt>ていき</rt><rp>)</rp></ruby><ruby>刊行<rp>(</rp><rt>かんこう</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>ぶつ</rt><rp>)</rp></ruby>を<ruby>販売<rp>(</rp><rt>はんばい</rt><rp>)</rp></ruby>している<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>がいくつかある。",
+				"translation": "There are a number of shops selling foreign books and periodicals.",
+				"originalPhrase": "外国の書籍や定期刊行物を販売している店がいくつかある。"
 			}
 		],
 		"definitions": [
@@ -118371,11 +118356,6 @@
 				"originalPhrase": "商売は商売。"
 			},
 			{
-				"phrase": "<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby>は<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby>。",
-				"translation": "Business is business.",
-				"originalPhrase": "商売は商売。"
-			},
-			{
 				"phrase": "<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby>は<ruby>赤字<rp>(</rp><rt>あかじ</rt><rp>)</rp></ruby>だ。",
 				"translation": "The business is in the red.",
 				"originalPhrase": "商売は赤字だ。"
@@ -118389,6 +118369,11 @@
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby>を<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めた。",
 				"translation": "He set up in business.",
 				"originalPhrase": "彼は商売を始めた。"
+			},
+			{
+				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>は<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby><ruby>熱心<rp>(</rp><rt>ねっしん</rt><rp>)</rp></ruby>だね。",
+				"translation": "You work hard.",
+				"originalPhrase": "君は商売熱心だね。"
 			}
 		]
 	},
@@ -127655,16 +127640,6 @@
 				"originalPhrase": "まさか、嘘でしょう。"
 			},
 			{
-				"phrase": "まさか、<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>でしょう。",
-				"translation": "You must be kidding!",
-				"originalPhrase": "まさか、嘘でしょう。"
-			},
-			{
-				"phrase": "まさか。<ruby>冗談<rp>(</rp><rt>じょうだん</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うなよ！",
-				"translation": "You must be kidding!",
-				"originalPhrase": "まさか。冗談言うなよ！"
-			},
-			{
 				"phrase": "まさか。<ruby>冗談<rp>(</rp><rt>じょうだん</rt><rp>)</rp></ruby><ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うなよ！",
 				"translation": "You must be kidding!",
 				"originalPhrase": "まさか。冗談言うなよ！"
@@ -127673,6 +127648,16 @@
 				"phrase": "まさか<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>に<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>えるとは<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>わなかった。",
 				"translation": "He was the last person I expected to see.",
 				"originalPhrase": "まさか彼に会えるとは思わなかった。"
+			},
+			{
+				"phrase": "まさかそんなことまで<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>う<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>はない。",
+				"translation": "I will not go to the length of saying such things.",
+				"originalPhrase": "まさかそんなことまで言う気はない。"
+			},
+			{
+				"phrase": "まさかリアルに<ruby>借金<rp>(</rp><rt>しゃっきん</rt><rp>)</rp></ruby>の<ruby>催促<rp>(</rp><rt>さいそく</rt><rp>)</rp></ruby>だったの？",
+				"translation": "No way, is this really a debt collection call?",
+				"originalPhrase": "まさかリアルに借金の催促だったの？"
 			}
 		],
 		"definitions": [
@@ -148768,14 +148753,14 @@
 				"originalPhrase": "新聞をたばにするのを手伝ってくれ。"
 			},
 			{
-				"phrase": "<ruby>新聞<rp>(</rp><rt>しんぶん</rt><rp>)</rp></ruby>をたばにするのを<ruby>手伝<rp>(</rp><rt>てつだ</rt><rp>)</rp></ruby>ってくれ。",
-				"translation": "Help me bind the papers into bundles.",
-				"originalPhrase": "新聞をたばにするのを手伝ってくれ。"
-			},
-			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>が<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れていった<ruby>書類<rp>(</rp><rt>しょるい</rt><rp>)</rp></ruby>の<ruby>束<rp>(</rp><rt>たば</rt><rp>)</rp></ruby>を<ruby>抱<rp>(</rp><rt>かか</rt><rp>)</rp></ruby>えて<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>後<rp>(</rp><rt>のち</rt><rp>)</rp></ruby>を<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いかけた。",
 				"translation": "I ran after him with a pile of papers that he'd left behind.",
 				"originalPhrase": "彼が忘れていった書類の束を抱えて彼の後を追いかけた。"
+			},
+			{
+				"phrase": "そうしたら、<ruby>茂<rp>(</rp><rt>しげ</rt><rp>)</rp></ruby>みの<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>にいくつかの１０００ドル<ruby>札<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>の<ruby>束<rp>(</rp><rt>たば</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つけ、それをバスケットの<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れた。",
+				"translation": "Then she found several stacks of thousand-dollar bills under a bush and put them in her basket.",
+				"originalPhrase": "そうしたら、茂みの下にいくつかの１０００ドル札の束を見つけ、それをバスケットの中に入れた。"
 			}
 		],
 		"definitions": [
@@ -194685,11 +194670,6 @@
 				"originalPhrase": "彼はびんに水を詰めた。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はびんに<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>詰<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>めた。",
-				"translation": "He filled the bottle with water.",
-				"originalPhrase": "彼はびんに水を詰めた。"
-			},
-			{
 				"phrase": "そのビンをあけてくれ。",
 				"translation": "Open the bottle.",
 				"originalPhrase": "そのビンをあけてくれ。"
@@ -194698,6 +194678,11 @@
 				"phrase": "<ruby>瓶<rp>(</rp><rt>びん</rt><rp>)</rp></ruby>には<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>牛乳<rp>(</rp><rt>ぎゅうにゅう</rt><rp>)</rp></ruby>がある。",
 				"translation": "There is a little milk in the bottle.",
 				"originalPhrase": "瓶には少し牛乳がある。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はビンに<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>満<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たした。",
+				"translation": "He filled the bottle with water.",
+				"originalPhrase": "彼はビンに水を満たした。"
 			}
 		],
 		"definitions": [
@@ -198933,11 +198918,6 @@
 				"originalPhrase": "補足情報には、副詞や副詞のはたらきをするものが入ります。"
 			},
 			{
-				"phrase": "<ruby>補足<rp>(</rp><rt>ほそく</rt><rp>)</rp></ruby><ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>には、<ruby>副詞<rp>(</rp><rt>ふくし</rt><rp>)</rp></ruby>や<ruby>副詞<rp>(</rp><rt>ふくし</rt><rp>)</rp></ruby>のはたらきをするものが<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ります。",
-				"translation": "Supplementary information includes adverbs and things that function as adverbs.",
-				"originalPhrase": "補足情報には、副詞や副詞のはたらきをするものが入ります。"
-			},
-			{
 				"phrase": "<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>には８つの<ruby>主<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>な<ruby>品詞<rp>(</rp><rt>ひんし</rt><rp>)</rp></ruby>があります：　<ruby>名詞<rp>(</rp><rt>めいし</rt><rp>)</rp></ruby>、<ruby>動詞<rp>(</rp><rt>どうし</rt><rp>)</rp></ruby>、<ruby>形容詞<rp>(</rp><rt>けいようし</rt><rp>)</rp></ruby>、<ruby>副詞<rp>(</rp><rt>ふくし</rt><rp>)</rp></ruby>、<ruby>代名詞<rp>(</rp><rt>だいめいし</rt><rp>)</rp></ruby>、<ruby>前置詞<rp>(</rp><rt>ぜんちし</rt><rp>)</rp></ruby>、<ruby>接続詞<rp>(</rp><rt>せつぞくし</rt><rp>)</rp></ruby>そして<ruby>感嘆<rp>(</rp><rt>かんたん</rt><rp>)</rp></ruby><ruby>詞<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>。",
 				"translation": "In English there are eight main parts of speech: noun, verb, adjective, adverb, pronoun, preposition, conjunction and finally interjection.",
 				"originalPhrase": "英語には８つの主な品詞があります：　名詞、動詞、形容詞、副詞、代名詞、前置詞、接続詞そして感嘆詞。"
@@ -202122,19 +202102,19 @@
 				"originalPhrase": "それは品質がよく、しかも安い。"
 			},
 			{
-				"phrase": "それは<ruby>品質<rp>(</rp><rt>ひんしつ</rt><rp>)</rp></ruby>がよく、しかも<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>い。",
-				"translation": "It is both good and cheap.",
-				"originalPhrase": "それは品質がよく、しかも安い。"
-			},
-			{
 				"phrase": "しかも<ruby>初陣<rp>(</rp><rt>ういじん</rt><rp>)</rp></ruby>があのドラゴン<ruby>退治<rp>(</rp><rt>たいじ</rt><rp>)</rp></ruby>！",
 				"translation": "What's more, our first battle is to defeat that dragon!",
 				"originalPhrase": "しかも初陣があのドラゴン退治！"
 			},
 			{
-				"phrase": "しかも<ruby>初陣<rp>(</rp><rt>ういじん</rt><rp>)</rp></ruby>があのドラゴン<ruby>退治<rp>(</rp><rt>たいじ</rt><rp>)</rp></ruby>！",
-				"translation": "What's more, our first battle is to defeat that dragon!",
-				"originalPhrase": "しかも初陣があのドラゴン退治！"
+				"phrase": "<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>でそれをせよ、しかも<ruby>直<rp>(</rp><rt>ただ</rt><rp>)</rp></ruby>ちに。",
+				"translation": "Do it yourself and do it right away.",
+				"originalPhrase": "自分でそれをせよ、しかも直ちに。"
+			},
+			{
+				"phrase": "それは<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>りやすいし、しかも<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>い。",
+				"translation": "It's easy to make and it's cheap.",
+				"originalPhrase": "それは作りやすいし、しかも安い。"
 			}
 		],
 		"definitions": [
@@ -203926,9 +203906,9 @@
 				"originalPhrase": "あたりに誰もいない。"
 			},
 			{
-				"phrase": "あたりに<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>もいない。",
-				"translation": "There is nobody about.",
-				"originalPhrase": "あたりに誰もいない。"
+				"phrase": "あたり１<ruby>面<rp>(</rp><rt>めん</rt><rp>)</rp></ruby><ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>だった。",
+				"translation": "There were flowers all around.",
+				"originalPhrase": "あたり１面花だった。"
 			}
 		],
 		"definitions": [
@@ -209568,16 +209548,6 @@
 				"originalPhrase": "およそ２週間で。"
 			},
 			{
-				"phrase": "およそ２<ruby>週間<rp>(</rp><rt>しゅうかん</rt><rp>)</rp></ruby>で。",
-				"translation": "In about two weeks.",
-				"originalPhrase": "およそ２週間で。"
-			},
-			{
-				"phrase": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>はおよそ<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わった。",
-				"translation": "My work is almost finished.",
-				"originalPhrase": "仕事はおよそ終わった。"
-			},
-			{
 				"phrase": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>はおよそ<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わった。",
 				"translation": "My work is almost finished.",
 				"originalPhrase": "仕事はおよそ終わった。"
@@ -209586,6 +209556,16 @@
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はおよそ５０ドル<ruby>払<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>った。",
 				"translation": "I paid a matter of fifty dollars.",
 				"originalPhrase": "私はおよそ５０ドル払った。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はおよそ１０<ruby>日間<rp>(</rp><rt>にちかん</rt><rp>)</rp></ruby><ruby>欠席<rp>(</rp><rt>けっせき</rt><rp>)</rp></ruby>した。",
+				"translation": "He was absent for a matter of ten days.",
+				"originalPhrase": "彼はおよそ１０日間欠席した。"
+			},
+			{
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はおよそ３<ruby>週間<rp>(</rp><rt>しゅうかん</rt><rp>)</rp></ruby>ここにいる。",
+				"translation": "I have been here for about three weeks.",
+				"originalPhrase": "私はおよそ３週間ここにいる。"
 			}
 		],
 		"definitions": [
@@ -216714,15 +216694,6 @@
 				}
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>役者<rp>(</rp><rt>やくしゃ</rt><rp>)</rp></ruby><ruby>中<rp>(</rp><rt>ちゅう</rt><rp>)</rp></ruby>の<ruby>役者<rp>(</rp><rt>やくしゃ</rt><rp>)</rp></ruby>だ。",
-				"translation": "He is an actor among actors.",
-				"originalPhrase": "彼は役者中の役者だ。",
-				"glossNumber": {
-					"wordId": "1457730",
-					"glossNumber": 2
-				}
-			},
-			{
 				"phrase": "あの<ruby>喜劇<rp>(</rp><rt>きげき</rt><rp>)</rp></ruby><ruby>役者<rp>(</rp><rt>やくしゃ</rt><rp>)</rp></ruby>は<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>こっけいだ。",
 				"translation": "That comedian is very funny.",
 				"originalPhrase": "あの喜劇役者は大変こっけいだ。"
@@ -216736,6 +216707,11 @@
 				"phrase": "あなたの<ruby>大好<rp>(</rp><rt>だいす</rt><rp>)</rp></ruby>きな<ruby>役者<rp>(</rp><rt>やくしゃ</rt><rp>)</rp></ruby>はだれですか。",
 				"translation": "Who is your favorite actor?",
 				"originalPhrase": "あなたの大好きな役者はだれですか。"
+			},
+			{
+				"phrase": "<ruby>役者<rp>(</rp><rt>やくしゃ</rt><rp>)</rp></ruby>は<ruby>台詞<rp>(</rp><rt>だいし</rt><rp>)</rp></ruby>を<ruby>暗記<rp>(</rp><rt>あんき</rt><rp>)</rp></ruby>しなければならない。",
+				"translation": "An actor has to memorize his lines.",
+				"originalPhrase": "役者は台詞を暗記しなければならない。"
 			}
 		]
 	},
@@ -230595,14 +230571,14 @@
 				"originalPhrase": "彼は本をわきへ片付けた。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>をわきへ<ruby>片付<rp>(</rp><rt>かたづ</rt><rp>)</rp></ruby>けた。",
-				"translation": "He put aside the book.",
-				"originalPhrase": "彼は本をわきへ片付けた。"
-			},
-			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を<ruby>歩道<rp>(</rp><rt>ほどう</rt><rp>)</rp></ruby>の<ruby>脇<rp>(</rp><rt>わき</rt><rp>)</rp></ruby>に<ruby>停<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めた。",
 				"translation": "He parked his car beside the sidewalk.",
 				"originalPhrase": "彼は車を歩道の脇に停めた。"
+			},
+			{
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>をわきへ<ruby>連<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>れて<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った。",
+				"translation": "I took him aside.",
+				"originalPhrase": "私は彼をわきへ連れて行った。"
 			}
 		],
 		"definitions": [
@@ -231321,23 +231297,23 @@
 				}
 			},
 			{
-				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>はほこりを<ruby>払<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>った。",
-				"translation": "She brushed away the dust.",
-				"originalPhrase": "彼女はほこりを払った。",
+				"phrase": "ほこりが<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>を<ruby>覆<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>っている。",
+				"translation": "Dust covers the desk.",
+				"originalPhrase": "ほこりが机を覆っている。"
+			},
+			{
+				"phrase": "<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>でほこりが<ruby>舞<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>っていた。",
+				"translation": "Dust was blowing in the wind.",
+				"originalPhrase": "風でほこりが舞っていた。"
+			},
+			{
+				"phrase": "<ruby>床<rp>(</rp><rt>ゆか</rt><rp>)</rp></ruby>はほこりをかぶっていた。",
+				"translation": "The floor was covered with dust.",
+				"originalPhrase": "床はほこりをかぶっていた。",
 				"glossNumber": {
-					"wordId": "1501620",
+					"wordId": "1484330",
 					"glossNumber": 2
 				}
-			},
-			{
-				"phrase": "ほこりが<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>を<ruby>覆<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>っている。",
-				"translation": "Dust covers the desk.",
-				"originalPhrase": "ほこりが机を覆っている。"
-			},
-			{
-				"phrase": "ほこりが<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>を<ruby>覆<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>っている。",
-				"translation": "Dust covers the desk.",
-				"originalPhrase": "ほこりが机を覆っている。"
 			}
 		],
 		"definitions": [
@@ -231491,9 +231467,9 @@
 				"originalPhrase": "いずれご連絡いたします。"
 			},
 			{
-				"phrase": "いずれご<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>いたします。",
-				"translation": "I will get in touch with you.",
-				"originalPhrase": "いずれご連絡いたします。"
+				"phrase": "どれが<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>たちの<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>ですか。",
+				"translation": "Which car is ours?",
+				"originalPhrase": "どれが私たちの車ですか。"
 			}
 		],
 		"definitions": [
@@ -234124,16 +234100,6 @@
 				"originalPhrase": "はさみを取って下さい。"
 			},
 			{
-				"phrase": "はさみを<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って<ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい。",
-				"translation": "Get me the scissors, please.",
-				"originalPhrase": "はさみを取って下さい。"
-			},
-			{
-				"phrase": "そのはさみは<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>れない。",
-				"translation": "The scissors are not sharp.",
-				"originalPhrase": "そのはさみは切れない。"
-			},
-			{
 				"phrase": "そのはさみは<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>れない。",
 				"translation": "The scissors are not sharp.",
 				"originalPhrase": "そのはさみは切れない。"
@@ -234142,6 +234108,16 @@
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>紙<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>をはさみで<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>った。",
 				"translation": "I cut the paper with a pair of scissors.",
 				"originalPhrase": "私は紙をはさみで切った。"
+			},
+			{
+				"phrase": "これは<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>のはさみだろう。",
+				"translation": "I wonder whose these scissors are.",
+				"originalPhrase": "これは誰のはさみだろう。"
+			},
+			{
+				"phrase": "<ruby>机<rp>(</rp><rt>つくえ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>にはさみがあります。",
+				"translation": "There is a pair of scissors on the desk.",
+				"originalPhrase": "机の上にはさみがあります。"
 			}
 		]
 	},
@@ -235784,11 +235760,6 @@
 				"phrase": "<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の<ruby>少女<rp>(</rp><rt>しょうじょ</rt><rp>)</rp></ruby>は<ruby>黄金<rp>(</rp><rt>おうごん</rt><rp>)</rp></ruby>ではなくて<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>のかんむりをかぶっています。",
 				"translation": "The girl in the picture is wearing a crown not of gold but of flowers.",
 				"originalPhrase": "絵の中の少女は黄金ではなくて花のかんむりをかぶっています。"
-			},
-			{
-				"phrase": "<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の<ruby>少女<rp>(</rp><rt>しょうじょ</rt><rp>)</rp></ruby>は<ruby>黄金<rp>(</rp><rt>おうごん</rt><rp>)</rp></ruby>ではなくて<ruby>花<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>のかんむりをかぶっています。",
-				"translation": "The girl in the picture is wearing a crown not of gold but of flowers.",
-				"originalPhrase": "絵の中の少女は黄金ではなくて花のかんむりをかぶっています。"
 			}
 		],
 		"definitions": [
@@ -236239,14 +236210,14 @@
 				"originalPhrase": "これらの本を２冊とも読んだ。"
 			},
 			{
-				"phrase": "これらの<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を２<ruby>冊<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>とも<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>んだ。",
-				"translation": "I've read both these books.",
-				"originalPhrase": "これらの本を２冊とも読んだ。"
-			},
-			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>往復<rp>(</rp><rt>おうふく</rt><rp>)</rp></ruby>ともタクシーに<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>った。",
 				"translation": "He took a taxi both ways.",
 				"originalPhrase": "彼は往復ともタクシーに乗った。"
+			},
+			{
+				"phrase": "<ruby>両国<rp>(</rp><rt>りょうこく</rt><rp>)</rp></ruby>とも<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>は<ruby>平和<rp>(</rp><rt>へいわ</rt><rp>)</rp></ruby>な<ruby>状態<rp>(</rp><rt>じょうたい</rt><rp>)</rp></ruby>にある。",
+				"translation": "Both countries are now at peace.",
+				"originalPhrase": "両国とも今は平和な状態にある。"
 			}
 		],
 		"definitions": [
@@ -241136,11 +241107,6 @@
 				"originalPhrase": "彼は私のほおに触った。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>のほおに<ruby>触<rp>(</rp><rt>さわ</rt><rp>)</rp></ruby>った。",
-				"translation": "He touched me on the cheek.",
-				"originalPhrase": "彼は私のほおに触った。"
-			},
-			{
 				"phrase": "<ruby>弾<rp>(</rp><rt>たま</rt><rp>)</rp></ruby>が<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>頬<rp>(</rp><rt>ほお</rt><rp>)</rp></ruby>をかすめた。",
 				"translation": "The bullet grazed his cheek.",
 				"originalPhrase": "弾が彼の頬をかすめた。"
@@ -241149,6 +241115,11 @@
 				"phrase": "<ruby>涙<rp>(</rp><rt>なみだ</rt><rp>)</rp></ruby>が<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>の<ruby>頬<rp>(</rp><rt>ほお</rt><rp>)</rp></ruby>に<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れた。",
 				"translation": "Tears were rolling down her cheek.",
 				"originalPhrase": "涙が彼女の頬に流れた。"
+			},
+			{
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>のほおは<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>かった。",
+				"translation": "Her cheeks were red.",
+				"originalPhrase": "彼女のほおは赤かった。"
 			}
 		],
 		"definitions": [
@@ -245227,11 +245198,6 @@
 					"wordId": "1588930",
 					"glossNumber": 1
 				}
-			},
-			{
-				"phrase": "<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby>のおかずはもう<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めてあります。",
-				"translation": "I've decided what to cook for dinner.",
-				"originalPhrase": "今晩のおかずはもう決めてあります。"
 			},
 			{
 				"phrase": "<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby>のおかずはもう<ruby>決<rp>(</rp><rt>き</rt><rp>)</rp></ruby>めてあります。",
@@ -251242,11 +251208,6 @@
 				"originalPhrase": "人の気性はさまざま。"
 			},
 			{
-				"phrase": "<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>気性<rp>(</rp><rt>きしょう</rt><rp>)</rp></ruby>はさまざま。",
-				"translation": "Every man has his humor.",
-				"originalPhrase": "人の気性はさまざま。"
-			},
-			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はさまざまな<ruby>経験<rp>(</rp><rt>けいけん</rt><rp>)</rp></ruby>をした。",
 				"translation": "He had various experiences.",
 				"originalPhrase": "彼はさまざまな経験をした。"
@@ -251260,6 +251221,11 @@
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はさまざまな<ruby>困難<rp>(</rp><rt>こんなん</rt><rp>)</rp></ruby>を<ruby>経験<rp>(</rp><rt>けいけん</rt><rp>)</rp></ruby>した。",
 				"translation": "I went through a lot of trouble.",
 				"originalPhrase": "私はさまざまな困難を経験した。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>生涯<rp>(</rp><rt>しょうがい</rt><rp>)</rp></ruby>にさまざまな<ruby>経験<rp>(</rp><rt>けいけん</rt><rp>)</rp></ruby>をした。",
+				"translation": "He had various experiences in his life.",
+				"originalPhrase": "彼は生涯にさまざまな経験をした。"
 			}
 		],
 		"definitions": [
@@ -254788,16 +254754,6 @@
 				"originalPhrase": "たとえ火の中水の中。"
 			},
 			{
-				"phrase": "たとえ<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby><ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>。",
-				"translation": "Go through fire and water.",
-				"originalPhrase": "たとえ火の中水の中。"
-			},
-			{
-				"phrase": "たとえ<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくても<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るよ。",
-				"translation": "Even if he is busy, he will come.",
-				"originalPhrase": "たとえ彼は忙しくても来るよ。"
-			},
-			{
 				"phrase": "たとえ<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくても<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るよ。",
 				"translation": "Even if he is busy, he will come.",
 				"originalPhrase": "たとえ彼は忙しくても来るよ。"
@@ -254806,6 +254762,16 @@
 				"phrase": "たとえ<ruby>大雨<rp>(</rp><rt>おおあめ</rt><rp>)</rp></ruby>になっても<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く。",
 				"translation": "I will go even if it should rain heavily.",
 				"originalPhrase": "たとえ大雨になっても私は行く。"
+			},
+			{
+				"phrase": "たとえ<ruby>多忙<rp>(</rp><rt>たぼう</rt><rp>)</rp></ruby>でも<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るだろう。",
+				"translation": "Even if he is busy, he will come.",
+				"originalPhrase": "たとえ多忙でも彼は来るだろう。"
+			},
+			{
+				"phrase": "たとえ<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>してもかまうものか。",
+				"translation": "If he fails, so what?",
+				"originalPhrase": "たとえ失敗してもかまうものか。"
 			}
 		],
 		"definitions": [
@@ -254899,19 +254865,19 @@
 				"originalPhrase": "私はたびたび彼を訪ねます。"
 			},
 			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はたびたび<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>を<ruby>訪<rp>(</rp><rt>たず</rt><rp>)</rp></ruby>ねます。",
-				"translation": "I often call on him.",
-				"originalPhrase": "私はたびたび彼を訪ねます。"
-			},
-			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はたびたび<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>遅刻<rp>(</rp><rt>ちこく</rt><rp>)</rp></ruby>する。",
 				"translation": "He is often late for school.",
 				"originalPhrase": "彼はたびたび学校に遅刻する。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はたびたび<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>に<ruby>遅刻<rp>(</rp><rt>ちこく</rt><rp>)</rp></ruby>する。",
-				"translation": "He is often late for school.",
-				"originalPhrase": "彼はたびたび学校に遅刻する。"
+				"phrase": "たびたびそこに<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>がある。",
+				"translation": "I have been there scores of times.",
+				"originalPhrase": "たびたびそこに行った事がある。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>からたびたび<ruby>便<rp>(</rp><rt>たよ</rt><rp>)</rp></ruby>りがありますか。",
+				"translation": "Do you often hear from him?",
+				"originalPhrase": "彼からたびたび便りがありますか。"
 			}
 		],
 		"definitions": [
@@ -264660,11 +264626,6 @@
 				"originalPhrase": "私は大阪生まれです。"
 			},
 			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby><ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれです。",
-				"translation": "I was born in Osaka.",
-				"originalPhrase": "私は大阪生まれです。"
-			},
-			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>の<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれです。",
 				"translation": "I was born in Osaka.",
 				"originalPhrase": "私は大阪の生まれです。"
@@ -264673,6 +264634,11 @@
 				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>名門<rp>(</rp><rt>めいもん</rt><rp>)</rp></ruby>の<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれだ。",
 				"translation": "She was born in the purple.",
 				"originalPhrase": "彼女は名門の生まれだ。"
+			},
+			{
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>高貴<rp>(</rp><rt>こうき</rt><rp>)</rp></ruby>な<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれだ。",
+				"translation": "She was born with a silver spoon in her mouth.",
+				"originalPhrase": "彼女は高貴な生まれだ。"
 			}
 		],
 		"definitions": [
@@ -265764,16 +265730,6 @@
 				"originalPhrase": "お前のせいだぞ。"
 			},
 			{
-				"phrase": "お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>のせいだぞ。",
-				"translation": "This is your fault.",
-				"originalPhrase": "お前のせいだぞ。"
-			},
-			{
-				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>はジムのせいだ。",
-				"translation": "You have Jim to thank for your failure.",
-				"originalPhrase": "君の失敗はジムのせいだ。"
-			},
-			{
 				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>はジムのせいだ。",
 				"translation": "You have Jim to thank for your failure.",
 				"originalPhrase": "君の失敗はジムのせいだ。"
@@ -265782,6 +265738,16 @@
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>のせいで<ruby>遅刻<rp>(</rp><rt>ちこく</rt><rp>)</rp></ruby>した。",
 				"translation": "He was late because of the snow.",
 				"originalPhrase": "彼は雪のせいで遅刻した。"
+			},
+			{
+				"phrase": "それは<ruby>実際<rp>(</rp><rt>じっさい</rt><rp>)</rp></ruby><ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>所為<rp>(</rp><rt>しょい</rt><rp>)</rp></ruby>である。",
+				"translation": "It is in fact your fault.",
+				"originalPhrase": "それは実際君の所為である。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>は<ruby>無知<rp>(</rp><rt>むち</rt><rp>)</rp></ruby>のせいである。",
+				"translation": "His failure is due to his ignorance.",
+				"originalPhrase": "彼の失敗は無知のせいである。"
 			}
 		],
 		"definitions": [
@@ -273325,13 +273291,9 @@
 				}
 			},
 			{
-				"phrase": "<ruby>表<rp>(</rp><rt>ひょう</rt><rp>)</rp></ruby>か<ruby>裏<rp>(</rp><rt>うら</rt><rp>)</rp></ruby>か。",
-				"translation": "Heads or tails?",
-				"originalPhrase": "表か裏か。",
-				"glossNumber": {
-					"wordId": "1550190",
-					"glossNumber": 1
-				}
+				"phrase": "<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby>か、<ruby>小<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby>か。",
+				"translation": "Large or small?",
+				"originalPhrase": "大か、小か。"
 			}
 		]
 	},
@@ -276674,11 +276636,6 @@
 				"originalPhrase": "彼はとてもけちだ。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はとてもけちだ。",
-				"translation": "He is very stingy with his money.",
-				"originalPhrase": "彼はとてもけちだ。"
-			},
-			{
 				"phrase": "なるほど<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>裕福<rp>(</rp><rt>ゆうふく</rt><rp>)</rp></ruby>だがケチだ。",
 				"translation": "It is true he is rich, but he is a miser.",
 				"originalPhrase": "なるほど彼は裕福だがケチだ。"
@@ -276689,9 +276646,14 @@
 				"originalPhrase": "金持ちかもしれないがけちだ。"
 			},
 			{
-				"phrase": "<ruby>金持<rp>(</rp><rt>かねも</rt><rp>)</rp></ruby>ちかもしれないがけちだ。",
-				"translation": "He may be rich, but he is stingy.",
-				"originalPhrase": "金持ちかもしれないがけちだ。"
+				"phrase": "<ruby>金持<rp>(</rp><rt>かねも</rt><rp>)</rp></ruby>ちはけちであることが<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>い。",
+				"translation": "The rich are often misers.",
+				"originalPhrase": "金持ちはけちであることが多い。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はけちとは<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>わないまでも<ruby>倹約<rp>(</rp><rt>けんやく</rt><rp>)</rp></ruby><ruby>家<rp>(</rp><rt>か</rt><rp>)</rp></ruby>だ。",
+				"translation": "He is thrifty, not to say stingy.",
+				"originalPhrase": "彼はけちとは言わないまでも倹約家だ。"
 			}
 		],
 		"definitions": [

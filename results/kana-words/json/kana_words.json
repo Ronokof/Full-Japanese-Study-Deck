@@ -5077,11 +5077,6 @@
 				"phrase": "ごたごたが<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>をごたごたさせるまでごたごたをごたごたさせるな。",
 				"translation": "Never trouble till trouble troubles you.",
 				"originalPhrase": "ごたごたが君をごたごたさせるまでごたごたをごたごたさせるな。"
-			},
-			{
-				"phrase": "ごたごたが<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>をごたごたさせるまでごたごたをごたごたさせるな。",
-				"translation": "Never trouble till trouble troubles you.",
-				"originalPhrase": "ごたごたが君をごたごたさせるまでごたごたをごたごたさせるな。"
 			}
 		]
 	},
@@ -15093,9 +15088,13 @@
 				"originalPhrase": "そのヤクザ達は対立するヤクザの親分を暗殺する計画の仲間に彼を入れた。"
 			},
 			{
-				"phrase": "そのヤクザ<ruby>達<rp>(</rp><rt>たち</rt><rp>)</rp></ruby>は<ruby>対立<rp>(</rp><rt>たいりつ</rt><rp>)</rp></ruby>するヤクザの<ruby>親分<rp>(</rp><rt>おやぶん</rt><rp>)</rp></ruby>を<ruby>暗殺<rp>(</rp><rt>あんさつ</rt><rp>)</rp></ruby>する<ruby>計画<rp>(</rp><rt>けいかく</rt><rp>)</rp></ruby>の<ruby>仲間<rp>(</rp><rt>なかま</rt><rp>)</rp></ruby>に<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>を<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れた。",
-				"translation": "The gangsters let him in on their plan to knock off a rival gang leader.",
-				"originalPhrase": "そのヤクザ達は対立するヤクザの親分を暗殺する計画の仲間に彼を入れた。"
+				"phrase": "『<ruby>極道<rp>(</rp><rt>ごくどう</rt><rp>)</rp></ruby>の<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>たち』は、1986<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>、<ruby>東映<rp>(</rp><rt>とうえい</rt><rp>)</rp></ruby><ruby>配給<rp>(</rp><rt>はいきゅう</rt><rp>)</rp></ruby><ruby>網<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>により<ruby>公開<rp>(</rp><rt>こうかい</rt><rp>)</rp></ruby>されたヤクザ<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>。",
+				"translation": "\"Gang Wives\" is a Yakuza movie released in 1986 by Toei Distribution Network.",
+				"originalPhrase": "『極道の妻たち』は、1986年、東映配給網により公開されたヤクザ映画。",
+				"glossNumber": {
+					"wordId": "1760650",
+					"glossNumber": 3
+				}
 			}
 		]
 	},
@@ -21911,11 +21910,6 @@
 				"phrase": "アルコールが<ruby>酸化<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>するとアルデヒドとなりますが、アルデヒドが<ruby>酸化<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>するとどうなりますか。",
 				"translation": "If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?",
 				"originalPhrase": "アルコールが酸化するとアルデヒドとなりますが、アルデヒドが酸化するとどうなりますか。"
-			},
-			{
-				"phrase": "アルコールが<ruby>酸化<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>するとアルデヒドとなりますが、アルデヒドが<ruby>酸化<rp>(</rp><rt>さんか</rt><rp>)</rp></ruby>するとどうなりますか。",
-				"translation": "If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?",
-				"originalPhrase": "アルコールが酸化するとアルデヒドとなりますが、アルデヒドが酸化するとどうなりますか。"
 			}
 		]
 	},
@@ -22046,11 +22040,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "トップのリーダーは<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>の<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>では「アルファ」と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれ、<ruby>以下<rp>(</rp><rt>いか</rt><rp>)</rp></ruby>「ベータ」「ガンマ」と<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きます。",
-				"translation": "In dog ethology the leader is called 'alpha'; after that it continues with 'beta' and 'gamma'.",
-				"originalPhrase": "トップのリーダーは犬の行動学では「アルファ」と呼ばれ、以下「ベータ」「ガンマ」と続きます。"
-			},
 			{
 				"phrase": "トップのリーダーは<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>の<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>では「アルファ」と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれ、<ruby>以下<rp>(</rp><rt>いか</rt><rp>)</rp></ruby>「ベータ」「ガンマ」と<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きます。",
 				"translation": "In dog ethology the leader is called 'alpha'; after that it continues with 'beta' and 'gamma'.",
@@ -30368,11 +30357,6 @@
 				"originalPhrase": "この問題は、アイドルのエゴとヲタのエゴの衝突だ。"
 			},
 			{
-				"phrase": "この<ruby>問題<rp>(</rp><rt>もんだい</rt><rp>)</rp></ruby>は、アイドルのエゴとヲタのエゴの<ruby>衝突<rp>(</rp><rt>しょうとつ</rt><rp>)</rp></ruby>だ。",
-				"translation": "This problem is the clash of the idol's and obsessive fan's egos.",
-				"originalPhrase": "この問題は、アイドルのエゴとヲタのエゴの衝突だ。"
-			},
-			{
 				"phrase": "<ruby>先進<rp>(</rp><rt>せんしん</rt><rp>)</rp></ruby><ruby>諸国<rp>(</rp><rt>しょこく</rt><rp>)</rp></ruby>では<ruby>出生<rp>(</rp><rt>しゅっしょう</rt><rp>)</rp></ruby><ruby>率<rp>(</rp><rt>りつ</rt><rp>)</rp></ruby>の<ruby>上昇<rp>(</rp><rt>じょうしょう</rt><rp>)</rp></ruby>が<ruby>図<rp>(</rp><rt>はか</rt><rp>)</rp></ruby>られる<ruby>一方<rp>(</rp><rt>いっぽう</rt><rp>)</rp></ruby>で、<ruby>発展<rp>(</rp><rt>はってん</rt><rp>)</rp></ruby><ruby>途上<rp>(</rp><rt>とじょう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>では<ruby>出生<rp>(</rp><rt>しゅっしょう</rt><rp>)</rp></ruby><ruby>率<rp>(</rp><rt>りつ</rt><rp>)</rp></ruby>の<ruby>抑制<rp>(</rp><rt>よくせい</rt><rp>)</rp></ruby>が<ruby>叫<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>ばれる。これは<ruby>先進<rp>(</rp><rt>せんしん</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>側<rp>(</rp><rt>がわ</rt><rp>)</rp></ruby>のエゴととらえられ、<ruby>発展<rp>(</rp><rt>はってん</rt><rp>)</rp></ruby><ruby>途上<rp>(</rp><rt>とじょう</rt><rp>)</rp></ruby><ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby><ruby>側<rp>(</rp><rt>がわ</rt><rp>)</rp></ruby>との<ruby>合意<rp>(</rp><rt>ごうい</rt><rp>)</rp></ruby><ruby>形成<rp>(</rp><rt>けいせい</rt><rp>)</rp></ruby>は<ruby>極<rp>(</rp><rt>きわ</rt><rp>)</rp></ruby>めて<ruby>難<rp>(</rp><rt>むずか</rt><rp>)</rp></ruby>しいことになろう。",
 				"translation": "While the birth rate is intended to be decreased in developing countries, that of developed nations is selfishly planned to be increased, resulting in the difficulty of getting mutual consent.",
 				"originalPhrase": "先進諸国では出生率の上昇が図られる一方で、発展途上国では出生率の抑制が叫ばれる。これは先進国側のエゴととらえられ、発展途上国側との合意形成は極めて難しいことになろう。"
@@ -37679,11 +37663,6 @@
 				"phrase": "フェミニストカウンセリングを<ruby>一言<rp>(</rp><rt>ひとこと</rt><rp>)</rp></ruby>で<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>するなら、<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>の<ruby>視点<rp>(</rp><rt>してん</rt><rp>)</rp></ruby>にたったカウンセリングということになるでしょうか。",
 				"translation": "If you sum up feminist counselling in a few words, I suppose it would be counselling done from a woman's standpoint.",
 				"originalPhrase": "フェミニストカウンセリングを一言で説明するなら、女性の視点にたったカウンセリングということになるでしょうか。"
-			},
-			{
-				"phrase": "フェミニストカウンセリングを<ruby>一言<rp>(</rp><rt>ひとこと</rt><rp>)</rp></ruby>で<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>するなら、<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>の<ruby>視点<rp>(</rp><rt>してん</rt><rp>)</rp></ruby>にたったカウンセリングということになるでしょうか。",
-				"translation": "If you sum up feminist counselling in a few words, I suppose it would be counselling done from a woman's standpoint.",
-				"originalPhrase": "フェミニストカウンセリングを一言で説明するなら、女性の視点にたったカウンセリングということになるでしょうか。"
 			}
 		]
 	},
@@ -39898,11 +39877,6 @@
 					"wordId": "1039320",
 					"glossNumber": 1
 				}
-			},
-			{
-				"phrase": "<ruby>部長<rp>(</rp><rt>ぶちょう</rt><rp>)</rp></ruby>カンカンになって<ruby>怒<rp>(</rp><rt>おこ</rt><rp>)</rp></ruby>ってたぞ。お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をしたんだよ。",
-				"translation": "The section chief was really livid. What did you do?",
-				"originalPhrase": "部長カンカンになって怒ってたぞ。お前何をしたんだよ。"
 			},
 			{
 				"phrase": "<ruby>部長<rp>(</rp><rt>ぶちょう</rt><rp>)</rp></ruby>カンカンになって<ruby>怒<rp>(</rp><rt>おこ</rt><rp>)</rp></ruby>ってたぞ。お<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby><ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をしたんだよ。",
@@ -45287,11 +45261,6 @@
 				"phrase": "アメリカでは１クォーターは２５セント、４クォーターは１ドルだ。",
 				"translation": "In American money, a \"quarter\" is 25 cents; 4 quarters make a dollar.",
 				"originalPhrase": "アメリカでは１クォーターは２５セント、４クォーターは１ドルだ。"
-			},
-			{
-				"phrase": "アメリカでは１クォーターは２５セント、４クォーターは１ドルだ。",
-				"translation": "In American money, a \"quarter\" is 25 cents; 4 quarters make a dollar.",
-				"originalPhrase": "アメリカでは１クォーターは２５セント、４クォーターは１ドルだ。"
 			}
 		],
 		"definitions": [
@@ -45551,11 +45520,6 @@
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>をのせるため<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby>のクッションを<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ってきた。",
 				"translation": "He fetched a few cushions to prop up her head.",
 				"originalPhrase": "彼は頭をのせるため二三のクッションを持ってきた。"
-			},
-			{
-				"phrase": "ソファーのクッションはひじ<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けいすのクッションとは<ruby>調和<rp>(</rp><rt>ちょうわ</rt><rp>)</rp></ruby>しない。",
-				"translation": "The cushions on the sofa don't match those on the armchairs.",
-				"originalPhrase": "ソファーのクッションはひじ掛けいすのクッションとは調和しない。"
 			},
 			{
 				"phrase": "ソファーのクッションはひじ<ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けいすのクッションとは<ruby>調和<rp>(</rp><rt>ちょうわ</rt><rp>)</rp></ruby>しない。",
@@ -48171,11 +48135,6 @@
 				"phrase": "しかも、<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>い<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にはセルビア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もクロアチア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もイスラム<ruby>教徒<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>もいるのとちょうど<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じように、よい<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にも、セルビア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もいれば、クロアチア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もイスラム<ruby>教<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>もいるのよ。",
 				"translation": "And among the good there are Serbs and Croats and Muslims, just as there are among the bad.",
 				"originalPhrase": "しかも、悪い人の中にはセルビア人もクロアチア人もイスラム教徒もいるのとちょうど同じように、よい人の中にも、セルビア人もいれば、クロアチア人もイスラム教もいるのよ。"
-			},
-			{
-				"phrase": "しかも、<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>い<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にはセルビア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もクロアチア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もイスラム<ruby>教徒<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>もいるのとちょうど<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じように、よい<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>にも、セルビア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もいれば、クロアチア<ruby>人<rp>(</rp><rt>じん</rt><rp>)</rp></ruby>もイスラム<ruby>教<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>もいるのよ。",
-				"translation": "And among the good there are Serbs and Croats and Muslims, just as there are among the bad.",
-				"originalPhrase": "しかも、悪い人の中にはセルビア人もクロアチア人もイスラム教徒もいるのとちょうど同じように、よい人の中にも、セルビア人もいれば、クロアチア人もイスラム教もいるのよ。"
 			}
 		]
 	},
@@ -48230,15 +48189,6 @@
 				"originalPhrase": "彼女はテーブルの上にクロスを広げた。",
 				"glossNumber": {
 					"wordId": "1045630",
-					"glossNumber": 1
-				}
-			},
-			{
-				"phrase": "マイクロファイバークロスは、<ruby>髪<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>の<ruby>毛<rp>(</rp><rt>け</rt><rp>)</rp></ruby>の１００<ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>の１という<ruby>細<rp>(</rp><rt>ほそ</rt><rp>)</rp></ruby>さの<ruby>繊維<rp>(</rp><rt>せんい</rt><rp>)</rp></ruby>で<ruby>編<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>みあげられたクロスです。",
-				"translation": "Microfibre cloth is cloth woven from fibres as narrow as a hundredth of the width of a hair.",
-				"originalPhrase": "マイクロファイバークロスは、髪の毛の１００分の１という細さの繊維で編みあげられたクロスです。",
-				"glossNumber": {
-					"wordId": "2222920",
 					"glossNumber": 1
 				}
 			},
@@ -52200,11 +52150,6 @@
 		],
 		"common": true,
 		"phrases": [
-			{
-				"phrase": "<ruby>電流<rp>(</rp><rt>でんりゅう</rt><rp>)</rp></ruby>が<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れる<ruby>電線<rp>(</rp><rt>でんせん</rt><rp>)</rp></ruby>にコイルを<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>づけると、コイルにも<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>が<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れます。",
-				"translation": "When a coil is moved near to a wire with current flowing in it current flows in the coil as well.",
-				"originalPhrase": "電流が流れる電線にコイルを近づけると、コイルにも電気が流れます。"
-			},
 			{
 				"phrase": "<ruby>電流<rp>(</rp><rt>でんりゅう</rt><rp>)</rp></ruby>が<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れる<ruby>電線<rp>(</rp><rt>でんせん</rt><rp>)</rp></ruby>にコイルを<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>づけると、コイルにも<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>が<ruby>流<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>れます。",
 				"translation": "When a coil is moved near to a wire with current flowing in it current flows in the coil as well.",
@@ -56212,11 +56157,6 @@
 				"phrase": "コンマで<ruby>文<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>を<ruby>次々<rp>(</rp><rt>つぎつぎ</rt><rp>)</rp></ruby>につないではいけない。",
 				"translation": "Don't run on your sentences with commas.",
 				"originalPhrase": "コンマで文を次々につないではいけない。"
-			},
-			{
-				"phrase": "カンマを<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れないようにしたいんだけど、６はカンマがないと<ruby>不自然<rp>(</rp><rt>ふしぜん</rt><rp>)</rp></ruby>な<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がします。",
-				"translation": "I'd like to do without commas, but 6 feels odd if it doesn't have commas.",
-				"originalPhrase": "カンマを入れないようにしたいんだけど、６はカンマがないと不自然な気がします。"
 			},
 			{
 				"phrase": "カンマを<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れないようにしたいんだけど、６はカンマがないと<ruby>不自然<rp>(</rp><rt>ふしぜん</rt><rp>)</rp></ruby>な<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がします。",
@@ -73676,11 +73616,6 @@
 				"phrase": "ストロンチウム９０：ストロンチウムの<ruby>放射<rp>(</rp><rt>ほうしゃ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>同位<rp>(</rp><rt>どうい</rt><rp>)</rp></ruby><ruby>体<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ；<ruby>放射<rp>(</rp><rt>ほうしゃ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>降下<rp>(</rp><rt>こうか</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>ぶつ</rt><rp>)</rp></ruby>に<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>まれ<ruby>人体<rp>(</rp><rt>じんたい</rt><rp>)</rp></ruby>に<ruby>有害<rp>(</rp><rt>ゆうがい</rt><rp>)</rp></ruby>。",
 				"translation": "Strontium 90: One of the radioisotopes of strontium; part of radioactive fallout, harmful to human health.",
 				"originalPhrase": "ストロンチウム９０：ストロンチウムの放射性同位体の一つ；放射性降下物に含まれ人体に有害。"
-			},
-			{
-				"phrase": "ストロンチウム９０：ストロンチウムの<ruby>放射<rp>(</rp><rt>ほうしゃ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>同位<rp>(</rp><rt>どうい</rt><rp>)</rp></ruby><ruby>体<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>の<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つ；<ruby>放射<rp>(</rp><rt>ほうしゃ</rt><rp>)</rp></ruby><ruby>性<rp>(</rp><rt>せい</rt><rp>)</rp></ruby><ruby>降下<rp>(</rp><rt>こうか</rt><rp>)</rp></ruby><ruby>物<rp>(</rp><rt>ぶつ</rt><rp>)</rp></ruby>に<ruby>含<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>まれ<ruby>人体<rp>(</rp><rt>じんたい</rt><rp>)</rp></ruby>に<ruby>有害<rp>(</rp><rt>ゆうがい</rt><rp>)</rp></ruby>。",
-				"translation": "Strontium 90: One of the radioisotopes of strontium; part of radioactive fallout, harmful to human health.",
-				"originalPhrase": "ストロンチウム９０：ストロンチウムの放射性同位体の一つ；放射性降下物に含まれ人体に有害。"
 			}
 		]
 	},
@@ -79930,11 +79865,6 @@
 				"phrase": "<ruby>順<rp>(</rp><rt>じゅん</rt><rp>)</rp></ruby>を<ruby>追<rp>(</rp><rt>お</rt><rp>)</rp></ruby>って<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>なタグを<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えていこう。",
 				"translation": "Let's learn the basic tags in order.",
 				"originalPhrase": "順を追って基本的なタグを覚えていこう。"
-			},
-			{
-				"phrase": "htmlは、<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>ルールとして<ruby>開始<rp>(</rp><rt>かいし</rt><rp>)</rp></ruby>タグと<ruby>終了<rp>(</rp><rt>しゅうりょう</rt><rp>)</rp></ruby>タグでマークアップして<ruby>要素<rp>(</rp><rt>ようそ</rt><rp>)</rp></ruby>とすると<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>しました。",
-				"translation": "We have explained that HTML is, as a basic rule, elements marked up with open and close tags.",
-				"originalPhrase": "htmlは、基本的ルールとして開始タグと終了タグでマークアップして要素とすると説明しました。"
 			},
 			{
 				"phrase": "htmlは、<ruby>基本<rp>(</rp><rt>きほん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby>ルールとして<ruby>開始<rp>(</rp><rt>かいし</rt><rp>)</rp></ruby>タグと<ruby>終了<rp>(</rp><rt>しゅうりょう</rt><rp>)</rp></ruby>タグでマークアップして<ruby>要素<rp>(</rp><rt>ようそ</rt><rp>)</rp></ruby>とすると<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>しました。",
@@ -87653,11 +87583,6 @@
 		],
 		"common": true,
 		"phrases": [
-			{
-				"phrase": "その<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>の<ruby>流行<rp>(</rp><rt>りゅうこう</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>はデジタルで、<ruby>例<rp>(</rp><rt>たと</rt><rp>)</rp></ruby>えばデジタル<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>、デジタルマイクロウエーブオーブンとか、デジタルペンであった。",
-				"translation": "That year's buzzword was digital: digital clocks, digital microwave ovens, even digital pens.",
-				"originalPhrase": "その年の流行語はデジタルで、例えばデジタル時計、デジタルマイクロウエーブオーブンとか、デジタルペンであった。"
-			},
 			{
 				"phrase": "その<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>の<ruby>流行<rp>(</rp><rt>りゅうこう</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>はデジタルで、<ruby>例<rp>(</rp><rt>たと</rt><rp>)</rp></ruby>えばデジタル<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>、デジタルマイクロウエーブオーブンとか、デジタルペンであった。",
 				"translation": "That year's buzzword was digital: digital clocks, digital microwave ovens, even digital pens.",
@@ -120222,11 +120147,6 @@
 				"phrase": "２．ペンで<ruby>厚紙<rp>(</rp><rt>あつがみ</rt><rp>)</rp></ruby>にブーメランの<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>を<ruby>描<rp>(</rp><rt>えが</rt><rp>)</rp></ruby>く。<ruby>描<rp>(</rp><rt>えが</rt><rp>)</rp></ruby>いたブーメランを<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>り<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>る。",
 				"translation": "2. Draw a boomerang shape on the card with a pen. Cut out the boomerang you've drawn.",
 				"originalPhrase": "２．ペンで厚紙にブーメランの形を描く。描いたブーメランを切り取る。"
-			},
-			{
-				"phrase": "２．ペンで<ruby>厚紙<rp>(</rp><rt>あつがみ</rt><rp>)</rp></ruby>にブーメランの<ruby>形<rp>(</rp><rt>かたち</rt><rp>)</rp></ruby>を<ruby>描<rp>(</rp><rt>えが</rt><rp>)</rp></ruby>く。<ruby>描<rp>(</rp><rt>えが</rt><rp>)</rp></ruby>いたブーメランを<ruby>切<rp>(</rp><rt>き</rt><rp>)</rp></ruby>り<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>る。",
-				"translation": "2. Draw a boomerang shape on the card with a pen. Cut out the boomerang you've drawn.",
-				"originalPhrase": "２．ペンで厚紙にブーメランの形を描く。描いたブーメランを切り取る。"
 			}
 		]
 	},
@@ -127496,11 +127416,6 @@
 				"phrase": "トップのリーダーは<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>の<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>では「アルファ」と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれ、<ruby>以下<rp>(</rp><rt>いか</rt><rp>)</rp></ruby>「ベータ」「ガンマ」と<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きます。",
 				"translation": "In dog ethology the leader is called 'alpha'; after that it continues with 'beta' and 'gamma'.",
 				"originalPhrase": "トップのリーダーは犬の行動学では「アルファ」と呼ばれ、以下「ベータ」「ガンマ」と続きます。"
-			},
-			{
-				"phrase": "トップのリーダーは<ruby>犬<rp>(</rp><rt>いぬ</rt><rp>)</rp></ruby>の<ruby>行動<rp>(</rp><rt>こうどう</rt><rp>)</rp></ruby><ruby>学<rp>(</rp><rt>がく</rt><rp>)</rp></ruby>では「アルファ」と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれ、<ruby>以下<rp>(</rp><rt>いか</rt><rp>)</rp></ruby>「ベータ」「ガンマ」と<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>きます。",
-				"translation": "In dog ethology the leader is called 'alpha'; after that it continues with 'beta' and 'gamma'.",
-				"originalPhrase": "トップのリーダーは犬の行動学では「アルファ」と呼ばれ、以下「ベータ」「ガンマ」と続きます。"
 			}
 		]
 	},
@@ -131754,11 +131669,6 @@
 				"phrase": "<ruby>労働<rp>(</rp><rt>ろうどう</rt><rp>)</rp></ruby><ruby>力<rp>(</rp><rt>りょく</rt><rp>)</rp></ruby>の４０パーセントはホワイトカラー<ruby>労働<rp>(</rp><rt>ろうどう</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>であり、その<ruby>大<rp>(</rp><rt>だい</rt><rp>)</rp></ruby><ruby>部分<rp>(</rp><rt>ぶぶん</rt><rp>)</rp></ruby>は、<ruby>退屈<rp>(</rp><rt>たいくつ</rt><rp>)</rp></ruby>でばかばかしいデッチアゲ<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>をしている。",
 				"translation": "Forty percent of the workforce are white-collar workers, most of whom have some of the most tedious and idiotic jobs ever concocted.",
 				"originalPhrase": "労働力の４０パーセントはホワイトカラー労働者であり、その大部分は、退屈でばかばかしいデッチアゲ仕事をしている。"
-			},
-			{
-				"phrase": "「１<ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>８<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>、<ruby>週<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>４０<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>」という<ruby>労働<rp>(</rp><rt>ろうどう</rt><rp>)</rp></ruby><ruby>基準<rp>(</rp><rt>きじゅん</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>が<ruby>定<rp>(</rp><rt>さだ</rt><rp>)</rp></ruby>める<ruby>労働<rp>(</rp><rt>ろうどう</rt><rp>)</rp></ruby><ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>の<ruby>規制<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>を<ruby>特定<rp>(</rp><rt>とくてい</rt><rp>)</rp></ruby>のホワイトカラーだけ<ruby>除外<rp>(</rp><rt>じょがい</rt><rp>)</rp></ruby>する「ホワイトカラー・エグゼンプション」の<ruby>議論<rp>(</rp><rt>ぎろん</rt><rp>)</rp></ruby>が<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>んでいる。",
-				"translation": "The argument continues about the \"white-collar exemption\" that exempts specific white-collar workers from the \"eight hours per day, 40 hours per week\" working hours, as fixed by labour standards legislation.",
-				"originalPhrase": "「１日８時間、週４０時間」という労働基準法が定める労働時間の規制を特定のホワイトカラーだけ除外する「ホワイトカラー・エグゼンプション」の議論が進んでいる。"
 			},
 			{
 				"phrase": "「１<ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>８<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>、<ruby>週<rp>(</rp><rt>しゅう</rt><rp>)</rp></ruby>４０<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>」という<ruby>労働<rp>(</rp><rt>ろうどう</rt><rp>)</rp></ruby><ruby>基準<rp>(</rp><rt>きじゅん</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>が<ruby>定<rp>(</rp><rt>さだ</rt><rp>)</rp></ruby>める<ruby>労働<rp>(</rp><rt>ろうどう</rt><rp>)</rp></ruby><ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>の<ruby>規制<rp>(</rp><rt>きせい</rt><rp>)</rp></ruby>を<ruby>特定<rp>(</rp><rt>とくてい</rt><rp>)</rp></ruby>のホワイトカラーだけ<ruby>除外<rp>(</rp><rt>じょがい</rt><rp>)</rp></ruby>する「ホワイトカラー・エグゼンプション」の<ruby>議論<rp>(</rp><rt>ぎろん</rt><rp>)</rp></ruby>が<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>んでいる。",
@@ -158809,11 +158719,6 @@
 				"phrase": "ログインできませんでした。<ruby>再度<rp>(</rp><rt>さいど</rt><rp>)</rp></ruby>ログインしてください。",
 				"translation": "Your login attempt was not successful. Please try again.",
 				"originalPhrase": "ログインできませんでした。再度ログインしてください。"
-			},
-			{
-				"phrase": "ログインできませんでした。<ruby>再度<rp>(</rp><rt>さいど</rt><rp>)</rp></ruby>ログインしてください。",
-				"translation": "Your login attempt was not successful. Please try again.",
-				"originalPhrase": "ログインできませんでした。再度ログインしてください。"
 			}
 		]
 	},
@@ -163500,14 +163405,14 @@
 				"originalPhrase": "風やら雨やらで旅行は台無しだった。"
 			},
 			{
-				"phrase": "<ruby>風<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby>やら<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>やらで<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>は<ruby>台無<rp>(</rp><rt>だいな</rt><rp>)</rp></ruby>しだった。",
-				"translation": "What with the wind and the rain, our trip was spoiled.",
-				"originalPhrase": "風やら雨やらで旅行は台無しだった。"
-			},
-			{
 				"phrase": "<ruby>疲労<rp>(</rp><rt>ひろう</rt><rp>)</rp></ruby>やら<ruby>飢<rp>(</rp><rt>う</rt><rp>)</rp></ruby>えやらで<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>目眩<rp>(</rp><rt>めまい</rt><rp>)</rp></ruby>を<ruby>感<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>じた。",
 				"translation": "What with fatigue and hunger, he was faint.",
 				"originalPhrase": "疲労やら飢えやらで彼は目眩を感じた。"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってよいのやらわからなかった。",
+				"translation": "He did not know what to say.",
+				"originalPhrase": "彼は何と言ってよいのやらわからなかった。"
 			}
 		]
 	},
@@ -164662,11 +164567,6 @@
 			"word::has_phrases"
 		],
 		"phrases": [
-			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はレシピからナッツをはずした。デリアはナッツアレルギーだから。",
-				"translation": "I've left out the nuts in this recipe because Delia's allergic to them.",
-				"originalPhrase": "私はレシピからナッツをはずした。デリアはナッツアレルギーだから。"
-			},
 			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はレシピからナッツをはずした。デリアはナッツアレルギーだから。",
 				"translation": "I've left out the nuts in this recipe because Delia's allergic to them.",
@@ -175851,11 +175751,6 @@
 				"phrase": "「どんなことでも<ruby>直<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ぐに<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かります、・・・ググれば」「ググれば？」",
 				"translation": "\"You can know anything instantly ... if you Google it.\" \"Google?\"",
 				"originalPhrase": "「どんなことでも直ぐに分かります、・・・ググれば」「ググれば？」"
-			},
-			{
-				"phrase": "「どんなことでも<ruby>直<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ぐに<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かります、・・・ググれば」「ググれば？」",
-				"translation": "\"You can know anything instantly ... if you Google it.\" \"Google?\"",
-				"originalPhrase": "「どんなことでも直ぐに分かります、・・・ググれば」「ググれば？」"
 			}
 		],
 		"definitions": [
@@ -179781,11 +179676,6 @@
 				"phrase": "「ちゃちなおもちゃみたいな」と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのは、ちゃちなおもちゃに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>です。",
 				"translation": "To say that it gives the impression of a cheap toy is unfair to cheap toys.",
 				"originalPhrase": "「ちゃちなおもちゃみたいな」と言うのは、ちゃちなおもちゃに対して失礼です。"
-			},
-			{
-				"phrase": "「ちゃちなおもちゃみたいな」と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うのは、ちゃちなおもちゃに<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>です。",
-				"translation": "To say that it gives the impression of a cheap toy is unfair to cheap toys.",
-				"originalPhrase": "「ちゃちなおもちゃみたいな」と言うのは、ちゃちなおもちゃに対して失礼です。"
 			}
 		]
 	},
@@ -180321,11 +180211,6 @@
 				"phrase": "なにちんたら<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>いてんだ。",
 				"translation": "Get a move on!",
 				"originalPhrase": "なにちんたら歩いてんだ。"
-			},
-			{
-				"phrase": "<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>い！まったくちんたらちんたらと・・・。",
-				"translation": "You're late! Sheesh, dilly-dally dilly-dally ...",
-				"originalPhrase": "遅い！まったくちんたらちんたらと・・・。"
 			},
 			{
 				"phrase": "<ruby>遅<rp>(</rp><rt>おそ</rt><rp>)</rp></ruby>い！まったくちんたらちんたらと・・・。",
@@ -183521,15 +183406,6 @@
 					"wordId": "1046070",
 					"glossNumber": 1
 				}
-			},
-			{
-				"phrase": "グーがチョキに、チョキがパーに、パーはグーに<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>つ。",
-				"translation": "Rock breaks scissors. Scissors cut paper. Paper smothers rock.",
-				"originalPhrase": "グーがチョキに、チョキがパーに、パーはグーに勝つ。",
-				"glossNumber": {
-					"wordId": "1046070",
-					"glossNumber": 1
-				}
 			}
 		]
 	},
@@ -186600,9 +186476,9 @@
 				"originalPhrase": "彼は正直でもあり親切でもある。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>正直<rp>(</rp><rt>しょうじき</rt><rp>)</rp></ruby>でもあり<ruby>親切<rp>(</rp><rt>しんせつ</rt><rp>)</rp></ruby>でもある。",
-				"translation": "He is at once honest and kind.",
-				"originalPhrase": "彼は正直でもあり親切でもある。"
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>教師<rp>(</rp><rt>きょうし</rt><rp>)</rp></ruby>でもあり<ruby>小説<rp>(</rp><rt>しょうせつ</rt><rp>)</rp></ruby><ruby>家<rp>(</rp><rt>か</rt><rp>)</rp></ruby>でもある。",
+				"translation": "He is a teacher and novelist.",
+				"originalPhrase": "彼は教師でもあり小説家でもある。"
 			}
 		]
 	},
@@ -186833,11 +186709,6 @@
 			"word::has_phrases"
 		],
 		"phrases": [
-			{
-				"phrase": "１モルの<ruby>氷<rp>(</rp><rt>こおり</rt><rp>)</rp></ruby>を<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>にするときと、１モルの<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>水蒸気<rp>(</rp><rt>すいじょうき</rt><rp>)</rp></ruby>にするとき、より<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くのエネルギーが<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>なのは？",
-				"translation": "When converting 1 mole of ice into water, and 1 mole of water into steam, which requires more energy?",
-				"originalPhrase": "１モルの氷を水にするときと、１モルの水を水蒸気にするとき、より多くのエネルギーが必要なのは？"
-			},
 			{
 				"phrase": "１モルの<ruby>氷<rp>(</rp><rt>こおり</rt><rp>)</rp></ruby>を<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>にするときと、１モルの<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>水蒸気<rp>(</rp><rt>すいじょうき</rt><rp>)</rp></ruby>にするとき、より<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>くのエネルギーが<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby>なのは？",
 				"translation": "When converting 1 mole of ice into water, and 1 mole of water into steam, which requires more energy?",
@@ -192783,11 +192654,6 @@
 				"originalPhrase": "どこへ行くべきかも、何をすべきかも分からない。"
 			},
 			{
-				"phrase": "どこへ<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くべきかも、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>をすべきかも<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>からない。",
-				"translation": "I don't know where to go or what to do.",
-				"originalPhrase": "どこへ行くべきかも、何をすべきかも分からない。"
-			},
-			{
 				"phrase": "<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>かしたら、その<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えが<ruby>間違<rp>(</rp><rt>まちが</rt><rp>)</rp></ruby>っていたって<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うかもよ。",
 				"translation": "You might have to eat those words a few years from now.",
 				"originalPhrase": "何年かしたら、その考えが間違っていたって思うかもよ。"
@@ -192796,6 +192662,11 @@
 				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>が<ruby>許<rp>(</rp><rt>ゆる</rt><rp>)</rp></ruby>してくれるまでそっとしておいたほうがいいかもね。",
 				"translation": "I think you'd better lie low until she forgives you.",
 				"originalPhrase": "彼女が許してくれるまでそっとしておいたほうがいいかもね。"
+			},
+			{
+				"phrase": "はい、<ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>はこれね！これとこれの<ruby>組<rp>(</rp><rt>く</rt><rp>)</rp></ruby>み<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>わせなんて<ruby>超<rp>(</rp><rt>ちょう</rt><rp>)</rp></ruby>いけてるかも！",
+				"translation": "OK, this next! The combination of this and this might be way sexy!",
+				"originalPhrase": "はい、今度はこれね！これとこれの組み合わせなんて超いけてるかも！"
 			}
 		]
 	},
@@ -195847,15 +195718,6 @@
 			"word::has_phrases"
 		],
 		"phrases": [
-			{
-				"phrase": "ＯＤＳスーパーアロイは<ruby>粉末<rp>(</rp><rt>ふんまつ</rt><rp>)</rp></ruby><ruby>冶金<rp>(</rp><rt>やきん</rt><rp>)</rp></ruby><ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>うメカニカルアロイ<ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>により<ruby>製造<rp>(</rp><rt>せいぞう</rt><rp>)</rp></ruby>されます。",
-				"translation": "ODS super alloy is produced by the mechanical alloy method following powder metallurgy.",
-				"originalPhrase": "ＯＤＳスーパーアロイは粉末冶金技術を伴うメカニカルアロイ法により製造されます。",
-				"glossNumber": {
-					"wordId": "1066710",
-					"glossNumber": 4
-				}
-			},
 			{
 				"phrase": "ＯＤＳスーパーアロイは<ruby>粉末<rp>(</rp><rt>ふんまつ</rt><rp>)</rp></ruby><ruby>冶金<rp>(</rp><rt>やきん</rt><rp>)</rp></ruby><ruby>技術<rp>(</rp><rt>ぎじゅつ</rt><rp>)</rp></ruby>を<ruby>伴<rp>(</rp><rt>ともな</rt><rp>)</rp></ruby>うメカニカルアロイ<ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>により<ruby>製造<rp>(</rp><rt>せいぞう</rt><rp>)</rp></ruby>されます。",
 				"translation": "ODS super alloy is produced by the mechanical alloy method following powder metallurgy.",
@@ -200797,11 +200659,6 @@
 				"phrase": "iTunesのＭＰ３エンコーダは<ruby>音質<rp>(</rp><rt>おんしつ</rt><rp>)</rp></ruby>が<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いって<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>？",
 				"translation": "Is it true that the iTunes' MP3 encoder has poor sound quality?",
 				"originalPhrase": "iTunesのＭＰ３エンコーダは音質が悪いって本当？"
-			},
-			{
-				"phrase": "iTunesのＭＰ３エンコーダは<ruby>音質<rp>(</rp><rt>おんしつ</rt><rp>)</rp></ruby>が<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>いって<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>？",
-				"translation": "Is it true that the iTunes' MP3 encoder has poor sound quality?",
-				"originalPhrase": "iTunesのＭＰ３エンコーダは音質が悪いって本当？"
 			}
 		]
 	},
@@ -204040,11 +203897,6 @@
 				"phrase": "このメルマガは、<ruby>昨今<rp>(</rp><rt>さっこん</rt><rp>)</rp></ruby>の<ruby>語学<rp>(</rp><rt>ごがく</rt><rp>)</rp></ruby><ruby>産業<rp>(</rp><rt>さんぎょう</rt><rp>)</rp></ruby><ruby>界<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby>甘言<rp>(</rp><rt>かんげん</rt><rp>)</rp></ruby>に<ruby>躍<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>らされることなく、<ruby>文法<rp>(</rp><rt>ぶんぽう</rt><rp>)</rp></ruby><ruby>解釈<rp>(</rp><rt>かいしゃく</rt><rp>)</rp></ruby>という<ruby>古典<rp>(</rp><rt>こてん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>こそ<ruby>王道<rp>(</rp><rt>おうどう</rt><rp>)</rp></ruby>と<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じて<ruby>疑<rp>(</rp><rt>うたが</rt><rp>)</rp></ruby>わない<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>のためのメルマガです。",
 				"translation": "This e-zine is for those who, unswayed by the cajolery of the modern language industry, firmly trust that the traditional learning method of grammatical analysis is the way to go.",
 				"originalPhrase": "このメルマガは、昨今の語学産業界の甘言に躍らされることなく、文法解釈という古典的学習法こそ王道と信じて疑わない方のためのメルマガです。"
-			},
-			{
-				"phrase": "このメルマガは、<ruby>昨今<rp>(</rp><rt>さっこん</rt><rp>)</rp></ruby>の<ruby>語学<rp>(</rp><rt>ごがく</rt><rp>)</rp></ruby><ruby>産業<rp>(</rp><rt>さんぎょう</rt><rp>)</rp></ruby><ruby>界<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>の<ruby>甘言<rp>(</rp><rt>かんげん</rt><rp>)</rp></ruby>に<ruby>躍<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>らされることなく、<ruby>文法<rp>(</rp><rt>ぶんぽう</rt><rp>)</rp></ruby><ruby>解釈<rp>(</rp><rt>かいしゃく</rt><rp>)</rp></ruby>という<ruby>古典<rp>(</rp><rt>こてん</rt><rp>)</rp></ruby><ruby>的<rp>(</rp><rt>てき</rt><rp>)</rp></ruby><ruby>学習<rp>(</rp><rt>がくしゅう</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>こそ<ruby>王道<rp>(</rp><rt>おうどう</rt><rp>)</rp></ruby>と<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じて<ruby>疑<rp>(</rp><rt>うたが</rt><rp>)</rp></ruby>わない<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>のためのメルマガです。",
-				"translation": "This e-zine is for those who, unswayed by the cajolery of the modern language industry, firmly trust that the traditional learning method of grammatical analysis is the way to go.",
-				"originalPhrase": "このメルマガは、昨今の語学産業界の甘言に躍らされることなく、文法解釈という古典的学習法こそ王道と信じて疑わない方のためのメルマガです。"
 			}
 		]
 	},
@@ -204541,16 +204393,6 @@
 				"phrase": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>はにゃーにゃーと<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>く。",
 				"translation": "Cats go \"meow, meow.\"",
 				"originalPhrase": "猫はにゃーにゃーと鳴く。"
-			},
-			{
-				"phrase": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>はにゃーにゃーと<ruby>鳴<rp>(</rp><rt>な</rt><rp>)</rp></ruby>く。",
-				"translation": "Cats go \"meow, meow.\"",
-				"originalPhrase": "猫はにゃーにゃーと鳴く。"
-			},
-			{
-				"phrase": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>はにゃーにゃーいいつづけた。",
-				"translation": "The cat continued to mew.",
-				"originalPhrase": "猫はにゃーにゃーいいつづけた。"
 			},
 			{
 				"phrase": "<ruby>猫<rp>(</rp><rt>ねこ</rt><rp>)</rp></ruby>はにゃーにゃーいいつづけた。",
@@ -212942,15 +212784,6 @@
 			}
 		],
 		"phrases": [
-			{
-				"phrase": "ＵＭＬのセマンティクスと<ruby>表記<rp>(</rp><rt>ひょうき</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>の<ruby>詳細<rp>(</rp><rt>しょうさい</rt><rp>)</rp></ruby>については、ＵＭＬドキュメントを<ruby>参照<rp>(</rp><rt>さんしょう</rt><rp>)</rp></ruby>してください。",
-				"translation": "Please refer to the UML documentation for the detailed information about UML semantics and notation.",
-				"originalPhrase": "ＵＭＬのセマンティクスと表記法の詳細については、ＵＭＬドキュメントを参照してください。",
-				"glossNumber": {
-					"wordId": "1088120",
-					"glossNumber": 1
-				}
-			},
 			{
 				"phrase": "ＵＭＬのセマンティクスと<ruby>表記<rp>(</rp><rt>ひょうき</rt><rp>)</rp></ruby><ruby>法<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>の<ruby>詳細<rp>(</rp><rt>しょうさい</rt><rp>)</rp></ruby>については、ＵＭＬドキュメントを<ruby>参照<rp>(</rp><rt>さんしょう</rt><rp>)</rp></ruby>してください。",
 				"translation": "Please refer to the UML documentation for the detailed information about UML semantics and notation.",
@@ -221770,11 +221603,6 @@
 			"word::has_phrases"
 		],
 		"phrases": [
-			{
-				"phrase": "バッターのカウントはツーストライクツーボール。",
-				"translation": "The batter has two balls and two strikes on him.",
-				"originalPhrase": "バッターのカウントはツーストライクツーボール。"
-			},
 			{
 				"phrase": "バッターのカウントはツーストライクツーボール。",
 				"translation": "The batter has two balls and two strikes on him.",

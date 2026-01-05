@@ -260,19 +260,19 @@
 				"originalPhrase": "あの城は美しい。"
 			},
 			{
-				"phrase": "あの<ruby>城<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>は<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しい。",
-				"translation": "That castle is beautiful.",
-				"originalPhrase": "あの城は美しい。"
-			},
-			{
 				"phrase": "あの<ruby>建物<rp>(</rp><rt>たてもの</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て。",
 				"translation": "Look at that building.",
 				"originalPhrase": "あの建物を見て。"
 			},
 			{
-				"phrase": "あの<ruby>建物<rp>(</rp><rt>たてもの</rt><rp>)</rp></ruby>を<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て。",
-				"translation": "Look at that building.",
-				"originalPhrase": "あの建物を見て。"
+				"phrase": "あの<ruby>鞄<rp>(</rp><rt>かばん</rt><rp>)</rp></ruby>が<ruby>欲<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>しい。",
+				"translation": "I want that bag.",
+				"originalPhrase": "あの鞄が欲しい。"
+			},
+			{
+				"phrase": "あの<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>、<ruby>最低<rp>(</rp><rt>さいてい</rt><rp>)</rp></ruby>！",
+				"translation": "That movie stinks!",
+				"originalPhrase": "あの映画、最低！"
 			}
 		],
 		"definitions": [
@@ -2787,14 +2787,14 @@
 				"originalPhrase": "そこを何とか。"
 			},
 			{
-				"phrase": "そこを<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>とか。",
-				"translation": "I hope you can do something to help me out.",
-				"originalPhrase": "そこを何とか。"
-			},
-			{
 				"phrase": "そこは<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>です。",
 				"translation": "There is Tokyo.",
 				"originalPhrase": "そこは東京です。"
+			},
+			{
+				"phrase": "そこは<ruby>混<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>んでた？",
+				"translation": "Was there a lot of traffic?",
+				"originalPhrase": "そこは混んでた？"
 			}
 		],
 		"definitions": [
@@ -4146,19 +4146,19 @@
 				"originalPhrase": "一杯どう？"
 			},
 			{
-				"phrase": "<ruby>一杯<rp>(</rp><rt>いっぱい</rt><rp>)</rp></ruby>どう？",
-				"translation": "How about a drink?",
-				"originalPhrase": "一杯どう？"
-			},
-			{
 				"phrase": "どう<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？",
 				"translation": "Now, what do you think?",
 				"originalPhrase": "どう思う？"
 			},
 			{
-				"phrase": "どう<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>う？",
-				"translation": "Now, what do you think?",
-				"originalPhrase": "どう思う？"
+				"phrase": "<ruby>景気<rp>(</rp><rt>けいき</rt><rp>)</rp></ruby>はどう？",
+				"translation": "How goes it?",
+				"originalPhrase": "景気はどう？"
+			},
+			{
+				"phrase": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>どうだ？",
+				"translation": "How have you been recently?",
+				"originalPhrase": "最近どうだ？"
 			}
 		],
 		"definitions": [
@@ -4362,14 +4362,14 @@
 				"originalPhrase": "どれが私たちの車ですか。"
 			},
 			{
-				"phrase": "どれが<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>たちの<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>ですか。",
-				"translation": "Which car is ours?",
-				"originalPhrase": "どれが私たちの車ですか。"
-			},
-			{
 				"phrase": "あなたの<ruby>鞄<rp>(</rp><rt>かばん</rt><rp>)</rp></ruby>はどれですか。",
 				"translation": "Which is your bag?",
 				"originalPhrase": "あなたの鞄はどれですか。"
+			},
+			{
+				"phrase": "いずれご<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>いたします。",
+				"translation": "I will get in touch with you.",
+				"originalPhrase": "いずれご連絡いたします。"
 			}
 		],
 		"definitions": [
@@ -5909,16 +5909,6 @@
 				"originalPhrase": "その湖は周囲が５キロメートルある。"
 			},
 			{
-				"phrase": "その<ruby>湖<rp>(</rp><rt>みずうみ</rt><rp>)</rp></ruby>は<ruby>周囲<rp>(</rp><rt>しゅうい</rt><rp>)</rp></ruby>が５キロメートルある。",
-				"translation": "The lake is five kilometers round.",
-				"originalPhrase": "その湖は周囲が５キロメートルある。"
-			},
-			{
-				"phrase": "それはロンドンから<ruby>約<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>１３３キロメートルです。",
-				"translation": "It's about 133 kilometers from London.",
-				"originalPhrase": "それはロンドンから約１３３キロメートルです。"
-			},
-			{
 				"phrase": "それはロンドンから<ruby>約<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>１３３キロメートルです。",
 				"translation": "It's about 133 kilometers from London.",
 				"originalPhrase": "それはロンドンから約１３３キロメートルです。"
@@ -6097,16 +6087,6 @@
 				"phrase": "このジャムの<ruby>正味<rp>(</rp><rt>しょうみ</rt><rp>)</rp></ruby><ruby>重量<rp>(</rp><rt>じゅうりょう</rt><rp>)</rp></ruby>は２００グラムです。",
 				"translation": "The net weight of this jam is 200 grams.",
 				"originalPhrase": "このジャムの正味重量は２００グラムです。"
-			},
-			{
-				"phrase": "このジャムの<ruby>正味<rp>(</rp><rt>しょうみ</rt><rp>)</rp></ruby><ruby>重量<rp>(</rp><rt>じゅうりょう</rt><rp>)</rp></ruby>は２００グラムです。",
-				"translation": "The net weight of this jam is 200 grams.",
-				"originalPhrase": "このジャムの正味重量は２００グラムです。"
-			},
-			{
-				"phrase": "<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>が<ruby>早産<rp>(</rp><rt>そうざん</rt><rp>)</rp></ruby>で１５００グラムの<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>を<ruby>授<rp>(</rp><rt>さず</rt><rp>)</rp></ruby>かった。",
-				"translation": "My wife gave birth prematurely to a 1,500-gram baby girl.",
-				"originalPhrase": "妻が早産で１５００グラムの女の子を授かった。"
 			},
 			{
 				"phrase": "<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>が<ruby>早産<rp>(</rp><rt>そうざん</rt><rp>)</rp></ruby>で１５００グラムの<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>を<ruby>授<rp>(</rp><rt>さず</rt><rp>)</rp></ruby>かった。",
@@ -8493,14 +8473,14 @@
 				"originalPhrase": "本のページをめくる。"
 			},
 			{
-				"phrase": "<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>のページをめくる。",
-				"translation": "I turn over a page of the book.",
-				"originalPhrase": "本のページをめくる。"
-			},
-			{
 				"phrase": "<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>のページを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>なさい。",
 				"translation": "Look at the next page.",
 				"originalPhrase": "次のページを見なさい。"
+			},
+			{
+				"phrase": "ページをめくりなさい。",
+				"translation": "Please turn over the page.",
+				"originalPhrase": "ページをめくりなさい。"
 			}
 		],
 		"definitions": [
@@ -9895,11 +9875,6 @@
 				"phrase": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>える<ruby>葦<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>である。",
 				"translation": "Man is a thinking reed.",
 				"originalPhrase": "人間は考える葦である。"
-			},
-			{
-				"phrase": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>のアシに<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ぎず、その<ruby>本性<rp>(</rp><rt>ほんしょう</rt><rp>)</rp></ruby>はきわめて<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>いが、<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>える<ruby>葦<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>である。",
-				"translation": "Man is but a reed, the weakest in nature, but he is a thinking reed.",
-				"originalPhrase": "人間は一本のアシに過ぎず、その本性はきわめて弱いが、人間は考える葦である。"
 			},
 			{
 				"phrase": "<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby><ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>のアシに<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ぎず、その<ruby>本性<rp>(</rp><rt>ほんしょう</rt><rp>)</rp></ruby>はきわめて<ruby>弱<rp>(</rp><rt>よわ</rt><rp>)</rp></ruby>いが、<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>は<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>える<ruby>葦<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>である。",
@@ -15537,11 +15512,6 @@
 				"originalPhrase": "このコーヒーはぬるいです。"
 			},
 			{
-				"phrase": "このコーヒーはぬるいです。",
-				"translation": "This coffee is not hot enough.",
-				"originalPhrase": "このコーヒーはぬるいです。"
-			},
-			{
 				"phrase": "<ruby>風呂<rp>(</rp><rt>ふろ</rt><rp>)</rp></ruby>がぬるくて<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>った<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がしなかった。",
 				"translation": "The bath was not hot enough and I was unable to enjoy it.",
 				"originalPhrase": "風呂がぬるくて入った気がしなかった。"
@@ -16222,9 +16192,9 @@
 				"originalPhrase": "いつ来たんだ？"
 			},
 			{
-				"phrase": "いつ<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>たんだ？",
-				"translation": "How long have they been here?",
-				"originalPhrase": "いつ来たんだ？"
+				"phrase": "いつ<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わるの？",
+				"translation": "When does it end?",
+				"originalPhrase": "いつ終わるの？"
 			}
 		]
 	},
@@ -16626,14 +16596,14 @@
 				"originalPhrase": "どちらでもどうぞ。"
 			},
 			{
-				"phrase": "どちらでもどうぞ。",
-				"translation": "Take whichever one you like.",
-				"originalPhrase": "どちらでもどうぞ。"
-			},
-			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はどっちつかずだ。",
 				"translation": "He's sitting on the fence.",
 				"originalPhrase": "彼はどっちつかずだ。"
+			},
+			{
+				"phrase": "<ruby>出身<rp>(</rp><rt>しゅっしん</rt><rp>)</rp></ruby>はどちらですか。",
+				"translation": "Where are you from?",
+				"originalPhrase": "出身はどちらですか。"
 			}
 		],
 		"definitions": [
@@ -22833,14 +22803,14 @@
 				"originalPhrase": "あなたは走る。"
 			},
 			{
-				"phrase": "あなたは<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>る。",
-				"translation": "You do run.",
-				"originalPhrase": "あなたは走る。"
-			},
-			{
 				"phrase": "あなたに<ruby>乾杯<rp>(</rp><rt>かんぱい</rt><rp>)</rp></ruby>！",
 				"translation": "Here's to you!",
 				"originalPhrase": "あなたに乾杯！"
+			},
+			{
+				"phrase": "あんた<ruby>変<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>だよ。",
+				"translation": "You're weird.",
+				"originalPhrase": "あんた変だよ。"
 			}
 		],
 		"definitions": [
@@ -30329,16 +30299,6 @@
 				"originalPhrase": "ご用件は？"
 			},
 			{
-				"phrase": "ご<ruby>用件<rp>(</rp><rt>ようけん</rt><rp>)</rp></ruby>は？",
-				"translation": "May I help you?",
-				"originalPhrase": "ご用件は？"
-			},
-			{
-				"phrase": "ご<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>に。",
-				"translation": "The same to you.",
-				"originalPhrase": "ご同様に。"
-			},
-			{
 				"phrase": "ご<ruby>同様<rp>(</rp><rt>どうよう</rt><rp>)</rp></ruby>に。",
 				"translation": "The same to you.",
 				"originalPhrase": "ご同様に。"
@@ -30347,6 +30307,16 @@
 				"phrase": "お<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>は？",
 				"translation": "May I have your name?",
 				"originalPhrase": "お名前は？"
+			},
+			{
+				"phrase": "お<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せに！",
+				"translation": "I hope you'll be happy forever.",
+				"originalPhrase": "お幸せに！"
+			},
+			{
+				"phrase": "お<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>で！",
+				"translation": "Good luck to you!",
+				"originalPhrase": "お元気で！"
 			}
 		],
 		"definitions": [
@@ -52572,19 +52542,19 @@
 				"originalPhrase": "池のそばに男がいる。"
 			},
 			{
-				"phrase": "<ruby>池<rp>(</rp><rt>いけ</rt><rp>)</rp></ruby>のそばに<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>がいる。",
-				"translation": "There is a man by the side of the pond.",
-				"originalPhrase": "池のそばに男がいる。"
-			},
-			{
 				"phrase": "<ruby>教会<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>のそばを<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>ろう。",
 				"translation": "Let's pass by the church.",
 				"originalPhrase": "教会のそばを通ろう。"
 			},
 			{
-				"phrase": "<ruby>教会<rp>(</rp><rt>きょうかい</rt><rp>)</rp></ruby>のそばを<ruby>通<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>ろう。",
-				"translation": "Let's pass by the church.",
-				"originalPhrase": "教会のそばを通ろう。"
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>門<rp>(</rp><rt>もん</rt><rp>)</rp></ruby>の<ruby>傍<rp>(</rp><rt>はた</rt><rp>)</rp></ruby>に<ruby>駐車<rp>(</rp><rt>ちゅうしゃ</rt><rp>)</rp></ruby>した。",
+				"translation": "I parked my car by the gate.",
+				"originalPhrase": "私は門の傍に駐車した。"
+			},
+			{
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>の<ruby>側<rp>(</rp><rt>がわ</rt><rp>)</rp></ruby>に<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>った。",
+				"translation": "I sat beside her.",
+				"originalPhrase": "私は彼女の側に座った。"
 			}
 		],
 		"definitions": [
@@ -56141,11 +56111,6 @@
 				"originalPhrase": "男の子はやはり男の子。"
 			},
 			{
-				"phrase": "<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>はやはり<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>。",
-				"translation": "Boys will be boys.",
-				"originalPhrase": "男の子はやはり男の子。"
-			},
-			{
 				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>たちは<ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>い<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>だ。",
 				"translation": "You are young boys.",
 				"originalPhrase": "君たちは若い男の子だ。"
@@ -56154,6 +56119,11 @@
 				"phrase": "あの<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>は<ruby>父親<rp>(</rp><rt>ちちおや</rt><rp>)</rp></ruby><ruby>似<rp>(</rp><rt>に</rt><rp>)</rp></ruby>だ。",
 				"translation": "That boy takes after his father.",
 				"originalPhrase": "あの男の子は父親似だ。"
+			},
+			{
+				"phrase": "あの<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>は<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>ですか。",
+				"translation": "Who is that boy?",
+				"originalPhrase": "あの男の子は誰ですか。"
 			}
 		],
 		"definitions": [
@@ -60913,9 +60883,9 @@
 				"originalPhrase": "嘘は決してつくな！"
 			},
 			{
-				"phrase": "<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>は<ruby>決<rp>(</rp><rt>けっ</rt><rp>)</rp></ruby>してつくな！",
-				"translation": "Never tell a lie!",
-				"originalPhrase": "嘘は決してつくな！"
+				"phrase": "<ruby>吐<rp>(</rp><rt>は</rt><rp>)</rp></ruby>いてしまいました。",
+				"translation": "I threw up my food.",
+				"originalPhrase": "吐いてしまいました。"
 			}
 		],
 		"definitions": [
@@ -70134,14 +70104,14 @@
 				"originalPhrase": "このへんはとてもさびしい。"
 			},
 			{
-				"phrase": "このへんはとてもさびしい。",
-				"translation": "This neighborhood is very lonely.",
-				"originalPhrase": "このへんはとてもさびしい。"
-			},
-			{
 				"phrase": "どの<ruby>辺<rp>(</rp><rt>あたり</rt><rp>)</rp></ruby>に<ruby>脂肪<rp>(</rp><rt>しぼう</rt><rp>)</rp></ruby>がついているの？",
 				"translation": "Where is the fat located?",
 				"originalPhrase": "どの辺に脂肪がついているの？"
+			},
+			{
+				"phrase": "この<ruby>辺<rp>(</rp><rt>あたり</rt><rp>)</rp></ruby>にホテルはありますか。",
+				"translation": "Is there a hotel around here?",
+				"originalPhrase": "この辺にホテルはありますか。"
 			}
 		]
 	},
@@ -79561,16 +79531,6 @@
 				"originalPhrase": "本当？なぜ？"
 			},
 			{
-				"phrase": "<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>？なぜ？",
-				"translation": "Do you? Why?",
-				"originalPhrase": "本当？なぜ？"
-			},
-			{
-				"phrase": "なぜ<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたの？",
-				"translation": "Why were you late?",
-				"originalPhrase": "なぜ遅れたの？"
-			},
-			{
 				"phrase": "なぜ<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れたの？",
 				"translation": "Why were you late?",
 				"originalPhrase": "なぜ遅れたの？"
@@ -79579,6 +79539,16 @@
 				"phrase": "しかし、なぜ？",
 				"translation": "But why?",
 				"originalPhrase": "しかし、なぜ？"
+			},
+			{
+				"phrase": "なぜ<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>たの。",
+				"translation": "Why did you come early?",
+				"originalPhrase": "なぜ早く来たの。"
+			},
+			{
+				"phrase": "なぜなんだろう。",
+				"translation": "I wonder why.",
+				"originalPhrase": "なぜなんだろう。"
 			}
 		],
 		"definitions": [
@@ -79900,14 +79870,14 @@
 				"originalPhrase": "君はなんてかわいい。"
 			},
 			{
-				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>はなんてかわいい。",
-				"translation": "You're such a cute boy.",
-				"originalPhrase": "君はなんてかわいい。"
-			},
-			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>妹<rp>(</rp><rt>いもうと</rt><rp>)</rp></ruby>はかわいいです。",
 				"translation": "My sister is pretty.",
 				"originalPhrase": "私の妹はかわいいです。"
+			},
+			{
+				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>の<ruby>目元<rp>(</rp><rt>めもと</rt><rp>)</rp></ruby>はかわいいね。",
+				"translation": "You have lovely eyes, don't you?",
+				"originalPhrase": "君の目元はかわいいね。"
 			}
 		],
 		"definitions": [
@@ -80375,9 +80345,9 @@
 				"originalPhrase": "私のめがねを取って。"
 			},
 			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>のめがねを<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って。",
-				"translation": "Get me my glasses.",
-				"originalPhrase": "私のめがねを取って。"
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>のめがねを<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ってきて。",
+				"translation": "Bring me my glasses.",
+				"originalPhrase": "私のめがねを持ってきて。"
 			}
 		],
 		"definitions": [
@@ -80519,9 +80489,9 @@
 				"originalPhrase": "誰かいる？"
 			},
 			{
-				"phrase": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かいる？",
-				"translation": "Is anybody here?",
-				"originalPhrase": "誰かいる？"
+				"phrase": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>かいるの？",
+				"translation": "Is somebody there?",
+				"originalPhrase": "誰かいるの？"
 			}
 		],
 		"definitions": [
@@ -83259,14 +83229,14 @@
 				"originalPhrase": "彼は嘘など言わない。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>など<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>わない。",
-				"translation": "He doesn't tell lies.",
-				"originalPhrase": "彼は嘘など言わない。"
-			},
-			{
 				"phrase": "<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby><ruby>更<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>かしなど<ruby>平気<rp>(</rp><rt>へいき</rt><rp>)</rp></ruby>だ。",
 				"translation": "Staying up late nights is nothing to me.",
 				"originalPhrase": "夜更かしなど平気だ。"
+			},
+			{
+				"phrase": "<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>に<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>るんだよ<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>ら。",
+				"translation": "We're goin' home.",
+				"originalPhrase": "家に帰るんだよ僕ら。"
 			}
 		],
 		"definitions": [
@@ -94656,13 +94626,9 @@
 				}
 			},
 			{
-				"phrase": "どの<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>も<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>い。",
-				"translation": "All the stories are interesting.",
-				"originalPhrase": "どの話も面白い。",
-				"glossNumber": {
-					"wordId": "1600900",
-					"glossNumber": 5
-				}
+				"phrase": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>の<ruby>病気<rp>(</rp><rt>びょうき</rt><rp>)</rp></ruby>ですか。",
+				"translation": "What do I have?",
+				"originalPhrase": "何の病気ですか。"
 			}
 		],
 		"definitions": [
@@ -98846,16 +98812,6 @@
 				"originalPhrase": "今の不況で経済成長はゼロとなった。"
 			},
 			{
-				"phrase": "<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の<ruby>不況<rp>(</rp><rt>ふきょう</rt><rp>)</rp></ruby>で<ruby>経済<rp>(</rp><rt>けいざい</rt><rp>)</rp></ruby><ruby>成長<rp>(</rp><rt>せいちょう</rt><rp>)</rp></ruby>はゼロとなった。",
-				"translation": "In the current slump, economic growth has fallen to zero percent.",
-				"originalPhrase": "今の不況で経済成長はゼロとなった。"
-			},
-			{
-				"phrase": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>出生<rp>(</rp><rt>しゅっしょう</rt><rp>)</rp></ruby><ruby>政策<rp>(</rp><rt>せいさく</rt><rp>)</rp></ruby>は<ruby>人口<rp>(</rp><rt>じんこう</rt><rp>)</rp></ruby><ruby>増加<rp>(</rp><rt>ぞうか</rt><rp>)</rp></ruby>ゼロをめざしています。",
-				"translation": "The new birth policy is aimed at achieving zero population growth.",
-				"originalPhrase": "新しい出生政策は人口増加ゼロをめざしています。"
-			},
-			{
 				"phrase": "<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい<ruby>出生<rp>(</rp><rt>しゅっしょう</rt><rp>)</rp></ruby><ruby>政策<rp>(</rp><rt>せいさく</rt><rp>)</rp></ruby>は<ruby>人口<rp>(</rp><rt>じんこう</rt><rp>)</rp></ruby><ruby>増加<rp>(</rp><rt>ぞうか</rt><rp>)</rp></ruby>ゼロをめざしています。",
 				"translation": "The new birth policy is aimed at achieving zero population growth.",
 				"originalPhrase": "新しい出生政策は人口増加ゼロをめざしています。"
@@ -98864,6 +98820,16 @@
 				"phrase": "<ruby>我々<rp>(</rp><rt>われわれ</rt><rp>)</rp></ruby>は<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby>をゼロから<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めなければならなかった。",
 				"translation": "We had to start our business from zero.",
 				"originalPhrase": "我々は商売をゼロから始めなければならなかった。"
+			},
+			{
+				"phrase": "ゼロという<ruby>概念<rp>(</rp><rt>がいねん</rt><rp>)</rp></ruby>はヒンドゥー<ruby>文化<rp>(</rp><rt>ぶんか</rt><rp>)</rp></ruby>に<ruby>由来<rp>(</rp><rt>ゆらい</rt><rp>)</rp></ruby>している。",
+				"translation": "The concept of zero sprang from the Hindu culture.",
+				"originalPhrase": "ゼロという概念はヒンドゥー文化に由来している。"
+			},
+			{
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>たちは<ruby>商売<rp>(</rp><rt>しょうばい</rt><rp>)</rp></ruby>をゼロから<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めなければならなかった。",
+				"translation": "We had to start our business from zero.",
+				"originalPhrase": "私たちは商売をゼロから始めなければならなかった。"
 			}
 		],
 		"definitions": [
@@ -100181,19 +100147,23 @@
 				"originalPhrase": "いや駄目です。"
 			},
 			{
-				"phrase": "いや<ruby>駄目<rp>(</rp><rt>だめ</rt><rp>)</rp></ruby>です。",
-				"translation": "No, you may not.",
-				"originalPhrase": "いや駄目です。"
-			},
-			{
 				"phrase": "いや<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>にないわ。",
 				"translation": "Nothing special.",
 				"originalPhrase": "いや特にないわ。"
 			},
 			{
-				"phrase": "いや<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>にないわ。",
-				"translation": "Nothing special.",
-				"originalPhrase": "いや特にないわ。"
+				"phrase": "いや、<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>だ。",
+				"translation": "No, no, that's okay.",
+				"originalPhrase": "いや、大丈夫だ。",
+				"glossNumber": {
+					"wordId": "1414150",
+					"glossNumber": 3
+				}
+			},
+			{
+				"phrase": "いや、<ruby>座<rp>(</rp><rt>すわ</rt><rp>)</rp></ruby>ってくれ。",
+				"translation": "No, sit down.",
+				"originalPhrase": "いや、座ってくれ。"
 			}
 		],
 		"definitions": [

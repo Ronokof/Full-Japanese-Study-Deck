@@ -4006,11 +4006,6 @@
 				"phrase": "この<ruby>金属<rp>(</rp><rt>きんぞく</rt><rp>)</rp></ruby>は<ruby>磨<rp>(</rp><rt>みが</rt><rp>)</rp></ruby>くとつやがでる。",
 				"translation": "This metal burnishes well.",
 				"originalPhrase": "この金属は磨くとつやがでる。"
-			},
-			{
-				"phrase": "この<ruby>金属<rp>(</rp><rt>きんぞく</rt><rp>)</rp></ruby>は<ruby>磨<rp>(</rp><rt>みが</rt><rp>)</rp></ruby>くとつやがでる。",
-				"translation": "This metal burnishes well.",
-				"originalPhrase": "この金属は磨くとつやがでる。"
 			}
 		],
 		"definitions": [
@@ -8442,16 +8437,6 @@
 				"phrase": "<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>い<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>に<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>を<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜなさい。",
 				"translation": "Blend the red paint with the blue paint.",
 				"originalPhrase": "赤い絵の具に青い絵の具を混ぜなさい。"
-			},
-			{
-				"phrase": "<ruby>赤<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>い<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>に<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>を<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜなさい。",
-				"translation": "Blend the red paint with the blue paint.",
-				"originalPhrase": "赤い絵の具に青い絵の具を混ぜなさい。"
-			},
-			{
-				"phrase": "<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>と<ruby>黄色<rp>(</rp><rt>きいろ</rt><rp>)</rp></ruby>の<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>を<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜなさい。",
-				"translation": "Blend the blue paint with the yellow paint.",
-				"originalPhrase": "青い絵の具と黄色の絵の具を混ぜなさい。"
 			},
 			{
 				"phrase": "<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>い<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>と<ruby>黄色<rp>(</rp><rt>きいろ</rt><rp>)</rp></ruby>の<ruby>絵<rp>(</rp><rt>え</rt><rp>)</rp></ruby>の<ruby>具<rp>(</rp><rt>ぐ</rt><rp>)</rp></ruby>を<ruby>混<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ぜなさい。",
@@ -15637,11 +15622,6 @@
 				"phrase": "２、４、６などは<ruby>偶数<rp>(</rp><rt>ぐうすう</rt><rp>)</rp></ruby>です。",
 				"translation": "Two, four, six, etc. are even numbers.",
 				"originalPhrase": "２、４、６などは偶数です。"
-			},
-			{
-				"phrase": "<ruby>偶数<rp>(</rp><rt>ぐうすう</rt><rp>)</rp></ruby><ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ける<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>は<ruby>偶数<rp>(</rp><rt>ぐうすう</rt><rp>)</rp></ruby>、<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby><ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ける<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>は<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>。",
-				"translation": "Even times odd is even, odd times odd is odd.",
-				"originalPhrase": "偶数掛ける奇数は偶数、奇数掛ける奇数は奇数。"
 			},
 			{
 				"phrase": "<ruby>偶数<rp>(</rp><rt>ぐうすう</rt><rp>)</rp></ruby><ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ける<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>は<ruby>偶数<rp>(</rp><rt>ぐうすう</rt><rp>)</rp></ruby>、<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby><ruby>掛<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ける<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>は<ruby>奇数<rp>(</rp><rt>きすう</rt><rp>)</rp></ruby>。",
@@ -23810,9 +23790,9 @@
 				"originalPhrase": "私は鉛筆をけずるナイフがほしい。"
 			},
 			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>鉛筆<rp>(</rp><rt>えんぴつ</rt><rp>)</rp></ruby>をけずるナイフがほしい。",
-				"translation": "I want a knife to sharpen my pencil with.",
-				"originalPhrase": "私は鉛筆をけずるナイフがほしい。"
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>らの<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>はリストから<ruby>削<rp>(</rp><rt>けず</rt><rp>)</rp></ruby>られた。",
+				"translation": "Their names were erased from the list.",
+				"originalPhrase": "彼らの名前はリストから削られた。"
 			}
 		],
 		"definitions": [
@@ -29550,15 +29530,6 @@
 				"phrase": "<ruby>青銅<rp>(</rp><rt>せいどう</rt><rp>)</rp></ruby>は<ruby>銅<rp>(</rp><rt>どう</rt><rp>)</rp></ruby>とすずから<ruby>成<rp>(</rp><rt>な</rt><rp>)</rp></ruby>り<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>っている。",
 				"translation": "Bronze is composed of copper and tin.",
 				"originalPhrase": "青銅は銅とすずから成り立っている。"
-			},
-			{
-				"phrase": "この<ruby>鉄<rp>(</rp><rt>てつ</rt><rp>)</rp></ruby>の<ruby>板<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>はすずでメッキしてある。",
-				"translation": "This iron sheet is coated with tin.",
-				"originalPhrase": "この鉄の板はすずでメッキしてある。",
-				"glossNumber": {
-					"wordId": "1481350",
-					"glossNumber": 2
-				}
 			},
 			{
 				"phrase": "この<ruby>鉄<rp>(</rp><rt>てつ</rt><rp>)</rp></ruby>の<ruby>板<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>はすずでメッキしてある。",
@@ -64665,11 +64636,6 @@
 				"phrase": "もちを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べている<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>にのどに<ruby>詰<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>まらせて<ruby>窒息<rp>(</rp><rt>ちっそく</rt><rp>)</rp></ruby><ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>する<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>がたくさんいる。",
 				"translation": "Many old people choke to death while eating mochi.",
 				"originalPhrase": "もちを食べている時にのどに詰まらせて窒息死する老人がたくさんいる。"
-			},
-			{
-				"phrase": "もちを<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べている<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>にのどに<ruby>詰<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>まらせて<ruby>窒息<rp>(</rp><rt>ちっそく</rt><rp>)</rp></ruby><ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>する<ruby>老人<rp>(</rp><rt>ろうじん</rt><rp>)</rp></ruby>がたくさんいる。",
-				"translation": "Many old people choke to death while eating mochi.",
-				"originalPhrase": "もちを食べている時にのどに詰まらせて窒息死する老人がたくさんいる。"
 			}
 		],
 		"definitions": [
@@ -69499,11 +69465,6 @@
 				"originalPhrase": "足にやけどをした。"
 			},
 			{
-				"phrase": "<ruby>足<rp>(</rp><rt>あし</rt><rp>)</rp></ruby>にやけどをした。",
-				"translation": "I burnt myself on the leg.",
-				"originalPhrase": "足にやけどをした。"
-			},
-			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>指先<rp>(</rp><rt>ゆびさき</rt><rp>)</rp></ruby>を<ruby>火傷<rp>(</rp><rt>かしょう</rt><rp>)</rp></ruby>した。",
 				"translation": "I burned my fingertip.",
 				"originalPhrase": "私は指先を火傷した。"
@@ -69514,9 +69475,14 @@
 				"originalPhrase": "指にやけどをしました。"
 			},
 			{
-				"phrase": "<ruby>指<rp>(</rp><rt>ゆび</rt><rp>)</rp></ruby>にやけどをしました。",
-				"translation": "I got a burn on my finger.",
-				"originalPhrase": "指にやけどをしました。"
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>はひどいやけどをした。",
+				"translation": "He burned himself badly.",
+				"originalPhrase": "彼はひどいやけどをした。"
+			},
+			{
+				"phrase": "<ruby>熱湯<rp>(</rp><rt>ねっとう</rt><rp>)</rp></ruby>でやけどをしました。",
+				"translation": "I burned myself with boiling water.",
+				"originalPhrase": "熱湯でやけどをしました。"
 			}
 		],
 		"definitions": [
@@ -83324,20 +83290,6 @@
 				}
 			},
 			{
-				"phrase": "よし<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>め。",
-				"translation": "Get set.",
-				"originalPhrase": "よし始め。",
-				"glossNumber": {
-					"wordId": "1307550",
-					"glossNumber": 1
-				}
-			},
-			{
-				"phrase": "よし！<ruby>掃討<rp>(</rp><rt>そうとう</rt><rp>)</rp></ruby><ruby>完了<rp>(</rp><rt>かんりょう</rt><rp>)</rp></ruby>！",
-				"translation": "Alright! They're all mopped up!",
-				"originalPhrase": "よし！掃討完了！"
-			},
-			{
 				"phrase": "よし！<ruby>掃討<rp>(</rp><rt>そうとう</rt><rp>)</rp></ruby><ruby>完了<rp>(</rp><rt>かんりょう</rt><rp>)</rp></ruby>！",
 				"translation": "Alright! They're all mopped up!",
 				"originalPhrase": "よし！掃討完了！"
@@ -83346,6 +83298,16 @@
 				"phrase": "よしもう<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby>やろう。",
 				"translation": "All right, I will do it again.",
 				"originalPhrase": "よしもう一度やろう。"
+			},
+			{
+				"phrase": "よし、かかってこい！",
+				"translation": "OK! Bring it on!",
+				"originalPhrase": "よし、かかってこい！"
+			},
+			{
+				"phrase": "<ruby>夫<rp>(</rp><rt>おっと</rt><rp>)</rp></ruby>がよければ<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>もよし。",
+				"translation": "A good husband makes a good wife.",
+				"originalPhrase": "夫がよければ妻もよし。"
 			}
 		]
 	},
