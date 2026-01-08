@@ -6,7 +6,7 @@
 		"frequency": "308",
 		"jlpt": "N2",
 		"noteID": "kanji_与",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::3",
@@ -121,7 +121,7 @@
 		"frequency": "247",
 		"jlpt": "N2",
 		"noteID": "kanji_両",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -230,7 +230,7 @@
 		"frequency": "542",
 		"jlpt": "N2",
 		"noteID": "kanji_丸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::3",
@@ -344,7 +344,7 @@
 		"frequency": "688",
 		"jlpt": "N2",
 		"noteID": "kanji_久",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::3",
@@ -438,7 +438,7 @@
 		"frequency": "377",
 		"jlpt": "N3",
 		"noteID": "kanji_乗",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -549,7 +549,7 @@
 		"frequency": "180",
 		"jlpt": "N2",
 		"noteID": "kanji_予",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -655,7 +655,7 @@
 		"frequency": "271",
 		"jlpt": "N2",
 		"noteID": "kanji_争",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -758,7 +758,7 @@
 		"frequency": "914",
 		"jlpt": "N2",
 		"noteID": "kanji_互",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -857,7 +857,7 @@
 		"frequency": "661",
 		"jlpt": "N2",
 		"noteID": "kanji_亡",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::3",
@@ -963,7 +963,7 @@
 		"frequency": "178",
 		"jlpt": "N2",
 		"noteID": "kanji_交",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -1076,7 +1076,7 @@
 		"frequency": "819",
 		"jlpt": "N2",
 		"noteID": "kanji_仏",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -1175,7 +1175,7 @@
 		"frequency": "543",
 		"jlpt": "N2",
 		"noteID": "kanji_他",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -1275,7 +1275,7 @@
 		"frequency": "322",
 		"jlpt": "N2",
 		"noteID": "kanji_付",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -1393,7 +1393,7 @@
 		"frequency": "804",
 		"jlpt": "N2",
 		"noteID": "kanji_令",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -1499,7 +1499,7 @@
 		"frequency": "919",
 		"jlpt": "N2",
 		"noteID": "kanji_仲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -1603,7 +1603,7 @@
 		"frequency": "212",
 		"jlpt": "N2",
 		"noteID": "kanji_件",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -1704,7 +1704,7 @@
 		"frequency": "217",
 		"jlpt": "N2",
 		"noteID": "kanji_任",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -1810,7 +1810,7 @@
 		"frequency": "416",
 		"jlpt": "N2",
 		"noteID": "kanji_伝",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -1924,7 +1924,7 @@
 		"frequency": "923",
 		"jlpt": "N2",
 		"noteID": "kanji_似",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -2028,7 +2028,7 @@
 		"frequency": "276",
 		"jlpt": "N2",
 		"noteID": "kanji_位",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -2133,7 +2133,7 @@
 		"frequency": "435",
 		"jlpt": "N3",
 		"noteID": "kanji_低",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -2233,7 +2233,7 @@
 		"frequency": "680",
 		"jlpt": "N2",
 		"noteID": "kanji_余",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -2343,7 +2343,7 @@
 		"frequency": "399",
 		"jlpt": "N2",
 		"noteID": "kanji_例",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -2442,7 +2442,7 @@
 		"frequency": "313",
 		"jlpt": "N2",
 		"noteID": "kanji_供",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -2547,7 +2547,7 @@
 		"frequency": "729",
 		"jlpt": "N3",
 		"noteID": "kanji_便",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -2649,7 +2649,7 @@
 		"frequency": "232",
 		"jlpt": "N2",
 		"noteID": "kanji_係",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -2753,7 +2753,7 @@
 		"frequency": "208",
 		"jlpt": "N2",
 		"noteID": "kanji_信",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -2862,7 +2862,7 @@
 		"frequency": "451",
 		"jlpt": "N2",
 		"noteID": "kanji_個",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -2959,7 +2959,7 @@
 		"frequency": "714",
 		"jlpt": "N2",
 		"noteID": "kanji_倍",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -3059,7 +3059,7 @@
 		"frequency": "791",
 		"jlpt": "N2",
 		"noteID": "kanji_倒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -3166,7 +3166,7 @@
 		"frequency": "510",
 		"jlpt": "N2",
 		"noteID": "kanji_候",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -3274,7 +3274,7 @@
 		"frequency": "518",
 		"jlpt": "N2",
 		"noteID": "kanji_値",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -3376,7 +3376,7 @@
 		"frequency": "1639",
 		"jlpt": "N2",
 		"noteID": "kanji_偉",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -3480,7 +3480,7 @@
 		"frequency": "733",
 		"jlpt": "N2",
 		"noteID": "kanji_停",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -3578,7 +3578,7 @@
 		"frequency": "216",
 		"jlpt": "N2",
 		"noteID": "kanji_側",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -3679,7 +3679,7 @@
 		"frequency": "1602",
 		"jlpt": "N2",
 		"noteID": "kanji_偶",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -3781,7 +3781,7 @@
 		"frequency": "356",
 		"jlpt": "N2",
 		"noteID": "kanji_備",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -3895,7 +3895,7 @@
 		"frequency": "417",
 		"jlpt": "N3",
 		"noteID": "kanji_働",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::kokuji",
@@ -3995,7 +3995,7 @@
 		"frequency": "856",
 		"jlpt": "N2",
 		"noteID": "kanji_像",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -4095,7 +4095,7 @@
 		"frequency": "334",
 		"jlpt": "N2",
 		"noteID": "kanji_優",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::17",
@@ -4205,7 +4205,7 @@
 		"frequency": "1174",
 		"jlpt": "N2",
 		"noteID": "kanji_兆",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -4313,7 +4313,7 @@
 		"frequency": "527",
 		"jlpt": "N3",
 		"noteID": "kanji_光",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -4422,7 +4422,7 @@
 		"frequency": "679",
 		"jlpt": "N2",
 		"noteID": "kanji_児",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -4527,7 +4527,7 @@
 		"frequency": "75",
 		"jlpt": "N2",
 		"noteID": "kanji_全",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -4634,7 +4634,7 @@
 		"frequency": "174",
 		"jlpt": "N2",
 		"noteID": "kanji_共",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -4740,7 +4740,7 @@
 		"frequency": "629",
 		"jlpt": "N2",
 		"noteID": "kanji_具",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -4851,7 +4851,7 @@
 		"frequency": "44",
 		"jlpt": "N2",
 		"noteID": "kanji_内",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -4961,7 +4961,7 @@
 		"frequency": "275",
 		"jlpt": "N2",
 		"noteID": "kanji_再",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -5069,7 +5069,7 @@
 		"frequency": "82",
 		"jlpt": "N2",
 		"noteID": "kanji_最",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -5174,7 +5174,7 @@
 		"frequency": "667",
 		"jlpt": "N2",
 		"noteID": "kanji_冷",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -5279,7 +5279,7 @@
 		"frequency": "547",
 		"jlpt": "N2",
 		"noteID": "kanji_処",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -5384,7 +5384,7 @@
 		"frequency": "24",
 		"jlpt": "N4",
 		"noteID": "kanji_分",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -5504,7 +5504,7 @@
 		"frequency": "855",
 		"jlpt": "N2",
 		"noteID": "kanji_刊",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -5601,7 +5601,7 @@
 		"frequency": "927",
 		"jlpt": "N2",
 		"noteID": "kanji_列",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -5702,7 +5702,7 @@
 		"frequency": "152",
 		"jlpt": "N2",
 		"noteID": "kanji_初",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -5811,7 +5811,7 @@
 		"frequency": "197",
 		"jlpt": "N2",
 		"noteID": "kanji_判",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -5912,7 +5912,7 @@
 		"frequency": "203",
 		"jlpt": "N2",
 		"noteID": "kanji_利",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -6020,7 +6020,7 @@
 		"frequency": "1032",
 		"jlpt": "N2",
 		"noteID": "kanji_到",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -6120,7 +6120,7 @@
 		"frequency": "108",
 		"jlpt": "N2",
 		"noteID": "kanji_制",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -6221,7 +6221,7 @@
 		"frequency": "1352",
 		"jlpt": "N2",
 		"noteID": "kanji_刷",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -6326,7 +6326,7 @@
 		"frequency": "866",
 		"jlpt": "N2",
 		"noteID": "kanji_刻",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -6429,7 +6429,7 @@
 		"frequency": "753",
 		"jlpt": "N2",
 		"noteID": "kanji_則",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -6533,7 +6533,7 @@
 		"frequency": "360",
 		"jlpt": "N2",
 		"noteID": "kanji_副",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -6634,7 +6634,7 @@
 		"frequency": "318",
 		"jlpt": "N2",
 		"noteID": "kanji_割",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -6741,7 +6741,7 @@
 		"frequency": "130",
 		"jlpt": "N2",
 		"noteID": "kanji_加",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -6845,7 +6845,7 @@
 		"frequency": "397",
 		"jlpt": "N2",
 		"noteID": "kanji_助",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -6948,7 +6948,7 @@
 		"frequency": "749",
 		"jlpt": "N2",
 		"noteID": "kanji_努",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -7046,7 +7046,7 @@
 		"frequency": "398",
 		"jlpt": "N2",
 		"noteID": "kanji_労",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -7155,7 +7155,7 @@
 		"frequency": "538",
 		"jlpt": "N2",
 		"noteID": "kanji_効",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -7258,7 +7258,7 @@
 		"frequency": "1319",
 		"jlpt": "N2",
 		"noteID": "kanji_勇",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -7364,7 +7364,7 @@
 		"frequency": "111",
 		"jlpt": "N2",
 		"noteID": "kanji_務",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -7471,7 +7471,7 @@
 		"frequency": "185",
 		"jlpt": "N2",
 		"noteID": "kanji_勝",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -7585,7 +7585,7 @@
 		"frequency": "260",
 		"jlpt": "N2",
 		"noteID": "kanji_勢",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -7700,7 +7700,7 @@
 		"frequency": "830",
 		"jlpt": "N2",
 		"noteID": "kanji_勤",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -7810,7 +7810,7 @@
 		"frequency": "954",
 		"jlpt": "N2",
 		"noteID": "kanji_包",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -7916,7 +7916,7 @@
 		"frequency": "89",
 		"jlpt": "N2",
 		"noteID": "kanji_化",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -8023,7 +8023,7 @@
 		"frequency": "137",
 		"jlpt": "N3",
 		"noteID": "kanji_区",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -8121,7 +8121,7 @@
 		"frequency": "772",
 		"jlpt": "N2",
 		"noteID": "kanji_卒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -8231,7 +8231,7 @@
 		"frequency": "121",
 		"jlpt": "N2",
 		"noteID": "kanji_協",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -8333,7 +8333,7 @@
 		"frequency": "586",
 		"jlpt": "N2",
 		"noteID": "kanji_単",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -8438,7 +8438,7 @@
 		"frequency": "682",
 		"jlpt": "N2",
 		"noteID": "kanji_印",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -8545,7 +8545,7 @@
 		"frequency": "606",
 		"jlpt": "N2",
 		"noteID": "kanji_危",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -8649,7 +8649,7 @@
 		"frequency": "768",
 		"jlpt": "N2",
 		"noteID": "kanji_厚",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -8760,7 +8760,7 @@
 		"frequency": "172",
 		"jlpt": "N2",
 		"noteID": "kanji_原",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -8876,7 +8876,7 @@
 		"frequency": "201",
 		"jlpt": "N2",
 		"noteID": "kanji_参",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -8995,7 +8995,7 @@
 		"frequency": "191",
 		"jlpt": "N2",
 		"noteID": "kanji_反",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -9104,7 +9104,7 @@
 		"frequency": "337",
 		"jlpt": "N2",
 		"noteID": "kanji_収",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -9209,7 +9209,7 @@
 		"frequency": "122",
 		"jlpt": "N2",
 		"noteID": "kanji_取",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -9316,7 +9316,7 @@
 		"frequency": "136",
 		"jlpt": "N2",
 		"noteID": "kanji_受",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -9427,7 +9427,7 @@
 		"frequency": "314",
 		"jlpt": "N2",
 		"noteID": "kanji_可",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -9532,7 +9532,7 @@
 		"frequency": "511",
 		"jlpt": "N2",
 		"noteID": "kanji_史",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -9630,7 +9630,7 @@
 		"frequency": "585",
 		"jlpt": "N2",
 		"noteID": "kanji_号",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -9735,7 +9735,7 @@
 		"frequency": "243",
 		"jlpt": "N2",
 		"noteID": "kanji_各",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -9839,7 +9839,7 @@
 		"frequency": "41",
 		"jlpt": "N3",
 		"noteID": "kanji_合",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -9962,7 +9962,7 @@
 		"frequency": "182",
 		"jlpt": "N2",
 		"noteID": "kanji_向",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -10088,7 +10088,7 @@
 		"frequency": "947",
 		"jlpt": "N2",
 		"noteID": "kanji_君",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -10193,7 +10193,7 @@
 		"frequency": "561",
 		"jlpt": "N2",
 		"noteID": "kanji_否",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -10295,7 +10295,7 @@
 		"frequency": "1054",
 		"jlpt": "N2",
 		"noteID": "kanji_吸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -10394,7 +10394,7 @@
 		"frequency": "1133",
 		"jlpt": "N2",
 		"noteID": "kanji_吹",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -10497,7 +10497,7 @@
 		"frequency": "188",
 		"jlpt": "N2",
 		"noteID": "kanji_告",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -10601,7 +10601,7 @@
 		"frequency": "562",
 		"jlpt": "N2",
 		"noteID": "kanji_周",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -10715,7 +10715,7 @@
 		"frequency": "498",
 		"jlpt": "N2",
 		"noteID": "kanji_呼",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -10818,7 +10818,7 @@
 		"frequency": "465",
 		"jlpt": "N2",
 		"noteID": "kanji_命",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -10920,7 +10920,7 @@
 		"frequency": "124",
 		"jlpt": "N2",
 		"noteID": "kanji_和",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -11047,7 +11047,7 @@
 		"frequency": "413",
 		"jlpt": "N2",
 		"noteID": "kanji_商",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -11153,7 +11153,7 @@
 		"frequency": "769",
 		"jlpt": "N2",
 		"noteID": "kanji_喜",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -11264,7 +11264,7 @@
 		"frequency": "303",
 		"jlpt": "N2",
 		"noteID": "kanji_営",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -11368,7 +11368,7 @@
 		"frequency": "525",
 		"jlpt": "N2",
 		"noteID": "kanji_器",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -11478,7 +11478,7 @@
 		"frequency": "50",
 		"jlpt": "N3",
 		"noteID": "kanji_回",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -11589,7 +11589,7 @@
 		"frequency": "636",
 		"jlpt": "N2",
 		"noteID": "kanji_因",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -11693,7 +11693,7 @@
 		"frequency": "213",
 		"jlpt": "N2",
 		"noteID": "kanji_団",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -11792,7 +11792,7 @@
 		"frequency": "843",
 		"jlpt": "N2",
 		"noteID": "kanji_困",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -11890,7 +11890,7 @@
 		"frequency": "771",
 		"jlpt": "N2",
 		"noteID": "kanji_囲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -11995,7 +11995,7 @@
 		"frequency": "750",
 		"jlpt": "N2",
 		"noteID": "kanji_固",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -12097,7 +12097,7 @@
 		"frequency": "628",
 		"jlpt": "N2",
 		"noteID": "kanji_園",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -12214,7 +12214,7 @@
 		"frequency": "211",
 		"jlpt": "N2",
 		"noteID": "kanji_在",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -12316,7 +12316,7 @@
 		"frequency": "865",
 		"jlpt": "N2",
 		"noteID": "kanji_坂",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -12418,7 +12418,7 @@
 		"frequency": "715",
 		"jlpt": "N2",
 		"noteID": "kanji_均",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -12522,7 +12522,7 @@
 		"frequency": "482",
 		"jlpt": "N2",
 		"noteID": "kanji_型",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -12621,7 +12621,7 @@
 		"frequency": "167",
 		"jlpt": "N2",
 		"noteID": "kanji_報",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -12724,7 +12724,7 @@
 		"frequency": "1148",
 		"jlpt": "N2",
 		"noteID": "kanji_塩",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -12828,7 +12828,7 @@
 		"frequency": "346",
 		"jlpt": "N2",
 		"noteID": "kanji_境",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -12931,7 +12931,7 @@
 		"frequency": "231",
 		"jlpt": "N2",
 		"noteID": "kanji_増",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -13038,7 +13038,7 @@
 		"frequency": "388",
 		"jlpt": "N3",
 		"noteID": "kanji_声",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -13142,7 +13142,7 @@
 		"frequency": "238",
 		"jlpt": "N2",
 		"noteID": "kanji_変",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -13244,7 +13244,7 @@
 		"frequency": "943",
 		"jlpt": "N2",
 		"noteID": "kanji_夢",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -13355,7 +13355,7 @@
 		"frequency": "552",
 		"jlpt": "N3",
 		"noteID": "kanji_太",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -13460,7 +13460,7 @@
 		"frequency": "335",
 		"jlpt": "N2",
 		"noteID": "kanji_夫",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -13568,7 +13568,7 @@
 		"frequency": "582",
 		"jlpt": "N2",
 		"noteID": "kanji_央",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -13662,7 +13662,7 @@
 		"frequency": "447",
 		"jlpt": "N2",
 		"noteID": "kanji_失",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -13765,7 +13765,7 @@
 		"frequency": "423",
 		"jlpt": "N3",
 		"noteID": "kanji_好",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -13874,7 +13874,7 @@
 		"frequency": "691",
 		"jlpt": "N2",
 		"noteID": "kanji_妻",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -13983,7 +13983,7 @@
 		"frequency": "187",
 		"jlpt": "N2",
 		"noteID": "kanji_委",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -14086,7 +14086,7 @@
 		"frequency": "1145",
 		"jlpt": "N2",
 		"noteID": "kanji_娘",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -14186,7 +14186,7 @@
 		"frequency": "767",
 		"jlpt": "N2",
 		"noteID": "kanji_婚",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -14281,7 +14281,7 @@
 		"frequency": "671",
 		"jlpt": "N2",
 		"noteID": "kanji_婦",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -14385,7 +14385,7 @@
 		"frequency": "577",
 		"jlpt": "N2",
 		"noteID": "kanji_存",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -14493,7 +14493,7 @@
 		"frequency": "842",
 		"jlpt": "N2",
 		"noteID": "kanji_季",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -14590,7 +14590,7 @@
 		"frequency": "1388",
 		"jlpt": "N2",
 		"noteID": "kanji_孫",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -14690,7 +14690,7 @@
 		"frequency": "357",
 		"jlpt": "N2",
 		"noteID": "kanji_宅",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -14798,7 +14798,7 @@
 		"frequency": "457",
 		"jlpt": "N2",
 		"noteID": "kanji_守",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -14908,7 +14908,7 @@
 		"frequency": "595",
 		"jlpt": "N2",
 		"noteID": "kanji_完",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -15005,7 +15005,7 @@
 		"frequency": "230",
 		"jlpt": "N2",
 		"noteID": "kanji_官",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -15102,7 +15102,7 @@
 		"frequency": "48",
 		"jlpt": "N2",
 		"noteID": "kanji_定",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -15211,7 +15211,7 @@
 		"frequency": "68",
 		"jlpt": "N2",
 		"noteID": "kanji_実",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -15322,7 +15322,7 @@
 		"frequency": "557",
 		"jlpt": "N2",
 		"noteID": "kanji_客",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -15419,7 +15419,7 @@
 		"frequency": "358",
 		"jlpt": "N2",
 		"noteID": "kanji_害",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -15519,7 +15519,7 @@
 		"frequency": "264",
 		"jlpt": "N2",
 		"noteID": "kanji_容",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -15622,7 +15622,7 @@
 		"frequency": "701",
 		"jlpt": "N2",
 		"noteID": "kanji_宿",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -15732,7 +15732,7 @@
 		"frequency": "673",
 		"jlpt": "N2",
 		"noteID": "kanji_寄",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -15843,7 +15843,7 @@
 		"frequency": "644",
 		"jlpt": "N2",
 		"noteID": "kanji_富",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -15950,7 +15950,7 @@
 		"frequency": "1456",
 		"jlpt": "N3",
 		"noteID": "kanji_寒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -16062,7 +16062,7 @@
 		"frequency": "1034",
 		"jlpt": "N2",
 		"noteID": "kanji_寝",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -16180,7 +16180,7 @@
 		"frequency": "477",
 		"jlpt": "N2",
 		"noteID": "kanji_察",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -16277,7 +16277,7 @@
 		"frequency": "879",
 		"jlpt": "N2",
 		"noteID": "kanji_寺",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -16375,7 +16375,7 @@
 		"frequency": "34",
 		"jlpt": "N2",
 		"noteID": "kanji_対",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -16488,7 +16488,7 @@
 		"frequency": "354",
 		"jlpt": "N2",
 		"noteID": "kanji_導",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -16592,7 +16592,7 @@
 		"frequency": "286",
 		"jlpt": "N2",
 		"noteID": "kanji_局",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -16699,7 +16699,7 @@
 		"frequency": "836",
 		"jlpt": "N2",
 		"noteID": "kanji_居",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -16806,7 +16806,7 @@
 		"frequency": "787",
 		"jlpt": "N2",
 		"noteID": "kanji_岩",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -16904,7 +16904,7 @@
 		"frequency": "556",
 		"jlpt": "N2",
 		"noteID": "kanji_岸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -17007,7 +17007,7 @@
 		"frequency": "245",
 		"jlpt": "N2",
 		"noteID": "kanji_島",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -17111,7 +17111,7 @@
 		"frequency": "386",
 		"jlpt": "N2",
 		"noteID": "kanji_州",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -17220,7 +17220,7 @@
 		"frequency": "449",
 		"jlpt": "N2",
 		"noteID": "kanji_差",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -17328,7 +17328,7 @@
 		"frequency": "42",
 		"jlpt": "N3",
 		"noteID": "kanji_市",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -17432,7 +17432,7 @@
 		"frequency": "877",
 		"jlpt": "N2",
 		"noteID": "kanji_布",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -17541,7 +17541,7 @@
 		"frequency": "896",
 		"jlpt": "N2",
 		"noteID": "kanji_希",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -17652,7 +17652,7 @@
 		"frequency": "563",
 		"jlpt": "N2",
 		"noteID": "kanji_師",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -17769,7 +17769,7 @@
 		"frequency": "370",
 		"jlpt": "N2",
 		"noteID": "kanji_席",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -17872,7 +17872,7 @@
 		"frequency": "746",
 		"jlpt": "N2",
 		"noteID": "kanji_帯",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -17984,7 +17984,7 @@
 		"frequency": "293",
 		"jlpt": "N2",
 		"noteID": "kanji_常",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -18104,7 +18104,7 @@
 		"frequency": "128",
 		"jlpt": "N2",
 		"noteID": "kanji_平",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -18217,7 +18217,7 @@
 		"frequency": "786",
 		"jlpt": "N2",
 		"noteID": "kanji_幸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -18331,7 +18331,7 @@
 		"frequency": "1725",
 		"jlpt": "N1",
 		"noteID": "kanji_幾",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -18448,7 +18448,7 @@
 		"frequency": "867",
 		"jlpt": "N2",
 		"noteID": "kanji_底",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -18550,7 +18550,7 @@
 		"frequency": "170",
 		"jlpt": "N2",
 		"noteID": "kanji_府",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -18655,7 +18655,7 @@
 		"frequency": "588",
 		"jlpt": "N2",
 		"noteID": "kanji_座",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -18757,7 +18757,7 @@
 		"frequency": "852",
 		"jlpt": "N2",
 		"noteID": "kanji_庫",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -18855,7 +18855,7 @@
 		"frequency": "816",
 		"jlpt": "N2",
 		"noteID": "kanji_庭",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -18956,7 +18956,7 @@
 		"frequency": "251",
 		"jlpt": "N2",
 		"noteID": "kanji_式",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -19061,7 +19061,7 @@
 		"frequency": "218",
 		"jlpt": "N3",
 		"noteID": "kanji_引",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -19172,7 +19172,7 @@
 		"frequency": "91",
 		"jlpt": "N2",
 		"noteID": "kanji_当",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -19281,7 +19281,7 @@
 		"frequency": "418",
 		"jlpt": "N2",
 		"noteID": "kanji_形",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -19386,7 +19386,7 @@
 		"frequency": "315",
 		"jlpt": "N2",
 		"noteID": "kanji_役",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -19491,7 +19491,7 @@
 		"frequency": "648",
 		"jlpt": "N2",
 		"noteID": "kanji_彼",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -19596,7 +19596,7 @@
 		"frequency": "817",
 		"jlpt": "N2",
 		"noteID": "kanji_徒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -19706,7 +19706,7 @@
 		"frequency": "175",
 		"jlpt": "N2",
 		"noteID": "kanji_得",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -19823,7 +19823,7 @@
 		"frequency": "1087",
 		"jlpt": "N2",
 		"noteID": "kanji_御",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -19927,7 +19927,7 @@
 		"frequency": "438",
 		"jlpt": "N2",
 		"noteID": "kanji_復",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -20026,7 +20026,7 @@
 		"frequency": "265",
 		"jlpt": "N2",
 		"noteID": "kanji_必",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -20126,7 +20126,7 @@
 		"frequency": "1129",
 		"jlpt": "N2",
 		"noteID": "kanji_忘",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -20224,7 +20224,7 @@
 		"frequency": "1475",
 		"jlpt": "N2",
 		"noteID": "kanji_忙",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -20326,7 +20326,7 @@
 		"frequency": "1074",
 		"jlpt": "N2",
 		"noteID": "kanji_快",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -20428,7 +20428,7 @@
 		"frequency": "390",
 		"jlpt": "N2",
 		"noteID": "kanji_念",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -20529,7 +20529,7 @@
 		"frequency": "1221",
 		"jlpt": "N2",
 		"noteID": "kanji_怒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -20628,7 +20628,7 @@
 		"frequency": "1325",
 		"jlpt": "N2",
 		"noteID": "kanji_怖",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -20732,7 +20732,7 @@
 		"frequency": "104",
 		"jlpt": "N2",
 		"noteID": "kanji_性",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -20833,7 +20833,7 @@
 		"frequency": "878",
 		"jlpt": "N2",
 		"noteID": "kanji_恐",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -20941,7 +20941,7 @@
 		"frequency": "1575",
 		"jlpt": "N2",
 		"noteID": "kanji_恥",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -21041,7 +21041,7 @@
 		"frequency": "882",
 		"jlpt": "N2",
 		"noteID": "kanji_息",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -21144,7 +21144,7 @@
 		"frequency": "1014",
 		"jlpt": "N2",
 		"noteID": "kanji_悲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -21246,7 +21246,7 @@
 		"frequency": "235",
 		"jlpt": "N2",
 		"noteID": "kanji_情",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -21350,7 +21350,7 @@
 		"frequency": "381",
 		"jlpt": "N2",
 		"noteID": "kanji_想",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -21452,7 +21452,7 @@
 		"frequency": "640",
 		"jlpt": "N2",
 		"noteID": "kanji_愛",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -21575,7 +21575,7 @@
 		"frequency": "233",
 		"jlpt": "N2",
 		"noteID": "kanji_感",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -21676,7 +21676,7 @@
 		"frequency": "1177",
 		"jlpt": "N2",
 		"noteID": "kanji_慣",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -21777,7 +21777,7 @@
 		"frequency": "116",
 		"jlpt": "N2",
 		"noteID": "kanji_成",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -21898,7 +21898,7 @@
 		"frequency": "78",
 		"jlpt": "N2",
 		"noteID": "kanji_戦",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -22005,7 +22005,7 @@
 		"frequency": "575",
 		"jlpt": "N2",
 		"noteID": "kanji_戸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -22109,7 +22109,7 @@
 		"frequency": "890",
 		"jlpt": "N2",
 		"noteID": "kanji_戻",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -22213,7 +22213,7 @@
 		"frequency": "221",
 		"jlpt": "N3",
 		"noteID": "kanji_所",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -22318,7 +22318,7 @@
 		"frequency": "1497",
 		"jlpt": "N2",
 		"noteID": "kanji_才",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::3",
@@ -22419,7 +22419,7 @@
 		"frequency": "239",
 		"jlpt": "N2",
 		"noteID": "kanji_打",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -22525,7 +22525,7 @@
 		"frequency": "813",
 		"jlpt": "N2",
 		"noteID": "kanji_払",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -22632,7 +22632,7 @@
 		"frequency": "775",
 		"jlpt": "N2",
 		"noteID": "kanji_承",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -22731,7 +22731,7 @@
 		"frequency": "434",
 		"jlpt": "N2",
 		"noteID": "kanji_技",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -22834,7 +22834,7 @@
 		"frequency": "236",
 		"jlpt": "N2",
 		"noteID": "kanji_投",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -22941,7 +22941,7 @@
 		"frequency": "962",
 		"jlpt": "N2",
 		"noteID": "kanji_折",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -23052,7 +23052,7 @@
 		"frequency": "726",
 		"jlpt": "N2",
 		"noteID": "kanji_抜",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -23166,7 +23166,7 @@
 		"frequency": "871",
 		"jlpt": "N2",
 		"noteID": "kanji_抱",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -23271,7 +23271,7 @@
 		"frequency": "789",
 		"jlpt": "N2",
 		"noteID": "kanji_押",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -23386,7 +23386,7 @@
 		"frequency": "840",
 		"jlpt": "N2",
 		"noteID": "kanji_招",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -23485,7 +23485,7 @@
 		"frequency": "155",
 		"jlpt": "N2",
 		"noteID": "kanji_指",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -23596,7 +23596,7 @@
 		"frequency": "604",
 		"jlpt": "N2",
 		"noteID": "kanji_捕",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -23699,7 +23699,7 @@
 		"frequency": "1027",
 		"jlpt": "N1",
 		"noteID": "kanji_掛",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -23819,7 +23819,7 @@
 		"frequency": "930",
 		"jlpt": "N2",
 		"noteID": "kanji_探",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -23928,7 +23928,7 @@
 		"frequency": "523",
 		"jlpt": "N2",
 		"noteID": "kanji_接",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -24028,7 +24028,7 @@
 		"frequency": "807",
 		"jlpt": "N2",
 		"noteID": "kanji_損",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -24132,7 +24132,7 @@
 		"frequency": "159",
 		"jlpt": "N2",
 		"noteID": "kanji_支",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -24235,7 +24235,7 @@
 		"frequency": "147",
 		"jlpt": "N2",
 		"noteID": "kanji_改",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -24341,7 +24341,7 @@
 		"frequency": "288",
 		"jlpt": "N2",
 		"noteID": "kanji_放",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -24453,7 +24453,7 @@
 		"frequency": "17",
 		"jlpt": "N2",
 		"noteID": "kanji_政",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -24556,7 +24556,7 @@
 		"frequency": "799",
 		"jlpt": "N2",
 		"noteID": "kanji_救",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -24656,7 +24656,7 @@
 		"frequency": "516",
 		"jlpt": "N2",
 		"noteID": "kanji_敗",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -24754,7 +24754,7 @@
 		"frequency": "758",
 		"jlpt": "N2",
 		"noteID": "kanji_散",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -24869,7 +24869,7 @@
 		"frequency": "148",
 		"jlpt": "N2",
 		"noteID": "kanji_数",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -24986,7 +24986,7 @@
 		"frequency": "338",
 		"jlpt": "N2",
 		"noteID": "kanji_断",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -25099,7 +25099,7 @@
 		"frequency": "549",
 		"jlpt": "N2",
 		"noteID": "kanji_旧",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -25200,7 +25200,7 @@
 		"frequency": "571",
 		"jlpt": "N2",
 		"noteID": "kanji_易",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -25304,7 +25304,7 @@
 		"frequency": "1197",
 		"jlpt": "N2",
 		"noteID": "kanji_昔",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -25405,7 +25405,7 @@
 		"frequency": "844",
 		"jlpt": "N2",
 		"noteID": "kanji_星",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -25508,7 +25508,7 @@
 		"frequency": "226",
 		"jlpt": "N2",
 		"noteID": "kanji_昨",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -25604,7 +25604,7 @@
 		"frequency": "1424",
 		"jlpt": "N2",
 		"noteID": "kanji_晩",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -25698,7 +25698,7 @@
 		"frequency": "419",
 		"jlpt": "N2",
 		"noteID": "kanji_景",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -25795,7 +25795,7 @@
 		"frequency": "1022",
 		"jlpt": "N2",
 		"noteID": "kanji_晴",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -25901,7 +25901,7 @@
 		"frequency": "1040",
 		"jlpt": "N3",
 		"noteID": "kanji_暗",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -26004,7 +26004,7 @@
 		"frequency": "978",
 		"jlpt": "N2",
 		"noteID": "kanji_暮",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -26113,7 +26113,7 @@
 		"frequency": "810",
 		"jlpt": "N2",
 		"noteID": "kanji_曲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -26213,7 +26213,7 @@
 		"frequency": "861",
 		"jlpt": "N2",
 		"noteID": "kanji_更",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -26326,7 +26326,7 @@
 		"frequency": "470",
 		"jlpt": "N2",
 		"noteID": "kanji_望",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -26439,7 +26439,7 @@
 		"frequency": "117",
 		"jlpt": "N2",
 		"noteID": "kanji_期",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -26536,7 +26536,7 @@
 		"frequency": "650",
 		"jlpt": "N2",
 		"noteID": "kanji_未",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -26644,7 +26644,7 @@
 		"frequency": "456",
 		"jlpt": "N2",
 		"noteID": "kanji_末",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -26749,7 +26749,7 @@
 		"frequency": "921",
 		"jlpt": "N2",
 		"noteID": "kanji_札",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -26852,7 +26852,7 @@
 		"frequency": "565",
 		"jlpt": "N2",
 		"noteID": "kanji_材",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -26955,7 +26955,7 @@
 		"frequency": "253",
 		"jlpt": "N3",
 		"noteID": "kanji_村",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -27059,7 +27059,7 @@
 		"frequency": "918",
 		"jlpt": "N2",
 		"noteID": "kanji_束",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -27166,7 +27166,7 @@
 		"frequency": "1235",
 		"jlpt": "N2",
 		"noteID": "kanji_杯",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -27265,7 +27265,7 @@
 		"frequency": "926",
 		"jlpt": "N2",
 		"noteID": "kanji_板",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -27367,7 +27367,7 @@
 		"frequency": "656",
 		"jlpt": "N3",
 		"noteID": "kanji_林",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -27469,7 +27469,7 @@
 		"frequency": "258",
 		"jlpt": "N2",
 		"noteID": "kanji_果",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -27582,7 +27582,7 @@
 		"frequency": "1401",
 		"jlpt": "N2",
 		"noteID": "kanji_枝",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -27688,7 +27688,7 @@
 		"frequency": "184",
 		"jlpt": "N2",
 		"noteID": "kanji_査",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -27781,7 +27781,7 @@
 		"frequency": "920",
 		"jlpt": "N2",
 		"noteID": "kanji_栄",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -27898,7 +27898,7 @@
 		"frequency": "620",
 		"jlpt": "N2",
 		"noteID": "kanji_根",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -27997,7 +27997,7 @@
 		"frequency": "281",
 		"jlpt": "N2",
 		"noteID": "kanji_格",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -28103,7 +28103,7 @@
 		"frequency": "609",
 		"jlpt": "N3",
 		"noteID": "kanji_森",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -28191,7 +28191,7 @@
 		"frequency": "699",
 		"jlpt": "N2",
 		"noteID": "kanji_植",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -28293,7 +28293,7 @@
 		"frequency": "290",
 		"jlpt": "N2",
 		"noteID": "kanji_検",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -28390,7 +28390,7 @@
 		"frequency": "460",
 		"jlpt": "N2",
 		"noteID": "kanji_極",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -28515,7 +28515,7 @@
 		"frequency": "316",
 		"jlpt": "N2",
 		"noteID": "kanji_構",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -28625,7 +28625,7 @@
 		"frequency": "493",
 		"jlpt": "N2",
 		"noteID": "kanji_様",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -28733,7 +28733,7 @@
 		"frequency": "156",
 		"jlpt": "N2",
 		"noteID": "kanji_権",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -28842,7 +28842,7 @@
 		"frequency": "480",
 		"jlpt": "N2",
 		"noteID": "kanji_横",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -28944,7 +28944,7 @@
 		"frequency": "553",
 		"jlpt": "N2",
 		"noteID": "kanji_橋",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -29045,7 +29045,7 @@
 		"frequency": "127",
 		"jlpt": "N2",
 		"noteID": "kanji_機",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -29150,7 +29150,7 @@
 		"frequency": "860",
 		"jlpt": "N2",
 		"noteID": "kanji_欠",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -29253,7 +29253,7 @@
 		"frequency": "222",
 		"jlpt": "N2",
 		"noteID": "kanji_次",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -29361,7 +29361,7 @@
 		"frequency": "902",
 		"jlpt": "N2",
 		"noteID": "kanji_欲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -29465,7 +29465,7 @@
 		"frequency": "387",
 		"jlpt": "N2",
 		"noteID": "kanji_武",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -29579,7 +29579,7 @@
 		"frequency": "1106",
 		"jlpt": "N2",
 		"noteID": "kanji_歯",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -29683,7 +29683,7 @@
 		"frequency": "269",
 		"jlpt": "N2",
 		"noteID": "kanji_歳",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -29773,7 +29773,7 @@
 		"frequency": "632",
 		"jlpt": "N2",
 		"noteID": "kanji_歴",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -29875,7 +29875,7 @@
 		"frequency": "380",
 		"jlpt": "N2",
 		"noteID": "kanji_残",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -29979,7 +29979,7 @@
 		"frequency": "479",
 		"jlpt": "N2",
 		"noteID": "kanji_段",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -30079,7 +30079,7 @@
 		"frequency": "581",
 		"jlpt": "N2",
 		"noteID": "kanji_殺",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -30191,7 +30191,7 @@
 		"frequency": "329",
 		"jlpt": "N2",
 		"noteID": "kanji_比",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -30285,7 +30285,7 @@
 		"frequency": "1179",
 		"jlpt": "N2",
 		"noteID": "kanji_毛",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -30392,7 +30392,7 @@
 		"frequency": "28",
 		"jlpt": "N3",
 		"noteID": "kanji_民",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -30485,7 +30485,7 @@
 		"frequency": "1450",
 		"jlpt": "N2",
 		"noteID": "kanji_氷",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -30590,7 +30590,7 @@
 		"frequency": "220",
 		"jlpt": "N2",
 		"noteID": "kanji_求",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -30697,7 +30697,7 @@
 		"frequency": "827",
 		"jlpt": "N3",
 		"noteID": "kanji_池",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -30796,7 +30796,7 @@
 		"frequency": "71",
 		"jlpt": "N2",
 		"noteID": "kanji_決",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -30900,7 +30900,7 @@
 		"frequency": "663",
 		"jlpt": "N2",
 		"noteID": "kanji_河",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31001,7 +31001,7 @@
 		"frequency": "690",
 		"jlpt": "N2",
 		"noteID": "kanji_油",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31099,7 +31099,7 @@
 		"frequency": "109",
 		"jlpt": "N2",
 		"noteID": "kanji_治",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31215,7 +31215,7 @@
 		"frequency": "100",
 		"jlpt": "N2",
 		"noteID": "kanji_法",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31324,7 +31324,7 @@
 		"frequency": "740",
 		"jlpt": "N2",
 		"noteID": "kanji_波",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31428,7 +31428,7 @@
 		"frequency": "1380",
 		"jlpt": "N2",
 		"noteID": "kanji_泣",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31528,7 +31528,7 @@
 		"frequency": "1223",
 		"jlpt": "N2",
 		"noteID": "kanji_泳",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -31624,7 +31624,7 @@
 		"frequency": "1168",
 		"jlpt": "N3",
 		"noteID": "kanji_洗",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -31728,7 +31728,7 @@
 		"frequency": "171",
 		"jlpt": "N2",
 		"noteID": "kanji_活",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -31831,7 +31831,7 @@
 		"frequency": "280",
 		"jlpt": "N2",
 		"noteID": "kanji_流",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -31941,7 +31941,7 @@
 		"frequency": "776",
 		"jlpt": "N2",
 		"noteID": "kanji_浮",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -32051,7 +32051,7 @@
 		"frequency": "1136",
 		"jlpt": "N2",
 		"noteID": "kanji_浴",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -32154,7 +32154,7 @@
 		"frequency": "345",
 		"jlpt": "N2",
 		"noteID": "kanji_消",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -32255,7 +32255,7 @@
 		"frequency": "1210",
 		"jlpt": "N2",
 		"noteID": "kanji_液",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -32352,7 +32352,7 @@
 		"frequency": "484",
 		"jlpt": "N2",
 		"noteID": "kanji_深",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -32463,7 +32463,7 @@
 		"frequency": "824",
 		"jlpt": "N2",
 		"noteID": "kanji_混",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -32565,7 +32565,7 @@
 		"frequency": "705",
 		"jlpt": "N2",
 		"noteID": "kanji_清",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -32678,7 +32678,7 @@
 		"frequency": "168",
 		"jlpt": "N2",
 		"noteID": "kanji_済",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -32794,7 +32794,7 @@
 		"frequency": "446",
 		"jlpt": "N2",
 		"noteID": "kanji_渡",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -32906,7 +32906,7 @@
 		"frequency": "838",
 		"jlpt": "N2",
 		"noteID": "kanji_温",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -33018,7 +33018,7 @@
 		"frequency": "761",
 		"jlpt": "N2",
 		"noteID": "kanji_測",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -33117,7 +33117,7 @@
 		"frequency": "495",
 		"jlpt": "N2",
 		"noteID": "kanji_港",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -33213,7 +33213,7 @@
 		"frequency": "1344",
 		"jlpt": "N2",
 		"noteID": "kanji_湖",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -33315,7 +33315,7 @@
 		"frequency": "1356",
 		"jlpt": "N2",
 		"noteID": "kanji_湯",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -33413,7 +33413,7 @@
 		"frequency": "515",
 		"jlpt": "N2",
 		"noteID": "kanji_満",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -33527,7 +33527,7 @@
 		"frequency": "425",
 		"jlpt": "N2",
 		"noteID": "kanji_準",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -33636,7 +33636,7 @@
 		"frequency": "1094",
 		"jlpt": "N2",
 		"noteID": "kanji_漁",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -33734,7 +33734,7 @@
 		"frequency": "267",
 		"jlpt": "N2",
 		"noteID": "kanji_演",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -33831,7 +33831,7 @@
 		"frequency": "1307",
 		"jlpt": "N2",
 		"noteID": "kanji_炭",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -33928,7 +33928,7 @@
 		"frequency": "165",
 		"jlpt": "N2",
 		"noteID": "kanji_点",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -34036,7 +34036,7 @@
 		"frequency": "274",
 		"jlpt": "N2",
 		"noteID": "kanji_無",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -34148,7 +34148,7 @@
 		"frequency": "401",
 		"jlpt": "N2",
 		"noteID": "kanji_然",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -34258,7 +34258,7 @@
 		"frequency": "982",
 		"jlpt": "N2",
 		"noteID": "kanji_焼",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -34373,7 +34373,7 @@
 		"frequency": "1290",
 		"jlpt": "N2",
 		"noteID": "kanji_煙",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -34478,7 +34478,7 @@
 		"frequency": "700",
 		"jlpt": "N2",
 		"noteID": "kanji_熱",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -34595,7 +34595,7 @@
 		"frequency": "802",
 		"jlpt": "N2",
 		"noteID": "kanji_版",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -34692,7 +34692,7 @@
 		"frequency": "874",
 		"jlpt": "N2",
 		"noteID": "kanji_犯",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -34793,7 +34793,7 @@
 		"frequency": "298",
 		"jlpt": "N2",
 		"noteID": "kanji_状",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -34892,7 +34892,7 @@
 		"frequency": "365",
 		"jlpt": "N2",
 		"noteID": "kanji_独",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -34998,7 +34998,7 @@
 		"frequency": "1702",
 		"jlpt": "N2",
 		"noteID": "kanji_猫",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -35096,7 +35096,7 @@
 		"frequency": "383",
 		"jlpt": "N2",
 		"noteID": "kanji_率",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -35209,7 +35209,7 @@
 		"frequency": "737",
 		"jlpt": "N2",
 		"noteID": "kanji_玉",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -35314,7 +35314,7 @@
 		"frequency": "684",
 		"jlpt": "N2",
 		"noteID": "kanji_王",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::4",
@@ -35417,7 +35417,7 @@
 		"frequency": "85",
 		"jlpt": "N2",
 		"noteID": "kanji_現",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -35524,7 +35524,7 @@
 		"frequency": "302",
 		"jlpt": "N2",
 		"noteID": "kanji_球",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -35626,7 +35626,7 @@
 		"frequency": "161",
 		"jlpt": "N3",
 		"noteID": "kanji_産",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -35740,7 +35740,7 @@
 		"frequency": "325",
 		"jlpt": "N2",
 		"noteID": "kanji_由",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -35831,7 +35831,7 @@
 		"frequency": "492",
 		"jlpt": "N2",
 		"noteID": "kanji_申",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -35934,7 +35934,7 @@
 		"frequency": "731",
 		"jlpt": "N2",
 		"noteID": "kanji_留",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -36051,7 +36051,7 @@
 		"frequency": "774",
 		"jlpt": "N2",
 		"noteID": "kanji_略",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -36157,7 +36157,7 @@
 		"frequency": "348",
 		"jlpt": "N2",
 		"noteID": "kanji_番",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -36260,7 +36260,7 @@
 		"frequency": "283",
 		"jlpt": "N2",
 		"noteID": "kanji_疑",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -36367,7 +36367,7 @@
 		"frequency": "1263",
 		"jlpt": "N2",
 		"noteID": "kanji_疲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -36469,7 +36469,7 @@
 		"frequency": "903",
 		"jlpt": "N2",
 		"noteID": "kanji_痛",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -36573,7 +36573,7 @@
 		"frequency": "566",
 		"jlpt": "N2",
 		"noteID": "kanji_登",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -36683,7 +36683,7 @@
 		"frequency": "105",
 		"jlpt": "N2",
 		"noteID": "kanji_的",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -36789,7 +36789,7 @@
 		"frequency": "1267",
 		"jlpt": "N2",
 		"noteID": "kanji_皆",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -36892,7 +36892,7 @@
 		"frequency": "1092",
 		"jlpt": "N2",
 		"noteID": "kanji_皮",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -36994,7 +36994,7 @@
 		"frequency": "1812",
 		"jlpt": "N2",
 		"noteID": "kanji_皿",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -37083,7 +37083,7 @@
 		"frequency": "1051",
 		"jlpt": "N2",
 		"noteID": "kanji_盗",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -37182,7 +37182,7 @@
 		"frequency": "246",
 		"jlpt": "N2",
 		"noteID": "kanji_直",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -37301,7 +37301,7 @@
 		"frequency": "45",
 		"jlpt": "N2",
 		"noteID": "kanji_相",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -37416,7 +37416,7 @@
 		"frequency": "548",
 		"jlpt": "N2",
 		"noteID": "kanji_省",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -37520,7 +37520,7 @@
 		"frequency": "140",
 		"jlpt": "N3",
 		"noteID": "kanji_県",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -37624,7 +37624,7 @@
 		"frequency": "1315",
 		"jlpt": "N2",
 		"noteID": "kanji_眠",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -37728,7 +37728,7 @@
 		"frequency": "689",
 		"jlpt": "N3",
 		"noteID": "kanji_短",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -37830,7 +37830,7 @@
 		"frequency": "342",
 		"jlpt": "N2",
 		"noteID": "kanji_石",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -37942,7 +37942,7 @@
 		"frequency": "590",
 		"jlpt": "N2",
 		"noteID": "kanji_破",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -38048,7 +38048,7 @@
 		"frequency": "252",
 		"jlpt": "N2",
 		"noteID": "kanji_確",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -38159,7 +38159,7 @@
 		"frequency": "237",
 		"jlpt": "N2",
 		"noteID": "kanji_示",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -38266,7 +38266,7 @@
 		"frequency": "1185",
 		"jlpt": "N2",
 		"noteID": "kanji_礼",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -38373,7 +38373,7 @@
 		"frequency": "1226",
 		"jlpt": "N2",
 		"noteID": "kanji_祖",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -38471,7 +38471,7 @@
 		"frequency": "1184",
 		"jlpt": "N2",
 		"noteID": "kanji_祝",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -38574,7 +38574,7 @@
 		"frequency": "347",
 		"jlpt": "N2",
 		"noteID": "kanji_神",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -38688,7 +38688,7 @@
 		"frequency": "1124",
 		"jlpt": "N2",
 		"noteID": "kanji_祭",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -38797,7 +38797,7 @@
 		"frequency": "681",
 		"jlpt": "N2",
 		"noteID": "kanji_禁",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -38892,7 +38892,7 @@
 		"frequency": "467",
 		"jlpt": "N2",
 		"noteID": "kanji_福",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -38997,7 +38997,7 @@
 		"frequency": "531",
 		"jlpt": "N2",
 		"noteID": "kanji_科",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -39097,7 +39097,7 @@
 		"frequency": "448",
 		"jlpt": "N2",
 		"noteID": "kanji_移",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -39199,7 +39199,7 @@
 		"frequency": "514",
 		"jlpt": "N2",
 		"noteID": "kanji_程",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -39307,7 +39307,7 @@
 		"frequency": "289",
 		"jlpt": "N2",
 		"noteID": "kanji_税",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -39404,7 +39404,7 @@
 		"frequency": "461",
 		"jlpt": "N2",
 		"noteID": "kanji_種",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -39511,7 +39511,7 @@
 		"frequency": "541",
 		"jlpt": "N2",
 		"noteID": "kanji_積",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -39624,7 +39624,7 @@
 		"frequency": "521",
 		"jlpt": "N2",
 		"noteID": "kanji_突",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -39729,7 +39729,7 @@
 		"frequency": "1186",
 		"jlpt": "N2",
 		"noteID": "kanji_窓",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -39833,7 +39833,7 @@
 		"frequency": "1138",
 		"jlpt": "N2",
 		"noteID": "kanji_童",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -39935,7 +39935,7 @@
 		"frequency": "610",
 		"jlpt": "N2",
 		"noteID": "kanji_競",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::20",
@@ -40054,7 +40054,7 @@
 		"frequency": "593",
 		"jlpt": "N2",
 		"noteID": "kanji_竹",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -40155,7 +40155,7 @@
 		"frequency": "913",
 		"jlpt": "N2",
 		"noteID": "kanji_笑",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -40257,7 +40257,7 @@
 		"frequency": "160",
 		"jlpt": "N2",
 		"noteID": "kanji_第",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -40356,7 +40356,7 @@
 		"frequency": "1132",
 		"jlpt": "N2",
 		"noteID": "kanji_筆",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -40458,7 +40458,7 @@
 		"frequency": "798",
 		"jlpt": "N2",
 		"noteID": "kanji_等",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -40565,7 +40565,7 @@
 		"frequency": "361",
 		"jlpt": "N2",
 		"noteID": "kanji_算",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -40669,7 +40669,7 @@
 		"frequency": "517",
 		"jlpt": "N2",
 		"noteID": "kanji_管",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -40773,7 +40773,7 @@
 		"frequency": "1357",
 		"jlpt": "N2",
 		"noteID": "kanji_箱",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -40873,7 +40873,7 @@
 		"frequency": "821",
 		"jlpt": "N2",
 		"noteID": "kanji_築",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -40985,7 +40985,7 @@
 		"frequency": "61",
 		"jlpt": "N2",
 		"noteID": "kanji_米",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -41098,7 +41098,7 @@
 		"frequency": "752",
 		"jlpt": "N2",
 		"noteID": "kanji_精",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -41207,7 +41207,7 @@
 		"frequency": "1488",
 		"jlpt": "N2",
 		"noteID": "kanji_糸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -41305,7 +41305,7 @@
 		"frequency": "94",
 		"jlpt": "N2",
 		"noteID": "kanji_約",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -41407,7 +41407,7 @@
 		"frequency": "785",
 		"jlpt": "N2",
 		"noteID": "kanji_級",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -41505,7 +41505,7 @@
 		"frequency": "537",
 		"jlpt": "N2",
 		"noteID": "kanji_細",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -41610,7 +41610,7 @@
 		"frequency": "204",
 		"jlpt": "N2",
 		"noteID": "kanji_組",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -41717,7 +41717,7 @@
 		"frequency": "79",
 		"jlpt": "N2",
 		"noteID": "kanji_経",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -41827,7 +41827,7 @@
 		"frequency": "162",
 		"jlpt": "N2",
 		"noteID": "kanji_結",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -41938,7 +41938,7 @@
 		"frequency": "615",
 		"jlpt": "N2",
 		"noteID": "kanji_給",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -42044,7 +42044,7 @@
 		"frequency": "895",
 		"jlpt": "N2",
 		"noteID": "kanji_絵",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -42141,7 +42141,7 @@
 		"frequency": "784",
 		"jlpt": "N2",
 		"noteID": "kanji_絶",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -42250,7 +42250,7 @@
 		"frequency": "141",
 		"jlpt": "N2",
 		"noteID": "kanji_続",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -42358,7 +42358,7 @@
 		"frequency": "1495",
 		"jlpt": "N2",
 		"noteID": "kanji_綿",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -42445,7 +42445,7 @@
 		"frequency": "129",
 		"jlpt": "N2",
 		"noteID": "kanji_総",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -42555,7 +42555,7 @@
 		"frequency": "1180",
 		"jlpt": "N2",
 		"noteID": "kanji_緑",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -42656,7 +42656,7 @@
 		"frequency": "952",
 		"jlpt": "N2",
 		"noteID": "kanji_緒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -42765,7 +42765,7 @@
 		"frequency": "382",
 		"jlpt": "N2",
 		"noteID": "kanji_線",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -42864,7 +42864,7 @@
 		"frequency": "591",
 		"jlpt": "N2",
 		"noteID": "kanji_編",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -42968,7 +42968,7 @@
 		"frequency": "788",
 		"jlpt": "N2",
 		"noteID": "kanji_練",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -43073,7 +43073,7 @@
 		"frequency": "820",
 		"jlpt": "N2",
 		"noteID": "kanji_績",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::17",
@@ -43171,7 +43171,7 @@
 		"frequency": "732",
 		"jlpt": "N2",
 		"noteID": "kanji_罪",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -43272,7 +43272,7 @@
 		"frequency": "277",
 		"jlpt": "N2",
 		"noteID": "kanji_置",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -43383,7 +43383,7 @@
 		"frequency": "462",
 		"jlpt": "N2",
 		"noteID": "kanji_美",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -43489,7 +43489,7 @@
 		"frequency": "748",
 		"jlpt": "N2",
 		"noteID": "kanji_羽",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -43602,7 +43602,7 @@
 		"frequency": "803",
 		"jlpt": "N2",
 		"noteID": "kanji_老",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -43706,7 +43706,7 @@
 		"frequency": "1328",
 		"jlpt": "N4",
 		"noteID": "kanji_耳",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -43796,7 +43796,7 @@
 		"frequency": "305",
 		"jlpt": "N2",
 		"noteID": "kanji_職",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::18",
@@ -43895,7 +43895,7 @@
 		"frequency": "369",
 		"jlpt": "N2",
 		"noteID": "kanji_育",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -44004,7 +44004,7 @@
 		"frequency": "1647",
 		"jlpt": "N2",
 		"noteID": "kanji_胃",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -44100,7 +44100,7 @@
 		"frequency": "696",
 		"jlpt": "N2",
 		"noteID": "kanji_背",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -44208,7 +44208,7 @@
 		"frequency": "273",
 		"jlpt": "N2",
 		"noteID": "kanji_能",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -44322,7 +44322,7 @@
 		"frequency": "1286",
 		"jlpt": "N2",
 		"noteID": "kanji_腹",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -44420,7 +44420,7 @@
 		"frequency": "1249",
 		"jlpt": "N2",
 		"noteID": "kanji_臣",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -44511,7 +44511,7 @@
 		"frequency": "655",
 		"jlpt": "N2",
 		"noteID": "kanji_舞",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -44620,7 +44620,7 @@
 		"frequency": "665",
 		"jlpt": "N2",
 		"noteID": "kanji_航",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -44719,7 +44719,7 @@
 		"frequency": "713",
 		"jlpt": "N2",
 		"noteID": "kanji_船",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -44824,7 +44824,7 @@
 		"frequency": "501",
 		"jlpt": "N2",
 		"noteID": "kanji_良",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -44936,7 +44936,7 @@
 		"frequency": "719",
 		"jlpt": "N2",
 		"noteID": "kanji_芸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -45046,7 +45046,7 @@
 		"frequency": "458",
 		"jlpt": "N2",
 		"noteID": "kanji_若",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -45158,7 +45158,7 @@
 		"frequency": "623",
 		"jlpt": "N2",
 		"noteID": "kanji_苦",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -45266,7 +45266,7 @@
 		"frequency": "967",
 		"jlpt": "N2",
 		"noteID": "kanji_草",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -45373,7 +45373,7 @@
 		"frequency": "1230",
 		"jlpt": "N2",
 		"noteID": "kanji_荷",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -45479,7 +45479,7 @@
 		"frequency": "1327",
 		"jlpt": "N3",
 		"noteID": "kanji_菜",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -45580,7 +45580,7 @@
 		"frequency": "420",
 		"jlpt": "N2",
 		"noteID": "kanji_落",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -45691,7 +45691,7 @@
 		"frequency": "414",
 		"jlpt": "N2",
 		"noteID": "kanji_葉",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -45801,7 +45801,7 @@
 		"frequency": "702",
 		"jlpt": "N3",
 		"noteID": "kanji_薬",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -45906,7 +45906,7 @@
 		"frequency": "1351",
 		"jlpt": "N2",
 		"noteID": "kanji_虫",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -46010,7 +46010,7 @@
 		"frequency": "832",
 		"jlpt": "N2",
 		"noteID": "kanji_血",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::6",
@@ -46108,7 +46108,7 @@
 		"frequency": "350",
 		"jlpt": "N2",
 		"noteID": "kanji_術",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -46222,7 +46222,7 @@
 		"frequency": "77",
 		"jlpt": "N2",
 		"noteID": "kanji_表",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -46325,7 +46325,7 @@
 		"frequency": "488",
 		"jlpt": "N2",
 		"noteID": "kanji_製",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -46419,7 +46419,7 @@
 		"frequency": "915",
 		"jlpt": "N2",
 		"noteID": "kanji_複",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -46515,7 +46515,7 @@
 		"frequency": "106",
 		"jlpt": "N2",
 		"noteID": "kanji_要",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -46621,7 +46621,7 @@
 		"frequency": "349",
 		"jlpt": "N2",
 		"noteID": "kanji_規",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -46721,7 +46721,7 @@
 		"frequency": "710",
 		"jlpt": "N2",
 		"noteID": "kanji_覚",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -46828,7 +46828,7 @@
 		"frequency": "476",
 		"jlpt": "N2",
 		"noteID": "kanji_観",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::18",
@@ -46939,7 +46939,7 @@
 		"frequency": "805",
 		"jlpt": "N2",
 		"noteID": "kanji_角",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -47057,7 +47057,7 @@
 		"frequency": "176",
 		"jlpt": "N2",
 		"noteID": "kanji_解",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -47182,7 +47182,7 @@
 		"frequency": "1134",
 		"jlpt": "N2",
 		"noteID": "kanji_訓",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -47292,7 +47292,7 @@
 		"frequency": "149",
 		"jlpt": "N2",
 		"noteID": "kanji_記",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -47393,7 +47393,7 @@
 		"frequency": "372",
 		"jlpt": "N2",
 		"noteID": "kanji_訪",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -47497,7 +47497,7 @@
 		"frequency": "145",
 		"jlpt": "N2",
 		"noteID": "kanji_設",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -47600,7 +47600,7 @@
 		"frequency": "720",
 		"jlpt": "N2",
 		"noteID": "kanji_許",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -47700,7 +47700,7 @@
 		"frequency": "198",
 		"jlpt": "N2",
 		"noteID": "kanji_認",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -47804,7 +47804,7 @@
 		"frequency": "1150",
 		"jlpt": "N2",
 		"noteID": "kanji_誤",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -47904,7 +47904,7 @@
 		"frequency": "326",
 		"jlpt": "N3",
 		"noteID": "kanji_説",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -48008,7 +48008,7 @@
 		"frequency": "455",
 		"jlpt": "N2",
 		"noteID": "kanji_課",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -48106,7 +48106,7 @@
 		"frequency": "87",
 		"jlpt": "N2",
 		"noteID": "kanji_調",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -48218,7 +48218,7 @@
 		"frequency": "272",
 		"jlpt": "N2",
 		"noteID": "kanji_談",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -48314,7 +48314,7 @@
 		"frequency": "227",
 		"jlpt": "N2",
 		"noteID": "kanji_論",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -48415,7 +48415,7 @@
 		"frequency": "653",
 		"jlpt": "N2",
 		"noteID": "kanji_講",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::17",
@@ -48514,7 +48514,7 @@
 		"frequency": "496",
 		"jlpt": "N2",
 		"noteID": "kanji_識",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::19",
@@ -48617,7 +48617,7 @@
 		"frequency": "366",
 		"jlpt": "N2",
 		"noteID": "kanji_警",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::19",
@@ -48714,7 +48714,7 @@
 		"frequency": "25",
 		"jlpt": "N2",
 		"noteID": "kanji_議",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::20",
@@ -48814,7 +48814,7 @@
 		"frequency": "508",
 		"jlpt": "N2",
 		"noteID": "kanji_谷",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -48926,7 +48926,7 @@
 		"frequency": "762",
 		"jlpt": "N2",
 		"noteID": "kanji_豊",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -49036,7 +49036,7 @@
 		"frequency": "394",
 		"jlpt": "N2",
 		"noteID": "kanji_象",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -49147,7 +49147,7 @@
 		"frequency": "443",
 		"jlpt": "N2",
 		"noteID": "kanji_負",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -49253,7 +49253,7 @@
 		"frequency": "494",
 		"jlpt": "N2",
 		"noteID": "kanji_財",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -49356,7 +49356,7 @@
 		"frequency": "1211",
 		"jlpt": "N2",
 		"noteID": "kanji_貧",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -49454,7 +49454,7 @@
 		"frequency": "822",
 		"jlpt": "N2",
 		"noteID": "kanji_貨",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -49552,7 +49552,7 @@
 		"frequency": "598",
 		"jlpt": "N2",
 		"noteID": "kanji_責",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -49650,7 +49650,7 @@
 		"frequency": "1100",
 		"jlpt": "N2",
 		"noteID": "kanji_貯",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -49755,7 +49755,7 @@
 		"frequency": "321",
 		"jlpt": "N2",
 		"noteID": "kanji_費",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -49856,7 +49856,7 @@
 		"frequency": "652",
 		"jlpt": "N2",
 		"noteID": "kanji_貿",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -49954,7 +49954,7 @@
 		"frequency": "179",
 		"jlpt": "N2",
 		"noteID": "kanji_資",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -50057,7 +50057,7 @@
 		"frequency": "868",
 		"jlpt": "N2",
 		"noteID": "kanji_賛",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -50162,7 +50162,7 @@
 		"frequency": "426",
 		"jlpt": "N2",
 		"noteID": "kanji_賞",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -50268,7 +50268,7 @@
 		"frequency": "897",
 		"jlpt": "N2",
 		"noteID": "kanji_越",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -50383,7 +50383,7 @@
 		"frequency": "529",
 		"jlpt": "N2",
 		"noteID": "kanji_路",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -50484,7 +50484,7 @@
 		"frequency": "320",
 		"jlpt": "N2",
 		"noteID": "kanji_身",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -50584,7 +50584,7 @@
 		"frequency": "189",
 		"jlpt": "N2",
 		"noteID": "kanji_軍",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -50686,7 +50686,7 @@
 		"frequency": "693",
 		"jlpt": "N2",
 		"noteID": "kanji_輪",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -50795,7 +50795,7 @@
 		"frequency": "371",
 		"jlpt": "N2",
 		"noteID": "kanji_輸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -50895,7 +50895,7 @@
 		"frequency": "633",
 		"jlpt": "N2",
 		"noteID": "kanji_辞",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -50997,7 +50997,7 @@
 		"frequency": "385",
 		"jlpt": "N2",
 		"noteID": "kanji_農",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -51096,7 +51096,7 @@
 		"frequency": "428",
 		"jlpt": "N2",
 		"noteID": "kanji_辺",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::5",
@@ -51200,7 +51200,7 @@
 		"frequency": "675",
 		"jlpt": "N2",
 		"noteID": "kanji_込",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::kokuji",
@@ -51308,7 +51308,7 @@
 		"frequency": "625",
 		"jlpt": "N2",
 		"noteID": "kanji_迎",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -51413,7 +51413,7 @@
 		"frequency": "685",
 		"jlpt": "N2",
 		"noteID": "kanji_返",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -51517,7 +51517,7 @@
 		"frequency": "379",
 		"jlpt": "N2",
 		"noteID": "kanji_述",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -51624,7 +51624,7 @@
 		"frequency": "942",
 		"jlpt": "N2",
 		"noteID": "kanji_迷",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -51727,7 +51727,7 @@
 		"frequency": "411",
 		"jlpt": "N2",
 		"noteID": "kanji_追",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -51832,7 +51832,7 @@
 		"frequency": "424",
 		"jlpt": "N2",
 		"noteID": "kanji_退",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -51941,7 +51941,7 @@
 		"frequency": "931",
 		"jlpt": "N2",
 		"noteID": "kanji_逃",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -52046,7 +52046,7 @@
 		"frequency": "683",
 		"jlpt": "N2",
 		"noteID": "kanji_逆",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -52152,7 +52152,7 @@
 		"frequency": "717",
 		"jlpt": "N2",
 		"noteID": "kanji_途",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -52250,7 +52250,7 @@
 		"frequency": "576",
 		"jlpt": "N2",
 		"noteID": "kanji_速",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -52353,7 +52353,7 @@
 		"frequency": "429",
 		"jlpt": "N2",
 		"noteID": "kanji_造",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -52459,7 +52459,7 @@
 		"frequency": "30",
 		"jlpt": "N2",
 		"noteID": "kanji_連",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -52572,7 +52572,7 @@
 		"frequency": "142",
 		"jlpt": "N3",
 		"noteID": "kanji_進",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -52677,7 +52677,7 @@
 		"frequency": "833",
 		"jlpt": "N2",
 		"noteID": "kanji_遅",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -52785,7 +52785,7 @@
 		"frequency": "941",
 		"jlpt": "N2",
 		"noteID": "kanji_遊",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -52897,7 +52897,7 @@
 		"frequency": "285",
 		"jlpt": "N2",
 		"noteID": "kanji_過",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -53003,7 +53003,7 @@
 		"frequency": "500",
 		"jlpt": "N2",
 		"noteID": "kanji_達",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -53117,7 +53117,7 @@
 		"frequency": "344",
 		"jlpt": "N2",
 		"noteID": "kanji_違",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -53221,7 +53221,7 @@
 		"frequency": "887",
 		"jlpt": "N3",
 		"noteID": "kanji_遠",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -53339,7 +53339,7 @@
 		"frequency": "670",
 		"jlpt": "N2",
 		"noteID": "kanji_適",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -53439,7 +53439,7 @@
 		"frequency": "57",
 		"jlpt": "N2",
 		"noteID": "kanji_選",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::15",
@@ -53542,7 +53542,7 @@
 		"frequency": "36",
 		"jlpt": "N2",
 		"noteID": "kanji_部",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -53653,7 +53653,7 @@
 		"frequency": "123",
 		"jlpt": "N3",
 		"noteID": "kanji_都",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -53762,7 +53762,7 @@
 		"frequency": "359",
 		"jlpt": "N2",
 		"noteID": "kanji_配",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -53861,7 +53861,7 @@
 		"frequency": "1006",
 		"jlpt": "N2",
 		"noteID": "kanji_酒",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -53964,7 +53964,7 @@
 		"frequency": "469",
 		"jlpt": "N2",
 		"noteID": "kanji_量",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -54069,7 +54069,7 @@
 		"frequency": "672",
 		"jlpt": "N2",
 		"noteID": "kanji_鉄",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -54171,7 +54171,7 @@
 		"frequency": "1505",
 		"jlpt": "N2",
 		"noteID": "kanji_銅",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -54267,7 +54267,7 @@
 		"frequency": "546",
 		"jlpt": "N2",
 		"noteID": "kanji_録",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -54368,7 +54368,7 @@
 		"frequency": "452",
 		"jlpt": "N3",
 		"noteID": "kanji_門",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -54462,7 +54462,7 @@
 		"frequency": "951",
 		"jlpt": "N2",
 		"noteID": "kanji_閉",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -54568,7 +54568,7 @@
 		"frequency": "70",
 		"jlpt": "N2",
 		"noteID": "kanji_関",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -54678,7 +54678,7 @@
 		"frequency": "331",
 		"jlpt": "N2",
 		"noteID": "kanji_防",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::7",
@@ -54782,7 +54782,7 @@
 		"frequency": "596",
 		"jlpt": "N2",
 		"noteID": "kanji_降",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -54895,7 +54895,7 @@
 		"frequency": "405",
 		"jlpt": "N2",
 		"noteID": "kanji_限",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -54997,7 +54997,7 @@
 		"frequency": "594",
 		"jlpt": "N2",
 		"noteID": "kanji_除",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -55100,7 +55100,7 @@
 		"frequency": "736",
 		"jlpt": "N2",
 		"noteID": "kanji_陸",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -55213,7 +55213,7 @@
 		"frequency": "707",
 		"jlpt": "N2",
 		"noteID": "kanji_険",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -55301,7 +55301,7 @@
 		"frequency": "1071",
 		"jlpt": "N2",
 		"noteID": "kanji_陽",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -55411,7 +55411,7 @@
 		"frequency": "513",
 		"jlpt": "N2",
 		"noteID": "kanji_階",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -55514,7 +55514,7 @@
 		"frequency": "183",
 		"jlpt": "N2",
 		"noteID": "kanji_際",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -55624,7 +55624,7 @@
 		"frequency": "839",
 		"jlpt": "N2",
 		"noteID": "kanji_雑",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -55726,7 +55726,7 @@
 		"frequency": "330",
 		"jlpt": "N2",
 		"noteID": "kanji_難",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::18",
@@ -55845,7 +55845,7 @@
 		"frequency": "1131",
 		"jlpt": "N2",
 		"noteID": "kanji_雪",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -55945,7 +55945,7 @@
 		"frequency": "1256",
 		"jlpt": "N2",
 		"noteID": "kanji_雲",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -56047,7 +56047,7 @@
 		"frequency": "764",
 		"jlpt": "N2",
 		"noteID": "kanji_静",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -56150,7 +56150,7 @@
 		"frequency": "472",
 		"jlpt": "N2",
 		"noteID": "kanji_非",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::8",
@@ -56241,7 +56241,7 @@
 		"frequency": "186",
 		"jlpt": "N2",
 		"noteID": "kanji_面",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -56355,7 +56355,7 @@
 		"frequency": "1561",
 		"jlpt": "N2",
 		"noteID": "kanji_靴",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::13",
@@ -56439,7 +56439,7 @@
 		"frequency": "990",
 		"jlpt": "N2",
 		"noteID": "kanji_章",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -56542,7 +56542,7 @@
 		"frequency": "1350",
 		"jlpt": "N2",
 		"noteID": "kanji_頂",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::11",
@@ -56632,7 +56632,7 @@
 		"frequency": "779",
 		"jlpt": "N2",
 		"noteID": "kanji_順",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::12",
@@ -56748,7 +56748,7 @@
 		"frequency": "138",
 		"jlpt": "N2",
 		"noteID": "kanji_領",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -56854,7 +56854,7 @@
 		"frequency": "433",
 		"jlpt": "N3",
 		"noteID": "kanji_頭",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -56963,7 +56963,7 @@
 		"frequency": "708",
 		"jlpt": "N2",
 		"noteID": "kanji_頼",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::16",
@@ -57068,7 +57068,7 @@
 		"frequency": "407",
 		"jlpt": "N2",
 		"noteID": "kanji_額",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::18",
@@ -57173,7 +57173,7 @@
 		"frequency": "676",
 		"jlpt": "N3",
 		"noteID": "kanji_顔",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::18",
@@ -57272,7 +57272,7 @@
 		"frequency": "894",
 		"jlpt": "N2",
 		"noteID": "kanji_願",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::19",
@@ -57378,7 +57378,7 @@
 		"frequency": "678",
 		"jlpt": "N2",
 		"noteID": "kanji_類",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::18",
@@ -57482,7 +57482,7 @@
 		"frequency": "580",
 		"jlpt": "N2",
 		"noteID": "kanji_飛",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -57575,7 +57575,7 @@
 		"frequency": "98",
 		"jlpt": "N3",
 		"noteID": "kanji_首",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::9",
@@ -57677,7 +57677,7 @@
 		"frequency": "639",
 		"jlpt": "N2",
 		"noteID": "kanji_馬",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::10",
@@ -57789,7 +57789,7 @@
 		"frequency": "1474",
 		"jlpt": "N2",
 		"noteID": "kanji_髪",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -57889,7 +57889,7 @@
 		"frequency": "1279",
 		"jlpt": "N2",
 		"noteID": "kanji_鳴",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",
@@ -57997,7 +57997,7 @@
 		"frequency": "1632",
 		"jlpt": "N2",
 		"noteID": "kanji_鼻",
-		"noteTypeName": "Kanji",
+		"noteTypeName": "FJSD-Kanji",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::1. JLPT::Kanji::N3",
 		"tags": [
 			"kanji::strokes::14",

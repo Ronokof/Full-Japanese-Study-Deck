@@ -63,11 +63,11 @@ export const subDeckNames: SubDeckNames = {
 };
 
 export const noteTypes: NoteTypes = {
-  grammar: "Grammar",
-  kana: "Kana",
-  kanji: "Kanji",
-  radical: "Radical",
-  word: "Word",
+  grammar: "FJSD-Grammar",
+  kana: "FJSD-Kana",
+  kanji: "FJSD-Kanji",
+  radical: "FJSD-Radical",
+  word: "FJSD-Word",
 };
 
 export const dictsDir: string = path.resolve("./dicts");
