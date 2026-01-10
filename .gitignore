@@ -1,19 +1,21 @@
 node_modules/
-notes/
 
-dicts/
-!dicts/README.md
+**/*.txt
+**/*.xml
+**/*.utf
+**/*.zip
+**/*.gz
+**/*.mp3
+**/*.svg
 
-svgs/
-!svgs/README.md
+results/extra-kanji/**/*.json
+results/kana-words/**/*.json
+results/kanjiJLPT/**/*.json
+results/vocabJLPT/**/*.json
 
-**/**/*.txt
-**/**/*.xml
-**/**/*.utf
-**/**/*.zip
-**/**/*.gz
-**/**/*.mp3
-**/**/*.svg
+!results/kanjiJLPT/kanji/*.json
+!results/vocabJLPT/ids/*.json
+!results/vocabJLPT/json/readings_with_audio.json
 
 package-lock.json
 .env
