@@ -9,6 +9,7 @@ import {
 import path from "path";
 import { writeFile } from "fs/promises";
 import { randomUUID, UUID } from "crypto";
+import { gunzip as _gunzip, InputType, ZlibOptions } from "zlib";
 import {
   convertJawiktionaryAsync,
   convertJMdict,
@@ -64,6 +65,12 @@ import {
   subDeckNames,
   svgDir,
 } from "./constants";
+import { promisify } from "util";
+
+const gunzip: (
+  buffer: InputType,
+  options?: ZlibOptions,
+) => Promise<Buffer<ArrayBuffer>> = promisify(_gunzip);
 
 export interface SubDeckNames {
   kana: {
@@ -127,7 +134,7 @@ export async function convertDicts(): Promise<void> {
   let tanakaArray: readonly TanakaExample[] = [];
 
   {
-    const tanakaPath: string = `${dictsDir}/examples.utf`;
+    const tanakaPath: string = `${dictsDir}/examples.utf.gz`;
     const outputPath: string = `${dictsDir}/json/${dictsNames.tanaka}.json`;
 
     if (existsSync(outputPath)) {
@@ -136,9 +143,11 @@ export async function convertDicts(): Promise<void> {
     } else if (existsSync(tanakaPath)) {
       console.log("Converting examples.utf");
 
-      tanakaArray = await convertTanakaCorpusWithFurigana(
-        readFileSync(tanakaPath, "utf-8"),
-      );
+      const file: string = (
+        await gunzip(readFileSync(tanakaPath).buffer)
+      ).toString("utf-8");
+
+      tanakaArray = await convertTanakaCorpusWithFurigana(file);
 
       if (tanakaArray.length > 0)
         writeFileSync(
@@ -152,7 +161,7 @@ export async function convertDicts(): Promise<void> {
   let jmDict: readonly DictWord[] = [];
 
   {
-    let jmdictPath: string = `${dictsDir}/JMdict_e`;
+    const jmDictPath: string = `${dictsDir}/JMdict_e.gz`;
     const outputPath: string = `${dictsDir}/json/${dictsNames.jmdict}.json`;
 
     if (existsSync(outputPath)) {
@@ -161,9 +170,11 @@ export async function convertDicts(): Promise<void> {
     } else {
       console.log("Converting JMdict_e");
 
-      if (!existsSync(jmdictPath)) jmdictPath += ".xml";
+      const file: string = (
+        await gunzip(readFileSync(jmDictPath).buffer)
+      ).toString("utf-8");
 
-      jmDict = convertJMdict(readFileSync(jmdictPath, "utf-8"), tanakaArray);
+      jmDict = convertJMdict(file, tanakaArray);
 
       if (jmDict.length > 0)
         writeFileSync(
@@ -177,7 +188,7 @@ export async function convertDicts(): Promise<void> {
   let kanjiDic: readonly DictKanji[] = [];
 
   {
-    const kanjiDicPath: string = `${dictsDir}/kanjidic2.xml`;
+    const kanjiDicPath: string = `${dictsDir}/kanjidic2.xml.gz`;
     const outputPath: string = `${dictsDir}/json/${dictsNames.kanjidic}.json`;
 
     if (existsSync(outputPath)) {
@@ -186,7 +197,11 @@ export async function convertDicts(): Promise<void> {
     } else {
       console.log("Converting kanjidic2");
 
-      kanjiDic = convertKanjiDic(readFileSync(kanjiDicPath, "utf-8"));
+      const file: string = (
+        await gunzip(readFileSync(kanjiDicPath).buffer)
+      ).toString("utf-8");
+
+      kanjiDic = convertKanjiDic(file);
 
       if (kanjiDic.length > 0)
         writeFileSync(

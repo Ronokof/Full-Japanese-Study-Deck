@@ -1,4 +1,8 @@
-node_modules/
+/node_modules/
+
+/dicts/**/*
+!/dicts/
+!/dicts/README.md
 
 **/*.txt
 **/*.xml
@@ -8,14 +12,14 @@ node_modules/
 **/*.mp3
 **/*.svg
 
-results/extra-kanji/**/*.json
-results/kana-words/**/*.json
-results/kanjiJLPT/**/*.json
-results/vocabJLPT/**/*.json
+/results/extra-kanji/**/*.json
+/results/kana-words/**/*.json
+/results/kanjiJLPT/**/*.json
+/results/vocabJLPT/**/*.json
 
-!results/kanjiJLPT/kanji/*.json
-!results/vocabJLPT/ids/*.json
-!results/vocabJLPT/json/readings_with_audio.json
+!/results/kanjiJLPT/kanji/*.json
+!/results/vocabJLPT/ids/*.json
+!/results/vocabJLPT/json/readings_with_audio.json
 
 package-lock.json
 .env
