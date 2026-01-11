@@ -5,12 +5,12 @@ updates:
     schedule:
       interval: "weekly"
     rebase-strategy: "auto"
+    allow:
+      - dependency-type: "production"
     groups:
       minor-and-patch:
         patterns: ["*"]
-        dependency-type: "production"
         update-types: ["minor","patch"]
       major:
         patterns: ["*"]
-        dependency-type: "production"
         update-types: ["major"]
