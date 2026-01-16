@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 import { PollyClient } from "@aws-sdk/client-polly";
 import { convertDicts, generateAudio, getEntries } from "./utils/utils";
 
-if (process.env.TIMESTAMP_CONSOLE === 'true') {
+if (process.env.TIMESTAMP_CONSOLE === "true") {
   const originalConsoleLog: {
     (...data: any[]): void;
     (message?: any, ...optionalParams: any[]): void;

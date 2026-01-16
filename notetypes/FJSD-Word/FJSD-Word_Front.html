@@ -1,5 +1,31 @@
-<h3>Kanji forms/Readings:</h3>
-{{Kanji forms/Readings}}
+<span id="kf" style="display:none">{{Kanji forms}}</span>
+<span id="r" style="display:none">{{Readings without audio}}</span>
 
-<h4>Hint:</h4>
-{{hint:Readings/Kanji forms}}
+<h3 id="f-h3"></h3>
+<div id="f-div"></div>
+
+<br>
+
+<details>
+<summary>Hint:</summary>
+<div id="h-div"></div>
+</details>
+
+<script>
+(function () {
+ const kff = document.getElementById('kf').innerHTML;
+ const rf = document.getElementById('r').innerHTML;
+ const kfpos = document.getElementById('kf-pos').dataset.pos;
+ const rpos = document.getElementById('r-pos').dataset.pos;
+
+ if (kfpos === '1' && rpos === '2') {
+  document.getElementById('f-div').innerHTML = kff;
+  document.getElementById('f-h3').textContent = 'Kanji forms';
+  document.getElementById('h-div').innerHTML = rf;
+} else if (rpos === '1' && kfpos === '2') {
+  document.getElementById('f-div').innerHTML = rf;
+  document.getElementById('f-h3').textContent = 'Readings';
+  document.getElementById('h-div').innerHTML = kff;
+}
+})();
+</script>

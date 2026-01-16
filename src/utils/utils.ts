@@ -10,6 +10,7 @@ import path from "path";
 import { writeFile } from "fs/promises";
 import { randomUUID, UUID } from "crypto";
 import { gunzip as _gunzip, InputType, ZlibOptions } from "zlib";
+import { promisify } from "util";
 import {
   convertJawiktionaryAsync,
   convertJMdict,
@@ -65,7 +66,6 @@ import {
   subDeckNames,
   svgDir,
 } from "./constants";
-import { promisify } from "util";
 
 const gunzip: (
   buffer: InputType,

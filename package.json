@@ -1,6 +1,6 @@
 {
   "name": "full-japanese-study-deck",
-  "version": "9.4.0",
+  "version": "9.5.0",
   "description": "Raw Anki notes and a notes build script for the Full Japanese Study Deck",
   "keywords": [
     "fjsd",
@@ -40,19 +40,19 @@
     "lint": "eslint --fix --fix-type problem,suggestion,layout"
   },
   "dependencies": {
-    "@aws-sdk/client-polly": "^3.966.0",
+    "@aws-sdk/client-polly": "^3.970.0",
     "dotenv": "^17.2.3",
-    "henkan": "^2.4.3"
+    "henkan": "^2.4.5"
   },
   "devDependencies": {
-    "@types/node": "^24.10.7",
-    "@typescript-eslint/eslint-plugin": "^8.52.0",
-    "@typescript-eslint/parser": "^8.52.0",
+    "@types/node": "^24.10.9",
+    "@typescript-eslint/eslint-plugin": "^8.53.0",
+    "@typescript-eslint/parser": "^8.53.0",
     "eslint": "^9.39.2",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-jsdoc": "^62.0.0",
-    "eslint-plugin-prettier": "^5.5.4",
-    "prettier": "^3.7.4",
+    "eslint-plugin-prettier": "^5.5.5",
+    "prettier": "^3.8.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   },
