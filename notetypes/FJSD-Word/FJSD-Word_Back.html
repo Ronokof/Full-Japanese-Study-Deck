@@ -1,9 +1,12 @@
 <span id="kf" style="display:none">{{Kanji forms}}</span>
 <span id="r" style="display:none">{{Readings without audio}}</span>
 <span id="r-a" style="display:none">{{Readings}}</span>
+<span id="search-keys" style="display:none">{{Search Keys}}</span>
 
 <h3 id="f-h3-1"></h3>
 <div id="f-div-1"></div>
+
+<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
 
 <hr id=answer>
 
@@ -11,26 +14,33 @@
 <div id="f-div-2"></div>
 
 <script>
-(function () {
- const kff = document.getElementById('kf').innerHTML;
- const rf = document.getElementById('r').innerHTML;
- const raf = document.getElementById('r-a').innerHTML;
- const noaudio = document.getElementById('no-r-audio');
- const kfpos = document.getElementById('kf-pos').dataset.pos;
- const rpos = document.getElementById('r-pos').dataset.pos;
+  (function () {
+    if (document.getElementById('search-keys').textContent.trim() === '') {
+      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete it!';
+      document.getElementById('invalid-card').style.removeProperty('display');
+      document.body.replaceChildren(document.getElementById('invalid-card'));
+      return;
+    }
 
- if (kfpos === '1' && rpos === '2') {
-  document.getElementById('f-div-1').innerHTML = kff;
-  document.getElementById('f-h3-1').textContent = 'Kanji forms';
-  document.getElementById('f-div-2').innerHTML = (noaudio === null) ? raf : rf;
-  document.getElementById('f-h3-2').textContent = 'Readings';
-} else if (rpos === '1' && kfpos === '2') {
-  document.getElementById('f-div-1').innerHTML = (noaudio === null) ? raf : rf;
-  document.getElementById('f-h3-1').textContent = 'Readings';
-  document.getElementById('f-div-2').innerHTML = kff;
-  document.getElementById('f-h3-2').textContent = 'Kanji forms';
-}
-})();
+    const kff = document.getElementById('kf').innerHTML;
+    const rf = document.getElementById('r').innerHTML;
+    const raf = document.getElementById('r-a').innerHTML;
+    const noaudio = document.getElementById('no-r-audio');
+    const kfpos = document.getElementById('kf-pos').dataset.pos;
+    const rpos = document.getElementById('r-pos').dataset.pos;
+
+    if (kfpos === '1' && rpos === '2') {
+      document.getElementById('f-div-1').innerHTML = kff;
+      document.getElementById('f-h3-1').textContent = 'Kanji forms';
+      document.getElementById('f-div-2').innerHTML = (noaudio === null) ? raf : rf;
+      document.getElementById('f-h3-2').textContent = 'Readings';
+    } else if (rpos === '1' && kfpos === '2') {
+      document.getElementById('f-div-1').innerHTML = (noaudio === null) ? raf : rf;
+      document.getElementById('f-h3-1').textContent = 'Readings';
+      document.getElementById('f-div-2').innerHTML = kff;
+      document.getElementById('f-h3-2').textContent = 'Kanji forms';
+    }
+  })();
 </script>
 
 <hr id=answer>
@@ -51,4 +61,6 @@
 <hr id=answer>
 
 <h3>Kanji:</h3>
-<details><summary>Show</summary>{{Kanji}}</details>
+<details>
+  <summary>Show</summary>{{Kanji}}
+</details>

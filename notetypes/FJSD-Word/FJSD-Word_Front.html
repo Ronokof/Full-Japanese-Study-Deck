@@ -1,31 +1,40 @@
 <span id="kf" style="display:none">{{Kanji forms}}</span>
 <span id="r" style="display:none">{{Readings without audio}}</span>
+<span id="search-keys" style="display:none">{{Search Keys}}</span>
 
 <h3 id="f-h3"></h3>
 <div id="f-div"></div>
 
+<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
+
 <br>
 
 <details>
-<summary>Hint:</summary>
-<div id="h-div"></div>
+  <summary>Hint:</summary>
+  <div id="h-div"></div>
 </details>
 
 <script>
-(function () {
- const kff = document.getElementById('kf').innerHTML;
- const rf = document.getElementById('r').innerHTML;
- const kfpos = document.getElementById('kf-pos').dataset.pos;
- const rpos = document.getElementById('r-pos').dataset.pos;
+  (function () {
+    if (document.getElementById('search-keys').textContent.trim() === '') {
+      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete it!';
+      document.getElementById('invalid-card').style.removeProperty('display');
+      document.body.replaceChildren(document.getElementById('invalid-card'));
+      return;
+    }
+    const kff = document.getElementById('kf').innerHTML;
+    const rf = document.getElementById('r').innerHTML;
+    const kfpos = document.getElementById('kf-pos').dataset.pos;
+    const rpos = document.getElementById('r-pos').dataset.pos;
 
- if (kfpos === '1' && rpos === '2') {
-  document.getElementById('f-div').innerHTML = kff;
-  document.getElementById('f-h3').textContent = 'Kanji forms';
-  document.getElementById('h-div').innerHTML = rf;
-} else if (rpos === '1' && kfpos === '2') {
-  document.getElementById('f-div').innerHTML = rf;
-  document.getElementById('f-h3').textContent = 'Readings';
-  document.getElementById('h-div').innerHTML = kff;
-}
-})();
+    if (kfpos === '1' && rpos === '2') {
+      document.getElementById('f-div').innerHTML = kff;
+      document.getElementById('f-h3').textContent = 'Kanji forms';
+      document.getElementById('h-div').innerHTML = rf;
+    } else if (rpos === '1' && kfpos === '2') {
+      document.getElementById('f-div').innerHTML = rf;
+      document.getElementById('f-h3').textContent = 'Readings';
+      document.getElementById('h-div').innerHTML = kff;
+    }
+  })();
 </script>
