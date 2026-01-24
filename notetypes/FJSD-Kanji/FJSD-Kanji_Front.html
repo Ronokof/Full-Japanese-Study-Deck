@@ -3,3 +3,20 @@
 
 <h4>Hint:</h4>
 {{hint:Components}}
+
+<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
+
+<script>
+    (function () {
+        const data = document.getElementById('custom-data');
+
+        // compatibility check
+        // REMOVE AT YOUR OWN RISK
+        if (data === null || data.dataset.custom !== '9.5.2') {
+            document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete or suspend this note/card!';
+            document.getElementById('invalid-card').style.removeProperty('display');
+            document.body.replaceChildren(document.getElementById('invalid-card'));
+            return;
+        }
+    })();
+</script>

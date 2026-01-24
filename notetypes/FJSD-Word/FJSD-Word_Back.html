@@ -6,17 +6,43 @@
 <h3 id="f-h3-1"></h3>
 <div id="f-div-1"></div>
 
-<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
-
 <hr id=answer>
 
 <h3 id="f-h3-2"></h3>
 <div id="f-div-2"></div>
 
+<hr id=answer>
+
+<h3>Meanings:</h3>
+{{Translations}}
+
+<hr id=answer>
+
+<h3>Phrases:</h3>
+{{Phrases}}
+
+<hr id=answer>
+
+<h3>Kanji:</h3>
+<details>
+  <summary>Show</summary>{{Kanji}}
+</details>
+
+<hr id=answer>
+
+<h3>Japanese definitions (定義):</h3>
+{{Japanese definitions}}
+
+<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
+
 <script>
   (function () {
-    if (document.getElementById('search-keys').textContent.trim() === '') {
-      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete it!';
+    const data = document.getElementById('custom-data');
+
+    // compatibility check
+    // REMOVE AT YOUR OWN RISK
+    if (data === null || data.dataset.custom !== '9.5.2') {
+      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete or suspend this note/card!';
       document.getElementById('invalid-card').style.removeProperty('display');
       document.body.replaceChildren(document.getElementById('invalid-card'));
       return;
@@ -42,25 +68,3 @@
     }
   })();
 </script>
-
-<hr id=answer>
-
-<h3>Meanings:</h3>
-{{Translations}}
-
-<hr id=answer>
-
-<h3>Phrases:</h3>
-{{Phrases}}
-
-<hr id=answer>
-
-<h3>Japanese definitions (定義):</h3>
-{{Japanese definitions}}
-
-<hr id=answer>
-
-<h3>Kanji:</h3>
-<details>
-  <summary>Show</summary>{{Kanji}}
-</details>

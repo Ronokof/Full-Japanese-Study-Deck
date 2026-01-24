@@ -2464,16 +2464,6 @@
 		"translations": []
 	},
 	{
-		"id": "1009940",
-		"readings": [
-			{
-				"reading": "のぞみ",
-				"audio": "a89dabab-d9d2-4fdb-ae5e-1b858bbbdd2e.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "1010040",
 		"readings": [
 			{
@@ -2553,16 +2543,6 @@
 			{
 				"reading": "ひいては",
 				"audio": "289425fe-0452-434c-81f2-f1ff632280a0.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "1010480",
-		"readings": [
-			{
-				"reading": "ひかり",
-				"audio": "c700182d-c7db-47a1-849e-3f918a9e4ff0.mp3"
 			}
 		],
 		"translations": []
@@ -86642,20 +86622,6 @@
 		"translations": []
 	},
 	{
-		"id": "2067300",
-		"readings": [
-			{
-				"reading": "おおみず",
-				"audio": "d50a61c5-6f81-45f4-9134-9e91b9ceb6cf.mp3"
-			},
-			{
-				"reading": "オオミズ",
-				"audio": "1feee992-f695-4c5b-a6d5-b52912254be7.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2068840",
 		"readings": [
 			{
@@ -86905,20 +86871,6 @@
 		"translations": []
 	},
 	{
-		"id": "2096560",
-		"readings": [
-			{
-				"reading": "もつ",
-				"audio": "45b601b1-6c71-48e3-88d4-ed7d69ba3616.mp3"
-			},
-			{
-				"reading": "モツ",
-				"audio": "eaeef60f-5869-4666-ab3a-aa0a4adbe1da.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2097670",
 		"readings": [
 			{
@@ -86959,16 +86911,6 @@
 		"translations": []
 	},
 	{
-		"id": "2106680",
-		"readings": [
-			{
-				"reading": "いと",
-				"audio": "26c39244-1d7a-4948-8e45-0862fc5c2ce8.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2107080",
 		"readings": [
 			{
@@ -86989,44 +86931,6 @@
 				"reading": "とく",
 				"common": true,
 				"audio": "7afa87a1-8dc9-4858-a1b1-0686c0285ac8.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2113630",
-		"readings": [
-			{
-				"reading": "はる",
-				"audio": "90f159a8-8c61-42bc-a625-efa2b7f09be2.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2119010",
-		"readings": [
-			{
-				"reading": "ふい",
-				"audio": "6ddc5e8c-f9dc-4a06-a6e6-ea1d3add9726.mp3"
-			},
-			{
-				"reading": "フイ",
-				"audio": "55cc96c3-5956-41b8-80ca-ec87fd28d187.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2121210",
-		"readings": [
-			{
-				"reading": "かん",
-				"audio": "cb2b02de-a9ab-4f5c-8116-35d48bbb31ab.mp3"
-			},
-			{
-				"reading": "くわん",
-				"audio": "a871e16d-5b5a-4e6b-b2d0-1f1b8dc67eb6.mp3"
 			}
 		],
 		"translations": []
@@ -87093,16 +86997,6 @@
 			{
 				"reading": "っけ",
 				"audio": "8d6b634f-c3da-417d-840f-c3ce2c815309.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2130480",
-		"readings": [
-			{
-				"reading": "はん",
-				"audio": "0604dfea-8798-44e9-8019-25dbe7ef4e01.mp3"
 			}
 		],
 		"translations": []
@@ -87235,30 +87129,6 @@
 		"translations": []
 	},
 	{
-		"id": "2168700",
-		"readings": [
-			{
-				"reading": "ちり",
-				"audio": "29a8300a-7c82-4050-a5f3-4995211f0b70.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2174360",
-		"readings": [
-			{
-				"reading": "サビ",
-				"audio": "2999ff25-f859-4617-9888-e0be5734e60e.mp3"
-			},
-			{
-				"reading": "さび",
-				"audio": "153ee8d6-0a9b-408e-9160-edba36e8a0a6.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2175760",
 		"readings": [
 			{
@@ -87278,28 +87148,6 @@
 			{
 				"reading": "こん",
 				"audio": "cb4310e6-a2d6-46e9-bdd4-84ad482e45d7.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2179090",
-		"readings": [
-			{
-				"reading": "しばしば",
-				"audio": "1683b496-513e-4b33-b1d5-220c23916ac7.mp3"
-			},
-			{
-				"reading": "シバシバ",
-				"audio": "1b2bd644-8169-48dc-b6cb-313636ce056b.mp3"
-			},
-			{
-				"reading": "しぱしぱ",
-				"audio": "5f01be79-b70c-4e1d-941a-6892d11aee26.mp3"
-			},
-			{
-				"reading": "シパシパ",
-				"audio": "2529903f-20f7-413b-815e-65b2b3d5e7bf.mp3"
 			}
 		],
 		"translations": []
@@ -87408,16 +87256,6 @@
 			{
 				"reading": "きぢ",
 				"audio": "80ba597f-16ee-4a40-8222-eb442cae8a8f.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2216120",
-		"readings": [
-			{
-				"reading": "これ",
-				"audio": "e1d2bbbb-5953-42d0-94a3-e04b8ee49ae1.mp3"
 			}
 		],
 		"translations": []
@@ -87614,16 +87452,6 @@
 		"translations": []
 	},
 	{
-		"id": "2255350",
-		"readings": [
-			{
-				"reading": "どう",
-				"audio": "a5095d35-af5b-47d9-8257-44189d878f21.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2259610",
 		"readings": [
 			{
@@ -87707,20 +87535,6 @@
 		"translations": []
 	},
 	{
-		"id": "2269410",
-		"readings": [
-			{
-				"reading": "っす",
-				"audio": "c9eab52b-114f-4994-9f1c-734f626a7626.mp3"
-			},
-			{
-				"reading": "す",
-				"audio": "bc0690f9-a897-4f0b-808a-01d6e3ccb7ef.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2270820",
 		"readings": [
 			{
@@ -87734,32 +87548,6 @@
 			{
 				"reading": "なんど",
 				"audio": "66936079-f9d6-4e55-9a29-582dfeb94722.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2394240",
-		"readings": [
-			{
-				"reading": "ドブン",
-				"audio": "3ee36823-85bc-4f7c-9858-cd57aff96583.mp3"
-			},
-			{
-				"reading": "ドボン",
-				"audio": "e175f378-154c-4e31-babc-eb2a6da5aeeb.mp3"
-			},
-			{
-				"reading": "どぶん",
-				"audio": "8e025773-b7cf-451b-9f81-7ef999a2d59c.mp3"
-			},
-			{
-				"reading": "どぼん",
-				"audio": "02f8fdba-603f-4163-af2c-eac9f743d19a.mp3"
-			},
-			{
-				"reading": "どんぶり",
-				"audio": "e47517f8-0e01-4243-8a3c-03d581ce74db.mp3"
 			}
 		],
 		"translations": []
@@ -87896,55 +87684,11 @@
 		"translations": []
 	},
 	{
-		"id": "2441540",
-		"readings": [
-			{
-				"reading": "いけ",
-				"audio": "f9302ca0-166f-4f3e-bd99-b83af93eef62.mp3"
-			},
-			{
-				"reading": "いっけ",
-				"audio": "cfd25790-9a13-4d7e-bbd4-23cfb63d6526.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2449460",
-		"readings": [
-			{
-				"reading": "ちょう",
-				"audio": "847857b4-04e1-45cd-9f3a-e21f5fae471b.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2463370",
-		"readings": [
-			{
-				"reading": "ディア",
-				"audio": "62bdb853-5b89-4aee-8cfe-a03fdf4ecffe.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2463740",
 		"readings": [
 			{
 				"reading": "おん",
 				"audio": "96e620c7-d47d-4b2d-8f34-c27f1cf80390.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2478630",
-		"readings": [
-			{
-				"reading": "バッド",
-				"audio": "c1a4d9cb-2479-4918-b94b-306adaedfb46.mp3"
 			}
 		],
 		"translations": []
@@ -88011,16 +87755,6 @@
 		"translations": []
 	},
 	{
-		"id": "2546180",
-		"readings": [
-			{
-				"reading": "だんだん",
-				"audio": "cb989859-e5ff-4bb7-b53a-d947d0b37e4d.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2547920",
 		"readings": [
 			{
@@ -88054,16 +87788,6 @@
 			{
 				"reading": "さけ",
 				"audio": "039840eb-e855-4f62-833e-93280fe2bdf3.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2577400",
-		"readings": [
-			{
-				"reading": "もち",
-				"audio": "227fd386-7239-4359-8e63-efc96068dda9.mp3"
 			}
 		],
 		"translations": []
@@ -88158,16 +87882,6 @@
 				"reading": "よし",
 				"common": true,
 				"audio": "7bccf6e0-3441-4bc8-b18b-2f0922683fcf.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2607730",
-		"readings": [
-			{
-				"reading": "もし",
-				"audio": "81a85b70-e463-45bc-b1ac-7ab191fe57a5.mp3"
 			}
 		],
 		"translations": []
@@ -88299,20 +88013,6 @@
 		"translations": []
 	},
 	{
-		"id": "2653620",
-		"readings": [
-			{
-				"reading": "がち",
-				"audio": "05a8eaa4-7e2c-4a5a-b146-6d8b5d5c2254.mp3"
-			},
-			{
-				"reading": "ガチ",
-				"audio": "413e7a16-dc07-4517-9e02-782835535759.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2654250",
 		"readings": [
 			{
@@ -88400,72 +88100,6 @@
 		"translations": []
 	},
 	{
-		"id": "2665140",
-		"readings": [
-			{
-				"reading": "ダレ",
-				"audio": "f04ff68a-7a4e-4286-9d4a-8d4aa5f19523.mp3"
-			},
-			{
-				"reading": "だれ",
-				"audio": "985d702a-6bb0-4bb5-a46e-54eae91a0f88.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2665150",
-		"readings": [
-			{
-				"reading": "カエリ",
-				"audio": "ec93cbe0-d011-43b1-97d8-67b317b69426.mp3"
-			},
-			{
-				"reading": "かえり",
-				"audio": "16be5772-7f4e-48a7-85cc-83a6d26ed6a9.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2667520",
-		"readings": [
-			{
-				"reading": "かたこと",
-				"audio": "87f669e8-8759-4cfd-aec2-486b784d98ef.mp3"
-			},
-			{
-				"reading": "カタコト",
-				"audio": "87b85f07-4c87-4c48-9a92-f91c9753fa61.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2670710",
-		"readings": [
-			{
-				"reading": "どうこう",
-				"audio": "2c062d3d-d508-4640-afdc-a5d3c8f28396.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2680710",
-		"readings": [
-			{
-				"reading": "こい",
-				"audio": "2aeb95d8-c0c7-4ce7-b0b6-ee5f12d6e1fd.mp3"
-			},
-			{
-				"reading": "っこい",
-				"audio": "0447a742-7286-48cd-8831-b630bbd31c17.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2681740",
 		"readings": [
 			{
@@ -88495,16 +88129,6 @@
 			{
 				"reading": "あい",
 				"audio": "10fec5e0-48c5-4ad2-97b1-022f3aee7230.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2701360",
-		"readings": [
-			{
-				"reading": "おす",
-				"audio": "d5bc46dc-bf2b-4ec6-bcc9-087e8cf94d54.mp3"
 			}
 		],
 		"translations": []
@@ -88614,16 +88238,6 @@
 		"translations": []
 	},
 	{
-		"id": "2728200",
-		"readings": [
-			{
-				"reading": "しな",
-				"audio": "617105b4-29eb-4d0b-86c3-339aefb6d764.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2728580",
 		"readings": [
 			{
@@ -88647,28 +88261,6 @@
 			{
 				"reading": "ず",
 				"audio": "0133979e-2bf1-4a33-aa9a-660822af8a57.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2735380",
-		"readings": [
-			{
-				"reading": "ぽきり",
-				"audio": "f0da6b9e-45fd-4302-9351-9b2c5da67d9a.mp3"
-			},
-			{
-				"reading": "ぽきん",
-				"audio": "e7911adf-30d7-4e4b-b34b-1de22476c8ba.mp3"
-			},
-			{
-				"reading": "ぼきり",
-				"audio": "60a527b6-7e61-4566-8a36-6dadbca7a424.mp3"
-			},
-			{
-				"reading": "ぼきん",
-				"audio": "23ceba69-c96d-480d-b93b-d85b0868a8ea.mp3"
 			}
 		],
 		"translations": []
@@ -88885,16 +88477,6 @@
 		"translations": []
 	},
 	{
-		"id": "2815240",
-		"readings": [
-			{
-				"reading": "せ",
-				"audio": "8f3a75b4-769e-4f62-a854-7b659f35ea14.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2815590",
 		"readings": [
 			{
@@ -88912,16 +88494,6 @@
 			{
 				"reading": "ゼイゴ",
 				"audio": "d7cd373e-366c-47af-b3ee-30aa368629cc.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2818630",
-		"readings": [
-			{
-				"reading": "よる",
-				"audio": "3e0cc477-0864-4c84-9337-f24162cce603.mp3"
 			}
 		],
 		"translations": []
@@ -89003,16 +88575,6 @@
 					"Reading restricted to 堪える"
 				],
 				"audio": "c2610ce7-015e-4df0-86d1-1ad5ecf51b17.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2827357",
-		"readings": [
-			{
-				"reading": "まう",
-				"audio": "5ae7f958-3faa-4460-8007-7663aa42efc9.mp3"
 			}
 		],
 		"translations": []
@@ -89122,20 +88684,6 @@
 		"translations": []
 	},
 	{
-		"id": "2830594",
-		"readings": [
-			{
-				"reading": "さく",
-				"audio": "b8490703-1c2f-40ca-bf1b-ef40f516b8d1.mp3"
-			},
-			{
-				"reading": "サク",
-				"audio": "e94910f7-be51-46b8-96eb-d2291025c14a.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2830705",
 		"readings": [
 			{
@@ -89172,20 +88720,6 @@
 		"translations": []
 	},
 	{
-		"id": "2834340",
-		"readings": [
-			{
-				"reading": "すんな",
-				"audio": "c0073fed-3682-40f8-a674-73d7b204085b.mp3"
-			},
-			{
-				"reading": "すな",
-				"audio": "5e16bdf7-a417-43e4-8e28-a68570ef926c.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2834408",
 		"readings": [
 			{
@@ -89206,86 +88740,6 @@
 			{
 				"reading": "ガラ",
 				"audio": "af8b5de9-2b32-4251-b76e-31b98a747224.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2834502",
-		"readings": [
-			{
-				"reading": "おほほ",
-				"audio": "084f1d7f-9362-440f-809c-34b05dd7b293.mp3"
-			},
-			{
-				"reading": "ほほほ",
-				"audio": "d8501d2f-5302-4516-80d3-2e03eb190e1f.mp3"
-			},
-			{
-				"reading": "ほほ",
-				"audio": "5190f3a9-2438-4189-a531-953b517b2587.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2834512",
-		"readings": [
-			{
-				"reading": "イキる",
-				"audio": "0bf629d4-c5f0-4b85-a25f-30c8b87aef4b.mp3"
-			},
-			{
-				"reading": "いきる",
-				"audio": "39ecfb0b-4693-46b3-87ef-9e3ebf11c0c9.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2834546",
-		"readings": [
-			{
-				"reading": "たまたま",
-				"audio": "432a28ac-3b01-4c0b-b1e6-3e9946a267c6.mp3"
-			},
-			{
-				"reading": "タマタマ",
-				"audio": "870a688c-8102-4969-88ff-ddb53784e73c.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2834761",
-		"readings": [
-			{
-				"reading": "おみや",
-				"audio": "76cabcf7-8028-40e5-acd5-fa5ded06d9e3.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2835807",
-		"readings": [
-			{
-				"reading": "さい",
-				"audio": "98164894-d347-4c61-8b1e-105f8711f13f.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2836079",
-		"readings": [
-			{
-				"reading": "ゴト",
-				"audio": "6bdfc9ea-5f97-4166-b731-e315afb3b386.mp3"
-			},
-			{
-				"reading": "ごと",
-				"audio": "5542475c-4c0f-405b-8d73-027a8e0ad5c8.mp3"
 			}
 		],
 		"translations": []
@@ -89320,30 +88774,6 @@
 			{
 				"reading": "てんてん",
 				"audio": "f532e77e-0f8f-4c03-9b40-e38cd0d2e3ed.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2837010",
-		"readings": [
-			{
-				"reading": "くう",
-				"audio": "a54043c3-811b-4d75-aabe-e694b80d17e9.mp3"
-			},
-			{
-				"reading": "くー",
-				"audio": "85f0d3d0-a238-482b-9fc9-334a7d8e3358.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2839525",
-		"readings": [
-			{
-				"reading": "こんなん",
-				"audio": "7311e522-4c69-418e-a3dc-5a087f9d9d08.mp3"
 			}
 		],
 		"translations": []
@@ -89498,20 +88928,6 @@
 		"translations": []
 	},
 	{
-		"id": "2843574",
-		"readings": [
-			{
-				"reading": "めいぼ",
-				"audio": "3951ea46-fb16-484c-9127-37a9a0ffcf3c.mp3"
-			},
-			{
-				"reading": "めぼ",
-				"audio": "7328d564-cbfa-43c2-80cc-33c91b6e91cc.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2843595",
 		"readings": [
 			{
@@ -89625,30 +89041,6 @@
 		"translations": []
 	},
 	{
-		"id": "2844785",
-		"readings": [
-			{
-				"reading": "ワン",
-				"audio": "92325b98-42cf-474d-b271-08cb2a776dbc.mp3"
-			},
-			{
-				"reading": "わん",
-				"audio": "c3bc8073-c3fc-434f-9499-6a1b4fbec81b.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2844926",
-		"readings": [
-			{
-				"reading": "せん",
-				"audio": "45d70a14-ede8-44cf-b99d-b0bf001918af.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2845312",
 		"readings": [
 			{
@@ -89684,16 +89076,6 @@
 			{
 				"reading": "バス",
 				"audio": "1b361f18-3245-4ee6-9d7c-f8cfb5bb0acd.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2845532",
-		"readings": [
-			{
-				"reading": "みそ",
-				"audio": "a49758ec-f25b-4378-bfb5-6e17e31eb4b9.mp3"
 			}
 		],
 		"translations": []
@@ -89778,20 +89160,6 @@
 				"reading": "なん",
 				"common": true,
 				"audio": "28439f76-8ca5-406b-ac0d-1c8a56258268.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2846965",
-		"readings": [
-			{
-				"reading": "シマ",
-				"audio": "fa6a6f13-c253-47d8-837c-4dfee116e959.mp3"
-			},
-			{
-				"reading": "しま",
-				"audio": "c85cd82c-5017-47ae-8b59-474fa4fb94d7.mp3"
 			}
 		],
 		"translations": []
@@ -89916,34 +89284,6 @@
 			{
 				"reading": "レース",
 				"audio": "14f456b6-1b2b-41a6-81cc-c83d8312662f.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2849114",
-		"readings": [
-			{
-				"reading": "さび",
-				"audio": "0860eeff-7292-42d5-a525-92add51e103f.mp3"
-			},
-			{
-				"reading": "サビ",
-				"audio": "c7ad8e06-3318-47ba-817d-894990c318c8.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2849141",
-		"readings": [
-			{
-				"reading": "ペア",
-				"audio": "0c49a048-ff0b-4612-9aea-dcb92f68ed8c.mp3"
-			},
-			{
-				"reading": "ペアー",
-				"audio": "583fd797-9d50-4629-8abb-b0bb361d5fdf.mp3"
 			}
 		],
 		"translations": []
@@ -90077,16 +89417,6 @@
 			{
 				"reading": "ブツリ",
 				"audio": "21e00cb5-c112-4a78-97ba-505ffe151a7b.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2851195",
-		"readings": [
-			{
-				"reading": "ぶち",
-				"audio": "a5ba722b-8cac-4ae0-8a2f-ca7447e69707.mp3"
 			}
 		],
 		"translations": []
@@ -90374,16 +89704,6 @@
 		"translations": []
 	},
 	{
-		"id": "2855933",
-		"readings": [
-			{
-				"reading": "フォーム",
-				"audio": "2d722635-3278-426e-9277-3db3f0885971.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2856006",
 		"readings": [
 			{
@@ -90532,20 +89852,6 @@
 		"translations": []
 	},
 	{
-		"id": "2859930",
-		"readings": [
-			{
-				"reading": "ガン",
-				"audio": "c1d2d094-af59-409b-9237-dda5150f74c6.mp3"
-			},
-			{
-				"reading": "がん",
-				"audio": "bc86b0c8-5c9a-4549-aff1-9c10d3c84d54.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2860641",
 		"readings": [
 			{
@@ -90592,48 +89898,6 @@
 				"reading": "なす",
 				"common": true,
 				"audio": "06c9a7b2-83da-473a-b4a3-69d92b61aca2.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2861259",
-		"readings": [
-			{
-				"reading": "チチ",
-				"audio": "04d3257a-a5ab-40fc-9bf5-b6b9e3a68fe8.mp3"
-			},
-			{
-				"reading": "ちち",
-				"audio": "54caefcf-7e87-4fbe-bb4f-66393e616934.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2861261",
-		"readings": [
-			{
-				"reading": "ちち",
-				"audio": "1e970b12-d9c0-4fdb-b077-e6d9492f2d57.mp3"
-			},
-			{
-				"reading": "チチ",
-				"audio": "23f0394a-0d53-4512-b9f2-f13b4d747206.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2861315",
-		"readings": [
-			{
-				"reading": "しま",
-				"audio": "31934cb3-3c06-45aa-9c34-b78c32c6a430.mp3"
-			},
-			{
-				"reading": "しまー",
-				"audio": "cbf19232-6baa-49ed-a5c8-c52d3c333a57.mp3"
 			}
 		],
 		"translations": []
@@ -90709,16 +89973,6 @@
 		"translations": []
 	},
 	{
-		"id": "2862617",
-		"readings": [
-			{
-				"reading": "ディア",
-				"audio": "e8932569-71b1-465c-926b-a264260fb44b.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2863464",
 		"readings": [
 			{
@@ -90754,39 +90008,11 @@
 		"translations": []
 	},
 	{
-		"id": "2863922",
-		"readings": [
-			{
-				"reading": "コトリ",
-				"audio": "0828d1db-7a52-4ae2-b09f-18666f4ee4b6.mp3"
-			},
-			{
-				"reading": "ことり",
-				"audio": "2247bf61-26c3-40cb-8ce9-cf07cf4cf9db.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "2865131",
 		"readings": [
 			{
 				"reading": "ロッカー",
 				"audio": "adf443dd-7c13-4f9e-adcc-fd6a1a2b2250.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "2865696",
-		"readings": [
-			{
-				"reading": "チカ",
-				"audio": "9716e078-f3ca-4e01-aef6-e77b6c32e793.mp3"
-			},
-			{
-				"reading": "ちか",
-				"audio": "264f29c3-ba0e-4e82-a126-da92820ffb91.mp3"
 			}
 		],
 		"translations": []
@@ -90837,16 +90063,6 @@
 		"translations": []
 	},
 	{
-		"id": "5048739",
-		"readings": [
-			{
-				"reading": "ダース",
-				"audio": "3eb5b381-81ee-4d9b-9715-d41946e894d6.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "5094319",
 		"readings": [
 			{
@@ -90887,20 +90103,6 @@
 		"translations": []
 	},
 	{
-		"id": "5741604",
-		"readings": [
-			{
-				"reading": "こゝろ",
-				"audio": "082d3a2c-11bf-469e-a5a0-60aa531633f6.mp3"
-			},
-			{
-				"reading": "こころ",
-				"audio": "6545312d-e7c1-4dea-8eb6-de3f841919e2.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
 		"id": "5744958",
 		"readings": [
 			{
@@ -90916,16 +90118,6 @@
 			{
 				"reading": "スイッチ",
 				"audio": "322d3011-5f60-40e7-a986-02923c9d3c68.mp3"
-			}
-		],
-		"translations": []
-	},
-	{
-		"id": "5747047",
-		"readings": [
-			{
-				"reading": "とき",
-				"audio": "13d72953-e4e9-45b1-82a4-7babbcb225fe.mp3"
 			}
 		],
 		"translations": []

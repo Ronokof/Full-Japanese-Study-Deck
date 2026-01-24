@@ -5,8 +5,6 @@
 <h3 id="f-h3"></h3>
 <div id="f-div"></div>
 
-<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
-
 <br>
 
 <details>
@@ -14,14 +12,21 @@
   <div id="h-div"></div>
 </details>
 
+<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
+
 <script>
   (function () {
-    if (document.getElementById('search-keys').textContent.trim() === '') {
-      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete it!';
+    const data = document.getElementById('custom-data');
+
+    // compatibility check
+    // REMOVE AT YOUR OWN RISK
+    if (data === null || data.dataset.custom !== '9.5.2') {
+      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete or suspend this note/card!';
       document.getElementById('invalid-card').style.removeProperty('display');
       document.body.replaceChildren(document.getElementById('invalid-card'));
       return;
     }
+
     const kff = document.getElementById('kf').innerHTML;
     const rf = document.getElementById('r').innerHTML;
     const kfpos = document.getElementById('kf-pos').dataset.pos;

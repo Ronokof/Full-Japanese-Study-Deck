@@ -66,6 +66,7 @@ import {
   subDeckNames,
   svgDir,
 } from "./constants";
+import { version } from "../../package.json";
 
 const gunzip: (
   buffer: InputType,
@@ -369,7 +370,7 @@ export function saveEntries(
     if (withoutNote === undefined)
       writeFileSync(
         `${resultPath}/${filename}.txt`,
-        generateAnkiNotesFile(list),
+        generateAnkiNotesFile(list, undefined, version),
         "utf-8",
       );
 
@@ -418,7 +419,7 @@ export function checkExistenceOfResults(
           if (withoutNote === undefined)
             writeFileSync(
               `${resultPath}/${path.parse(jsonFile).name}.txt`,
-              generateAnkiNotesFile(jsonFileContent),
+              generateAnkiNotesFile(jsonFileContent, undefined, version),
               "utf-8",
             );
         }
