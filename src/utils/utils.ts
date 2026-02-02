@@ -814,7 +814,7 @@ export function getJLPTVocab(): void {
 
               return reading;
             });
-          else throw new Error(`No audio for word: ${word.id}`);
+          else if (!process.argv.slice(2).includes("--with-audio")) throw new Error(`No audio for word: ${word.id}`);
         }
 
         jlptWords.push(word);
@@ -1199,8 +1199,7 @@ export function getExtraKanji(): void {
         if (word === undefined) throw new Error(`Invalid word: ${dictWord.id}`);
 
         if (
-          (word.common === true ||
-            (word.phrases !== undefined && word.phrases.length > 0)) &&
+          (word.common === true || dictWord.hasPhrases === true) &&
           word.id !== undefined
         ) {
           if (!foundWord) foundWord = true;
@@ -1289,8 +1288,7 @@ export function getKanaWords(): void {
 
       if (
         word.kanji === undefined &&
-        (word.common === true ||
-          (word.phrases !== undefined && word.phrases.length > 0))
+        (word.common === true || dictWord.hasPhrases === true)
       )
         wordList.push(word);
 

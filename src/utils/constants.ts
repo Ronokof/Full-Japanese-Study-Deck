@@ -26,31 +26,31 @@ export const subDeckNames: SubDeckNames = {
     katakanaExtended: "Katakana extended",
   },
   jlpt: {
-    _: "1. JLPT",
+    _: "1. JLPT / Core",
     kanji: {
       _: "Kanji",
-      n5: "N5",
-      n4: "N4",
-      n3: "N3",
-      n2: "N2",
-      n1: "N1",
+      n5: "N5 / Starter",
+      n4: "N4 / Beginner",
+      n3: "N3 / Intermediate",
+      n2: "N2 / Advanced",
+      n1: "N1 / Expert",
     },
     vocab: {
       _: "Vocab",
-      n5: "N5",
-      n4: "N4",
-      n3: "N3",
-      n2: "N2",
-      n1: "N1",
+      n5: "N5 / Starter",
+      n4: "N4 / Beginner",
+      n3: "N3 / Intermediate",
+      n2: "N2 / Advanced",
+      n1: "N1 / Expert",
     },
   },
   grammar: {
     _: "2. Grammar",
-    n5: "N5",
-    n4: "N4",
-    n3: "N3",
-    n2: "N2",
-    n1: "N1",
+    n5: "N5 / Starter",
+    n4: "N4 / Beginner",
+    n3: "N3 / Intermediate",
+    n2: "N2 / Advanced",
+    n1: "N1 / Expert",
     additional: "Additional",
   },
   radicals: { _: "3. Kanji radicals (reference)" },
@@ -95,30 +95,30 @@ export const dictsNames: {
 
 export const dicts: {
   jmDict?:
-    | {
-        array: readonly DictWord[];
-        idEntryMap: WordIDEntryMap;
-        kanjiWordsMap: KanjiWordsMap;
-      }
-    | undefined;
+  | {
+    array: readonly DictWord[];
+    idEntryMap: WordIDEntryMap;
+    kanjiWordsMap: KanjiWordsMap;
+  }
+  | undefined;
   kanjiDic?:
-    | {
-        array: readonly DictKanji[];
-        kanjiEntryMap: KanjiEntryMap;
-      }
-    | undefined;
+  | {
+    array: readonly DictKanji[];
+    kanjiEntryMap: KanjiEntryMap;
+  }
+  | undefined;
   tanakaCorpus?:
-    | {
-        array: readonly TanakaExample[];
-        wordExamplesMap: WordExamplesMap;
-      }
-    | undefined;
+  | {
+    array: readonly TanakaExample[];
+    wordExamplesMap: WordExamplesMap;
+  }
+  | undefined;
   wordDefs?:
-    | {
-        array: readonly WordDefinitionPair[];
-        wordDefinitionsMap: WordDefinitionsMap;
-      }
-    | undefined;
+  | {
+    array: readonly WordDefinitionPair[];
+    wordDefinitionsMap: WordDefinitionsMap;
+  }
+  | undefined;
   svg_list?: { array: readonly string[]; kanjiSVGMap: KanjiSVGMap } | undefined;
 } = {};
 

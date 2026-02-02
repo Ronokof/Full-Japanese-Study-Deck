@@ -57,7 +57,7 @@
 
         // compatibility check
         // REMOVE AT YOUR OWN RISK
-        if (data === null || data.dataset.custom !== '9.5.2') {
+        if (data === null || data.dataset.custom !== '10.0.0') {
             document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete or suspend this note/card!';
             document.getElementById('invalid-card').style.removeProperty('display');
             document.body.replaceChildren(document.getElementById('invalid-card'));
