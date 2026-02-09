@@ -22,16 +22,17 @@
   {{Japanese definitions}}
 </details>
 
-<h1 id="invalid-card" style="display:none;font-size:2em;text-align:center;"></h1>
+<h1 id="invalid-card" style="display:none;font-size:1.5em;text-align:center;"></h1>
 
 <script>
   (function () {
     const data = document.getElementById('custom-data');
+    const latestVersion = '10.1';
 
     // compatibility check
     // REMOVE AT YOUR OWN RISK
-    if (data === null || data.dataset.custom !== '10.0.0') {
-      document.getElementById('invalid-card').textContent = 'This card is not compatible with this version. Please delete or suspend this note/card!';
+    if (data === null || data.dataset.custom !== latestVersion) {
+      document.getElementById('invalid-card').textContent = `This note is not compatible with this version. If you wish to remove every incompatible note, search "-tag:fjsd_version::${latestVersion}" across the entire deck in the browser and delete everything that pops up.`;
       document.getElementById('invalid-card').style.removeProperty('display');
       document.body.replaceChildren(document.getElementById('invalid-card'));
       return;

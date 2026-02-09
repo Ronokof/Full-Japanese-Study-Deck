@@ -66,7 +66,8 @@ import {
   subDeckNames,
   svgDir,
 } from "./constants";
-import { version } from "../../package.json";
+
+const majorMinorVersion: string = require('../../package.json').version.split('.').slice(0, 2).join('.');
 
 const gunzip: (
   buffer: InputType,
@@ -367,10 +368,10 @@ export function saveEntries(
       "utf-8",
     );
 
-    if (withoutNote === undefined)
+    if (withoutNote === undefined) 
       writeFileSync(
         `${resultPath}/${filename}.txt`,
-        generateAnkiNotesFile(list, undefined, version),
+        generateAnkiNotesFile(list, undefined, majorMinorVersion, [`fjsd_version::${majorMinorVersion}`]),
         "utf-8",
       );
 
@@ -419,7 +420,7 @@ export function checkExistenceOfResults(
           if (withoutNote === undefined)
             writeFileSync(
               `${resultPath}/${path.parse(jsonFile).name}.txt`,
-              generateAnkiNotesFile(jsonFileContent, undefined, version),
+              generateAnkiNotesFile(jsonFileContent, undefined, majorMinorVersion, [`fjsd_version::${majorMinorVersion}`]),
               "utf-8",
             );
         }
