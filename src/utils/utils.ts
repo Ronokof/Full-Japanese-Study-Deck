@@ -810,7 +810,7 @@ export function getJLPTVocab(): void {
                   (rd: Reading) => rd.reading === reading.reading,
                 );
 
-              if (audioReading !== undefined)
+              if (audioReading !== undefined && audioReading.audio !== undefined && existsSync(`${resultPaths.vocabJLPT}/audio/${audioReading.audio}`))
                 reading.audio = audioReading.audio;
 
               return reading;
