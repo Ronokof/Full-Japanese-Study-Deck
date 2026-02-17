@@ -43,7 +43,7 @@ import {
   Word,
   WordDefinitionPair,
   WordDefinitionsMap,
-  WordExamplesMap,
+  EntryExamplesMap,
   WordIDEntryMap,
 } from "henkan";
 
@@ -67,7 +67,10 @@ import {
   svgDir,
 } from "./constants";
 
-const majorMinorVersion: string = require('../../package.json').version.split('.').slice(0, 2).join('.');
+const majorMinorVersion: string = require("../../package.json")
+  .version.split(".")
+  .slice(0, 2)
+  .join(".");
 
 const gunzip: (
   buffer: InputType,
@@ -255,6 +258,7 @@ export async function convertDicts(): Promise<void> {
 
   const entryMaps: EntryMaps = createEntryMaps(
     jmDict,
+    undefined,
     kanjiDic,
     tanakaArray,
     wordDefs,
@@ -368,10 +372,12 @@ export function saveEntries(
       "utf-8",
     );
 
-    if (withoutNote === undefined) 
+    if (withoutNote === undefined)
       writeFileSync(
         `${resultPath}/${filename}.txt`,
-        generateAnkiNotesFile(list, undefined, majorMinorVersion, [`fjsd_version::${majorMinorVersion}`]),
+        generateAnkiNotesFile(list, undefined, majorMinorVersion, [
+          `fjsd_version::${majorMinorVersion}`,
+        ]),
         "utf-8",
       );
 
@@ -420,7 +426,12 @@ export function checkExistenceOfResults(
           if (withoutNote === undefined)
             writeFileSync(
               `${resultPath}/${path.parse(jsonFile).name}.txt`,
-              generateAnkiNotesFile(jsonFileContent, undefined, majorMinorVersion, [`fjsd_version::${majorMinorVersion}`]),
+              generateAnkiNotesFile(
+                jsonFileContent,
+                undefined,
+                majorMinorVersion,
+                [`fjsd_version::${majorMinorVersion}`],
+              ),
               "utf-8",
             );
         }
@@ -700,7 +711,7 @@ export async function generateAudio(client: PollyClient): Promise<void> {
 }
 
 export function getJLPTVocab(): void {
-  console.log("\nBuilding JLPT vocab");
+  console.log("\nGetting JLPT vocab");
 
   const idsPath: string = `${resultPaths.vocabJLPT}/ids`;
   if (!existsSync(idsPath))
@@ -717,7 +728,7 @@ export function getJLPTVocab(): void {
     audioReadings.map((word: Word) => word.id!),
   );
 
-  const tanaka: WordExamplesMap = new Map<StringNumber, TanakaExample[]>();
+  const tanaka: EntryExamplesMap = new Map<StringNumber, TanakaExample[]>();
 
   for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
     tanaka.set(
@@ -775,19 +786,12 @@ export function getJLPTVocab(): void {
 
       if (deck.endsWith("::")) throw new Error("Invalid deck name");
 
-      let wordCount: number = 0;
-      const idListLength: number = idList.length;
-
       for (const id of idList) {
         if (
           typeof id !== "string" ||
           !Number.isSafeInteger(Number.parseInt(id))
         )
           throw new Error(`Invalid ID file: ${idFilePath}`);
-
-        console.log(
-          `${((wordCount / idListLength) * 100).toFixed()}% Searching: ${id}`,
-        );
 
         const word: Word | undefined = getWord(
           id,
@@ -810,17 +814,22 @@ export function getJLPTVocab(): void {
                   (rd: Reading) => rd.reading === reading.reading,
                 );
 
-              if (audioReading !== undefined && audioReading.audio !== undefined && existsSync(`${resultPaths.vocabJLPT}/audio/${audioReading.audio}`))
+              if (
+                audioReading !== undefined &&
+                audioReading.audio !== undefined &&
+                existsSync(
+                  `${resultPaths.vocabJLPT}/audio/${audioReading.audio}`,
+                )
+              )
                 reading.audio = audioReading.audio;
 
               return reading;
             });
-          else if (!process.argv.slice(2).includes("--with-audio")) throw new Error(`No audio for word: ${word.id}`);
+          else if (!process.argv.slice(2).includes("--with-audio"))
+            throw new Error(`No audio for word: ${word.id}`);
         }
 
         jlptWords.push(word);
-
-        wordCount++;
       }
 
       saveEntries(jlptWords, filename, resultPaths.vocabJLPT);
@@ -828,7 +837,7 @@ export function getJLPTVocab(): void {
 }
 
 export function getJLPTKanji(): void {
-  console.log("\nBuilding JLPT kanji");
+  console.log("\nGetting JLPT kanji");
 
   const kanjiPath: string = `${resultPaths.kanjiJLPT}/kanji`;
 
@@ -877,16 +886,9 @@ export function getJLPTKanji(): void {
 
       if (deck.endsWith("::")) throw new Error("Invalid deck name");
 
-      let kanjiCount: number = 0;
-      const kanjiListLength: number = kanjiList.length;
-
       for (const char of kanjiList) {
         if (typeof char !== "string")
           throw new Error(`Invalid kanji file: ${kanjiFilePath}`);
-
-        console.log(
-          `${((kanjiCount / kanjiListLength) * 100).toFixed()}% Searching: ${char}`,
-        );
 
         let kanji: Kanji | undefined = undefined;
 
@@ -925,8 +927,6 @@ export function getJLPTKanji(): void {
           kanji.meanings !== undefined
         )
           jlptKanji.push(kanji);
-
-        kanjiCount++;
       }
 
       saveEntries(jlptKanji, filename, resultPaths.kanjiJLPT);
@@ -1043,7 +1043,7 @@ export function getGrammar(): void {
 }
 
 export function getExtraKanji(): void {
-  console.log("\nBuilding extra kanji");
+  console.log("\nGetting extra kanji & words");
 
   if (
     checkExistenceOfResults(resultPaths.extraKanji, [
@@ -1055,7 +1055,7 @@ export function getExtraKanji(): void {
     return;
   }
 
-  const tanaka: WordExamplesMap = new Map<StringNumber, TanakaExample[]>();
+  const tanaka: EntryExamplesMap = new Map<StringNumber, TanakaExample[]>();
 
   for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
     tanaka.set(
@@ -1117,10 +1117,6 @@ export function getExtraKanji(): void {
   const kanjiDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.kanji}`;
   const vocabDeck: string = `${deckName}::${subDeckNames.extraKanji._}::${subDeckNames.extraKanji.vocab}`;
 
-  let kanjiCount: number = 0;
-
-  const kanjiDicLength: number = dicts.kanjiDic!.array.length;
-
   ids.clear();
 
   if (
@@ -1130,10 +1126,7 @@ export function getExtraKanji(): void {
     wordDefs !== undefined
   )
     for (const kanjiEntry of dicts.kanjiDic!.array) {
-      if (!jmDict.has(kanjiEntry.kanji)) {
-        kanjiCount++;
-        continue;
-      }
+      if (!jmDict.has(kanjiEntry.kanji)) continue;
 
       const kanjiInfo: Kanji | undefined = kanjiInfoList.get(kanjiEntry.kanji);
 
@@ -1166,22 +1159,13 @@ export function getExtraKanji(): void {
         kanjiObj !== undefined &&
         ((kanjiObj.onyomi === undefined && kanjiObj.kunyomi === undefined) ||
           kanjiObj.meanings === undefined)
-      ) {
-        kanjiCount++;
+      )
         continue;
-      }
-
-      console.log(
-        `${Math.round((kanjiCount / kanjiDicLength) * 100)}% Searching: ${kanjiObj === undefined ? `${kanjiEntry.kanji} (from JLPT list; not creating note for it)` : kanjiEntry.kanji}`,
-      );
 
       const wordsForKanji: readonly DictWord[] | undefined = jmDict.get(
         kanjiEntry.kanji,
       );
-      if (wordsForKanji === undefined) {
-        kanjiCount++;
-        continue;
-      }
+      if (wordsForKanji === undefined) continue;
 
       let foundWord: boolean = false;
 
@@ -1211,8 +1195,6 @@ export function getExtraKanji(): void {
       }
 
       if (foundWord && kanjiObj !== undefined) kanji.push(kanjiObj);
-
-      kanjiCount++;
     }
 
   if (kanji.length > 0)
@@ -1222,7 +1204,7 @@ export function getExtraKanji(): void {
 }
 
 export function getKanaWords(): void {
-  console.log("\nBuilding kana words");
+  console.log("\nGetting kana words");
 
   if (checkExistenceOfResults(resultPaths.kanaWords, "kana_words")) {
     console.log(`Already got kana_words`);
@@ -1231,7 +1213,7 @@ export function getKanaWords(): void {
 
   const ids: Set<string> = new Set<string>();
 
-  const tanaka: WordExamplesMap = new Map<StringNumber, TanakaExample[]>();
+  const tanaka: EntryExamplesMap = new Map<StringNumber, TanakaExample[]>();
 
   for (const [id, exes] of dicts.tanakaCorpus!.wordExamplesMap)
     tanaka.set(
@@ -1268,14 +1250,7 @@ export function getKanaWords(): void {
     kanjiDic !== undefined &&
     wordDefs !== undefined
   ) {
-    const jmDictLength: number = jmDict.length;
-    let wordCount: number = 0;
-
     for (const dictWord of jmDict) {
-      console.log(
-        `${Math.round((wordCount / jmDictLength) * 100)}% Searching: ${dictWord.id}`,
-      );
-
       const word: Word | undefined = getWord(
         dictWord,
         undefined,
@@ -1292,8 +1267,6 @@ export function getKanaWords(): void {
         (word.common === true || dictWord.hasPhrases === true)
       )
         wordList.push(word);
-
-      wordCount++;
     }
 
     if (wordList.length > 0)
