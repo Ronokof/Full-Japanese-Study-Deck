@@ -20,7 +20,7 @@ First off, thank you for even thinking about contributing! Whether you’re fixi
  ```
 
  ```bash
- npm run start-with-audio # if you want to generate audio
+ npm run generate-audio # if you want to generate audio
  ```
 
 ## Reporting Issues

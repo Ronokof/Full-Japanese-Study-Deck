@@ -1,6 +1,6 @@
 ![Full Japanese Study Deck](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/assets/banner-896x512.png?raw=true)
 
-[![version](https://img.shields.io/github/v/tag/Ronokof/Full-Japanese-Study-Deck?include_prereleases&sort=semver&style=for-the-badge&label=Version)](https://github.com/Ronokof/Full-Japanese-Study-Deck)
+[![version](https://img.shields.io/github/v/tag/Ronokof/Full-Japanese-Study-Deck?include_prereleases&sort=semver&style=for-the-badge&label=Version)](https://github.com/Ronokof/Full-Japanese-Study-Deck/releases/latest)
 
 # A Comprehensive Deck Covering Kana, Vocabulary, Kanji & Grammar.
 
