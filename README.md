@@ -25,6 +25,8 @@ Also, check out the [Henkan](https://www.npmjs.com/package/henkan) npm library i
 
 Contribute or report any issues [here](https://github.com/Ronokof/Full-Japanese-Study-Deck/issues).
 
+## [**Support The Project**](https://buymeacoffee.com/ronokoffjsd)
+
 ---
 
 This deck is an independent project and **is not affiliated with any contributing databases or projects**.
