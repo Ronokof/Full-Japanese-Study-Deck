@@ -168,6 +168,9 @@
 				"reading": "かならずしも・・・でない"
 			}
 		],
+		"usages": [
+			"Statement+必ずしも+Negative Statement"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>身体<rp>(</rp><rt>しんたい</rt><rp>)</rp></ruby>の<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きな<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>が<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ずしも<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>い<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>とは<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>らない",
@@ -198,6 +201,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/618",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "618",
@@ -475,7 +479,7 @@
 			},
 			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>にもかかわらず<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけた。",
-				"translation": "I went out in spite of the rain.",
+				"translation": "I went out despite of the rain.",
 				"originalPhrase": "私は雨にもかかわらず出かけた。"
 			},
 			{
@@ -549,66 +553,11 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "ながら",
-		"meaning": {
-			"meaning": "Vm, despite while, although",
-			"example": "while knowing that smoking is bad, I just keep doing it"
-		},
-		"usages": [
-			"Verb masu stem+ながら",
-			"Noun+ながら",
-			"な-Adjective (without な)+ながら",
-			"い-Adjective+ながら"
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>はその<ruby>薬<rp>(</rp><rt>くすり</rt><rp>)</rp></ruby>が<ruby>危険<rp>(</rp><rt>きけん</rt><rp>)</rp></ruby>だと<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>りながら<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みつづけていた。",
-				"translation": "While knowing  that medicine is dangerous I continued to take it.",
-				"originalPhrase": "私はその薬が危険だと知りながら飲みつづけていた。"
-			},
-			{
-				"phrase": "<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>はほほえみながらハリーを<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>つめるばかりだった。",
-				"translation": "They [the pair] just looking intently at Harry while smiling.",
-				"originalPhrase": "二人はほほえみながらハリーを見つめるばかりだった。"
-			},
-			{
-				"phrase": "<ruby>各社<rp>(</rp><rt>かくしゃ</rt><rp>)</rp></ruby>は<ruby>供給<rp>(</rp><rt>きょうきゅう</rt><rp>)</rp></ruby><ruby>過剰<rp>(</rp><rt>かじょう</rt><rp>)</rp></ruby>などのリスクもにらみながら、<ruby>事業<rp>(</rp><rt>じぎょう</rt><rp>)</rp></ruby><ruby>展開<rp>(</rp><rt>てんかい</rt><rp>)</rp></ruby>を<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>めることになる",
-				"translation": "While taking keenly into account the supply surplus risk, each company will be proceeding with the deployment of its business.",
-				"originalPhrase": "各社は供給過剰などのリスクもにらみながら、事業展開を進めることになる"
-			},
-			{
-				"phrase": "くる、くると<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>いながら<ruby>来<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>なかったじゃない。",
-				"translation": "Despite saying \"I'll come, I'll come\", you didn't show up, did you.",
-				"originalPhrase": "くる、くると言いながら来なかったじゃない。"
-			},
-			{
-				"phrase": "この<ruby>掃除<rp>(</rp><rt>そうじ</rt><rp>)</rp></ruby><ruby>機<rp>(</rp><rt>き</rt><rp>)</rp></ruby>は、<ruby>小型<rp>(</rp><rt>こがた</rt><rp>)</rp></ruby>ながら<ruby>性能<rp>(</rp><rt>せいのう</rt><rp>)</rp></ruby>がいい。",
-				"translation": "Despite being compact, this vacuum cleaner works well.",
-				"originalPhrase": "この掃除機は、小型ながら性能がいい。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/707",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N2"
-		],
-		"id": "707",
-		"noteID": "grammar_707",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
-		"point": "条件形〜ほど",
+		"point": "ば〜ほど",
 		"meaning": {
 			"meaning": "the more +V(+A), the more ...",
 			"example": "the more you read, the less you know"
 		},
-		"readings": [
-			{
-				"reading": "ば〜ほど"
-			}
-		],
 		"phrases": [
 			{
 				"phrase": "ハンサムならばハンサムなほど<ruby>恋人<rp>(</rp><rt>こいびと</rt><rp>)</rp></ruby>を<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しやすいです。",
@@ -824,49 +773,6 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "はもちろん",
-		"meaning": {
-			"meaning": "not to mention; not only, but also;",
-			"example": "He can't walk, let alone run"
-		},
-		"phrases": [
-			{
-				"phrase": "<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>が<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>うと、<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>や<ruby>文化<rp>(</rp><rt>ぶんか</rt><rp>)</rp></ruby>はもちろん、<ruby>人々<rp>(</rp><rt>ひとびと</rt><rp>)</rp></ruby>の<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>え<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>まで<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>う。",
-				"translation": "In different countries not only are the language and culture different, but so is the way people think.",
-				"originalPhrase": "国が違うと、言葉や文化はもちろん、人々の考え方まで違う。"
-			},
-			{
-				"phrase": "あのレストランはサービスはもちろん<ruby>味<rp>(</rp><rt>あじ</rt><rp>)</rp></ruby>も<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>くない。",
-				"translation": "That restaurant of course the service is good but also the food (LIT: flavor) is not bad.",
-				"originalPhrase": "あのレストランはサービスはもちろん味も悪くない。"
-			},
-			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>たちに<ruby>着物<rp>(</rp><rt>きもの</rt><rp>)</rp></ruby>はもちろんお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>もくれた。",
-				"translation": "He gave us not only clothes but some money.",
-				"originalPhrase": "彼は私たちに着物はもちろんお金もくれた。"
-			},
-			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>くことはもちろん<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むことも<ruby>出来<rp>(</rp><rt>でき</rt><rp>)</rp></ruby>ない。",
-				"translation": "He can't even read, let alone write.",
-				"originalPhrase": "彼は書くことはもちろん読むことも出来ない。"
-			},
-			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>ることはもちろん、<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>くこともできない。",
-				"translation": "He cannot walk, let alone run.",
-				"originalPhrase": "彼は走ることはもちろん、歩くこともできない。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/1261",
-		"tags": [
-			"grammar::N2"
-		],
-		"id": "1261",
-		"noteID": "grammar_1261",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
 		"point": "〜ものなら",
 		"meaning": {
 			"meaning": "if .. is possible, then...",
@@ -959,7 +865,7 @@
 			"example": "even knowing I need exercise, I don't"
 		},
 		"usages": [
-			"Verb ます-stem+つつ"
+			"Verb ます - stem+つつ"
 		],
 		"phrases": [
 			{
@@ -1012,9 +918,9 @@
 		],
 		"phrases": [
 			{
-				"phrase": "<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>ければ<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>い（Ｗｅａｔｈｅｒ）<ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たければ<ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たい（Ｓａｋｅ）ほどお<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>がおいしくなると<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われている",
-				"translation": "the colder it is the more delicious sake can become, it is said",
-				"originalPhrase": "寒ければ寒い（Ｗｅａｔｈｅｒ）冷たければ冷たい（Ｓａｋｅ）ほどお酒がおいしくなると言われている"
+				"phrase": "<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>ければ<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>い（referring to 'weather'）<ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たければ<ruby>冷<rp>(</rp><rt>つめ</rt><rp>)</rp></ruby>たい（referring to 'Sake')ほどお<ruby>酒<rp>(</rp><rt>さけ</rt><rp>)</rp></ruby>がおいしくなると<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われている",
+				"translation": "the colder it is the more  delicious sake can become, it is said",
+				"originalPhrase": "寒ければ寒い（referring to 'weather'）冷たければ冷たい（referring to 'Sake')ほどお酒がおいしくなると言われている"
 			},
 			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>口<rp>(</rp><rt>くち</rt><rp>)</rp></ruby>も<ruby>利<rp>(</rp><rt>き</rt><rp>)</rp></ruby>けないほど<ruby>腹<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>を<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てていた。",
@@ -1347,7 +1253,7 @@
 			},
 			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>にはその<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>をこなす<ruby>能力<rp>(</rp><rt>のうりょく</rt><rp>)</rp></ruby>がある。",
-				"translation": "He has the ability to do the work.",
+				"translation": "He has the ability to handle  the work.",
 				"originalPhrase": "彼にはその仕事をこなす能力がある。"
 			},
 			{
@@ -1434,7 +1340,7 @@
 		"phrases": [
 			{
 				"phrase": "<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったのに、<ruby>腐<rp>(</rp><rt>くさ</rt><rp>)</rp></ruby>っていたのでかえって<ruby>損<rp>(</rp><rt>そん</rt><rp>)</rp></ruby>をした。",
-				"translation": "I thought I was getting a bargain because it was so cheap. But in fact I was surprised it was no good anyway.",
+				"translation": "I thought I was getting a bargain because it was so cheap. But on the contrary,  I suffered a loss as it was rotten anyway.",
 				"originalPhrase": "安いと思って買ったのに、腐っていたのでかえって損をした。"
 			},
 			{
@@ -1474,6 +1380,13 @@
 			"meaning": "~?, like か",
 			"example": "(What) is it, again?"
 		},
+		"usages": [
+			"V(plain past form)+っけ",
+			"V(dict. form)+んだっけ・んだったっけ",
+			"いA(minus い)+かったっけ",
+			"なA+だ・だった+っけ",
+			"N+だ・だった+っけ"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>誰<rp>(</rp><rt>だれ</rt><rp>)</rp></ruby>だっけ？",
@@ -1504,6 +1417,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/1276",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "1276",
@@ -1701,11 +1615,57 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
+		"point": "〜ことから",
+		"meaning": {
+			"meaning": "because"
+		},
+		"phrases": [
+			{
+				"phrase": "<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>の<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>にいつも<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>が<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>んでいることから、<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby>のある<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>だということがわかる。",
+				"translation": "Since there's always a line of people in front of the store, I understand the fact that it's a popular shop.",
+				"originalPhrase": "店の前にいつも人が並んでいることから、人気のある店だということがわかる。"
+			},
+			{
+				"phrase": "<ruby>町並<rp>(</rp><rt>まちな</rt><rp>)</rp></ruby>みが<ruby>昔<rp>(</rp><rt>むかし</rt><rp>)</rp></ruby>のままに<ruby>保存<rp>(</rp><rt>ほぞん</rt><rp>)</rp></ruby>され、<ruby>古<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>い<ruby>寺<rp>(</rp><rt>てら</rt><rp>)</rp></ruby>も<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>いことから、その<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>は「<ruby>小<rp>(</rp><rt>しょう</rt><rp>)</rp></ruby><ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>」と<ruby>呼<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>ばれている。",
+				"translation": "Since the streets are maintained to look how they did long ago, and since there are lots of old temples, that town is called \"Little Kyoto.\"",
+				"originalPhrase": "町並みが昔のままに保存され、古い寺も多いことから、その町は「小京都」と呼ばれている。"
+			},
+			{
+				"phrase": "<ruby>文字<rp>(</rp><rt>もじ</rt><rp>)</rp></ruby>のことから<ruby>看板<rp>(</rp><rt>かんばん</rt><rp>)</rp></ruby>のことまでご<ruby>相談<rp>(</rp><rt>そうだん</rt><rp>)</rp></ruby><ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい。",
+				"translation": "Please feel free to contact us about anything from text to signboards.",
+				"originalPhrase": "文字のことから看板のことまでご相談下さい。"
+			},
+			{
+				"phrase": "<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さん、<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>がおしゃむ<ruby>君<rp>(</rp><rt>くん</rt><rp>)</rp></ruby>のことから<ruby>逸<rp>(</rp><rt>そ</rt><rp>)</rp></ruby>れてるんですけど｡",
+				"translation": "'Scuze me all, but the subject's about Oshamu-kun so you're getting off topic.",
+				"originalPhrase": "皆さん、話がおしゃむ君のことから逸れてるんですけど｡"
+			},
+			{
+				"phrase": "そういうことだから。",
+				"translation": "Because it's supposed to be like that.",
+				"originalPhrase": "そういうことだから。"
+			}
+		],
+		"jlpt": "N2",
+		"source": "https://takoboto.jp/bunpo/1320",
+		"tags": [
+			"grammar::N2"
+		],
+		"id": "1320",
+		"noteID": "grammar_1320",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
+	},
+	{
 		"point": "おく",
 		"meaning": {
 			"meaning": "to do it in advance OR to leave it in the current state expecting a later change",
 			"example": "I left the window open"
 		},
+		"usages": [
+			"Verb て-Form+おきます",
+			"Verb て-Form+おく"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>のために、<ruby>準備<rp>(</rp><rt>じゅんび</rt><rp>)</rp></ruby>しておきました",
@@ -1736,6 +1696,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/1350",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "1350",
@@ -1783,54 +1744,6 @@
 		],
 		"id": "1381",
 		"noteID": "grammar_1381",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
-		"point": "と言えば",
-		"meaning": {
-			"meaning": "speaking of ~",
-			"example": "Speaking of rain, what is the weather like tomorrow?"
-		},
-		"readings": [
-			{
-				"reading": "といえば"
-			}
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>春<rp>(</rp><rt>はる</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>えば、<ruby>卒業<rp>(</rp><rt>そつぎょう</rt><rp>)</rp></ruby>の<ruby>季節<rp>(</rp><rt>きせつ</rt><rp>)</rp></ruby>。",
-				"translation": "Speaking of spring, it is the season for graduation.",
-				"originalPhrase": "春と言えば、卒業の季節。"
-			},
-			{
-				"phrase": "<ruby>果物<rp>(</rp><rt>くだもの</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>えばバナナだ。",
-				"translation": "Speaking of fruit, it is a banana.",
-				"originalPhrase": "果物と言えばバナナだ。"
-			},
-			{
-				"phrase": "<ruby>秋葉原<rp>(</rp><rt>あきはばら</rt><rp>)</rp></ruby>といえば、アニメの<ruby>聖地<rp>(</rp><rt>せいち</rt><rp>)</rp></ruby>です。",
-				"translation": "Speaking of Akihabara, that is sacred to the animation.",
-				"originalPhrase": "秋葉原といえば、アニメの聖地です。"
-			},
-			{
-				"phrase": "<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めてと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>えば、あなたの<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べるのはこれが<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めてです。",
-				"translation": "Speaking of first times, this is my first time tasting your dishes.",
-				"originalPhrase": "初めてと言えば、あなたの料理を食べるのはこれが初めてです。"
-			},
-			{
-				"phrase": "<ruby>春<rp>(</rp><rt>はる</rt><rp>)</rp></ruby>といえば、<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>浮<rp>(</rp><rt>う</rt><rp>)</rp></ruby>かべるものは<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>ですか？",
-				"translation": "Speaking of spring, you know what that brings to mind?",
-				"originalPhrase": "春といえば、思い浮かべるものは何ですか？"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/1712",
-		"tags": [
-			"grammar::N2"
-		],
-		"id": "1712",
-		"noteID": "grammar_1712",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -2442,49 +2355,6 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "てしょうがない; てたまらない",
-		"meaning": {
-			"meaning": "Can't help but 〜; Extremely 〜; Very 〜",
-			"example": "Due to a lack of sleep, I can't help but be exhausted."
-		},
-		"phrases": [
-			{
-				"phrase": "<ruby>睡眠<rp>(</rp><rt>すいみん</rt><rp>)</rp></ruby><ruby>不足<rp>(</rp><rt>ふそく</rt><rp>)</rp></ruby>のせいで<ruby>眠<rp>(</rp><rt>ねむ</rt><rp>)</rp></ruby>くてしょうがない。",
-				"translation": "because of a lack of sleep, I am soo sleepy.",
-				"originalPhrase": "睡眠不足のせいで眠くてしょうがない。"
-			},
-			{
-				"phrase": "しょうがないとおもうよ",
-				"translation": "I think that it cannot be helped.",
-				"originalPhrase": "しょうがないとおもうよ"
-			},
-			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>発言<rp>(</rp><rt>はつげん</rt><rp>)</rp></ruby>は<ruby>他<rp>(</rp><rt>た</rt><rp>)</rp></ruby>に<ruby>解釈<rp>(</rp><rt>かいしゃく</rt><rp>)</rp></ruby>のしようがない。",
-				"translation": "His remarks allow no other interpretation.",
-				"originalPhrase": "彼の発言は他に解釈のしようがない。"
-			},
-			{
-				"phrase": "<ruby>誕生<rp>(</rp><rt>たんじょう</rt><rp>)</rp></ruby>と<ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby>との<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>を<ruby>享楽<rp>(</rp><rt>きょうらく</rt><rp>)</rp></ruby>する<ruby>以外<rp>(</rp><rt>いがい</rt><rp>)</rp></ruby>には、この<ruby>両者<rp>(</rp><rt>りょうしゃ</rt><rp>)</rp></ruby>に<ruby>対<rp>(</rp><rt>たい</rt><rp>)</rp></ruby>して<ruby>回復<rp>(</rp><rt>かいふく</rt><rp>)</rp></ruby>の<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>の<ruby>施<rp>(</rp><rt>ほどこ</rt><rp>)</rp></ruby>しようがない。",
-				"translation": "With the exception of enjoying the time in between, there is nothing we can do about the fact of birth and death.",
-				"originalPhrase": "誕生と死との間を享楽する以外には、この両者に対して回復の手の施しようがない。"
-			},
-			{
-				"phrase": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>お<ruby>腹<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>が<ruby>空<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いてしょうがない。",
-				"translation": "Lately, I have been extremely hungry.",
-				"originalPhrase": "最近お腹が空いてしょうがない。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/540",
-		"tags": [
-			"grammar::N2"
-		],
-		"id": "540",
-		"noteID": "grammar_540",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
 		"point": "に伴って",
 		"meaning": {
 			"meaning": "as; in proportion to; with",
@@ -2494,6 +2364,10 @@
 			{
 				"reading": "にともなって"
 			}
+		],
+		"usages": [
+			"Verb (dictionary form)+に伴って",
+			"Noun+に伴って"
 		],
 		"phrases": [
 			{
@@ -2525,6 +2399,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/645",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "645",
@@ -2833,14 +2708,14 @@
 				"originalPhrase": "台風で家が押し流された。人々はどうすることもできず、じっと見ているほかなかった。"
 			},
 			{
-				"phrase": "もはや、<ruby>盧<rp>(</rp><rt>の</rt><rp>)</rp></ruby><ruby>武<rp>(</rp><rt>たけし</rt><rp>)</rp></ruby><ruby>鉉<rp>(</rp><rt>鉉</rt><rp>)</rp></ruby>（ノ・ムヒョン）<ruby>大統領<rp>(</rp><rt>だいとうりょう</rt><rp>)</rp></ruby>の<ruby>再<rp>(</rp><rt>さい</rt><rp>)</rp></ruby><ruby>信任<rp>(</rp><rt>しんにん</rt><rp>)</rp></ruby>を<ruby>問<rp>(</rp><rt>と</rt><rp>)</rp></ruby>う<ruby>国民<rp>(</rp><rt>こくみん</rt><rp>)</rp></ruby><ruby>投票<rp>(</rp><rt>とうひょう</rt><rp>)</rp></ruby>に<ruby>進<rp>(</rp><rt>すす</rt><rp>)</rp></ruby>むほかない。それが<ruby>好<rp>(</rp><rt>この</rt><rp>)</rp></ruby>ましいからではなく、その<ruby>他<rp>(</rp><rt>た</rt><rp>)</rp></ruby>の<ruby>途<rp>(</rp><rt>と</rt><rp>)</rp></ruby>が<ruby>閉<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ざされているからだ。",
-				"translation": "Already there is nothing else but to proceed with a national referendum for a vote of confidence in Prime Minister No Muhyon. This route is not taken because [we] want to, but because there is no other alternative available - that",
-				"originalPhrase": "もはや、盧武鉉（ノ・ムヒョン）大統領の再信任を問う国民投票に進むほかない。それが好ましいからではなく、その他の途が閉ざされているからだ。"
-			},
-			{
 				"phrase": "<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>するよりほかない",
 				"translation": "nothing else to do but study",
 				"originalPhrase": "勉強するよりほかない"
+			},
+			{
+				"phrase": "<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>のことを<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うよりしかたなかった",
+				"translation": "I had no alternative but to tell the truth",
+				"originalPhrase": "本当のことを言うよりしかたなかった"
 			}
 		],
 		"jlpt": "N2",
@@ -3221,6 +3096,56 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
+		"point": "としたら、とすれば、とすると",
+		"meaning": {
+			"meaning": "if one did; if one were to",
+			"example": "If we went to a hot spring, where would be good?"
+		},
+		"usages": [
+			"Verb (casual)",
+			"Noun+だ",
+			"な-adjective+だ",
+			"い-adjective"
+		],
+		"phrases": [
+			{
+				"phrase": "<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれ<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>われるとしたら、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>がいい？<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>がいい？",
+				"translation": "If you were born again, would you be a man or a woman?",
+				"originalPhrase": "生まれ変われるとしたら、男がいい？女がいい？"
+			},
+			{
+				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>の<ruby>立場<rp>(</rp><rt>たちば</rt><rp>)</rp></ruby>としたら、この<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>どうする？",
+				"translation": "If you were in my place, what would you do in this situation?",
+				"originalPhrase": "君が僕の立場としたら、この場合どうする？"
+			},
+			{
+				"phrase": "このまま<ruby>不況<rp>(</rp><rt>ふきょう</rt><rp>)</rp></ruby>から<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>け<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>せないとすれば、<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>の<ruby>将来<rp>(</rp><rt>しょうらい</rt><rp>)</rp></ruby>に<ruby>希望<rp>(</rp><rt>きぼう</rt><rp>)</rp></ruby>はない。",
+				"translation": "At this rate, if we don't pull out of this recession, there will be no hope for Japan's future.",
+				"originalPhrase": "このまま不況から抜け出せないとすれば、日本の将来に希望はない。"
+			},
+			{
+				"phrase": "<ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くとしたらどこがいいでしょうね。",
+				"translation": "if we were to go to onsen, where would you suggest?",
+				"originalPhrase": "温泉に行くとしたらどこがいいでしょうね。"
+			},
+			{
+				"phrase": "この<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>を<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えるとしたら<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>貰<rp>(</rp><rt>もら</rt><rp>)</rp></ruby>いますか。",
+				"translation": "If I answer this question , what will I receive?",
+				"originalPhrase": "この質問を答えるとしたら何が貰いますか。"
+			}
+		],
+		"jlpt": "N2",
+		"source": "https://takoboto.jp/bunpo/297",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N2"
+		],
+		"id": "297",
+		"noteID": "grammar_297",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
+	},
+	{
 		"point": "ぬく",
 		"meaning": {
 			"meaning": "completely; until the end",
@@ -3260,6 +3185,49 @@
 		],
 		"id": "309",
 		"noteID": "grammar_309",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
+	},
+	{
+		"point": "からして",
+		"meaning": {
+			"meaning": "(1)Even; (2)Given, (Judging) From/By",
+			"example": "(1) He can't even read hiragana."
+		},
+		"phrases": [
+			{
+				"phrase": "ひらがなからして<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>めない。もちろん<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>も<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>めない。",
+				"translation": "Cannot even read hiragana, and also of course cannot read kanji",
+				"originalPhrase": "ひらがなからして読めない。もちろん漢字も読めない。"
+			},
+			{
+				"phrase": "A<ruby>国<rp>(</rp><rt>こく</rt><rp>)</rp></ruby>は<ruby>食料<rp>(</rp><rt>しょくりょう</rt><rp>)</rp></ruby>からして、<ruby>不足<rp>(</rp><rt>ふそく</rt><rp>)</rp></ruby>している。（<ruby>暗示<rp>(</rp><rt>あんじ</rt><rp>)</rp></ruby>：だからガソリンなど、ほとんどないだろう）",
+				"translation": "That country doesn't have enough food for a start (implies: so they definitely don't have enough gasoline etc.)",
+				"originalPhrase": "A国は食料からして、不足している。（暗示：だからガソリンなど、ほとんどないだろう）"
+			},
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>の<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby><ruby>状態<rp>(</rp><rt>じょうたい</rt><rp>)</rp></ruby>からしてスポーツは<ruby>無理<rp>(</rp><rt>むり</rt><rp>)</rp></ruby>でしょう。",
+				"translation": "Judging from his physical condition　doing sports would be unwise",
+				"originalPhrase": "彼の健康状態からしてスポーツは無理でしょう。"
+			},
+			{
+				"phrase": "<ruby>態度<rp>(</rp><rt>たいど</rt><rp>)</rp></ruby>からしてけしからん",
+				"translation": "Even his attitude is nasty.",
+				"originalPhrase": "態度からしてけしからん"
+			},
+			{
+				"phrase": "<ruby>値段<rp>(</rp><rt>ねだん</rt><rp>)</rp></ruby>からして、Xの<ruby>機種<rp>(</rp><rt>きしゅ</rt><rp>)</rp></ruby>はYとは<ruby>比<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>べものにならないと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っていた。",
+				"translation": "Given its price, I didn't expect the X machine to be in the same league as the Y machine.",
+				"originalPhrase": "値段からして、Xの機種はYとは比べものにならないと思っていた。"
+			}
+		],
+		"jlpt": "N2",
+		"source": "https://takoboto.jp/bunpo/502",
+		"tags": [
+			"grammar::N2"
+		],
+		"id": "502",
+		"noteID": "grammar_502",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -3308,6 +3276,54 @@
 		],
 		"id": "538",
 		"noteID": "grammar_538",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
+	},
+	{
+		"point": "たび、たびに",
+		"meaning": {
+			"meaning": "each time, every time, whenever",
+			"example": "Whenever I go overseas, I realize the merits of my own country."
+		},
+		"usages": [
+			"Noun+の+たび+に",
+			"Verb (dictionary form)+たび+に"
+		],
+		"phrases": [
+			{
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>うたびににきれいになる。",
+				"translation": "Every time I meet her, she is always beautiful. Every time",
+				"originalPhrase": "彼女は会うたびににきれいになる。"
+			},
+			{
+				"phrase": "Windows Messenger にサインインするたびに、プログラムをアップグレードするように<ruby>求<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>められます。",
+				"translation": "Whenever I sign in to Windows Messenger it wants me to upgrade the program.",
+				"originalPhrase": "Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。"
+			},
+			{
+				"phrase": "<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くたびに<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っている<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がする",
+				"translation": "I get the feeling I say that whenever I go to Tokyo.",
+				"originalPhrase": "東京に行くたびに言っている気がする"
+			},
+			{
+				"phrase": "<ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>は<ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>のたびに、みんなにお<ruby>土産<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくる。",
+				"translation": "Whenever the section manager goes on a business trip, he brings back souvenirs for everyone.",
+				"originalPhrase": "課長は出張のたびに、みんなにお土産を買ってくる。"
+			},
+			{
+				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>はやるたびに<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>した。",
+				"translation": "As often as she tried, she failed.",
+				"originalPhrase": "彼女はやるたびに失敗した。"
+			}
+		],
+		"jlpt": "N2",
+		"source": "https://takoboto.jp/bunpo/644",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N2"
+		],
+		"id": "644",
+		"noteID": "grammar_644",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -3458,56 +3474,6 @@
 		],
 		"id": "830",
 		"noteID": "grammar_830",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
-		"point": "というより",
-		"meaning": {
-			"meaning": "rather, more than",
-			"example": "cold rather than cool"
-		},
-		"usages": [
-			"Verb (plain form)+というより",
-			"い-adjective+というより",
-			"な-adjective（without な）+というより",
-			"Noun+というより"
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>にはこの<ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp></ruby>は<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいというより、むしろ やかましい.",
-				"translation": "To me, this music is noisy, rather than enjoyable.",
-				"originalPhrase": "私にはこの音楽は楽しいというより、むしろ やかましい."
-			},
-			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>天才<rp>(</rp><rt>てんさい</rt><rp>)</rp></ruby>と<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うよりむしろ<ruby>変人<rp>(</rp><rt>へんじん</rt><rp>)</rp></ruby>だ",
-				"translation": "Rather than a genius, it's better to say that he is an eccentric.",
-				"originalPhrase": "彼は天才と言うよりむしろ変人だ"
-			},
-			{
-				"phrase": "<ruby>今年<rp>(</rp><rt>ことし</rt><rp>)</rp></ruby>の<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>は<ruby>涼<rp>(</rp><rt>すず</rt><rp>)</rp></ruby>しいというより<ruby>寒<rp>(</rp><rt>さむ</rt><rp>)</rp></ruby>いと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>が<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>いくらいです。",
-				"translation": "This year's summer was so cool that it'd be better to say it was cold (rather than cool).",
-				"originalPhrase": "今年の夏は涼しいというより寒いと言った方が良いくらいです。"
-			},
-			{
-				"phrase": "この<ruby>雑誌<rp>(</rp><rt>ざっし</rt><rp>)</rp></ruby>は<ruby>面白<rp>(</rp><rt>おもしろ</rt><rp>)</rp></ruby>いというよりつまらないです。",
-				"translation": "This magazine is more boring than interesting.",
-				"originalPhrase": "この雑誌は面白いというよりつまらないです。"
-			},
-			{
-				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>可愛<rp>(</rp><rt>かわい</rt><rp>)</rp></ruby>いというよりこわいです。",
-				"translation": "Rather than being cute, she looks scary.",
-				"originalPhrase": "彼女は可愛いというよりこわいです。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/960",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N2"
-		],
-		"id": "960",
-		"noteID": "grammar_960",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -3832,56 +3798,6 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "としたら、とすれば、とすると",
-		"meaning": {
-			"meaning": "if one did; if one were to",
-			"example": "If we went to a hot spring, where would be good?"
-		},
-		"usages": [
-			"Verb (casual)",
-			"Noun+だ",
-			"な-adjective+だ",
-			"い-adjective"
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>生<rp>(</rp><rt>う</rt><rp>)</rp></ruby>まれ<ruby>変<rp>(</rp><rt>か</rt><rp>)</rp></ruby>われるとしたら、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>がいい？<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>がいい？",
-				"translation": "If you were born again, would you be a man or a woman?",
-				"originalPhrase": "生まれ変われるとしたら、男がいい？女がいい？"
-			},
-			{
-				"phrase": "<ruby>君<rp>(</rp><rt>きみ</rt><rp>)</rp></ruby>が<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>の<ruby>立場<rp>(</rp><rt>たちば</rt><rp>)</rp></ruby>としたら、この<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>どうする？",
-				"translation": "If you were in my place, what would you do in this situation?",
-				"originalPhrase": "君が僕の立場としたら、この場合どうする？"
-			},
-			{
-				"phrase": "このまま<ruby>不況<rp>(</rp><rt>ふきょう</rt><rp>)</rp></ruby>から<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>け<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>せないとすれば、<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>の<ruby>将来<rp>(</rp><rt>しょうらい</rt><rp>)</rp></ruby>に<ruby>希望<rp>(</rp><rt>きぼう</rt><rp>)</rp></ruby>はない。",
-				"translation": "At this rate, if we don't pull out of this recession, there will be no hope for Japan's future.",
-				"originalPhrase": "このまま不況から抜け出せないとすれば、日本の将来に希望はない。"
-			},
-			{
-				"phrase": "<ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くとしたらどこがいいでしょうね。",
-				"translation": "if we were to go to onsen, where would you suggest?",
-				"originalPhrase": "温泉に行くとしたらどこがいいでしょうね。"
-			},
-			{
-				"phrase": "この<ruby>質問<rp>(</rp><rt>しつもん</rt><rp>)</rp></ruby>を<ruby>答<rp>(</rp><rt>こた</rt><rp>)</rp></ruby>えるとしたら<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が<ruby>貰<rp>(</rp><rt>もら</rt><rp>)</rp></ruby>いますか。",
-				"translation": "If I answer this question , what will I receive?",
-				"originalPhrase": "この質問を答えるとしたら何が貰いますか。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/297",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N2"
-		],
-		"id": "297",
-		"noteID": "grammar_297",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
 		"point": "に限らず",
 		"meaning": {
 			"meaning": "not just, limited to",
@@ -3969,54 +3885,6 @@
 		],
 		"id": "480",
 		"noteID": "grammar_480",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
-		"point": "たび、たびに",
-		"meaning": {
-			"meaning": "each time, every time, whenever",
-			"example": "Whenever I go overseas, I realize the merits of my own country."
-		},
-		"usages": [
-			"Noun+の+たび+に",
-			"Verb (dictionary form)+たび+に"
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>は<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>うたびににきれいになる。",
-				"translation": "Every time I meet her, she is always beautiful. Every time",
-				"originalPhrase": "彼女は会うたびににきれいになる。"
-			},
-			{
-				"phrase": "Windows Messenger にサインインするたびに、プログラムをアップグレードするように<ruby>求<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>められます。",
-				"translation": "Whenever I sign in to Windows Messenger it wants me to upgrade the program.",
-				"originalPhrase": "Windows Messenger にサインインするたびに、プログラムをアップグレードするように求められます。"
-			},
-			{
-				"phrase": "<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くたびに<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>っている<ruby>気<rp>(</rp><rt>き</rt><rp>)</rp></ruby>がする",
-				"translation": "I get the feeling I say that whenever I go to Tokyo.",
-				"originalPhrase": "東京に行くたびに言っている気がする"
-			},
-			{
-				"phrase": "<ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>は<ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>のたびに、みんなにお<ruby>土産<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ってくる。",
-				"translation": "Whenever the section manager goes on a business trip, he brings back souvenirs for everyone.",
-				"originalPhrase": "課長は出張のたびに、みんなにお土産を買ってくる。"
-			},
-			{
-				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>はやるたびに<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>した。",
-				"translation": "As often as she tried, she failed.",
-				"originalPhrase": "彼女はやるたびに失敗した。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/644",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N2"
-		],
-		"id": "644",
-		"noteID": "grammar_644",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -4518,7 +4386,7 @@
 			},
 			{
 				"phrase": "まんがの<ruby>種類<rp>(</rp><rt>しゅるい</rt><rp>)</rp></ruby>が<ruby>増<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>えている。<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どものためのものはもとより<ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>が<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むための<ruby>歴史<rp>(</rp><rt>れきし</rt><rp>)</rp></ruby>や<ruby>経済<rp>(</rp><rt>けいざい</rt><rp>)</rp></ruby>のまんがもよく<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>かける.",
-				"translation": "There were many kinds of cartoon has came frequently.it begins with child,as well as often used to see economic and history for adult.",
+				"translation": "There are a lot of different types of mangas (nowadays). Already there were  children's manga available, but  I can oftenly spot history and economics related adult manga coming up too !",
 				"originalPhrase": "まんがの種類が増えている。子どものためのものはもとより大人が読むための歴史や経済のまんがもよく見かける."
 			}
 		],
@@ -5321,6 +5189,11 @@
 				"reading": "かわりに"
 			}
 		],
+		"usages": [
+			"Verb(casual)+代わりに",
+			"Noun+の+代わりに",
+			"その+代わりに"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>昼間<rp>(</rp><rt>ひるま</rt><rp>)</rp></ruby><ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>ぶ<ruby>代<rp>(</rp><rt>か</rt><rp>)</rp></ruby>わりに<ruby>夜<rp>(</rp><rt>よる</rt><rp>)</rp></ruby><ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>するつもりだ。",
@@ -5351,6 +5224,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/933",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "933",
@@ -5682,6 +5556,59 @@
 		],
 		"id": "1727",
 		"noteID": "grammar_1727",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
+	},
+	{
+		"point": "に限り",
+		"meaning": {
+			"meaning": "only if",
+			"example": "Only students can receive the sale"
+		},
+		"readings": [
+			{
+				"reading": "にかぎり"
+			}
+		],
+		"usages": [
+			"Noun+に限り",
+			"Noun+に限る"
+		],
+		"phrases": [
+			{
+				"phrase": "<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、<ruby>半額<rp>(</rp><rt>はんがく</rt><rp>)</rp></ruby>で<ruby>入場<rp>(</rp><rt>にゅうじょう</rt><rp>)</rp></ruby>できる。",
+				"translation": "Only students can enter in half price.",
+				"originalPhrase": "学生に限り、半額で入場できる。"
+			},
+			{
+				"phrase": "<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り<ruby>入場<rp>(</rp><rt>にゅうじょう</rt><rp>)</rp></ruby><ruby>可能<rp>(</rp><rt>かのう</rt><rp>)</rp></ruby>",
+				"translation": "Admission to students only .",
+				"originalPhrase": "学生に限り入場可能"
+			},
+			{
+				"phrase": "<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めてのお<ruby>客様<rp>(</rp><rt>きゃくさま</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>が<ruby>半額<rp>(</rp><rt>はんがく</rt><rp>)</rp></ruby>になります。",
+				"translation": "Only for  first-time customers, the food will be half price.",
+				"originalPhrase": "始めてのお客様に限り、料理が半額になります。"
+			},
+			{
+				"phrase": "<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>の<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、コーヒー１<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby><ruby>無料<rp>(</rp><rt>むりょう</rt><rp>)</rp></ruby>です。",
+				"translation": "Only  women have a free cup of coffee.",
+				"originalPhrase": "女性の方に限り、コーヒー１杯無料です。"
+			},
+			{
+				"phrase": "<ruby>現金<rp>(</rp><rt>げんきん</rt><rp>)</rp></ruby>にかぎり<ruby>支払<rp>(</rp><rt>しはら</rt><rp>)</rp></ruby>えます。",
+				"translation": "You can pay only  cash.",
+				"originalPhrase": "現金にかぎり支払えます。"
+			}
+		],
+		"jlpt": "N2",
+		"source": "https://takoboto.jp/bunpo/1791",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N2"
+		],
+		"id": "1791",
+		"noteID": "grammar_1791",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -6109,54 +6036,6 @@
 		],
 		"id": "1763",
 		"noteID": "grammar_1763",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
-		"point": "に限り",
-		"meaning": {
-			"meaning": "only if",
-			"example": "Only students can receive the sale"
-		},
-		"readings": [
-			{
-				"reading": "にかぎり"
-			}
-		],
-		"usages": [
-			"Noun+に限り",
-			"Noun+に限る"
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、<ruby>半額<rp>(</rp><rt>はんがく</rt><rp>)</rp></ruby>で<ruby>入場<rp>(</rp><rt>にゅうじょう</rt><rp>)</rp></ruby>できる。",
-				"translation": "Only students can enter in half price.",
-				"originalPhrase": "学生に限り、半額で入場できる。"
-			},
-			{
-				"phrase": "<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り<ruby>入場<rp>(</rp><rt>にゅうじょう</rt><rp>)</rp></ruby><ruby>可能<rp>(</rp><rt>かのう</rt><rp>)</rp></ruby>",
-				"translation": "Admission to students only .",
-				"originalPhrase": "学生に限り入場可能"
-			},
-			{
-				"phrase": "<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めてのお<ruby>客様<rp>(</rp><rt>きゃくさま</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>が<ruby>半額<rp>(</rp><rt>はんがく</rt><rp>)</rp></ruby>になります。",
-				"translation": "Only for  first-time customers, the food will be half price.",
-				"originalPhrase": "始めてのお客様に限り、料理が半額になります。"
-			},
-			{
-				"phrase": "<ruby>女性<rp>(</rp><rt>じょせい</rt><rp>)</rp></ruby>の<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>に<ruby>限<rp>(</rp><rt>かぎ</rt><rp>)</rp></ruby>り、コーヒー１<ruby>杯<rp>(</rp><rt>はい</rt><rp>)</rp></ruby><ruby>無料<rp>(</rp><rt>むりょう</rt><rp>)</rp></ruby>です。",
-				"translation": "Only  women have a free cup of coffee.",
-				"originalPhrase": "女性の方に限り、コーヒー１杯無料です。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/1791",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N2"
-		],
-		"id": "1791",
-		"noteID": "grammar_1791",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
@@ -6615,6 +6494,9 @@
 			"meaning": "regarding, about, concerning",
 			"example": "I don't know much concerning the laws."
 		},
+		"usages": [
+			"Noun+にかけては"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>卓球<rp>(</rp><rt>たっきゅう</rt><rp>)</rp></ruby>にかけては<ruby>弟<rp>(</rp><rt>おとうと</rt><rp>)</rp></ruby>におよばない",
@@ -6635,6 +6517,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/1683",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "1683",
@@ -6757,7 +6640,7 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "にわたる,にわたって",
+		"point": "に渡る, に渡って",
 		"meaning": {
 			"meaning": "for, over, extending, stretching, ranging, covering",
 			"example": "The Olympic games were held for sixteen days"
@@ -6766,6 +6649,10 @@
 			{
 				"reading": "にわたる, にわたって"
 			}
+		],
+		"usages": [
+			"Noun+に+わたって",
+			"Noun+に+わたる+(Noun)"
 		],
 		"phrases": [
 			{
@@ -6782,6 +6669,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/1759",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "1759",
@@ -6833,6 +6721,12 @@
 				"reading": "わりに(は)"
 			}
 		],
+		"usages": [
+			"Verb (casual)+わりに",
+			"Noun+の+わりに",
+			"I-adjective+わりに",
+			"Na-adjective+な+わりに"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>の<ruby>割<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>りに<ruby>若<rp>(</rp><rt>わか</rt><rp>)</rp></ruby>く<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>える",
@@ -6853,6 +6747,7 @@
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/1764",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "1764",
@@ -7120,12 +7015,12 @@
 		"point": "〜からして",
 		"meaning": {
 			"meaning": "starting from",
-			"example": "villages are different even starting from weather"
+			"example": "The countryside is different even starting from the weather"
 		},
 		"phrases": [
 			{
 				"phrase": "<ruby>田舎<rp>(</rp><rt>いなか</rt><rp>)</rp></ruby>は<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>からして<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>う。",
-				"translation": "Villages are different even starting from weather",
+				"translation": "The countryside is different, even starting from  the weather",
 				"originalPhrase": "田舎は天気からして違う。"
 			}
 		],
@@ -7678,7 +7573,7 @@
 		"phrases": [
 			{
 				"phrase": "<ruby>真面目<rp>(</rp><rt>まじめ</rt><rp>)</rp></ruby>なように<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるが<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>嘘<rp>(</rp><rt>うそ</rt><rp>)</rp></ruby>をつきかねない。",
-				"translation": "He looks very serious, but he can't help lying.",
+				"translation": "He looks serious, but there’s a chance he might lie.",
 				"originalPhrase": "真面目なように見えるが彼は嘘をつきかねない。"
 			},
 			{
@@ -8305,53 +8200,6 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "など; なんか; なんて",
-		"meaning": {
-			"meaning": "and so on; and the like; for example; things like 〜",
-			"example": "A lot of students from China, Korea, and so on come to this university."
-		},
-		"usages": [
-			"N+なんか/なんて"
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>台風<rp>(</rp><rt>たいふう</rt><rp>)</rp></ruby>の<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>に<ruby>風雨<rp>(</rp><rt>ふうう</rt><rp>)</rp></ruby>の<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>でテニスをするなど、<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えられない。",
-				"translation": "Playing tennis and the like in the wind and rain on the day of a typhoon is unimaginable.",
-				"originalPhrase": "台風の日に風雨の中でテニスをするなど、考えられない。"
-			},
-			{
-				"phrase": "20<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>のレポートを1<ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>で<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いたなんて、すごいねえ。<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>なんか3<ruby>枚<rp>(</rp><rt>まい</rt><rp>)</rp></ruby>のレポートも<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>けない。",
-				"translation": "That you wrote a 20-page report in one day is something amazing. I can't even write a 3-page report.",
-				"originalPhrase": "20枚のレポートを1日で書いたなんて、すごいねえ。私なんか3枚のレポートも書けない。"
-			},
-			{
-				"phrase": "<ruby>彼女<rp>(</rp><rt>かのじょ</rt><rp>)</rp></ruby>、<ruby>大人<rp>(</rp><rt>おとな</rt><rp>)</rp></ruby>っぽいね。まだ15<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>だなんて<ruby>信<rp>(</rp><rt>しん</rt><rp>)</rp></ruby>じられないよ。",
-				"translation": "She's adult-like, isn't she? That she's still 15 is something I can't believe.",
-				"originalPhrase": "彼女、大人っぽいね。まだ15歳だなんて信じられないよ。"
-			},
-			{
-				"phrase": "お<ruby>化粧<rp>(</rp><rt>けしょう</rt><rp>)</rp></ruby>なんかしてはいけません。",
-				"translation": "You must not wear makeup.",
-				"originalPhrase": "お化粧なんかしてはいけません。"
-			},
-			{
-				"phrase": "<ruby>納豆<rp>(</rp><rt>なっとう</rt><rp>)</rp></ruby>なんてきらいだ。",
-				"translation": "I really hate natto.",
-				"originalPhrase": "納豆なんてきらいだ。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/1606",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N2"
-		],
-		"id": "1606",
-		"noteID": "grammar_1606",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
 		"point": "〜ものがある",
 		"meaning": {
 			"meaning": "there is such a thing (essence), feels like",
@@ -8561,9 +8409,9 @@
 				"originalPhrase": "彼女に本当の事を言いかねて彼はだまった"
 			},
 			{
-				"phrase": "そのことについては、<ruby>即答<rp>(</rp><rt>そくとう</rt><rp>)</rp></ruby>しかねます。 sokutou-suru",
-				"translation": "I find it hard to respond to that matter immediately",
-				"originalPhrase": "そのことについては、即答しかねます。 sokutou-suru"
+				"phrase": "そのことについては、<ruby>即答<rp>(</rp><rt>そくとう</rt><rp>)</rp></ruby>しかねます。",
+				"translation": "I find it hard to  respond to that matter immediately",
+				"originalPhrase": "そのことについては、即答しかねます。"
 			}
 		],
 		"jlpt": "N2",
@@ -8663,16 +8511,11 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "た形ところ",
+		"point": "〜たところ",
 		"meaning": {
 			"meaning": "just as I'd, right at the moment when I'd",
 			"example": "just as I thought to call her, she called me"
 		},
-		"readings": [
-			{
-				"reading": "たところ"
-			}
-		],
 		"phrases": [
 			{
 				"phrase": "マニュアルの<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby><ruby>通<rp>(</rp><rt>どお</rt><rp>)</rp></ruby>りにやってみたところうまくいった。",
@@ -8819,16 +8662,15 @@
 				"reading": "うえで"
 			}
 		],
+		"usages": [
+			"Verb た-form+うえで",
+			"Noun+の+うえで"
+		],
 		"phrases": [
 			{
 				"phrase": "よく<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えた<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>でご<ruby>返事<rp>(</rp><rt>へんじ</rt><rp>)</rp></ruby>いたします。",
 				"translation": "I will reply upon careful consideration.",
 				"originalPhrase": "よく考えた上でご返事いたします。"
-			},
-			{
-				"phrase": "メールを<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>ううえで<ruby>注意<rp>(</rp><rt>ちゅうい</rt><rp>)</rp></ruby>すべきマナーって？",
-				"translation": "[What is the] Etiquette to pay attention to upon using email?",
-				"originalPhrase": "メールを使ううえで注意すべきマナーって？"
 			},
 			{
 				"phrase": "<ruby>手続<rp>(</rp><rt>てつづ</rt><rp>)</rp></ruby>きの<ruby>書類<rp>(</rp><rt>しょるい</rt><rp>)</rp></ruby>は、<ruby>必要<rp>(</rp><rt>ひつよう</rt><rp>)</rp></ruby><ruby>事項<rp>(</rp><rt>じこう</rt><rp>)</rp></ruby>をご<ruby>記入<rp>(</rp><rt>きにゅう</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>、ご<ruby>返送<rp>(</rp><rt>へんそう</rt><rp>)</rp></ruby><ruby>下<rp>(</rp><rt>くだ</rt><rp>)</rp></ruby>さい。",
@@ -8844,11 +8686,17 @@
 				"phrase": "テレビは<ruby>外国<rp>(</rp><rt>がいこく</rt><rp>)</rp></ruby><ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>でかなり<ruby>役<rp>(</rp><rt>やく</rt><rp>)</rp></ruby>に<ruby>立<rp>(</rp><rt>た</rt><rp>)</rp></ruby>つ。",
 				"translation": "A television is pretty useful to study [for study of] a foreign language.",
 				"originalPhrase": "テレビは外国語の勉強の上でかなり役に立つ。"
+			},
+			{
+				"phrase": "<ruby>熟慮<rp>(</rp><rt>じゅくりょ</rt><rp>)</rp></ruby>の<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>の<ruby>結論<rp>(</rp><rt>けつろん</rt><rp>)</rp></ruby>です.",
+				"translation": "It is a conclusion upon the deliberation.",
+				"originalPhrase": "熟慮の上の結論です."
 			}
 		],
 		"jlpt": "N2",
 		"source": "https://takoboto.jp/bunpo/124",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N2"
 		],
 		"id": "124",
@@ -9112,9 +8960,9 @@
 				"originalPhrase": "私たちがプラットホームに着くのと同時に電車が出てしまった。"
 			},
 			{
-				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>科学<rp>(</rp><rt>かがく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>であると<ruby>同時<rp>(</rp><rt>どうじ</rt><rp>)</rp></ruby>に<ruby>音楽<rp>(</rp><rt>おんがく</rt><rp>)</rp></ruby><ruby>家出<rp>(</rp><rt>いえで</rt><rp>)</rp></ruby>もある。",
-				"translation": "He is a scientist and musician.",
-				"originalPhrase": "彼は科学者であると同時に音楽家出もある。"
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>科学<rp>(</rp><rt>かがく</rt><rp>)</rp></ruby><ruby>者<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>であると<ruby>同時<rp>(</rp><rt>どうじ</rt><rp>)</rp></ruby>に<ruby>音楽家<rp>(</rp><rt>おんがくか</rt><rp>)</rp></ruby>でもある。",
+				"translation": "He is a scientist and  musician.",
+				"originalPhrase": "彼は科学者であると同時に音楽家でもある。"
 			},
 			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>らは<ruby>笑<rp>(</rp><rt>わら</rt><rp>)</rp></ruby>うと<ruby>同時<rp>(</rp><rt>どうじ</rt><rp>)</rp></ruby>に<ruby>泣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>いた。",
@@ -9207,6 +9055,11 @@
 				"originalPhrase": "彼はいくぶん太り気味だ。"
 			},
 			{
+				"phrase": "<ruby>風邪<rp>(</rp><rt>かぜ</rt><rp>)</rp></ruby><ruby>気味<rp>(</rp><rt>ぎみ</rt><rp>)</rp></ruby>",
+				"translation": "feel sick.",
+				"originalPhrase": "風邪気味"
+			},
+			{
 				"phrase": "<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくて<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby><ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れ<ruby>気味<rp>(</rp><rt>ぎみ</rt><rp>)</rp></ruby>だ。",
 				"translation": "Because I am busy with work, nowadays I feel little bit tired .",
 				"originalPhrase": "仕事が忙しくて最近少し疲れ気味だ。"
@@ -9215,11 +9068,6 @@
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby><ruby>太<rp>(</rp><rt>ふと</rt><rp>)</rp></ruby>りぎみなのでジョギングを<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めました。",
 				"translation": "I've taken up jogging because I feel I've gotten a bit heavy recently.",
 				"originalPhrase": "私は最近太りぎみなのでジョギングを始めました。"
-			},
-			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>時計<rp>(</rp><rt>とけい</rt><rp>)</rp></ruby>はおくれぎみなので、<ruby>修理<rp>(</rp><rt>しゅうり</rt><rp>)</rp></ruby>に<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>した。",
-				"translation": "My watch seemed to be running slow , so I took it in to be repaired.",
-				"originalPhrase": "私の時計はおくれぎみなので、修理に出した。"
 			}
 		],
 		"jlpt": "N2",
@@ -9997,49 +9845,6 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
 	},
 	{
-		"point": "うちに",
-		"meaning": {
-			"meaning": "before ... (something bad happens); while ... still (being OK), while (state still continue) and before the state is finished",
-			"example": "暗くならないうちに帰ってきなさい。/ Come home before it gets dark."
-		},
-		"phrases": [
-			{
-				"phrase": "<ruby>暗<rp>(</rp><rt>くら</rt><rp>)</rp></ruby>くならないうちに<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってきなさい。",
-				"translation": "Come home before it gets dark.",
-				"originalPhrase": "暗くならないうちに帰ってきなさい。"
-			},
-			{
-				"phrase": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>らないうちに<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りましょう。",
-				"translation": "Let's go home before it starts to rain. (lit. while it's not yet raining.)",
-				"originalPhrase": "雨が降らないうちに帰りましょう。"
-			},
-			{
-				"phrase": "<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>が<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>いているうちに<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りてはなりません。",
-				"translation": "Do not get off the train while it is in motion.",
-				"originalPhrase": "電車が動いているうちに降りてはなりません。"
-			},
-			{
-				"phrase": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>らないうちに、<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ったほうがいいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>うから、これで、<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します。",
-				"translation": "I think it's best I go before it starts raining, so I'll be leaving now.",
-				"originalPhrase": "雨が降らないうちに、帰ったほうがいいと思うから、これで、失礼します。"
-			},
-			{
-				"phrase": "<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>が<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>なうちに、<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いにいきたいと<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っています。",
-				"translation": "I think I'd like to go and see my mother while she is still healthy.",
-				"originalPhrase": "母が元気なうちに、会いにいきたいと思っています。"
-			}
-		],
-		"jlpt": "N2",
-		"source": "https://takoboto.jp/bunpo/363",
-		"tags": [
-			"grammar::N2"
-		],
-		"id": "363",
-		"noteID": "grammar_363",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N2 / Advanced"
-	},
-	{
 		"point": "に応じて、に応じた",
 		"meaning": {
 			"meaning": "commensurate with, accordance with, depending on",
@@ -10487,7 +10292,7 @@
 			},
 			{
 				"phrase": "<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さん、<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>の<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>は<ruby>抜<rp>(</rp><rt>ぬ</rt><rp>)</rp></ruby>きにして<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しく<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みましょう。",
-				"translation": "Everyone, without talking about work and let's enjoy drinking.",
+				"translation": "Everyone, let's enjoy drinking without talking about work.",
 				"originalPhrase": "皆さん、仕事の話は抜きにして楽しく飲みましょう。"
 			},
 			{

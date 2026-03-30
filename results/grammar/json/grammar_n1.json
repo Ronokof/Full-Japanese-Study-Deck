@@ -16,17 +16,17 @@
 		"phrases": [
 			{
 				"phrase": "<ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>の<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>を<ruby>兼<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ねて<ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby><ruby>見物<rp>(</rp><rt>けんぶつ</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>く",
-				"translation": "I am going to Osaka on business, I'll combine it with  a sightseeing visit to Kyoto.",
+				"translation": "I'll combine  my business trip to Osaka with a sightseeing visit to Kyoto.",
 				"originalPhrase": "大阪の仕事を兼ねて京都見物に行く"
 			},
 			{
 				"phrase": "<ruby>総理<rp>(</rp><rt>そうり</rt><rp>)</rp></ruby><ruby>大臣<rp>(</rp><rt>だいじん</rt><rp>)</rp></ruby>（<ruby>首相<rp>(</rp><rt>しゅしょう</rt><rp>)</rp></ruby>）と<ruby>外務<rp>(</rp><rt>がいむ</rt><rp>)</rp></ruby><ruby>大臣<rp>(</rp><rt>だいじん</rt><rp>)</rp></ruby>（<ruby>外相<rp>(</rp><rt>がいしょう</rt><rp>)</rp></ruby>）とを<ruby>兼<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ねる。",
-				"translation": "He also serves as Prime Minister and Minister of Foreign Affairs.",
+				"translation": "He serves as both  the Prime Minister and  the Minister of Foreign Affairs.",
 				"originalPhrase": "総理大臣（首相）と外務大臣（外相）とを兼ねる。"
 			},
 			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>と<ruby>遊<rp>(</rp><rt>あそ</rt><rp>)</rp></ruby>びを<ruby>兼<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ねている<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>につきたい。",
-				"translation": "I want to get a job that mixes  study and play.",
+				"translation": "I want to get a job that combines  study and play.",
 				"originalPhrase": "私は勉強と遊びを兼ねている仕事につきたい。"
 			},
 			{
@@ -36,7 +36,7 @@
 			},
 			{
 				"phrase": "<ruby>趣味<rp>(</rp><rt>しゅみ</rt><rp>)</rp></ruby>と<ruby>実益<rp>(</rp><rt>じつえき</rt><rp>)</rp></ruby>を<ruby>兼<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ねて<ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>の<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>をしたが、いつの<ruby>間<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>にか、<ruby>通訳<rp>(</rp><rt>つうやく</rt><rp>)</rp></ruby>が<ruby>本業<rp>(</rp><rt>ほんぎょう</rt><rp>)</rp></ruby>になってしまった。",
-				"translation": "Along with personal interest and practical reasons, I studied Japanese. Before I knew it, translation became my main source of income.",
+				"translation": "I studied Japanese as both a hobby and for practical purposes, but before I knew it, translating had become my main job.",
 				"originalPhrase": "趣味と実益を兼ねて日本語の勉強をしたが、いつの間にか、通訳が本業になってしまった。"
 			}
 		],
@@ -61,6 +61,9 @@
 			{
 				"reading": "はいうまでもなく"
 			}
+		],
+		"usages": [
+			"Noun+は言うまでもなく"
 		],
 		"phrases": [
 			{
@@ -92,6 +95,7 @@
 		"jlpt": "N1",
 		"source": "https://takoboto.jp/bunpo/1498",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N1"
 		],
 		"id": "1498",
@@ -108,7 +112,7 @@
 		"phrases": [
 			{
 				"phrase": "この<ruby>天才<rp>(</rp><rt>てんさい</rt><rp>)</rp></ruby>の<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>ですらわからなかった",
-				"translation": "a genius such as myself even didn't understand",
+				"translation": "even  a genius such as myself didn't understand",
 				"originalPhrase": "この天才の私ですらわからなかった"
 			},
 			{
@@ -128,7 +132,7 @@
 			},
 			{
 				"phrase": "これらの<ruby>言葉<rp>(</rp><rt>ことば</rt><rp>)</rp></ruby>ですらいつか<ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えてしまいます。",
-				"translation": "Even these words will someday disappear.",
+				"translation": "Even  these words will someday disappear.",
 				"originalPhrase": "これらの言葉ですらいつか消えてしまいます。"
 			}
 		],
@@ -156,7 +160,7 @@
 			},
 			{
 				"phrase": "あの<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>の<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>かけはいかにもこわそうだが、<ruby>本当<rp>(</rp><rt>ほんとう</rt><rp>)</rp></ruby>はとても<ruby>優<rp>(</rp><rt>やさ</rt><rp>)</rp></ruby>しい<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>です。",
-				"translation": "That guy has a really  frightening look, but in real he is a very kind person.",
+				"translation": "That guy has a really  frightening look, but in reality he is a very kind person.",
 				"originalPhrase": "あの人の見かけはいかにもこわそうだが、本当はとても優しい人です。"
 			},
 			{
@@ -1151,7 +1155,7 @@
 			},
 			{
 				"phrase": "A<ruby>社<rp>(</rp><rt>しゃ</rt><rp>)</rp></ruby>とは<ruby>長年<rp>(</rp><rt>ながねん</rt><rp>)</rp></ruby>の<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>き<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いで、<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>ちつ<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>たれつの<ruby>関係<rp>(</rp><rt>かんけい</rt><rp>)</rp></ruby>にある。",
-				"translation": "We have been working with A company for a long time, so we have a relationship based on give and take.",
+				"translation": "We have been working with company A for a long time, so we have a relationship based on give and take.",
 				"originalPhrase": "A社とは長年の付き合いで、持ちつ持たれつの関係にある。"
 			}
 		],
@@ -1348,6 +1352,9 @@
 			"meaning": "in sharp contrast with; compared to",
 			"example": "The son, in stark contrast to his meticulous father, was slovenly."
 		},
+		"usages": [
+			"Noun+にひきかえ"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>の<ruby>古<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>い<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>にひきかえ<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>のはとても<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>いです。",
@@ -1378,6 +1385,7 @@
 		"jlpt": "N1",
 		"source": "https://takoboto.jp/bunpo/1333",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N1"
 		],
 		"id": "1333",
@@ -1388,13 +1396,16 @@
 	{
 		"point": "でなくては",
 		"meaning": {
-			"meaning": "if not.. then noone",
-			"example": "noone but him can do this"
+			"meaning": "if not.. then no one",
+			"example": "no one but him can do this"
 		},
+		"usages": [
+			"Noun+でなくては+~ない"
+		],
 		"phrases": [
 			{
 				"phrase": "こんなおいしい<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>は<ruby>母親<rp>(</rp><rt>ははおや</rt><rp>)</rp></ruby>でなくては<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>れない。",
-				"translation": "Noone but mother could make this delicious food",
+				"translation": "No one but  mother could make this delicious food",
 				"originalPhrase": "こんなおいしい料理は母親でなくては作れない。"
 			},
 			{
@@ -1421,6 +1432,7 @@
 		"jlpt": "N1",
 		"source": "https://takoboto.jp/bunpo/1484",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N1"
 		],
 		"id": "1484",
@@ -1559,6 +1571,49 @@
 		],
 		"id": "1095",
 		"noteID": "grammar_1095",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N1 / Expert"
+	},
+	{
+		"point": "いかなる〜でも (如何なる〜でも)",
+		"meaning": {
+			"meaning": "whatever ~",
+			"example": "whatever your conclusion, I will accept it."
+		},
+		"phrases": [
+			{
+				"phrase": "いかなる<ruby>意見<rp>(</rp><rt>いけん</rt><rp>)</rp></ruby>でも、<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>き<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れます。",
+				"translation": "whatever your opinion is, i'll accept it",
+				"originalPhrase": "いかなる意見でも、必ず聞き入れます。"
+			},
+			{
+				"phrase": "いかなる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>でも<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ることはできません。",
+				"translation": "Whoever you might be, you can't come in.",
+				"originalPhrase": "いかなる人でも入ることはできません。"
+			},
+			{
+				"phrase": "いかなる<ruby>状況<rp>(</rp><rt>じょうきょう</rt><rp>)</rp></ruby>でも<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>を<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れてはならない。",
+				"translation": "Under no circumstances must you leave the room.",
+				"originalPhrase": "いかなる状況でも部屋を離れてはならない。"
+			},
+			{
+				"phrase": "いかなる<ruby>状況<rp>(</rp><rt>じょうきょう</rt><rp>)</rp></ruby>のもとでも、<ruby>王女<rp>(</rp><rt>おうじょ</rt><rp>)</rp></ruby>が<ruby>王位<rp>(</rp><rt>おうい</rt><rp>)</rp></ruby>を<ruby>継承<rp>(</rp><rt>けいしょう</rt><rp>)</rp></ruby>することはあるまい。",
+				"translation": "Under no circumstances will the princess succeed to the throne.",
+				"originalPhrase": "いかなる状況のもとでも、王女が王位を継承することはあるまい。"
+			},
+			{
+				"phrase": "いつ、いかなる<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>でも。",
+				"translation": "Whenever, wherever I am.",
+				"originalPhrase": "いつ、いかなる時でも。"
+			}
+		],
+		"jlpt": "N1",
+		"source": "https://takoboto.jp/bunpo/1096",
+		"tags": [
+			"grammar::N1"
+		],
+		"id": "1096",
+		"noteID": "grammar_1096",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N1 / Expert"
 	},
@@ -1713,7 +1768,7 @@
 		"phrases": [
 			{
 				"phrase": "これは<ruby>芸術<rp>(</rp><rt>げいじゅつ</rt><rp>)</rp></ruby><ruby>作品<rp>(</rp><rt>さくひん</rt><rp>)</rp></ruby>どころか、<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>るにたえないほどのできだ。",
-				"translation": "This is far from being an artists work, its so bad its hard to look at",
+				"translation": "This is far from being an artist's work, it's so bad it's hard to  look at.",
 				"originalPhrase": "これは芸術作品どころか、見るにたえないほどのできだ。"
 			},
 			{
@@ -2017,49 +2072,6 @@
 		],
 		"id": "944",
 		"noteID": "grammar_944",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N1 / Expert"
-	},
-	{
-		"point": "いかなる〜でも (如何なる〜でも)",
-		"meaning": {
-			"meaning": "whatever ~",
-			"example": "whatever your conclusion, I will accept it."
-		},
-		"phrases": [
-			{
-				"phrase": "いかなる<ruby>意見<rp>(</rp><rt>いけん</rt><rp>)</rp></ruby>でも、<ruby>必<rp>(</rp><rt>かなら</rt><rp>)</rp></ruby>ず<ruby>聞<rp>(</rp><rt>き</rt><rp>)</rp></ruby>き<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れます。",
-				"translation": "whatever your opinion is, i'll accept it",
-				"originalPhrase": "いかなる意見でも、必ず聞き入れます。"
-			},
-			{
-				"phrase": "いかなる<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>でも<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>ることはできません。",
-				"translation": "Whoever you might be, you can't come in.",
-				"originalPhrase": "いかなる人でも入ることはできません。"
-			},
-			{
-				"phrase": "いかなる<ruby>状況<rp>(</rp><rt>じょうきょう</rt><rp>)</rp></ruby>でも<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>を<ruby>離<rp>(</rp><rt>はな</rt><rp>)</rp></ruby>れてはならない。",
-				"translation": "Under no circumstances must you leave the room.",
-				"originalPhrase": "いかなる状況でも部屋を離れてはならない。"
-			},
-			{
-				"phrase": "いかなる<ruby>状況<rp>(</rp><rt>じょうきょう</rt><rp>)</rp></ruby>のもとでも、<ruby>王女<rp>(</rp><rt>おうじょ</rt><rp>)</rp></ruby>が<ruby>王位<rp>(</rp><rt>おうい</rt><rp>)</rp></ruby>を<ruby>継承<rp>(</rp><rt>けいしょう</rt><rp>)</rp></ruby>することはあるまい。",
-				"translation": "Under no circumstances will the princess succeed to the throne.",
-				"originalPhrase": "いかなる状況のもとでも、王女が王位を継承することはあるまい。"
-			},
-			{
-				"phrase": "いつ、いかなる<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>でも。",
-				"translation": "Whenever, wherever I am.",
-				"originalPhrase": "いつ、いかなる時でも。"
-			}
-		],
-		"jlpt": "N1",
-		"source": "https://takoboto.jp/bunpo/1096",
-		"tags": [
-			"grammar::N1"
-		],
-		"id": "1096",
-		"noteID": "grammar_1096",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N1 / Expert"
 	},
@@ -4731,7 +4743,7 @@
 		"phrases": [
 			{
 				"phrase": "<ruby>色々<rp>(</rp><rt>いろいろ</rt><rp>)</rp></ruby>お<ruby>世話<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>になりまして、<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>にたえません",
-				"translation": "you've been so good to me, I really want to thank you",
+				"translation": "You've been so good to me, I really  want to thank you",
 				"originalPhrase": "色々お世話になりまして、感謝にたえません"
 			},
 			{
@@ -5268,7 +5280,7 @@
 		"phrases": [
 			{
 				"phrase": "<ruby>想像<rp>(</rp><rt>そうぞう</rt><rp>)</rp></ruby>だにしなかった",
-				"translation": "I never even imagined it",
+				"translation": "I never even  imagined it",
 				"originalPhrase": "想像だにしなかった"
 			},
 			{

@@ -1168,9 +1168,9 @@
 		},
 		"phrases": [
 			{
-				"phrase": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>のような<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>だったら<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>かった。のに",
-				"translation": "I wish today's weather had been as nice as yesterday's. のに",
-				"originalPhrase": "今日の天気が昨日のような天気だったら良かった。のに"
+				"phrase": "<ruby>今日<rp>(</rp><rt>きょう</rt><rp>)</rp></ruby>の<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>のような<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>だったら<ruby>良<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>かったのに",
+				"translation": "I wish  today's weather had been as nice as yesterday's.",
+				"originalPhrase": "今日の天気が昨日のような天気だったら良かったのに"
 			},
 			{
 				"phrase": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>さえやめばいいのになあ。",
@@ -1813,8 +1813,8 @@
 	{
 		"point": "挙げ句",
 		"meaning": {
-			"meaning": "in the end, after all",
-			"example": "in the end, he ended up in jail"
+			"meaning": "in the end, after all, ended with bad results",
+			"example": "he ended up in jail"
 		},
 		"readings": [
 			{
@@ -1832,7 +1832,7 @@
 			},
 			{
 				"phrase": "<ruby>挙<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>げ<ruby>句<rp>(</rp><rt>く</rt><rp>)</rp></ruby>の<ruby>果<rp>(</rp><rt>は</rt><rp>)</rp></ruby>てに<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>刑務所<rp>(</rp><rt>けいむしょ</rt><rp>)</rp></ruby><ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きになった。",
-				"translation": "In the end he landed up in jail.",
+				"translation": "In the end  he ended up in jail.",
 				"originalPhrase": "挙げ句の果てに彼は刑務所行きになった。"
 			},
 			{

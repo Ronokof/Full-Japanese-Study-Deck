@@ -1,5 +1,60 @@
 [
 	{
+		"point": "〜時",
+		"meaning": {
+			"meaning": "when",
+			"example": "when i was in japan"
+		},
+		"readings": [
+			{
+				"reading": "〜とき"
+			}
+		],
+		"usages": [
+			"Verb (casual)+時+(に)+(は)",
+			"い-adjective+時+(に)+(は)",
+			"な-adjective+な+時+(に)+(は)",
+			"Noun+の+時+(に)+(は)"
+		],
+		"phrases": [
+			{
+				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は<ruby>日本<rp>(</rp><rt>にっぽん</rt><rp>)</rp></ruby>に<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>った<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby><ruby>日本語<rp>(</rp><rt>にほんご</rt><rp>)</rp></ruby>を<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>した",
+				"translation": "When  I was in Japan, I studied Japanese.",
+				"originalPhrase": "私は日本に行った時日本語を勉強した"
+			},
+			{
+				"phrase": "いつでも<ruby>都合<rp>(</rp><rt>つごう</rt><rp>)</rp></ruby>のいい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>にお<ruby>金<rp>(</rp><rt>かね</rt><rp>)</rp></ruby>を<ruby>返<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>してください。",
+				"translation": "Pay me back when it's convenient.",
+				"originalPhrase": "いつでも都合のいい時にお金を返してください。"
+			},
+			{
+				"phrase": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>というときに<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>てきたんだ！",
+				"translation": "How on earth could you make your appearance at a crucial time like this!",
+				"originalPhrase": "何というときに出てきたんだ！"
+			},
+			{
+				"phrase": "<ruby>危険<rp>(</rp><rt>きけん</rt><rp>)</rp></ruby>なとき",
+				"translation": "When in danger",
+				"originalPhrase": "危険なとき"
+			},
+			{
+				"phrase": "<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>のとき",
+				"translation": "During the meeting",
+				"originalPhrase": "会議のとき"
+			}
+		],
+		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/509",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N4"
+		],
+		"id": "509",
+		"noteID": "grammar_509",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
+	},
+	{
 		"point": "前に",
 		"meaning": {
 			"meaning": "before [action]",
@@ -29,6 +84,16 @@
 				"phrase": "<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>ご<ruby>飯<rp>(</rp><rt>はん</rt><rp>)</rp></ruby>を<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べる<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>を<ruby>洗<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>って",
 				"translation": "Wash your hands before eating your breakfast",
 				"originalPhrase": "朝ご飯を食べる前に手を洗って"
+			},
+			{
+				"phrase": "<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>る<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に<ruby>歯<rp>(</rp><rt>は</rt><rp>)</rp></ruby>を<ruby>磨<rp>(</rp><rt>みが</rt><rp>)</rp></ruby>いて、<ruby>顔<rp>(</rp><rt>かお</rt><rp>)</rp></ruby>を<ruby>洗<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>って、<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みます。",
+				"translation": "Before going to sleep l, I will brush my teeth, wash my face, and drink water.",
+				"originalPhrase": "寝る前に歯を磨いて、顔を洗って、水を飲みます。"
+			},
+			{
+				"phrase": "<ruby>送信<rp>(</rp><rt>そうしん</rt><rp>)</rp></ruby>する<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>にファイルを<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>しました。",
+				"translation": "I reviewed the file before sending it.",
+				"originalPhrase": "送信する前にファイルを確認しました。"
 			}
 		],
 		"jlpt": "N4",
@@ -111,9 +176,9 @@
 				"originalPhrase": "それをください。"
 			},
 			{
-				"phrase": "みせてください。",
-				"translation": "Please show me.",
-				"originalPhrase": "みせてください。"
+				"phrase": "<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>せてください。",
+				"translation": "Please  show me.",
+				"originalPhrase": "見せてください。"
 			},
 			{
 				"phrase": "あの<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>が<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われる<ruby>事<rp>(</rp><rt>こと</rt><rp>)</rp></ruby>を、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>でもしてあげてください。",
@@ -139,56 +204,6 @@
 		],
 		"id": "577",
 		"noteID": "grammar_577",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
-	},
-	{
-		"point": "ばかり",
-		"meaning": {
-			"meaning": "just (just recently) / nothing but",
-			"example": "I just bought it / you do nothing but play around"
-		},
-		"usages": [
-			"Verb casual past た-form+ばかり",
-			"Verb て-form+ばかり",
-			"Verb dictionary form+ばかり",
-			"Noun+ばかり"
-		],
-		"phrases": [
-			{
-				"phrase": "その<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったばかりだ。",
-				"translation": "I just bought that book",
-				"originalPhrase": "その本を買ったばかりだ。"
-			},
-			{
-				"phrase": "<ruby>昨日<rp>(</rp><rt>きのう</rt><rp>)</rp></ruby>アメリカから<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ってきたばかりなんです。",
-				"translation": "I just  got back from America yesterday.",
-				"originalPhrase": "昨日アメリカから帰ってきたばかりなんです。"
-			},
-			{
-				"phrase": "５０００<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ばかりもっている。",
-				"translation": "I have just 5,000 yen.",
-				"originalPhrase": "５０００円ばかりもっている。"
-			},
-			{
-				"phrase": "あなたはいつも<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>のあら<ruby>捜<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しばかりしている。",
-				"translation": "You do nothing but find fault with me.",
-				"originalPhrase": "あなたはいつも私のあら捜しばかりしている。"
-			},
-			{
-				"phrase": "あなたは<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby><ruby>度<rp>(</rp><rt>ど</rt><rp>)</rp></ruby>も<ruby>同<rp>(</rp><rt>おな</rt><rp>)</rp></ruby>じ<ruby>誤<rp>(</rp><rt>あやま</rt><rp>)</rp></ruby>りばかりしている。",
-				"translation": "You're just making the same mistake time after time.",
-				"originalPhrase": "あなたは何度も同じ誤りばかりしている。"
-			}
-		],
-		"jlpt": "N4",
-		"source": "https://takoboto.jp/bunpo/1485",
-		"tags": [
-			"grammar::has_usages",
-			"grammar::N4"
-		],
-		"id": "1485",
-		"noteID": "grammar_1485",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
 	},
@@ -474,54 +489,6 @@
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
 	},
 	{
-		"point": "たり する　form",
-		"meaning": {
-			"meaning": "doing things like V+ing",
-			"example": "Yesterday I did things like watching tv and playing video games."
-		},
-		"readings": [
-			{
-				"reading": "V stem+たり"
-			}
-		],
-		"phrases": [
-			{
-				"phrase": "<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んだり、<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたり、<ruby>歌<rp>(</rp><rt>うた</rt><rp>)</rp></ruby>ったり、ダンスをしたり、<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>いに<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しみました。",
-				"translation": "We drank, ate, sung, danced - we generally had one big fun time!",
-				"originalPhrase": "飲んだり、食べたり、歌ったり、ダンスをしたり、大いに楽しみました。"
-			},
-			{
-				"phrase": "パーティーで<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んだり, <ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたり, <ruby>踊<rp>(</rp><rt>おど</rt><rp>)</rp></ruby>ったりした。",
-				"translation": "We did things like drinking, eating and dancing at the party.",
-				"originalPhrase": "パーティーで飲んだり, 食べたり, 踊ったりした。"
-			},
-			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby><ruby>達<rp>(</rp><rt>たち</rt><rp>)</rp></ruby>は, <ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に<ruby>誉<rp>(</rp><rt>ほ</rt><rp>)</rp></ruby>められたり, <ruby>叱<rp>(</rp><rt>しか</rt><rp>)</rp></ruby>られたりします。",
-				"translation": "Sometimes we are praised and sometimes scolded by our teachers.",
-				"originalPhrase": "私達は, 先生に誉められたり, 叱られたりします。"
-			},
-			{
-				"phrase": "<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>には, <ruby>登山<rp>(</rp><rt>とざん</rt><rp>)</rp></ruby>したりする。",
-				"translation": "In summer I do things like mountain climbing.",
-				"originalPhrase": "夏には, 登山したりする。"
-			},
-			{
-				"phrase": "<ruby>私<rp>(</rp><rt>わたし</rt><rp>)</rp></ruby>は, <ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>コーヒーを<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んだり, <ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>まなかったりする。",
-				"translation": "Sometimes I drink coffee in the morning and sometimes I don't.",
-				"originalPhrase": "私は, 朝コーヒーを飲んだり, 飲まなかったりする。"
-			}
-		],
-		"jlpt": "N4",
-		"source": "https://takoboto.jp/bunpo/1100",
-		"tags": [
-			"grammar::N4"
-		],
-		"id": "1100",
-		"noteID": "grammar_1100",
-		"noteTypeName": "FJSD-Grammar",
-		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
-	},
-	{
 		"point": "そう",
 		"meaning": {
 			"meaning": "Looks like",
@@ -690,7 +657,7 @@
 			},
 			{
 				"phrase": "<ruby>林檎<rp>(</rp><rt>りんご</rt><rp>)</rp></ruby>は<ruby>緑<rp>(</rp><rt>みどり</rt><rp>)</rp></ruby>です。",
-				"translation": "The apple is green.",
+				"translation": "The apple is  green.",
 				"originalPhrase": "林檎は緑です。"
 			},
 			{
@@ -720,6 +687,9 @@
 			"meaning": "since",
 			"example": "since this is secret"
 		},
+		"usages": [
+			"N/なadj+なので"
+		],
 		"phrases": [
 			{
 				"phrase": "この<ruby>情報<rp>(</rp><rt>じょうほう</rt><rp>)</rp></ruby>は<ruby>内々<rp>(</rp><rt>うちうち</rt><rp>)</rp></ruby>に<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らされたものなので、あなたに<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>も<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えることはできない",
@@ -750,10 +720,58 @@
 		"jlpt": "N4",
 		"source": "https://takoboto.jp/bunpo/1248",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1248",
 		"noteID": "grammar_1248",
+		"noteTypeName": "FJSD-Grammar",
+		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
+	},
+	{
+		"point": "にくい",
+		"meaning": {
+			"meaning": "Is difficult to do",
+			"example": "He's difficult to understand, isn't he?"
+		},
+		"usages": [
+			"Verb ます-stem+にくい"
+		],
+		"phrases": [
+			{
+				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>分<rp>(</rp><rt>わ</rt><rp>)</rp></ruby>かりにくいでしょうかなぁ？",
+				"translation": "He's difficult to understand,isn't he?",
+				"originalPhrase": "彼は分かりにくいでしょうかなぁ？"
+			},
+			{
+				"phrase": "<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べにくい<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>がきらいだ。",
+				"translation": "I don't like foods difficult to eat.",
+				"originalPhrase": "食べにくい食べ物がきらいだ。"
+			},
+			{
+				"phrase": "このめずらしい<ruby>切手<rp>(</rp><rt>きって</rt><rp>)</rp></ruby>は<ruby>手<rp>(</rp><rt>て</rt><rp>)</rp></ruby>にはいりにくいんだよ。",
+				"translation": "This rare stamp is hard to come by.",
+				"originalPhrase": "このめずらしい切手は手にはいりにくいんだよ。"
+			},
+			{
+				"phrase": "タイガーティの<ruby>説明<rp>(</rp><rt>せつめい</rt><rp>)</rp></ruby>はとてもわかりにくいですね｡",
+				"translation": "tigert`s explanation is very difficult to understand.",
+				"originalPhrase": "タイガーティの説明はとてもわかりにくいですね｡"
+			},
+			{
+				"phrase": "<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>での<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>みにくいです。",
+				"translation": "It's hard to read the book in English.",
+				"originalPhrase": "英語での本を読みにくいです。"
+			}
+		],
+		"jlpt": "N4",
+		"source": "https://takoboto.jp/bunpo/1408",
+		"tags": [
+			"grammar::has_usages",
+			"grammar::N4"
+		],
+		"id": "1408",
+		"noteID": "grammar_1408",
 		"noteTypeName": "FJSD-Grammar",
 		"deckPath": "Full Japanese Study Deck [JLPT N5~N1 vocab/kanji + common vocab and kanji + grammar]::2. Grammar::N4 / Beginner"
 	},
@@ -763,6 +781,9 @@
 			"meaning": "and etc.",
 			"example": "and so on"
 		},
+		"usages": [
+			"Noun+など"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>彼<rp>(</rp><rt>かれ</rt><rp>)</rp></ruby>は<ruby>失敗<rp>(</rp><rt>しっぱい</rt><rp>)</rp></ruby>などしないと<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>う。",
@@ -793,6 +814,7 @@
 		"jlpt": "N4",
 		"source": "https://takoboto.jp/bunpo/1313",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "1313",
@@ -892,6 +914,9 @@
 			"meaning": "but, however",
 			"example": "It rained, but everybody enjoyed themselves."
 		},
+		"usages": [
+			"Sentence 1+けれども+Sentence 2"
+		],
 		"phrases": [
 			{
 				"phrase": "<ruby>雨<rp>(</rp><rt>あめ</rt><rp>)</rp></ruby>が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っていたけれども、みんなは<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しい<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>を<ruby>過<rp>(</rp><rt>す</rt><rp>)</rp></ruby>ごした。",
@@ -922,6 +947,7 @@
 		"jlpt": "N4",
 		"source": "https://takoboto.jp/bunpo/724",
 		"tags": [
+			"grammar::has_usages",
 			"grammar::N4"
 		],
 		"id": "724",
