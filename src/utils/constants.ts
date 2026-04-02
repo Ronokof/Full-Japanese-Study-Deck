@@ -26,32 +26,32 @@ export const subDeckNames: SubDeckNames = {
     katakanaExtended: "Katakana extended",
   },
   jlpt: {
-    _: "1. JLPT / Core",
+    _: "1. Core 10k / JLPT",
     kanji: {
       _: "Kanji",
-      n5: "N5 / Starter",
-      n4: "N4 / Beginner",
-      n3: "N3 / Intermediate",
-      n2: "N2 / Advanced",
-      n1: "N1 / Expert",
+      n5: "A. Starter / N5",
+      n4: "B. Beginner / N4",
+      n3: "C. Intermediate / N3",
+      n2: "D. Advanced / N2",
+      n1: "E. Expert / N1",
     },
     vocab: {
       _: "Vocab",
-      n5: "N5 / Starter",
-      n4: "N4 / Beginner",
-      n3: "N3 / Intermediate",
-      n2: "N2 / Advanced",
-      n1: "N1 / Expert",
+      n5: "A. Starter / N5",
+      n4: "B. Beginner / N4",
+      n3: "C. Intermediate / N3",
+      n2: "D. Advanced / N2",
+      n1: "E. Expert / N1",
     },
   },
   grammar: {
     _: "2. Grammar",
-    n5: "N5 / Starter",
-    n4: "N4 / Beginner",
-    n3: "N3 / Intermediate",
-    n2: "N2 / Advanced",
-    n1: "N1 / Expert",
-    additional: "Additional",
+    n5: "A. Starter / N5",
+    n4: "B. Beginner / N4",
+    n3: "C. Intermediate / N3",
+    n2: "D. Advanced / N2",
+    n1: "E. Expert / N1",
+    additional: "F. Additional",
   },
   radicals: { _: "3. Kanji radicals (reference)" },
   kanaWords: { _: "4. Vocab with no kanji (mining/reference)" },
@@ -95,30 +95,30 @@ export const dictsNames: {
 
 export const dicts: {
   jmDict?:
-    | {
-        array: readonly DictWord[];
-        idEntryMap: WordIDEntryMap;
-        kanjiWordsMap: KanjiWordsMap;
-      }
-    | undefined;
+  | {
+    array: readonly DictWord[];
+    idEntryMap: WordIDEntryMap;
+    kanjiWordsMap: KanjiWordsMap;
+  }
+  | undefined;
   kanjiDic?:
-    | {
-        array: readonly DictKanji[];
-        kanjiEntryMap: KanjiEntryMap;
-      }
-    | undefined;
+  | {
+    array: readonly DictKanji[];
+    kanjiEntryMap: KanjiEntryMap;
+  }
+  | undefined;
   tanakaCorpus?:
-    | {
-        array: readonly TanakaExample[];
-        wordExamplesMap: EntryExamplesMap;
-      }
-    | undefined;
+  | {
+    array: readonly TanakaExample[];
+    wordExamplesMap: EntryExamplesMap;
+  }
+  | undefined;
   wordDefs?:
-    | {
-        array: readonly WordDefinitionPair[];
-        wordDefinitionsMap: WordDefinitionsMap;
-      }
-    | undefined;
+  | {
+    array: readonly WordDefinitionPair[];
+    wordDefinitionsMap: WordDefinitionsMap;
+  }
+  | undefined;
   svg_list?: { array: readonly string[]; kanjiSVGMap: KanjiSVGMap } | undefined;
 } = {};
 
