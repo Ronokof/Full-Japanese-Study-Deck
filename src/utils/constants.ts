@@ -95,30 +95,30 @@ export const dictsNames: {
 
 export const dicts: {
   jmDict?:
-  | {
-    array: readonly DictWord[];
-    idEntryMap: WordIDEntryMap;
-    kanjiWordsMap: KanjiWordsMap;
-  }
-  | undefined;
+    | {
+        array: readonly DictWord[];
+        idEntryMap: WordIDEntryMap;
+        kanjiWordsMap: KanjiWordsMap;
+      }
+    | undefined;
   kanjiDic?:
-  | {
-    array: readonly DictKanji[];
-    kanjiEntryMap: KanjiEntryMap;
-  }
-  | undefined;
+    | {
+        array: readonly DictKanji[];
+        kanjiEntryMap: KanjiEntryMap;
+      }
+    | undefined;
   tanakaCorpus?:
-  | {
-    array: readonly TanakaExample[];
-    wordExamplesMap: EntryExamplesMap;
-  }
-  | undefined;
+    | {
+        array: readonly TanakaExample[];
+        wordExamplesMap: EntryExamplesMap;
+      }
+    | undefined;
   wordDefs?:
-  | {
-    array: readonly WordDefinitionPair[];
-    wordDefinitionsMap: WordDefinitionsMap;
-  }
-  | undefined;
+    | {
+        array: readonly WordDefinitionPair[];
+        wordDefinitionsMap: WordDefinitionsMap;
+      }
+    | undefined;
   svg_list?: { array: readonly string[]; kanjiSVGMap: KanjiSVGMap } | undefined;
 } = {};
 
