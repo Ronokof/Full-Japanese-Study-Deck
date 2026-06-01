@@ -1,0 +1,260 @@
+:root {
+    --bg: #050505;
+    --bg-gloss: radial-gradient(circle at top, rgba(255, 255, 255, 0.08), transparent 40%);
+    --text-main: #f5f5f5;
+    --text-sub: #a1a1a1;
+    --accent: #ff2f92;
+    --accent-2: #00ffd5;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: var(--bg);
+    background-image: var(--bg-gloss);
+    color: var(--text-main);
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.logo {
+    font-weight: 800;
+    font-size: 1.2rem;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+}
+
+.tabs {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.tab {
+    padding: 0.45rem 0.9rem;
+    font-size: 0.85rem;
+    border-radius: 999px;
+    border: 1px solid #2a2a2a;
+    color: var(--text-sub);
+    cursor: default;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.tab:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+}
+
+.header-right {
+    display: flex;
+    gap: 1.2rem;
+    font-size: 1.2rem;
+}
+
+.header-right a {
+    color: var(--text-sub);
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.header-right a:hover {
+    color: var(--accent-2);
+    transform: translateY(-2px);
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    padding: 3rem 1.2rem 4rem;
+}
+
+.content {
+    max-width: 900px;
+    width: 100%;
+}
+
+.content h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+
+.content h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 2.2rem;
+    margin-bottom: 0.6rem;
+}
+
+.content ul {
+    list-style: disc;
+    padding-left: 1.4rem;
+    color: var(--text-sub);
+}
+
+.content li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+.content a {
+    color: var(--accent-2);
+    text-decoration: none;
+    border-bottom: 1px dashed rgba(0, 255, 213, 0.4);
+}
+
+.content a:hover {
+    border-bottom-style: solid;
+}
+
+.info {
+    position: relative;
+    display: inline-block;
+    margin-left: 0.25rem;
+    color: var(--accent-2);
+    cursor: help;
+}
+
+.info i {
+    font-size: 0.85em;
+}
+
+.info .tooltip {
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    bottom: 140%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #0e0e0e;
+    color: var(--text-sub);
+    padding: 0.6rem 0.75rem;
+    border-radius: 0.6rem;
+    border: 1px solid #2a2a2a;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    white-space: nowrap;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+    z-index: 10;
+}
+
+.info:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.card-previews-section {
+    margin-top: 5rem;
+}
+
+.card-previews-header {
+    margin-bottom: 0.8rem;
+}
+
+table.preview-table {
+    width: 100%;
+    margin-top: 3rem;
+    border-collapse: collapse;
+}
+
+table.preview-table th {
+    text-align: left;
+    font-size: 1.1rem;
+    padding: 1.2rem 1rem;
+    width: 25%;
+    vertical-align: middle;
+    border-top: 1px solid #2a2a2a;
+}
+
+table.preview-table td {
+    padding: 1.2rem 1rem;
+    border-top: 1px solid #2a2a2a;
+}
+
+.preview-img-wrapper {
+    width: 100%;
+    max-width: 50%;
+    max-height: 50%;
+    overflow: hidden;
+    border-radius: 0.8rem;
+    border: 1px solid #2a2a2a;
+    background: #0c0c0c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.preview-img-wrapper img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: scale-down;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.8rem;
+    color: var(--text-sub);
+}
+
+@media (max-width: 600px) {
+    header {
+        padding: 1.2rem 1rem;
+    }
+
+    .header-right {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .tabs {
+        width: 100%;
+    }
+
+    main {
+        padding-top: 2rem;
+    }
+
+    .content h2 {
+        font-size: 1.5rem;
+    }
+
+    table.preview-table th,
+    table.preview-table td {
+        display: block;
+        width: 100%;
+    }
+
+    table.preview-table th {
+        padding-bottom: 0.4rem;
+    }
+
+    table.preview-table td {
+        padding-top: 0.4rem;
+    }
+}

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{ page.pagetitle | default: site.title }}</title>
+  <meta charset="UTF-8" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles/{{ page.pgname }}.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" as="style"
+    onload="this.rel='stylesheet'">
+  <noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  </noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" as="style"
+    onload="this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  </noscript>
+  <style>
+    :root {
+      --cookie-banner-height: 0px;
+    }
+
+    #cookieConsent {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 9999;
+      box-sizing: border-box;
+      background: #222;
+      color: #fff;
+      padding: 12px 16px;
+      padding-bottom: calc(12px + env(safe-area-inset-bottom));
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 -6px 18px rgba(0, 0, 0, 0.25);
+    }
+
+    @supports (padding-bottom: constant(safe-area-inset-bottom)) {
+      #cookieConsent {
+        padding-bottom: calc(12px + constant(safe-area-inset-bottom));
+      }
+    }
+
+    #consent-div {
+      display: flex;
+      gap: 8px;
+    }
+
+    #cookieConsent button {
+      padding: 8px 12px;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+    }
+
+    #btn-accept {
+      background: #0a84ff;
+      color: white;
+    }
+
+    #btn-reject {
+      background: transparent;
+      color: #ddd;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+  </style>
+  <link rel="icon" type="image/x-icon" href="{{ site.url }}/favicon.ico" />
+  <meta name="application-name" content="{{ site.title }}" />
+  <meta name="author" content="{{ site.author }}" />
+  <meta name="description" content="{{ site.ogdescription }}" />
+  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="robots" content="index, follow" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ site.title }}{{ page.ogsuffix }}" />
+  <meta property="og:description" content="{{ site.ogdescription }}" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.bannerpath }}" />
+  <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}{{ site.bannerpath }}" />
+  <meta property="og:image:alt" content="{{ site.title }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@{{ site.titleabbr }}" />
+  <meta name="twitter:title" content="{{ site.title }}{{ page.ogsuffix }}" />
+  <meta name="twitter:description" content="{{ site.ogdescription }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.bannerpath }}" />
+  <meta name="twitter:image:alt" content="{{ site.title }}" />
+  <meta name="google-site-verification" content="{{ site.googlesearchkey }}" />
+</head>
+
+<body>
+  {% include header.html %}
+  <main>
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script>
+    const KEY = 'cookieConsentStatus';
+    const banner = document.getElementById('cookieConsent');
+
+    function setBodyPaddingForBanner() {
+      const h = banner.offsetHeight || 0;
+      document.documentElement.style.setProperty('--cookie-banner-height', h + 'px');
+      document.body.style.paddingBottom = h + 'px';
+    }
+
+    function hideBanner() {
+      banner.style.display = 'none';
+      document.body.style.paddingBottom = '';
+    }
+
+    function showBanner() {
+      banner.style.display = 'flex';
+      requestAnimationFrame(setBodyPaddingForBanner);
+    }
+
+    function injectTrackingScript() {
+      if (window.__gaInjected) return;
+      window.__gaInjected = true;
+      const gaScript = document.createElement('script');
+      gaScript.src = "https://www.googletagmanager.com/gtag/js?id={{ site.googleanalyticsid }}";
+      gaScript.async = true;
+      document.head.appendChild(gaScript);
+      gaScript.onload = function () {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', '{{ site.googleanalyticsid }}');
+      };
+    }
+
+    function setConsent(status) {
+      localStorage.setItem(KEY, status);
+      if (status === 'accepted') injectTrackingScript();
+      hideBanner();
+    }
+
+    document.getElementById('btn-accept').addEventListener('click', () => setConsent('accepted'));
+    document.getElementById('btn-reject').addEventListener('click', () => setConsent('rejected'));
+
+    const saved = localStorage.getItem(KEY);
+    if (saved === 'accepted') {
+      injectTrackingScript();
+      hideBanner();
+    } else if (saved === 'rejected') hideBanner();
+    else showBanner();
+
+    window.addEventListener('resize', setBodyPaddingForBanner);
+    window.addEventListener('orientationchange', setBodyPaddingForBanner);
+
+    window.addEventListener('focusin', setBodyPaddingForBanner);
+    window.addEventListener('focusout', setBodyPaddingForBanner);
+
+    window.addEventListener('load', () => setTimeout(setBodyPaddingForBanner, 50));
+  </script>
+
+</body>
+
+</html>

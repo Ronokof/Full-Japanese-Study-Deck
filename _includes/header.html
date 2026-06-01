@@ -1,0 +1,32 @@
+<header>
+    <div class="header-left">
+      <div class="logo">{{ site.title }}</div>
+      <div class="tabs">
+        <a target="_self" href="{{ site.baseurl }}/">
+          <div class="tab">Home</div>
+        </a>
+        <a target="_self" href="{{ site.baseurl }}/guide/">
+          <div class="tab">How to Use</div>
+        </a>
+        <a target="_self" href="{{ site.baseurl }}/updating/">
+          <div class="tab">Updating</div>
+        </a>
+        <a target="_self" href="{{ site.baseurl }}/contents/">
+          <div class="tab">Deck Contents</div>
+        </a>
+        <a target="_self" href="{{ site.baseurl }}/sources/">
+          <div class="tab">Credits</div>
+        </a>
+        <a target="_blank"
+          href="https://github.com/{{ site.author }}{{ site.baseurl }}/releases/latest/download/notes.tar.gz">
+          <div class="tab">Download Raw Notes</div>
+        </a>
+      </div>
+    </div>
+    </div>
+    <div class="header-right">
+      <a target="_blank" href="https://github.com/{{ site.author }}{{ site.baseurl }}" aria-label="GitHub"><i
+          class="fab fa-github"></i></a>
+      <a href="mailto:{{ site.email }}" aria-label="Email"><i class="fas fa-envelope"></i></a>
+    </div>
+  </header>
