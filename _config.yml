@@ -24,13 +24,13 @@ grammarpath: "/assets/grammar.png"
 # Anki deck entries count
 kana: "142"
 kanaextended: "230"
-corevocab: "10,013"
+corevocab: "10,012"
 corekanji: "2,216"
 grammar: "644"
 radicals: "261"
-kanaonlywords: "5,810"
+kanaonlywords: "5,822"
 extrakanji: "558"
-extrakanjiwords: "28,192"
+extrakanjiwords: "28,229"
 
 # Anki deck info
 deckversion: "10.2"
