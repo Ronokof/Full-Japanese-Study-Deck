@@ -1,6 +1,6 @@
 {
   "name": "full-japanese-study-deck",
-  "version": "10.2.4",
+  "version": "10.2.5",
   "description": "Full Japanese Study Deck + Raw Notes + Deck Builder",
   "keywords": [
     "fjsd",
@@ -19,17 +19,17 @@
   ],
   "license": "SEE LICENSE IN LICENSE.md",
   "author": {
-    "name": "Ronokof",
-    "email": "ronokoffjsd@gmail.com"
+    "name": "skadro",
+    "email": "skadro21@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ronokof/Full-Japanese-Study-Deck.git"
+    "url": "git+https://github.com/Skadro/Full-Japanese-Study-Deck.git"
   },
-  "homepage": "https://github.com/Ronokof/Full-Japanese-Study-Deck",
+  "homepage": "https://github.com/Skadro/Full-Japanese-Study-Deck",
   "bugs": {
-    "url": "https://github.com/Ronokof/Full-Japanese-Study-Deck/issues",
-    "email": "ronokoffjsd@gmail.com"
+    "url": "https://github.com/Skadro/Full-Japanese-Study-Deck/issues",
+    "email": "skadro21@gmail.com"
   },
   "main": "./src/index.ts",
   "scripts": {
@@ -42,7 +42,7 @@
   "dependencies": {
     "@aws-sdk/client-polly": "^3.1101.0",
     "dotenv": "^17.4.2",
-    "henkan": "^3.0.6"
+    "henkan": "^3.0.7"
   },
   "devDependencies": {
     "@types/node": "^24.13.3",

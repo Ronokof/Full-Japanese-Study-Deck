@@ -3,13 +3,13 @@ description: Report a problem with the deck or the deck builder.
 title: "[SHORT DESCRIPTION]"
 labels: ["bug"]
 assignees:
-  - Ronokof
+  - Skadro
 body:
   - type: markdown
     id: security_vulnerability
     attributes:
       value: |
-        If you are looking to report a security vulnerability, check [Security Policy](https://github.com/Ronokof/Full-Japanese-Study-Deck/security/policy)!
+        If you are looking to report a security vulnerability, check [Security Policy](https://github.com/Skadro/Full-Japanese-Study-Deck/security/policy)!
   - type: textarea
     id: issue_description
     attributes:
@@ -86,7 +86,7 @@ body:
     id: issue_valid
     attributes:
       label: Is this issue valid?
-      description: "You have read and understood the [CONTRIBUTING.md](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CODE_OF_CONDUCT.md) and [Security Policy](https://github.com/Ronokof/Full-Japanese-Study-Deck/security/policy), and believe this issue is valid?" 
+      description: "You have read and understood the [CONTRIBUTING.md](https://github.com/Skadro/Full-Japanese-Study-Deck/blob/main/CONTRIBUTING.md), [CODE_OF_CONDUCT.md](https://github.com/Skadro/Full-Japanese-Study-Deck/blob/main/CODE_OF_CONDUCT.md) and [Security Policy](https://github.com/Skadro/Full-Japanese-Study-Deck/security/policy), and believe this issue is valid?" 
       options:
         - label: I agree
           required: true

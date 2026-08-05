@@ -34,7 +34,7 @@ First off, thank you for even thinking about contributing! Whether you’re fixi
   - If your request involves code changes, note or note type changes, submit a PR instead of opening an issue (see [Submitting Pull Requests](#submitting-pull-requests)).
 
 ### **Security vulnerabilities**
-  - See [Security Policy](https://github.com/Ronokof/Full-Japanese-Study-Deck/security/policy).
+  - See [Security Policy](https://github.com/Skadro/Full-Japanese-Study-Deck/security/policy).
 
 ---
 
@@ -55,9 +55,9 @@ First off, thank you for even thinking about contributing! Whether you’re fixi
 ---
 
 ## Discussion & Support
-  - For complex questions or roadmap ideas, use [Discussions](https://github.com/Ronokof/Full-Japanese-Study-Deck/discussions).
+  - For complex questions or roadmap ideas, use [Discussions](https://github.com/Skadro/Full-Japanese-Study-Deck/discussions).
   - General Anki usage or language immersion tips belong on [Anki Forums](https://forums.ankiweb.net/) or [r/LearnJapanese](https://www.reddit.com/r/LearnJapanese/). Keep this repository focused only on the deck and the deck builder.
 
 ## License & Code of Conduct
-  - By contributing, you agree that your work will be licensed under and must comply with this repository’s [LICENSE.md](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/LICENSE.md).
-  - Please also respect the [Code of Conduct](https://github.com/Ronokof/Full-Japanese-Study-Deck/blob/main/CODE_OF_CONDUCT.md).
+  - By contributing, you agree that your work will be licensed under and must comply with this repository’s [LICENSE.md](https://github.com/Skadro/Full-Japanese-Study-Deck/blob/main/LICENSE.md).
+  - Please also respect the [Code of Conduct](https://github.com/Skadro/Full-Japanese-Study-Deck/blob/main/CODE_OF_CONDUCT.md).
