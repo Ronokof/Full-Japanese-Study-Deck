@@ -1,17 +1,17 @@
 title: Full Japanese Study Deck
 baseurl: "/Full-Japanese-Study-Deck"
-url: "https://ronokof.github.io"
+url: "https://skadro.github.io"
 
 # Site info
 titleabbr: "FJSD"
 ogdescription: "A Comprehensive Anki Deck Covering Kana, Core & JLPT Vocabulary, Kanji & Grammar + Extra Vocab/Kanji"
 keywords: "fjsd, japanese, japanese-language, japanese-learning, anki-cards, anki-deck, anki, katakana, hiragana, kana, kanji, japanese-grammar, jlpt, core, henkan"
-author: "Ronokof"
-email: "ronokoffjsd@gmail.com"
+author: "Skadro"
+email: "skadro21@gmail.com"
 
 # Google info
-googlesearchkey: "83Fd3Sc9pWlvuRTKwxjKfSBHmYhaM5rCMX9Yxen8oIg"
-googleanalyticsid: "G-1VTT4LZ48H"
+googlesearchkey: "WJaP_aZzBEGi-G-k4IC6PSAYZHZohEQCEVko6IavZZo"
+googleanalyticsid: "G-30H1JKS7F1"
 
 # Asset paths
 bannerpath: "/assets/fjsd.png"
@@ -30,7 +30,7 @@ grammar: "644"
 radicals: "261"
 kanaonlywords: "5,822"
 extrakanji: "558"
-extrakanjiwords: "28,229"
+extrakanjiwords: "28,232"
 
 # Anki deck info
 deckversion: "10.2"
