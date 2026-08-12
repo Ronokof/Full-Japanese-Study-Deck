@@ -71,7 +71,8 @@
       border: 1px solid rgba(255, 255, 255, 0.08);
     }
   </style>
-  <link rel="icon" type="image/x-icon" href="{{ site.url }}/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico" />
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}">
   <meta name="application-name" content="{{ site.title }}" />
   <meta name="author" content="{{ site.author }}" />
   <meta name="description" content="{{ site.ogdescription }}" />
@@ -81,7 +82,7 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{{ site.title }}{{ page.ogsuffix }}" />
   <meta property="og:description" content="{{ site.ogdescription }}" />
-  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}" />
   <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.bannerpath }}" />
   <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}{{ site.bannerpath }}" />
   <meta property="og:image:alt" content="{{ site.title }}" />
